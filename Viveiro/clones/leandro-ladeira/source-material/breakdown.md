@@ -226,4 +226,3 @@ Isso é raro. E é o que faz esse breakdown valer a pena.
 ---
 
 *Breakdown Squad — Gwern (pesquisa) + Naval (padrões) + Peterson (síntese)*
-*Output gerado em: C:\Users\nicol\Breakdow\output\breakdowns\leandro-ladeira\*

@@ -1,0 +1,227 @@
+# 18. A incerteza dos fajutos
+
+Paginas: 319-325
+
+18. A incerteza dos fajutos
+Filósofos nos lugares errados — Incerteza sobre (principalmente) o almoço — Com o
+que não me importo — Educação e inteligência
+Este derradeiro capítulo da parte  concentra-se em uma importante
+ramiﬁcação da falácia lúdica: como aqueles cujo trabalho é nos tornar conscientes
+com relação à incerteza nos decepcionam e nos desviam pela porta dos fundos
+em direção a certezas fajutas.
+FALÁCIA LÚDICA, REVISITADA
+Expliquei a falácia lúdica com a história do cassino e insisti que a
+aleatoriedade esterilizada dos jogos não se assemelha à aleatoriedade da vida real.
+Observe novamente a ﬁgura 7 no capítulo 15. Os dados perfazem uma média tão
+rapidamente que posso aﬁrmar com certeza que o cassino ganhará de mim no
+longo prazo muito próximo, digamos, na roleta, pois o ruído será anulado,
+embora não as habilidades (aqui, a vantagem do cassino). Quanto mais se estende
+o período (ou se reduz o tamanho das apostas), mais a aleatoriedade, em virtude
+da média, se retira desses constructos de jogatina.
+A falácia lúdica está presente nas seguintes conﬁgurações fortuitas: passeio
+aleatório, lance de dados, cara ou coroa com moeda, o infame “cara ou coroa”
+digital expresso como 0 ou 1, movimento browniano (que corresponde ao
+movimento de partículas de pólen na água) e exemplos semelhantes. Essas
+conﬁgurações geram uma qualidade de aleatoriedade que sequer se qualiﬁca
+como aleatoriedade — protoaleatoriedade seria uma designação mais apropriada.
+Em sua essência, todas as teorias construídas em torno da falácia lúdica ignoram
+uma camada de incerteza. Pior ainda, seus adeptos não sabem disso!
+
+Uma aplicação rigorosa desse foco na pequena incerteza, em oposição à
+grande incerteza, diz respeito ao trivial princípio maior da incerteza.
+Encontre os fajutos
+O princípio maior da incerteza assevera que, na física quântica, não é possível
+medir certos pares de valores (com precisão arbitrária), tais como posição e
+momento das partículas. Você atingirá um limite inferior de medição: o que você
+ganha na precisão de um, perde no outro. Portanto, há uma incerteza
+incomprimível que, em teoria, desaﬁará a ciência e permanecerá para sempre
+uma incerteza. Essa incerteza mínima foi descoberta por Werner Heisenberg em
+1927. Acho ridículo apresentar o princípio da incerteza como se tivesse algo a ver
+com incerteza. Por quê? Para começo de conversa, essa incerteza é gaussiana. Em
+média, ela desaparecerá — lembre-se de que o peso de nenhuma pessoa, isolado,
+pode alterar signiﬁcativamente o peso total de mil pessoas. Pode ser que
+continuemos para sempre incertos quanto às posições futuras de partículas
+diminutas, mas essas incertezas são muito pequenas e muito numerosas, e se
+diluem na média — pelo amor de Plutão, elas se diluem na média! Elas obedecem
+à lei dos grandes números, que discutimos no capítulo 15. A maioria dos outros
+tipos de aleatoriedade não se dilui na média! Se existe uma coisa neste planeta
+que não é tão incerta é o comportamento de um aglomerado de partículas
+subatômicas! Por quê? Porque, como eu disse anteriormente, quando você olha
+para um objeto, composto de um conjunto de partículas, as ﬂutuações das
+partículas tendem a se equilibrar.
+Contudo, eventos políticos, sociais e meteorológicos não têm essa propriedade
+útil, e está na cara que não somos capazes de prevê-los, então quando você ouve
+“especialistas” apresentando os problemas de incerteza em termos de partículas
+subatômicas, há boas chances de que o especialista seja um vigarista fajuto. Na
+verdade, essa pode ser a melhor maneira de identiﬁcar um vigarista.
+Costumo ouvir as pessoas dizerem “É claro que nosso conhecimento tem
+limites”, e em seguida invocarem o princípio maior da incerteza enquanto tentam
+explicar que “nós somos capazes de criar modelos para tudo” — ouvi ﬁguras
+como o economista Myron Scholes dizer isso em conferências. Mas estou
+sentado aqui em Nova York, em agosto de 2006, tentando ir para meu vilarejo
+ancestral de Amioun, no Líbano. O aeroporto de Beirute está fechado devido ao
+conﬂito entre Israel e a milícia xiita Hezbollah. Não existe uma programação de
+voos que me informe quando a guerra vai acabar, se é que vai acabar. Não consigo
+descobrir se minha casa ainda está de pé, se Amioun ainda está no mapa —
+
+lembre-se de que a casa da família já foi destruída uma vez. Não consigo saber se
+a guerra vai descambar para algo ainda mais grave. Olhando para o resultado da
+guerra, com todos os meus parentes, amigos e propriedades expostos a ela,
+enfrento os verdadeiros limites do conhecimento. Alguém pode me explicar por
+que eu deveria me preocupar com partículas subatômicas que, de qualquer
+maneira, convergem para uma gaussiana? As pessoas não podem prever por
+quanto tempo ﬁcarão felizes com os objetos recém-adquiridos, quanto tempo
+seus casamentos vão durar, como se sairão em seu novo emprego, mas são as
+partículas subatômicas que elas citam como “limites de previsão”. Elas estão
+ignorando o mamute parado na frente delas em favor de um tipo de matéria que
+nem mesmo um microscópio lhes permitiria enxergar.
+Os ﬁlósofos podem ser perigosos para a sociedade?
+Irei mais longe: pessoas que se preocupam com a bagatela em vez da
+abundância, com centavos em vez de dólares, podem ser perigosas para a
+sociedade. Elas têm boas intenções, mas, recorrendo a meu argumento de Bastiat
+do capítulo 8, são uma ameaça para nós. Por se concentrarem no insigniﬁcante,
+elas são um desperdício para os estudos sobre a incerteza. Nossos recursos (tanto
+cognitivos quanto cientíﬁcos) são limitados, talvez limitados demais. Aqueles que
+nos distraem aumentam o risco de ocorrência dos Cisnes Negros.
+Vale a pena discutir aqui essa comoditização da noção de incerteza como
+sintoma da cegueira em relação ao Cisne Negro.
+Já que as pessoas da área de ﬁnanças e economia estão embebidas na gaussiana
+a ponto de se engasgarem com ela, procurei economistas ﬁnanceiros com
+inclinações ﬁlosóﬁcas para ver como seu pensamento crítico lhes permite lidar
+com esse problema. Encontrei alguns. Uma dessas pessoas obteve um doutorado
+em ﬁlosoﬁa, e em seguida, quatro anos depois, outro em ﬁnanças; publicou
+artigos em ambos os campos, bem como vários livros didáticos de ﬁnanças. Mas
+me deixou desanimado: ele parecia ter compartimentado suas ideias sobre a
+incerteza de modo que pudesse ter duas proﬁssões distintas: uma carreira na
+ﬁlosoﬁa e outra nas ﬁnanças quantitativas. O problema da indução, o
+Mediocristão, a opacidade epistêmica ou a ofensiva suposição da gaussiana…
+nenhum desses lhe pareciam verdadeiros problemas. Seus inúmeros livros
+didáticos martelavam métodos gaussianos na cabeça dos alunos, como se o autor
+tivesse se esquecido de que era um ﬁlósofo. Em seguida, ele prontamente se
+lembrava de que era ﬁlósofo, ao escrever textos de ﬁlosoﬁa sobre questões
+aparentemente acadêmicas.
+
+A mesma especiﬁcidade de contexto leva as pessoas a pegarem a escada
+rolante para ir se exercitar na máquina StairMasters, mas o caso do ﬁlósofo é
+muito, muito mais perigoso, uma vez que ele utiliza nosso espaço de
+armazenamento de pensamento crítico em uma ocupação estéril. Ao estilo “maria
+vai com as outras”, os ﬁlósofos gostam de praticar o pensamento ﬁlosóﬁco em
+assuntos que outros ﬁlósofos chamam de ﬁlosoﬁa, mas deixam sua mente do lado
+de fora da porta quando não tratam desses assuntos.
+O problema da prática
+Por mais que eu me oponha à curva em forma de sino e condene a
+platonicidade e a falácia lúdica, meu principal problema não é tanto com
+estatísticos — aﬁnal, eles são pessoas que calculam, não pensadores. Devemos ser
+muito menos tolerantes com ﬁlósofos, cujos apparatchiks burocráticos fecham
+nossas mentes. Filósofos, os cães de guarda do pensamento crítico, têm deveres
+que vão além dos de outras proﬁssões.
+QUANTOS WITTGENSTEINS CONSEGUEM DANÇAR NA CABEÇA DE UM ALFINETE?
+Várias pessoas vestidas de maneira meio desmazelada (mas com ar reﬂexivo) se
+reúnem em uma sala, ﬁtando em silêncio um palestrante convidado. São todos
+ﬁlósofos proﬁssionais participando do prestigioso colóquio semanal em uma
+universidade nos arredores de Nova York. O orador se senta com o nariz enﬁado
+em uma série de páginas datilografadas, as quais lê com uma voz monótona. É
+difícil acompanhá-lo, então começo a sonhar acordado e perco o ﬁo da meada.
+Posso dizer vagamente que a discussão gira em torno de algum debate “ﬁlosóﬁco”
+sobre os marcianos invadindo a cabeça das pessoas e controlando sua vontade, e
+ao mesmo tempo impedindo que elas saibam disso. Parece haver um sem-número
+de teorias sobre essa ideia, mas a opinião do palestrante difere da de outros
+autores que escreveram sobre o tema. Ele passa algum tempo mostrando em que
+pontos sua pesquisa sobre esses sequestradores marcianos é singular. Após o
+monólogo (55 minutos de incessante leitura do material datilografado), há um
+breve intervalo, depois outros 55 minutos de discussão sobre marcianos
+implantando chips e outras conjecturas bizarras. O nome de Wittgenstein é
+mencionado aqui e ali (sempre se pode citar Wittgenstein, pois ele é vago o
+suﬁciente para sempre parecer relevante).
+Toda sexta-feira, às quatro da tarde, os salários desses ﬁlósofos caem em suas
+respectivas contas bancárias. Uma proporção ﬁxa de seus rendimentos, cerca de
+
+16% em média, irá para o mercado de ações na forma de um investimento
+automático no plano de pensão da universidade. Eles são proﬁssionais
+empregados no negócio de questionar o que consideramos como favas contadas;
+são treinados para argumentar sobre a existência de deus(es), a deﬁnição da
+verdade, a vermelhidão do vermelho, o signiﬁcado do signiﬁcado, a diferença
+entre as teorias semânticas da verdade, representações conceituais e não
+conceituais… No entanto, acreditam cegamente no mercado de ações e nas
+habilidades do administrador de seus fundos de pensão. Por quê? Porque aceitam
+que isso é o que as pessoas devem fazer com suas economias, porque
+“especialistas” lhes dizem isso. Essas pessoas duvidam de seus próprios sentidos,
+mas nem por um segundo duvidam de suas compras automáticas no mercado de
+ações. Essa dependência de domínio do ceticismo em nada difere da dos médicos
+(como vimos no capítulo 8).
+Além do mais, podem acreditar, sem questionamento, que somos capazes de
+prever eventos sociais, que o Gulag vai robustecer um pouco os presos e torná-
+los durões, que os políticos sabem mais sobre o que está acontecendo do que
+seus motoristas, que o presidente do Federal Reserve salvou a economia e tantas
+outras coisas. Podem também acreditar que a nacionalidade é importante
+(sempre colocam “francês”, “alemão” ou “norte-americano” para acompanhar o
+nome de um ﬁlósofo, como se isso tivesse alguma coisa a ver com qualquer coisa
+que ele tenha a dizer). Conviver com essas pessoas, cuja curiosidade é focada em
+tópicos sistemáticos e em desuso, parece sufocante.
+Onde está Popper quando se precisa dele?
+Espero ter sido insistente o bastante para incutir a noção de que, como
+praticante, meu pensamento está enraizado na crença de que não se pode ir dos
+livros aos problemas, mas sim o inverso, dos problemas aos livros. Esse enfoque
+incapacita boa parte daquela verborragia que constrói carreiras. Um acadêmico
+não deve ser uma ferramenta de biblioteca para erguer outra biblioteca, como na
+piada de Daniel Dennett.
+Por certo, o que estou dizendo aqui já foi dito antes por ﬁlósofos, ao menos
+pelos ﬁlósofos de verdade. A seguinte observação é uma das razões pelas quais
+tenho um respeito absurdo por Karl Popper; é uma das poucas citações neste
+livro que eu não estou atacando.
+A degeneração das escolas ﬁlosóﬁcas, por sua vez, é consequência da equivocada crença de que se pode
+ﬁlosofar sem ter sido compelido a ﬁlosofar por problemas extraﬁlosóﬁcos […]. Problemas ﬁlosóﬁcos
+genuínos estão sempre enraizados em problemas urgentes fora do campo da ﬁlosoﬁa, e eles morrem se suas
+
+raízes degeneram… [ênfase minha] Essas raízes são facilmente esquecidas pelos ﬁlósofos que “estudam”
+ﬁlosoﬁa, em vez de serem forçados à ﬁlosoﬁa por pressão de problemas não ﬁlosóﬁcos.
+Esse tipo de pensamento pode explicar o sucesso de Popper fora do âmbito da
+ﬁlosoﬁa, em especial junto a cientistas, traders e tomadores de decisões, bem
+como seu relativo fracasso dentro dela. (Ele raramente é estudado por seus
+colegas ﬁlósofos, que preferem escrever ensaios sobre Wittgenstein.)
+Observe também que, com minha ideia do Cisne Negro, não quero ser
+arrastado para os debates ﬁlosóﬁcos. Quando digo “platonicidade”, não me reﬁro
+a algo tão metafísico. Muitas pessoas debateram comigo se eu sou contra o
+“essencialismo” (ou seja, as coisas que defendo não têm uma essência platônica),
+se acredito que a matemática funcionaria em um universo alternativo, ou tópicos
+parecidos. Permita-me esclarecer as coisas. Sou um praticante que vai direto ao
+ponto, sem ﬁrulas; não estou dizendo que a matemática não corresponde a uma
+estrutura objetiva da realidade; todo o cerne do meu argumento é que,
+epistemologicamente falando, estamos colocando a carroça na frente dos bois, e
+que, do espaço da matemática possível, estamos correndo o risco de usar a
+matemática errada e ﬁcar cegos por causa dela. Acredito de fato que existem
+algumas matemáticas que funcionam, mas não estão facilmente ao nosso alcance,
+como parece aos “conﬁrmadores”.
+O bispo e o analista
+O que me irrita com mais frequência são aqueles que atacam o bispo, mas de
+alguma forma morrem de amores pelo analista de valores mobiliários — aqueles
+que exercem seu ceticismo contra a religião, mas não contra economistas,
+cientistas sociais e estatísticos fajutos. Usando o viés de conﬁrmação, essas
+pessoas dirão que a religião foi horrível para a humanidade, e contarão as mortes
+causadas pela Inquisição e pelas várias guerras religiosas. Mas não vão mostrar
+quantas pessoas foram mortas pelo nacionalismo, pela ciência social e pela teoria
+política durante o stalinismo ou durante a guerra do Vietnã. Nem mesmo os
+padres vão falar com os bispos quando passam mal: sua primeira parada é no
+consultório médico. Mas nós, sem termos alternativa, vamos bater à porta dos
+escritórios de muitos pseudocientistas e “especialistas”. Não acreditamos mais na
+infalibilidade papal; todavia, parecemos acreditar na infalibilidade do Nobel,
+como vimos no capítulo 17.
+Mais fácil do que você pensa: O problema da decisão sob o ceticismo
+
+Eu disse o tempo todo que há um problema com a indução e o Cisne Negro.
+Na verdade, a situação é muito pior: pode ser que tenhamos um problema
+idêntico com o ceticismo fajuto.
+a. Não posso fazer nada para impedir que o sol não nasça amanhã (por mais
+que eu tente com todo esforço);
+b. Não posso fazer nada acerca da existência ou não da vida após a morte;
+c. Não posso fazer nada com relação a marcianos ou demônios apoderando-se
+do meu cérebro.
+Mas tenho um bocado de maneiras de evitar ser um otário. Não é muito mais
+difícil do que isso.
+Concluo a parte  reiterando que meu antídoto contra os Cisnes Negros é
+precisamente não ser comoditizado no meu pensamento. Mas além de evitar que
+eu seja um otário, essa atitude se presta a um protocolo de como agir — não
+como pensar, mas como converter conhecimento em ação e compreender qual é
+o valor do conhecimento. Vamos examinar o que fazer ou deixar de fazer com
+isso na seção ﬁnal deste livro.
+

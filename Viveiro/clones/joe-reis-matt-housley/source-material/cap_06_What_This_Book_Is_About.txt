@@ -1,0 +1,32 @@
+# What This Book Is About
+
+Paginas: 18-18
+
+Preface
+How did this book come about? The origin is deeply rooted in our journey from
+data science into data engineering. We often jokingly refer to ourselves as recovering
+data scientists. We both had the experience of being assigned to data science projects,
+then struggling to execute these projects due to a lack of proper foundations. Our
+journey into data engineering began when we undertook data engineering tasks to
+build foundations and infrastructure.
+With the rise of data science, companies splashed out lavishly on data science talent,
+hoping to reap rich rewards. Very often, data scientists struggled with basic problems
+that their background and training did not address—data collection, data cleansing,
+data access, data transformation, and data infrastructure. These are problems that
+data engineering aims to solve.
+What This Book Isn’t
+Before we cover what this book is about and what you’ll get out of it, let’s quickly
+cover what this book isn’t. This book isn’t about data engineering using a particular
+tool, technology, or platform. While many excellent books approach data engineering
+technologies from this perspective, these books have a short shelf life. Instead, we
+focus on the fundamental concepts behind data engineering.
+What This Book Is About
+This book aims to fill a gap in current data engineering content and materials.
+While there’s no shortage of technical resources that address specific data engineering
+tools and technologies, people struggle to understand how to assemble these compo‐
+nents into a coherent whole that applies in the real world. This book connects the
+dots of the end-to-end data lifecycle. It shows you how to stitch together various
+technologies to serve the needs of downstream data consumers such as analysts,
+data scientists, and machine learning engineers. This book works as a complement
+xiii
+

@@ -1,0 +1,45 @@
+# Dark Matter Data and the Rise of...Spreadsheets?!
+
+Paginas: 413-413
+
+The Tight Feedback Between Applications and ML
+Another area we’re excited about is the fusion of applications and ML. Today, appli‐
+cations and ML are disjointed systems, like applications and analytics. Software
+engineers do their thing over here, data scientists and ML engineers do their thing
+over there.
+ML is well-suited for scenarios where data is generated at such a high rate and
+volume that humans cannot feasibly process it by hand. As data sizes and velocity
+grow, this applies to every scenario. High volumes of fast-moving data, coupled with
+sophisticated workflows and actions, are candidates for ML. As data feedback loops
+become shorter, we expect most applications to integrate ML. As data moves more
+quickly, the feedback loop between applications and ML will tighten. The applications
+in the live data stack are intelligent and able to adapt in real time to changes in the
+data. This creates a cycle of ever-smarter applications and increasing business value.
+Dark Matter Data and the Rise of...Spreadsheets?!
+We’ve talked about fast-moving data and how feedback loops will shrink as applica‐
+tions, data, and ML work more closely together. This section might seem odd, but we
+need to address something that’s widely ignored in today’s data world, especially by
+engineers.
+What’s the most widely used data platform? It’s the humble spreadsheet. Depending
+on the estimates you read, the user base of spreadsheets is between 700 million and
+2 billion people. Spreadsheets are the dark matter of the data world. A good deal of
+data analytics runs in spreadsheets and never makes its way into the sophisticated
+data systems that we describe in this book. In many organizations, spreadsheets
+handle financial reporting, supply-chain analytics, and even CRM.
+At heart, what is a spreadsheet? A spreadsheet is an interactive data application that
+supports complex analytics. Unlike purely code-based tools such as pandas (Python
+Data Analysis Library), spreadsheets are accessible to a whole spectrum of users,
+ranging from those who just know how to open files and look at reports to power
+users who can script sophisticated procedural data processing. So far, BI tools have
+failed to bring comparable interactivity to databases. Users who interact with the
+UI are typically limited to slicing and dicing data within certain guardrails, not
+general-purpose programmable analytics.
+We predict that a new class of tools will emerge that combines the interactive analyt‐
+ics capabilities of a spreadsheet with the backend power of cloud OLAP systems.
+Indeed, some candidates are already in the running. The ultimate winner in this
+product category may continue to use spreadsheet paradigms, or may define entirely
+new interface idioms for interacting with data.
+388
+|
+Chapter 11: The Future of Data Engineering
+

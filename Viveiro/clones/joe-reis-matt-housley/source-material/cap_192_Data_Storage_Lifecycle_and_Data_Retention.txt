@@ -1,0 +1,117 @@
+# Data Storage Lifecycle and Data Retention
+
+Paginas: 248-250
+
+Zero-copy cloning
+Cloud-based systems based around object storage support zero-copy cloning. This
+typically means that a new virtual copy of an object is created (e.g., a new table)
+without necessarily physically copying the underlying data. Typically, new pointers
+are created to the raw data files, and future changes to these tables will not be recor‐
+ded in the old table. For those familiar with the inner workings of object-oriented
+languages such as Python, this type of “shallow” copying is familiar from other
+contexts.
+Zero-copy cloning is a compelling feature, but engineers must understand its
+strengths and limitations. For example, cloning an object in a data lake environment
+and then deleting the files in the original object might also wipe out the new object.
+For fully managed object-store-based systems (e.g., Snowflake and BigQuery), engi‐
+neers need to be extremely familiar with the exact limits of shallow copying. Engi‐
+neers have more access to underlying object storage in data lake systems such as
+Databricks—a blessing and a curse. Data engineers should exercise great caution
+before deleting any raw files in the underlying object store. Databricks and other
+data lake management technologies sometimes also support a notion of deep copying,
+whereby all underlying data objects are copied. This is a more expensive process, but
+also more robust in the event that files are unintentionally lost or deleted.
+Data Storage Lifecycle and Data Retention
+Storing data isn’t as simple as just saving it to object storage or disk and forgetting
+about it. You need to think about the data storage lifecycle and data retention. When
+you think about access frequency and use cases, ask, “How important is the data to
+downstream users, and how often do they need to access it?” This is the data storage
+lifecycle. Another question you should ask is, “How long should I keep this data?” Do
+you need to retain data indefinitely, or are you fine discarding it past a certain time
+frame? This is data retention. Let’s dive into each of these.
+Hot, warm, and cold data
+Did you know that data has a temperature? Depending on how frequently data is
+accessed, we can roughly bucket the way it is stored into three categories of persis‐
+tence: hot, warm, and cold. Query access patterns differ for each dataset (Figure 6-9).
+Typically, newer data is queried more often than older data. Let’s look at hot, cold,
+and warm data in that order.
+Big Ideas and Trends in Storage
+|
+223
+
+Figure 6-9. Hot, warm, and cold data costs associated with access frequency
+Hot data. Hot data has instant or frequent access requirements. The underlying
+storage for hot data is suited for fast access and reads, such as SSD or memory.
+Because of the type of hardware involved with hot data, storing hot data is often the
+most expensive form of storage. Example use cases for hot data include retrieving
+product recommendations and product page results. The cost of storing hot data is
+the highest of these three storage tiers, but retrieval is often inexpensive.
+Query results cache is another example of hot data. When a query is run, some
+query engines will persist the query results in the cache. For a limited time, when the
+same query is run, instead of rerunning the same query against storage, the query
+results cache serves the cached results. This allows for much faster query response
+times versus redundantly issuing the same query repeatedly. In upcoming chapters,
+we cover query results caches in more detail.
+Warm data. Warm data is accessed semi-regularly, say, once per month. No hard
+and fast rules indicate how often warm data is accessed, but it’s less than hot data
+and more than cold data. The major cloud providers offer object storage tiers that
+accommodate warm data. For example, S3 offers an Infrequently Accessed Tier, and
+Google Cloud has a similar storage tier called Nearline. Vendors give their models
+of recommended access frequency, and engineers can also do their cost modeling
+and monitoring. Storage of warm data is cheaper than hot data, with slightly more
+expensive retrieval costs.
+Cold data. On the other extreme, cold data is infrequently accessed data. The hard‐
+ware used to archive cold data is typically cheap and durable, such as HDD, tape
+storage, and cloud-based archival systems. Cold data is mainly meant for long-term
+archival, when there’s little to no intention to access the data. Though storing cold
+data is cheap, retrieving cold data is often expensive.
+Storage tier considerations. When considering the storage tier for your data, consider
+the costs of each tier. If you store all of your data in hot storage, all of the data can
+be accessed quickly. But this comes at a tremendous price! Conversely, if you store all
+224
+|
+Chapter 6: Storage
+
+data in cold storage to save on costs, you’ll certainly lower your storage costs, but at
+the expense of prolonged retrieval times and high retrieval costs if you need to access
+data. The storage price goes down from faster/higher performing storage to lower
+storage.
+Cold storage is popular for archiving data. Historically, cold storage involved physical
+backups and often mailing this data to a third party that would archive it in a literal
+vault. Cold storage is increasingly popular in the cloud. Every cloud vendor offers a
+cold data solution, and you should weigh the cost of pushing data into cold storage
+versus the cost and time to retrieve the data.
+Data engineers need to account for spillover from hot to warm/cold storage. Memory
+is expensive and finite. For example, if hot data is stored in memory, it can be spilled
+to disk when there’s too much new data to store and not enough memory. Some
+databases may move infrequently accessed data to warm or cold tiers, offloading
+the data to either HDD or object storage. The latter is increasingly more common
+because of the cost-effectiveness of object storage. If you’re in the cloud and using
+managed services, disk spillover will happen automatically.
+If you’re using cloud-based object storage, create automated lifecycle policies for your
+data. This will drastically reduce your storage costs. For example, if your data needs
+to be accessed only once a month, move the data to an infrequent access storage
+tier. If your data is 180 days old and not accessed for current queries, move it to
+an archival storage tier. In both cases, you can automate the migration of data away
+from regular object storage, and you’ll save money. That said, consider the retrieval
+costs—both in time and money—using infrequent or archival style storage tiers.
+Access and retrieval times and costs may vary depending on the cloud provider. Some
+cloud providers make it simple and cheap to migrate data into archive storage, but it
+is costly and slow to retrieve your data.
+Data retention
+Back in the early days of “big data,” there was a tendency to err on the side of accu‐
+mulating every piece of data possible, regardless of its usefulness. The expectation
+was, “we might need this data in the future.” This data hoarding inevitably became
+unwieldy and dirty, giving rise to data swamps and regulatory crackdowns on data
+retention, among other consequences and nightmares. Nowadays, data engineers
+need to consider data retention: what data do you need to keep, and how long should
+you keep it? Here are some things to think about with data retention.
+Value. Data is an asset, so you should know the value of the data you’re storing. Of
+course, value is subjective and depends on what it’s worth to your immediate use case
+and your broader organization. Is this data impossible to re-create, or can it easily be
+re-created by querying upstream systems? What’s the impact to downstream users if
+this data is available versus if it is not?
+Big Ideas and Trends in Storage
+|
+225
+

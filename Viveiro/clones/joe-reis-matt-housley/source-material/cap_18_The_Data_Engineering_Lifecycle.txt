@@ -1,0 +1,34 @@
+# The Data Engineering Lifecycle
+
+Paginas: 30-30
+
+The Data Engineering Lifecycle
+It is all too easy to fixate on technology and miss the bigger picture myopically. This
+book centers around a big idea called the data engineering lifecycle (Figure 1-1), which
+we believe gives data engineers the holistic context to view their role.
+Figure 1-1. The data engineering lifecycle
+The data engineering lifecycle shifts the conversation away from technology and
+toward the data itself and the end goals that it must serve. The stages of the data
+engineering lifecycle are as follows:
+• Generation
+•
+• Storage
+•
+• Ingestion
+•
+• Transformation
+•
+• Serving
+•
+The data engineering lifecycle also has a notion of undercurrents—critical ideas across
+the entire lifecycle. These include security, data management, DataOps, data architec‐
+ture, orchestration, and software engineering. We cover the data engineering lifecycle
+and its undercurrents more extensively in Chapter 2. Still, we introduce it here
+because it is essential to our definition of data engineering and the discussion that
+follows in this chapter.
+Now that you have a working definition of data engineering and an introduction to
+its lifecycle, let’s take a step back and look at a bit of history.
+What Is Data Engineering?
+|
+5
+

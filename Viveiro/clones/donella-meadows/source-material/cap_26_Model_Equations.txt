@@ -1,0 +1,226 @@
+# Model Equations
+
+Paginas: 184-193
+
+Guidelines for Living in a World of Systems
+1. Get the beat of the system.
+2. Expose your mental models to the light of day.
+3. Honor, respect, and distribute information.
+4. Use language with care and enrich it with systems concepts.
+5. Pay attention to what is important, not just what is quantifiable.
+6. Make feedback policies for feedback systems.
+7. Go for the good of the whole.
+8. Listen to the wisdom of the system.
+9. Locate responsibility within the system.
+10. Stay humble—stay a learner.
+11. Celebrate complexity.
+12. Expand time horizons.
+13. Defy the disciplines.
+14. Expand the boundary of caring.
+15. Don’t erode the goal of goodness.
+Model Equations
+There is much to be learned about systems without using a computer. However,
+once you have started to explore the behavior of even very simple systems, you
+may well find that you wish to learn more about building your own formal
+mathematical models of systems. The models in this book were originally
+developed using STELLA modeling software, by isee systems Inc. (formerly
+High Performance Systems). The equations in this section are written to be
+easily translated into various modeling software, such as Vensim by Ventana
+Systems Inc. as well as STELLA and iThink by isee systems Inc.
+The following model equations are those used for the nine dynamic models
+discussed in chapters 1 and 2. “Converters” can be constants or calculations
+based on other elements of the system model. Time is abbreviated (t) and the
+change in time from one calculation to the next, the time interval, is noted as
+(dt).
+
+Chapter One
+Bathtub—for Figures 5, 6 and 7
+Stock: water in tub(t) = water in tub(t – dt) + (inflow – outflow) × dt
+Initial stock value: water in tub = 50 gal
+t = minutes
+dt = 1 minute
+Run time = 10 minutes
+Inflow: inflow = 0 gal/min … for time 0 to 5; 5 gal/min … for time 6 to 10
+Outflow: outflow = 5 gal/min
+Coffee Cup Cooling or Warming—for Figures 10 and 11
+Cooling
+Stock: coffee temperature(t) = coffee temperature(t – dt) – (cooling × dt)
+Initial stock value: coffee temperature = 100°C, 80°C, and 60°C … for three
+comparative model runs.
+t = minutes
+dt = 1 minute
+Run time = 8 minutes
+Outflow: cooling = discrepancy × 10%
+Converters: discrepancy = coffee temperature – room temperature
+room temperature = 18°C
+Warming
+Stock: coffee temperature(t) = coffee temperature(t – dt) + (heating × dt)
+Initial stock value: coffee temperature = 0°C, 5°C, and 10°C … for three
+comparative model runs.
+t = minutes
+dt = 1 minute
+Run time = 8 minutes
+Inflow: heating = discrepancy × 10%
+Converters: discrepancy = room temperature – coffee temperature
+room temperature = 18°C
+Bank Account—for Figures 12 and 13
+Stock: money in bank account(t) = money in bank account(t – dt) + (interest
+added × dt)
+Initial stock value: money in bank account = $100
+t = years
+
+dt = 1 year
+Run time = 12 years
+Inflow: interest added ($/year) = money in bank account × interest rate
+Converter: interest rate = 2%, 4%, 6%, 8%, & 10% annual interest … for five
+comparative model runs.
+
+Chapter Two
+Thermostat—For Figures 14–20
+Stock: room temperature(t) = room temperature(t – dt) + (heat from furnace –
+heat to outside) × dt
+Initial stock value: room temperature = 10°C for cold-room warming; 18°C for
+warm-room cooling
+t = hours
+dt = 1 hour
+Run time = 8 hours and 24 hours
+Inflow: heat from furnace = minimum of discrepancy between desired and
+actual room temperature or 5
+Outflow: heat to outside = discrepancy between inside and outside temperature
+× 10% … for “normal” house; discrepancy between inside and outside
+temperature × 30% … for very leaky house
+Converters: thermostat setting = 18°C
+discrepancy between desired and actual room temperature = maximum of
+(thermostat setting – room temperature) or 0
+discrepancy between inside and outside temperature = room temperature – 10°C
+… for constant outside temperature (Figures 16–18); room temperature – 24-
+hour outside temp … for full day-and-night cycle (Figures 19 and 20)
+24-hour outside temp ranges from 10°C (50°F) during the day to – 5°C (23°F) at
+night, as shown in graph
+Population—for Figures 21–26
+Stock: population(t) = population(t – dt) + (births – deaths) × dt
+Initial stock value: population = 6.6 billion people
+
+t = years
+dt = 1 year
+Run time = 100 years
+Inflow: births = population × fertility
+Outflow: deaths = population × mortality
+Converters:
+Figure 22:
+mortality = .009 … or 9 deaths per 1000 population
+fertility = .021 … or 21 births per 1000 population
+Figure 23:
+mortality = .030
+fertility = .021
+Figure 24:
+mortality = .009
+fertility starts at .021 and falls over time to .009 as shown in graph
+Figure 26:
+mortality = .009
+fertility starts at .021, drops to .009, but then rises .030 as shown in graph
+
+Capital—for Figures 27 and 28
+Stock: capital stock(t) = capital stock(t – dt) + (investment – depreciation) × dt
+Initial stock value: capital stock = 100
+t = years
+dt = 1 year
+Run time = 50 years
+Inflow: investment = annual output × investment fraction
+Outflow: depreciation = capital stock / capital lifetime
+Converters: annual output = capital stock × output per unit capital
+capital lifetime = 10 years, 15 years, and 20 years … for three comparative
+model runs.
+investment fraction = 20%
+output per unit capital = 1/3
+Business Inventory—for Figures 29–36
+Stock: inventory of cars on the lot(t) = inventory of cars on the lot(t – dt) +
+(deliveries – sales) × dt
+Initial stock values: inventory of cars on the lot = 200 cars
+t = days
+dt = 1 day
+Run time = 100 days
+Inflows: deliveries = 20 … for time 0 to 5; orders to factory (t – delivery delay)
+… for time 6 to 100
+Outflows: sales = minimum of inventory of cars on the lot or customer demand
+Converters: customer demand = 20 cars per day … for time 0 to 25; 22 cars per
+day … for time 26 to 100
+perceived sales = sales averaged over perception delay (i.e., sales smoothed
+over perception delay)
+desired inventory = perceived sales × 10
+
+discrepancy = desired inventory – inventory of cars on the lot
+orders to factory = maximum of (perceived sales + discrepancy) or 0 … for
+Figure 32; maximum of (perceived sales + discrepancy/response delay) or 0
+… for Figures 34–36
+Delays, Figure 30:
+perception delay = 0
+response delay = 0
+delivery delay = 0
+Delays, Figure 32:
+perception delay = 5 days
+response delay = 3 days
+delivery delay = 5 days
+Delays, Figure 34:
+perception delay = 2 days
+response delay = 3 days
+delivery delay = 5 days
+Delays, Figure 35:
+perception delay = 5 days
+response delay = 2 days
+delivery delay = 5 days
+Delays, Figure 36:
+perception delay = 5 days
+response delay = 6 days
+delivery delay = 5 days
+A Renewable Stock Constrained by a Nonrenewable Resource—for
+Figures 37–41
+Stock: resource(t) = resource(t – dt) – (extraction × dt)
+Initial stock values: resource = 1000 … for Figures 38, 40, and 41; 1000, 2000,
+and 4000 … for three comparative model runs in Figure 39
+Outflow: extraction = capital × yield per unit capital
+t = years
+dt = 1 year
+Run time = 100 years
+Stock: capital(t) = capital(t – dt) + (investment – depreciation) × dt
+Initial stock values: capital = 5
+Inflow: investment = minimum of profit or growth goal
+Outflow: depreciation = capital / capital lifetime
+
+Converters: capital lifetime = 20 years
+profit = (price × extraction) – (capital × 10%)
+growth goal = capital × 10% … for Figures 30–40; capital × 6%, 8%, 10%, and
+12% … for four comparative model runs in Figure 40
+price = 3 … for Figures 38, 39, and 40; for Figure 41, price starts at 1.2 when
+yield per unit capital is high and rises to 10 as yield per unit capital falls, as
+shown in graph
+yield per unit capital starts at 1 when resource stock is high and falls to 0 as the
+resource stock declines, as shown in graph
+A Renewable Stock Constrained by a Renewable Resource—for
+Figures 42–45
+Stock: resource(t) = resource(t – dt) + (regeneration – harvest) × dt
+Initial stock value: resource = 1000
+Inflow: regeneration = resource × regeneration rate
+Outflow: harvest = capital × yield per unit capital
+t = years
+dt = 1 year
+Run time = 100 years
+Stock: capital(t) = capital(t – dt) + (investment – depreciation) × dt
+Initial stock value: capital = 5
+Inflow: investment = minimum of profit or growth goal
+Outflow: depreciation = capital / capital lifetime
+Converters: capital lifetime = 20
+growth goal = capital × 10%
+profit = (price × harvest) – capital
+price starts at 1.2 when yield per unit capital is high and rises to 10 as yield per
+unit capital falls. This is the same nonlinear relationship for price and yield as
+in the previous model.
+
+regeneration rate is 0 when the resource is either fully stocked or completely
+depleted. In the middle of the resource range, regeneration rate peaks near 0.5.
+yield per unit capital starts at 1 when the resource is fully stocked, but falls
+(nonlinearly) as the resource stock declines. Yield per unit capital increases
+overall from least efficient in Figure 43, to slightly more efficient in Figure
+44, to most efficient in Figure 45.
+
+

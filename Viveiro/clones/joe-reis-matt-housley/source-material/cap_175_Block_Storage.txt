@@ -1,0 +1,110 @@
+# Block Storage
+
+Paginas: 227-229
+
+Block Storage
+Fundamentally, block storage is the type of raw storage provided by SSDs and mag‐
+netic disks. In the cloud, virtualized block storage is the standard for VMs. These
+block storage abstractions allow fine control of storage size, scalability, and data
+durability beyond that offered by raw disks.
+In our earlier discussion of SSDs and magnetic disks, we mentioned that with these
+random-access devices, the operating system can seek, read, and write any data
+on the disk. A block is the smallest addressable unit of data supported by a disk.
+This was often 512 bytes of usable data on older disks, but it has now grown to
+4,096 bytes for most current disks, making writes less fine-grained but dramatically
+reducing the overhead of managing blocks. Blocks typically contain extra bits for
+error detection/correction and other metadata.
+Blocks on magnetic disks are geometrically arranged on a physical platter. Two blocks
+on the same track can be read without moving the head, while reading two blocks on
+separate tracks requires a seek. Seek time can occur between blocks on an SSD, but
+this is infinitesimal compared to the seek time for magnetic disk tracks.
+Block storage applications
+Transactional database systems generally access disks at a block level to lay out
+data for optimal performance. For row-oriented databases, this originally meant that
+rows of data were written as continuous streams; the situation has grown more
+complicated with the arrival of SSDs and their associated seek-time performance
+improvements, but transactional databases still rely on the high random access per‐
+formance offered by direct access to a block storage device.
+Block storage also remains the default option for operating system boot disks on
+cloud VMs. The block device is formatted much as it would be directly on a physical
+disk, but the storage is usually virtualized. (See “Cloud virtualized block storage” on
+page 203.)
+RAID
+RAID stands for redundant array of independent disks, as noted previously. RAID
+simultaneously controls multiple disks to improve data durability, enhance perfor‐
+mance, and combine capacity from multiple drives. An array can appear to the
+operating system as a single block device. Many encoding and parity schemes are
+available, depending on the desired balance between enhanced effective bandwidth
+and higher fault tolerance (tolerance for many disk failures).
+202
+|
+Chapter 6: Storage
+
+Storage area network
+Storage area network (SAN) systems provide virtualized block storage devices over
+a network, typically from a storage pool. SAN abstraction can allow fine-grained
+storage scaling and enhance performance, availability, and durability. You might
+encounter SAN systems if you’re working with on-premises storage systems; you
+might also encounter a cloud version of SAN, as in the next subsection.
+Cloud virtualized block storage
+Cloud virtualized block storage solutions are similar to SAN but free engineers from
+dealing with SAN clusters and networking details. We’ll look at Amazon Elastic Block
+Store (EBS) as a standard example; other public clouds have similar offerings. EBS is
+the default storage for Amazon EC2 virtual machines; other cloud providers also treat
+virtualized object storage as a key component of their VM offerings.
+EBS offers several tiers of service with different performance characteristics. Gener‐
+ally, EBS performance metrics are given in IOPS and throughput (transfer speed).
+The higher performance tiers of EBS storage are backed by SSD disks, while magnetic
+disk-backed storage offers lower IOPS but costs less per gigabyte.
+EBS volumes store data separate from the instance host server but in the same zone to
+support high performance and low latency (Figure 6-5). This allows EBS volumes to
+persist when an EC2 instance shuts down, when a host server fails, or even when the
+instance is deleted. EBS storage is suitable for applications such as databases, where
+data durability is a high priority. In addition, EBS replicates all data to at least two
+separate host machines, protecting data if a disk fails.
+Figure 6-5. EBS volumes replicate data to multiple hosts and disks for high durability
+and availability, but are not resilient to the failure of an availability zone
+EBS storage virtualization also supports several advanced features. For example,
+EBS volumes allow instantaneous point-in-time snapshots while the drive is used.
+Although it still takes some time for the snapshot to be replicated to S3, EBS can
+effectively freeze the state of data blocks when the snapshot is taken, while allowing
+the client machine to continue using the disk. In addition, snapshots after the initial
+full backup are differential; only changed blocks are written to S3 to minimize storage
+costs and backup time.
+Data Storage Systems
+|
+203
+
+EBS volumes are also highly scalable. At the time of this writing, some EBS volume
+classes can scale up to 64 TiB, 256,000 IOPS, and 4,000 MiB/s.
+Local instance volumes
+Cloud providers also offer block storage volumes that are physically attached to the
+host server running a virtual machine. These storage volumes are generally very low
+cost (included with the price of the VM in the case of Amazon’s EC2 instance store)
+and provide low latency and high IOPS.
+Instance store volumes (Figure 6-6) behave essentially like a disk physically attached
+to a server in a data center. One key difference is that when a VM shuts down or is
+deleted, the contents of the locally attached disk are lost, whether or not this event
+was caused by intentional user action. This ensures that a new virtual machine cannot
+read disk contents belonging to a different customer.
+Figure 6-6. Instance store volumes offer high performance and low cost but do not
+protect data in the event of disk failure or VM shutdown
+Locally attached disks support none of the advanced virtualization features offered by
+virtualized storage services like EBS. The locally attached disk is not replicated, so a
+physical disk failure can lose or corrupt data even if the host VM continues running.
+Furthermore, locally attached volumes do not support snapshots or other backup
+features.
+Despite these limitations, locally attached disks are extremely useful. In many cases,
+we use disks as a local cache and hence don’t need all the advanced virtualization
+features of a service like EBS. For example, suppose we’re running AWS EMR on
+EC2 instances. We may be running an ephemeral job that consumes data from
+S3, stores it temporarily in the distributed filesystem running across the instances,
+processes the data, and writes the results back to S3. The EMR filesystem builds in
+replication and redundancy and is serving as a cache rather than permanent storage.
+The EC2 instance store is a perfectly suitable solution in this case and can enhance
+performance since data can be read and processed locally without flowing over a
+network (see Figure 6-7).
+204
+|
+Chapter 6: Storage
+

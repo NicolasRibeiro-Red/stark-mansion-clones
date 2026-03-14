@@ -1,0 +1,21 @@
+# Our Advice
+
+Paginas: 147-147
+
+by the success of Hive but wishing to improve on its shortcomings, engineers devel‐
+oped Presto and other technologies. Hive now appears primarily in legacy deploy‐
+ments. Almost every technology follows this inevitable path of decline.
+Figure 4-1. Matt Turck’s 2021 MAD data landscape
+Our Advice
+Given the rapid pace of tooling and best-practice changes, we suggest evaluating tools
+every two years (Figure 4-2). Whenever possible, find the immutable technologies
+along the data engineering lifecycle, and use those as your base. Build transitory tools
+around the immutables.
+Figure 4-2. Use a two-year time horizon to reevaluate your technology choices
+Given the reasonable probability of failure for many data technologies, you need to
+consider how easy it is to transition from a chosen technology. What are the barriers
+to leaving? As mentioned previously in our discussion about opportunity cost, avoid
+122
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+

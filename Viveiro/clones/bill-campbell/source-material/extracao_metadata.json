@@ -1,0 +1,39 @@
+{
+  "titulo": "",
+  "autor": "",
+  "total_paginas": 117,
+  "chunks_criados": 6,
+  "toc": [],
+  "arquivos": [
+    {
+      "arquivo": "chunk_01_pags_1-20.txt",
+      "paginas": "1-20",
+      "tamanho_chars": 62897
+    },
+    {
+      "arquivo": "chunk_02_pags_21-40.txt",
+      "paginas": "21-40",
+      "tamanho_chars": 66607
+    },
+    {
+      "arquivo": "chunk_03_pags_41-60.txt",
+      "paginas": "41-60",
+      "tamanho_chars": 65917
+    },
+    {
+      "arquivo": "chunk_04_pags_61-80.txt",
+      "paginas": "61-80",
+      "tamanho_chars": 64615
+    },
+    {
+      "arquivo": "chunk_05_pags_81-100.txt",
+      "paginas": "81-100",
+      "tamanho_chars": 58768
+    },
+    {
+      "arquivo": "chunk_06_pags_101-117.txt",
+      "paginas": "101-117",
+      "tamanho_chars": 35052
+    }
+  ]
+}

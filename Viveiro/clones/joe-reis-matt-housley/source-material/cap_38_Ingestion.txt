@@ -1,0 +1,185 @@
+# Ingestion
+
+Paginas: 64-67
+
+• Is this a pure storage solution (object storage), or does it support complex query
+•
+patterns (i.e., a cloud data warehouse)?
+• Is the storage system schema-agnostic (object storage)? Flexible schema (Cassan‐
+•
+dra)? Enforced schema (a cloud data warehouse)?
+• How are you tracking master data, golden records data quality, and data lineage
+•
+for data governance? (We have more to say on these in “Data Management” on
+page 50.)
+• How are you handling regulatory compliance and data sovereignty? For example,
+•
+can you store your data in certain geographical locations but not others?
+Understanding data access frequency
+Not all data is accessed in the same way. Retrieval patterns will greatly vary based on
+the data being stored and queried. This brings up the notion of the “temperatures” of
+data. Data access frequency will determine the temperature of your data.
+Data that is most frequently accessed is called hot data. Hot data is commonly
+retrieved many times per day, perhaps even several times per second—for example,
+in systems that serve user requests. This data should be stored for fast retrieval,
+where “fast” is relative to the use case. Lukewarm data might be accessed every so
+often—say, every week or month.
+Cold data is seldom queried and is appropriate for storing in an archival system. Cold
+data is often retained for compliance purposes or in case of a catastrophic failure in
+another system. In the “old days,” cold data would be stored on tapes and shipped
+to remote archival facilities. In cloud environments, vendors offer specialized storage
+tiers with very cheap monthly storage costs but high prices for data retrieval.
+Selecting a storage system
+What type of storage solution should you use? This depends on your use cases,
+data volumes, frequency of ingestion, format, and size of the data being ingested—
+essentially, the key considerations listed in the preceding bulleted questions. There
+is no one-size-fits-all universal storage recommendation. Every storage technology
+has its trade-offs. Countless varieties of storage technologies exist, and it’s easy to be
+overwhelmed when deciding the best option for your data architecture.
+Chapter 6 covers storage best practices and approaches in greater detail, as well as the
+crossover between storage and other lifecycle stages.
+Ingestion
+After you understand the data source, the characteristics of the source system you’re
+using, and how data is stored, you need to gather the data. The next stage of the data
+engineering lifecycle is data ingestion from source systems.
+What Is the Data Engineering Lifecycle?
+|
+39
+
+In our experience, source systems and ingestion represent the most significant bot‐
+tlenecks of the data engineering lifecycle. The source systems are normally outside
+your direct control and might randomly become unresponsive or provide data of
+poor quality. Or, your data ingestion service might mysteriously stop working for
+many reasons. As a result, data flow stops or delivers insufficient data for storage,
+processing, and serving.
+Unreliable source and ingestion systems have a ripple effect across the data engineer‐
+ing lifecycle. But you’re in good shape, assuming you’ve answered the big questions
+about source systems.
+Key engineering considerations for the ingestion phase
+When preparing to architect or build a system, here are some primary questions
+about the ingestion stage:
+• What are the use cases for the data I’m ingesting? Can I reuse this data rather
+•
+than create multiple versions of the same dataset?
+• Are the systems generating and ingesting this data reliably, and is the data
+•
+available when I need it?
+• What is the data destination after ingestion?
+•
+• How frequently will I need to access the data?
+•
+• In what volume will the data typically arrive?
+•
+• What format is the data in? Can my downstream storage and transformation
+•
+systems handle this format?
+• Is the source data in good shape for immediate downstream use? If so, for how
+•
+long, and what may cause it to be unusable?
+• If the data is from a streaming source, does it need to be transformed before
+•
+reaching its destination? Would an in-flight transformation be appropriate,
+where the data is transformed within the stream itself?
+These are just a sample of the factors you’ll need to think about with ingestion, and
+we cover those questions and more in Chapter 7. Before we leave, let’s briefly turn
+our attention to two major data ingestion concepts: batch versus streaming and push
+versus pull.
+Batch versus streaming
+Virtually all data we deal with is inherently streaming. Data is nearly always produced
+and updated continually at its source. Batch ingestion is simply a specialized and
+convenient way of processing this stream in large chunks—for example, handling a
+full day’s worth of data in a single batch.
+40
+|
+Chapter 2: The Data Engineering Lifecycle
+
+Streaming ingestion allows us to provide data to downstream systems—whether
+other applications, databases, or analytics systems—in a continuous, real-time fash‐
+ion. Here, real-time (or near real-time) means that the data is available to a down‐
+stream system a short time after it is produced (e.g., less than one second later). The
+latency required to qualify as real-time varies by domain and requirements.
+Batch data is ingested either on a predetermined time interval or as data reaches a
+preset size threshold. Batch ingestion is a one-way door: once data is broken into
+batches, the latency for downstream consumers is inherently constrained. Because of
+limitations of legacy systems, batch was for a long time the default way to ingest data.
+Batch processing remains an extremely popular way to ingest data for downstream
+consumption, particularly in analytics and ML.
+However, the separation of storage and compute in many systems and the ubiquity
+of event-streaming and processing platforms make the continuous processing of data
+streams much more accessible and increasingly popular. The choice largely depends
+on the use case and expectations for data timeliness.
+Key considerations for batch versus stream ingestion
+Should you go streaming-first? Despite the attractiveness of a streaming-first
+approach, there are many trade-offs to understand and think about. The following
+are some questions to ask yourself when determining whether streaming ingestion is
+an appropriate choice over batch ingestion:
+• If I ingest the data in real time, can downstream storage systems handle the rate
+•
+of data flow?
+• Do I need millisecond real-time data ingestion? Or would a micro-batch
+•
+approach work, accumulating and ingesting data, say, every minute?
+• What are my use cases for streaming ingestion? What specific benefits do I
+•
+realize by implementing streaming? If I get data in real time, what actions can I
+take on that data that would be an improvement upon batch?
+• Will my streaming-first approach cost more in terms of time, money, mainte‐
+•
+nance, downtime, and opportunity cost than simply doing batch?
+• Are my streaming pipeline and system reliable and redundant if infrastructure
+•
+fails?
+• What tools are most appropriate for the use case? Should I use a managed service
+•
+(Amazon Kinesis, Google Cloud Pub/Sub, Google Cloud Dataflow) or stand up
+my own instances of Kafka, Flink, Spark, Pulsar, etc.? If I do the latter, who will
+manage it? What are the costs and trade-offs?
+• If I’m deploying an ML model, what benefits do I have with online predictions
+•
+and possibly continuous training?
+What Is the Data Engineering Lifecycle?
+|
+41
+
+• Am I getting data from a live production instance? If so, what’s the impact of my
+•
+ingestion process on this source system?
+As you can see, streaming-first might seem like a good idea, but it’s not always
+straightforward; extra costs and complexities inherently occur. Many great ingestion
+frameworks do handle both batch and micro-batch ingestion styles. We think batch
+is an excellent approach for many common use cases, such as model training and
+weekly reporting. Adopt true real-time streaming only after identifying a business use
+case that justifies the trade-offs against using batch.
+Push versus pull
+In the push model of data ingestion, a source system writes data out to a target,
+whether a database, object store, or filesystem. In the pull model, data is retrieved
+from the source system. The line between the push and pull paradigms can be quite
+blurry; data is often pushed and pulled as it works its way through the various stages
+of a data pipeline.
+Consider, for example, the extract, transform, load (ETL) process, commonly used in
+batch-oriented ingestion workflows. ETL’s extract (E) part clarifies that we’re dealing
+with a pull ingestion model. In traditional ETL, the ingestion system queries a current
+source table snapshot on a fixed schedule. You’ll learn more about ETL and extract,
+load, transform (ELT) throughout this book.
+In another example, consider continuous CDC, which is achieved in a few ways.
+One common method triggers a message every time a row is changed in the source
+database. This message is pushed to a queue, where the ingestion system picks it up.
+Another common CDC method uses binary logs, which record every commit to the
+database. The database pushes to its logs. The ingestion system reads the logs but
+doesn’t directly interact with the database otherwise. This adds little to no additional
+load to the source database. Some versions of batch CDC use the pull pattern. For
+example, in timestamp-based CDC, an ingestion system queries the source database
+and pulls the rows that have changed since the previous update.
+With streaming ingestion, data bypasses a backend database and is pushed directly
+to an endpoint, typically with data buffered by an event-streaming platform. This
+pattern is useful with fleets of IoT sensors emitting sensor data. Rather than relying
+on a database to maintain the current state, we simply think of each recorded reading
+as an event. This pattern is also growing in popularity in software applications as
+it simplifies real-time processing, allows app developers to tailor their messages for
+downstream analytics, and greatly simplifies the lives of data engineers.
+We discuss ingestion best practices and techniques in depth in Chapter 7. Next, let’s
+turn to the transformation stage of the data engineering lifecycle.
+42
+|
+Chapter 2: The Data Engineering Lifecycle
+

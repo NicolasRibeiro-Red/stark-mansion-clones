@@ -1,0 +1,427 @@
+# 17. Os loucos de Locke, ou a curva em forma de sino nos lugares errados
+
+Paginas: 307-318
+
+17. Os loucos de Locke, ou a curva em forma de sino
+nos lugares errados1
+O quê? — Qualquer um pode se tornar presidente — O legado de Alfred Nobel —
+Aquela época medieval
+Tenho dois escritórios na minha casa: um é um gabinete de trabalho de verdade,
+com livros interessantes e material literário; o outro é não literário, onde não
+gosto de trabalhar e o qual relego a questões prosaicas e de foco estreito. No
+escritório não literário há uma parede forrada de livros sobre estatística e história
+das estatísticas, livros que nunca tive a coragem de queimar ou jogar fora, embora
+eu os ache tremendamente inúteis fora de suas aplicações acadêmicas
+(Carneades, Cícero e Foucher sabem muito mais sobre probabilidade do que
+todos esses volumes pseudossoﬁsticados). Não posso usá-los em uma aula porque
+prometi a mim mesmo que jamais ensinaria lixo, mesmo que estivesse morrendo
+de fome. Por que não posso usá-los? Nenhum desses livros trata do Extremistão.
+Nenhum. Os poucos livros que o fazem são escritos não por estatísticos, mas por
+físicos estatísticos. Estamos ensinando às pessoas métodos do Mediocristão e
+libertando-as no Extremistão. É como desenvolver um medicamento para plantas
+e aplicá-lo a humanos. Não é de admirar que estejamos correndo o maior de
+todos os riscos: lidamos com questões pertencentes ao Extremistão, mas tratadas
+como se pertencessem ao Mediocristão, como uma “aproximação”.
+Centenas de milhares de alunos em escolas de economia e administração e em
+departamentos de ciências sociais de Cingapura a Urbana-Champaign, bem como
+pessoas no mundo dos negócios, continuam a estudar métodos “cientíﬁcos”,
+todos fundamentados na gaussiana, todos entranhados na falácia lúdica.
+Este capítulo examina desastres decorrentes da aplicação de métodos
+matemáticos fajutos nas ciências sociais. O verdadeiro tópico talvez sejam os
+
+perigos para a nossa sociedade criados pela Academia Sueca, que outorga o
+prêmio Nobel.
+Apenas cinquenta anos
+Voltemos à história da minha vida como homem de negócios. Observe o
+gráﬁco na ﬁgura 18. Nos últimos cinquenta anos, os dez dias mais extremos nos
+mercados ﬁnanceiros representam metade dos lucros. Dez dias em cinquenta
+anos. Enquanto isso, estamos atolados em um bate-papo inútil.
+Claramente, qualquer pessoa que queira mais do que o elevado número de seis
+sigma como a prova de que os mercados são do Extremistão precisa fazer um
+exame neurológico. Dezenas de artigos mostram a inadequação da família
+gaussiana de distribuições e a natureza escalável dos mercados. Lembre que, ao
+longo dos anos, eu mesmo calculei estatísticas para a frente e para trás em 20
+milhões de diferentes conjuntos de dados, o que me faz desprezar qualquer
+pessoa que fale sobre mercados em termos gaussianos. Mas as pessoas têm
+diﬁculdade em dar o salto para as consequências desse conhecimento.
+O mais estranho é que as pessoas no mundo dos negócios geralmente
+concordam comigo quando ouvem minhas palestras e entrevistas ou me veem
+apresentar meus argumentos. Porém, quando vão para o escritório no dia
+seguinte, voltam a recorrer às ferramentas gaussianas tão arraigadas em seus
+hábitos. A mente dessas pessoas é dependente do domínio, de modo que são
+capazes de exercitar o pensamento em uma conferência, mas não fazem a mesma
+coisa no escritório. Ademais, as ferramentas gaussianas lhes fornecem números,
+que parecem ser “melhores do que nada”. A medida resultante da incerteza futura
+satisfaz nosso desejo inerente de simpliﬁcar, mesmo que isso signiﬁque espremer
+em um único número questões que são fecundas demais para serem descritas
+dessa forma.
+A traição dos escriturários
+Encerrei o capítulo 1 com a quebra do mercado de ações em 1987, o que me
+permitiu seguir agressivamente no encalço da minha ideia do Cisne Negro. Logo
+após essa quebra, quando aﬁrmei que aqueles que usam sigma (ou seja, desvio-
+padrão) como medida do grau de risco e aleatoriedade eram charlatães, todos
+concordaram comigo. Se o mundo das ﬁnanças fosse gaussiano, um episódio
+como esse colapso (mais de vinte desvios-padrão) ocorreria a cada vários bilhões
+de vidas do universo (veja o exemplo da altura no capítulo 15). De acordo com as
+circunstâncias de 1987, as pessoas aceitaram que eventos raros ocorrem e são a
+
+principal fonte de incerteza. Elas estavam apenas relutantes em desistir da
+gaussiana como uma ferramenta de medição central — “Ei, não temos nada mais
+além disso”. As pessoas querem um número a que possam se agarrar, feito uma
+âncora. No entanto, os dois métodos são logicamente incompatíveis.
+FIGURA 18. Removendo as dez maiores movimentações de um dia no mercado de ações dos Estados
+Unidos nos últimos cinquenta anos, constatamos uma enorme diferença nos lucros — e ainda assim as
+nanças convencionais veem esses saltos de um dia como meras anomalias. (Este é apenas um de muitos
+testes do tipo. Embora seja bastante convincente em uma leitura informal, há outros muito mais
+convincentes do ponto de vista matemático, por exemplo a incidência de eventos “dez sigma”.)
+Sem que eu soubesse, os acontecimentos de 1987 não foram a primeira vez
+que a ideia da gaussiana se mostrou uma insanidade. Mandelbrot propôs o
+escalável ao establishment econômico por volta de 1960, e demonstrou aos
+ﬁgurões como a curva gaussiana não se ajustava aos preços naquela época.
+Todavia, depois que se recuperaram da empolgação, eles perceberam que teriam
+que reaprender seu ofício. Um dos economistas inﬂuentes do período, o falecido
+Paul Cootner, escreveu: “Mandelbrot, tal qual o primeiro-ministro Churchill
+antes dele, nos prometeu não a utopia, mas sangue, suor, labuta e lágrimas. Se ele
+estiver certo, quase todas as nossas ferramentas estatísticas estão obsoletas [ou]
+não fazem sentido”. Proponho duas correções à declaração de Cootner. Em
+primeiro lugar, substituiria quase todas por todas. Em segundo lugar, discordo
+
+dessa história de “sangue e suor”. Na minha opinião, a aleatoriedade
+mandelbrotiana é consideravelmente mais fácil de entender do que as estatísticas
+convencionais. Se você é novato no ramo, não conﬁe nas ferramentas teóricas
+antigas, e não tenha grande expectativa de certeza.
+Qualquer um pode se tornar presidente
+E agora uma breve história do prêmio Nobel de economia, que foi instituído
+pelo Banco Nacional da Suécia em homenagem a Alfred Nobel, o qual, segundo
+sua família que quer a abolição do prêmio, talvez agora esteja rolando no túmulo,
+enojado e desgostoso. Um membro ativista da família deﬁne o prêmio como um
+golpe de relações públicas por parte de economistas cujo intuito é colocar seu
+campo de atuação em uma posição mais elevada do que ela merece. É verdade
+que o prêmio foi outorgado a alguns pensadores valiosos, como o psicólogo
+empírico Daniel Kahneman e o economista pensante Friedrich Hayek. Mas o
+comitê adquiriu o hábito de distribuir o Nobel a pessoas que “trazem rigor” ao
+processo com pseudociência e matemática falsa. Depois da quebra do mercado de
+ações, eles premiaram dois teóricos, Harry Markowitz e William Sharpe, que
+construíram modelos lindamente platônicos de base gaussiana, contribuindo para
+o que se denomina Teoria Moderna do Portfólio. Simplesmente, se você remover
+as suposições gaussianas e tratar os preços como escaláveis, o que resta é apenas
+conversa mole. O Comitê Nobel poderia ter testado os modelos de Sharpe e
+Markowitz — que funcionam tanto quanto placebos vendidos como remédios
+milagrosos por charlatães na internet —, mas ninguém em Estocolmo parece ter
+pensado nisso. O comitê tampouco veio atrás de nós, os praticantes, para pedir
+nossa opinião; em vez disso, contou com um processo de veriﬁcação acadêmica
+que, em algumas disciplinas, pode ser corrupto até a medula. Depois dessa
+premiação, ﬁz uma previsão: “Em um mundo em que esses dois ganham o Nobel,
+qualquer coisa pode acontecer. Qualquer um pode se tornar presidente”.
+Portanto, o Banco Nacional da Suécia e a Academia Sueca são os grandes
+responsáveis por dar crédito ao uso da Teoria Moderna do Portfólio gaussiana,
+pois as instituições consideraram que se trata de uma excelente abordagem para
+“tirar o delas da reta”. Fabricantes de software venderam métodos “laureados com
+o Nobel” por milhões de dólares. Como seria possível errar usando essa grife?
+Curiosamente, todo mundo que atuava no mundo dos negócios inicialmente
+sabia que a ideia era uma fraude, mas as pessoas se acostumaram a tais métodos.
+Alan Greenspan, presidente do Federal Reserve, supostamente teria deixado
+escapar: “Preﬁro ouvir a opinião de um trader à de um matemático”. Enquanto
+
+isso, a Teoria Moderna do Portfólio começou a se espalhar. Vou repetir até ﬁcar
+rouco: o que determina o destino de uma teoria nas ciências sociais é o contágio,
+não sua validade.
+Somente mais tarde percebi que professores de ﬁnanças com formação
+gaussiana estavam tomando conta das faculdades de economia e administração e,
+portanto, dos programas de _4), e produzindo cerca de 100 mil alunos por ano
+na área de negócios, apenas nos Estados Unidos, todos eles vítimas de lavagem
+cerebral por meio de uma teoria de portfólio fajuta. Nenhuma observação
+empírica poderia estancar a epidemia. Parecia melhor ensinar aos alunos uma
+teoria baseada na gaussiana do que não lhes ensinar teoria nenhuma. Parecia mais
+“cientíﬁco” do que dar a eles o que Robert C. Merton (ﬁlho do sociólogo Robert
+K. Merton, que discutimos anteriormente) chamou de “anedota”. Merton
+escreveu que, antes da teoria de portfólio, as ﬁnanças eram “uma coleção de
+anedotas, regras gerais e manipulação de dados contábeis”. A teoria de portfólio
+permitiu “a subsequente evolução dessa miscelânea conceitual para uma rigorosa
+teoria econômica”. Para ter uma noção do grau de seriedade intelectual envolvido,
+e para comparar a economia neoclássica a uma ciência mais honesta, tenha em
+mente esta declaração do pai da medicina moderna do século , Claude
+Bernard: “Fatos por enquanto, mas com aspirações cientíﬁcas para mais tarde”. O
+certo seria enviar economistas para a faculdade de medicina.
+Dessa maneira, a gaussiana2 impregnou nossa cultura cientíﬁca e de negócios,
+e termos como sigma, variância, desvio-padrão, correlação, R quadrado e o
+epônimo índice de Sharpe, todos diretamente ligados a ela, impregnaram o jargão.
+Se você ler o prospecto de um fundo mútuo ou alguma descrição da exposição de
+um hedge fund, é provável que ele lhe forneça, entre outras informações, algum
+resumo quantitativo alegando medir o “risco”. Essa medida será baseada em uma
+das palavras-chave mencionadas aqui, derivadas da curva em forma de sino e seus
+análogos. Hoje, por exemplo, a política de investimentos dos fundos de pensão e
+escolha dos fundos são avaliados por “consultores” que se ﬁam na teoria de
+portfólio. Se houver um problema, eles podem alegar que se basearam no método
+cientíﬁco padrão.
+Mais horror
+As coisas pioraram muito em 1997. A Academia Sueca concedeu outra leva de
+prêmios Nobel baseados em Gauss a Myron Scholes e Robert C. Merton, que
+haviam aprimorado uma velha fórmula matemática e a tornado compatível com as
+grandiosas teorias gaussianas de equilíbrio ﬁnanceiro geral existentes — portanto,
+
+aceitáveis para o establishment econômico. A fórmula era agora “utilizável”. Ela
+tinha uma lista de “precursores” havia muito esquecidos, entre os quais estava o
+matemático e jogador Ed Thorp, autor do best-seller Beat the Dealer [Derrote a
+banca],3 sobre como se dar bem no jogo de vinte e um. No entanto, por algum
+motivo as pessoas acreditam que Scholes e Merton a inventaram, quando, na
+verdade, eles apenas a tornaram aceitável. A fórmula era meu ganha-pão. Os
+traders, pessoas de baixo para cima, conhecem essa fórmula de cabo a rabo e de
+trás para a frente, muito melhor que os acadêmicos, por passar noites em claro
+preocupando-se com os riscos dela, apesar de que poucos deles seriam capazes
+de expressar suas ideias em termos técnicos, então senti que os estava
+representando. Scholes e Merton tornaram a fórmula dependente da gaussiana,
+mas os “precursores” deles não a sujeitaram a tal restrição.4
+Os anos pós-quebra foram divertidos para mim, do ponto de vista intelectual.
+Participei de conferências em ﬁnanças e matemática da incerteza; nunca, nem
+uma vez, encontrei um palestrante, com ou sem Nobel, que entendesse do que
+estava falando quando se tratava de probabilidade, de modo que eu podia
+assustar todo mundo com as minhas perguntas. Essas pessoas realizavam “um
+trabalho profundo em matemática”, mas quando indagadas sobre de onde tiravam
+suas probabilidades, as explicações deixavam claro que haviam se apaixonado pela
+falácia lúdica e sido ludibriados por ela — era perceptível a estranha coexistência
+de habilidades técnicas e ausência de compreensão que encontramos nos idiot
+savants, os sábios idiotas. Em momento algum consegui uma única resposta
+inteligente ou que não fosse ad hominem. Como eu os questionava a respeito de
+todo o seu negócio, era compreensível que atraísse toda sorte de insultos:
+“obsessivo”, “comercial”, “ﬁlosóﬁco”, “ensaísta”, “homem ocioso que vive de renda”,
+“repetitivo”, “praticante” (isso é um insulto no mundo acadêmico), “acadêmico”
+(isso é um insulto no mundo dos negócios). Ser o alvo dos insultos raivosos não é
+tão ruim; você se acostuma rápido e passa a se concentrar naquilo que não é dito.
+Os operadores de pregão são treinados para lidar com ataques de fúria. Se você
+trabalha em um pregão caótico, alguém especialmente mal-humorado por ter
+perdido dinheiro pode começar a xingar você aos berros até machucar as cordas
+vocais, minutos depois esquecer o surto e, uma hora depois, convidar você para a
+festa de Natal na casa dele. Assim, você se torna insensível a insultos, sobretudo
+se treinar a si mesmo para imaginar que a pessoa que está proferindo os
+xingamentos é uma variante de um macaco barulhento com pouco autocontrole.
+Simplesmente mantenha a compostura, sorria, concentre-se em analisar a pessoa
+que está vociferando, não a mensagem, e você vencerá a discussão. Um ataque ad
+
+hominem contra um intelectual, não contra uma ideia, é extremamente lisonjeiro.
+Indica que a pessoa que está esbravejando não tem nada inteligente a dizer sobre
+a sua mensagem.
+Após assistir a uma de minhas palestras, o psicólogo Philip Tetlock (o
+desbaratador de especialistas do capítulo 10) relatou ter ﬁcado impressionado
+com a presença de um agudo estado de dissonância cognitiva na plateia. Mas a
+forma como as pessoas resolvem essa tensão cognitiva, que atinge o âmago de
+tudo que lhes foi ensinado e os métodos que elas praticam — e que, elas se dão
+conta, continuarão a praticar —, pode variar muito. Era sintomático como quase
+todas as pessoas que atacavam meu pensamento o faziam sobre uma versão
+deformada dele, algo como “tudo é aleatório e imprevisível” em vez de “é
+amplamente aleatório”, isso quando não se confundiam, mostrando-me de
+maneira atabalhoada como a curva em forma de sino funciona em alguns
+domínios físicos. Alguns tinham até mesmo que mudar minha biograﬁa. Certa
+vez, em um painel em Lugano, Myron Scholes se enraiveceu e partiu com unhas
+e dentes para cima de uma versão transformada das minhas ideias. Pude ver a dor
+estampada em seu rosto. Uma vez, em Paris, um renomado integrante do
+establishment matemático, que investiu parte de sua vida em alguma minúscula
+subpropriedade da gaussiana, perdeu a paciência e explodiu de raiva no exato
+momento em que mostrei evidências empíricas do papel dos Cisnes Negros em
+mercados. Vermelho e furibundo, ele ﬁcou com diﬁculdade para respirar e
+começou a lançar impropérios contra mim por ter profanado a instituição, por
+ser desprovido de pudeur (modéstia); ele berrava “Eu sou um membro da
+Academia de Ciências!” para dar mais força a suas ofensas. (A tradução francesa
+do meu livro se esgotou no dia seguinte.) O melhor episódio da minha lista foi
+quando Steve Ross, economista tido como um intelectual muito superior a
+Scholes e Merton, considerado um debatedor formidável, refutou minhas ideias
+sinalizando pequenos erros ou aproximações em minha apresentação, a exemplo
+de “Markowitz não foi o primeiro a…”, atestando assim que não tinha resposta
+para meu argumento principal. Outros que investiram boa parte da vida nessas
+ideias recorreram ao vandalismo na web. Economistas costumam invocar um
+estranho argumento de Milton Friedman que aﬁrma que modelos não precisam
+ter suposições realistas para serem aceitáveis — dando-lhes licença para produzir
+representações matemáticas da realidade gravemente defeituosas. O problema, é
+óbvio, é que essas gaussianizações não têm pressupostos realistas e não
+produzem resultados conﬁáveis. Elas não são nem realistas nem preditivas.
+Observe também um viés mental que encontro de tempos em tempos: as pessoas
+
+confundem um evento cuja probabilidade de ocorrer é pequena, digamos, uma
+vez a cada vinte anos, com um evento cuja ocorrência é periódica. Pensam que
+estarão seguras se só forem expostas a ele por dez anos.
+Tive diﬁculdade em fazer com que entendessem a minha mensagem sobre a
+diferença entre o Mediocristão e o Extremistão. Muitos argumentos que foram
+apresentados a mim diziam respeito a como a sociedade tem se saído bem com a
+curva em forma do sino — basta olhar para os escritórios dos serviços de
+concessão de crédito etc.
+O único comentário que achei inaceitável foi: “Você está certo; precisamos de
+você para nos lembrar da fraqueza desses métodos, mas você não pode querer
+jogar tudo no lixo”, o que signiﬁca que eu precisava aceitar sua distribuição
+gaussiana redutiva e, ao mesmo tempo, aceitar também que grandes desvios
+poderiam ocorrer — eles não percebiam a incompatibilidade dos dois enfoques.
+Era como se fosse possível alguém estar semimorto. Em vinte anos de debates,
+nenhum desses usuários da teoria de portfólio foi capaz de explicar como eles
+poderiam aceitar simultaneamente o arcabouço gaussiano e os grandes desvios.
+Nenhum.
+Conﬁrmação
+Ao longo do caminho, vi erros de conﬁrmação o suﬁciente para fazer Karl
+Popper se enfurecer. As pessoas encontravam dados nos quais não havia saltos ou
+eventos extremos e me mostravam uma “prova” de que se pode usar a gaussiana.
+Isso era exatamente como meu exemplo da “prova” de que O. J. Simpson não é
+um assassino no capítulo 5. Todo o segmento da estatística confundiu a ausência
+de prova com a prova de ausência. Além do mais, as pessoas não entendiam a
+assimetria elementar envolvida na questão: basta uma única observação para
+rejeitar a gaussiana, mas milhões de observações não conﬁrmarão totalmente a
+validade de sua aplicação. Por quê? Porque a curva em forma de sino gaussiana
+não permite grandes desvios, mas ferramentas do Extremistão não impedem
+longos trechos de intervalos silenciosos.
+Eu não sabia que a obra de Mandelbrot tinha relevância fora da estética e da
+geometria. Ao contrário dele, não fui condenado ao ostracismo: recebi boa dose
+de aprovação de proﬁssionais e tomadores de decisões, embora não das suas
+equipes de pesquisa.
+Até que, de repente, recebi a mais inesperada legitimação.
+FOI APENAS UM CISNE NEGRO
+
+Robert Merton Jr. e Myron Scholes foram os sócios fundadores da grande
+empresa de trading especulativo chamada Long-Term Capital Management
+(Y~5_), que mencionei no capítulo 4. Esse fundo de investimentos consistia em
+um grupo de pessoas com excelentes currículos, dos mais altos escalões do
+mundo acadêmico. Eram considerados gênios. As ideias da teoria de portfólio
+inspiraram seu gerenciamento de riscos de resultados possíveis — graças a seus
+“cálculos” soﬁsticados, eles conseguiram ampliar a falácia lúdica a proporções
+industriais.
+Então, durante o verão de 1998, ocorreu uma combinação de grandes eventos,
+desencadeada por uma crise ﬁnanceira russa, que estava fora do âmbito dos
+modelos do Y~5_. Foi um Cisne Negro. O fundo faliu, e seu colapso quase
+derrubou consigo todo o sistema ﬁnanceiro, já que as exposições foram enormes.
+Como os modelos do Y~5_ descartavam a possibilidade de grandes desvios, eles
+se permitiram correr um risco monstruoso. As ideias de Merton e Scholes, assim
+como as da Teoria Moderna do Portfólio, estavam começando a naufragar. A
+magnitude das perdas foi espetacular, espetacular demais para nos darmos ao
+luxo de ignorar a comédia intelectual. Muitos amigos e eu pensamos que os
+teóricos de portfólio sofreriam o destino das companhias de tabaco: estavam
+colocando em risco as economias das pessoas e logo seriam responsabilizados
+pelas consequências de seus métodos de inspiração gaussiana.
+Nada disso aconteceu.
+Pelo contrário, os alunos de _4) em faculdades de economia e administração
+continuaram aprendendo a teoria de portfólio. E a fórmula da opção continuou a
+carregar o nome Black-Scholes-Merton, em vez de voltar aos seus verdadeiros
+donos, Louis Bachelier, Ed Thorp e outros.
+Como “provar” coisas
+Merton, o mais jovem, é um representante da escola da economia neoclássica
+que, como vimos com o fundo Y~5_, é a ilustração mais poderosa dos perigos do
+conhecimento platoniﬁcado.5 Observando sua metodologia, vejo o seguinte
+padrão: ele começa com suposições rigidamente platônicas, completamente
+irrealistas — como as probabilidades gaussianas, ao lado de muitas outras
+igualmente perturbadoras. Em seguida, a partir delas, ele gera “teoremas” e
+“provas”. A matemática é concisa e elegante. Os teoremas são compatíveis com
+outros da Teoria Moderna do Portfólio, eles próprios compatíveis com outros
+teoremas, construindo uma grande teoria de como as pessoas consomem,
+economizam, enfrentam incertezas, gastam e projetam o futuro. Ele presume que
+
+conhecemos a probabilidade dos eventos. A abominável palavra equilíbrio está
+sempre presente. Mas todo o edifício é como um jogo que é totalmente fechado,
+como o Banco Imobiliário com todas as suas regras.
+Um acadêmico que aplica tal metodologia se assemelha à deﬁnição de Locke
+de um louco: alguém “raciocinando corretamente a partir de premissas errôneas”.
+Ora, a matemática elegante tem esta propriedade: é perfeitamente correta, não
+99% correta. Essa propriedade seduz mentes mecanicistas que não querem lidar
+com ambiguidades. Infelizmente, é necessário trapacear em algum lugar para
+fazer o mundo se encaixar perfeitamente na matemática; e você precisa falsiﬁcar
+suas suposições em algum lugar. Vimos com a citação de Hardy que os
+matemáticos proﬁssionais “puros”, no entanto, são absolutamente honestos.
+Portanto, as coisas ﬁcam confusas quando alguém como Merton tenta ser
+matemático e hermético, em vez de ter como foco a adequação à realidade.
+É aí que se aprende com a mente dos militares e daqueles que têm
+responsabilidades na área de segurança. Eles não se importam com o raciocínio
+lúdico “perfeito”; querem suposições realistas e ecológicas. No ﬁm das contas,
+eles se importam com vidas.
+Mencionei no capítulo 11 como aqueles que iniciaram o jogo do “raciocínio
+formal”, fabricando premissas falsas a ﬁm de gerar teorias “rigorosas”, foram Paul
+Samuelson, tutor de Merton, e, no Reino Unido, John Hicks. Esses dois
+arruinaram as ideias de John Maynard Keynes, que eles tentaram formalizar
+(Keynes estava interessado na incerteza, e se queixava das certezas induzidas por
+modelos, que estreitam a mente). Outros participantes no empreendimento do
+pensamento formal foram Kenneth Arrow e Gerard Debreu. Os quatro foram
+nobelizados. Os quatro encontravam-se em um estado delirante sob o efeito da
+matemática — o que Dieudonné chamou de “a música da razão”, e o que eu
+chamo de loucura de Locke. Todos eles podem ser seguramente acusados de
+terem inventado um mundo imaginário, que se prestava à sua matemática. O
+perspicaz acadêmico Martin Shubik, para quem o excessivo grau de abstração
+desses modelos, alguns passos além do necessário, os tornava totalmente
+inutilizáveis, viu-se condenado ao ostracismo, um destino comum para os
+dissidentes.6
+Se você questionar o que eles fazem, como ﬁz com Merton Jr., pedirão “provas
+precisas”. Então, eles deﬁnem as regras do jogo, e você precisa jogar respeitando
+essas regras. Vindo de uma experiência proﬁssional em que o principal ativo é ser
+capaz de trabalhar com matemática complicada, mas empiricamente aceitável,
+não posso aceitar uma ciência de faz de conta. Preﬁro muito mais um ofício
+
+soﬁsticado, focado em truques, a uma ciência fracassada que busca certezas. Ou
+esses construtores de modelos neoclássicos poderiam estar fazendo algo pior?
+Estariam envolvidos no que o bispo Huet chama de fabricação de certezas?
+Vamos ver.
+  •      
+     
+ 
+Interessado no que está fora da dobra
+platônica
+Concentra-se no interior da dobra platônica
+Respeito por quem tem a coragem de
+dizer “eu não sei”
+“Você insiste em criticar esses modelos. Esses modelos são
+tudo o que temos.”
+Tony Gordo
+Dr. John
+Pensa em Cisnes Negros como uma
+fonte dominante de aleatoriedade
+Pensa em utuações comuns como uma fonte dominante de
+aleatoriedade, e os saltos são apenas um detalhe
+De baixo para cima
+De cima para baixo
+Normalmente não usa terno e gravata
+(exceto para funerais)
+Usa ternos escuros, camisas brancas; fala em um tom de
+voz enfadonho
+Prefere estar certo de modo geral
+Está errado de modo preciso
+Mínimo de teoria, considera a teorização
+como uma doença à qual resistir
+Tudo precisa caber em algum modelo socioeconômico
+grandioso e generalizante e se ajustar ao “rigor da teoria
+econômica”; desaprova o “descritivo”
+Não acredita que podemos computar
+probabilidades facilmente
+Construiu todo o seu aparato com base em suposições de
+que podemos calcular probabilidades
+Modelo: Sexto Empírico e a escola
+empírica de medicina baseada em
+evidências, com o mínimo de teoria
+Modelo: mecânica laplaciana, o mundo e a economia como
+um relógio
+Desenvolve intuições a partir da prática;
+vai das observações para os livros
+Baseia-se em artigos cientícos, vai dos livros para a prática
+Não é inspirado por nenhuma ciência,
+usa matemática complicada e métodos
+computacionais
+Inspirado pela física, a-se em matemática abstrata
+Ideias baseadas no ceticismo, nos livros
+não lidos da biblioteca
+Ideias baseadas em crenças, no que pensa que sabe
+Adota o Extremistão como ponto de
+partida
+Adota o Mediocristão como ponto de partida
+Técnica sosticada
+Ciência pobre
+Procura estar aproximadamente certo
+em um amplo conjunto de
+eventualidades
+Procura estar perfeitamente certo em um modelo estreito,
+sob suposições precisas
+
+O empirismo cético defende o método oposto. Eu me importo mais com
+premissas do que com teorias e quero minimizar a dependência de teorias, ter
+leveza nos pés e reduzir minhas surpresas. Preﬁro estar certo de um modo geral a
+estar errado de forma precisa. Elegância em teorias costuma ser indicativo de
+platonicidade e fraqueza — um convite à busca da elegância pela elegância. Uma
+teoria é como um remédio (ou um governo): muitas vezes inútil, às vezes
+necessária, sempre interesseira e, às vezes, letal. Portanto, precisa ser usada com
+cuidado, moderação e supervisão de um adulto.
+A distinção na tabela 4 entre meu modelo moderno, empirista e cético e o que
+os ﬁlhotinhos de Samuelson representam pode ser generalizada para diferentes
+disciplinas.
+Apresentei minhas ideias na área de ﬁnanças porque foi lá que as reﬁnei.
+Agora examinaremos uma categoria de pessoas das quais se espera que sejam
+mais ponderadas: os ﬁlósofos.
+

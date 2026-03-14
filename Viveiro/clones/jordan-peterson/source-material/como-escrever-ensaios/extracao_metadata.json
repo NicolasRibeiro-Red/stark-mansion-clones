@@ -1,0 +1,156 @@
+{
+  "titulo": "Guia de escrita",
+  "autor": "Jordan Peterson",
+  "total_paginas": 17,
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "Passo 1: introdução",
+      "paginas": "1-0",
+      "arquivo": "cap_01_Passo_1_introdução.txt"
+    },
+    {
+      "numero": 2,
+      "titulo": "O que é um ensaio?",
+      "paginas": "1-0",
+      "arquivo": "cap_02_O_que_é_um_ensaio.txt"
+    },
+    {
+      "numero": 3,
+      "titulo": "Por que se preocupar em escrever um ensaio?",
+      "paginas": "1-2",
+      "arquivo": "cap_03_Por_que_se_preocupar_em_escrever_um_ensaio.txt"
+    },
+    {
+      "numero": 4,
+      "titulo": "Uma nota sobre tecnologia",
+      "paginas": "3-2",
+      "arquivo": "cap_04_Uma_nota_sobre_tecnologia.txt"
+    },
+    {
+      "numero": 5,
+      "titulo": "Uma nota sobre o aproveitamento do tempo",
+      "paginas": "3-3",
+      "arquivo": "cap_05_Uma_nota_sobre_o_aproveitamento_do_tempo.txt"
+    },
+    {
+      "numero": 6,
+      "titulo": "Passo 2: níveis de resolução",
+      "paginas": "4-3",
+      "arquivo": "cap_06_Passo_2_níveis_de_resolução.txt"
+    },
+    {
+      "numero": 7,
+      "titulo": "Palavras, frases, parágrafos e mais",
+      "paginas": "4-4",
+      "arquivo": "cap_07_Palavras_frases_parágrafos_e_mais.txt"
+    },
+    {
+      "numero": 8,
+      "titulo": "Níveis adicionais",
+      "paginas": "5-4",
+      "arquivo": "cap_08_Níveis_adicionais.txt"
+    },
+    {
+      "numero": 9,
+      "titulo": "Considerações sobre estética e fascinação",
+      "paginas": "5-5",
+      "arquivo": "cap_09_Considerações_sobre_estética_e_fascinação.txt"
+    },
+    {
+      "numero": 10,
+      "titulo": "Passo 3: o tópico e a lista de leitura",
+      "paginas": "6-6",
+      "arquivo": "cap_10_Passo_3_o_tópico_e_a_lista_de_leitura.txt"
+    },
+    {
+      "numero": 11,
+      "titulo": "Tópicos",
+      "paginas": "7-6",
+      "arquivo": "cap_11_Tópicos.txt"
+    },
+    {
+      "numero": 12,
+      "titulo": "Lista de leitura",
+      "paginas": "7-7",
+      "arquivo": "cap_12_Lista_de_leitura.txt"
+    },
+    {
+      "numero": 13,
+      "titulo": "Uma nota psicológica e algumas notas sobre notas.",
+      "paginas": "8-8",
+      "arquivo": "cap_13_Uma_nota_psicológica_e_algumas_notas_sobre_notas.txt"
+    },
+    {
+      "numero": 14,
+      "titulo": "Passo 4: o esboço",
+      "paginas": "9-10",
+      "arquivo": "cap_14_Passo_4_o_esboço.txt"
+    },
+    {
+      "numero": 15,
+      "titulo": "Passo 5: parágrafos",
+      "paginas": "11-11",
+      "arquivo": "cap_15_Passo_5_parágrafos.txt"
+    },
+    {
+      "numero": 16,
+      "titulo": "Passo 6: editando e organizando as sentenças dentro dos parágrafos.",
+      "paginas": "12-13",
+      "arquivo": "cap_16_Passo_6_editando_e_organizando_as_sentenças_dentro.txt"
+    },
+    {
+      "numero": 17,
+      "titulo": "Passo 7: reordenando os parágrafos",
+      "paginas": "14-14",
+      "arquivo": "cap_17_Passo_7_reordenando_os_parágrafos.txt"
+    },
+    {
+      "numero": 18,
+      "titulo": "Passo 8: gerando um novo esboço",
+      "paginas": "15-15",
+      "arquivo": "cap_18_Passo_8_gerando_um_novo_esboço.txt"
+    },
+    {
+      "numero": 19,
+      "titulo": "Passo 9: repetir",
+      "paginas": "16-15",
+      "arquivo": "cap_19_Passo_9_repetir.txt"
+    },
+    {
+      "numero": 20,
+      "titulo": "Passo 10: referências e bibliografia",
+      "paginas": "16-16",
+      "arquivo": "cap_20_Passo_10_referências_e_bibliografia.txt"
+    },
+    {
+      "numero": 21,
+      "titulo": "Seu ensaio concluído",
+      "paginas": "17-17",
+      "arquivo": "cap_21_Seu_ensaio_concluído.txt"
+    }
+  ],
+  "arquivos": [
+    "cap_01_Passo_1_introdução.txt",
+    "cap_02_O_que_é_um_ensaio.txt",
+    "cap_03_Por_que_se_preocupar_em_escrever_um_ensaio.txt",
+    "cap_04_Uma_nota_sobre_tecnologia.txt",
+    "cap_05_Uma_nota_sobre_o_aproveitamento_do_tempo.txt",
+    "cap_06_Passo_2_níveis_de_resolução.txt",
+    "cap_07_Palavras_frases_parágrafos_e_mais.txt",
+    "cap_08_Níveis_adicionais.txt",
+    "cap_09_Considerações_sobre_estética_e_fascinação.txt",
+    "cap_10_Passo_3_o_tópico_e_a_lista_de_leitura.txt",
+    "cap_11_Tópicos.txt",
+    "cap_12_Lista_de_leitura.txt",
+    "cap_13_Uma_nota_psicológica_e_algumas_notas_sobre_notas.txt",
+    "cap_14_Passo_4_o_esboço.txt",
+    "cap_15_Passo_5_parágrafos.txt",
+    "cap_16_Passo_6_editando_e_organizando_as_sentenças_dentro.txt",
+    "cap_17_Passo_7_reordenando_os_parágrafos.txt",
+    "cap_18_Passo_8_gerando_um_novo_esboço.txt",
+    "cap_19_Passo_9_repetir.txt",
+    "cap_20_Passo_10_referências_e_bibliografia.txt",
+    "cap_21_Seu_ensaio_concluído.txt"
+  ]
+}

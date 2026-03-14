@@ -1,0 +1,1099 @@
+# 10. O escândalo de previsão
+
+Paginas: 162-192
+
+10. O escândalo de previsão
+Bem-vindo a Sydney — Quantos amantes ela teve? — Como ser economista, vestir
+um belo terno e fazer amigos — Certo não, “quase” certo — Rios rasos podem ter
+trechos profundos
+Em uma noite de março, alguns homens e mulheres estavam na esplanada com
+vista para a baía onde ﬁca a Sydney Opera House. Já era perto do ﬁnal do verão,
+mas os homens estavam vestindo paletós apesar do tempo quente. As mulheres
+estavam termicamente mais confortáveis que os homens, mas sofriam com os
+saltos altos que prejudicavam a mobilidade.
+Todos estavam lá para pagar o preço da soﬁsticação. Em pouco tempo
+passariam várias horas ouvindo a interminável cantoria em russo de um conjunto
+de homens e mulheres imensos. Muitas das pessoas que rumavam para a ópera
+pareciam trabalhar no escritório local do J. P. Morgan, ou em alguma outra
+instituição ﬁnanceira cujos funcionários vivenciam um nível de riqueza que os
+diferencia da população local, com pressões concomitantes para viver de acordo
+com um roteiro soﬁsticado (vinho e ópera). Mas eu não estava lá para dar uma
+espiada nos neossoﬁsticados. Minha intenção era ver a Opera House, um edifício
+que adorna todos os folhetos turísticos australianos. Na verdade, é uma
+construção impressionante, embora pareça o tipo de edifício que os arquitetos
+criam para impressionar outros arquitetos.
+A caminhada noturna pela agradável parte de Sydney chamada The Rocks era
+uma peregrinação. Enquanto os australianos possuíam a ilusão de terem
+construído um monumento para realçar a silhueta da cidade, o que eles
+realmente ﬁzeram foi erguer um monumento à nossa incapacidade de prever,
+planejar e começar a entender nosso desconhecimento do futuro — nossa
+sistemática subestimação do que o futuro nos reserva.
+
+Na verdade, os australianos tinham construído um símbolo da arrogância
+epistêmica da raça humana. A história é a seguinte. A Sydney Opera House
+deveria ter sido inaugurada no início de 1963 a um custo de 7 milhões de dólares
+australianos. Acabou abrindo as portas mais de dez anos depois, e, embora fosse
+uma versão menos ambiciosa do projeto inicialmente previsto, custou cerca de
+104 milhões de dólares australianos. Ainda que existam casos muito piores de
+falhas de planejamento (a saber, a União Soviética), ou falhas de previsão (todos
+os eventos históricos importantes), a Sydney Opera House fornece uma
+ilustração estética (pelo menos em princípio) das diﬁculdades. Essa história é a
+mais suave de todas as distorções que discutiremos nesta seção (foi apenas
+dinheiro, e não causou derramamento de sangue inocente). Mesmo assim, é um
+exemplo emblemático.
+Este capítulo tem dois tópicos. O primeiro: somos comprovadamente
+arrogantes acerca do que pensamos que sabemos. É claro que sabemos muito,
+mas temos uma tendência intrínseca de achar que sabemos um pouquinho mais
+do que de fato sabemos, e esse pouquinho é o suﬁciente para, de vez em quando,
+nos meter em problemas sérios. Veremos como é possível veriﬁcar, até mesmo
+medir, essa arrogância em nossa própria sala de estar.
+Segundo: veremos as implicações dessa arrogância em todas as atividades
+envolvendo previsão.
+Por que diabos fazemos tantas previsões? Pior ainda, e mais interessante: por
+que não falamos sobre nosso histórico de fazer previsões? Por que não vemos
+como (quase) sempre deixamos os grandes eventos passar despercebidos? Chamo
+isso de escândalo de previsão.
+SOBRE A IMPRECISÃO DA CONTAGEM DOS AMANTES DE CATARINA
+Vamos examinar o que eu chamo de arrogância epistêmica, literalmente a
+arrogância com relação aos limites do nosso conhecimento. Epistēmē é uma
+palavra grega que se refere ao conhecimento; dar um nome grego a um conceito
+abstrato faz com que ele pareça importante. É verdade que nosso conhecimento
+cresce, mas é ameaçado por aumentos ainda maiores de conﬁança, o que faz com
+que o aumento de conhecimento se torne ao mesmo tempo um aumento de
+confusão, ignorância e presunção.
+Imagine uma sala cheia de pessoas. Escolha um número aleatório. Ele pode
+corresponder a qualquer coisa: a proporção de psicopatas corretores da bolsa no
+oeste da Ucrânia, as vendas deste livro durante os meses que incluem a letra r, o
+
+r médio dos editores de livros de negócios (ou dos escritores de livros de
+negócios), o número de amantes de Catarina  da Rússia etc. Peça a cada uma das
+pessoas na sala para estimar de forma independente um intervalo de valores
+possíveis para esse número deﬁnido, de modo que elas acreditem que têm 98%
+de chance de estarem certas e menos de 2% de chance de estarem erradas. Em
+outras palavras, qualquer que seja o objeto da suposição dessas pessoas, o palpite
+delas tem cerca de 2% de chance de estar fora da faixa. Por exemplo:
+“Estou 98% conﬁante de que a população do Rajastão ﬁca entre 15 e 23
+milhões de habitantes.”
+“Estou 98% conﬁante de que Catarina  da Rússia teve entre 34 e 63
+amantes.”
+Você pode fazer inferências sobre a natureza humana contando quantas
+pessoas em sua amostragem ﬁzeram suposições erradas; não se espera que esse
+número seja muito superior a dois entre cem participantes. Observe que os
+sujeitos da sua pesquisa (suas vítimas) são livres para deﬁnir uma amplitude de
+faixa do tamanho que quiserem: você não está tentando medir os conhecimentos
+dos participantes, mas sim a avaliação que eles fazem do próprio conhecimento.
+Agora, os resultados. Como muitas coisas na vida, a descoberta foi imprevista,
+fortuita, surpreendente e demorou um bocado de tempo para ser digerida. Reza a
+lenda que Albert e Raia, os pesquisadores que perceberam isso, estavam na
+verdade procurando algo bem diferente e mais enfadonho: de que modo os
+humanos descobrem probabilidades em sua tomada de decisões quando há
+incerteza envolvida (o que os eruditos chamam de calibragem ou calibração). Os
+pesquisadores ﬁcaram confusos. Evidenciou-se que a taxa de erro de 2% estava
+mais perto dos 45% na população testada! É bastante revelador que a primeira
+amostragem tenha consistido de alunos da Harvard Business School, uma espécie
+não exatamente conhecida por sua humildade ou orientação introspectiva.
+Estudantes com certiﬁcado de _4) são particularmente desagradáveis nesse
+quesito, o que talvez explique seu sucesso nos negócios. Estudos posteriores
+documentaram mais humildade, ou melhor, um menor grau de arrogância, em
+outras populações. Zeladores e taxistas são bastante humildes. Políticos e
+executivos corporativos, infelizmente… vou deixá-los para depois.
+Estamos 22 vezes mais confortáveis do que deveríamos com o que sabemos?
+Parece que sim.
+Esse experimento foi reproduzido dezenas de vezes, em diferentes
+populações, proﬁssões e culturas, e quase todos os psicólogos empíricos e
+teóricos da tomada de decisões o utilizaram na própria sala de aula para mostrar a
+
+seus alunos o grande problema da humanidade: simplesmente não somos sábios o
+suﬁciente para que o conhecimento nos seja conﬁado. No ﬁm ﬁcou claro que a
+pretendida taxa de erro de 2% geralmente ﬁca entre 15 e 30%, dependendo da
+população e do tópico.
+Eu me testei e, assim como era esperado, falhei, mesmo quando, de caso
+pensado, eu tentava ser humilde, estabelecendo cuidadosamente uma faixa ampla
+— e ainda assim essa subestimação calha de ser, como veremos, o cerne das
+minhas atividades proﬁssionais. Esse viés parece estar presente em todas as
+culturas, mesmo nas que privilegiam a humildade — parece não haver qualquer
+diferença signiﬁcativa entre o centro de Kuala Lumpur e o ancestral povoado de
+Amioun, no (atual) Líbano. Ontem à tarde ministrei um workshop em Londres, e
+a caminho do local fui escrevendo mentalmente, porque o taxista tinha uma
+capacidade acima da média de “encontrar trânsito”. Durante minha palestra,
+decidi fazer um rápido experimento.
+Pedi aos participantes que tentassem determinar o número de livros da
+biblioteca de Umberto Eco, que, como sabemos desde a introdução à parte ,
+contém 30 mil volumes. Das sessenta pessoas presentes que se arriscaram, nem
+uma única chegou a sugerir uma faixa ampla o suﬁciente para incluir o número
+real (a taxa de erro de 2% passou a ser de 100%). Esse caso pode ser uma
+aberração, mas a distorção é exacerbada com quantidades que fogem do comum.
+O curioso foi que a plateia errou tanto para muito mais quanto para muito
+menos: alguns participantes estipularam suas faixas entre 2 mil e 4 mil; outros
+entre 300 mil e 600 mil.
+É verdade que uma pessoa ciente da natureza do teste poderia se precaver e,
+sem se arriscar, deﬁnir a faixa como um intervalo entre zero e inﬁnito; mas isso já
+não seria “calibragem” — essa pessoa não estaria transmitindo informação
+nenhuma, e dessa maneira não seria capaz de tomar uma decisão abalizada. Nesse
+caso seria mais honroso apenas dizer: “Não quero participar desse jogo; não
+tenho a menor ideia”.
+Não é incomum encontrar contraexemplos, pessoas que passam dos limites na
+direção contrária e superestimam sua taxa de erro: talvez você tenha um primo
+exageradamente cuidadoso com o que diz, ou pode ser que você se lembre
+daquele seu professor de biologia da faculdade que exibia uma humildade
+patológica; a tendência que estou discutindo aqui se aplica à média da população,
+não a cada indivíduo. Existem variações suﬁcientes em torno da média para
+justiﬁcar ocasionais contraexemplos. Essas pessoas são a minoria — e,
+
+infelizmente, uma vez que poucas alcançam a notoriedade, não parecem
+desempenhar um papel muito inﬂuente na sociedade.
+A arrogância epistêmica tem um efeito duplo: superestimamos o que sabemos
+e subestimamos a incerteza, comprimindo a gama de possíveis estados incertos
+(ou seja, reduzindo o espaço do desconhecido).
+As aplicações dessa distorção se estendem para além da mera busca de
+conhecimento: basta olhar para a vida das pessoas ao seu redor. É provável que
+toda e qualquer decisão relativa ao futuro seja contaminada por isso. A raça
+humana é afetada por uma subestimação crônica da possibilidade de o futuro se
+desviar da rota inicialmente prevista (além de outros vieses que às vezes exercem
+um efeito intensiﬁcador). Para dar um exemplo óbvio, pense no número de
+pessoas que se divorciam. Quase todas estão familiarizadas com a estatística de
+que entre um terço e metade dos casamentos termina em fracasso, algo que as
+partes envolvidas não previram ao juntar as escovas de dentes. Claro que “com a
+gente isso não vai acontecer”, porque “nos damos muito bem” (como se as outras
+pessoas que estão se casando vivessem às turras).
+Faço questão de lembrar ao leitor que não estou testando o quanto as pessoas
+sabem, mas avaliando a diferença entre o que as pessoas realmente sabem e o
+quanto eles pensam que sabem. Ocorre-me agora uma medida, inventada de
+brincadeira por minha mãe quando decidi me tornar um homem de negócios.
+Sendo
+irônica
+sobre
+minha
+(percebida)
+autoconﬁança,
+embora
+não
+necessariamente cética quanto aos meus talentos, ela encontrou uma maneira de
+eu ganhar muito dinheiro em pouco tempo. Como? Alguém que fosse capaz de
+descobrir como me comprar pelo preço que eu realmente valho e me vender pelo
+valor que eu acho que mereço conseguiria embolsar um lucro gigantesco. Embora
+eu continue tentando convencer minha mãe de minha humildade e insegurança
+internas, ocultas sob uma camada exterior de conﬁança, e embora eu continue
+dizendo a ela que sou um introspectivo, ela permanece descrente. Introspectivo
+uma ova, ela ainda brinca no momento em que escrevo estas linhas, dizendo que
+estou colocando o carro na frente dos bois.
+CEGUEIRA EM RELAÇÃO AO CISNE NEGRO, REVISITADA
+O teste que acabei de mencionar sugere a presença de uma tendência
+arraigada nos humanos de subestimar os pontos fora da curva — ou Cisnes
+Negros. Deixados à própria sorte, tendemos a pensar que o que acontece a cada
+
+década acontece apenas uma vez a cada século, e, além disso, achamos que
+sabemos o que está acontecendo.
+Esse problema de erro de cálculo é um pouco mais sutil. Na verdade, os
+outliers não são tão sensíveis à subestimação, uma vez que são frágeis a erros de
+estimativa, que podem ir em ambas as direções. Como vimos no capítulo 6,
+existem condições sob as quais as pessoas superestimam o incomum ou algum
+evento incomum especíﬁco (por exemplo, quando imagens sensacionais lhes vêm
+à mente) — e é assim que as seguradoras prosperam. Então, meu argumento é
+que esses eventos são muito frágeis a cálculos incorretos, com uma grave
+subestimação geral misturada a uma severa superestimação ocasional.
+Os erros ﬁcam piores à medida que as chances de ocorrência do evento se
+tornam mais remotas. Até agora, levamos em consideração apenas uma taxa de
+erro de 2% no jogo que vimos antes, mas se olharmos para, digamos, situações
+em que as chances são de uma em cem, uma em mil, ou uma em 1 milhão, os
+erros tornam-se monstruosos. Quanto menores as chances de algo acontecer,
+maior será a arrogância epistêmica.
+Note aqui uma particularidade do nosso julgamento intuitivo: mesmo se
+vivêssemos no Mediocristão, em que os grandes eventos são raros (e,
+principalmente, irrelevantes), ainda assim subestimaríamos os extremos —
+pensaríamos que eles são ainda mais raros. Subestimamos nossa taxa de erro
+mesmo com variáveis gaussianas. Nossas intuições são submediocristãs. Mas não
+vivemos no Mediocristão. Os números que provavelmente estimamos no dia a
+dia pertencem em grande medida ao Extremistão, ou seja, são regidos pela
+concentração e sujeitos aos Cisnes Negros.
+Adivinhar e prever
+Não há diferença efetiva entre dar um palpite para adivinhar uma variável que
+não é aleatória, mas para a qual minhas informações são parciais ou deﬁcientes,
+como o número de amantes que passaram pela cama de Catarina  da Rússia, e
+prever uma variável aleatória, por exemplo a taxa de desemprego de amanhã ou a
+ﬂutuação do mercado de ações do ano que vem. Nesse sentido, adivinhar (o que
+eu não sei, mas o que outra pessoa pode saber) e prever (o que ainda não
+aconteceu) são a mesma coisa.
+Para ter uma consciência ainda maior da conexão entre adivinhar e prever,
+suponha que, em vez de tentar calcular o número de amantes de Catarina da
+Rússia, você está estimando a questão menos interessante — mas, para alguns,
+mais importante — do crescimento populacional para o próximo século, os lucros
+
+do mercado de ações, o déﬁcit da previdência social, o preço do petróleo, os
+resultados da venda da propriedade do seu tio-avô ou as condições ambientais do
+Brasil daqui a duas décadas. Ou, se você é o editor do livro de Ievguênia
+Krásnova, talvez precise estimar as possíveis vendas futuras. Agora estamos
+entrando em águas perigosas: basta considerar que a maioria dos proﬁssionais
+que fazem previsões também padece do problema de impedimento mental
+discutido anteriormente. Além disso, as pessoas que ganham a vida fazendo
+previsões costumam ser mais afetadas por esses impedimentos do que as demais.
+INFORMAÇÕES SÃO RUINS PARA O CONHECIMENTO
+Pode ser que você se pergunte como os níveis de conhecimento, educação e
+experiência afetam a arrogância epistêmica; qual seria o desempenho de pessoas
+instruídas no teste anterior, em comparação com o restante da população
+(usando Mikhail, o motorista de táxi, como referência). A resposta surpreenderá
+você: depende da proﬁssão. Primeiro examinarei as vantagens dos “informados”
+em relação ao restante de nós, humildes proﬁssionais no ramo das previsões.
+Lembro-me de visitar um amigo em um banco de investimentos de Nova York
+e ver um ﬁgurão frenético, do tipo “mestre do universo”, andando de um lado
+para o outro com fones de ouvido sem ﬁo cobrindo as orelhas e um microfone
+que se projetava do lado direito da cabeça, o que me impediu de me concentrar
+em seus lábios durante a conversa de vinte segundos que tive com ele. Perguntei
+ao meu amigo qual era o propósito daquela engenhoca. “Ele gosta de manter
+contato com Londres”, foi a resposta. Quando você é empregado, e portanto
+depende do julgamento de outras pessoas, parecer ocupado pode ajudá-lo a
+reivindicar a responsabilidade pelos resultados em um ambiente aleatório. Passar
+a impressão de que está superatarefado reforça a percepção de causalidade, da
+ligação entre os resultados e o papel que a pessoa desempenha neles. É claro que
+isso se aplica ainda mais aos presidentes de grandes empresas, que precisam
+alardear a ligação entre a sua “presença” e “liderança” e os resultados da empresa.
+Não tenho conhecimento de quaisquer estudos que investiguem a utilidade do
+tempo que essas pessoas investem em conversas e na absorção de informações
+insigniﬁcantes — e não foram muitos os escritores que tiveram a audácia de
+questionar até que ponto o papel do 5>f inﬂuencia o sucesso de uma
+corporação.
+Vamos discutir um dos principais efeitos da informação: obstruir o
+conhecimento.
+
+Aristóteles Onassis, talvez o primeiro magnata midiatizado, foi famoso
+principalmente por ser rico — e por ostentar sua riqueza. Refugiado do sul da
+Turquia e de etnia grega, Onassis foi para a Argentina, ganhou uma dinheirama
+importando tabaco turco e se tornou um mandachuva naval. Foi vilanizado e
+insultado quando se casou com Jacqueline Kennedy, viúva do presidente norte-
+americano John F. Kennedy, o que levou a cantora de ópera Maria Callas, de
+coração partido, a se encarcerar em um apartamento parisiense para esperar a
+morte.
+Se você estudar a vida de Onassis, o que passei parte do início da minha vida
+adulta fazendo, notará uma regularidade interessante: “trabalhar”, no sentido
+convencional, não era muito a praia dele. Onassis sequer tinha uma mesa de
+trabalho, muito menos um escritório. Ele não era apenas um negociador,
+atividade que não exige um escritório, mas também administrava um império
+global de marinha mercante, o que requer monitoramento diário. No entanto, sua
+principal ferramenta era um caderno, que continha todas as informações de que
+ele necessitava. Onassis passou a vida tentando se socializar com os ricos e
+famosos, e correndo atrás de mulheres (que ele colecionava). Geralmente
+acordava ao meio-dia. Quando precisava de aconselhamento jurídico, convocava
+seus advogados para uma reunião em alguma casa noturna de Paris às duas da
+manhã. Dizem que tinha um charme irresistível, o que o ajudava a tirar vantagem
+das pessoas.
+Vamos além do relato anedótico. Pode ser que esteja em ação aqui um efeito
+“iludidos pelo acaso”, de estabelecer uma ligação causal entre o sucesso de
+Onassis e seu modus operandi. Talvez eu nunca venha a saber se Onassis era
+talentoso ou sortudo, embora esteja convencido de que seu charme lhe abria
+portas, mas posso submeter seu método a um exame rigoroso, observando
+pesquisas empíricas sobre a ligação entre informação e compreensão. Portanto, a
+aﬁrmação “o conhecimento adicional das minúcias dos negócios cotidianos pode ser
+inútil, e até mesmo tóxico” é passível de veriﬁcações indiretas, mas bastante
+eﬁcazes.
+Mostre a dois grupos de pessoas a imagem borrada de um hidrante, a ponto de
+não reconhecerem o que é. Para um dos grupos, aumente a resolução lentamente,
+em dez etapas. Para o segundo, faça isso mais rápido, em cinco etapas. Pare em
+um ponto em que ambos os grupos tenham sido apresentados a uma imagem
+idêntica e peça a cada um que identiﬁque o que estão vendo. Os membros do
+grupo que viram menos etapas intermediárias provavelmente reconhecerão o
+hidrante com muito mais rapidez. Moral da história? Quanto mais informações
+
+você dá a uma pessoa, mais hipóteses ela formula ao longo do caminho, e pior é
+seu desempenho. A pessoa vê mais ruído aleatório e o confunde com informação.
+O problema é que nossas ideias são pegajosas: depois que produzimos uma
+teoria, é provável que não mudemos mais de ideia — assim, aqueles que atrasam o
+desenvolvimento de suas teorias se saem melhor. Se você desenvolver suas
+opiniões com base em evidências fracas, terá diﬁculdade em interpretar as
+informações subsequentes que contradigam essas opiniões, mesmo que as novas
+informações sejam obviamente mais precisas. Dois mecanismos estão em jogo
+aqui: o viés de conﬁrmação que vimos no capítulo 5 e a perseverança da crença, a
+tendência de não reverter opiniões que você já formou. Lembre-se de que
+tratamos as ideias como posses, e temos diﬁculdade em abrir mão delas.
+O experimento do hidrante foi realizado pela primeira vez nos anos 1960 e
+reproduzido várias vezes desde então. Também estudei esse efeito usando a
+matemática de informação: quanto maior a quantidade de conhecimento
+detalhado que a pessoa obtém da realidade empírica, mais ela verá o ruído (ou
+seja, o relato anedótico) e o confundirá com a verdadeira informação. Lembre-se
+de que somos inﬂuenciados pelo sensacional. Ouvir as notícias no rádio de hora
+em hora é muito pior para você do que ler uma revista semanal, porque o
+intervalo maior permite que a informação seja ﬁltrada um pouco.
+Em 1965, Stuart Oskamp forneceu aos psicólogos clínicos uma série de
+arquivos, cada qual contendo um volume crescente de informações sobre os
+pacientes; a capacidade de diagnóstico dos psicólogos não aumentou com o
+suprimento adicional de informação. Eles apenas ﬁcaram mais conﬁantes com
+relação ao diagnóstico original. É bem verdade que não se podia esperar muita
+coisa dos psicólogos da safra de 1965, mas essas descobertas parecem valer para
+diversas disciplinas.
+Por ﬁm, em outro experimento revelador, o psicólogo Paul Slovic pediu a
+agenciadores de apostas que selecionassem, entre 88 variáveis relativas a corridas
+de cavalos já realizadas, as que eles consideravam úteis para calcular as
+probabilidades. Essas variáveis incluíam todo tipo de informação estatística sobre
+desempenhos anteriores. Os agenciadores de apostas receberam as dez variáveis
+mais úteis, e depois pediu-se que previssem o resultado das corridas. Em seguida,
+receberam mais dez e pediu-se que previssem novamente. O aumento no
+conjunto de informações não levou a um aumento na precisão das previsões dos
+agenciadores; por outro lado, a conﬁança deles em suas escolhas aumentou de
+forma acentuada. As informações se mostraram tóxicas. Passei boa parte da vida
+lutando contra a crença comum das pessoas medianas de que “mais é melhor” —
+
+mais é melhor às vezes, mas nem sempre. Esta toxicidade do conhecimento
+aparecerá em nossa investigação do suposto especialista.
+O PROBLEMA DE ESPECIALISTA OU A TRAGÉDIA DO “ZERO À ESQUERDA METIDO A
+BESTA”
+Até o momento não questionamos a autoridade dos proﬁssionais envolvidos,
+mas sim sua capacidade de avaliar os limites do próprio conhecimento. A
+arrogância epistêmica não exclui as habilidades. Um encanador quase sempre
+sabe mais sobre encanamento do que um ensaísta teimoso ou do que um trader
+matemático. Um cirurgião especializado em hérnias raramente entende menos
+sobre hérnias do que uma dançarina do ventre. Mas as probabilidades deles, por
+outro lado, estarão erradas — e, aqui está o ponto perturbador, você pode saber
+muito mais sobre esse tópico especíﬁco do que o especialista. Não importa o que
+lhe digam, é uma boa ideia questionar a taxa de erro do procedimento de um
+especialista. Não questione o procedimento dele, apenas sua conﬁança. (Na
+condição de alguém que foi prejudicado pelo establishment médico, aprendi a ser
+cauteloso, e incentivo que todos também sejam: se você entrar em um
+consultório sentindo algum sintoma, não dê ouvidos ao médico quando ele
+mencionar as probabilidades de não ser câncer.)
+Separarei os dois casos da maneira que se segue. O caso leve: arrogância na
+presença de (alguma) competência, e o caso grave: arrogância misturada com
+incompetência (o zero à esquerda metido a besta). Existem algumas proﬁssões nas
+quais você sabe mais do que os especialistas, que são, infelizmente, pessoas por
+cujas opiniões você está pagando para ouvir — em vez de eles pagarem para
+serem ouvidos por você. Quais são?
+O que se move e o que não se move
+Existe uma fértil literatura sobre o chamado problema de especialista,
+realizando testes empíricos em especialistas para veriﬁcar seu histórico. Mas de
+início ela parece confusa. Por um lado, uma classe de pesquisadores, como Paul
+Meehl e Robyn Dawes, dedicados a desmascarar especialistas, nos mostram que
+o “especialista” é a coisa mais próxima que existe de uma fraude, com
+desempenho não muito superior ao de um computador que usa uma única
+métrica, atrapalhados pela intuição que os cega. (Como exemplo de computador
+que usa uma única métrica, a proporção de ativos líquidos em relação a dívidas
+tem desempenho melhor do que a maioria dos analistas de crédito.) Por outro
+
+lado, existe uma literatura abundante mostrando que muitas pessoas podem levar
+a melhor sobre os computadores graças à sua intuição. Qual das duas está
+correta?
+Deve haver algumas disciplinas com especialistas de verdade. Façamos as
+seguintes perguntas: você preferiria que sua próxima cirurgia no cérebro fosse
+realizada por um jornalista da área de divulgação cientíﬁca ou por um
+neurocirurgião? Por outro lado, você preferiria ouvir uma previsão econômica
+feita por alguém com doutorado em ﬁnanças de alguma instituição “prestigiosa”
+como a Wharton School, ou por um colunista da seção de economia de um
+jornal? Embora a resposta à primeira pergunta seja empiricamente óbvia, a
+resposta para a segunda não tem nada de óbvia. Já podemos ver a diferença entre
+“saber como” e “saber o quê”. Os gregos faziam uma distinção entre technē e
+epistēmē. A escola empírica de medicina de Menódoto de Nicomédia e Heráclito
+de Tarento queria que seus praticantes se aproximassem mais da technē (ou seja,
+“artesanato”, “uma habilidade prática para fazer algo”) e longe da epistemē (ou
+seja, “conhecimento”, “ciência”).
+O psicólogo James Shanteau se incumbiu da tarefa de descobrir quais
+disciplinas têm especialistas e quais não têm. Observe o problema de
+conﬁrmação aqui: se você quiser provar que não há especialistas, então será capaz
+de encontrar uma proﬁssão em que os especialistas sejam inúteis. E você pode
+provar o oposto também. Mas há uma regularidade: há proﬁssões em que os
+especialistas desempenham um papel importante e outras nas quais não há
+evidência de habilidades. Quais proﬁssões pertencem a qual categoria?
+Especialistas que tendem a ser especialistas: avaliadores de gado, astrônomos,
+pilotos de teste, avaliadores de solo, grandes mestres enxadristas, físicos,
+matemáticos (quando lidam com problemas matemáticos, não empíricos),
+contadores, inspetores de grãos, intérpretes fotográﬁcos, analistas de seguros
+(lidando com estatísticas estilo curva em forma de sino).
+Especialistas que tendem a ser… não especialistas: corretores da bolsa,
+psicólogos clínicos, psiquiatras, oﬁciais de admissão em faculdades, juízes
+criminais, vereadores, recrutador de recursos humanos, analistas de inteligência
+(o histórico da 5), apesar de seus custos, é lamentável), a menos que se leve em
+consideração uma grande dose de prevenção invisível. Eu acrescentaria os
+seguintes resultados a partir do meu próprio exame da literatura: economistas,
+prognosticadores ﬁnanceiros, professores de ﬁnanças, cientistas políticos,
+“especialistas em riscos”, a equipe do Banco de Pagamentos Internacionais (4w,
+
+na sigla em inglês), membros ilustres da Associação Internacional de Engenheiros
+Financeiros e consultores de ﬁnanças pessoais.
+Simplesmente, coisas que se movem e, portanto, requerem conhecimento, não
+costumam ter especialistas, ao passo que coisas que não se movem parecem ter
+alguns especialistas. Ou seja, proﬁssões que lidam com o futuro e embasam seus
+estudos sobre o passado não repetível têm um problema de especialista (com a
+exceção do clima e de negócios envolvendo processos físicos de curto prazo, não
+socioeconômicos). Não estou dizendo que ninguém que lida com o futuro
+fornece informações valiosas (como já apontei, jornais são capazes de prever
+muito bem os horários do cinema), mas sim que aqueles que não fornecem valor
+agregado tangível geralmente lidam com o futuro.
+Outra maneira de ver é: as coisas que se movem são geralmente propensas a
+Cisnes Negros. Especialistas são pessoas com foco estreito que precisam
+“enxergar com visão de túnel”. Nas situações em que o tunelamento é seguro,
+porque os Cisnes Negros não são relevantes, o especialista se sairá bem.
+Robert Trivers, psicólogo evolutivo e homem de ideias extraordinárias, tem
+outra resposta (com as ideias que desenvolveu enquanto tentava cursar a
+faculdade de direito, ele se tornou um dos mais inﬂuentes pensadores evolutivos
+desde Darwin). Trivers associa isso ao autoengano. Em campos nos quais temos
+tradições ancestrais, como a pilhagem, somos muito bons em prever resultados
+calculando o equilíbrio de poder. Humanos e chimpanzés podem perceber
+imediatamente qual é o lado mais forte e fazer uma análise da relação custo-
+benefício para decidir se devem atacar para tomar as mercadorias e as parceiras
+alheias. Tão logo tem início sua avassaladora pilhagem, você se coloca em uma
+mentalidade delirante que o leva a ignorar informações adicionais — é melhor
+evitar hesitações durante a batalha. Por outro lado, ao contrário de repentinos
+ataques para saquear, guerras em grande escala não são algo presente na herança
+humana — são novidade para nós —, por isso tendemos a subestimar sua
+duração e superestimar nosso poder relativo. Lembre-se da subestimação
+da duração da guerra libanesa. Aqueles que lutaram na Primeira Guerra Mundial
+acharam que seria a maior moleza. Foi assim com o conﬂito do Vietnã, é assim
+com a guerra do Iraque e com praticamente todos os conﬂitos modernos.
+Não se pode ignorar o autoengano. O problema com os especialistas é que eles
+não sabem o que não sabem. A falta de conhecimento e a ilusão acerca da
+qualidade do conhecimento andam de mãos dadas — o mesmo processo que faz
+com que a pessoa saiba menos também a deixa satisfeita com seu próprio
+conhecimento.
+
+Em seguida, em vez da amplitude de previsões, vamos nos preocupar com a
+precisão das previsões, ou seja, a capacidade de prever com exatidão o número
+em si.
+Como rir por último
+Também podemos aprender sobre erros de previsão a partir das atividades dos
+traders. Nós, analistas quantitativos (quants), temos uma profusão de
+informações sobre previsões econômicas e ﬁnanceiras — de dados gerais sobre
+grandes variáveis econômicas a previsões e análises de “especialistas” ou
+“autoridades” dos programas de televisão. A abundância desses dados e a
+capacidade de processá-los em um computador tornam o tema inestimável para
+um empirista. Se eu tivesse me tornado jornalista, ou, Deus me livre, historiador,
+teria muito mais diﬁculdade para testar a eﬁcácia preditiva dessas discussões
+verbais. Não é possível processar comentários verbais com um computador —
+pelo menos não com tanta facilidade. Além do mais, muitos economistas
+ingenuamente cometem o erro de produzir uma grande quantidade de previsões
+sobre muitas variáveis, fornecendo-nos uma base de dados de economistas e
+variáveis, o que nos permite ver se alguns economistas são melhores do que
+outros (não há diferença relevante) ou se existem certas variáveis com relação às
+quais eles são mais competentes (infelizmente, nenhuma que seja signiﬁcativa).
+Eu ocupava uma posição privilegiada para observar de muito perto nossa
+capacidade de prever. Nos meus tempos de trader em período integral, algumas
+vezes por semana, às 8h30, a tela do meu monitor exibia alguns números
+econômicos divulgados pelo Departamento de Comércio, ou pelo Tesouro, ou
+pela Agência para o Comércio e o Desenvolvimento, ou por alguma dessas
+ilustríssimas instituições. Nunca tive a menor ideia do que aqueles números
+signiﬁcavam e nunca vi qualquer necessidade de investir energia para descobrir.
+Então, eu não teria dado a mínima para eles, não fosse o fato de que as pessoas se
+entusiasmavam e conversavam um bocado sobre o que aquelas cifras signiﬁcavam,
+despejando opiniões sobre as previsões. Entre esses números, você tem o Índice
+de Preços ao Consumidor (5p, na sigla em inglês), o relatório Nonfarm Payrolls
+(que mostra a variação na quantidade de pessoas empregadas nos Estados Unidos
+entre um mês e outro, excluindo apenas os trabalhadores do setor agrícola), o
+Índice dos Principais Indicadores Econômicos, a variação de Vendas de Bens
+Duráveis (apelidada de “garotas pegáveis” pelos traders), o Produto Interno Bruto
+(p4, o mais importante de todos) e muitos outros mais, que geram diferentes
+níveis de entusiasmo dependendo de sua presença na narrativa.
+
+Os fornecedores de dados permitem que você dê uma espiada nas previsões
+feitas por “economistas de primeira linha”, pessoas (de terno e gravata) que
+trabalham para instituições veneráveis como o JPMorgan Chase ou o Morgan
+Stanley. Você pode ouvir esses economistas falando, teorizando de forma
+eloquente e convincente. A maioria deles ganha salários de sete dígitos; esses
+sujeitos são considerados superastros e contam com equipes de pesquisadores
+que analisam números e esmiúçam projeções. Mas os astros são tolos o suﬁciente
+para publicar na mesma hora seus números projetados, de modo que a
+posteridade os observe e avalie seu grau de competência.
+Pior ainda, todo ﬁm de ano, muitas instituições ﬁnanceiras produzem livretos
+intitulados “Perspectivas para 20XX”, com projeções para o ano seguinte. Claro
+que eles não veriﬁcam qual foi o desempenho das previsões depois de terem sido
+formuladas. O público pode ter sido ainda mais tolo ao aceitar os argumentos
+sem exigir alguns testes simples — embora sejam fáceis, pouquíssimos deles
+foram realizados. Um teste empírico elementar é comparar esses economistas
+famosos a um taxista hipotético (o equivalente a Mikhail do capítulo 1): cria-se
+um agente sintético, alguém que adota o número mais recente como o melhor
+prognosticador do próximo, embora pressuponha não saber de nada. Então, tudo
+o que você precisa fazer é comparar os índices de erros dos economistas
+renomados ao do seu agente sintético. O problema é que quando você é
+inﬂuenciado por histórias, se esquece da necessidade desses testes.
+Eventos são bizarros
+O problema com a previsão é um pouco mais sutil. Resulta principalmente do
+fato de estarmos vivendo no Extremistão, não no Mediocristão. Nossos
+previsores podem ser bons em prever o normal, mas não o irregular, e é aqui que,
+em última instância, eles falham. Basta deixar passar despercebida uma mudança
+nas taxas de juros, de 6% para 1% em uma projeção de longo prazo (o que
+aconteceu entre 2000 e 2001), para que todas as suas previsões posteriores se
+tornem completamente ineﬁcazes para corrigir seu histórico de desempenho
+cumulativo. O que importa não é com que frequência você acerta, mas sim o
+tamanho dos seus erros cumulativos.
+E esses erros cumulativos dependem muito das grandes surpresas, das grandes
+oportunidades. Os previsores econômicos, ﬁnanceiros e políticos não apenas
+deixam esses erros passar em branco, mas têm bastante vergonha de dizer
+qualquer coisa esquisita a seus clientes — e mesmo assim os eventos, no ﬁm ﬁca
+claro, quase sempre são bizarros. Ademais, como veremos na próxima seção, os
+
+prognosticadores econômicos tendem a ﬁcar mais próximos uns dos outros do
+que do resultado ﬁnal. Ninguém quer ser o diferentão.
+Uma vez que meus testes eram informais, para ﬁns comerciais e de
+entretenimento, para consumo próprio e não formatados para publicação, usarei
+os resultados mais formais de outros pesquisadores que ﬁzeram o trabalho
+enfadonho de lidar com o tedioso processo de publicação. Estou surpreso com o
+fato de que tão pouca introspecção tenha sido utilizada para veriﬁcar a utilidade
+dessas proﬁssões. Existem alguns — mas não muitos — testes formais em três
+domínios: análise de títulos, ciência política e economia. Sem dúvida, teremos
+mais daqui a alguns anos. Ou talvez não — os autores desses artigos talvez sejam
+estigmatizados por seus pares. Entre cerca de 1 milhão de artigos publicados
+sobre política, ﬁnanças e economia, houve apenas um pequeno número de
+veriﬁcações da qualidade preditiva desse conhecimento.
+Arrebanhados feito gado
+Alguns pesquisadores examinaram o trabalho e a atitude de analistas de títulos
+e obtiveram resultados surpreendentes, principalmente quando se considera a
+arrogância epistêmica desses operadores. Em um estudo que os comparava a
+meteorologistas, Tadeusz Tyszka e Piotr Zielonka documentam que os analistas
+são piores em fazer previsões, embora tenham mais fé em suas próprias
+habilidades. De alguma forma, a autoavaliação dos analistas não diminuiu sua
+margem de erro após as previsões fracassadas.
+Em junho passado, lamentei a escassez de estudos publicados para Jean-
+Philippe Bouchaud, que eu estava visitando em Paris. Ele é um homem com
+feições de menino que parece ter metade da minha idade, embora seja apenas um
+pouco mais jovem do que eu, fato que eu, meio que de brincadeira, atribuo à
+beleza da física. Na verdade, ele não é exatamente um físico, mas um daqueles
+cientistas quantitativos que aplicam métodos de física estatística a variáveis
+econômicas, campo que foi iniciado por Benoît Mandelbrot no ﬁnal dos anos
+1950. Essa comunidade não usa a matemática do Mediocristão, então parece se
+preocupar com a verdade. Seus integrantes estão completamente fora do
+establishment ﬁnanceiro das faculdades de economia e administração, e
+sobrevivem nos departamentos de física e matemática ou, muitas vezes, em
+empresas de comércio, importação e exportação (os traders raramente contratam
+economistas para si mesmos, apenas para fornecer histórias a seus clientes menos
+soﬁsticados). Alguns deles também atuam na sociologia, alvos da mesma
+hostilidade por parte dos “nativos”. Ao contrário dos economistas que vestem
+
+terno e gravata e distorcem fatos para engendrar teorias, eles aplicam métodos
+empíricos para observar os dados e não usam a curva em forma de sino.
+Bouchaud me surpreendeu com um artigo de pesquisa que um estagiário
+concluíra sob sua orientação e que havia acabado de ser aceito para publicação; o
+artigo esquadrinhava 2 mil previsões de analistas ﬁnanceiros, mostrando que
+esses analistas de corretoras não previam nada — um prognóstico ingênuo feito
+por alguém que usasse os números de um período como previsores do período
+seguinte não se sairia muito pior. No entanto, os analistas têm acesso a
+informações sobre os pedidos das empresas, contratos futuros e planejamento de
+despesas, de modo que esse conhecimento avançado deveria ajudá-los a ter um
+desempenho, em termos de resultados, consideravelmente melhor que o de um
+previsor ingênuo examinando dados passados sem dispor de informações
+adicionais. Pior ainda, os erros dos previsores eram signiﬁcativamente maiores do
+que a diferença média entre as previsões individuais, o que indica
+arrebanhamento. Normalmente, as previsões deveriam estar tão distantes umas
+das outras quanto do número previsto. Porém, para entender como eles
+conseguem permanecer no negócio e por que não sucumbem a graves colapsos
+nervosos (com perda de peso, comportamento errático ou alcoolismo agudo),
+devemos examinar o trabalho do psicólogo Philip Tetlock.
+Eu estava “quase” certo
+Tetlock estudou o negócio dos “especialistas” políticos e econômicos. Pediu a
+vários deles que avaliassem a probabilidade de ocorrência de uma série de
+eventos políticos, econômicos e militares dentro de um período de tempo
+especiﬁcado (cerca de cinco anos à frente). Os resultados representaram um
+número total de cerca de 27 mil previsões, envolvendo cerca de trezentos
+especialistas. Os economistas representavam cerca de um quarto da amostragem.
+O estudo revelou que as taxas de erro dos especialistas foram muito superiores
+ao que havia sido estimado. O estudo expôs o problema de especialista: não havia
+diferença nos resultados de alguém com doutorado ou alguém com um diploma
+de graduação. Professores “muito bem publicados” não levavam vantagem alguma
+em comparação com jornalistas. A única regularidade que Tetlock encontrou foi
+o efeito negativo da reputação nas previsões: aqueles que tinham uma grande
+reputação eram piores previsores do que os que não tinham reputação nenhuma.
+Mas o foco de Tetlock não era mostrar a efetiva competência dos especialistas
+(embora o estudo tenha sido bastante convincente a esse respeito), e sim
+investigar por que os especialistas não se davam conta de que não eram tão bons
+
+— em outras palavras, como eles distorciam suas histórias. Parecia haver uma
+lógica por trás dessa incompetência, principalmente na forma de defesa de
+crenças, ou proteção da autoestima. Assim, Tetlock investigou mais a fundo os
+mecanismos dos quais os sujeitos de sua pesquisa se valiam para gerar explicações
+ex post.
+Vou deixar de lado o modo como os engajamentos ideológicos inﬂuenciam a
+percepção e abordarei os aspectos mais gerais desse ponto cego no que diz
+respeito às previsões que o indivíduo faz.
+Você diz a si mesmo que estava jogando um jogo diferente. Digamos que você
+não conseguiu prever o enfraquecimento e a precipitada derrocada da União
+Soviética (o que nenhum cientista social previu). É fácil aﬁrmar que você tinha
+uma excelente compreensão dos mecanismos de funcionamento político da
+União Soviética, mas que os russos, sendo excessivamente russos, eram hábeis
+em esconder de você elementos econômicos decisivos. Se estivesse de posse
+dessas privilegiadas informações econômicas conﬁdenciais, você certamente teria
+sido capaz de prever a extinção do regime soviético. A culpa não é das suas
+habilidades. O mesmo pode se aplicar à previsão de uma acachapante vitória de
+Al Gore sobre George W. Bush. Você não estava ciente da situação periclitante
+da economia; na verdade, esse fato parecia estar escondido de todos. Ei, você não
+é economista, e no ﬁm das contas ﬁcou claro que o jogo tinha a ver com
+economia.
+Você invoca o outlier. Aconteceu algo que estava fora do sistema, fora do
+escopo da sua ciência. Como não era algo previsível, você não tem culpa. Era um
+Cisne Negro, e não se supõe que você deva prever Cisnes Negros. Os Cisnes
+Negros, Nicholas Nassim Taleb nos diz, são fundamentalmente imprevisíveis
+(mas, pensando bem, acho que ``~ perguntaria a você “Por que conﬁar em
+previsões?”). Esses eventos são “exógenos”, provêm de fora da sua ciência. Ou
+talvez tenha sido um evento de probabilidade baixa, muitíssimo baixa, que só
+ocorre uma vez na vida e outra na morte, e tivemos o azar de ser expostos a ela.
+Mas, da próxima vez, isso não vai acontecer. Esse foco no jogo estreito e na
+vinculação do desempenho de um indivíduo a um determinado roteiro é como os
+nerds explicam as falhas dos métodos matemáticos na sociedade. O modelo
+estava certo, funcionou bem, mas no ﬁm das contas ﬁcou claro que o jogo era
+diferente do previsto.
+A defesa do “quase certo”. Retrospectivamente, com o benefício de uma revisão
+de valores e uma estrutura informacional, é fácil sentir que “foi por pouco”.
+Tetlock escreve:
+
+Observadores da ex-União Soviética que, em 1988, pensavam que o Partido Comunista não poderia ser
+tirado do poder até 1993 ou 1998 eram especialmente propensos a acreditar que os adeptos da linha-
+dura do Kremlin quase haviam derrubado Gorbatchóv na tentativa de golpe de 1991, e que os
+conspiradores teriam conseguido isso se fossem mais resolutos e menos embriagados, ou se importantes
+oﬁciais militares de alta patente obedecessem às ordens de matar civis que afrontassem a lei marcial, ou
+se Iéltsin não tivesse agido com tanta bravura.
+Agora tratarei de falhas mais gerais reveladas por esse exemplo. Os
+“especialistas” eram tendenciosos: nas ocasiões em que estavam certos, atribuíam
+isso à sua profundidade de compreensão e especialização; quando estavam
+errados, a culpa era da situação, por ser incomum, ou, pior ainda, eles nem
+reconheciam que estavam errados e inventavam histórias em torno disso.
+Achavam difícil aceitar que seu entendimento era um tanto limitado. Mas esse
+atributo é universal e se aplica a todas as nossas atividades: há em nós algo que é
+concebido para proteger nossa autoestima.
+Nós, humanos, somos vítimas de uma assimetria na percepção de eventos
+aleatórios. Atribuímos sucessos às nossas habilidades e fracassos a eventos fora
+do nosso controle, ou seja, à aleatoriedade. Nós nos sentimos responsáveis pelas
+coisas boas, mas não pelas ruins. Isso nos leva a pensar que somos melhores do
+que outros naquilo que fazemos para ganhar a vida, seja lá o que for. Noventa e
+quatro por cento dos suecos acreditam que suas habilidades ao volante os
+colocam entre os 50% dos melhores motoristas da Suécia; 84% dos franceses
+acreditam que suas habilidades para fazer amor os colocam entre a metade
+superior no ranking dos melhores amantes franceses.
+O outro efeito dessa assimetria é que nos sentimos singulares, ao contrário
+dos outros, em relação aos quais não percebemos essa assimetria. Mencionei as
+expectativas irrealistas acerca do futuro por parte das pessoas que estão prestes a
+se casar. Leve em consideração também o número de famílias que se ﬁxam
+cegamente no futuro, prendendo-se a imóveis difíceis de revender por pensarem
+que vão morar lá para sempre, sem perceber que o histórico geral de quem leva
+uma vida estacionária é terrível. Não enxergam aqueles corretores de imóveis
+vestidos com aprumo e dirigindo carrões alemães esportivos? Somos nômades,
+muito mais do que planejamos ser, e na marra. Pense em quantas pessoas que
+perderam abruptamente o emprego cogitaram que era provável que isso
+ocorresse, até mesmo alguns dias antes da demissão. Ou quantos viciados em
+drogas entraram no jogo pensando que ﬁcariam nele por tanto tempo.
+O experimento de Tetlock ensina outra lição. Ele constatou o que mencionei
+anteriormente, que muitas estrelas universitárias, ou os “colaboradores dos
+periódicos mais importantes”, não são melhores do que o leitor ou jornalista
+
+médio do New York Times na detecção de mudanças no mundo ao nosso redor.
+Esses especialistas, por vezes superespecializados, fracassaram em testes no
+âmbito de suas próprias especialidades.
+O ouriço e a raposa. Tetlock diferencia dois tipos de previsores, o ouriço e a
+raposa, de acordo com uma distinção promovida pelo ensaísta Isaiah Berlin.1
+Como na fábula de Esopo, o ouriço sabe uma coisa, a raposa sabe muitas coisas
+— são os tipos adaptáveis de que você precisa na vida cotidiana. Muitas das falhas
+de previsão vêm de ouriços que são mentalmente aferrados a um único grande
+evento Cisne Negro, uma aposta alta que provavelmente não terá o resultado
+favorável esperado. O ouriço é alguém que se concentra em um único evento
+improvável e relevante, apaixonado pela falácia narrativa que nos torna tão
+obcecados por um único resultado que nos deixa cegos, incapazes de imaginar
+outros.
+Por causa da falácia narrativa, é fácil para nós entender os ouriços, cujas ideias
+funcionam em frases de efeito. Essa categoria é representada de forma
+desproporcional entre as pessoas famosas; logo, as pessoas famosas são, na média,
+piores em fazer previsões do que o restante dos previsores.
+Passei muito tempo evitando a imprensa porque, sempre que jornalistas
+ouvem minha história do Cisne Negro, me pedem para lhes dar uma lista de
+futuros eventos impactantes. Querem que eu preveja esses Cisnes Negros.
+Estranhamente, meu livro Iludidos pelo acaso, publicado uma semana antes do 11
+de setembro de 2001, incluía uma discussão sobre a possibilidade de um avião
+colidir com o prédio onde ﬁca meu escritório. Então, naturalmente, fui
+convidado a mostrar “como eu havia previsto o evento”. Eu não o previ — foi uma
+ocorrência casual. Não estava dando uma de oráculo! Recentemente, recebi um
+e-mail me pedindo para listar os próximos dez Cisnes Negros. A maioria não
+consegue entender meus argumentos sobre o erro de especiﬁcidade, a falácia
+narrativa e a ideia de previsão. Ao contrário do que as pessoas podem esperar,
+não estou recomendando que ninguém se torne um ouriço — pelo contrário, seja
+uma raposa de mente aberta. Sei que a história será dominada por um evento
+improvável, só não sei o que será.
+Realidade? Para quê?
+Não encontrei, em periódicos da área de economia, nenhum estudo formal
+exaustivo no mesmo nível de detalhamento feito por Tetlock. Mas, de modo
+muito suspeito, não encontrei nenhum artigo alardeando a capacidade dos
+economistas de produzir projeções conﬁáveis. Então, examinei todos os
+
+relatórios preliminares e artigos sobre economia que pude encontrar.
+Coletivamente, eles não são evidências convincentes de que os economistas,
+como uma comunidade, têm a capacidade de prever, e, se é que têm alguma
+habilidade nesse sentido, suas previsões são, na melhor das hipóteses, apenas
+ligeiramente melhores do que as conjecturas aleatórias — não são boas o
+suﬁciente para ajudar em decisões sérias.
+O teste mais interessante para aferir como os métodos acadêmicos se saem no
+mundo real foi realizado por Spyros Makridakis, que passou parte da carreira
+organizando competições entre previsores que praticam um “método cientíﬁco”
+chamado econometria — uma abordagem que combina teoria econômica com
+medições estatísticas. Simpliﬁcando, ele pedia às pessoas que ﬁzessem previsões
+na vida real e depois avaliava a precisão desses prognósticos. Isso levou à série de
+“Competições _”, que ele supervisionou com o auxílio de Michele Hibon, das
+quais a _3 foi a terceira e mais recente, concluída em 1999. Makridakis e Hibon
+chegaram à triste conclusão de que “métodos soﬁsticados ou complexos em
+termos estatísticos não necessariamente fornecem previsões mais precisas do que
+os métodos mais simples”.
+Tive uma experiência idêntica nos meus tempos de quant — o cientista
+estrangeiro de sotaque gutural que passa as noites em claro diante de um
+computador realizando complicados cálculos matemáticos raramente se sai
+melhor do que um taxista que usa os métodos mais simples ao seu alcance. O
+problema é que nos concentramos nas raras ocasiões em que esses métodos
+funcionam, quase nunca em suas falhas, que são muito mais numerosas.
+Continuei suplicando a quem quisesse ouvir: “Ei, eu sou um sujeito
+descomplicado e pragmático de Amioun, Líbano, e tenho diﬁculdade em
+entender por que uma coisa é considerada valiosa se exige que computadores
+funcionem a noite inteira, mas não me permite prever melhor do que qualquer
+outro cara de Amioun”. As únicas reações que obtive dos meus colegas estavam
+relacionadas à geograﬁa e história de Amioun, em vez de uma explicação simples
+e direta de seu trabalho. Aqui, novamente, você vê a falácia narrativa em ação,
+exceto que, no lugar de histórias jornalísticas, o que se tem é a situação mais
+catastróﬁca dos “cientistas” com sotaque russo olhando pelo espelho retrovisor,
+narrando com equações e se recusando a olhar para a frente porque isso poderia
+deixá-los tontos. O econometrista Robert Engel, um cavalheiro de modo geral
+encantador, inventou um método estatístico muito complicado chamado H)s5L
+e ganhou um Nobel por isso. Ninguém testou o método para ver se tinha
+qualquer validade na vida real. Métodos mais simples e menos atraentes têm
+
+desempenho muito melhor, mas não levam ninguém a Estocolmo. Há um
+problema de especialista em Estocolmo, o que discutirei no capítulo 17.
+Essa inadequação de métodos complicados parece se aplicar a todos os
+métodos. Outro estudo testou efetivamente os praticantes de algo chamado de
+teoria dos jogos, dos quais o jogador mais notável é John Nash, o matemático
+esquizofrênico que ﬁcou famoso com o ﬁlme Uma mente brilhante. Infelizmente,
+a despeito de todo o apelo intelectual desses métodos e de toda a atenção da
+mídia, seus adeptos não são melhores em fazer previsões do que estudantes
+universitários.
+Existe outro problema, um pouco mais preocupante. Makridakis e Hibon
+acabariam por descobrir que a forte evidência empírica de seus estudos era
+ignorada por estatísticos teóricos. Além disso, constataram uma hostilidade
+chocante em relação a suas veriﬁcações empíricas. “Em vez disso, [estatísticos]
+concentraram seus esforços na construção de modelos mais soﬁsticados, sem
+levar em conta a capacidade de tais modelos de prever dados da vida real com
+maior exatidão”, Makridakis e Hibon escreveram.
+Alguém pode refutar com o seguinte argumento: talvez as previsões de
+economistas criem um feedback que cancela seus efeitos (o nome disso é crítica
+de Lucas, por causa do economista Robert Lucas). Digamos que os economistas
+prevejam inﬂação; em resposta a essas expectativas, o Federal Reserve age e reduz
+a inﬂação. Portanto, não se pode julgar a precisão das previsões em economia do
+mesmo modo como se faria com outros eventos. Concordo com esse ponto, mas
+não acredito que seja a causa do fracasso das previsões feitas por economistas. O
+mundo é complicado demais para o ramo do conhecimento deles.
+Quando um economista se mostra incapaz de prever outliers, costuma invocar
+a questão de terremotos ou revoluções, alegando que não é especialista em
+geodesia, ciências atmosféricas ou ciências políticas, em vez de incorporar esses
+campos aos próprios estudos e aceitar que seu campo não existe de forma
+isolada. A economia é o mais insular dos campos; é o que menos cita fontes
+externas! A economia talvez seja a disciplina que atualmente conta com o maior
+número de estudiosos ﬁlisteus — academicismo sem erudição e sem curiosidade
+natural pode fechar nossa mente e levar à fragmentação de disciplinas.
+“FORA ISSO”, ESTAVA TUDO CERTO
+Usamos a história da Sydney Opera House como trampolim para nossa
+discussão sobre previsão. Agora abordaremos outra constante na natureza
+
+humana: um erro sistemático cometido por planejadores de projetos, resultante
+de uma mistura da natureza humana com a complexidade do mundo ou a
+estrutura de organizações. Para sobreviver, as instituições talvez precisem
+projetar sobre si mesmas e sobre os outros a aparência de ter uma “visão”.
+Planos fracassam por causa do que chamamos de “visão em túnel”, a
+negligência de fontes de incerteza fora do plano propriamente dito.
+O típico cenário hipotético é o seguinte. Joe, um escritor de não ﬁcção, assina
+um contrato com prazo ﬁnal para a entrega do livro daqui a dois anos. O tema é
+relativamente fácil: a biograﬁa autorizada do escritor Salman Rushdie, para a qual
+Joe compilou um bocado de dados. Ele chegou até a localizar o paradeiro das ex-
+namoradas de Rushdie e está empolgado com a perspectiva de entrevistas
+agradáveis. Quase dois anos depois, digamos que faltando três meses para a data-
+limite, ele liga para o editor e explica que vai atrasar um pouco. O editor já
+esperava por isso; está acostumado a atrasos de escritores. A editora agora hesita
+e começa a dar para trás, porque o tema do livro desapareceu inesperadamente da
+atenção pública — a ﬁrma projetou que o interesse por Rushdie permaneceria em
+alta, mas seu ibope minguou, aparentemente porque os iranianos, por algum
+motivo, perderam o interesse em matá-lo.
+Examinemos a fonte da subestimação do biógrafo acerca do prazo para a
+conclusão do livro. Ele projetou seu próprio cronograma, mas padeceu da “visão
+de túnel”, uma vez que não previu que alguns eventos “externos” surgiriam para
+atrasá-lo. Entre esses eventos externos estavam o desastre de 11 de setembro de
+2001, que protelou as coisas em vários meses; viagens a Minnesota para cuidar
+da mãe adoentada (ela acabou se recuperando); e muitos mais, como o
+rompimento de um noivado (embora não tenha sido com uma ex-namorada de
+Rushdie). “Fora isso”, estava tudo dentro do plano previsto pelo escritor; o
+trabalho em si não se desviou do cronograma. Ele não se sente responsável por
+seu próprio fracasso.2
+O inesperado exerce um efeito unilateral nos projetos. Pense no histórico de
+construtores, autores de artigos acadêmicos e empreiteiros. O inesperado quase
+sempre empurra em uma única direção: custos mais altos e mais tempo para a
+conclusão do trabalho. Em ocasiões muito raras, como no caso do Empire State
+Building, ocorre o oposto: conclusão em tempo mais curto e custos mais baixos
+— essas ocasiões estão se tornando verdadeiramente excepcionais hoje em dia.
+Podemos realizar experimentos e testar a repetibilidade para veriﬁcar se esses
+erros de projeção fazem parte da natureza humana. Pesquisadores aplicaram
+testes para aferir como os alunos calculam o tempo necessário para concluir seus
+
+projetos. Em um teste representativo, dividiram um grupo em duas variedades, os
+otimistas e os pessimistas. Os estudantes otimistas se comprometeram a terminar
+em 26 dias; os pessimistas, em 47 dias. O tempo médio real de conclusão acabou
+sendo de 56 dias.
+O exemplo do escritor Joe não é extremo. Eu o selecionei porque diz respeito
+a uma tarefa rotineira e repetível — para essas tarefas, nossos erros de
+planejamento são mais brandos. Com projetos muito incomuns ou inovadores, a
+exemplo de uma invasão militar, uma guerra ou algo inteiramente novo, os erros
+explodem para cima. Na verdade, quanto mais rotineira a tarefa, melhor você
+aprenderá a prevê-la. Mas há sempre algo não rotineiro em nosso ambiente
+moderno.
+Pode haver incentivos para as pessoas prometerem datas de conclusão mais
+curtas — o escritor quer conseguir o contrato do livro, ou o construtor quer
+receber o pagamento e usar o dinheiro em sua próxima viagem a Antígua. Mas o
+problema do planejamento existe até mesmo quando não há incentivo algum para
+subestimar a duração (ou os custos) da tarefa. Como eu disse antes, somos uma
+espécie tacanha demais para cogitar a possibilidade de eventos que se afastam de
+nossas projeções mentais, mas, além disso, estamos focados demais nas questões
+internas ao projeto para levar em consideração a incerteza externa, o
+“desconhecido desconhecido”, por assim dizer, o conteúdo dos livros não lidos.
+Existe também o efeito nerd, que decorre da eliminação mental dos riscos fora
+do modelo, ou de enfocar exclusivamente aquilo que você conhece. Você vê o
+mundo de dentro de um modelo. Tenha em mente que a maioria dos atrasos e
+estouros de orçamento resultam de elementos inesperados que não estavam nos
+planos, ou seja, estavam fora do modelo em questão — a exemplo de greves, falta
+de energia elétrica, acidentes, mau tempo ou rumores de invasões marcianas.
+Esses pequenos Cisnes Negros que ameaçam atrapalhar nossos projetos não
+parecem ser levados em conta. São abstratos demais — não sabemos qual é a
+aparência deles e não podemos falar sobre eles de forma inteligente.
+Não podemos planejar de verdade porque não entendemos o futuro — mas
+essa não é necessariamente uma má notícia. Poderíamos planejar tendo em mente
+essas limitações. Só é preciso ter coragem.
+A beleza da tecnologia: Planilhas do Excel
+No passado não muito distante, digamos a era pré-computador, as projeções
+permaneciam vagas e qualitativas, era necessário fazer um esforço mental para
+acompanhá-las, e projetar cenários futuros exigia um extraordinário grau de
+
+tensão. O tipo de tarefa que impunha o uso de lápis, borrachas, resmas de papel
+e enormes lixeiras. Adicione a isso o amor de um contador pelo trabalho lento e
+tedioso. Em suma, a atividade de projetar era trabalhosa, indesejável e
+desﬁgurada pela insegurança pessoal de quem a realizava.
+Mas as coisas mudaram com a intromissão da planilha. Quando você coloca
+uma planilha do Excel em mãos versadas em computadores, obtém uma
+“projeção de vendas” que se estende, sem esforço, ad inﬁnitum! Assim que chega
+a uma página ou uma tela de computador, ou, pior, a uma apresentação de
+PowerPoint, a projeção assume vida própria, perdendo sua imprecisão e abstração
+e se tornando o que os ﬁlósofos chamam de reiﬁcada, investida de concretude;
+ela assume uma nova vida como um objeto tangível.
+Meu amigo Brian Hinchclie sugeriu a seguinte ideia quando estávamos,
+ambos, suando a camisa na academia de musculação local. Talvez a facilidade com
+que é possível fazer projeções futuro adentro, arrastando células nesses
+programas de planilhas, seja responsável pelos exércitos de previsores que, cheios
+de conﬁança, produzem prognósticos de mais longo prazo (o tempo todo
+enxergando suas próprias conjecturas “com visão de túnel”). Nós nos tornamos
+planejadores piores do que os russos soviéticos graças a esses poderosos
+programas de computador que acabam nas mãos de pessoas incapazes de lidar
+com seu próprio conhecimento. Como a maioria dos negociadores de
+commodities, Brian é um homem de um realismo incisivo, por vezes brutalmente
+doloroso.
+Um mecanismo mental clássico, chamado de ancoragem, parece estar em ação
+aqui. Você diminui sua ansiedade com relação à incerteza produzindo um
+número, em seguida você se “ancora” nele, como um objeto a que se agarrar no
+meio do vácuo. Esse mecanismo de ancoragem foi descoberto pelos pais da
+psicologia da incerteza, Danny Kahneman e Amos Tversky, no início de seu
+projeto sobre heurísticas e vieses. Funciona da seguinte maneira. Kahneman e
+Tversky ﬁzeram com que seus objetos de estudo girassem uma roda da fortuna.
+Os sujeitos da pesquisa olhavam primeiro para o número na roda, que eles sabiam
+que era aleatório; depois, pedia-se que estimassem o número de países africanos
+membros das Nações Unidas. Os participantes que tinham tirado um número
+baixo na roda estimaram um número baixo de nações africanas; os que tiraram
+um número alto sugeriram uma estimativa mais alta.
+Da mesma forma, pergunte a alguém os últimos quatro dígitos de seu 5pG. Em
+seguida, peça a essa pessoa que estime o número de dentistas em Manhattan.
+
+Você descobrirá que, ao fazer com que a pessoa tome consciência do número de
+quatro dígitos, você a induzirá a fazer uma estimativa correlacionada a ele.
+Usamos pontos de referência em nossa cabeça, projeções de vendas, por
+exemplo, e começamos a construir crenças em torno deles porque é necessário
+menos esforço para comparar uma ideia a um ponto de referência do que avaliá-
+la em absoluto (o Sistema 1 em ação!). Não somos capazes de trabalhar sem um
+ponto de referência.
+Portanto, a introdução de um ponto de referência na mente do previsor fará
+maravilhas. É como um ponto de partida em uma situação de pechincha: você
+abre a negociação pedindo um número alto (“Quero 1 milhão por esta casa”); seu
+interlocutor responderá oferecendo “850 no máximo” — a discussão será
+determinada por esse nível inicial.
+O caráter dos erros de previsão
+Como muitas variáveis biológicas, a expectativa de vida é do Mediocristão, ou
+seja, está sujeita a uma ligeira aleatoriedade. Não é escalável, pois quanto mais
+velhos ﬁcamos, menos chances temos de continuar vivos. Em um país
+desenvolvido, espera-se que uma mulher recém-nascida morra por volta dos 79
+anos de idade, de acordo com tabelas das seguradoras. Quando atinge seu 79º
+aniversário, sua expectativa de vida, supondo que ela esteja em condições de
+saúde normais, é de mais dez anos. Aos noventa anos, ela deveria ter mais 4,7
+anos pela frente. Aos cem anos, mais 2,5 anos. Aos 119 anos, se essa mulher
+milagrosamente viver tanto tempo, deverão restar a ela cerca de nove meses. À
+medida que ela vive além da data esperada para sua morte, o número de anos
+adicionais restantes diminui. Isso ilustra a propriedade principal de variáveis
+relacionadas à curva em forma de sino. A expectativa condicional da vida diminui
+à medida que a pessoa envelhece.
+Com os projetos e empreendimentos humanos, a história é outra. Eles
+costumam ser escaláveis, como aﬁrmei no capítulo 3. Com variáveis escaláveis, as
+do Extremistão, você testemunhará o efeito oposto. Digamos que a previsão de
+término de um projeto seja de 79 dias, a mesma expectativa em dias que a mulher
+recém-nascida tem em anos. No 79º dia, caso o projeto não esteja concluído, a
+expectativa é que demore mais 25 dias para o término. Contudo, no 90º dia, se o
+projeto ainda não tiver sido concluído, deverá ter cerca de outros 58 dias pela
+frente. No 100º dia, deverão faltar 89 dias para chegar ao ﬁm. No 119º dia,
+deverão faltar mais 149 dias adicionais. No 600º dia, se o projeto ainda não tiver
+
+sido concluído, a expectativa é de que precise de 1590 dias extras. Como se pode
+ver, quanto mais tempo se espera, maior a quantidade de tempo de espera prevista.
+Digamos que você seja um refugiado à espera do retorno à sua terra natal. A
+cada dia que passa, você se distancia mais da data do triunfal regresso, em vez de
+se aproximar dela. O mesmo se aplica à data de conclusão da construção da sua
+próxima casa de ópera. Se a expectativa inicial era de dois anos, e três anos
+depois você ainda está fazendo perguntas, não espere que o projeto seja
+concluído em breve. Se as guerras duram em média seis meses, e seu conﬂito está
+em andamento há dois anos, pode esperar mais alguns anos de problemas. O
+conﬂito árabe-israelense tem sessenta anos de duração e ainda segue em
+andamento — mas, sessenta anos atrás, foi considerado “um problema simples”.
+(Lembre-se sempre de que, em um ambiente moderno, as guerras duram mais
+tempo e matam mais pessoas do que normalmente se planeja.) Outro exemplo:
+digamos que você envie uma carta a seu escritor favorito, sabendo que ele é
+muito ocupado e costuma demorar duas semanas para responder. Se três
+semanas depois sua caixa de correio ainda estiver vazia, não espere receber uma
+carta dele logo amanhã — a carta levará em média mais três semanas para chegar.
+Se três meses depois você ainda estiver a ver navios, terá que esperar mais um
+ano. Cada novo dia levará você para mais perto da morte, e mais longe do
+recebimento da carta.
+Essa propriedade sutil, mas extremamente relevante da aleatoriedade
+escalável, é extraordinariamente contraintuitiva. Entendemos mal a lógica dos
+grandes desvios da norma.
+Eu me aprofundarei nessas propriedades da aleatoriedade escalável na parte
+. Por ora, vamos dizer que elas são decisivas para nossa compreensão
+equivocada do negócio das previsões.
+NUNCA ATRAVESSE UM RIO SE ELE TIVER EM MÉDIA 1,20 METRO DE PROFUNDIDADE
+As projeções corporativas e governamentais têm uma falha adicional fácil de
+detectar: não incorporam a seus cenários hipotéticos uma possível taxa de erro.
+Mesmo na ausência de Cisnes Negros, essa omissão seria um equívoco.
+Certa vez, dei uma palestra no Woodrow Wilson Center, em Washington, :5,
+para um punhado de 5:Gs especialistas em formulação de políticas públicas,
+instigando-os a tomar ciência de nossas fraquezas quando se trata de olhar para o
+futuro.
+
+Os participantes na plateia eram mansos e silenciosos. O que eu estava lhes
+dizendo ia na contramão de todas as coisas em que eles acreditavam e de tudo o
+que defendiam; empolgado, eu me deixei levar por minha mensagem agressiva,
+mas eles pareciam atenciosos, em comparação com as ﬁguras carregadas de
+testosterona que encontramos no mundo dos negócios. Eu me senti culpado pela
+postura combativa. Poucas perguntas. A pessoa que havia organizado a palestra e
+me convidado só podia estar fazendo uma pegadinha com seus colegas. Eu
+parecia um ateu tresloucado defendendo seus argumentos na frente de um
+sínodo de cardeais, dispensando os habituais eufemismos formulaicos.
+No entanto, alguns membros daquela plateia receberam com simpatia a
+mensagem. Uma pessoa anônima (ele é funcionário de uma agência
+governamental) explicou-me em conversa privada após a palestra que em janeiro
+de 2004 seu departamento estava prevendo que dali a 25 anos o preço do
+petróleo seria de 27 dólares o barril, ligeiramente mais alto do que o valor
+naquele momento. Seis meses depois, por volta de junho de 2004, depois que o
+preço do petróleo dobrou, tiveram que revisar sua estimativa para 54 dólares
+(hoje, enquanto escrevo estas linhas, o preço do barril de petróleo está perto de
+79 dólares). Eles não perceberam que era ridículo fazer uma segunda previsão,
+visto que sua previsão inicial estava tão imediata e nitidamente errada, e que esse
+negócio de fazer previsões tinha que ser questionado de alguma forma. E eles
+estavam olhando 25 anos à frente! Sequer lhes ocorreu que havia uma coisa
+chamada taxa de erro a ser considerada.3
+Prever sem incorporar uma taxa de erro revela três falácias, todas decorrentes
+do mesmo equívoco acerca da natureza da incerteza.
+A primeira falácia: a variabilidade é importante. O primeiro erro está em levar
+uma projeção a sério demais, sem dar atenção à sua exatidão. Todavia, para ﬁns
+de planejamento, a precisão é muito mais importante do que a previsão em si.
+Explicarei a seguir.
+Não atravesse um rio se ele tiver em média 1,20 metro de profundidade. A sua
+mala de viagem para algum destino remoto seria diferente se eu lhe dissesse que a
+temperatura esperada é de 21 graus Celsius, com uma taxa de erro presumida de
+dez graus, e se eu dissesse que minha taxa de erro é de apenas cinco graus. As
+políticas de que necessitamos como base para tomadas de decisão deveriam
+depender muito mais da gama de resultados possíveis do que do número ﬁnal
+esperado. Enquanto trabalhava para um banco, vi como as pessoas projetam
+ﬂuxos de caixa para empresas sem envolvê-los na mais ﬁna camada de incerteza.
+Vá ao corretor da Bolsa e veriﬁque que método eles usam lá para prever vendas
+
+com dez anos de antecedência a ﬁm de “calibrar” os modelos de avaliação.
+Descubra como os analistas preveem os déﬁcits do governo. Vá a um banco ou
+programa de treinamento de análise de títulos e veja como eles ensinam os
+estagiários a fazer suposições; eles não ensinam a construir uma taxa de erro em
+torno dessas suposições — mas a taxa de erro deles é tão grande que é muito mais
+signiﬁcativa do que a própria projeção!
+A segunda falácia reside em não considerar a degradação da previsão à medida
+que o período projetado aumenta. Não percebemos toda a extensão da diferença
+entre futuros próximos e distantes. No entanto, ao longo do tempo, a degradação
+nesse tipo de previsão torna-se evidente por meio de um simples exame
+introspectivo — sem que nem mesmo seja necessário recorrer a artigos
+cientíﬁcos, que com relação a esse tópico parecem ser extremamente raros. Pense
+nas previsões, sejam econômicas ou tecnológicas, feitas em 1905 para o quarto de
+século seguinte. No ﬁm das contas, até que ponto o ano de 1925 chegou perto de
+ser como previam as projeções? Para uma experiência convincente, vá ler 1984,
+de George Orwell. Ou veja as previsões mais recentes feitas em 1975 acerca das
+perspectivas para o novo milênio. Muitos acontecimentos e novas tecnologias
+passaram longe da imaginação dos previsores; muitos outros eventos que eram
+esperados não se concretizaram. Nossos erros de previsão têm sido enormes, e
+talvez não haja razões para acreditarmos que estamos repentinamente em uma
+posição mais privilegiada para enxergar o futuro em comparação com nossos
+predecessores cegos. Previsões feitas por burocratas tendem a ser usadas para
+aliviar a ansiedade, e não para a adequada formulação de políticas públicas.
+A terceira falácia, e talvez a mais grave, diz respeito a uma compreensão
+equivocada do caráter aleatório das variáveis que estão sendo previstas. Devido
+ao Cisne Negro, essas variáveis podem abranger cenários muito mais otimistas —
+ou muito mais pessimistas — do que aqueles que são esperados atualmente.
+Lembre-se do meu experimento com Dan Goldstein para testar a especiﬁcidade
+de domínio das nossas intuições, como tendemos a não cometer erros no
+Mediocristão, mas a cometer erros de grandes proporções no Extremistão, pois
+não percebemos as consequências do evento raro.
+Qual é a implicação aqui? Mesmo que concorde com determinada previsão,
+você tem que se preocupar com a possibilidade real de uma divergência
+signiﬁcativa em relação a ela. Essas divergências podem ser recebidas de bom
+grado por um especulador que não dependa de uma renda estável; um
+aposentado, no entanto, com atributos de risco deﬁnidos, não pode se dar ao
+luxo de permitir tais oscilações. Eu iria ainda mais longe e, usando o argumento
+
+sobre a profundidade do rio, aﬁrmaria que o limite inferior das estimativas (ou
+seja, a pior das hipóteses) é o aspecto mais importante ao se adotar uma diretriz
+política — a pior das hipóteses é muito mais relevante do que a previsão em si.
+Isso é especialmente verdadeiro se o cenário hipotético ruim não for aceitável.
+No entanto, a fraseologia atual não leva isso em consideração. De forma alguma.
+Costuma-se dizer que “sábio é aquele que vê de antemão as coisas que estão
+por vir”. Talvez o sábio seja aquele que sabe que não é capaz de ver as coisas que
+estão muito distantes.
+Arrume outro emprego
+As duas respostas típicas com que me deparo quando questiono a atuação dos
+previsores são: “O que ele deveria fazer? Você tem uma maneira melhor de
+prever?” e “Se você é tão esperto, mostre-me sua própria previsão”. Na verdade,
+esta última resposta em forma de pergunta, geralmente proferida com arrogância
+fanfarrona, tem o intuito de mostrar a superioridade do praticante e “realizador”
+sobre o ﬁlósofo, principalmente por parte de pessoas que não sabem que eu
+trabalhei como trader. Se há uma vantagem em ter convivido com a prática diária
+da incerteza é não ter que aceitar as baboseiras dos burocratas.
+Um dos meus clientes pediu minhas previsões. Quando eu lhe disse que não
+tinha nenhuma, ele ﬁcou ofendido e decidiu dispensar meus serviços. Existe de
+fato um hábito rotineiro e nada introspectivo de fazer com que as empresas
+respondam a questionários e redijam parágrafos para mostrar suas “perspectivas”.
+Nunca tive uma perspectiva e jamais ﬁz previsões proﬁssionalmente — mas pelo
+menos sei que não sou capaz de prever, e um pequeno número de pessoas (aquelas
+com as quais eu me importo) consideram que isso é um ativo.
+Existem aquelas pessoas que produzem previsões de forma acrítica. Quando
+lhes perguntam por que fazem previsões, elas respondem: “Bem, somos pagos
+para isso”.
+Minha sugestão: arrume outro emprego.
+Essa sugestão não é tão exigente: a menos que você seja um escravo, presumo
+que tenha algum controle sobre sua escolha proﬁssional. Caso contrário, torna-se
+um problema de ética, e ainda por cima bem grave. Pessoas que ﬁcam
+aprisionadas no emprego e que fazem previsões alegando simplesmente que “esse
+é o meu trabalho”, e sabendo muito bem que suas previsões são ineﬁcazes, não
+são o que eu chamaria de éticas. O que elas fazem não é muito diferente de
+alguém que repete mentiras simplesmente porque “é meu trabalho”.
+
+Qualquer um que cause danos fazendo previsões deve ser tratado como um
+tolo ou um mentiroso. Alguns previsores causam mais prejuízos à sociedade do
+que criminosos. Por favor, não dirija um ônibus escolar com os olhos vendados.
+No JFK
+No aeroporto VGW em Nova York, você pode encontrar bancas de jornal
+gigantescas com paredes forradas de revistas. Quem cuida do negócio geralmente
+são famílias muito educadas do subcontinente indiano (apenas os pais; os ﬁlhos
+estão na faculdade de medicina). Essas paredes oferecem aos clientes todo o
+corpus daquilo que uma pessoa “informada” precisa para “saber o que está
+acontecendo”. Eu me pergunto de quanto tempo uma pessoa precisaria para ler
+cada uma dessas revistas, excluindo as publicações sobre pesca e sobre
+motocicletas (mas incluindo as revistas de fofoca — é bom se divertir um pouco).
+Metade de uma vida? Uma vida inteira?
+Infelizmente, todo esse conhecimento não ajudaria o leitor a prever o que vai
+acontecer no dia seguinte. Na verdade, pode até diminuir sua capacidade de fazer
+previsões.
+
+FIGURA 3. A quiromante, de Caravaggio. Sempre tivemos uma queda por aqueles que nos contam sobre
+o futuro. Neste quadro, a cartomante está roubando o anel da vítima.
+O problema da previsão tem outro aspecto: suas limitações inerentes, aquelas
+que pouco têm a ver com a natureza humana, mas que surgem da própria
+natureza da informação. Eu disse que o Cisne Negro tem três atributos:
+imprevisibilidade, consequências e explicabilidade retrospectiva. Vamos examinar
+esse negócio de imprevisibilidade.4
+

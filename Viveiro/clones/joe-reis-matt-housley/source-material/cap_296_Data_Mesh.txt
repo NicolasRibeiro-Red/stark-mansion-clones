@@ -1,0 +1,44 @@
+# Data Mesh
+
+Paginas: 368-368
+
+departments. When the definition of a customer varies, these must be documented
+and made available to everyone who uses the data.
+Data logic stipulates formulas for deriving metrics from data—say, gross sales or
+customer lifetime value. Proper data logic must encode data definitions and details
+of statistical calculations. To compute customer churn metrics, we would need a
+definition: who is a customer? To calculate net profits, we would need a set of logical
+rules to determine which expenses to deduct from gross revenue.
+Frequently, we see data definitions and logic taken for granted, often passed around
+the organization in the form of institutional knowledge. Institutional knowledge takes
+on a life of its own, often at the expense of anecdotes replacing data-driven insights,
+decisions, and actions. Instead, formally declaring data definitions and logic both in a
+data catalog and within the systems of the data engineering lifecycle goes a long way
+to ensuring data correctness, consistency, and trustworthiness.
+Data definitions can be served in many ways, sometimes explicitly, but mostly implic‐
+itly. By implicit, we mean that anytime you serve data for a query, a dashboard, or
+an ML model, the data and derived metrics are presented consistently and correctly.
+When you write a SQL query, you’re implicitly assuming that the inputs to this query
+are correct, including upstream pipeline logic and definitions. This is where data
+modeling (described in Chapter 8) is incredibly useful to capture data definitions and
+logic in a way that’s understandable and usable by multiple end users.
+Using a semantic layer, you consolidate business definitions and logic in a reusable
+fashion. Write once, use anywhere. This paradigm is an object-oriented approach
+to metrics, calculations, and logic. We’ll have more to say in “Semantic and Metrics
+Layers” on page 355.
+Data Mesh
+Data mesh will increasingly be a consideration when serving data. Data mesh funda‐
+mentally changes the way data is served within an organization. Instead of siloed data
+teams serving their internal constituents, every domain team takes on two aspects of
+decentralized, peer-to-peer data serving.
+First, teams are responsible for serving data to other teams by preparing it for con‐
+sumption. Data must be good for use in data apps, dashboards, analytics, and BI
+tools across the organization. Second, each team potentially runs its dashboards and
+analytics for self-service. Teams consume data from across the organization based
+on the particular needs in their domain. Data consumed from other teams may
+also make its way into the software designed by a domain team through embedded
+analytics or an ML feature.
+General Considerations for Serving Data
+|
+343
+

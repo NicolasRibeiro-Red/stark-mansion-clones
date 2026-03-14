@@ -1,0 +1,44 @@
+# Always Be Paranoid
+
+Paginas: 395-395
+
+A data engineer’s exact security and privacy responsibilities will vary significantly
+between organizations. At a small startup, a data engineer may do double duty as a
+data security engineer. A large tech company will have armies of security engineers
+and security researchers. Even in this situation, data engineers will often be able to
+identify security practices and technology vulnerabilities within their own teams and
+systems that they can report and mitigate in collaboration with dedicated security
+personnel.
+Because security and privacy are critical to data engineering (security being an under‐
+current), we want to spend some more time covering security and privacy. In this
+chapter, we lay out some things data engineers should consider around security,
+particularly in people, processes, and technology (in that order). This isn’t a complete
+list, but it lays out the major things we wish would improve based on our experience.
+People
+The weakest link in security and privacy is you. Security is often compromised at the
+human level, so conduct yourself as if you’re always a target. A bot or human actor is
+trying to infiltrate your sensitive credentials and information at any given time. This
+is our reality, and it’s not going away. Take a defensive posture with everything you do
+online and offline. Exercise the power of negative thinking and always be paranoid.
+The Power of Negative Thinking
+In a world obsessed with positive thinking, negative thinking is distasteful. However,
+American surgeon Atul Gawande wrote a 2007 op-ed in the New York Times on
+precisely this subject. His central thesis is that positive thinking can blind us to the
+possibility of terrorist attacks or medical emergencies and deter preparation. Negative
+thinking allows us to consider disastrous scenarios and act to prevent them.
+Data engineers should actively think through the scenarios for data utilization and
+collect sensitive data only if there is an actual need downstream. The best way to
+protect private and sensitive data is to avoid ingesting this data in the first place.
+Data engineers should think about the attack and leak scenarios with any data pipe‐
+line or storage system they utilize. When deciding on security strategies, ensure that
+your approach delivers proper security and not just the illusion of safety.
+Always Be Paranoid
+Always exercise caution when someone asks you for your credentials. When in
+doubt—and you should always be in extreme doubt when asked for credentials—
+hold off and get second opinions from your coworkers and friends. Confirm with
+other people that the request is indeed legitimate. A quick chat or phone call is
+cheaper than a ransomware attack triggered through an email click. Trust nobody
+370
+|
+Chapter 10: Security and Privacy
+

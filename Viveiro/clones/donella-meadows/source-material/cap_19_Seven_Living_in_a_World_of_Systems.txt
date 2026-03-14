@@ -1,0 +1,701 @@
+# Seven: Living in a World of Systems
+
+Paginas: 160-176
+
+
+— SEVEN —
+Living in a World of Systems
+The real trouble with this world of ours is not that it is an
+unreasonable world, nor even that it is a reasonable one. The
+commonest kind of trouble is that it is nearly reasonable, but not
+quite. Life is not an illogicality; yet it is a trap for logicians. It looks
+just a little more mathematical and regular than it is.
+—G. K. Chesterton,1 20th century writer
+People who are raised in the industrial world and who get enthused about
+systems thinking are likely to make a terrible mistake. They are likely to assume
+that here, in systems analysis, in interconnection and complication, in the power
+of the computer, here at last, is the key to prediction and control. This mistake is
+likely because the mind-set of the industrial world assumes that there is a key to
+prediction and control.
+I assumed that at first too. We all assumed it, as eager systems students at the
+great institution called MIT. More or less innocently, enchanted by what we
+could see through our new lens, we did what many discoverers do. We
+exaggerated our findings. We did so not with any intent to deceive others, but in
+the expression of our own expectations and hopes. Systems thinking for us was
+more than subtle, complicated mind play. It was going to make systems work.
+Like the explorers searching for the passage to India who ran into the Western
+Hemisphere instead, we had found something, but it wasn’t what we thought we
+had found. It was something so different from what we had been looking for that
+we didn’t know what to make of it. As we got to know systems thinking better, it
+turned out to have greater worth than we had thought, but not in the way we had
+thought.
+Our first comeuppance came as we learned that it’s one thing to understand
+how to fix a system and quite another to wade in and fix it. We had many earnest
+discussions on the topic of “implementation,” by which we meant “how to get
+managers and mayors and agency heads to follow our advice.”
+
+The truth was, we didn’t even follow our advice. We gave learned lectures on
+the structure of addiction and could not give up coffee. We knew all about the
+dynamics of eroding goals and eroded our own jogging programs. We warned
+against the traps of escalation and shifting the burden and then created them in
+our own marriages.
+Social systems are the external manifestations of cultural thinking patterns
+and of profound human needs, emotions, strengths, and weaknesses. Changing
+them is not as simple as saying “now all change,” or of trusting that he who
+knows the good shall do the good.
+We ran into another problem. Our systems insights helped us understand
+many things we hadn’t understood before, but they didn’t help us understand
+everything. In fact, they raised at least as many questions as they answered. Like
+all the other lenses humanity has developed with which to peer into macrocosms
+and microcosms, this one too revealed wondrous new things, many of which
+were wondrous new mysteries. The mysteries our new tool revealed lay
+especially within the human mind and heart and soul. Here are just few of the
+questions that were prompted by our insights into how systems work.
+A systems insight … can raise more questions!
+Systems thinkers are by no means the first or only people to ask questions like
+these. When we started asking them, we found whole disciplines, libraries,
+histories, asking the same questions, and to some extent offering answers. What
+was unique about our search was not our answers, or even our questions, but the
+fact that the tool of systems thinking, born out of engineering and mathematics,
+implemented in computers, drawn from a mechanistic mind-set and a quest for
+prediction and control, leads its practitioners, inexorably I believe, to confront
+the most deeply human mysteries. Systems thinking makes clear even to the
+most committed technocrat that getting along in this world of complex systems
+requires more than technocracy.
+Self-organizing, nonlinear, feedback systems are inherently unpredictable.
+They are not controllable. They are understandable only in the most general
+way. The goal of foreseeing the future exactly and preparing for it perfectly is
+unrealizable. The idea of making a complex system do just what you want it to
+do can be achieved only temporarily, at best. We can never fully understand our
+world, not in the way our reductionist science has led us to expect. Our science
+itself, from quantum theory to the mathematics of chaos, leads us into
+irreducible uncertainty. For any objective other than the most trivial, we can’t
+optimize; we don’t even know what to optimize. We can’t keep track of
+everything. We can’t find a proper, sustainable relationship to nature, each other,
+or the institutions we create, if we try to do it from the role of omniscient
+conqueror.
+
+A new information feedback loop
+at this point in this system will
+make it behave much better. But
+the decision makers are resistant to
+the information they need! They
+don’t pay attention to it, they don’t
+believe it, they don’t know how to
+interpret it.
+Why do people actively sort and
+screen information the way they
+do? How do they determine what
+to let in and what to let bounce off,
+what to reckon with and what to
+ignore or disparage? How is it
+that,
+exposed
+to
+the
+same
+information,
+different
+people
+absorb different messages, and
+draw different conclusions?
+If this feedback loop could just be
+oriented around that value, the
+system would produce a result that
+everyone wants. (Not more energy,
+but more energy services. Not
+GNP, but material sufficiency and
+security.
+Not
+growth,
+but
+progress.) We don’t have to change
+anyone’s values, we just have to
+get the system to operate around
+real values.
+What are values? Where do they
+come from? Are they universal, or
+culturally
+determined?
+What
+causes a person or a society to
+give up on attaining “real values”
+and to settle for cheap substitutes?
+How can you key a feedback loop
+to qualities you can’t measure,
+rather than to quantities you can?
+Here is a system that seems
+perverse on all counts. It produces
+inefficiency,
+ugliness,
+environmental degradation, and
+human misery. But if we sweep it
+away, we will have no system.
+Nothing is more frightening than
+that. (As I write, I have the former
+communist system of the Soviet
+Union in mind, but that is not the
+only possible example.)
+Why is it that periods of minimum
+structure and maximum freedom to
+create are so frightening? How is
+it that one way of seeing the world
+becomes so widely shared that
+institutions,
+technologies,
+production
+systems,
+buildings,
+cities, become shaped around that
+way of seeing? How do systems
+create cultures? How do cultures
+create systems? Once a culture
+and system have been found
+lacking, do they have to change
+through breakdown and chaos?
+The people in this system are
+putting
+up
+with
+deleterious
+Why
+are
+people
+so
+easily
+convinced of their powerlessness?
+
+behavior because they are afraid of
+change. They don’t trust that a
+better system is possible. They feel
+they have no power to demand or
+bring about improvement.
+How do they become so cynical
+about their ability to achieve their
+visions? Why are they more likely
+to listen to people who tell them
+they can’t make changes than they
+are to people who tell them they
+can?
+For those who stake their identity on the role of omniscient conqueror, the
+uncertainty exposed by systems thinking is hard to take. If you can’t understand,
+predict, and control, what is there to do?
+Systems thinking leads to another conclusion, however, waiting, shining,
+obvious, as soon as we stop being blinded by the illusion of control. It says that
+there is plenty to do, of a different sort of “doing.” The future can’t be predicted,
+but it can be envisioned and brought lovingly into being. Systems can’t be
+controlled, but they can be designed and redesigned. We can’t surge forward
+with certainty into a world of no surprises, but we can expect surprises and learn
+from them and even profit from them. We can’t impose our will on a system. We
+can listen to what the system tells us, and discover how its properties and our
+values can work together to bring forth something much better than could ever
+be produced by our will alone.
+We can’t control systems or figure them out. But we can dance with them!
+I already knew that, in a way. I had learned about dancing with great powers
+from whitewater kayaking, from gardening, from playing music, from skiing.
+All those endeavors require one to stay wide awake, pay close attention,
+participate flat out, and respond to feedback. It had never occurred to me that
+those same requirements might apply to intellectual work, to management, to
+government, to getting along with people.
+But there it was, the message emerging from every computer model we made.
+Living successfully in a world of systems requires more of us than our ability to
+calculate. It requires our full humanity—our rationality, our ability to sort out
+truth from falsehood, our intuition, our compassion, our vision, and our
+morality.2
+I want to end this chapter and this book by trying to summarize the most
+general “systems wisdoms” I have absorbed from modeling complex systems
+and from hanging out with modelers. These are the take-home lessons, the
+concepts and practices that penetrate the discipline of systems so deeply that one
+begins, however imperfectly, to practice them not just in one’s profession, but in
+all of life. They are the behavioral consequences of a worldview based on the
+ideas of feedback, nonlinearity, and systems responsible for their own behavior.
+
+When that engineering professor at Dartmouth noticed that we systems folks
+were “different” and wondered why, these, I think, were the differences he
+noticed.
+The list probably isn’t complete, because I am still a student in the school of
+systems. And it isn’t a list that is unique to systems thinking; there are many
+ways to learn to dance. But here, as a start-off dancing lesson, are the practices I
+see my colleagues adopting, consciously or unconsciously, as they encounter
+new systems.
+Get the Beat of the System
+Before you disturb the system in any way, watch how it behaves. If it’s a piece
+of music or a whitewater rapid or a fluctuation in a commodity price, study its
+beat. If it’s a social system, watch it work. Learn its history. Ask people who’ve
+been around a long time to tell you what has happened. If possible, find or make
+a time graph of actual data from the system—peoples’ memories are not always
+reliable when it comes to timing.
+This guideline is deceptively simple. Until you make it a practice, you won’t
+believe how many wrong turns it helps you avoid. Starting with the behavior of
+the system forces you to focus on facts, not theories. It keeps you from falling
+too quickly into your own beliefs or misconceptions, or those of others.
+It’s amazing how many misconceptions there can be. People will swear that
+rainfall is decreasing, say, but when you look at the data, you find that what is
+really happening is that variability is increasing—the droughts are deeper, but
+the floods are greater too. I have been told with great authority that the price of
+milk was going up when it was going down, that real interest rates were falling
+when they were rising, that the deficit was a higher fraction of the GNP than
+ever before when it wasn’t.
+It’s especially interesting to watch how the various elements in the system do
+or do not vary together. Watching what really happens, instead of listening to
+peoples’ theories of what happens, can explode many careless causal
+hypotheses. Every selectman in the state of New Hampshire seems to be
+positive that growth in a town will lower taxes, but if you plot growth rates
+against tax rates, you find a scatter as random as the stars in a New Hampshire
+winter sky. There is no discernible relationship at all.
+Starting with the behavior of the system directs one’s thoughts to dynamic,
+not static, analysis—not only to “What’s wrong?” but also to “How did we get
+there?” “What other behavior modes are possible?” “If we don’t change
+direction, where are we going to end up?” And looking to the strengths of the
+system, one can ask “What’s working well here?” Starting with the history of
+
+several variables plotted together begins to suggest not only what elements are
+in the system, but how they might be interconnected.
+And finally, starting with history discourages the common and distracting
+tendency we all have to define a problem not by the system’s actual behavior,
+but by the lack of our favorite solution. (The problem is, we need to find more
+oil. The problem is, we need to ban abortion. The problem is, we don’t have
+enough salesmen. The problem is, how can we attract more growth to this
+town?) Listen to any discussion, in your family or a committee meeting at work
+or among the pundits in the media, and watch people leap to solutions, usually
+solutions in “predict, control, or impose your will” mode, without having paid
+any attention to what the system is doing and why it’s doing it.
+Expose Your Mental Models to the Light of Day
+When we draw structural diagrams and then write equations, we are forced to
+make our assumptions visible and to express them with rigor. We have to put
+every one of our assumptions about the system out where others (and we
+ourselves) can see them. Our models have to be complete, and they have to add
+up, and they have to be consistent. Our assumptions can no longer slide around
+(mental models are very slippery), assuming one thing for purposes of one
+discussion and something else contradictory for purposes of the next discussion.
+You don’t have to put forth your mental model with diagrams and equations,
+although doing so is a good practice. You can do it with words or lists or
+pictures or arrows showing what you think is connected to what. The more you
+do that, in any form, the clearer your thinking will become, the faster you will
+admit your uncertainties and correct your mistakes, and the more flexible you
+will learn to be. Mental flexibility—the willingness to redraw boundaries, to
+notice that a system has shifted into a new mode, to see how to redesign
+structure—is a necessity when you live in a world of flexible systems.
+Remember, always, that everything you know, and everything everyone
+knows, is only a model. Get your model out there where it can be viewed. Invite
+others to challenge your assumptions and add their own. Instead of becoming a
+champion for one possible explanation or hypothesis or model, collect as many
+as possible. Consider all of them to be plausible until you find some evidence
+that causes you to rule one out. That way you will be emotionally able to see the
+evidence that rules out an assumption that may become entangled with your own
+identity.
+Getting models out into the light of day, making them as rigorous as possible,
+testing them against the evidence, and being willing to scuttle them if they are
+no longer supported is nothing more than practicing the scientific method—
+
+something that is done too seldom even in science, and is done hardly at all in
+social science or management or government or everyday life.
+Honor, Respect, and Distribute Information
+You’ve seen how information holds systems together and how delayed, biased,
+scattered, or missing information can make feedback loops malfunction.
+Decision makers can’t respond to information they don’t have, can’t respond
+accurately to information that is inaccurate, and can’t respond in a timely way to
+information that is late. I would guess that most of what goes wrong in systems
+goes wrong because of biased, late, or missing information.
+If I could, I would add an eleventh commandment to the first ten: Thou shalt
+not distort, delay, or withhold information. You can drive a system crazy by
+muddying its information streams. You can make a system work better with
+surprising ease if you can give it more timely, more accurate, more complete
+information.
+For example, in 1986, new federal legislation, the Toxic Release Inventory,
+required U.S. companies to report all hazardous air pollutants emitted from each
+of their factories each year. Through the Freedom of Information Act (from a
+systems point of view, one of the most important laws in the nation), that
+information became a matter of public record. In July 1988, the first data on
+chemical emissions became available. The reported emissions were not illegal,
+but they didn’t look very good when they were published in local papers by
+enterprising reporters, who had a tendency to make lists of “the top ten local
+polluters.” That’s all that happened. There were no lawsuits, no required
+reductions, no fines, no penalties. But within two years chemical emissions
+nationwide (at least as reported, and presumably also in fact) had decreased by
+40 percent. Some companies were launching policies to bring their emissions
+down by 90 percent, just because of the release of previously withheld
+information.3
+Information is power. Anyone interested in power grasps that idea very
+quickly. The media, the public relations people, the politicians, and advertisers
+who regulate much of the public flow of information have far more power than
+most people realize. They filter and channel information. Often they do so for
+short-term, self-interested purposes. It’s no wonder that our social systems so
+often run amok.
+
+Use Language with Care and Enrich It with Systems Concepts
+Our information streams are composed primarily of language. Our mental
+models are mostly verbal. Honoring information means above all avoiding
+language pollution—making the cleanest possible use we can of language.
+Second, it means expanding our language so we can talk about complexity.
+Fred Kofman wrote in a systems journal:
+[Language] can serve as a medium through which we create new
+understandings and new realities as we begin to talk about them. In
+fact, we don’t talk about what we see; we see only what we can talk
+about. Our perspectives on the world depend on the interaction of
+our nervous system and our language—both act as filters through
+which we perceive our world.… The language and information
+systems of an organization are not an objective means of describing
+an outside reality—they fundamentally structure the perceptions and
+actions of its members. To reshape the measurement and
+communication systems of a [society] is to reshape all potential
+interactions at the most fundamental level. Language … as
+articulation of reality is more primordial than strategy, structure, or
+… culture.4
+A society that talks incessantly about “productivity” but that hardly
+understands, much less uses, the word “resilience” is going to become
+productive and not resilient. A society that doesn’t understand or use the term
+“carrying capacity” will exceed its carrying capacity. A society that talks about
+“creating jobs” as if that’s something only companies can do will not inspire the
+great majority of its people to create jobs, for themselves or anyone else. Nor
+will it appreciate its workers for their role in “creating profits.” And of course a
+society that talks about a “Peacekeeper” missile or “collateral damage,” a “Final
+Solution” or “ethnic cleansing,” is speaking what Wendell Berry calls
+“tyrannese.”
+My impression is that we have seen, for perhaps a hundred and fifty
+years, a gradual increase in language that is either meaningless or
+destructive of meaning. And I believe that this increasing
+unreliability of language parallels the increasing disintegration, over
+the same period, of persons and communities.…
+He goes on to say:
+In this degenerative accounting, language is almost without the
+power of designation, because it is used conscientiously to refer to
+nothing in particular. Attention rests upon percentages, categories,
+
+abstract functions.… It is not language that the user will very likely
+be required to stand by or to act on, for it does not define any
+personal ground for standing or acting. Its only practical utility is to
+support with “expert opinion” a vast, impersonal technological
+action already begun.… It is a tyrannical language: tyrannese.5
+The first step in respecting language is keeping it as concrete, meaningful, and
+truthful as possible—part of the job of keeping information streams clear. The
+second step is to enlarge language to make it consistent with our enlarged
+understanding of systems. If the Eskimos have so many words for snow, it’s
+because they have studied and learned how to use snow. They have turned snow
+into a resource, a system with which they can dance. The industrial society is
+just beginning to have and use words for systems, because it is only beginning
+to pay attention to and use complexity. Carrying capacity, structure, diversity,
+and even system are old words that are coming to have richer and more precise
+meanings. New words are having to be invented.
+My word processor has spell-check capability, which lets me add words that
+didn’t originally come in its comprehensive dictionary. It’s interesting to see
+what words I had to add when writing this book: feedback, throughput,
+overshoot, self-organization, sustainability.
+Pay Attention to What Is Important, Not Just What Is Quantifiable
+Our culture, obsessed with numbers, has given us the idea that what we can
+measure is more important than what we can’t measure. Think about that for a
+minute. It means that we make quantity more important than quality. If quantity
+forms the goals of our feedback loops, if quantity is the center of our attention
+and language and institutions, if we motivate ourselves, rate ourselves, and
+reward ourselves on our ability to produce quantity, then quantity will be the
+result. You can look around and make up your own mind about whether quantity
+or quality is the outstanding characteristic of the world in which you live.
+As modelers we have exposed ourselves to the ridicule of our scientific
+colleagues more than once by putting variables labeled “prejudice,” or “self-
+esteem,” or “quality of life” into our models. Since computers require numbers,
+we have had to make up quantitative scales by which to measure these
+qualitative concepts. “Let’s say prejudice is measured from –10 to +10, where 0
+means you are treated with no bias at all, –10 means extreme negative prejudice,
+and +10 means such positive prejudice that you can do no wrong. Now, suppose
+that you were treated with a prejudice of –2, or +5, or –8. What would that do to
+your performance at work?”
+
+The relationship between prejudice and performance actually had to be put in
+a model once.6 The study was for a firm that wanted to know how to do better at
+treating minority workers and how to move them up the corporate ladder.
+Everyone interviewed agreed that there certainly was a real connection between
+prejudice and performance. It was arbitrary what kind of scale to measure it by
+—it could have been 1 to 5 or 0 to 100—but it would have been much more
+unscientific to leave “prejudice” out of that study than to try to include it. When
+the workers in the company were asked to draw the relationship between their
+performance and prejudice, they came up with one of the most nonlinear
+relationships I’ve ever seen in a model.
+Pretending that something doesn’t exist if it’s hard to quantify leads to faulty
+models. You’ve already seen the system trap that comes from setting goals
+around what is easily measured, rather than around what is important. So don’t
+fall into that trap. Human beings have been endowed not only with the ability to
+count, but also with the ability to assess quality. Be a quality detector. Be a
+walking, noisy Geiger counter that registers the presence or absence of quality.
+If something is ugly, say so. If it is tacky, inappropriate, out of proportion,
+unsustainable, morally degrading, ecologically impoverishing, or humanly
+demeaning, don’t let it pass. Don’t be stopped by the “if you can’t define it and
+measure it, I don’t have to pay attention to it” ploy. No one can define or
+measure justice, democracy, security, freedom, truth, or love. No one can define
+or measure any value. But if no one speaks up for them, if systems aren’t
+designed to produce them, if we don’t speak about them and point toward their
+presence or absence, they will cease to exist.
+Make Feedback Policies for Feedback Systems
+President Jimmy Carter had an unusual ability to think in feedback terms and to
+make feedback policies. Unfortunately, he had a hard time explaining them to a
+press and public that didn’t understand feedback.
+He suggested, at a time when oil imports were soaring, that there be a tax on
+gasoline proportional to the fraction of U.S. oil consumption that had to be
+imported. If imports continued to rise, the tax would rise until it suppressed
+demand and brought forth substitutes and reduced imports. If imports fell to
+zero, the tax would fall to zero.
+The tax never got passed.
+Carter also was trying to deal with a flood of illegal immigrants from Mexico.
+He suggested that nothing could be done about that immigration as long as there
+was a great gap in opportunity and living standards between the United States
+and Mexico. Rather than spending money on border guards and barriers, he said,
+
+we should spend money helping to build the Mexican economy, and we should
+continue to do so until the immigration stopped.
+That never happened either.
+You can imagine why a dynamic, self-adjusting feedback system cannot be
+governed by a static, unbending policy. It’s easier, more effective, and usually
+much cheaper to design policies that change depending on the state of the
+system. Especially where there are great uncertainties, the best policies not only
+contain feedback loops, but meta-feedback loops—loops that alter, correct, and
+expand loops. These are policies that design learning into the management
+process.
+An example was the historic Montreal Protocol to protect the ozone layer of
+the stratosphere. In 1987, when that protocol was signed, there was no certainty
+about the danger to the ozone layer, about the rate at which it was degrading, or
+about the specific effect of different chemicals. The protocol set targets for how
+fast the manufacture of the most damaging chemicals should be decreased. But
+it also required monitoring the situation and reconvening an international
+congress to change the phase-out schedule, if the damage to the ozone layer
+turned out to be more or less than expected. Just three years later, in 1990, the
+schedule had to be hurried forward and more chemicals added to it, because the
+damage was turning out to be much greater than was foreseen in 1987.
+That was a feedback policy, structured for learning. We all hope that it worked
+in time.
+Go for the Good of the Whole
+Remember that hierarchies exist to serve the bottom layers, not the top. Don’t
+maximize parts of systems or subsystems while ignoring the whole. Don’t, as
+Kenneth Boulding once said, go to great trouble to optimize something that
+never should be done at all. Aim to enhance total systems properties, such as
+growth, stability, diversity, resilience, and sustainability—whether they are
+easily measured or not.
+Listen to the Wisdom of the System
+Aid and encourage the forces and structures that help the system run itself.
+Notice how many of those forces and structures are at the bottom of the
+hierarchy. Don’t be an unthinking intervenor and destroy the system’s own self-
+maintenance capacities. Before you charge in to make things better, pay
+attention to the value of what’s already there.
+
+A friend of mine, Nathan Gray, was once an aid worker in Guatemala. He told
+me of his frustration with agencies that would arrive with the intention of
+“creating jobs” and “increasing entrepreneurial abilities” and “attracting outside
+investors.” They would walk right past the thriving local market, where small-
+scale business people of all kinds, from basket makers to vegetable growers to
+butchers to candy sellers, were displaying their entrepreneurial abilities in jobs
+they had created for themselves. Nathan spent his time talking to the people in
+the market, asking about their lives and businesses, learning what was in the
+way of those businesses expanding and incomes rising. He concluded that what
+was needed was not outside investors, but inside ones. Small loans available at
+reasonable interest rates, and classes in literacy and accounting, would produce
+much more long-term good for the community than bringing in a factory or
+assembly plant from outside.
+Locate Responsibility in the System
+That’s a guideline both for analysis and design. In analysis, it means looking for
+the ways the system creates its own behavior. Do pay attention to the triggering
+events, the outside influences that bring forth one kind of behavior from the
+system rather than another. Sometimes those outside events can be controlled (as
+in reducing the pathogens in drinking water to keep down incidences of
+infectious disease). But sometimes they can’t. And sometimes blaming or trying
+to control the outside influence blinds one to the easier task of increasing
+responsibility within the system.
+“Intrinsic responsibility” means that the system is designed to send feedback
+about the consequences of decision making directly and quickly and
+compellingly to the decision makers. Because the pilot of a plane rides in the
+front of the plane, that pilot is intrinsically responsible. He or she will
+experience directly the consequences of his or her decisions.
+Dartmouth College reduced intrinsic responsibility when it took thermostats
+out of individual offices and classrooms and put temperature-control decisions
+under the guidance of a central computer. That was done as an energy-saving
+measure. My observation from a low level in the hierarchy was that the main
+consequence was greater oscillations in room temperature. When my office got
+overheated, instead of turning down the thermostat, I had to call an office across
+campus, which got around to making corrections over a period of hours or days,
+and which often overcorrected, setting up the need for another phone call. One
+way of making that system more, rather than less, responsible might have been
+to let professors keep control of their own thermostats and charge them directly
+for the amount of energy they use, thereby privatizing a commons!
+
+Designing a system for intrinsic responsibility could mean, for example,
+requiring all towns or companies that emit wastewater into a stream to place
+their intake pipes downstream from their outflow pipe. It could mean that
+neither insurance companies nor public funds should pay for medical costs
+resulting from smoking or from accidents in which a motorcycle rider didn’t
+wear a helmet or a car rider didn’t fasten the seat belt. It could mean Congress
+would no longer be allowed to legislate rules from which it exempts itself.
+(There are many rules from which Congress has exempted itself, including
+affirmative action hiring requirements and the necessity of preparing
+environmental impact statements.) A great deal of responsibility was lost when
+rulers who declared war were no longer expected to lead the troops into battle.
+Warfare became even more irresponsible when it became possible to push a
+button and cause tremendous damage at such a distance that the person pushing
+the button never even sees the damage.
+Garrett Hardin has suggested that people who want to prevent other people
+from having an abortion are not practicing intrinsic responsibility, unless they
+are personally willing to bring up the resulting child!7
+These few examples are enough to get you thinking about how little our
+current culture has come to look for responsibility within the system that
+generates an action, and how poorly we design systems to experience the
+consequences of their actions.
+Stay Humble—Stay a Learner
+Systems thinking has taught me to trust my intuition more and my figuring-out
+rationality less, to lean on both as much as I can, but still to be prepared for
+surprises. Working with systems, on the computer, in nature, among people, in
+organizations, constantly reminds me of how incomplete my mental models are,
+how complex the world is, and how much I don’t know.
+The thing to do, when you don’t know, is not to bluff and not to freeze, but to
+learn. The way you learn is by experiment—or, as Buckminster Fuller put it, by
+trial and error, error, error. In a world of complex systems, it is not appropriate
+to charge forward with rigid, undeviating directives. “Stay the course” is only a
+good idea if you’re sure you’re on course. Pretending you’re in control even
+when you aren’t is a recipe not only for mistakes, but for not learning from
+mistakes. What’s appropriate when you’re learning is small steps, constant
+monitoring, and a willingness to change course as you find out more about
+where it’s leading.
+That’s hard. It means making mistakes and, worse, admitting them. It means
+what psychologist Don Michael calls “error-embracing.” It takes a lot of
+courage to embrace your errors.
+
+Neither we ourselves, nor our associates, nor the publics that need to
+be involved … can learn what is going on and might go on if we act
+as if we really had the facts, were really certain about all the issues,
+knew exactly what the outcomes should/could be, and were really
+certain that we were attaining the most preferred outcomes.
+Moreover, when addressing complex social issues, acting as if we
+knew what we were doing simply decreases our credibility.…
+Distrust of institutions and authority figures is increasing. The very
+act of acknowledging uncertainty could help greatly to reverse this
+worsening trend.8
+Error-embracing is the condition for learning. It means seeking and
+using—and sharing—information about what went wrong with what
+you expected or hoped would go right. Both error embracing and
+living with high levels of uncertainty emphasize our personal as
+well as societal vulnerability. Typically we hide our vulnerabilities
+from ourselves as well as from others. But … to be the kind of
+person who truly accepts his responsibility … requires knowledge of
+and access to self far beyond that possessed by most people in this
+society.9
+Celebrate Complexity
+Let’s face it, the universe is messy. It is nonlinear, turbulent, and dynamic. It
+spends its time in transient behavior on its way to somewhere else, not in
+mathematically neat equilibria. It self-organizes and evolves. It creates diversity
+and uniformity. That’s what makes the world interesting, that’s what makes it
+beautiful, and that’s what makes it work.
+There’s something within the human mind that is attracted to straight lines and
+not curves, to whole numbers and not fractions, to uniformity and not diversity,
+and to certainties and not mystery. But there is something else within us that has
+the opposite set of tendencies, since we ourselves evolved out of and are shaped
+by and structured as complex feedback systems. Only a part of us, a part that has
+emerged recently, designs buildings as boxes with uncompromising straight
+lines and flat surfaces. Another part of us recognizes instinctively that nature
+designs in fractals, with intriguing detail on every scale from the microscopic to
+the macroscopic. That part of us makes Gothic cathedrals and Persian carpets,
+symphonies and novels, Mardi Gras costumes and artificial intelligence
+programs, all with embellishments almost as complex as the ones we find in the
+world around us.
+
+We can, and some of us do, celebrate and encourage self-organization,
+disorder, variety, and diversity. Some of us even make a moral code of doing so,
+as Aldo Leopold did with his land ethic: “A thing is right when it tends to
+preserve the integrity, stability, and beauty of the biotic community. It is wrong
+when it tends otherwise.”10
+Expand Time Horizons
+One of the worst ideas humanity ever had was the interest rate, which led to the
+further ideas of payback periods and discount rates, all of which provide a
+rational, quantitative excuse for ignoring the long term.
+The official time horizon of industrial society doesn’t extend beyond what
+will happen after the next election or beyond the payback period of current
+investments. The time horizon of most families still extends farther than that—
+through the lifetimes of children or grandchildren. Many Native American
+cultures actively spoke of and considered in their decisions the effects on the
+seventh generation to come. The longer the operant time horizon, the better the
+chances for survival. As Kenneth Boulding wrote:
+There is a great deal of historical evidence to suggest that a society
+which loses its identity with posterity and which loses its positive
+image of the future loses also its capacity to deal with present
+problems, and soon falls apart.… There has always been something
+rather refreshing in the view that we should live like the birds, and
+perhaps posterity is for the birds in more senses than one; so perhaps
+we should all … go out and pollute something cheerfully. As an old
+taker of thought for the morrow, however, I cannot quite accept this
+solution.…11
+In a strict systems sense, there is no long-term, short-term distinction.
+Phenomena at different time-scales are nested within each other. Actions taken
+now have some immediate effects and some that radiate out for decades to
+come. We experience now the consequences of actions set in motion yesterday
+and decades ago and centuries ago. The couplings between very fast processes
+and very slow ones are sometimes strong, sometimes weak. When the slow ones
+dominate, nothing seems to be happening; when the fast ones take over, things
+happen with breathtaking speed. Systems are always coupling and uncoupling
+the large and the small, the fast and the slow.
+When you’re walking along a tricky, curving, unknown, surprising, obstacle-
+strewn path, you’d be a fool to keep your head down and look just at the next
+step in front of you. You’d be equally a fool just to peer far ahead and never
+
+notice what’s immediately under your feet. You need to be watching both the
+short and the long term—the whole system.
+Defy the Disciplines
+In spite of what you majored in, or what the textbooks say, or what you think
+you’re an expert at, follow a system wherever it leads. It will be sure to lead
+across traditional disciplinary lines. To understand that system, you will have to
+be able to learn from—while not being limited by—economists and chemists
+and psychologists and theologians. You will have to penetrate their jargons,
+integrate what they tell you, recognize what they can honestly see through their
+particular lenses, and discard the distortions that come from the narrowness and
+incompleteness of their lenses. They won’t make it easy for you.
+Seeing systems whole requires more than being “interdisciplinary,” if that
+word means, as it usually does, putting together people from different
+disciplines and letting them talk past each other. Interdisciplinary
+communication works only if there is a real problem to be solved, and if the
+representatives from the various disciplines are more committed to solving the
+problem than to being academically correct. They will have to go into learning
+mode. They will have to admit ignorance and be willing to be taught, by each
+other and by the system.
+It can be done. It’s very exciting when it happens.
+Expand the Boundary of Caring
+Living successfully in a world of complex systems means expanding not only
+time horizons and thought horizons; above all, it means expanding the horizons
+of caring. There are moral reasons for doing that, of course. And if moral
+arguments are not sufficient, then systems thinking provides the practical
+reasons to back up the moral ones. The real system is interconnected. No part of
+the human race is separate either from other human beings or from the global
+ecosystem. It will not be possible in this integrated world for your heart to
+succeed if your lungs fail, or for your company to succeed if your workers fail,
+or for the rich in Los Angeles to succeed if the poor in Los Angeles fail, or for
+Europe to succeed if Africa fails, or for the global economy to succeed if the
+global environment fails.
+As with everything else about systems, most people already know about the
+interconnections that make moral and practical rules turn out to be the same
+rules. They just have to bring themselves to believe that which they know.
+
+Don’t Erode the Goal of Goodness
+The most damaging example of the systems archetype called “drift to low
+performance” is the process by which modern industrial culture has eroded the
+goal of morality. The workings of the trap have been classic, and awful to
+behold.
+Examples of bad human behavior are held up, magnified by the media,
+affirmed by the culture, as typical. This is just what you would expect. After all,
+we’re only human. The far more numerous examples of human goodness are
+barely noticed. They are “not news.” They are exceptions. Must have been a
+saint. Can’t expect everyone to behave like that.
+And so expectations are lowered. The gap between desired behavior and
+actual behavior narrows. Fewer actions are taken to affirm and instill ideals. The
+public discourse is full of cynicism. Public leaders are visibly, unrepentantly
+amoral or immoral and are not held to account. Idealism is ridiculed. Statements
+of moral belief are suspect. It is much easier to talk about hate in public than to
+talk about love. The literary critic and naturalist Joseph Wood Krutch put it this
+way:
+Thus though man has never before been so complacent about what
+he has, or so confident of his ability to do whatever he sets his mind
+upon, it is at the same time true that he never before accepted so low
+an estimate of what he is. That same scientific method which
+enabled him to create his wealth and to unleash the power he wields
+has, he believes, enabled biology and psychology to explain him
+away—or at least to explain away whatever used to seem unique or
+even in any way mysterious.… Truly he is, for all his wealth and
+power, poor in spirit.12
+We know what to do about drift to low performance. Don’t weigh the bad news
+more heavily than the good. And keep standards absolute.
+Systems thinking can only tell us to do that. It can’t do it. We’re back to the
+gap between understanding and implementation. Systems thinking by itself
+cannot bridge that gap, but it can lead us to the edge of what analysis can do and
+then point beyond—to what can and must be done by the human spirit.
+

@@ -1,0 +1,44 @@
+# Embedded Analytics
+
+Paginas: 373-373
+
+a variety of machines capable of streaming real-time data. In addition, the plant has
+cameras recording video on the manufacturing line. Right now, technicians watch the
+footage in real time, look for defective items, and alert those running the line when
+they see a high rate of snags appearing in items.
+Data engineers realize that they can use an off-the-shelf cloud machine vision tool to
+identify defects in real time automatically. Defect data is tied to specific item serial
+numbers and streamed. From here, a real-time analytics process can tie defective
+items to streaming events from machines further up the assembly line.
+Using this approach, factory floor analysts discover that the quality of raw fabric
+stock varies significantly from box to box. When the monitoring system shows a high
+rate of snag defects, line workers can remove the defective box and charge it back to
+the supplier.
+Seeing the success of this quality improvement project, the supplier decides to adopt
+similar quality-control processes. Data engineers from the retailer work with the
+supplier to deploy their real-time data analytics, dramatically improving the quality of
+their fabric stock.
+Embedded Analytics
+Whereas business and operational analytics are internally focused, a recent trend is
+external-facing or embedded analytics. With so much data powering applications,
+companies increasingly provide analytics to end users. These are typically referred to
+as data applications, often with analytics dashboards embedded within the application
+itself. Also known as embedded analytics, these end-user-facing dashboards give users
+key metrics about their relationship with the application.
+A smart thermostat has a mobile application that shows the temperature in real
+time and up-to-date power consumption metrics, allowing the user to create a better
+energy-efficient heating or cooling schedule. In another example, a third-party ecom‐
+merce platform provides its sellers a real-time dashboard on sales, inventory, and
+returns. The seller has the option to use this information to offer deals to customers
+in near real time. In both cases, an application allows users to make real-time deci‐
+sions (manually or automatically) based on data.
+The landscape of embedded analytics is snowballing, and we expect that such data
+applications will become increasingly pervasive within the next few years. As a data
+engineer, you’re probably not creating the embedded analytics frontend, as the appli‐
+cation developers handle that. Since you’re responsible for the databases serving the
+embedded analytics, you’ll need to understand the speed and latency requirements
+for embedded analytics.
+348
+|
+Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
+

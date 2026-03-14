@@ -1,0 +1,85 @@
+# Cloud Repatriation Arguments
+
+Paginas: 155-156
+
+Choose technologies for the present, but look toward the future
+As we mentioned in “Today Versus the Future: Immutable Versus Transitory Tech‐
+nologies” on page 120, you need to keep one eye on the present while planning for
+unknowns. Right now is a tough time to plan workload placements and migrations.
+Because of the fast pace of competition and change in the cloud industry, the decision
+space will look very different in five to ten years. It is tempting to take into account
+every possible future architecture permutation.
+We believe that it is critical to avoid this endless trap of analysis. Instead, plan for the
+present. Choose the best technologies for your current needs and concrete plans for
+the near future. Choose your deployment platform based on real business needs while
+focusing on simplicity and flexibility.
+In particular, don’t choose a complex multicloud or hybrid-cloud strategy unless
+there’s a compelling reason. Do you need to serve data near customers on multiple
+clouds? Do industry regulations require you to house certain data in your data
+centers? Do you have a compelling technology need for specific services on two
+different clouds? Choose a single-cloud deployment strategy if these scenarios don’t
+apply to you.
+On the other hand, have an escape plan. As we’ve emphasized before, every technol‐
+ogy—even open source software—comes with some degree of lock-in. A single-cloud
+strategy has significant advantages of simplicity and integration but comes with
+significant lock-in attached. In this instance, we’re talking about mental flexibility, the
+flexibility to evaluate the current state of the world and imagine alternatives. Ideally,
+your escape plan will remain locked behind glass, but preparing this plan will help
+you to make better decisions in the present and give you a way out if things go wrong
+in the future.
+Cloud Repatriation Arguments
+As we wrote this book, Sarah Wang and Martin Casado published “The Cost of
+Cloud, A Trillion Dollar Paradox”, an article that generated significant sound and
+fury in the tech space. Readers widely interpreted the article as a call for the repa‐
+triation of cloud workloads to on-premises servers. They make a somewhat more
+subtle argument that companies should expend significant resources to control cloud
+spending and should consider repatriation as a possible option.
+We want to take a moment to dissect one part of their discussion. Wang and Casado
+cite Dropbox’s repatriation of significant workloads from AWS to Dropbox-owned
+servers as a case study for companies considering similar repatriation moves.
+130
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+
+5 Raghav Bhargava, “Evolution of Dropbox’s Edge Network,” Dropbox.Tech, June 19, 2017,
+https://oreil.ly/RAwPf.
+6 Akhil Gupta, “Scaling to Exabytes and Beyond,” Dropbox.Tech, March 14, 2016, https://oreil.ly/5XPKv.
+7 “Dropbox Migrates 34 PB of Data to an Amazon S3 Data Lake for Analytics,” AWS website, 2020,
+https://oreil.ly/wpVoM.
+You are not Dropbox, nor are you Cloudflare
+We believe that this case study is frequently used without appropriate context and
+is a compelling example of the false equivalence logical fallacy. Dropbox provides
+particular services where ownership of hardware and data centers can offer a compet‐
+itive advantage. Companies should not rely excessively on Dropbox’s example when
+assessing cloud and on-premises deployment options.
+First, it’s important to understand that Dropbox stores enormous amounts of data.
+The company is tight-lipped about exactly how much data it hosts but says it is many
+exabytes and continues to grow.
+Second, Dropbox handles a vast amount of network traffic. We know that its band‐
+width consumption in 2017 was significant enough for the company to add “hun‐
+dreds of gigabits of internet connectivity with transit providers (regional and global
+ISPs), and hundreds of new peering partners (where we exchange traffic directly
+rather than through an ISP).”5 The data egress costs would be extremely high in a
+public cloud environment.
+Third, Dropbox is essentially a cloud storage vendor, but one with a highly spe‐
+cialized storage product that combines object and block storage characteristics.
+Dropbox’s core competence is a differential file-update system that can efficiently
+synchronize actively edited files among users while minimizing network and CPU
+usage. The product is not a good fit for object storage, block storage, or other
+standard cloud offerings. Dropbox has instead benefited from building a custom,
+highly integrated software and hardware stack.6
+Fourth, while Dropbox moved its core product to its hardware, it continued building
+out other AWS workloads. This allows Dropbox to focus on building one highly
+tuned cloud service at an extraordinary scale rather than trying to replace multiple
+services. Dropbox can focus on its core competence in cloud storage and data syn‐
+chronization while offloading software and hardware management in other areas,
+such as data analytics.7
+Other frequently cited success stories that companies have built outside the cloud
+include Backblaze and Cloudflare, but these offer similar lessons. Backblaze began life
+as a personal cloud data backup product but has since begun to offer B2, an object
+storage service similar to Amazon S3. Backblaze currently stores over an exabyte of
+data. Cloudflare claims to provide services for over 25 million internet properties,
+Location
+|
+131
+

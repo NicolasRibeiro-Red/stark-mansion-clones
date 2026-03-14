@@ -1,0 +1,34 @@
+# Types of Time
+
+Paginas: 189-189
+
+queue. This message is then ingested by a service that determines whether the furnace
+should be turned on or off. This service sends a message to a furnace controller that
+takes the appropriate action. Once the message is received, and the action is taken,
+the message is removed from the message queue.
+By contrast, a stream is an append-only log of event records. (Streams are ingested
+and stored in event-streaming platforms, which we discuss at greater length in “Mes‐
+sages and Streams” on page 163.) As events occur, they are accumulated in an ordered
+sequence (Figure 5-5); a timestamp or an ID might order events. (Note that events
+aren’t always delivered in exact order because of the subtleties of distributed systems.)
+Figure 5-5. A stream, which is an ordered append-only log of records
+You’ll use streams when you care about what happened over many events. Because
+of the append-only nature of streams, records in a stream are persisted over a long
+retention window—often weeks or months—allowing for complex operations on
+records such as aggregations on multiple records or the ability to rewind to a point in
+time within the stream.
+It’s worth noting that systems that process streams can process messages, and stream‐
+ing platforms are frequently used for message passing. We often accumulate messages
+in streams when we want to perform message analytics. In our IoT example, the
+temperature readings that trigger the furnace to turn on or off might also be later
+analyzed to determine temperature trends and statistics.
+Types of Time
+While time is an essential consideration for all data ingestion, it becomes that much
+more critical and subtle in the context of streaming, where we view data as continu‐
+ous and expect to consume it shortly after it is produced. Let’s look at the key types
+of time you’ll run into when ingesting data: the time that the event is generated, when
+it’s ingested and processed, and how long processing took (Figure 5-6).
+164
+|
+Chapter 5: Data Generation in Source Systems
+

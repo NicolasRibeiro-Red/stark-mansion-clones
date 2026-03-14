@@ -1,0 +1,46 @@
+# Build Versus Buy
+
+Paginas: 157-157
+
+8 Todd Hoff, “The Eternal Cost Savings of Netflix’s Internal Spot Market,” High Scalability, December 4, 2017,
+https://oreil.ly/LLoFt.
+9 Todd Spangler, “Netflix Bandwidth Consumption Eclipsed by Web Media Streaming Applications,” Variety,
+September 10, 2019, https://oreil.ly/tTm3k.
+10 Amir Efrati and Kevin McLaughlin, “Apple’s Spending on Google Cloud Storage on Track to Soar 50% This
+Year,” The Information, June 29, 2021, https://oreil.ly/OlFyR.
+with points of presence in over 200 cities and 51 terabits per second (Tbps) of total
+network capacity.
+Netflix offers yet another useful example. The company is famous for running its tech
+stack on AWS, but this is only partially true. Netflix does run video transcoding on
+AWS, accounting for roughly 70% of its compute needs in 2017.8 Netflix also runs
+its application backend and data analytics on AWS. However, rather than using the
+AWS content distribution network, Netflix has built a custom CDN in collaboration
+with internet service providers, utilizing a highly specialized combination of software
+and hardware. For a company that consumes a substantial slice of all internet traffic,9
+building out this critical infrastructure allowed it to deliver high-quality video to a
+huge customer base cost-effectively.
+These case studies suggest that it makes sense for companies to manage their own
+hardware and network connections in particular circumstances. The biggest modern
+success stories of companies building and maintaining hardware involve extraordi‐
+nary scale (exabytes of data, terabits per second of bandwidth, etc.) and limited use
+cases where companies can realize a competitive advantage by engineering highly
+integrated hardware and software stacks. In addition, all of these companies consume
+massive network bandwidth, suggesting that data egress charges would be a major
+cost if they chose to operate fully from a public cloud.
+Consider continuing to run workloads on premises or repatriating cloud workloads if
+you run a truly cloud-scale service. What is cloud scale? You might be at cloud scale
+if you are storing an exabyte of data or handling terabits per second of traffic to and
+from the internet. (Achieving a terabit per second of internal network traffic is fairly
+easy.) In addition, consider owning your servers if data egress costs are a major factor
+for your business. To give a concrete example of cloud scale workloads that could
+benefit from repatriation, Apple might gain a significant financial and performance
+advantage by migrating iCloud storage to its own servers.10
+Build Versus Buy
+Build versus buy is an age-old debate in technology. The argument for building
+is that you have end-to-end control over the solution and are not at the mercy
+of a vendor or open source community. The argument supporting buying comes
+down to resource constraints and expertise; do you have the expertise to build a
+132
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+

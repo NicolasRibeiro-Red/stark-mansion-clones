@@ -1,0 +1,43 @@
+# “Enterprisey” Data Engineering
+
+Paginas: 408-408
+
+2 Ben Rogojan, “Three Data Engineering Experts Share Their Thoughts on Where Data Is Headed,” Better
+Programming, May 27, 2021, https://oreil.ly/IsY4W.
+We will also see significant enhancements in the domain of live data—e.g., streaming
+pipelines and databases capable of ingesting and querying streaming data. In the past,
+building a streaming DAG was an extremely complex process with a high ongoing
+operational burden (see Chapter 8). Tools like Apache Pulsar point the way toward
+a future in which streaming DAGs can be deployed with complex transformations
+using relatively simple code. We have already seen the emergence of managed stream
+processors (such as Amazon Kinesis Data Analytics and Google Cloud Dataflow),
+but we will see a new generation of orchestration tools for managing these services,
+stitching them together, and monitoring them. We discuss live data in “The Live Data
+Stack” on page 385.
+What does this enhanced abstraction mean for data engineers? As we’ve already
+argued in this chapter, the role of the data engineer won’t go away, but it will
+evolve significantly. By comparison, more sophisticated mobile operating systems
+and frameworks have not eliminated mobile app developers. Instead, mobile app
+developers can now focus on building better-quality, more sophisticated applications.
+We expect similar developments for data engineering as the cloud-scale data OS
+paradigm increases interoperability and simplicity across various applications and
+systems.
+“Enterprisey” Data Engineering
+The increasing simplification of data tools and the emergence and documentation of
+best practices means data engineering will become more “enterprisey.”2 This will make
+many readers violently cringe. The term enterprise, for some, conjures Kafkaesque
+nightmares of faceless committees dressed in overly starched blue shirts and khakis,
+endless red tape, and waterfall-managed development projects with constantly slip‐
+ping schedules and ballooning budgets. In short, some of you read “enterprise” and
+imagine a soulless place where innovation goes to die.
+Fortunately, this is not what we’re talking about; we’re referring to some of the good
+things that larger companies do with data—management, operations, governance,
+and other “boring” stuff. We’re presently living through the golden age of “enterpri‐
+sey” data management tools. Technologies and practices once reserved for giant
+organizations are trickling downstream. The once hard parts of big data and stream‐
+ing data have now largely been abstracted away, with the focus shifting to ease of use,
+interoperability, and other refinements.
+“Enterprisey” Data Engineering
+|
+383
+

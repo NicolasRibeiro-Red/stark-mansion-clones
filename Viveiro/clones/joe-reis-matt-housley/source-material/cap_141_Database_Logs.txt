@@ -1,0 +1,42 @@
+# Database Logs
+
+Paginas: 186-186
+
+Semistructured logs
+These are encoded as text in an object serialization format (JSON, more often
+than not). Semistructured logs are machine-readable and portable. However,
+they are much less efficient than binary logs. And though they are nominally
+machine-readable, extracting value from them often requires significant custom
+code.
+Plain-text (unstructured) logs
+These essentially store the console output from software. As such, no general-
+purpose standards exist. These logs can provide helpful information for data
+scientists and ML engineers, though extracting useful information from the raw
+text data might be complicated.
+Log resolution
+Logs are created at various resolutions and log levels. The log resolution refers to the
+amount of event data captured in a log. For example, database logs capture enough
+information from database events to allow reconstructing the database state at any
+point in time.
+On the other hand, capturing all data changes in logs for a big data system often isn’t
+practical. Instead, these logs may note only that a particular type of commit event
+has occurred. The log level refers to the conditions required to record a log entry,
+specifically concerning errors and debugging. Software is often configurable to log
+every event or to log only errors, for example.
+Log latency: Batch or real time
+Batch logs are often written continuously to a file. Individual log entries can be
+written to a messaging system such as Kafka or Pulsar for real-time applications.
+Database Logs
+Database logs are essential enough that they deserve more detailed coverage. Write-
+ahead logs—typically, binary files stored in a specific database-native format—play a
+crucial role in database guarantees and recoverability. The database server receives
+write and update requests to a database table (see Figure 5-3), storing each operation
+in the log before acknowledging the request. The acknowledgment comes with a
+log-associated guarantee: even if the server fails, it can recover its state on reboot by
+completing the unfinished work from the logs.
+Database logs are extremely useful in data engineering, especially for CDC to gener‐
+ate event streams from database changes.
+Source Systems: Main Ideas
+|
+161
+

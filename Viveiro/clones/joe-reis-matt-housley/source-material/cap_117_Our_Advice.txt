@@ -1,0 +1,44 @@
+# Our Advice
+
+Paginas: 171-171
+
+server, use a boot script or build an image. Deploy code to the server through a
+CI/CD pipeline.
+Use clusters and autoscaling.
+Take advantage of the cloud’s ability to grow and shrink compute resources
+on demand. As your application increases its usage, cluster your application
+servers, and use autoscaling capabilities to automatically horizontally scale your
+application as demand grows.
+Treat your infrastructure as code.
+Automation doesn’t apply to just servers and should extend to your infrastruc‐
+ture whenever possible. Deploy your infrastructure (servers or otherwise) using
+deployment managers such as Terraform, AWS CloudFormation, and Google
+Cloud Deployment Manager.
+Use containers.
+For more sophisticated or heavy-duty workloads with complex installed depen‐
+dencies, consider using containers on either a single server or Kubernetes.
+Our Advice
+Here are some key considerations to help you determine whether serverless is right
+for you:
+Workload size and complexity
+Serverless works best for simple, discrete tasks and workloads. It’s not as suit‐
+able if you have many moving parts or require a lot of compute or memory
+horsepower. In that case, consider using containers and a container workflow
+orchestration framework like Kubernetes.
+Execution frequency and duration
+How many requests per second will your serverless application process? How
+long will each request take to process? Cloud serverless platforms have limits
+on execution frequency, concurrency, and duration. If your application can’t
+function neatly within these limits, it is time to consider a container-oriented
+approach.
+Requests and networking
+Serverless platforms often utilize some form of simplified networking and don’t
+support all cloud virtual networking features, such as VPCs and firewalls.
+Language
+What language do you typically use? If it’s not one of the officially supported
+languages supported by the serverless platform, you should consider containers
+instead.
+146
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+

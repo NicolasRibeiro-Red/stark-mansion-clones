@@ -1,0 +1,40 @@
+# System Definitions: A Glossary
+
+Paginas: 177-177
+
+
+Appendix
+System Definitions: A Glossary
+Archetypes: Common system structures that produce characteristic patterns of
+behavior.
+Balancing feedback loop: A stabilizing, goal-seeking, regulating feedback
+loop, also know as a “negative feedback loop” because it opposes, or
+reverses, whatever direction of change is imposed on the system.
+Bounded rationality: The logic that leads to decisions or actions that make
+sense within one part of a system but are not reasonable within a broader
+context or when seen as a part of the wider system.
+Dynamic equilibrium: The condition in which the state of a stock (its level or
+its size) is steady and unchanging, despite inflows and outflows. This is
+possible only when all inflows equal all outflows.
+Dynamics: The behavior over time of a system or any of its components.
+Feedback loop: The mechanism (rule or information flow or signal) that allows
+a change in a stock to affect a flow into or out of that same stock. A closed
+chain of causal connections from a stock, through a set of decisions and
+actions dependent on the level of the stock, and back again through a flow to
+change the stock.
+Flow: Material or information that enters or leaves a stock over a period of time.
+Hierarchy: Systems organized in such a way as to create a larger system.
+Subsystems within systems.
+Limiting factor: A necessary system input that is the one limiting the activity of
+the system at a particular moment.
+Linear relationship: A relationship between two elements in a system that has
+constant proportion between cause and effect and so can be drawn with a
+straight line on a graph. The effect is additive.
+Nonlinear relationship: A relationship between two elements in a system
+where the cause does not produce a proportional (straight-line) effect.
+Reinforcing feedback loop: An amplifying or enhancing feedback loop, also
+known as a “positive feedback loop” because it reinforces the direction of
+change. These are vicious cycles and virtuous circles.
+Resilience: The ability of a system to recover from perturbation; the ability to
+restore or repair or bounce back after a change due to an outside force.
+

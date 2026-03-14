@@ -1,0 +1,43 @@
+# ETL Versus ELT
+
+Paginas: 271-271
+
+Snapshot or Differential Extraction
+Data engineers must choose whether to capture full snapshots of a source system
+or differential (sometimes called incremental) updates. With full snapshots, engineers
+grab the entire current state of the source system on each update read. With the
+differential update pattern, engineers can pull only the updates and changes since the
+last read from the source system. While differential updates are ideal for minimizing
+network traffic and target storage usage, full snapshot reads remain extremely com‐
+mon because of their simplicity.
+File-Based Export and Ingestion
+Data is quite often moved between databases and systems using files. Data is serial‐
+ized into files in an exchangeable format, and these files are provided to an ingestion
+system. We consider file-based export to be a push-based ingestion pattern. This is
+because data export and preparation work is done on the source system side.
+File-based ingestion has several potential advantages over a direct database connec‐
+tion approach. It is often undesirable to allow direct access to backend systems
+for security reasons. With file-based ingestion, export processes are run on the
+data-source side, giving source system engineers complete control over what data
+gets exported and how the data is preprocessed. Once files are done, they can be
+provided to the target system in various ways. Common file-exchange methods are
+object storage, secure file transfer protocol (SFTP), electronic data interchange (EDI),
+or secure copy (SCP).
+ETL Versus ELT
+Chapter 3 introduced ETL and ELT, both extremely common ingestion, storage, and
+transformation patterns you’ll encounter in batch workloads. The following are brief
+definitions of the extract and load parts of ETL and ELT:
+Extract
+This means getting data from a source system. While extract seems to imply
+pulling data, it can also be push based. Extraction may also require reading
+metadata and schema changes.
+Load
+Once data is extracted, it can either be transformed (ETL) before loading it into
+a storage destination or simply loaded into storage for future transformation.
+When loading data, you should be mindful of the type of system you’re loading,
+the schema of the data, and the performance impact of loading.
+We cover ETL and ELT in greater detail in Chapter 8.
+246
+|
+Chapter 7: Ingestion
+

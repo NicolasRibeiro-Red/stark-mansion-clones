@@ -1,0 +1,443 @@
+{
+  "titulo": "Armas da persuasão, As",
+  "autor": "Robert B. Cialdini",
+  "total_paginas": 225,
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "Créditos",
+      "paginas": "5-5",
+      "arquivo": "cap_01_Créditos.txt"
+    },
+    {
+      "numero": 2,
+      "titulo": "Sumário",
+      "paginas": "6-7",
+      "arquivo": "cap_02_Sumário.txt"
+    },
+    {
+      "numero": 3,
+      "titulo": "Prefácio",
+      "paginas": "8-8",
+      "arquivo": "cap_03_Prefácio.txt"
+    },
+    {
+      "numero": 4,
+      "titulo": "Introdução",
+      "paginas": "9-10",
+      "arquivo": "cap_04_Introdução.txt"
+    },
+    {
+      "numero": 5,
+      "titulo": "CAPÍTULO 1 Armas de influência",
+      "paginas": "11-11",
+      "arquivo": "cap_05_CAPÍTULO_1_Armas_de_influência.txt"
+    },
+    {
+      "numero": 6,
+      "titulo": "Clique, zum",
+      "paginas": "12-13",
+      "arquivo": "cap_06_Clique_zum.txt"
+    },
+    {
+      "numero": 7,
+      "titulo": "Reduzindo o risco com atalhos",
+      "paginas": "14-16",
+      "arquivo": "cap_07_Reduzindo_o_risco_com_atalhos.txt"
+    },
+    {
+      "numero": 8,
+      "titulo": "Os aproveitadores",
+      "paginas": "17-17",
+      "arquivo": "cap_08_Os_aproveitadores.txt"
+    },
+    {
+      "numero": 9,
+      "titulo": "Jiu-jítsu",
+      "paginas": "18-20",
+      "arquivo": "cap_09_Jiu-jítsu.txt"
+    },
+    {
+      "numero": 10,
+      "titulo": "Resumo",
+      "paginas": "21-21",
+      "arquivo": "cap_10_Resumo.txt"
+    },
+    {
+      "numero": 11,
+      "titulo": "Perguntas de estudo",
+      "paginas": "22-23",
+      "arquivo": "cap_11_Perguntas_de_estudo.txt"
+    },
+    {
+      "numero": 12,
+      "titulo": "CAPÍTULO 2 Reciprocidade",
+      "paginas": "24-25",
+      "arquivo": "cap_12_CAPÍTULO_2_Reciprocidade.txt"
+    },
+    {
+      "numero": 13,
+      "titulo": "Como a regra funciona",
+      "paginas": "26-35",
+      "arquivo": "cap_13_Como_a_regra_funciona.txt"
+    },
+    {
+      "numero": 14,
+      "titulo": "Concessões recíprocas",
+      "paginas": "36-37",
+      "arquivo": "cap_14_Concessões_recíprocas.txt"
+    },
+    {
+      "numero": 15,
+      "titulo": "Rejeição seguida de recuo",
+      "paginas": "38-44",
+      "arquivo": "cap_15_Rejeição_seguida_de_recuo.txt"
+    },
+    {
+      "numero": 16,
+      "titulo": "Defesa",
+      "paginas": "45-47",
+      "arquivo": "cap_16_Defesa.txt"
+    },
+    {
+      "numero": 17,
+      "titulo": "Resumo",
+      "paginas": "48-28",
+      "arquivo": "cap_17_Resumo.txt"
+    },
+    {
+      "numero": 18,
+      "titulo": "Perguntas de Estudo",
+      "paginas": "29-49",
+      "arquivo": "cap_18_Perguntas_de_Estudo.txt"
+    },
+    {
+      "numero": 19,
+      "titulo": "CAPÍTULO 3 Compromisso e coerência",
+      "paginas": "50-50",
+      "arquivo": "cap_19_CAPÍTULO_3_Compromisso_e_coerência.txt"
+    },
+    {
+      "numero": 20,
+      "titulo": "Mantendo a Coerência",
+      "paginas": "51-55",
+      "arquivo": "cap_20_Mantendo_a_Coerência.txt"
+    },
+    {
+      "numero": 21,
+      "titulo": "O segredo é o compromisso",
+      "paginas": "56-80",
+      "arquivo": "cap_21_O_segredo_é_o_compromisso.txt"
+    },
+    {
+      "numero": 22,
+      "titulo": "Defesa",
+      "paginas": "81-85",
+      "arquivo": "cap_22_Defesa.txt"
+    },
+    {
+      "numero": 23,
+      "titulo": "Resumo",
+      "paginas": "86-86",
+      "arquivo": "cap_23_Resumo.txt"
+    },
+    {
+      "numero": 24,
+      "titulo": "Perguntas de Estudo",
+      "paginas": "87-88",
+      "arquivo": "cap_24_Perguntas_de_Estudo.txt"
+    },
+    {
+      "numero": 25,
+      "titulo": "CAPÍTULO 4 Aprovação social",
+      "paginas": "89-89",
+      "arquivo": "cap_25_CAPÍTULO_4_Aprovação_social.txt"
+    },
+    {
+      "numero": 26,
+      "titulo": "O princípio da aprovação social",
+      "paginas": "90-96",
+      "arquivo": "cap_26_O_princípio_da_aprovação_social.txt"
+    },
+    {
+      "numero": 27,
+      "titulo": "Causa de morte: incerteza",
+      "paginas": "97-102",
+      "arquivo": "cap_27_Causa_de_morte_incerteza.txt"
+    },
+    {
+      "numero": 28,
+      "titulo": "Macacos de imitação",
+      "paginas": "103-115",
+      "arquivo": "cap_28_Macacos_de_imitação.txt"
+    },
+    {
+      "numero": 29,
+      "titulo": "Defesa",
+      "paginas": "116-121",
+      "arquivo": "cap_29_Defesa.txt"
+    },
+    {
+      "numero": 30,
+      "titulo": "Resumo",
+      "paginas": "122-89",
+      "arquivo": "cap_30_Resumo.txt"
+    },
+    {
+      "numero": 31,
+      "titulo": "Perguntas de estudo",
+      "paginas": "90-124",
+      "arquivo": "cap_31_Perguntas_de_estudo.txt"
+    },
+    {
+      "numero": 32,
+      "titulo": "CAPÍTULO 5 Afeição",
+      "paginas": "125-126",
+      "arquivo": "cap_32_CAPÍTULO_5_Afeição.txt"
+    },
+    {
+      "numero": 33,
+      "titulo": "Fazendo amigos para influenciar pessoas",
+      "paginas": "127-127",
+      "arquivo": "cap_33_Fazendo_amigos_para_influenciar_pessoas.txt"
+    },
+    {
+      "numero": 34,
+      "titulo": "Motivos pelos quais gostamos de alguém",
+      "paginas": "128-137",
+      "arquivo": "cap_34_Motivos_pelos_quais_gostamos_de_alguém.txt"
+    },
+    {
+      "numero": 35,
+      "titulo": "Condicionamento e associação",
+      "paginas": "138-146",
+      "arquivo": "cap_35_Condicionamento_e_associação.txt"
+    },
+    {
+      "numero": 36,
+      "titulo": "Defesa",
+      "paginas": "147-147",
+      "arquivo": "cap_36_Defesa.txt"
+    },
+    {
+      "numero": 37,
+      "titulo": "Resumo",
+      "paginas": "148-148",
+      "arquivo": "cap_37_Resumo.txt"
+    },
+    {
+      "numero": 38,
+      "titulo": "Perguntas de estudo",
+      "paginas": "149-150",
+      "arquivo": "cap_38_Perguntas_de_estudo.txt"
+    },
+    {
+      "numero": 39,
+      "titulo": "CAPÍTULO 6 Autoridade",
+      "paginas": "151-151",
+      "arquivo": "cap_39_CAPÍTULO_6_Autoridade.txt"
+    },
+    {
+      "numero": 40,
+      "titulo": "O poder da pressão da autoridade",
+      "paginas": "152-154",
+      "arquivo": "cap_40_O_poder_da_pressão_da_autoridade.txt"
+    },
+    {
+      "numero": 41,
+      "titulo": "Os fascínios e os perigos da obediência cega",
+      "paginas": "155-157",
+      "arquivo": "cap_41_Os_fascínios_e_os_perigos_da_obediência_cega.txt"
+    },
+    {
+      "numero": 42,
+      "titulo": "Conotação, não conteúdo",
+      "paginas": "158-163",
+      "arquivo": "cap_42_Conotação_não_conteúdo.txt"
+    },
+    {
+      "numero": 43,
+      "titulo": "Defesa",
+      "paginas": "164-167",
+      "arquivo": "cap_43_Defesa.txt"
+    },
+    {
+      "numero": 44,
+      "titulo": "Resumo",
+      "paginas": "168-167",
+      "arquivo": "cap_44_Resumo.txt"
+    },
+    {
+      "numero": 45,
+      "titulo": "Perguntas de estudo",
+      "paginas": "168-169",
+      "arquivo": "cap_45_Perguntas_de_estudo.txt"
+    },
+    {
+      "numero": 46,
+      "titulo": "CAPÍTULO 7 Escassez",
+      "paginas": "170-169",
+      "arquivo": "cap_46_CAPÍTULO_7_Escassez.txt"
+    },
+    {
+      "numero": 47,
+      "titulo": "Menos é melhor e perda é pior",
+      "paginas": "170-173",
+      "arquivo": "cap_47_Menos_é_melhor_e_perda_é_pior.txt"
+    },
+    {
+      "numero": 48,
+      "titulo": "Reatância psicológica",
+      "paginas": "174-180",
+      "arquivo": "cap_48_Reatância_psicológica.txt"
+    },
+    {
+      "numero": 49,
+      "titulo": "Condições ideais",
+      "paginas": "181-186",
+      "arquivo": "cap_49_Condições_ideais.txt"
+    },
+    {
+      "numero": 50,
+      "titulo": "Defesa",
+      "paginas": "187-190",
+      "arquivo": "cap_50_Defesa.txt"
+    },
+    {
+      "numero": 51,
+      "titulo": "Resumo",
+      "paginas": "191-191",
+      "arquivo": "cap_51_Resumo.txt"
+    },
+    {
+      "numero": 52,
+      "titulo": "Perguntas de estudo",
+      "paginas": "192-193",
+      "arquivo": "cap_52_Perguntas_de_estudo.txt"
+    },
+    {
+      "numero": 53,
+      "titulo": "CAPÍTULO 8 Influência instantânea",
+      "paginas": "194-193",
+      "arquivo": "cap_53_CAPÍTULO_8_Influência_instantânea.txt"
+    },
+    {
+      "numero": 54,
+      "titulo": "Automaticidade primitiva",
+      "paginas": "194-195",
+      "arquivo": "cap_54_Automaticidade_primitiva.txt"
+    },
+    {
+      "numero": 55,
+      "titulo": "Automaticidade moderna",
+      "paginas": "196-196",
+      "arquivo": "cap_55_Automaticidade_moderna.txt"
+    },
+    {
+      "numero": 56,
+      "titulo": "Atalhos serão sagrados",
+      "paginas": "197-198",
+      "arquivo": "cap_56_Atalhos_serão_sagrados.txt"
+    },
+    {
+      "numero": 57,
+      "titulo": "Resumo",
+      "paginas": "199-198",
+      "arquivo": "cap_57_Resumo.txt"
+    },
+    {
+      "numero": 58,
+      "titulo": "Perguntas de estudo",
+      "paginas": "199-199",
+      "arquivo": "cap_58_Perguntas_de_estudo.txt"
+    },
+    {
+      "numero": 59,
+      "titulo": "Notas",
+      "paginas": "200-206",
+      "arquivo": "cap_59_Notas.txt"
+    },
+    {
+      "numero": 60,
+      "titulo": "Bibliografia",
+      "paginas": "207-223",
+      "arquivo": "cap_60_Bibliografia.txt"
+    },
+    {
+      "numero": 61,
+      "titulo": "Conheça os clássicos da Editora Sextante",
+      "paginas": "224-224",
+      "arquivo": "cap_61_Conheça_os_clássicos_da_Editora_Sextante.txt"
+    },
+    {
+      "numero": 62,
+      "titulo": "Informações sobre os próximos lançamentos",
+      "paginas": "225-225",
+      "arquivo": "cap_62_Informações_sobre_os_próximos_lançamentos.txt"
+    }
+  ],
+  "arquivos": [
+    "cap_01_Créditos.txt",
+    "cap_02_Sumário.txt",
+    "cap_03_Prefácio.txt",
+    "cap_04_Introdução.txt",
+    "cap_05_CAPÍTULO_1_Armas_de_influência.txt",
+    "cap_06_Clique_zum.txt",
+    "cap_07_Reduzindo_o_risco_com_atalhos.txt",
+    "cap_08_Os_aproveitadores.txt",
+    "cap_09_Jiu-jítsu.txt",
+    "cap_10_Resumo.txt",
+    "cap_11_Perguntas_de_estudo.txt",
+    "cap_12_CAPÍTULO_2_Reciprocidade.txt",
+    "cap_13_Como_a_regra_funciona.txt",
+    "cap_14_Concessões_recíprocas.txt",
+    "cap_15_Rejeição_seguida_de_recuo.txt",
+    "cap_16_Defesa.txt",
+    "cap_17_Resumo.txt",
+    "cap_18_Perguntas_de_Estudo.txt",
+    "cap_19_CAPÍTULO_3_Compromisso_e_coerência.txt",
+    "cap_20_Mantendo_a_Coerência.txt",
+    "cap_21_O_segredo_é_o_compromisso.txt",
+    "cap_22_Defesa.txt",
+    "cap_23_Resumo.txt",
+    "cap_24_Perguntas_de_Estudo.txt",
+    "cap_25_CAPÍTULO_4_Aprovação_social.txt",
+    "cap_26_O_princípio_da_aprovação_social.txt",
+    "cap_27_Causa_de_morte_incerteza.txt",
+    "cap_28_Macacos_de_imitação.txt",
+    "cap_29_Defesa.txt",
+    "cap_30_Resumo.txt",
+    "cap_31_Perguntas_de_estudo.txt",
+    "cap_32_CAPÍTULO_5_Afeição.txt",
+    "cap_33_Fazendo_amigos_para_influenciar_pessoas.txt",
+    "cap_34_Motivos_pelos_quais_gostamos_de_alguém.txt",
+    "cap_35_Condicionamento_e_associação.txt",
+    "cap_36_Defesa.txt",
+    "cap_37_Resumo.txt",
+    "cap_38_Perguntas_de_estudo.txt",
+    "cap_39_CAPÍTULO_6_Autoridade.txt",
+    "cap_40_O_poder_da_pressão_da_autoridade.txt",
+    "cap_41_Os_fascínios_e_os_perigos_da_obediência_cega.txt",
+    "cap_42_Conotação_não_conteúdo.txt",
+    "cap_43_Defesa.txt",
+    "cap_44_Resumo.txt",
+    "cap_45_Perguntas_de_estudo.txt",
+    "cap_46_CAPÍTULO_7_Escassez.txt",
+    "cap_47_Menos_é_melhor_e_perda_é_pior.txt",
+    "cap_48_Reatância_psicológica.txt",
+    "cap_49_Condições_ideais.txt",
+    "cap_50_Defesa.txt",
+    "cap_51_Resumo.txt",
+    "cap_52_Perguntas_de_estudo.txt",
+    "cap_53_CAPÍTULO_8_Influência_instantânea.txt",
+    "cap_54_Automaticidade_primitiva.txt",
+    "cap_55_Automaticidade_moderna.txt",
+    "cap_56_Atalhos_serão_sagrados.txt",
+    "cap_57_Resumo.txt",
+    "cap_58_Perguntas_de_estudo.txt",
+    "cap_59_Notas.txt",
+    "cap_60_Bibliografia.txt",
+    "cap_61_Conheça_os_clássicos_da_Editora_Sextante.txt",
+    "cap_62_Informações_sobre_os_próximos_lançamentos.txt"
+  ]
+}

@@ -1,0 +1,43 @@
+# Our Advice
+
+Paginas: 167-167
+
+tools is dramatically more complex than orchestrating one. Orchestration becomes
+the glue that binds data stack modules together.
+The Distributed Monolith Pattern
+The distributed monolith pattern is a distributed architecture that still suffers from
+many of the limitations of monolithic architecture. The basic idea is that one runs a
+distributed system with different services to perform different tasks. Still, services and
+nodes share a common set of dependencies or a common codebase.
+One standard example is a traditional Hadoop cluster. A Hadoop cluster can simulta‐
+neously host several frameworks, such as Hive, Pig, or Spark. The cluster also has
+many internal dependencies. In addition, the cluster runs core Hadoop components:
+Hadoop common libraries, HDFS, YARN, and Java. In practice, a cluster often has
+one version of each component installed.
+A standard on-prem Hadoop system entails managing a common environment that
+works for all users and all jobs. Managing upgrades and installations is a significant
+challenge. Forcing jobs to upgrade dependencies risks breaking them; maintaining
+two versions of a framework entails extra complexity.
+Some modern Python-based orchestration technologies—e.g., Apache Airflow—also
+suffer from this problem. While they utilize a highly decoupled and asynchronous
+architecture, every service runs the same codebase with the same dependencies. Any
+executor can execute any task, so a client library for a single task run in one DAG
+must be installed on the whole cluster. Orchestrating many tools entails installing
+client libraries for a host of APIs. Dependency conflicts are a constant problem.
+One solution to the problems of the distributed monolith is ephemeral infrastructure
+in a cloud setting. Each job gets its own temporary server or cluster installed with
+dependencies. Each cluster remains highly monolithic, but separating jobs dramati‐
+cally reduces conflicts. For example, this pattern is now quite common for Spark with
+services like Amazon EMR and Google Cloud Dataproc.
+A second solution is to properly decompose the distributed monolith into multiple
+software environments using containers. We have more to say on containers in
+“Serverless Versus Servers” on page 143.
+Our Advice
+While monoliths are attractive because of ease of understanding and reduced com‐
+plexity, this comes at a high cost. The cost is the potential loss of flexibility, opportu‐
+nity cost, and high-friction development cycles.
+Here are some things to consider when evaluating monoliths versus modular options:
+142
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+

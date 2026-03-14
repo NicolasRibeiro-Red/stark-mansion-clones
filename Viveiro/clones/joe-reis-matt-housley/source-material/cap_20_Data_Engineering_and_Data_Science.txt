@@ -1,0 +1,58 @@
+# Data Engineering and Data Science
+
+Paginas: 36-37
+
+9 These acronyms stand for California Consumer Privacy Act and General Data Protection Regulation,
+respectively.
+now conversant in acronyms such as CCPA and GDPR;9 as they engineer pipelines,
+they concern themselves with privacy, anonymization, data garbage collection, and
+compliance with regulations.
+What’s old is new again. While “enterprisey” stuff like data management (including
+data quality and governance) was common for large enterprises in the pre-big-data
+era, it wasn’t widely adopted in smaller companies. Now that many of the challenging
+problems of yesterday’s data systems are solved, neatly productized, and packaged,
+technologists and entrepreneurs have shifted focus back to the “enterprisey” stuff, but
+with an emphasis on decentralization and agility, which contrasts with the traditional
+enterprise command-and-control approach.
+We view the present as a golden age of data lifecycle management. Data engineers
+managing the data engineering lifecycle have better tools and techniques than ever
+before. We discuss the data engineering lifecycle and its undercurrents in greater
+detail in the next chapter.
+Data Engineering and Data Science
+Where does data engineering fit in with data science? There’s some debate, with some
+arguing data engineering is a subdiscipline of data science. We believe data engineer‐
+ing is separate from data science and analytics. They complement each other, but they
+are distinctly different. Data engineering sits upstream from data science (Figure 1-4),
+meaning data engineers provide the inputs used by data scientists (downstream from
+data engineering), who convert these inputs into something useful.
+Figure 1-4. Data engineering sits upstream from data science
+Consider the Data Science Hierarchy of Needs (Figure 1-5). In 2017, Monica Rogati
+published this hierarchy in an article that showed where AI and machine learning
+(ML) sat in proximity to more “mundane” areas such as data movement/storage,
+collection, and infrastructure.
+What Is Data Engineering?
+|
+11
+
+Figure 1-5. The Data Science Hierarchy of Needs
+Although many data scientists are eager to build and tune ML models, the reality is
+an estimated 70% to 80% of their time is spent toiling in the bottom three parts of
+the hierarchy—gathering data, cleaning data, processing data—and only a tiny slice
+of their time on analysis and ML. Rogati argues that companies need to build a solid
+data foundation (the bottom three levels of the hierarchy) before tackling areas such
+as AI and ML.
+Data scientists aren’t typically trained to engineer production-grade data systems, and
+they end up doing this work haphazardly because they lack the support and resources
+of a data engineer. In an ideal world, data scientists should spend more than 90% of
+their time focused on the top layers of the pyramid: analytics, experimentation, and
+ML. When data engineers focus on these bottom parts of the hierarchy, they build a
+solid foundation for data scientists to succeed.
+With data science driving advanced analytics and ML, data engineering straddles
+the divide between getting data and getting value from data (see Figure 1-6). We
+believe data engineering is of equal importance and visibility to data science, with
+data engineers playing a vital role in making data science successful in production.
+Figure 1-6. A data engineer gets data and provides value from the data
+12
+|
+Chapter 1: Data Engineering Described
+

@@ -1,0 +1,31 @@
+# What Is Data Engineering?
+
+Paginas: 28-28
+
+CHAPTER 1
+Data Engineering Described
+If you work in data or software, you may have noticed data engineering emerging
+from the shadows and now sharing the stage with data science. Data engineering
+is one of the hottest fields in data and technology, and for a good reason. It builds
+the foundation for data science and analytics in production. This chapter explores
+what data engineering is, how the field was born and its evolution, the skills of data
+engineers, and with whom they work.
+What Is Data Engineering?
+Despite the current popularity of data engineering, there’s a lot of confusion about
+what data engineering means and what data engineers do. Data engineering has exis‐
+ted in some form since companies started doing things with data—such as predictive
+analysis, descriptive analytics, and reports—and came into sharp focus alongside the
+rise of data science in the 2010s. For the purpose of this book, it’s critical to define
+what data engineering and data engineer mean.
+First, let’s look at the landscape of how data engineering is described and develop
+some terminology we can use throughout this book. Endless definitions of data
+engineering exist. In early 2022, a Google exact-match search for “what is data engi‐
+neering?” returns over 91,000 unique results. Before we give our definition, here are a
+few examples of how some experts in the field define data engineering:
+Data engineering is a set of operations aimed at creating interfaces and mechanisms
+for the flow and access of information. It takes dedicated specialists—data engineers—
+to maintain data so that it remains available and usable by others. In short, data
+engineers set up and operate the organization’s data infrastructure, preparing it for
+further analysis by data analysts and scientists.
+3
+

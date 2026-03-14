@@ -1,0 +1,40 @@
+# Lambda Architecture
+
+Paginas: 129-129
+
+Key outcomes of the modern data stack are self-service (analytics and pipelines),
+agile data management, and using open source tools or simple proprietary tools with
+clear pricing structures. Community is a central aspect of the modern data stack as
+well. Unlike products of the past that had releases and roadmaps largely hidden from
+users, projects and companies operating in the modern data stack space typically
+have strong user bases and active communities that participate in the development by
+using the product early, suggesting features, and submitting pull requests to improve
+the code.
+Regardless of where “modern” goes (we share our ideas in Chapter 11), we think
+the key concept of plug-and-play modularity with easy-to-understand pricing and
+implementation is the way of the future. Especially in analytics engineering, the
+modern data stack is and will continue to be the default choice of data architecture.
+Throughout the book, the architecture we reference contains pieces of the modern
+data stack, such as cloud-based and plug-and-play modular components.
+Lambda Architecture
+In the “old days” (the early to mid-2010s), the popularity of working with streaming
+data exploded with the emergence of Kafka as a highly scalable message queue
+and frameworks such as Apache Storm and Samza for streaming/real-time analyt‐
+ics. These technologies allowed companies to perform new types of analytics and
+modeling on large amounts of data, user aggregation and ranking, and product
+recommendations. Data engineers needed to figure out how to reconcile batch and
+streaming data into a single architecture. The Lambda architecture was one of the
+early popular responses to this problem.
+In a Lambda architecture (Figure 3-14), you have systems operating independently of
+each other—batch, streaming, and serving. The source system is ideally immutable
+and append-only, sending data to two destinations for processing: stream and batch.
+In-stream processing intends to serve the data with the lowest possible latency in a
+“speed” layer, usually a NoSQL database. In the batch layer, data is processed and
+transformed in a system such as a data warehouse, creating precomputed and aggre‐
+gated views of the data. The serving layer provides a combined view by aggregating
+query results from the two layers.
+Figure 3-14. Lambda architecture
+104
+|
+Chapter 3: Designing Good Data Architecture
+

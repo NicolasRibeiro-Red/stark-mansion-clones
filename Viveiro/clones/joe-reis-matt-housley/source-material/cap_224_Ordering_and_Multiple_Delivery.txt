@@ -1,0 +1,44 @@
+# Ordering and Multiple Delivery
+
+Paginas: 273-273
+
+Message and Stream Ingestion Considerations
+Ingesting event data is common. This section covers issues you should consider when
+ingesting events, drawing on topics covered in Chapters 5 and 6.
+Schema Evolution
+Schema evolution is common when handling event data; fields may be added or
+removed, or value types might change (say, a string to an integer). Schema evolution
+can have unintended impacts on your data pipelines and destinations. For example,
+an IoT device gets a firmware update that adds a new field to the event it transmits,
+or a third-party API introduces changes to its event payload or countless other
+scenarios. All of these potentially impact your downstream capabilities.
+To alleviate issues related to schema evolution, here are a few suggestions. First, if
+your event-processing framework has a schema registry (discussed earlier in this
+chapter), use it to version your schema changes. Next, a dead-letter queue (described
+in “Error Handling and Dead-Letter Queues” on page 249) can help you investigate
+issues with events that are not properly handled. Finally, the low-fidelity route
+(and the most effective) is regularly communicating with upstream stakeholders
+about potential schema changes and proactively addressing schema changes with the
+teams introducing these changes instead of reacting to the receiving end of breaking
+changes.
+Late-Arriving Data
+Though you probably prefer all event data to arrive on time, event data might arrive
+late. A group of events might occur around the same time frame (similar event
+times), but some might arrive later than others (late ingestion times) because of
+various circumstances.
+For example, an IoT device might be late sending a message because of internet
+latency issues. This is common when ingesting data. You should be aware of late-
+arriving data and the impact on downstream systems and uses. Suppose you assume
+that ingestion or process time is the same as the event time. You may get some
+strange results if your reports or analysis depend on an accurate portrayal of when
+events occur. To handle late-arriving data, you need to set a cutoff time for when
+late-arriving data will no longer be processed.
+Ordering and Multiple Delivery
+Streaming platforms are generally built out of distributed systems, which can cause
+some complications. Specifically, messages may be delivered out of order and more
+than once (at-least-once delivery). See the event-streaming platforms discussion in
+Chapter 5 for more details.
+248
+|
+Chapter 7: Ingestion
+

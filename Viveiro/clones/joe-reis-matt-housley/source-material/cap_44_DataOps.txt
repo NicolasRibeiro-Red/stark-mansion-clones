@@ -1,0 +1,208 @@
+# DataOps
+
+Paginas: 84-88
+
+6 We espouse the notion that ethical behavior is doing the right thing when no one is watching, an idea that
+occurs in the writings of C. S. Lewis, Charles Marshall, and many other authors.
+(it should be noted that data retrieval isn’t so cheap, but that’s for another conversa‐
+tion). These storage classes also support extra policy controls to prevent accidental or
+deliberate deletion of critical archives.
+Second, privacy and data retention laws such as the GDPR and the CCPA require
+data engineers to actively manage data destruction to respect users’ “right to be
+forgotten.” Data engineers must know what consumer data they retain and must have
+procedures to destroy data in response to requests and compliance requirements.
+Data destruction is straightforward in a cloud data warehouse. SQL semantics allow
+deletion of rows conforming to a where clause. Data destruction was more challeng‐
+ing in data lakes, where write-once, read-many was the default storage pattern. Tools
+such as Hive ACID and Delta Lake allow easy management of deletion transactions
+at scale. New generations of metadata management, data lineage, and cataloging tools
+will also streamline the end of the data engineering lifecycle.
+Ethics and privacy
+The last several years of data breaches, misinformation, and mishandling of data
+make one thing clear: data impacts people. Data used to live in the Wild West, freely
+collected and traded like baseball cards. Those days are long gone. Whereas data’s
+ethical and privacy implications were once considered nice to have, like security,
+they’re now central to the general data lifecycle. Data engineers need to do the right
+thing when no one else is watching, because everyone will be watching someday.6
+We hope that more organizations will encourage a culture of good data ethics and
+privacy.
+How do ethics and privacy impact the data engineering lifecycle? Data engineers
+need to ensure that datasets mask personally identifiable information (PII) and other
+sensitive information; bias can be identified and tracked in datasets as they are trans‐
+formed. Regulatory requirements and compliance penalties are only growing. Ensure
+that your data assets are compliant with a growing number of data regulations, such
+as GDPR and CCPA. Please take this seriously. We offer tips throughout the book to
+ensure that you’re baking ethics and privacy into the data engineering lifecycle.
+DataOps
+DataOps maps the best practices of Agile methodology, DevOps, and statistical pro‐
+cess control (SPC) to data. Whereas DevOps aims to improve the release and quality
+of software products, DataOps does the same thing for data products.
+Major Undercurrents Across the Data Engineering Lifecycle
+|
+59
+
+7 “What Is DataOps,” DataKitchen FAQ page, accessed May 5, 2022, https://oreil.ly/Ns06w.
+Data products differ from software products because of the way data is used. A soft‐
+ware product provides specific functionality and technical features for end users. By
+contrast, a data product is built around sound business logic and metrics, whose users
+make decisions or build models that perform automated actions. A data engineer
+must understand both the technical aspects of building software products and the
+business logic, quality, and metrics that will create excellent data products.
+Like DevOps, DataOps borrows much from lean manufacturing and supply chain
+management, mixing people, processes, and technology to reduce time to value. As
+Data Kitchen (experts in DataOps) describes it:7
+DataOps is a collection of technical practices, workflows, cultural norms, and architec‐
+tural patterns that enable:
+• Rapid innovation and experimentation delivering new insights to customers with
+•
+increasing velocity
+• Extremely high data quality and very low error rates
+•
+• Collaboration across complex arrays of people, technology, and environments
+•
+• Clear measurement, monitoring, and transparency of results
+•
+Lean practices (such as lead time reduction and minimizing defects) and the resulting
+improvements to quality and productivity are things we are glad to see gaining
+momentum both in software and data operations.
+First and foremost, DataOps is a set of cultural habits; the data engineering team
+needs to adopt a cycle of communicating and collaborating with the business,
+breaking down silos, continuously learning from successes and mistakes, and rapid
+iteration. Only when these cultural habits are set in place can the team get the best
+results from technology and tools.
+Depending on a company’s data maturity, a data engineer has some options to build
+DataOps into the fabric of the overall data engineering lifecycle. If the company
+has no preexisting data infrastructure or practices, DataOps is very much a green‐
+field opportunity that can be baked in from day one. With an existing project or
+infrastructure that lacks DataOps, a data engineer can begin adding DataOps into
+workflows. We suggest first starting with observability and monitoring to get a
+window into the performance of a system, then adding in automation and incident
+response. A data engineer may work alongside an existing DataOps team to improve
+the data engineering lifecycle in a data-mature company. In all cases, a data engineer
+must be aware of the philosophy and technical aspects of DataOps.
+60
+|
+Chapter 2: The Data Engineering Lifecycle
+
+DataOps has three core technical elements: automation, monitoring and observabil‐
+ity, and incident response (Figure 2-8). Let’s look at each of these pieces and how they
+relate to the data engineering lifecycle.
+Figure 2-8. The three pillars of DataOps
+Automation
+Automation enables reliability and consistency in the DataOps process and allows
+data engineers to quickly deploy new product features and improvements to existing
+workflows. DataOps automation has a similar framework and workflow to DevOps,
+consisting of change management (environment, code, and data version control),
+continuous integration/continuous deployment (CI/CD), and configuration as code.
+Like DevOps, DataOps practices monitor and maintain the reliability of technology
+and systems (data pipelines, orchestration, etc.), with the added dimension of check‐
+ing for data quality, data/model drift, metadata integrity, and more.
+Let’s briefly discuss the evolution of DataOps automation within a hypothetical orga‐
+nization. An organization with a low level of DataOps maturity often attempts to
+schedule multiple stages of data transformation processes using cron jobs. This works
+well for a while. As data pipelines become more complicated, several things are likely
+to happen. If the cron jobs are hosted on a cloud instance, the instance may have an
+operational problem, causing the jobs to stop running unexpectedly. As the spacing
+between jobs becomes tighter, a job will eventually run long, causing a subsequent job
+to fail or produce stale data. Engineers may not be aware of job failures until they
+hear from analysts that their reports are out-of-date.
+As the organization’s data maturity grows, data engineers will typically adopt an
+orchestration framework, perhaps Airflow or Dagster. Data engineers are aware that
+Airflow presents an operational burden, but the benefits of orchestration eventually
+outweigh the complexity. Engineers will gradually migrate their cron jobs to Airflow
+jobs. Now, dependencies are checked before jobs run. More transformation jobs can
+be packed into a given time because each job can start as soon as upstream data is
+ready rather than at a fixed, predetermined time.
+The data engineering team still has room for operational improvements. A data
+scientist eventually deploys a broken DAG, bringing down the Airflow web server
+and leaving the data team operationally blind. After enough such headaches, the
+data engineering team members realize that they need to stop allowing manual DAG
+deployments. In their next phase of operational maturity, they adopt automated
+DAG deployment. DAGs are tested before deployment, and monitoring processes
+ensure that the new DAGs start running properly. In addition, data engineers block
+Major Undercurrents Across the Data Engineering Lifecycle
+|
+61
+
+8 Andy Petrella, “Data Observability Driven Development: The Perfect Analogy for Beginners,” Kensu, accessed
+May 5, 2022, https://oreil.ly/MxvSX.
+the deployment of new Python dependencies until installation is validated. After
+automation is adopted, the data team is much happier and experiences far fewer
+headaches.
+One of the tenets of the DataOps Manifesto is “Embrace change.” This does not
+mean change for the sake of change but rather goal-oriented change. At each stage
+of our automation journey, opportunities exist for operational improvement. Even at
+the high level of maturity that we’ve described here, further room for improvement
+remains. Engineers might embrace a next-generation orchestration framework that
+builds in better metadata capabilities. Or they might try to develop a framework that
+builds DAGs automatically based on data-lineage specifications. The main point is
+that engineers constantly seek to implement improvements in automation that will
+reduce their workload and increase the value that they deliver to the business.
+Observability and monitoring
+As we tell our clients, “Data is a silent killer.” We’ve seen countless examples of bad
+data lingering in reports for months or years. Executives may make key decisions
+from this bad data, discovering the error only much later. The outcomes are usually
+bad and sometimes catastrophic for the business. Initiatives are undermined and
+destroyed, years of work wasted. In some of the worst cases, bad data may lead
+companies to financial ruin.
+Another horror story occurs when the systems that create the data for reports ran‐
+domly stop working, resulting in reports being delayed by several days. The data team
+doesn’t know until they’re asked by stakeholders why reports are late or producing
+stale information. Eventually, various stakeholders lose trust in the capabilities of
+the core data team and start their own splinter teams. The result is many different
+unstable systems, inconsistent reports, and silos.
+If you’re not observing and monitoring your data and the systems that produce the
+data, you’re inevitably going to experience your own data horror story. Observability,
+monitoring, logging, alerting, and tracing are all critical to getting ahead of any
+problems along the data engineering lifecycle. We recommend you incorporate SPC
+to understand whether events being monitored are out of line and which incidents
+are worth responding to.
+Petrella’s DODD method mentioned previously in this chapter provides an excellent
+framework for thinking about data observability. DODD is much like test-driven
+development (TDD) in software engineering:8
+62
+|
+Chapter 2: The Data Engineering Lifecycle
+
+The purpose of DODD is to give everyone involved in the data chain visibility into
+the data and data applications so that everyone involved in the data value chain has
+the ability to identify changes to the data or data applications at every step—from
+ingestion to transformation to analysis—to help troubleshoot or prevent data issues.
+DODD focuses on making data observability a first-class consideration in the data
+engineering lifecycle.
+We cover many aspects of monitoring and observability throughout the data engi‐
+neering lifecycle in later chapters.
+Incident response
+A high-functioning data team using DataOps will be able to ship new data products
+quickly. But mistakes will inevitably happen. A system may have downtime, a new
+data model may break downstream reports, an ML model may become stale and
+provide bad predictions—countless problems can interrupt the data engineering life‐
+cycle. Incident response is about using the automation and observability capabilities
+mentioned previously to rapidly identify root causes of an incident and resolve it as
+reliably and quickly as possible.
+Incident response isn’t just about technology and tools, though these are beneficial;
+it’s also about open and blameless communication, both on the data engineering team
+and across the organization. As Werner Vogels, CTO of Amazon Web Services, is
+famous for saying, “Everything breaks all the time.” Data engineers must be prepared
+for a disaster and ready to respond as swiftly and efficiently as possible.
+Data engineers should proactively find issues before the business reports them.
+Failure happens, and when the stakeholders or end users see problems, they will
+present them. They will be unhappy to do so. The feeling is different when they
+go to raise those issues to a team and see that they are actively being worked on
+to resolve already. Which team’s state would you trust more as an end user? Trust
+takes a long time to build and can be lost in minutes. Incident response is as much
+about retroactively responding to incidents as proactively addressing them before
+they happen.
+DataOps summary
+At this point, DataOps is still a work in progress. Practitioners have done a good job
+of adapting DevOps principles to the data domain and mapping out an initial vision
+through the DataOps Manifesto and other resources. Data engineers would do well
+to make DataOps practices a high priority in all of their work. The up-front effort
+will see a significant long-term payoff through faster delivery of products, better
+reliability and accuracy of data, and greater overall value for the business.
+The state of operations in data engineering is still quite immature compared with
+software engineering. Many data engineering tools, especially legacy monoliths, are
+Major Undercurrents Across the Data Engineering Lifecycle
+|
+63
+

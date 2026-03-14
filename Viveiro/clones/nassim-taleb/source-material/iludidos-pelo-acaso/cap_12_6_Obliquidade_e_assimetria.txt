@@ -1,0 +1,611 @@
+# 6. Obliquidade e assimetria
+
+Paginas: 112-129
+
+6. Obliquidade e assimetria
+A MEDIANA NÃO É A MENSAGEM
+O escritor e cientista Steven Jay Gould (que, em dada época, foi um
+modelo para mim) recebeu, certa vez, um diagnóstico de que tinha
+uma forma fatal de câncer na mucosa do estômago. A primeira
+informação que obteve sobre a probabilidade de se salvar foi de que a
+sobrevivência mediana era de aproximadamente oito meses — dado
+que ele achou semelhante à exortação do profeta Isaías ao rei Ezequiel
+para pôr sua casa em ordem como preparação para a morte.
+Bem, um diagnóstico médico, sobretudo de alguma gravidade, pode
+motivar as pessoas a fazer uma pesquisa intensa, particularmente no
+caso de escritores prolícos como Gould, que necessitava de mais
+tempo para completar alguns projetos. A pesquisa feita por ele revelou
+uma história bem diferente em relação à que lhe haviam fornecido; o
+principal era que a sobrevivência esperada era consideravelmente mais
+alta do que oito meses. Ele percebeu que valor esperado e mediana não
+signicam a mesma coisa. Mediana signica que aproximadamente
+50% das pessoas morrem em menos de oito meses e que 50%
+sobrevivem por mais tempo. Mas os do segundo grupo viviam por
+consideravelmente mais tempo, em geral como uma pessoa comum,
+chegando aos 73,4 anos, ou perto disso, previstos pelas tabelas das
+companhias de seguro.
+Há assimetria. As mortes ocorrem logo no começo, ou então se vive
+por muito tempo. Sempre que há assimetria nos resultados, o valor
+médio de sobrevivência não tem nada a ver com a sobrevivência
+mediana. Isso levou Gould, que esboçou então o conceito de
+obliquidade, a escrever seu artigo “A mediana não é a mensagem”,
+profundamente sincero. Sua tese é de que o conceito de mediana
+
+usado na pesquisa médica não caracteriza uma distribuição de
+frequência.
+Vou simplicar a tese de Gould introduzindo o conceito de média
+(também chamada expectativa) por meio de um exemplo menos
+mórbido: o do jogo. Vou apresentar um exemplo tanto de
+probabilidades assimétricas quanto de resultados assimétricos para
+explicar o problema. “Probabilidades assimétricas” quer dizer que elas
+não são de 50% para cada evento, mas que a probabilidade de um lado
+é maior do que a probabilidade do outro. “Resultados assimétricos”
+quer dizer que os desfechos não são iguais.
+Suponha que eu desenvolva uma estratégia de jogo em que tenho
+999 chances em mil de ganhar um dólar (evento A), e uma chance em
+mil de perder 10 mil dólares (evento B), como mostrado no Quadro
+6.1. Minha expectativa é uma perda de perto de nove dólares (obtida
+multiplicando-se as probabilidades pelos resultados correspondentes).
+A frequência ou probabilidade da perda, em si e por si mesma, é
+totalmente irrelevante; é preciso avaliá-la em conexão com a
+magnitude do resultado. Aqui, A é muito mais provável do que B. A
+maior probabilidade é de ganhar dinheiro apostando em A, mas essa
+não é uma boa ideia.
+Quadro 6.1
+Evento
+Probabilidade
+Resultado
+Expectativa
+A
+999/1000
+US$ 1
+US$ 0,999
+B
+1/1000
+–US$ 10000
+–US$ 10
+Total
+–US$ 9,001
+A questão é bastante comum e elementar; pode ser compreendida
+por qualquer um que faz uma aposta simples. Contudo, tenho lutado
+toda a minha vida com gente que trabalha no mercado nanceiro e
+que não parece internalizá-la. Não estou falando de novatos; estou
+falando de gente com diplomas de pós-graduação (mesmo que MBA)
+que não consegue chegar a um acordo sobre a diferença.
+Como as pessoas não percebem isso? Por que confundem
+probabilidade com expectativa, isto é, probabilidade e probabilidade
+multiplicada pelo resultado? Isso ocorre principalmente porque
+
+grande parte da educação escolar vem de exemplos em ambientes
+simétricos, como o lançamento de uma moeda no ar, em que essa
+diferença não tem importância. De fato, a chamada “curva do sino”, a
+qual parece ter encontrado uso universal na sociedade, é inteiramente
+simétrica. Falaremos mais disso adiante.
+ZOOLOGIA DO TOURO E DO URSO
+A imprensa em geral nos inunda de conceitos tais como “touro” e
+“urso”, que se referem ao efeito de preços mais altos (touro) ou mais
+baixos (urso) nos mercados nanceiros. Mas também vemos pessoas
+dizerem “eu estou touro em Johnny” ou “eu estou urso naquele cara,
+Nassim, ali atrás, que me parece incompreensível”, para denotar a
+crença na probabilidade de alguém subir na vida. Preciso dizer que as
+ideias de touro e urso são com frequência palavras ocas, sem qualquer
+aplicação no mundo do acaso — particularmente se um mundo assim,
+como o nosso, apresenta resultados assimétricos.
+Quando estava trabalhando no escritório em Nova York de uma
+grande rma de investimentos, eu era submetido, de vez em quando, a
+reuniões de caráter semanal, morticantes, que congregavam a maior
+parte dos prossionais da sala de corretagem na cidade. Não escondo
+o fato de que não gostava delas, e não apenas porque me faziam
+perder um tempo que eu podia passar na academia de ginástica.
+Embora as reuniões incluíssem traders, isto é, pessoas que eram
+avaliadas por seu desempenho numérico, elas eram principalmente um
+fórum para o pessoal de vendas (capaz de encantar os clientes), e a
+categoria de apresentadores chamados de “economistas” ou
+“estrategistas” de Wall Street, que faziam pronunciamentos sobre o
+destino dos mercados, mas não se envolviam em qualquer forma de
+risco, tendo assim seu sucesso dependente da retórica, e não baseado
+em fatos testados. Durante a discussão, as pessoas deviam apresentar
+suas opiniões sobre a situação do mundo. Para mim, a era pura
+poluição intelectual. Todos tinham uma história, uma teoria e ideias a
+compartilhar com os outros. Não gosto de gente que, tendo
+pesquisado bastante na biblioteca, pensa que tem uma visão bem
+original e perspicaz sobre determinado assunto (mas respeito gente
+
+com uma mente cientíca, como meu amigo Stan Jonas, que se sentia
+compelido a passar as noites lendo profusamente sobre determinado
+assunto e tentando imaginar o que havia sido feito por outros a
+respeito daquela questão antes de emitir uma opinião — o leitor
+ouviria a opinião de um médico que não lê publicações médicas?).
+Devo confessar que minha melhor estratégia (para dissipar o tédio e
+a alergia a trivialidades ditas com conança) era falar o máximo que
+pudesse, evitando ouvir respostas e tentando resolver equações de
+cabeça. Falar muito me ajudava a clarear a mente, e, com um
+pouquinho de sorte, eu não receberia “convites” para voltar (isto é,
+não era forçado a comparecer) à reunião da semana seguinte.
+Certa vez me pediram, numa dessas reuniões, para expressar meu
+ponto de vista sobre o mercado de ações. Declarei, sem a menor
+ostentação, que achava que havia uma alta probabilidade de ligeira alta
+na semana seguinte. Qual era a probabilidade? “Cerca de 70%.” Claro
+que aquela era uma opinião forte. Então alguém interrompeu. “Mas,
+Nassim, você acabou de se gabar de ter vendido a descoberto uma
+grande quantidade de futuros SP500, apostando que o mercado cairia.
+O que o fez mudar de ideia?” “Não mudei de ideia! Tenho muita fé na
+minha aposta! (risos) Na verdade, agora quero vender ainda mais!” Os
+outros que estavam na sala caram completamente confusos. “Você é
+touro ou urso?”, perguntou-me um estrategista. Respondi que eu não
+conseguia entender aquelas palavras fora do contexto puramente
+zoológico. Exatamente como ocorria com os eventos A e B no
+exemplo precedente, minha opinião era de que o mercado tinha mais
+probabilidade de subir (touro), mas que era preferível vender (urso),
+porque, se caísse, eu perderia muito. Subitamente, os poucos traders
+na sala entenderam minha opinião e começaram a emitir opiniões
+semelhantes. E eu não fui forçado a voltar para a próxima reunião.
+Vamos admitir que o leitor compartilhe da minha opinião, que o
+mercado na próxima semana tenha uma probabilidade de 70% de
+subir e de 30% de cair. Entretanto, digamos que ele fosse subir 1% na
+média, enquanto fosse cair uma média de 10%. O que faria o leitor?
+Seria touro ou urso?
+Quadro 6.2
+
+Evento
+Probabilidade
+Resultado
+Expectativa
+O mercado sobe
+70%
+Sobe 1%
+0,7
+O mercado cai
+30%
+Cai 10%
+–3
+Total
+–2,3
+Assim, touro e urso são termos usados por pessoas que não se
+envolvem na prática da incerteza, como os comentaristas de televisão,
+ou que não têm experiência em lidar com o risco. É uma pena que os
+investidores e homens de negócios não sejam pagos em
+probabilidades, mas em dólares. Portanto, não é a probabilidade de
+um evento que interessa, mas quanto é ganho no momento do evento.
+A frequência do lucro é irrelevante; é a magnitude do resultado que
+conta. É um fato puramente contábil que, à parte os comentaristas,
+poucas pessoas levam para casa um cheque que dependeu de quantas
+vezes estavam certas ou erradas. Essa categoria inclui os “estrategistas-
+chefes” dos principais bancos de investimentos que o público pode
+observar na televisão, que não são em nada melhores que os
+apresentadores. Eles são famosos, parecem falar coisas razoáveis,
+jogam bem com números, mas, funcionalmente, estão ali para divertir,
+pois, para que suas previsões tivessem alguma validade, necessitariam
+de uma estrutura estatística de testes. Sua fama não vem do resultado
+de um teste sosticado, mas do resultado de suas habilidades de
+apresentador.
+O lho insolente de 29 anos
+À parte a necessidade de distração nessas reuniões superciais,
+tenho resistido a dar “dicas sobre o mercado” como trader, o que tem
+causado certa tensão entre alguns amigos e parentes. Um dia, um
+amigo de meu pai — do tipo rico e ousado — telefonou-me durante
+uma visita que fez a Nova York (para colocar na mesa os elementos da
+ordem de precedência, ele foi logo me dizendo ao telefone que tinha
+vindo no Concorde, com um comentário depreciativo sobre esse meio
+de transporte). Ele queria que eu lhe desse minha opinião sobre
+diversos mercados nanceiros. Eu não tinha opinião a respeito, não
+pretendia fazer nenhum esforço para formular uma e não estava nem
+de longe interessado no assunto. O cavalheiro cou me espicaçando
+
+com perguntas sobre o estado das economias e os bancos centrais
+europeus; eram perguntas precisas, sem dúvida objetivando comparar
+minha opinião com a de algum “especialista” que cuidava de sua conta
+em uma das grandes rmas de investimento de Nova York. Deixei
+claro que não tinha nenhuma dica e não pareci preocupado com
+aquilo. Não estava interessado em mercados (“sim, sou trader”) e não
+fazia previsões. Eu lhe expliquei algumas das minhas ideias sobre a
+estrutura do acaso e a vericabilidade dos pregões dos mercados, mas
+o homem queria uma declaração mais precisa de como se
+comportariam os mercados de títulos europeus quando chegasse o
+Natal.
+Ele cou com a impressão de que eu estava de brincadeira, o que
+quase estragou seu relacionamento com meu pai. O tal amigo ousado
+e rico telefonou para ele com a seguinte queixa: “Quando faço a um
+advogado uma pergunta sobre assuntos legais, ele me responde com
+cortesia e precisão. Quando faço a um médico uma pergunta sobre
+medicina, ele me dá sua opinião. Nenhum especialista jamais me
+faltou com o respeito. Mas seu lho insolente e presunçoso de 29
+anos ca bancando a prima-dona e se recusa a me responder sobre a
+tendência do mercado!”.
+Eventos raros
+A melhor descrição de uma vida inteira de negócios no mercado —
+a minha — seria “apostas oblíquas”; isto é, tirar proveito dos eventos
+raros, que tendem a não se repetir com frequência e,
+consequentemente, apresentam um grande lucro. Tento ganhar
+dinheiro com pouca frequência, a menor possível, apenas porque
+acredito que os eventos raros não são devidamente levados em conta e
+que, quanto mais raro o evento, mais subavaliado é em termos de
+preço. Além do meu próprio empiricismo, acredito que o aspecto
+contraintuitivo do negócio (e o fato de que nosso aparato emocional
+não o comporta) me dá algum tipo de vantagem.
+Por que esses eventos são subavaliados? Por causa de uma
+tendência psicológica; as pessoas à minha volta na carreira
+concentravam-se demais em decorar toda a segunda seção do Wall
+Street Journal durante viagens de trem para poder re etir
+
+adequadamente sobre os atributos dos eventos raros. Ou talvez
+assistissem a gurus demais na televisão. Ou gastassem muito tempo
+aprimorando seus PalmPilots. Até mesmo alguns veteranos
+experientes parecem não absorver a ideia de que a frequência não tem
+importância. Jim Rogers, um “lendário” investidor, fez a seguinte
+declaração:
+Não compro opções. Fazer isso é pedir para ir parar em um pensionato. Alguém fez um
+estudo para a SEC e descobriu que 90% de todas as opções expiram como perdas. Bem,
+pensei que, se 90% de todas as posições compradas em opções no longo prazo perdem
+dinheiro, isso signica que 90% de todas as posições vendidas em opções ganham
+dinheiro. Se eu quiser usar opções para ser urso, vendo opções de compra.
+Parece claro que o dado estatístico de que 90% de todas as
+posições montadas em opções perdem dinheiro não tem sentido (isto
+é, a frequência) se não levarmos em conta quanto dinheiro é ganho, na
+média, nos 10% restantes. Se apostarmos cinquenta vezes na média,
+quando a opção é em dinheiro, então posso, com segurança, declarar
+que comprar opções é pedir para ir parar num palácio, em vez de num
+pensionato. O sr. Jim Rogers parece ter ido muito longe na vida para
+alguém que não distingue probabilidade e expectativa (estranhamente,
+ele era parceiro de George Soros, um homem complexo, que
+prosperou com eventos raros, de quem falaremos mais adiante).
+Um desses eventos raros foi a crise do mercado de ações em 1987,
+que me fez ganhar dinheiro como trader e me permitiu o luxo de me
+envolver em todo tipo de erudição. Nero, da casa pequena no capítulo
+1, tem como objetivo se safar do atoleiro evitando se expor aos
+eventos raros — uma abordagem extremamente defensiva. Sou muito
+mais agressivo do que ele e dou um passo adiante: organizei minha
+carreira e meus negócios de tal forma que fui capaz de tirar proveito
+dos eventos raros. Em outras palavras, tenho como objetivo lucrar
+com eles por meio de minhas apostas assimétricas.
+Simetria e ciência
+Na maior parte das disciplinas, essa simetria não tem importância.
+Infelizmente, as técnicas empregadas em nanças são com frequência
+importadas de outras áreas — as nanças ainda são uma disciplina
+
+jovem (por certo ainda não é uma “ciência”). As pessoas na maioria
+dos campos fora das nanças não têm o problema de eliminar os
+valores extremos de sua amostragem quando a diferença do produto
+entre diversos resultados não é signicativa, o que é geralmente o caso
+na educação e na medicina. Um professor que calcula a média das
+notas de seus alunos descarta a mais alta e a mais baixa, que ele
+chamaria de caudas, e faz a média das restantes sem que isso seja
+considerado uma prática imprópria. Os meteorologistas, aliás, fazem o
+mesmo com as temperaturas extremas — uma ocorrência inusitada
+poderia desviar o resultado geral (embora, como veremos, isso possa
+ser um erro na previsão das propriedades futuras da calota de gelo).
+Assim, quem lida com nanças pega emprestada a técnica e ignora os
+eventos infrequentes, não percebendo que o efeito de um pode levar
+uma companhia à falência.
+Muitos cientistas do mundo físico estão também sujeitos a esse tipo
+de tolice, interpretando erroneamente as estatísticas. Um exemplo
+agrante é o debate sobre o aquecimento global. Muitos não
+perceberam o aquecimento nos seus primeiros estágios, pois retiraram
+de suas amostragens os picos de temperatura, acreditando que não
+tinham probabilidade de ocorrer novamente. Pode ser uma boa ideia
+extirpar os extremos quando calculamos as temperaturas médias para
+o programa de férias. Mas a coisa não funciona quando estudamos as
+propriedades físicas do tempo atmosférico. Esses cientistas ignoraram
+de início o fato de que aqueles picos, embora raros, tinham o efeito de
+fazer crescer desproporcionalmente o derretimento cumulativo da
+calota de gelo. Exatamente como em nanças, um evento que traz
+grandes consequências, mesmo raro, não pode ser ignorado.
+QUASE TODO MUNDO ESTÁ ACIMA DA MÉDIA
+Jim Rogers não é a única pessoa que comete o erro de confundir
+média e mediana. Para ser justo com ele, algumas pessoas que vivem
+de suas ideias, como o famoso lósofo Robert Nozik, cometeram
+versões desse mesmo erro (Nozick, fora isso, foi um pensador
+admirável e incisivo; antes de sua morte prematura, ele talvez fosse o
+lósofo americano mais respeitado de sua geração). Em seu livro A
+
+natureza da racionalidade, ele apresenta como é típico dos lósofos,
+argumentos evolutivos amadores e escreve que “não mais de 50% dos
+indivíduos podem ser mais saudáveis que a média”. É claro que mais
+de 50% dos indivíduos podem ser mais saudáveis que a média.
+Suponha que você tem um número bem pequeno de pessoas muito
+pobres e o resto na faixa da classe média. A média vai ser mais baixa
+que a mediana. Pegue uma população de dez pessoas, nove delas com
+renda de 30 mil dólares e uma com renda de mil. A média vai ser de
+27 100 dólares, e nove de dez pessoas vão estar acima da média.
+A Figura 6.1 mostra uma série de pontos com um nível inicial W0 e
+terminando em W1. Também pode se ver como o desempenho,
+hipotético ou realizado, da sua estratégia de trading favorita, o registro
+de desempenho de um gerente de investimentos, o preço do metro
+quadrado de um palazzo na Florença renascentista, a série de preços
+do mercado de ações da Mongólia ou a diferença entre os mercados
+americanos e mongol. É composto de dado número de observações
+sequenciais W1, W2 etc., ordenadas de tal modo que a da direita vem
+depois daquela da esquerda.
+Figura 6.1 Introdução às séries temporais
+
+Se estivéssemos lidando com um mundo determinístico — isto é,
+desprovido do acaso (o mundo da coluna da direita do Quadro P1, da
+p. 22), e tivéssemos certeza do que aconteceria, as coisas seriam bem
+fáceis. O padrão das séries forneceria informações consideráveis e
+previsíveis. Seria possível dizer com precisão o que aconteceria em
+certo dia no futuro, daqui a um ano, talvez daqui a uma década. Não
+precisaríamos nem mesmo de um estatístico; bastaria um engenheiro
+de segunda categoria. Esse engenheiro não precisaria nem mesmo ter
+um diploma moderno; um aluno de Laplace, do século XIX, seria capaz
+de resolver as equações, chamadas de equações diferenciais ou equações
+do movimento, pois estamos estudando a dinâmica de uma entidade
+cuja posição depende do tempo.
+Se estivéssemos lidando com um mundo em que o acaso estivesse
+mapeado, também seria mais fácil, dado que há um campo inteiro
+criado para tal, chamado econometria ou análise das séries temporais.
+Seria só chamar um econometrista simpático (minha experiência com
+econometristas é que eles geralmente são educados e amistosos com
+outros prossionais). Ele entraria com os dados num software e daria
+um diagnóstico, dizendo se vale a pena investir com um trader que
+tem certa cha de resultados ou se é melhor ir atrás de determinada
+estratégia de investimentos. Você poderia até mesmo comprar a versão
+para estudantes do software do econometrista por menos de 999
+dólares e instalá-la em seu computador em um m de semana de
+chuva.
+Mas não temos certeza se o mundo em que vivemos é bem
+mapeado. Veremos que a avaliação derivada da análise desses atributos
+passados pode, de vez em quando, ser importante. Contudo, também
+pode ser destituída de sentido; e pode, ocasionalmente, enganá-lo e
+levá-lo na direção oposta. Às vezes, os dados do mercado se
+transformam numa simples armadilha; eles mostram a você o oposto
+de sua natureza, simplesmente para fazer com que invista em papéis
+ou gerencie mal seus riscos. Moedas que exibem a maior estabilidade
+histórica, por exemplo, são as mais inclinadas a crises. Isso foi
+descoberto, de modo amargo, no verão de 1997 pelos investidores que
+preferiam a segurança das moedas estáveis da Malásia, Indonésia e
+
+Tailândia (elas eram atreladas ao dólar, de modo a não ter volatilidade,
+até suas súbitas, agudas e brutais desvalorizações).
+Podemos ser severos demais ou frouxos demais ao aceitar
+informações do passado como predição do futuro. Como cético,
+rejeito terminantemente as séries temporais do passado como
+indicação de desempenho futuro; preciso de muito mais dados. Minha
+principal razão para isso é o evento raro, mas tenho muitas outras.
+Aparentemente, essa minha assertiva parece contradizer discussões
+anteriores, nas quais culpo gente por não ter aprendido com a história.
+O problema é que absorvemos demais coisas da história recente,
+supercial, com declarações do tipo “isso nunca aconteceu antes”, mas
+não da história em geral (coisas que nunca ocorreram em uma área
+tendem eventualmente a ocorrer). Em outras palavras, a história nos
+ensina que coisas que nunca aconteceram de fato acontecem. Ela pode
+nos ensinar muito fora das séries temporais estreitamente denidas;
+quanto mais amplo o olhar, melhor é a lição. Em outras palavras, a
+história nos ensina a evitar o estigma do empirismo ingênuo, que
+consiste em aprender de fatos históricos casuais.
+A FALÁCIA DO EVENTO RARO
+A mãe de todas as decepções
+O evento raro, devido à sua natureza dissimulada, pode tomar uma
+série de formas. Foi observado pela primeira vez no México, onde é
+chamado pelos acadêmicos de problema do peso. Os econometristas
+caram intrigados pelo comportamento das variáveis econômicas
+mexicanas durante a década de 1980. O suprimento de dinheiro, as
+taxas de juros e uma medida similar de pequena relevância para a
+história mostraram certo comportamento errático, frustrando muitos
+dos esforços para construir um modelo. Esses indicadores cavam
+oscilando entre períodos de estabilidade e rápidas explosões de
+turbulência, sem aviso.
+Generalizando, comecei chamando de evento raro qualquer
+comportamento em que a ideia de cuidado com águas calmas pudesse
+se aplicar. A sabedoria popular muitas vezes nos previne contra o
+
+velho vizinho que parece permanecer obsequioso e reservado, o
+modelo de excelente cidadão, até que você vê o retrato dele num
+jornal de âmbito nacional como um assassino tresloucado que partiu
+para uma série de atos violentos. Antes, não se sabia que tivesse
+cometido nenhuma contravenção. Não havia meio de predizer que
+uma pessoa tão agradável tivesse tal comportamento patológico.
+Associo os eventos raros a qualquer má compreensão dos riscos que
+se originam de uma interpretação estreita de séries temporais
+passadas.
+Os eventos raros são sempre inesperados; de outro modo, não
+ocorreriam. O exemplo típico é o que se segue. Você investe em um
+hedge fund de resultados estáveis e nenhuma volatilidade, até que um
+dia recebe uma carta começando com “Um evento imprevisto e
+inesperado, considerado uma ocorrência rara” (o grifo é meu). Mas
+eventos raros existem precisamente porque são inesperados. São em
+geral causados por pânico, estes próprios resultado de liquidações
+(todos os investidores correndo para a porta ao mesmo tempo,
+livrando-se de tudo o que puderem, o mais rápido possível). Se o
+gestor do fundo ou o trader esperassem a ocorrência, não teriam
+investido naquilo, e o evento raro nunca teria ocorrido.
+O evento raro não é limitado a um papel do mercado: pode afetar
+facilmente o desempenho de toda uma carteira de investimentos. Por
+exemplo, muitos traders se envolvem na compra de papéis
+hipotecários e os protegem para afastar os riscos e eliminar a
+volatilidade, esperando obter lucros além dos que conseguiriam com
+títulos públicos (que são usados como o balizamento do lucro mínimo
+esperado, em qualquer investimento). Eles usam programas de
+computador e conseguem assistência signicativa de ph.Ds. em
+matemática aplicada, astrofísica, física das partículas, engenharia
+elétrica, dinâmica dos  uidos e, às vezes (embora raramente), de
+simples ph.Ds. em nanças. Uma carteira assim apresenta resultados
+estáveis durante longos períodos. Então, subitamente, como que por
+acidente (não acredito em acidentes), a carteira perde 40% de seu
+valor, quando se esperava, na pior das hipóteses, uma queda de 4%.
+Você chama o gestor para expressar sua raiva e ouve que não foi culpa
+dele, mas, de alguma forma, o relacionamento mudou de maneira
+
+dramática (literalmente). Ele mostrará a você que os fundos
+semelhantes experimentaram os mesmos problemas.
+Lembre que alguns economistas chamam o evento raro de
+“problema do peso”. Essa designação não parece ser um estereótipo
+mal aplicado. As coisas não melhoraram com a moeda do vizinho ao
+sul dos Estados Unidos senão no início da década de 1980. Longos
+períodos de estabilidade levaram hordas de traders de moedas de
+bancos e de operadores de hedge fund às águas calmas dos pesos
+mexicanos; eles gostam de ter a moeda por causa dos altos juros que
+ela proporcionava. Então, inesperadamente, explodem, perdem
+dinheiro dos investidores, perdem o próprio emprego e mudam de
+carreira. Depois estabelece-se um novo período de estabilidade.
+Novos traders de moedas aparecem, sem lembrança do evento. Eles
+correm para o peso mexicano, e a história se repete.
+É estranho que a maioria dos instrumentos nanceiros de renda xa
+apresente eventos raros. Na primavera de 1998, passei duas horas
+explicando a um então importante operador de hedge fund o conceito
+do problema do peso. Esbaldei-me explicando-lhe que a ideia era
+comum a toda forma de investimento que se baseie numa
+interpretação ingênua da volatilidade das séries temporais passadas. A
+resposta foi: “Você tem toda a razão. Não toco em peso mexicano. Só
+investimos em rublo russo”. Ele explodiu poucos meses depois. Até
+então, o rublo russo tinha taxas de juros atraentes, convidativas para
+os gananciosos de todos os tipos. Ele e outros que tinham
+investimentos em rublos perderam perto de 97% de seu dinheiro
+durante o verão de 1998.
+Vimos no capítulo 3 que o dentista não gosta de volatilidade porque
+produz uma alta incidência de pontadas negativas. Quando mais de
+perto ele observa seu desempenho, mais dores experimenta devido à
+maior variabilidade em uma resolução maior. Consequentemente,
+investidores, por motivos emocionais apenas, serão atraídos por
+estratégias que experimentam raras, porém grandes, variações. É
+varrer o acaso para debaixo do tapete. Psicólogos descobriram
+recentemente que as pessoas tendem a ser mais sensíveis à presença
+ou à ausência de determinado estímulo que a sua magnitude. Isso
+implica que uma perda é sentida primeiro apenas como uma perda,
+
+com maiores implicações depois. O mesmo acontece com os lucros. O
+agente prefere que o número de perdas seja baixo e que o número de
+ganhos seja alto, em vez de otimizar o desempenho total.
+Podemos examinar outros aspectos do problema; pense em alguém
+envolvido numa pesquisa cientíca. Dia após dia, vai se lançar à
+dissecação de camundongos no seu laboratório, desconectado do
+mundo. Ele pode tentar e tentar por anos, sem conseguir nenhum
+resultado com seu trabalho. Sua cara-metade pode perder a paciência
+com o perdedor que vem para casa toda noite cheirando a urina de
+camundongo. Até que — bingo! — um dia ele aparece com um
+resultado. Alguém observando a série temporal de sua ocupação não
+veria absolutamente nenhum ganho, embora cada dia o deixasse mais
+perto, em probabilidade, de obter um resultado.
+A mesma coisa com as editoras; elas podem publicar livros comuns
+atrás de livros comuns sem que o modelo de seu negócio sofra a mais
+leve contestação se uma vez em cada década tiver um best-seller como
+Harry Potter — desde que, é claro, publiquem trabalhos de alta
+qualidade, que tenham uma pequena probabilidade de atrair público.
+Um economista interessante, Art De Vany, consegue aplicar essas
+ideias em dois campos: a indústria cinematográca e a saúde e o estilo
+de vida dele próprio. De Vany descobriu as propriedades assimétricas
+dos lucros de lmes e as levou a outro nível: o tipo selvagem de
+incerteza não mensurável que discutimos no capítulo 10. O que
+também é interessante é que ele descobriu que somos feitos para
+experimentar uma atividade física extremamente assimétrica.
+Caçadores-coletores tinham momentos de ócio seguidos por
+explosões de intenso gasto energético. Aos 65 anos, Art tem o corpo
+de um homem com metade de sua idade.
+Nos mercados de capitais, há uma categoria de traders que têm
+eventos raros ao inverso, para quem a volatilidade é, com frequência,
+portadora de boas notícias. Esses traders perdem dinheiro com
+regularidade, mas em pequenas quantias, e fazem dinheiro raramente,
+mas em grandes quantidades. Eu os chamo de caçadores de crises.
+Sou feliz em ser um deles.
+Por que os estatísticos não detectam eventos raros?
+
+Para o leigo, a estatística pode parecer bastante complexa, mas o
+conceito que é usado hoje é tão simples que um amigo matemático
+francês só a chamava, depreciativamente, de “cozinha”. Ela se baseia
+em uma única ideia: quanto mais informação você tiver, maior
+conança tem no resultado. Agora, o problema: o quanto de mais
+informação? O método estatístico comum se baseia no constante
+aumento do nível de conança em proporção não linear para o
+número de observações. Isto é, para um aumento de n vezes no
+tamanho da amostra, aumentamos nosso conhecimento em um
+número que é a raiz quadrada de n. Suponhamos que eu esteja tirando
+bolas de uma urna que contém bolas vermelhas e pretas. Meu nível de
+conança quanto à proporção relativa de bolas vermelhas e pretas,
+depois de vinte retiradas, não é duas vezes o que tenho depois de dez
+retiradas; é de vinte multiplicado pela raiz quadrada de dois (que é
+1,41).
+Quando a estatística se torna complicada e não nos ajuda, temos
+distribuições que não são simétricas, como a da urna acima. Se há uma
+pequena probabilidade de encontrar uma bola vermelha em uma urna
+dominada por bolas pretas, então nosso conhecimento sobre a
+ausência de bolas vermelhas aumentará muito vagarosamente — mais
+vagarosamente do que a raiz quadrada esperada de uma taxa n. No
+entanto, nosso conhecimento sobre a presença de bolas vermelhas
+aumentará violentamente a partir do momento em que encontrarmos
+uma. Essa assimetria no conhecimento não é trivial; é fundamental
+neste livro — um problema losóco central para pessoas como Hume
+e Karl Popper (falarei sobre isso adiante).
+Para avaliar o desempenho de um investidor, precisamos de técnicas
+astutas e menos intuitivas, ou talvez tenhamos que limitar nossas
+avaliações a situações em que nosso julgamento independe da
+frequência desses eventos.
+Uma criança perversa substitui as bolas pretas
+Mas há notícias ainda piores. Em alguns casos, se a incidência de
+bolas vermelhas é, em si mesma, distribuída aleatoriamente, nunca
+viremos a saber a composição da urna. Isso é chamado de problema da
+estacionaridade. Pense numa urna que é furada no fundo. Enquanto
+
+vou tirando amostras dela, sem que eu saiba, uma criança perversa
+acrescenta bolas de uma cor ou de outra. Minha conclusão, então, se
+torna sem signicado. Posso concluir que as bolas vermelhas
+representam 50% da urna; então a criança perversa, me ouvindo,
+substitui rapidamente todas as bolas vermelhas por pretas. Isso torna
+precário grande parte do conhecimento que obtemos por meio da
+estatística.
+Um efeito bem parecido ocorre no mercado. Tomamos o passado
+como uma amostragem única e homogênea, e acreditamos que
+aumentamos consideravelmente nosso conhecimento do futuro a
+partir da observação da amostragem do passado. Mas e se crianças
+malvadas estiverem mudando a composição da urna? Em outras
+palavras, o que acontecerá se tudo mudar?
+Tenho estudado e praticado econometria por mais da metade da
+minha vida (desde meus dezenove anos), tanto em sala de aula quanto
+na atividade de trader. A “ciência” da econometria consiste na
+aplicação da estatística a amostragens tiradas em diferentes períodos,
+que chamamos de séries temporais. Ela se baseia no estudo de séries
+temporais de variáveis econômicas, dados e outros assuntos. No
+começo, quando não sabia praticamente nada (isto é, até menos do
+que hoje), eu cava imaginando se as séries temporais que re etiam as
+atividades de pessoas já mortas ou aposentadas deveriam ser levadas
+em conta para prever o futuro. Os econometristas que sabiam bem
+mais do que eu acerca de tais questões não se faziam perguntas desse
+tipo; isso indicava que, com toda a probabilidade, era uma pergunta
+idiota. Um proeminente econometrista, Hashem Pesaran, respondeu a
+uma questão semelhante recomendando fazer “mais e melhor
+econometria”. Agora estou convencido de que a maior parte da
+econometria é inútil — grande parte do que os estatísticos nanceiros
+sabem talvez não valha a pena saber. Isso porque uma soma de zeros,
+ainda que repetida 1 bilhão de vezes, continua sendo zero; da mesma
+forma, uma acumulação de pesquisas e avanços na complexidade
+levará a nada se não há um terreno rme debaixo dela. Estudar os
+mercados europeus da década de 1990 será certamente de grande
+valia para um historiador; mas que tipo de inferência podemos tirar
+
+agora, quando a estrutura das instituições e dos mercados mudou
+tanto?
+Observe que o economista Robert Lucas desferiu um golpe na
+econometria argumentando que, se as pessoas fossem racionais, isso
+faria com que elaborassem padrões previsíveis do passado e os
+adaptassem, de modo que a informação passada seria completamente
+inútil para prever o futuro (o argumento, formulado de maneira bem
+matemática, rendeu-lhe o Prêmio de Ciências Econômicas em
+Memória de Alfred Nobel). Somos humanos e agimos de acordo com
+nosso conhecimento, que integra dados passados. Posso traduzir essa
+questão com a analogia que se segue. Se traders racionais detectam um
+padrão de ações subindo às segundas-feiras, então, assim que esse
+padrão se torna detectável, seria anulado pelas pessoas comprando na
+sexta-feira, em antecipação a tal efeito. Não há propósito em procurar
+padrões que estão disponíveis para todo mundo que tenha uma conta
+junto a uma corretora; uma vez detectados, eles serão anulados.
+De alguma forma, o que veio a ser conhecido como “crítica Lucas”
+não foi levado adiante pelos “cientistas”. Acreditava-se piamente que
+os sucessos cientícos da Revolução Industrial poderiam ser
+transportados para as ciências sociais, em particular com movimentos
+como o marxista. A pseudociência se apresentou com um conjunto de
+idealistas imbecis que tentavam criar uma sociedade feita sob medida,
+cuja epítome é o planejador central. A economia era a candidata mais
+provável para tal uso da ciência; é possível disfarçar o charlatanismo
+sob o peso de equações e sair ileso, sem experimentos controlados.
+Bem, o espírito desses métodos, denominado de cienticismo por
+seus detratores (como eu), foi além do marxismo, indo parar na
+disciplina das nanças, quando uns poucos técnicos pensaram que seu
+conhecimento matemático poderia levá-los a entender os mercados. A
+prática de “engenharia nanceira” surgiu com enormes doses de
+pseudociência. Os que praticavam tais métodos mediam os riscos com
+a ferramenta da história para uma indicação do futuro. Diremos
+apenas, a essa altura, que a mera possibilidade de que as distribuições
+não sejam estacionárias já faz com que todo o conceito se transforme
+em um erro caro (e talvez muito caro). Isso nos leva a uma questão
+
+mais fundamental: o problema da indução, que abordarei no capítulo a
+seguir.
+

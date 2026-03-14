@@ -1,0 +1,1530 @@
+Notas adicionais, adendos e recomendação de leituras complementares
+Esta seção contém leituras e ideias adicionais que me ocorreram após escrever o livro — por exemplo, se os teólogos consideram Deus como robusto ou antifrágil, ou a história da mensuração como um problema de otários no domínio da probabilidade. No que diz respeito às leituras complementares, evito a repetição daquelas que já foram mencionadas em livros anteriores, especialmente quanto ao problema filosófico da indução, os problemas Cisne Negro e a psicologia da incerteza. Consegui imiscuir no texto algum material matemático, sem sofrer restrições de Alexis K., o editor londrino que tem fobia pela matemática (especificamente em minha definição de fragilidade nas notas do Livro
+V
+e em minha sucinta derivação do adágio “a beleza está nas pequenas coisas”). Note que há mais discussões técnicas afins à disposição na internet.
+Isolamento:
+desde
+A lógica do Cisne Negro
+, passei 1150 dias em isolamento físico, uma reconfortante condição de mais de trezentos dias por ano, com o mínimo de contato com o mundo exterior — além de vinte anos pensando sobre o problema das não linearidades e das exposições não lineares. Dessa maneira, meio que perdi a paciência com o conhecimento institucional e cosmético. Ciência e conhecimento são argumentos rigorosos, convincentes e aprofundados, levados a termo, e não a trivialidade ou empirismo ingênuo (
+via positiva
+), e é por isso que refuto a ideia jornalística comoditizada (e extremamente manipulada) de “referência” — ou melhor, “leitura complementar recomendada”. Meus resultados não deveriam depender, e não dependem, de um único artigo ou resultado, exceto para a desmistificação pela
+via negativa
+— os exemplos seguintes são ilustrativos.
+Charlatães:
+no artigo sobre o “Quarto Quadrante”, publicado no
+International Journal of Forecasting
+(um dos documentos que serviram de base para
+A lógica do Cisne Negro
+que tinha sido disponibilizado on-line), mostrei,
+empiricamente
+, utilizando todos os dados econômicos disponíveis, que as caudas grossas são, ao mesmo tempo, severas e impossíveis de manejar — razão pela qual todos os métodos com “padrões simplificados” não funcionam com as variáveis socioeconômicas: regressão, desvio-padrão, correlação etc. (tecnicamente, 80% da curtose em 10 mil unidades de dados pode surgir a partir de
+uma única
+observação, significando que todas as mensurações das caudas grossas são meros erros de amostragem). Essa é uma rigorosa declaração de
+via negativa
+: significa que não podemos usar matrizes de covariância — elas não são confiáveis e
+não são informativas. Na verdade, a simples aceitação das caudas grossas nos teria levado a tal resultado — não há necessidade de empirismo; processei os dados mesmo assim. Ora, qualquer profissão científica honesta diria: “O que vamos fazer com essas evidências?” — o establishment econômico e financeiro simplesmente ignorou. Um bando de charlatães, a julgar por quaisquer normas científicas e métricas éticas. Muitos “Nobels” (Engle, Merton, Scholes, Markowitz, Miller, Samuelson, Sharpe e alguns mais) atrelaram seus resultados a essas premissas centrais — de outra forma, todas as suas obras evaporariam. Charlatães (e fragilistas) se dão bem em instituições. É uma questão de ética; ver as notas no Livro
+VII
+.
+Para nosso propósito aqui, ignoro qualquer artigo científico da área da economia que use regressão em domínios de caudas grossas — como mero papo-furado —, exceto em alguns casos, como Pritchet (2001), em que o resultado não é impactado por caudas grossas.
+PRÓLOGO E LIVRO I: O ANTIFRÁGIL: UMA INTRODUÇÃO
+O vento energiza o fogo
+:
+lembra o comentário de La Rochefoucauld sobre o amor.
+Antifragilidade e complexidade:
+Bar-Yam e Epstein (2004) definem a sensibilidade, a possibilidade de respostas de grande envergadura a pequenos estímulos, e robustez, a possibilidade de respostas pequenas a estímulos consideráveis. Com efeito, essa sensibilidade, quando a resposta é positiva, assemelha-se à antifragilidade.
+Correspondência privada com Bar-Yam:
+em seus comentários, Yaneer Bar-Yam escreveu, generosamente: “Se dermos um passo atrás e refletirmos de modo mais genérico acerca da questão dos sistemas particionados versus conectados, os sistemas particionados são mais estáveis, ao passo que os sistemas conectados são mais vulneráveis e oferecem mais oportunidades para a ação coletiva. A vulnerabilidade (fragilidade) é a conectividade sem a responsividade. A capacidade de resposta permite que a conectividade leve à oportunidade. Se a ação coletiva puder ser empregada para lidar com ameaças, ou para tirar proveito das oportunidades, então a vulnerabilidade poderá ser amenizada e sobrepujada pelos benefícios. Essa é a relação básica entre a ideia da sensibilidade, conforme a descrevemos, e o seu conceito de antifragilidade”. (Com permissão.)
+Dâmocles e complexificação:
+Tainter (1988) argumenta que a sofisticação leva à fragilidade — mas seguindo uma linha de raciocínio bastante diferente.
+Crescimento pós-traumático:
+Bonanno (2004), Tedeschi e Calhoun (1996), Calhoun e Tedeschi (2006), Alter et al
+.
+(2007), Shah et al
+.
+(2007), Pat-Horenczyk e Brom (2007).
+Pilots Abdicate Responsibility to the System [Pilotos abdicam da responsabilidade para o sistema]
+: relatório da Administração Federal de Aviação dos Estados Unidos [Federal Aviation Administration,
+FAA
+]: John Lowy, Associated Press, 29 ago. 2011.
+Efeito de Lucrécio:
+discussão sobre o Quarto Quadrante no pós-escrito de
+A lógica do Cisne Negro
+e evidências empíricas em artigos correlatos.
+Marca do nível mais alto da água:
+Kahneman (2011), respaldando-se em obras do muito sagaz Howard Kunreuther, afirma que “ações protetivas, sejam por parte de indivíduos ou de governos, são geralmente concebidas para se ajustarem ao pior desastre que já tenha acontecido […] imagens de desastres ainda piores não vêm facilmente à mente”.
+Psicólogos e “resiliência”:
+Seery (2011), cortesia de Peter Bevelin. “Entretanto, algumas teorias e evidências empíricas sugerem que a experiência de enfrentar dificuldades pode também promover benefícios na forma de maior propensão à resiliência quando o indivíduo lida com situações estressantes subsequentes.” Eles usam “resiliência”! Mais uma vez,
+nãoéresiliência
+.
+Artigo de Danchin:
+Danchin et al
+.
+(2011).
+Erros de engenharia e efeito sequencial em segurança
+: Petroski (2006).
+Ruído e esforço:
+Mehta et al
+.
+(2012).
+Esforço e fluência
+:
+Shah e Oppenheimer (2007), Alter et al
+.
+(2007).
+Barricadas:
+ideia comunicada por Saifedean Ammous.
+Buzzati:
+Una felice sintesi di quell’ultimo capitolo della vita di Buzzati è contenuto nel libro di Lucia Bellaspiga “Dio che non esisti, ti prego. Dino Buzzati, la fatica di credere”.
+Autoconhecimento:
+a ilusão da vontade consciente, de Daniel Wegner, em
+Iludidos pelo acaso
+.
+Vendas de livros e críticas negativas:
+para Ayn Rand: Michael Shermer, “The Unlikeliest Cult in History” ,
+Skeptic
+, v. 2, n. 2, 1993, pp. 74-81. Trata-se de um exemplo; por favor, não confunda esse autor com um fã de Ayn Rand.
+Campanhas difamatórias:
+observe que o filósofo alemão Brentano desferiu um ataque anônimo contra Marx. De início, foi a acusação de encobrir algum fato menos que desimportante, totalmente irrelevante para as ideias de
+O capital
+; Brentano desviou-se por completo da discussão do tema central, até mesmo postumamente, e Engels deu continuidade ao debate, numa vigorosa defesa de Marx no prefácio do terceiro volume do tratado.
+Como realizar uma campanha difamatória, de Luís
+XIV
+a Napoleão:
+Darnton (2010).
+A lei de Wolff e os ossos, o exercício, a densidade mineral óssea em nadadores:
+Wolff (1892), Carbuhn (2010), Guadaluppe-Grau (2009), Hallström et al
+.
+(2010), Mudd (2007), Velez (2008).
+Estética da desordem:
+Arnheim (1971).
+Nanocompósitos:
+Carey et al. (2011).
+Karsenty e os ossos:
+agradeço a Jacques Merabe pela discussão e pela apresentação a Karsenty; Karsenty (2003, 2012a), Fukumoto e Martin (2009); para a fertilidade e os ossos masculinos, Karsenty (2011, 2012b).
+Confundindo a economia com um relógio:
+um erro típico e irritante em Grant (2001): “A sociedade é concebida como um imenso e intrincado mecanismo de relógio, que funciona de modo automático e previsível depois de ter sido colocado em movimento. Todo o sistema é regido por leis mecânicas que organizam as relações de cada um dos componentes. Assim como Newton descobriu as leis da gravidade, que regem o movimento no mundo natural, Adam Smith descobriu as leis da oferta e da demanda, que determinam o movimento da economia. Smith usou a metáfora do relógio e da máquina para descrever os sistemas sociais”.
+Gene egoísta:
+o “gene egoísta” é (convincentemente) uma ideia de Robert Trivers, muitas vezes atribuída a Richard Dawkins — comunicação privada com Robert Trivers. Triste história.
+Antifragilidade sistêmica de Danchin e redefinição de hormese:
+Danchin e eu escrevemos nossos artigos no modo de feedback. Danchin et al
+.
+(2011): “A ideia por trás disso é que no destino de um conjunto de entidades, expostas a grandes dificuldades, talvez seja possível obter um resultado geral positivo. No âmbito do conjunto, uma das entidades se sairia
+muito bem, compensando o colapso de todas as outras e até mesmo tendo um desempenho muito melhor do que a maioria, caso não houvesse empecilhos. Sob essa perspectiva, a hormese é apenas uma descrição holística de cenários subjacentes atuando no nível de uma miríade de processos, estruturas ou moléculas, simplesmente notando o resultado positivo para o conjunto. Para os organismos vivos, isso poderia atuar no nível da população de organismos, da população de células ou da população de moléculas intracelulares. Aqui exploramos o modo como a antifragilidade poderia operar no último nível, observando que sua implementação tem características que lembram bastante o que chamamos de seleção natural. De maneira específica, se a antifragilidade é um processo inerente que permite que algumas entidades individuais sobressaiam em relação à maioria em uma situação desafiadora, assim melhorando o destino do todo, ela ilustraria a implementação de um processo que reúne e utiliza informações”.
+Steve Jobs:
+“A morte é a invenção mais maravilhosa da vida. Ela expurga dos sistemas os modelos antigos e obsoletos”. Beahm (2011).
+Relógio cuco suíço:
+Orson Welles,
+O terceiro homem
+.
+Bruno Leoni:
+agradeço a Alberto Mingardi por alertar-me sobre a ideia de robustez jurídica — e pelo privilégio de ser convidado para participar da palestra de Leoni em Milão, em 2009. Leoni (1957, 1991).
+Grande moderação:
+um problema do peru. Antes da turbulência deflagrada em 2008, um senhor chamado
+Benjamin Bernanke, então professor de Princeton e que mais tarde seria presidente do Banco Central dos Estados Unidos e a pessoa mais poderosa do mundo em economia e finanças, apelidou de “a grande moderação” o período pelo qual passamos — colocando-me em uma posição muito difícil, a de defender o aumento de fragilidade. Isso é o mesmo que afirmar que alguém que acaba de passar uma década em um quarto esterilizado está em “ótima saúde” — quando na verdade essa pessoa é a mais vulnerável de todas.
+Note que o problema do peru é uma evolução da galinha de Russell (
+A lógica do Cisne Negro
+).
+Rousseau:
+em
+O contrato social.
+Ver, também, Joseph de Maistre,
+Oeuvres
+, Éditions Robert Laffont.
+LIVRO II: MODERNIDADE E A NEGAÇÃO DA ANTIFRAGILIDADE
+Cidades-estados:
+ótimos argumentos em apoio ao movimento a favor de cidades semiautônomas. Benjamin Barber, palestra na Fundação Long Now (2012), Khanna (2010), Glaeser (2011). Os prefeitos são melhores do que os presidentes para lidar com a coleta de lixo — e menos propensos a nos arrastar para a guerra. Também Mansel (2012), a respeito do Levante.
+Império Austro-Húngaro:
+Fejtö (1989). História contrafactual: Fejtö afirma que a Primeira Guerra Mundial poderia ter sido evitada.
+Busca aleatória e exploração de petróleo:
+Menard e Sharman (1976), a controvérsia White et al
+.
+(1976), Singer et al
+.
+(1981).
+Aleatorizando os políticos:
+Pluchino et al. (2011).
+Suíça:
+exposição em Fossedal e Berkeley (2005).
+Estado moderno:
+Scott (1998) faz uma crítica ao grande Estado moderno.
+Economias levantinas:
+Mansel (2012) sobre cidades-estados. História econômica, Pamuk (2006), Issawi (1966, 1988), Von Heyd (1886). Insights em Edmond About (About, 1855).
+Cidades-estados na história:
+Stasavage (2012) é crítico da cidade-estado oligárquica como um motor de crescimento a longo prazo (embora, de início, com taxa de crescimento elevada). Entretanto, o artigo é totalmente inconvincente do ponto de vista econométrico, porque negligencia as caudas grossas. A questão é a fragilidade e o gerenciamento de riscos, e não o crescimento cosmético. Além de Weber e Pirenne, defensores do modelo, Delong e Schleifer (1993). Ver Ogilvie (2011).
+Tonsilectomias:
+Bakwin (1945), citado por Bornstein e Emler (2001), discussão em Freidson (1970). Refeita por Avanian e Berwick (1991).
+Orlov:
+Orlov (2011).
+Intervencionismo ingênuo em desenvolvimento:
+Easterly (2006) relata um problema de madeira verde: “A falácia é presumir que, porque estudo e vivo em uma sociedade que, de alguma forma, acabou amealhando prosperidade e paz, sei o suficiente para formular planos de modo que outras sociedades obtenham prosperidade e paz. Como disse certa vez minha amiga April, isso é o mesmo que pensar que cavalos de corrida podem ser incumbidos de construir as pistas do hipódromo”.
+Também, sorte em desenvolvimento, Easterly et al
+.
+(1993), Easterly e Levine (2003), Easterly (2001).
+Fome na China:
+Meng et al. (2010).
+A morte de Washington:
+Morens (1999); Wallenborn (1997).
+Alcorão e iatrogenia:
+Semmelweis:
+das referências mais improváveis, ver a tese de doutorado de Louis-Ferdinand Céline, reproduzida em Gallimard (1999), cortesia de Gloria Origgi.
+Pseudoestabilização:
+alguns argumentos do capítulo 7 foram desenvolvidos em colaboração com Mark Blyth em
+Foreign Affairs
+, Taleb e Blyth (2011).
+Suécia:
+“As elites econômicas tinham mais autonomia do que em qualquer democracia bem-sucedida”, Steinmo (2011).
+Trânsito e eliminação de sinalização:
+Vanderbilt (2008).
+História da China:
+Eberhard (reimpressão, 2006).
+Nudge:
+chamam de viés do statu quo, e algumas pessoas querem que o governo manipule as pessoas para que elas se livrem desse viés. Boa ideia, exceto quando o “especialista” que dá o empurrão não é um especialista.
+Procrastinação e heurística da prioridade:
+Brandstetter e Gigerenzer (2006).
+A diversidade da França:
+Robb (2007). Protestos como o esporte nacional francês. Nicolas (2008). Estado-nação na França, entre 1680 e 1800, Bell (2001).
+Complexidade:
+aqui estamos mais interessados no efeito sobre as caudas grossas do que em outros atributos. Ver Kaufman (1995), Hilland (1995), Bar-Yam (2001), Miller e Page (2007), Sornette (2004).
+Complexidade e caudas grossas:
+não há necessidade, aqui, de uma sobrecarga de conceitos matemáticos (deixemos isso para o manual técnico); simples argumentos rigorosos podem provar, com o mínimo de palavras, como as caudas grossas emergem de alguns atributos dos sistemas complexos. O efeito matemático importante resulta da falta de independência das
+variáveis aleatórias, o que impede a convergência para a bacia gaussiana.
+Vamos examinar o efeito de hedge dinâmico e da revisão do portfólio de investimentos.
+A — por que as caudas grossas emergem dos ciclos de alavancagem de operação e de feedback, caso simplificado de agente único.
+A1 [alavancagem] — se um agente com alguma alavancagem financeira comprar títulos mobiliários em resposta ao aumento de sua riqueza (devido ao aumento do valor desses títulos), e vendê-los em resposta à diminuição de seu valor, numa tentativa de manter certo nível de alavancagem A (ele é côncavo quanto à exposição), e
+A2 [efeitos de feedback] — se os títulos subirem de valor de modo não linear em resposta às vendas, e, em seguida, pela violação da independência entre as variações dos títulos, o teorema do limite central (
+TLC
+) não se sustenta mais (não há mais convergência para a bacia gaussiana). Assim, as caudas grossas são um resultado imediato de feedback e alavancagem, exacerbados pela concavidade do nível de alavancagem A.
+A3 — se os efeitos de feedback forem côncavos ao tamanho (custa mais caro, por unidade, vender dez do que vender uma), então, a assimetria negativa do título e do processo de riqueza virá à tona (em termos simples, assim como o “gama negativo” do seguro do portfólio de investimentos, o agente tem uma opção de compra, mas nenhuma opção de venda, portanto assimetria negativa. A venda forçada é exatamente como o hedge de uma opção a curto prazo.)
+Nota sobre a dependência do trajeto exacerbando a assimetria:
+mais especificamente, se a riqueza aumentar primeiro, isso gera mais risco e mais assimetria. Situação de aperto financeiro e venda forçada na descida: o mercado cai mais (porém com menos frequência) do que aumenta na subida.
+B — Multiagentes: se, ademais, houver mais de um agente envolvido, o efeito é intensificado pelo ajuste dinâmico (cobertura do risco) de um agente que causa o ajuste de outro, algo geralmente chamado de “contágio”.
+C — Pode-se generalizar para qualquer coisa, por exemplo o aumento nos preços das casas em resposta à compra de casas pelo excesso de liquidez etc.
+A mesma ideia geral de execução forçada mais a concavidade de custos leva à superioridade de sistemas com aleatoriedade distribuída.
+Aumento de risco, depois de providenciados os números:
+ver a literatura sobre ancoragem (revisada em
+A lógica do Cisne Negro
+). E também a tese de doutorado de Mary Kate Stimmler em Berkeley (2012), cortesia de Phil Tetlock.
+O experimento de Stimmler é o seguinte. Na condição simples, os sujeitos da pesquisa foram assim informados:
+Para sua referência, você recebeu a seguinte fórmula para calcular a quantidade total de dinheiro (
+T
+) que o investimento renderá três meses após o investimento inicial (
+I
+), considerando-se a taxa de retorno (
+R
+):
+T = I * R
+Na condição complexa, os sujeitos da pesquisa foram informados da seguinte maneira:
+Para sua referência, você foi munido da fórmula seguinte a fim de calcular a quantidade total de dinheiro A
+n
+que o investimento renderá três meses após o investimento inicial A
+n–1
+, dada a taxa de retorno
+r
+.
+É desnecessário mencionar que a condição simples e a complexa produziram o mesmo resultado. Mas aqueles que tinham nas mãos a condição complexa assumiram mais riscos.
+O delírio da mensuração probabilística:
+algo que é óbvio para os taxistas e as avós desaparece dentro dos corredores das universidades. Em seu livro
+A mensuração da realidade
+(Crosby, 1997), o historiador Alfred Crosby apresentou a seguinte tese: o que distingue a Europa Ocidental do restante do mundo é a obsessão com a mensuração, a transformação do qualitativo em quantitativo (isso não é estritamente verdadeiro; os antigos também eram obcecados por medições, mas não dispunham dos algarismos arábicos para fazer cálculos adequados). A ideia de Crosby era a de que nós aprendemos a ser precisos acerca das coisas — e de que isso foi o precursor da Revolução Científica. Ele cita o primeiro relógio mecânico (que quantificou o tempo), as cartas náuticas e a pintura de perspectiva (que quantificaram o espaço) e a contabilidade das partidas dobradas (que quantificaram a contabilidade
+financeira). A obsessão pela mensuração começou nos lugares certos, e, progressivamente, invadiu os errados.
+Agora o nosso problema é que essas mensurações começaram a ser aplicadas a elementos que têm alto erro de medição — em alguns casos, infinitamente altos (lembre-se de Fukushima, na seção anterior). Os erros do Mediocristão são irrelevantes, os do Extremistão são agudos. Quando os erros de mensuração são proibitivamente numerosos, não se deve usar a palavra “medida”. É claro que posso “medir” a mesa sobre a qual escrevo estas linhas. Posso “medir” a temperatura. Mas não sou capaz de “medir” riscos futuros. Tampouco posso “medir” a probabilidade — ao contrário da mesa, ela não se presta à nossa investigação. Trata-se, na melhor das hipóteses, de uma estimativa especulativa de algo que
+pode
+acontecer.
+Note que Hacking (2006) não leva em conta as caudas grossas, nem por um único segundo! O mesmo acontece com Hald (1998, 2003), Von Plato (1994), Salsburg (2001) e alguém que deveria saber mais do que cometer esse erro, Stigler (1990). Um livro que promoveu péssimos modelos de risco, Bernstein (1996). Daston (1988) vincula a mensuração probabilística ao Iluminismo.
+A ideia de probabilidade como um construto quantitativo e não qualitativo tem sido, de fato, um flagelo. E a noção de que a ciência
+equivale
+à livre mensuração isenta de erro — em grande medida ela equivale, mas não em tudo — pode nos levar a todo tipo de fantasias, ilusões e sonhos.
+Uma excelente compreensão da probabilidade vinculada ao ceticismo: Franklin (2001). Poucos outros
+filósofos debruçaram-se sobre o verdadeiro problema da probabilidade.
+Quarto Quadrante:
+Ver a discussão em
+A lógica do Cisne Negro
+, ou no artigo de Taleb (1999).
+Nuclear, novo gerenciamento de riscos:
+Comunicação privada, Atlanta, Instituto de Operações de Energia Nuclear (Inpo), nov. 2011.
+Conhecimento não científico e poder da evidência:
+Um leitor, Karl Schluze, escreveu: “Um velho professor e colega me disse (entre goles de uísque): ‘Se cortarmos a cabeça de um cachorro e ela latir, não será necessário repetir a experiência’”. É fácil obter exemplos: nenhum advogado invocaria um argumento do tipo “N=1” em defesa de uma pessoa, dizendo que “ela só matou uma vez”; ninguém considera que um acidente de avião seja “empírico”.
+Eu iria mais longe e mapearia a desconfirmação exatamente na situação em que N=1 for suficiente.
+Às vezes os pesquisadores, em uma reação instintiva, chamam um resultado de “empírico” quando ele é diametralmente oposto ao esperado. Steven Pinker considerou “empírica” a observação de John Gray de que as duas guerras mundiais eram a contraprova de sua tese de grande moderação. A julgar pela minha experiência, as pessoas que atuam nas ciências sociais raramente sabem o que querem dizer quando falam em “evidências”.
+LIVRO III: UMA VISÃO DE MUNDO NÃO PREDITIVA
+Teóricos da decisão ensinando profissionais com atuação prática:
+para tornar ainda pior a nossa situação, os cientistas da decisão usam a noção de “prática”, uma designação às avessas. Ver Hammond, Keeney e Raiffa (1999) tentando nos ensinar a tomar decisões. Para um livro que descreve exatamente como os profissionais com atuação prática não agem, mas como os acadêmicos pensam que eles agem, ver Schon (1983).
+A assimetria entre o bem e o mal:
+Segnius homines bona quam mala sentiunt
+, nos Anais de Tito Lívio (
+XXX
+, 21).
+Estoicos e emoções:
+contradiz crenças do senso comum segundo as quais o estoicismo diz respeito a ser um vegetal, Graver (2007).
+O crescimento econômico não foi tão rápido:
+Crafts (1985), Crafts e Harley (1992).
+Traição com astros do rock:
+Arnavist e Kirkpatrick (2005), Griffith et al
+.
+(2002), Townsend et al
+.
+(2010).
+Simenon:
+“Georges Simenon, profession: rentier” . Nicole de Jassy.
+Le Soir illustré
+, n. 1333, 9 jan. 1958. pp. 8-9, 12.
+Dalio:
+Princípios de Ray-Dalio -Bridgewater-Associates.
+1
+LIVRO IV: OPCIONALIDADE, TECNOLOGIA E A INTELIGÊNCIA DA ANTIFRAGILIDADE [pp. 197-303]
+O teleológico
+Aristóteles e sua influência:
+Rashed (2007), ao mesmo tempo arabista e helenista.
+A nobreza do fracasso:
+Morris (1975).
+Opcionalidade
+Bricolagem:
+Jacob (1977a, 1977b), Esnault (2001).
+Ricos cada vez mais ricos
+:
+sobre a riqueza total do aumento de
+IAPL
+(Indivíduos com Altíssimo Patrimônio Líquido), ver os dados da Merrill Lynch em “World’s Wealthiest People Now Richer Than Before the Credit Crunch”, Jill Treanor,
+The Guardian
+, jun. 2012. O gráfico a seguir mostra por que isso nada tem a ver com crescimento e formação de riqueza total.
+FIGURA 39.
+Artigos de luxo e opcionalidade. Na vertical, a probabilidade; na horizontal, a integral de riqueza. Cidade da antifragilidade: o efeito da mudança de desigualdade no conjunto dos muito ricos aumenta de modo não linear nas caudas: o dinheiro dos milionários reage à desigualdade, mais do que à riqueza total do mundo. Sua parcela de riqueza é multiplicada em cerca de cinquenta vezes em resposta a uma alteração de 25% na dispersão da riqueza. Uma pequena alteração de 0,01 no coeficiente de Gini
+(
+0 quando há desigualdade perfeita, 1,00 quando uma pessoa tem tudo
+)
+é equivalente a um aumento de 8% no Produto Interno Bruto — o efeito é contundente, apesar da distribuição de probabilidade.
+Camelo na Arábia:
+Lindsay (2005).
+Obliquidade
+:
+Kay (2010).
+Literatura sobre opções reais:
+Trigeorgis (1993), resenhado em Dixit e Pindyck (1994), Trigeorgis (1996), Luehrman (1998), McGrath (1999) — o foco é nos investimentos reversíveis e irreversíveis.
+Lacuna translacional:
+Wooton (2007); Arikha (2008b); Contopoulos-Ioannidis moderno et al
+.
+(2003, 2008), comentários em Brosco e Watts (2007).
+Crítica de Wootton:
+Brosco e Watts (2007).
+Epifenômenos e causalidade de Granger
+:
+ver Granger (1999) para um resumo.
+Ensinar os pássaros a voar:
+há antecedentes em Erasmo, “ensinar os peixes a nadar”. Adágios, 2519,
+III, VI,
+19. “
+Piscem nature doces I’
+χθύν
+νήχεσθαι
+διδάσκειϚ
+, id est piscem nature doces. Perinde est ac si dicas: doctum doces. Confine illi, quod alibi retulimus:
+Δελφίνα
+νήχεσθαι
+διδάσκειϚ
+, id est Delphinum natare doces.
+” A expressão foi cunhada, pela primeira vez, em Haug e Taleb (2010), publicada em 2006, levando a um livro, Triana (2009). Não tínhamos conhecimento da imagem usada por Erasmo; caso contrário, a teríamos escolhido.
+Educação e seus efeitos sobre o crescimento e a riqueza:
+Pritchett (2001), Wolf (2002), Chang (2011).
+As ideias de Schumpeter sobre destruir para progredir:
+Schumpeter (1942). Críticas de economistas de Harvard sobre a falta de um enfoque técnico, em McCraw (2007).
+Amadores:
+Bryson (2010), Kealey (1996).
+Atribuição científica incorreta das obras de Bachelier, Thorpe e outros:
+Haug e Taleb (2010). Discussão em Triana (2009, 2011).
+Ex cura theoria nascitur:
+em Coulter (2000), atribuída a Paracelso.
+Motor a jato:
+Scranton (2006, 2007, 2009), Gibbert e Scranton (2009).
+Destruindo a teoria epistêmica da cibernética:
+Mindell, 2002. Agradeço a David Edgerton por apresentar-me às obras dele.
+Catedrais e geometria teórica e axiomática:
+Beaujouan (1973, 1991), Portet (2002). Ball (2008) para a história da construção da catedral de Chartres.
+Base epistêmica e fusão
+:
+a base epistêmica é uma espécie de
+x
+, não
+f
+(
+x
+). Uma excelente maneira de ver a diferença entre
+x
+e
+f
+(
+x
+) na tecnologia, proposta por Michael Polanyi: pode-se patentear
+f
+(
+x
+), uma técnica, mas não
+x
+, o conhecimento científico. Em Mokyr (2005).
+Base epistêmica:
+Mokyr (1999, 2002, 2005, 2009). o maior problema de Mokyr: não compreender
+ω
+C
+. Além disso, a noção de que o Oriente negligencia a tentativa e erro (consultar, também, o argumento sobre a China): ver Tetlock, em Tetlock et al. (2009). Mokyr e Meisenzahl percebem outro aspecto, com as microinvenções alimentando as macroinvenções. Ainda inconsistente do ponto de vista intelectual.
+Techné-Episteme na economia:
+Marglin (1996), mas a tradição não foi muito longe.
+Trabalhos de Needham sobre a China:
+Winchester (2008).
+Estabilidade no emprego:
+Kealey (1996): “Adam Smith atribuiu a decadência dos professores ingleses aos salários garantidos e aos empregos estáveis (em comparação com as universidades escocesas)”.
+Fideísmo:
+Popkin (2003).
+Modelo linear:
+Edgerton (1996a, 1996b, 2004). Edgerton mostrou que era uma ideia retroajustada, isto é, adaptada ao passado. Edgerton escreve ainda: “Esse modelo de ciência do século
+XX
+, profundamente norteado pela pesquisa acadêmica, é ainda mais surpreendente, em face da longa tradição de
+ressaltar as origens não acadêmicas da ciência moderna
+[grifo meu], especialmente as tradições de ofícios, e a insistência, em boa parte da história da ciência, reforçada nos últimos vinte anos, na importância dos contextos industriais para a ciência, desde o tingimento de tecidos até fabricação de cerveja e de motores”.
+Viés de convexidade:
+foi descoberto, primeiro, no ramo de commodities e títulos financeiros futuros; Burghardt e Hoskins (1994), Taleb (1997), Burghardt e Liu (2002), Burghardt e Panos (2001), Kirikos e Novak (1997), Pieterbarg e Renedo (2004). Muitas pessoas se perderam na tentativa de compreender o efeito.
+Exemplo de detecção e mapeamento de viés de convexidade (
+ω
+A
+), a partir da tese de doutorado do autor:
+o método é encontrar aquilo que necessita de cobertura dinâmica e de revisões dinâmicas. Entre os membros da classe de instrumentos considerados que não são ações stricto sensu, mas exigem cobertura dinâmica, podem ser rapidamente mencionados muitos instrumentos convexos: (1) obrigações de longo prazo com baixos cupons de juros. Suponha um intervalo distinto de tempo. Considere
+B
+(
+r,T,C
+) o título com vencimento no período
+T
+, pagando um cupom
+C
+, em que
+rt = ∫rs ds
+. Temos a convexidade
+∂
+2
+B/∂r
+2
+aumentando com
+T
+, e diminuindo com
+C
+; (2) contratos
+em que o financiamento está em estreita correlação com o preço do Futuro; (3) cestas de investimento com características geométricas em seu cálculo; (4) uma classe de ativos bastante negligenciada é a de contratos “quanto” (em que o retorno não é na moeda nativa do contrato), como o de futuros Nikkei japonês, cujo retorno é na moeda norte-americana. Em suma, enquanto um contrato Nikkei denominado em iene japonês é linear, um contrato em dólares norte-americanos é não linear e requer hedge dinâmico.
+Considere como tempo inicial
+t
+0
+, a condição final sendo
+V
+(
+S,T
+)
+= S
+T
+, em que
+T
+é a data de vencimento. De forma mais simplificada, o título que acabamos de descrever é do tipo futuro simples, supostamente linear. Parece não haver ainda nenhum termo do lema de Itô. No entanto, se houver um retorno intermediário tal que, depois de um período contábil
+i/T
+, a margem de variação é paga em desembolso de caixa, é possível que venha à tona alguma complexidade. Suponha Δ(
+t
+i
+) como as mudanças no valor do portfólio de investimentos durante o período (
+t
+i
+,t
+i–1
+)
+,
+Δ(
+t
+i
+)
+=
+(
+V
+(
+S,t
+i
+)
+–V
+(
+S,t
+i–1
+)). Se a variação tiver de ser paga no período
+t
+i
+, então o operador teria de tomar o valor emprestado à taxa futura entre os períodos
+t
+i
+e
+T
+, aqui
+r
+(
+t
+i
+,T
+)
+.
+Esse financiamento é necessário para tornar
+V
+(
+S,T
+) e S
+T
+comparáveis em valores atuais. Para obter o resultado esperado, teremos de descontar a variação utilizando o método de fluxo de caixa futuro para o período contábil entre
+t
+i–1
+e t
+i
+. Observado a partir do período
+T
+, o valor da variação torna-se
+E
+t
+exp
+[
+-r
+(
+t
+i
+,T
+)(
+T-t
+i
+)]Δ(
+t
+i
+)], em que
+E
+t
+é o operador esperado no tempo
+t
+(sob, digamos, a mensuração da probabilidade de risco neutro). Portanto, no período
+T
+, a expectativa é
+a de produzirmos, conforme visto a partir do período t
+0
+, o valor esperado de um fluxo de variação futuro
+E
+t0
+[
+Σ
+exp
+[
+-r
+(
+t
+i
+,T
+)(
+T-t
+i
+)]Δ(
+t
+i
+)]. No entanto, precisamos descontar o presente, utilizando o prazo
+r
+(
+T
+). A equação anterior torna-se
+V
+(
+S,T
+)|
+t=t0
+=V
+[
+S,t
+0
+]
++exp
+[
+r
+(
+T
+)]
+E
+to
+[
+Σ
+exp
+[
+-r
+(
+t
+i
+,T
+)(
+T-t
+i
+)]Δ(
+t
+i
+)], que será diferente de S
+T
+quando qualquer taxa futura de juros for estocástica. Resultado
+(uma maneira polida de dizer “teorema”):
+Quando as variações da taxa de desconto futura r
+(
+t
+i
+,T
+)
+e do título subjacente S
+T
+forem estritamente positivas e a correlação entre as duas for menor do que 1, V
+(
+S,T
+)|
+t=t0
+≠
+S
+T
+.
+Comprovação: examinando as propriedades do operador esperado. Portanto,
+F
+(
+S,t
+0
+) =
+F
+(
+S, t
+0
++
+Δ
+t
+), enquanto um instrumento não linear será satisfatório:
+E
+[
+V
+(
+S,t
+0
+)]=
+E
+[
+V
+(
+S,t
+0
++
+Δ
+t
+)].
+Críticas a Kealey
+:
+Posner (1996).
+História geral da tecnologia
+:
+omissão de vieses de convexidade, Basalla (1988), Stokes (1997), Geison (1995).
+Ideias de inovação:
+Berkun (2007), Latour e Woolfar (1996), Khosla (2009), Johnson (2010).
+Descobertas médicas e ausência de conhecimento causal:
+Morton (2007), Li (2006), Le Fanu (2002), Bohuon e Monneret (2009). Le Fanu (2002): “Talvez seja previsível que os médicos e os cientistas queiram reivindicar para si o crédito pela supremacia da medicina moderna, sem admitir, ou, até mesmo, reconhecer, os mistérios da natureza, que desempenharam um papel tão importante. Não surpreende que tenham passado a acreditar que sua
+contribuição intelectual foi maior do que realmente foi e que sua compreensão era mais ampla do que de fato era. Eles foram incapazes de reconhecer a natureza esmagadoramente empírica da inovação tecnológica e dos medicamentos, que possibilitou avanços espetaculares no tratamento das doenças, sem a exigência de qualquer entendimento profundo das causas ou da história natural das enfermidades”.
+Comércio como algo convexo:
+Ridley (2010) faz comentários sobre os fenícios; Aubet (2001).
+Informantes da indústria farmacêutica
+:
+La Matina (2009).
+Efeitos colaterais multiplicativos:
+subestimação de interações, em Tatonetti et al
+.
+(2012): eles simplesmente revelaram os efeitos colaterais em pessoas que ingerem coquetéis de drogas, o que, de modo efetivo, potencializa os efeitos colaterais (eles mostram que o efeito pode ser multiplicado em até quatro vezes).
+Planejamento estratégico:
+Starbuck et al
+.
+(1992, 2008), Abrahamson e Freedman (2007). O último é uma bela ode à desordem e à “bagunça”.
+Empreendedorismo
+:
+Elkington e Hartigan (2008).
+A incompreensão patológica dos professores da Harvard Business School:
+Esta não é uma afirmação empírica, mas só por diversão: para um exemplo ilustrativo de um otário que não consegue perceber
+ω
+B
+e
+ω
+C
+, sempre comece procurando em
+Harvard. Froot (2001), Pisano (2006a, 2006b). Froot: “Uma vez que os gestores de empresas de seguro compram resseguros pagando um valor muito acima do preço justo, devem acreditar que o gerenciamento de riscos adiciona um valor considerável”. Ele acredita
+saber
+qual é o preço justo.
+Le Goff:
+Le Goff (1985):
+“L’un est un professeur, saisi dans son enseignement, entouré d’élèves, assiégé par les bans, où se presse l’auditoire. L’autre est um savant solitaire, dans son cabinet tranquille, à l’aise au milieu de la pièce où se meuvent librement ses pensées. Ici c’est le tumulte des écoles, la poussière des salles, l’indifférence au décor du labeur collectif “, “Là tout n’est qu’ordre et beauté / Luxe, calme, et volupté”
+.
+Martignon
+:
+Geschlechtsspezifische Unterschiede im Gehirn und mögliche Auswirkungen auf den Mathematikunterricht.
+Wissenschaftliche Hausarbeit zur Ersten Staatsprüfung für das Lehramt an Realschulen nach der
+RPO
+I, v. 16.12.1999. Vorgelegt von: Ulmer, Birgit. Erste Staatsprüfung im Anschluss na das Wintersemester 2004/05, Pädagogische Hochschule Ludwigsburg. Studienfach: Mathematik. Dozenten: profa. dra. Laura Martignon, prof. dr. Otto Ungerer.
+Renan:
+Averroès et l’averroïsme
+, p. 323 (1852).
+Sócrates:
+Conversa com Mark Vernon (Vernon, 2009), que acredita que Sócrates era mais parecido com Tony Gordo. Wakefield (2009) fornece um contexto mais amplo. Calder et al
+.
+(2002) apresentam retratos mais ou menos hagiográficos.
+Falácia socrática
+:
+Geach (1966).
+Episteme-Techné:
+Alexandre de Afrodísia,
+Comentário à
+Metafísica
+de Aristóteles
+,
+sobre os primeiros analíticos de Aristóteles
+1,1-7,
+Tópicos de Aristóteles
+1,
+Quaestiones
+2,16-3,15.
+O conhecimento tácito-explícito
+:
+Colins (2010), Polanyi (1958), Mitchell (2006).
+TABELA 13 • SAIBA COMO VS. SAIBA O QUÊ E SEUS CORRELATOS
+Tipo 1
+Tipo 2
+Saber
+o quê
+(conhecimento teórico)
+Saber
+como
+(conhecimento prático)
+Explícito
+Implícito, tácito
+Conhecimento demonstrativo
+Conhecimento não demonstrativo
+Episteme
+Techné
+Base epistêmica
+Conhecimento experiencial
+Conhecimento proposicional
+Heurística
+Literal
+Figurativo
+Atividade direcionada
+Bricolagem
+Racionalismo
+Empirismo
+Erudição acadêmica
+Prática
+Matemática
+Engenharia
+Conhecimento indutivo, utilizando os princípios teleológicos de Aristóteles
+Epilogismo (Menódoto de Nicomédia e a escola de medicina empírica)
+Historiografia causal
+Historia a sensate cognitio
+Diagnóstico
+Autopsia
+Letra da lei
+Espírito da lei
+Ideias
+Costumes
+Probabilidade lúdica, livros didáticos de estatística
+Incerteza ecológica, não manejável em livros didáticos
+Logos
+Mythos
+Kerygma (a parte explicável e ensinável da religião)
+Dogma (no sentido religioso, o inexplicável).
+Teologia exotérica (Averróis e Espinosa)
+Teologia esotérica (Averróis e Espinosa)
+Todos os termos do lado esquerdo parecem estar conectados. Podemos explicar facilmente como
+racionalismo
+,
+explícito
+e
+literal
+se combinam. Mas os termos da direita parecem não estabelecer entre si uma relação lógica. Qual é a conexão entre
+costumes
+,
+bricolagem
+,
+mitos
+,
+saber como
+e
+figurativo
+? O que conecta o dogma religioso a experimentações e improvisos? Existe
+algo
+, mas não sou capaz de explicar em um formato comprimido, embora haja a semelhança de família wittgensteiniana.
+Lévi-Strauss:
+Lévi-Strauss (1962), sobre as diferentes formas de inteligência. No entanto, em Charbonnier (2010), em entrevistas concedidas na década de 1980, ele parece acreditar que algum dia, no futuro, a ciência nos permitirá fazer previsões com um aceitável grau de precisão, “tão logo compreendamos a teoria das coisas”. Wilken (2010), para uma biografia. Ver também Bourdieu (1972), para um problema semelhante, sob o prisma de um sociólogo.
+Heurísticas evolutivas:
+trata-se de um aspecto central, mas eu o escondi aqui. Para resumir o ponto de vista — uma fusão do que ele significa na literatura e as ideias deste livro: uma heurística evolutiva em determinada atividade tem os seguintes atributos: (a) não sabemos que a estamos utilizando, (b) ela vem sendo usada há muito tempo no mesmo ambiente, ou em um ambiente bastante parecido, por gerações e gerações de praticantes, e reflete algo da sabedoria evolutiva coletiva, (c), é isenta do problema de agência, e aqueles que a utilizam sobreviveram (isso exclui a heurística médica usada pelos profissionais da medicina, já que o paciente poderia não ter sobrevivido, e favorece as heurísticas coletivas, utilizadas pela sociedade), (d) ela substitui problemas complexos, que exigem uma solução matemática, (e) só é possível aprendê-la por meio da prática e da observação de outras pessoas, (f), ela sempre pode funcionar “melhor” em um computador, uma vez que o desempenho desse tipo de heurística é melhor em um computador do que na vida real. Por alguma razão, essas heurísticas, que são as segundas melhores, funcionam melhor do que aquelas que parecem ser as melhores, (g) o campo em que ela foi desenvolvida permite um feedback rápido, no sentido de que aqueles que cometem erros são penalizados e não perduram muito tempo. Por fim, como demonstraram os psicólogos Kahneman e Tversky, fora dos domínios em que foram formadas, elas podem dar terrivelmente errado.
+Argumentação e o problema da madeira verde:
+em Mercier e Sperber (2011). A ideia pós-socrática de raciocínio como instrumento de busca da verdade
+passou, recentemente, por uma desvalorização ainda maior, embora aparentemente o método socrático de discussão possa ser benéfico, mas apenas na forma de diálogo. Mercier e Sperber desmistificaram a noção de que usamos o raciocínio a fim de buscar a verdade. Eles mostraram, em um estudo extraordinário, que o propósito dos argumentos não é tomar decisões, mas convencer os outros — pois as decisões a que chegamos via raciocínio estão carregadas de imensas distorções. Eles demonstraram isso experimentalmente, apresentando evidências de que os indivíduos são mais eficazes forjando argumentos em um ambiente social (quando há outras pessoas a convencer) do que quando estão sozinhos.
+Anti-Iluminismo:
+para uma revisão, Sternhell (2010), McMahon (2001), Delon (1997). Horkheimer e Adorno apresentam uma crítica veemente à cosmética e às armadilhas nas ideias da modernidade. E, claro, as obras de John Gray, especificamente Gray (1998) e
+Straw Dogs
+, Gray (2002).
+Wittgenstein e o conhecimento tácito:
+Pears (2006).
+Sobre Joseph de Maistre
+:
+Companion (2005).
+Economia ecológica, sem nada de economia protecionista do tipo supermamãe-helicóptero
+:
+Smith (2008), e também a palestra do Nobel, feita juntamente com a de Kahneman. Mais adiante em Gigerenzer.
+A sabedoria dos séculos:
+Oakeshott (1962, 1975, 1991). Note que o conservadorismo de Oakeshott significa aceitar a necessidade de determinada cota de mudança. Parece-me que o que ele queria era uma mudança orgânica, não racionalista.
+LIVRO V: O NÃO LINEAR E O NÃO LINEAR
+Mais formalmente, para complementar a exposição gráfica, de Taleb e Douady (2012), a
+fragilidade local
+de uma variável aleatória
+X
+λ
+, dependendo do parâmetro
+λ
+, no nível de estresse
+K
+e nível de semidesvio
+s
+–
+(
+λ
+), com pdf
+f
+λ
+, é a sua
+sensibilidade semivega
+K com cauda à esquerda
+(“vega” sendo a sensibilidade para alguma medida de volatilidade),
+V
+(
+X
+,
+f
+λ
+,
+K
+,
+s
+–
+) para
+s
+–
+, o semidesvio médio absoluto abaixo de Ω, aqui
+.A
+fragilidade herdada
+de
+Y
+em relação a
+X
+, no nível de estresse
+L =
+φ
+(K)
+, e semidesvio à esquerda no nível
+s
+–
+(
+λ
+) de
+X
+, é a derivada parcial
+. Note que o nível de estresse e o pdf são definidos para a variável
+Y
+, mas o parâmetro utilizado para a diferenciação é o desvio semiabsoluto à esquerda de
+X
+. Para a antifragilidade, a oscilação acima de Ω, em adição à robustez abaixo do mesmo nível de estresse
+K
+. Os
+teoremas de transferência
+relacionam a fragilidade de
+Y
+com a segunda derivada
+φ
+(
+K
+) e mostram o efeito das transformações convexas (côncavas ou não lineares mistas) nas caudas via a
+função de transferência
+H
+K
+. Para o antifrágil, use
+s
++
+, a integral acima de
+K
+.
+A fragilidade não é psicológica:
+começamos pela definição de fragilidade como a cauda da sensibilidade
+vega
+e terminamos com a não linearidade como um atributo necessário da fonte dessa fragilidade no caso hereditário — uma causa da doença, em vez da doença propriamente dita. Contudo, existe uma longa tradição de literatura, escrita por economistas e cientistas da decisão, incorporando o risco às preferências psicológicas — historicamente, o risco vem sendo descrito como uma derivação da aversão ao risco, como resultado da estrutura de escolhas sob incerteza, com uma concavidade do confuso conceito de “utilidade” do retorno; ver Pratt (1964), Arrow (1965), Rothschild e Stiglitz (1970, 1971). Mas esse papo de “utilidade” nunca levou a lugar nenhum, a não ser à circularidade, expressa por Machina e Rothschild (2008), “o risco é o que os avessos ao risco odeiam”. De fato, limitar o risco à aversão à concavidade de escolhas é um resultado extremamente infeliz.
+A xícara de porcelana e sua concavidade:
+nitidamente, uma xícara de café, uma casa ou uma ponte não têm preferências psicológicas, utilidade subjetiva etc. No entanto, cada uma delas é côncava em sua reação ao dano: de forma simples, considerando-se
+z
+como nível de estresse e
+Π
+(
+z
+) a função de dano, é suficiente para ver que, com
+n
+>
+1
+,
+Π
+(
+n z
+)
+<
+n Π
+(
+z
+) para todo
+0
+<
+n z
+<
+Z
+*, em que
+Z
+* é o nível (não necessariamente especificado) em que o item se quebra. Essa desigualdade leva a
+Π
+(
+z
+), tendo uma segunda derivada negativa no valor
+z
+inicial. Então, se uma xícara de café é menos danificada
+n
+vezes por um estressor de intensidade
+Z
+do que uma única
+vez por um estressor
+n Z
+, então o dano (como uma função negativa) precisa ser côncavo a estressores até o ponto de rompimento; essa restrição é imposta pela estrutura de probabilidades de sobrevivência e a distribuição de eventos prejudiciais, nada a ver com a utilidade subjetiva nem com alguns outros produtos da imaginação.
+Aumento de escala positivo, convexidade das cidades:
+Bettencourt e West (2010, 2011), West (2011). Cidades são itens 3-D, assim como os animais, e essas não linearidades benéficas correspondem a eficácias. Mas leve em conta o trânsito!
+“Mais é diferente”:
+Anderson (1972).
+Fragilidade comparativa dos animais:
+Diamond (1988).
+Flyvbjerg e colaboradores, sobre atrasos:
+Flyvbjerg (2009), Flyvbjerg e Buzier (2011).
+A beleza está nas pequenas coisas, pontos de vista românticos
+:
+Dahl e Tufte (1973), Schumacher (1973), para a frase de efeito. Kohr (1957), para o primeiro manifesto contra o tamanho da unidade governamental.
+Tamanho do governo:
+não consigo encontrar pessoas que pensem nos efeitos de convexidade, nem mesmo os libertários — ver Kahn (2011).
+Estados pequenos têm melhor desempenho:
+uma longa tradição em pesquisas sobre a governança das
+cidades-estados. Parece que o que interpretamos como sistemas políticos pode advir do tamanho. Evidências em Easterly e Kraay (2000).
+A era da fragilidade crescente:
+Zajdenwebber, ver a discussão em
+A lógica do Cisne Negro
+. Números revistos recentemente em “Counting the Cost of Calamities”,
+The Economist
+, 14 jan. 2012.
+Efeito de convexidade sobre a média:
+Jensen (1906), Van Zwet (1966). Enquanto Jensen lida com funções monótonas, Van Zwet lida com combinações côncavo-convexas e outras mesclas — mas elas continuam sendo simples não linearidades. Taleb e Douady (2012) aplicam isso a todas as formas de não linearidades locais.
+Registro empírico das maiores:
+fusões e hipótese do húbris: em Roll (1986); desde então, Cartwright e Schoenberg (2006).
+Dívida na história antiga:
+jubileus babilônicos, Hudson et al
+.
+(2002). Atenas, Harrison (1998), Finley (1953). História da dívida, Barty-King (1997), Muldrew (1993), Glaeser (2001). Este último tem uma perspectiva anarquista. Ele realmente acredita que o endividamento precede o escambo.
+Redes alimentícias
+:
+Dunne et al
+.
+(2002), Perchey e Dunne (2012), Valdovinos e Ramos-Jiliberto (2010). Fragilidade e recursos, Nasr (2008, 2009).
+Fannie Mae:
+eles eram côncavos de uma ponta à outra, em todas as variáveis significativas. Algum sujeito,
+incapaz de entender probabilidades e não linearidades e integrante da comissão Obama incumbida de investigar a causa da crise, espalhou o rumor de que apenas eu detectei o risco da taxa de juros da Fannie Mae: isso não é verdade.
+Custos de execução:
+o “impacto do preço”, isto é, os custos de execução, aumenta com o tamanho; tende a seguir a raiz quadrada, ou seja, o preço total é convexo e cresce ao expoente de 3/2 (o que significa que os custos são côncavos). Mas o problema é que, em casos de grandes desvios, como o da Société Générale, é muito pior; os custos de transação se aceleram, e de forma cada vez menos precisa — todos os artigos sobre o impacto dos preços, obra da nova tradição de pesquisadores, são insignificantes quando precisamos deles. Vale destacar que Bent Flyvbjerg constatou um efeito semelhante, mas um pouco menos côncavo em sua totalidade, em pontes e túneis, com custos proporcionais aumentando de tamanho em 10
+Log
+[
+x
+].
+A beleza está nas pequenas coisas, um enfoque técnico:
+para explicar como as cidades-estados, as pequenas empresas etc. são mais robustas a eventos prejudiciais, considere que
+X
+, uma variável aleatória para a “exposição involuntária”, é a fonte de incerteza (para a Société Générale, foi a posição que ela não viu; para uma corporação, pode ser uma necessidade emergencial de algum inventário etc.). Suponha que o tamanho desse dano contingencial seja proporcional à dimensão da unidade — uma vez que as entidades menores realizam operações de menor envergadura do que as maiores. Usamos, para a distribuição
+de probabilidade, a variável de todas as exposições involuntárias
+Σ
+X
+i
+, em que
+X
+i
+são variáveis aleatórias independentes, simplesmente dimensionadas como
+X
+i
+= X/N
+. Sendo
+k
+a amplitude da cauda e
+α
+o expoente da cauda, π(
+k
+,
+α
+,
+X
+) =
+α
+k
+α
+x
+–1–
+α. A distribuição convoluta de Pareto de N– para a posição total involuntária
+N
+Σ
+X
+i
+: π
+(
+k/N,
+α
+,
+X
+)
+N
+, em que
+N
+é o número de convoluções para a distribuição. A média da distribuição, invariante no que diz respeito a N, é
+α
+k/
+α
+–1
+).
+Perdas com os apertos financeiros e a sobrecarga de custos:
+para a função de perda, considere
+C
+[
+X
+]
+= –b X
+β, em que os custos dos danos são uma função côncava de
+X
+. Note que, para pequenos desvios,
+β
+= 3/2
+, na microestrutura e na literatura sobre execuções.
+Distribuição de probabilidade resultante de danos:
+como estamos interessados na distribuição de
+y
+, fazemos uma transformação da variável estocástica. O dano
+y=C
+[
+X
+] tem como distribuição: π[
+C
+–1
+[
+x
+]]
+/C’
+[
+C
+–1
+[
+x
+]]. Considere que ele acompanha uma distribuição de Pareto com amplitude de cauda
+k
+β
+e expoente de cauda
+, que tem por média
+. Agora a soma: para a soma convoluta de entidades N, a distribuição assintótica torna-se:
+, com a média (devido à aditividade) como uma função das variáveis, que incluem
+N
+:
+. Se verificarmos a proporção de perdas esperadas nas caudas para
+N = 1
+a
+N = 10
+, a diferentes valores da proporção de
+β
+sobre
+α
+, a razão entre o esperado para uma unidade sobre dez unidades
+revela o efeito “a beleza
+está nas pequenas coisas” entre diferentes níveis de concavidade.
+LIVRO VI:
+VIA NEGATIVA
+Conhecimento subtrativo
+Mapas:
+Um leitor, Jean-Louis, cartógrafo, me escreveu: “Como cartógrafo, aprendi, muito tempo atrás, que o segredo para uma boa elaboração de mapas é, precisamente, a informação que você opta por deixar de fora. Fiz inúmeros clientes perceberem que se um mapa é por demais literal e exato, confunde as pessoas”.
+Imã Ali:
+Nahj-el-Balagha, Carta. 31.
+O deus mosaico não é antifrágil
+:
+pois Deus — o Deus de Abraão e de Moisés (dos judeus, dos cristãos e dos muçulmanos) — é a representação da robustez e infalibilidade totais. Note que, ao contrário das impressões iniciais, a essência da perfeição é a robustez, não a antifragilidade. Recebi muitas mensagens sugerindo que o Deus (levantino) deveria ser colocado na categoria antifrágil. Isso seria um grave erro, segundo as religiões mediterrâneas orientais. A antifragilidade para uma divindade pode ser aplicada às mitologias babilônica, grega, síria e egípcia. Mas a teologia monoteísta levantina, desde o antigo El (ou Al) semita até o moderno Alá, ou, em menor medida, o que as pessoas chamam de “Senhor” no Cinturão Bíblico dos Estados Unidos, do Gênesis ao Alcorão, evoluiu para uma definição de um Deus cada vez mais abstrato — portanto, mais próximo da definição de pura robustez.
+O Deus monoteísta certamente não é frágil; mas não é antifrágil. Por definição, graças à sua qualidade abstrata no máximo grau possível, ele é aquilo que não pode ser aprimorado, o que é a verdadeira propriedade da perfeição — somente os mortais imperfeitos podem ser aprimorados — consequentemente, precisam da antifragilidade para tentar evoluir. No Alcorão, uma das propriedades de Deus é
+Smd
+, palavra que não tem sinônimo nem mesmo em árabe, e por isso não pode ser traduzida; o seu significado só pode ser transmitido pela repetição de descrições parciais.
+Smd
+é o que chegou a tamanho grau de perfeição que não depende das circunstâncias externas, de nada nem de ninguém; um baluarte contra todos os tipos de ataque; Ele transcende a noção de tempo. A ideia também está presente em outros sistemas levantinos. A teologia ortodoxa, por meio da
+theosis
+(teose), procura a fusão com Deus, a aspiração a um nível de completude, por conseguinte a independência em relação a qualquer outra coisa.
+Interditos na religião
+:
+Fourest e Venner (2010) apresentam uma lista em todas as crenças religiosas.
+Steve Jobs:
+Beahm (2011).
+Gladwell:
+“Se você somasse todas as contas de hospital durante os dez anos em que ele tinha estado nas ruas — assim como os custos de tratamento por abuso de substâncias, honorários médicos e outras despesas —, Murray Barr, provavelmente, teria acumulado despesas médicas tão altas quanto a de qualquer outra pessoa no estado de Nevada. ‘Custou-nos 1 milhão de dólares
+não fazer nada a respeito de Murray’, disse O’Bryan”. Gladwell (2009).
+Falsificação e problemas de indução
+:
+Ver referências em
+A lógica do Cisne Negro
+.
+Tabagismo e efeito médico global:
+Burch (2009).
+Fractalidade
+:
+Mandelbrot (1983).
+O impacto do antigo, segundo Edgerton
+: Edgerton (2007).
+Menos é mais na Teoria da Decisão
+Simplicidade e Steve Jobs:
+“Esse tem sido um dos meus mantras — foco e simplicidade. O simples pode ser mais difícil do que o complexo: você tem que trabalhar com afinco para clarear seu pensamento e torná-lo simples. Mas no fim vale a pena, porque, quando você chega lá, consegue mover montanhas.”
+BusinessWeek
+, 25 maio 1998.
+Heurísticas como poderosos — e necessários — atalhos
+: Gigerenzer e Brighton (2009) destruíram a seguinte lenda, tal como apresentado em
+O gene egoísta
+, de Richard Dawkins, no qual encontramos um trecho, sobre como um jogador de beisebol pega a bola: “[H] se comporta como se tivesse solucionado um conjunto de equações diferenciais para prever a trajetória da bola […]. Em algum nível subconsciente, algo funcionalmente equivalente a cálculos matemáticos está acontecendo”.
+Não é bem assim, professor Dawkins. Gerd Gigerenzer et al. apresentam um contra-argumento, afirmando que nada disso acontece. Eles escrevem o seguinte:
+Em vez disso, experimentos demonstraram que os jogadores se fiam em várias heurísticas. A heurística do olhar fixo é a mais simples e funciona se a bola já estiver em pleno ar: fixe seu olhar na bola, comece a correr e ajuste sua velocidade de corrida de modo que o ângulo do olhar permaneça constante. Um jogador que se fia na heurística do olhar pode ignorar todas as variáveis causais necessárias para calcular a trajetória da bola — a distância inicial, a velocidade, o ângulo, a resistência do ar, a velocidade e a direção do vento, a rotação, entre outras. Ao prestar atenção em uma única variável, o jogador acabará no mesmo local que a bola, sem computar o ponto exato.
+A mesma heurística é utilizada também por espécies animais para capturar presas e interceptar potenciais parceiros de acasalamento. Na perseguição e na predação, morcegos, pássaros e libélulas mantêm um ângulo ótico constante entre si e suas presas, assim como fazem os cães quando agarram um
+frisbee
+.
+Exemplos adicionais:
+Para escolher um parceiro de acasalamento, a pavoa usa uma heurística: em vez de analisar todos os pavões machos que desfilam exibindo a cauda, ávidos para chamar a atenção da fêmea, ou de avaliar e analisar as características de todos os machos para calcular aquele com a maior utilidade esperada, ela examina apenas três ou quatro e escolhe aquele com o maior número de penas adornadas.
+Assim como acontece com seres humanos. Outro exemplo:
+Para medir a área da cavidade de um ninho, uma fenda estreita na rocha, a formiga não usa nenhum instrumento de avaliação, mas uma regra geral: percorre uma trilha irregular por um período fixo de tempo, despejando um rastro de feromônio, depois vai embora. Retorna, percorre uma rota irregular diferente e faz uma estimativa do tamanho da cavidade pela frequência com que encontra a trilha anterior. Essa heurística é extraordinariamente precisa.
+Outros:
+Czerlinski e Gigerenzer et al
+.
+(1999), Goldstein e Gigerenzer (1999), Gigerenzer (2008).
+Makridakis, prognóstico e menos é mais:
+Makridakis et al
+.
+(1982, 1993), Makridakis e Hibon (2000), e Makridakis e Taleb (2009).
+Heurística para mensuração de riscos:
+Taleb, Canetti et al. (2012) — com a equipe do
+FMI.
+Efeitos Lindy e tópicos associados
+O efeito Lindy foi demonstrado em Mandelbrot (1997). De início, ele o usou para a produção artística, limitada pela vida de seu produtor. Em nossas conversas mais para o fim de sua vida, sugeri a fronteira perecível/não perecível, e ele concordou que o não perecível seria a lei de potência distribuída, ao passo que o perecível (a hipótese inicial de Lindy) funcionaria como uma simples metáfora. Dependendo das condições estabelecidas para o conhecimento da idade inicial, o tempo de vida restante exponencial permanece constante, independentemente da condição futura, pois a lei de potência aumenta com o tempo desde a origem, por um fator de (
+α
+/1–
+α
+), em que
+α
+é o
+expoente da cauda; no caso de distribuição gaussiana ou semigaussiana, o tempo de vida diminui.
+Gott:
+Gott (1993, 1994) apresentou a ideia de Copérnico, mas não estipulou corretamente a probabilidade; corrigida em Caves (2000). Ver a discussão em Rees (2003), e um tratamento do paradoxo em Bostrom (2002).
+Artigos sobre sobrevivência e propriedades distributivas:
+invariavelmente as leis de potência são confundidas com distribuições exponenciais, devido à falta de dados nas caudas. Assim, a priori, presumo que uma exponencial, provavelmente, será uma lei de potência, mas não o contrário, uma vez que o erro na direção oposta é muito menos provável. Pigolotti et al
+.
+(2005). Para impérios, Arbesman (2011), Khmaladze et al. (2007, 2010), Taagepera (1978, 1979). Para empresas: Fujiwara. Ver também Turchin (2003, 2009).
+Tempo de sobrevivência esperado condicional ao longo das distribuições:
+Sornette e Knopoff (1997). Eles mostram como, paradoxalmente, quanto mais tempo se espera por um terremoto, mais tempo será necessário esperar.
+Outras neomanias
+Le Corbusier:
+Christopher Caldwell, “Revolting High Rises” ,
+The New York Times
+, 27 nov. 2005.
+Cairns e as mensurações antigas:
+Cairns (2007). Quem chamou minha atenção para sua obra foi Yoav
+Brand, que, gentilmente, me ofereceu seu livro após uma palestra.
+Projeto arquitetônico não teleológico:
+como os edifícios passam por transformações e mudanças, Brand (1995).
+O cachorro:
+Magna moralia
+, ii. 11, 1208 b 11. “E diz ele que um cachorro estava acostumado a dormir sempre no mesmo ladrilho, e, quando perguntaram a Empédocles por que o cachorro dormia sempre no mesmo ladrilho, respondeu ele que o cão tinha alguma semelhança com o ladrilho, de modo que a semelhança era a razão para que o animal ali dormisse com frequência”.
+Discussões gerais e filosóficas da medicina
+Medicina soror philosophiae:
+para histórias reflexivas sobre medicina, Mudry (2006), Pigeaud (2006); para discussão sobre iatrogenia, Camguillem (1995). Para o espírito, Pager (1996), Bates (1995).
+Medicina islâmica:
+Porman e Savage-Smith (2007), Djebbar (2001).
+De motu animali e tentativas de matematizar a medicina:
+Em Wear (1995). Permita-me reiterar: a matemática é uma coisa boa, a matemática errada não é uma coisa boa.
+Medicina antiga
+:
+Edelstein (1987), Lonrig (1998).
+Ancient Medicine
+, de Vivian Nutton (Nutton [2004]) é um livro informativo, mas quase não menciona os
+empiristas e não é muito detalhado sobre as práticas antigas, exceto por alguns tratados padronizados. Mais sobre medicina (céticos e metodistas) no monumental Zeller (1905), ou, ainda melhor, no soberbo
+Les Sceptiques Grecs
+, de Brochard.
+Laranjas:
+como são chamadas no grego moderno,
+portokali
+, uma corruptela de “português” — modificado ainda mais no árabe levantino para
+burduqan
+, e presente, com esse nome, no dialeto siciliano.
+Heurísticas médicas:
+Palmieri (2003).
+Idade Média e Renascimento:
+French (2003).
+História geral:
+Conrad et al. (1995), Porter (2002, 2003), Meslin et al. (2006), Kennedy (2004).
+Iatrogenia:
+Sharpe e Faden (1998), mais completo; Illich (1995), o primeiro movimento; Hadler (2009) para o respaldo; Duffin (1999), Welsh et al. (2011) sobre a superestimação diagnóstica (embora sem nenhum argumento sobre o ruído/sinal e a filtragem), Lebrun (1995).
+Agência e iatrogenia:
+apenas um exemplo aleatório: “Surgeons Do More Operations If They’re On Board of Surgery Centers”, “The Daily Stat”,
+Harvard Business Review
+, 22 jun. 2012.
+Perspectiva histórica mais divertida sobre a iatrogenia:
+Gustave Jules A. Witkowski, 1889,
+Le mal qu’on a dit des médecins
+.
+Racionalismo/Galenismo:
+Garicia-Ballester (1995).
+Montaigne
+:
+“
+Mais ils ont cet heur, selon Nicocles, que le soleil esclaire leur succez, et la terre cache leur faute; et, outre-cela, ils ont une façon bien avantageuse de se servir de toutes sortes d’evenemens, car ce que la fortune, ce que la nature, ou quelque autre cause estrangere
+(
+desquelles le nombre est infini
+)
+produit en nous de bon et de salutaire, c’est le privilege de la medecine de se l’attribuer. Tous les heureux succez qui arrivent au patient qui est soubs son regime, c’est d’elle qu’il les tient. Les occasions qui m’ont guery, moy, et qui guerissent mille autres qui n’appellent point les medecins à leurs secours, ils les usurpent en leurs subjects; et, quant aux mauvais accidents, ou ils les desavouent tout à fait, en attribuant la coulpe au patient par des raisons si vaines qu’ils n’ont garde de faillir d’en trouver tousjours assez bon nombre de telles…”
+[Note a detecção do problema de atribuição.]
+On demandoit à un Lacedemonien qui l’avoit fait vivre sain si long temps: L’ignorance de la medecine, respondit il.
+Et Adrian l’Empereur crioit sans cesse, en mourant, que la presse des medecins l’avoit tué
+.
+Medicina alternativa moderna:
+Singh e Edzard (2008) — eles ariscaram a própria pele, pois sofreram um processo judicial por isso.
+Homeopatia e evidências empíricas:
+Goldacre (2007). Ver também o altamente recomendável
+Bad Science
+, Goldacre (2009).
+Medicina moderna baseada em evidências:
+manual em Sacket et al
+.
+(1998). Falhas dos métodos racionalistas, Silverman (1999), Gauch (2009), Sestini e Irving (2009).
+Aplicação de gelo:
+Collins (2008): “São insuficientes as evidências a sugerir que a crioterapia resulte em melhores resultados clínicos no tratamento de lesões de tecidos moles”. Não consegui encontrar artigos afirmando o oposto. Os benefícios oferecidos parecem ser tão insignificantes que nem sequer têm graça.
+Convexidade da pressão arterial:
+números de Welch et al
+.
+(2011).
+A desigualdade de Jensen e os ventiladores pulmonares
+:
+Brewster et al
+.
+(2005), Graham et al
+.
+(2005), Mutch et al
+.
+(2007).
+Paracelso:
+personagem interessante como figura rebelde; infelizmente, parece ter sido usurpado pelos defensores da homeopatia, como Coulter (2000). Biografias em Ball (2006), Bechtel (1970), Alendy (1937).
+Imortalização
+:
+Gray (2011).
+Stendhal
+:
+Le rouge et le noir:
+“
+La besogne de cette journée sera longue et rude, fortifions-nous par un premier déjeuner; le second viendra à dix heures pendant la grand’messe.
+” Chapitre
+XXVIII.
+Tópicos médicos específicos
+Note que a preocupação deste autor não são as evidências, mas sim a ausência delas, e como os pesquisadores lidam com esse problema. O foco está na detecção de convexidades negligenciadas.
+Eficácia dos adoçantes de baixa caloria
+:
+é possível obter informações examinando estudos realizados por defensores com interesses pessoais envolvidos. De la Hunty et al
+.
+(2006) mostram, com uma
+meta-análise
+, as “vantagens” do aspartame, mas tendo como foco o método de entrada e saída de calorias, e não os ganhos de peso global. No entanto, uma leitura atenta revela que a questão central é negligenciada: “Ocorre algum nível de compensação pela energia substituída, mas isso equivale a, no máximo, um terço da energia reposta, e
+provavelmente
+[grifo meu] é menor do que quando há consumo de refrigerantes adoçados com aspartame. Todavia, esses valores de compensação são resultado de estudos de curto prazo”. O artigo foi obviamente financiado por um fabricante de aspartame. Um estudo melhor, Anderson et al
+.
+(2012), apesar de maculado por um conflito de interesses (o apoio financeiro que os autores receberam de empresas alimentícias), conclui: “Não há evidências que permitam afirmar que os adoçantes de baixa caloria [
+LCS
+, na sigla em inglês] sejam causadores de maior peso corporal em adultos. Da mesma forma, faltam evidências que comprovem um papel significativo no controle de peso”. A última frase é a única que me chama a atenção, pelo fato de ser uma evidência “contrária aos próprios interesses”.
+Se houvesse benefícios, já teríamos conhecimento deles. Em outras palavras, estamos incorrendo, desde 2012, na iatrogenia desses doces sem calorias, e nem sequer temos evidências de que eles funcionem!
+Mitridatização e hormese:
+em Pliny, Kaiser (2003), Rattan (2008), Calabrese e Baldwin (2002, 2003a, 2003b). Note que eles deixam passar despercebidos o argumento da convexidade e a noção sobre o desvio da norma — a hormese pode ser apenas o restabelecimento da normalidade.
+Jejum e hormese
+:
+Martin, Mattson et al
+.
+(2006). O tratamento do câncer e o jejum, Longo et al
+.
+(2008), Safdie et al
+.
+(2009), Raffaghelo et al
+.
+(2010); sobre a levedura e a longevidade sob restrição, Fabrizio et al
+.
+(2001);
+SIRT1
+, Longo et al
+.
+(2006), Michan et al
+.
+(2010); trabalho de revisão em Blagosklonny et al
+.
+(2010).
+Definição de hormese:
+Mattson (2008) para definição local, Danchin et al. (2011) para um enfoque mais complexo e sistêmico.
+Envelhecimento, longevidade e hormese:
+uma pesquisa extremamente valiosa; Radak et al
+.
+(2005), Rattan (2008), Cypster e Johnson (2002) para os
+C. elegans
+; Gems e Partridge (2008), Haylick (2001), Masoro (1998), Parsons (2000); para a inflamação e a doença de Alzheimer, Finch et al. (2001).
+Densidade óssea e carga:
+Dook (1997) para o sexo feminino, Andreoli et al. (2001) para atletas de modo geral; Scott, Khan et al. (2008) para exercícios de modo geral. Envelhecimento nas mulheres: Solomon
+(1997), Rautava et al
+.
+(2007); Conroy et al. (1993) para mulheres jovens.
+Densidade óssea e andar de bicicleta:
+Nichols et al
+.
+(2003), Barry et al
+.
+(2008).
+Densidade óssea e levantamento de pesos ao estilo olímpico:
+alguns estudos sobre “levantamento de pesos” confundem o exercício de resistência em aparelhos de academias de musculação com o verdadeiro halterofilismo naturalista, que exerce pressão sobre o esqueleto. O estudo de Conroy et al
+.
+(1993) é mais ecologicamente robusto, porque os autores concentram-se no peso.
+Tireoide:
+Earle (1975).
+Colesterol:
+uma perspectiva sem ingenuidade, Scanu e Edelstein (2008).
+Lewontin e a expectativa de vida:
+Lewontin (1993). Tive a ideia de inconfiabilidade potencial a partir da estimativa de Lewontin e fui direcionado aos dados do Centro de Controle e Prevenção de Doenças [
+CDC
+, na sigla em inglês] a partir de algum artigo on-line, de cujo endereço não me recordo.
+Vida ao ar livre, não prática de esportes:
+Rose et al
+.
+(2008). Períodos mais longos de tempo total ao ar livre, em vez da prática de esportes propriamente dita, foram associados a menos miopia e a uma média de refração mais hipermetrópica, após ajustes para o trabalho próximo, a miopia parental e a etnia.
+Estudos sobre “neuropalavrório”, “pornografia cerebral”:
+Weisberg (2008), McCabe (2008), e também “a neurociência e a lei”, relatório da Real Society inglesa. Note que o escritor Jonah Lehrer usou a pornografia cerebral de forma bastante eficaz, construindo uma narrativa por meio do uso de uma história cerebral desconexa, levando ao máximo a falácia discursiva — até ser flagrado criando tanto a narrativa quanto os dados para corroborá-la.
+A pressão sobre os dentistas para gerar receitas:
+Sydney P. Freedberg , “Dental Abuse Driven by Private Equity Investments”,
+Bloomberg News
+, 17 maio 2012.
+Significância:
+para dizer de forma simples e sem rodeios: as pessoas que atuam nas ciências sociais não deveriam usar estatísticas, da mesma forma que um contador não deveria manejar um bisturi cirúrgico. O problema da incompreensão da significância afeta os profissionais. Ver McCloskey e Ziliak (1996), Ziliak e McCloskey (2008), Soyer e Hogarth (2011), Kahneman e Tversky (1971), Taleb e Goldstein (2012).
+Profissionais com atuação prática e teóricos de matemática financeira que não conseguem compreender uma noção elementar de estatística, apesar de toda a badalação
+:
+Evidências em Taleb e Goldstein (2007).
+Negligenciando as não linearidades da resposta à dose:
+O caso da radiação é bastante ostensivo, Neumaier et al
+.
+(2012). “O modelo-padrão atualmente em uso aplica uma escala linear, extrapolando o risco de câncer das altas doses às baixas doses de
+radiação ionizante. Contudo, a nossa descoberta de aglomerados de
+DSB
+s (quebras duplas na cadeia de
+DNA
+) em regiões tão distantes lança consideráveis dúvidas sobre o pressuposto geral de que o risco da radiação ionizante é proporcional à dose e, em vez disso, propicia um mecanismo que poderia examinar de forma mais precisa o risco da dependência da dose da radiação ionizante.” A hormese da radiação é a ideia de que baixas doses de radiação provocam uma reação hormética desmedida com efeitos protetivos. Ver também Aurengo (2005).
+Estatinas e convexidade:
+por exemplo, no caso de medicamentos com estatinas rotineiramente prescritos para reduzir os lipídios do sangue, embora o resultado seja estatisticamente significativo para determinada classe de pessoas, o efeito é pequeno. “Os homens de alto risco, com idades entre trinta e 69 anos, deveriam ser alertados de que cerca de cinquenta pacientes precisam ser tratados ao longo de cinco anos para evitar um evento [cardiovascular]” (Abramson e Wright, 2007).
+Efeitos colaterais das estatinas e riscos (mais ou menos) ocultos:
+efeitos colaterais na forma de danos musculoesqueléticos ou apenas dores, Women, Speed et al
+.
+(2012). Avaliação geral, Hilton-Jones (2009), Hu Chung et al
+.
+(2012). Roberts (2012) mostra outro aspecto da convexidade de benefícios, daí danos em casos pouco relevantes. Fernandez et al
+.
+(2011) mostram em que pontos os testes clínicos não refletem riscos de miopatia. Blaha et al
+.
+(2012) apresentam “riscos aumentados para pacientes saudáveis”. Além
+disso, Reedberg e Katz (2012); Hamazaki et al
+.
+: “O efeito absoluto das estatinas nas taxas de mortalidade por todas as causas é bastante pequeno, se não inexistente”. Harlan Krumholz,
+Forbes
+, 29 abr. 2011:
+O problema é que os fármacos que melhoram os resultados dos exames de sangue podem não diminuir os riscos. Por exemplo, contrariando todas as expectativas, muitos medicamentos que reduzem o
+LDL
+, ou elevam o
+HDL
+, ou reduzem o açúcar no sangue ou a pressão arterial, não diminuem os riscos — em alguns casos, até chegando a elevá-los.
+Isso se mostra ainda mais verdadeiro quando se levam em conta as opções de tratamento para prevenir um evento futuro, por exemplo um ataque cardíaco. Infelizmente, com relação a muitos fármacos que afetam os fatores de risco, estudos que investigam a existência de benefícios para os pacientes não são realizados, ou são protelados. É o caso do ezetimibe, um agente da farmacêutica Merck que reduz o
+LDL
+. Uma vez que o estudo que incluirá informações sobre os efeitos nos pacientes só será concluído quando o ezetimibe perder a patente, ainda passaremos alguns anos sem saber de que maneira ele afeta efetivamente os riscos. A aprovação e as vendas desse fármaco de bilhões de dólares basearam-se exclusivamente em seus efeitos sobre um exame de sangue.
+Quanto aos fibratos, contudo, temos mais sorte. Existem estudos sobre os efeitos causados nos pacientes, e o fenofibrato, um medicamento do laboratório Abbott, foi testado duas vezes em estudos de grande porte. Em ambos, o fármaco não foi capaz de reduzir os riscos dos pacientes que o ingeriram, embora tenha sido bastante eficaz na diminuição dos níveis de triglicerídios. Mais recentemente, um teste realizado pelo Instituto Nacional de Saúde, ao custo de de 300 milhões de dólares, não comprovou nenhum benefício do fármaco do Abbott quando combinado com uma estatina — isso somado a um dano sugerido para as mulheres. A primeira preocupação foi suficientemente alta para convencer a
+FDA
+a convocar uma comissão consultiva incumbida de rever os resultados.
+Costas:
+McGill (2007); cirurgia iatrogênica ou epidural, Hadler (2009), Sayre (2010).
+Greves de
+médicos:
+houve alguns episódios de greves de hospitais que levaram ao cancelamento de cirurgias eletivas, mas não de serviços relacionados à emergência. Os dados não são amplos, mas podem nos propiciar um perspicaz descortino se interpretados pelo modo da
+via negativa
+. Extraindo resultados da cirurgia eletiva, Argeseanu et al
+.
+(2008). Ver também Allebeck (1985), Gruber and Kleiner (2010), Siegel-Itzkovich (2000).
+Diabetes e tratamentos farmacológicos (estudo Accord):
+O estudo Accord
+[
+sigla em inglês para Ação para Controlar o Risco Cardiovascular em Diabetes] não encontrou benefício algum com a redução de glicose no sangue, ou outras métricas — talvez seja mais opaca do que um simples problema de glicose sanado por meios farmacológicos. Síntese, Skyler et al
+.
+(2009); métodos antigos, Westman e Vernon (2008).
+Discussões sobre diabetes e dieta:
+Taylor (2008), reversão da doença em Lim et al. (2011), Boucher et al
+.
+(2004), Shimakuru et al. (2010); controle do diabetes apenas por meio da dieta, primeiros dados relevadores em Wilson et al
+.
+(1980). Couzin, “Deaths in Diabetes Trial Challenge a Long-held Theory”,
+Science
+, n. 15, fev. 2008, pp. 884-5. Reversão do diabetes e cirurgia bariátrica (ou outras): Pories (1995), Guidone et al. (2006), Rubino et al
+.
+2006.
+Autofagia para o câncer:
+Kondo et al. (2005).
+Autofagia (geral):
+Danchin et al. (2011), Congcong et al. (2012).
+Desigualdade de Jensen na medicina e nos exercícios físicos:
+muitos, a exemplo de Schnohr e Marott (2011), chegaram perto de lidar com o fato de que a prática intensa de corridas de grande velocidade em combinação com não fazer nada (como um
+barbell
+) superam em relação ao desempenho o exercício constante, mas a parte do viés de convexidade foi negligenciada.
+Art De Vany e a desigualdade de Jensen:
+Art De Vany, correspondência privada: “Os ganhos de tecido são crescentes, mas são convexos à ingestão de nutrientes (a curva é ascendente, mas a uma taxa decrescente). Isso deve explicar o fato de que o ponto de origem é a solução em estado estacionário. Isso implica que o ganho de peso, incluindo a gordura, é maior na ingestão média do que em uma ingestão variável das mesmas calorias e nutrientes. Músculo e gordura competem por substratos, de modo que uma pessoa mais gorda desviará para o músculo a divisão de nutrientes, porque a gordura corporal induz a resistência à insulina no interior do músculo. A insulina opera em uma liberação pulsátil e é muito mais eficaz com esse padrão do que com a elevação crônica induzida por seis refeições ao dia. No aspecto negativo, quando a pessoa perde gordura e músculo, a curva apresenta inclinação negativa, mas diminui a uma taxa cada vez menor (côncava). Isso significa que
+a pessoa perde mais gordura alimentando-se de modo intermitente do que de modo contínuo. A perda na ingestão média (com seis refeições ao dia, mantém-se baixa a variação da média) é menor do que a perda com a mesma ingestão, oscilante entre uma ingestão pequena e uma ingestão alta. Um ponto mais sutil: a pessoa perde mais peso quando come na média do que quando se alimenta de maneira intermitente, mas isso porque perde mais músculos na privação crônica do que na privação intermitente. Alimentar-se de modo intermitente resulta em uma composição corporal superior”.
+Inanição, jejum intermitente e envelhecimento:
+para a resistência neuronal e envelhecimento do cérebro, Anson, Guo et al
+.
+(2003), Mattson et al. (2005), Martin, Mattson et al. (2006), Halagappa, Guo et al. (2007), Stranahan e Mattson (2012).
+Restrição calórica:
+Harrison (1984), Wiendruch (1996), Pischon (2008).
+Exercícios intensos:
+síntese da literatura sobre o efeito do desequilíbrio energético episódico, em De Vany (2011), que também examina, como bônus, os efeitos da lei de potência.
+Negligenciando o fato de que comprimidos são mais especulativos:
+Stip (2010) se debruça sobre os métodos de
+via positiva
+para prolongar a vida, com complicadas histórias da indústria farmacêutica.
+Glicose e força de vontade:
+note o efeito da glicose tornando as pessoas mais atentas e aumentando a força
+de vontade, a partir dos experimentos de Baumeister, ver Kahneman (2011); talvez só seja aplicável a pessoas com problemas metabólicos. Ver Kurzban (2011) para uma análise das ferramentas estatísticas.
+Agrupamento de doenças causadas pela falta de aleatoriedade, conforme apresentado no Prólogo:
+Yaffe e Blackwell (2004), Razay e Wilcock (1994); Alzheimer e hiperinsulinemia, Luchsinger, Tang et al. (2004), Janson, Laedtke et al. (2004).
+A fome e o cérebro:
+Stranahan e Mattson (2012). Longeva crença de que o cérebro precisava de glicose, e não de cetonas, e de que o cérebro não passa pela autofagia, progressivamente corrigida.
+O Ramadã e o efeito do jejum
+:
+o Ramadã não é interessante porque as pessoas jejuam por cerca de apenas doze horas, dependendo da estação do ano (alguém que jejua do jantar até o almoço pode ficar dezessete horas sem comida, hábito que este autor pratica). Além disso, elas se empanturram de madrugada e abusam dos carboidratos — na minha experiência, com os doces de Trípoli (Líbano). Trabelsi et al. (2012), Akanji et al. (2012).
+Benefícios do estresse:
+para os diferentes efeitos dos dois tipos de estressores, agudos e crônicos, Dhabar (2009); para os benefícios do estresse no aumento da imunidade e de resistência ao câncer, Dhabhar et al. (2010), Dhabhar et al. (2012).
+Iatrogenia da higiene e eliminação sistemática de germes:
+Rook (2011), Garner et al. (2006), e Mégraud
+e Lamouliatte (1992) para a bactéria
+Helicobacter pylori
+(
+H. pylori
+).
+A turma paleolítica, De Vany, Gary Taubes e amigos:
+Taubes (2008, 2011), De Vany (2011); antropologia evolutiva, Carrera-Bastos et al. (2011), Kaplan et al. (2000).
+LIVRO VII: A ÉTICA DA FRAGILIDADE E DA ANTIFRAGILIDADE
+Discussões filosóficas modernas sobre o capitalismo:
+nenhum interesse em uma heurística tão simples quanto arriscar a própria pele, nem mesmo em discursos perspicazes como os de Cuillerai (2009).
+Coragem na história:
+Berns et al. (2010).
+Gladiadores
+:
+Veyne (1999).
+Esteira:
+Lucrécio,
+Nimirum quia non bene norat quae esset habendi/Finis, et omnino quoad crescat vera voluptas.
+Grupo e coletivo:
+Haidt (2012).
+Adam Smith sobre o capitalismo:
+“Uma palavra que ele nunca proferiu”: Simon Schama, comunicação privada.
+O perigoso relatório de Stiglitz et al.:
+Joseph E. Stiglitz, Jonathan M. Orszag, e Peter R. Orszag, “Implications of the New Fannie Mae and Fredie Mac Risk-based Capital Standard”,
+Fannie Mae Papers
+, 2 ed. v.
+I
+, mar. 2002.
+Meyer Lansky:
+atribuído a Ralph Salerno, investigador da máfia, aposentado pelo Departamento de Polícia de Nova York (
+NYPD
+), em Ferrante (2011).
+Atividades inescrupulosas da indústria farmacêutica, que procura pacientes em vez de tratamentos:
+histórias de corrupção direta e indireta, em particular na área psiquiátrica. Um professor de psiquiatria da Harvard Medical School [Faculdade de Medicina da Universidade Harvard] recebeu 1,6 milhão de dólares da indústria farmacêutica. “Graças a ele, agora crianças a partir de dois anos de idade estão sendo diagnosticadas com transtorno bipolar…” Marcia Angell,
+The New York Review of Books
+. Ex-editora do periódico
+New England Journal of Medicine
+, Angell tem desconfiança de um grande número de estudos clínicos. Além disso, sobre como o dinheiro não é gasto em pesquisa especulativa, mas em apostas “seguras”, com medicamentos regulares, Light e Lexchin (2012).
+Estudos contraditórios:
+Kahneman chamou minha atenção para estudos como os de Malmendier e Tate (2008, 2009), mostrando gestores que investem mais do que o necessário em suas empresas, daí que arriscam a própria pele em excesso como resultado do excesso de confiança. Myron Scholes e Robert Merton tinham dinheiro investido no [
+fundo de investimentos
+] Long-Term Capital Management (
+LTCM
+). De fato — mas de modo geral a livre opção domina (é só mensurar o salário total dos gestores em comparação com os rendimentos dos acionistas). Há “iludidos pelo acaso” e “trapaceiros do acaso”; não raro, observamos combinações dos dois (Crédito: Nicolas Tabardel).
+Assimetrias e ações extrativas:
+Acemoglu e Robinson (2012) discutem uma assimetria com sua noção de instituições econômicas extrativas e ambiente, em que alguém fica rico à custa de outra pessoa, o oposto da estrutura colaborativa convexa, em que a riqueza de alguém leva a um todo complementar. Papel das instituições, North (1990).
+Esquerda caviar e o problema de Burnyeat:
+Riffard (2004), Burnyeat (1984), Wai-Hung (2002).
+Cegueira coletiva e difusão de responsabilidades:
+no domínio dos animais (formigas), Deneubourg, Goss et al. (1983), Deneubourg, Pasteels et al. (1983).
+Vida e socialização em Roma:
+Veyne (2001).
+Elefante na sala:
+coisas que todo mundo sabe, mas ninguém discute. Zerubavel (2006).
+Mortalidade das grandes empresas:
+mais alta do que o esperado, Greenwood e Suddaby (2006), comentários em Stubbart e Knight (2006). O melhor teste é pegar os índices S&P 100 e o S&P 500
+2
+e observar a sua composição ao longo do tempo. O outro, é claro, está na literatura sobre fusões.
+Cascatas de informação:
+o mecanismo pelo qual a multidão exacerba falácias, ilusões e boatos; para uma síntese, Sunstein (2009).
+O problema de Alan Blinder
+:
+artigo do
+Wall Street Journal
+com um conflito de interesses não revelado: “Blanket Deposit Insurance Is a Bad Idea”, 15 out.
+2008, em coautoria com R. Glenn Hubbard, decano da Columbia University Business School [Faculdade de Economia da Universidade Columbia].
+Desempenho comparativo das empresas familiares:
+McConaughy e Fialco (2001), Le Breton-Miller e Miller (2006), Mackie (2001).
+Arriscar a própria pele:
+Taleb e Martin (2012a).
+Mineração de dados, o big data e a opção do pesquisador etc.
+Incompreensão na literatura das ciências sociais:
+erro típico, a julgar pelo fato de que o problema é ignorado pelos divulgadores hiperativos da ideia, como Ayres (2007): “Quer ter um hedge sobre uma grande compra de euros? Você deve vender um portfólio de investimentos cuidadosamente equilibrado, com outras 26 ações e commodities, o que pode incluir ações do Wal-Mart”, p. 11.
+Cruzada de Stan Young:
+Young e Carr (2011). Também Ioannides (2005, 2007).
+Comprometimento doxástico:
+Levi (1980).
+Sal:
+estudo muito convincente de Freedman e Petitti (2001) baseia-se na visualização de dados, mais do que em métricas. Note que “nenhum dos autores presta consultoria para a indústria do sal”, algo que li
+primeiro
+.
+Gráficos com o
+big data:
+pela simulação de Monte Carlo; usando >0,1 ou além das correlações que são adoradas pelas ciências sociais (analiticamente, é difícil fazer a análise, por causa da necessidade de que as grandes matrizes permanecessem positivas-definidas). A convexidade é invariável ao limite da correlação.
+Solução para o viés do pesquisador em experimentos clínicos:
+Goldacre (2009) sugere a implantação de um banco de dados de experimentos, obrigando os pesquisadores a registrar suas falhas. Qualquer coisa é melhor do que o que temos.
+O coletivo e a fragilidade:
+o poder do coletivo assenta-se sobre os benefícios da eficiência, daí a fragilidade: as pessoas começam a substituir o julgamento coletivo pelo julgamento individual. Isso funciona bem — é mais rápido e mais barato (portanto, mais
+eficiente
+) do que ter de reinventar a roda individualmente. Mas, como todo atalho, acaba explodindo na nossa cara. No mundo em que vivemos, os efeitos são compostos. A escala é cada vez maior; o coletivo é planetário.
+Jobs e a ética dos artesãos:
+isto me preocupa. “
+Playboy
+: ‘O senhor está dizendo que as pessoas que criaram o
+PC
+jr não têm tanto orgulho do produto?’. Jobs: ‘Se tivessem, não teriam criado o
+PC
+jr.’”
+Playboy
+[sic], 1º fev. 1985.
+Refutando a hipótese do desconto hiperbólico
+: Read e Airoldi (2012).
+Outras discussões sobre o
+big data e pesquisadores que manipulam o sistema:
+Baumeister et al. (2007) sobre os autorrelatos em psicologia. Kerr (1998) sobre a hipótese de acompanhar os resultados, e post hoc [
+falácia lógica da correlação coincidente
+], em Yauan e Maxwell; Yarkoni, sobre o problema do alto
+M
+(dimensão) e do baixo
+N
+(dados).
+1
+. Fundada por Ray Dalio em 1975, a Bridgewater-Associates é tida como a maior gestora de fundos especulativos do mundo. Os preceitos de Dalio foram compilados no livro
+Principles: Life and Work
+[Ed. bras.:
+Princípios: Vida e trabalho
+. Rio de Janeiro: Intrínseca, 2018]. (N. T.)
+2
+. Mantidos pela agência de riscos Standard & Poor’s, os índices S&P 100 e S&P 500 medem o desempenho das empresas de maior capitalização no mercado de ações norte-americano. (N. T.)

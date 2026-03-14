@@ -1,0 +1,44 @@
+# The Continuum of Data Engineering Roles, from A to B
+
+Paginas: 46-46
+
+Are we saying that SQL is a be-all and end-all language? Not at all. SQL is a powerful
+tool that can quickly solve complex analytics and data transformation problems.
+Given that time is a primary constraint for data engineering team throughput, engi‐
+neers should embrace tools that combine simplicity and high productivity. Data
+engineers also do well to develop expertise in composing SQL with other operations,
+either within frameworks such as Spark and Flink or by using orchestration to
+combine multiple tools. Data engineers should also learn modern SQL semantics for
+dealing with JavaScript Object Notation (JSON) parsing and nested data and consider
+leveraging a SQL management framework such as dbt (Data Build Tool).
+A proficient data engineer also recognizes when SQL is not the right tool for the job
+and can choose and code in a suitable alternative. A SQL expert could likely write a
+query to stem and tokenize raw text in a natural language processing (NLP) pipeline
+but would also recognize that coding in native Spark is a far superior alternative to
+this masochistic exercise.
+Data engineers may also need to develop proficiency in secondary programming
+languages, including R, JavaScript, Go, Rust, C/C++, C#, and Julia. Developing
+in these languages is often necessary when popular across the company or used
+with domain-specific data tools. For instance, JavaScript has proven popular as a
+language for user-defined functions in cloud data warehouses. At the same time, C#
+and PowerShell are essential in companies that leverage Azure and the Microsoft
+ecosystem.
+Keeping Pace in a Fast-Moving Field
+Once a new technology rolls over you, if you’re not part of the steamroller, you’re
+part of the road.
+—Stewart Brand
+How do you keep your skills sharp in a rapidly changing field like data engineering?
+Should you focus on the latest tools or deep dive into fundamentals? Here’s our
+advice: focus on the fundamentals to understand what’s not going to change; pay
+attention to ongoing developments to know where the field is going. New paradigms
+and practices are introduced all the time, and it’s incumbent on you to stay current.
+Strive to understand how new technologies will be helpful in the lifecycle.
+The Continuum of Data Engineering Roles, from A to B
+Although job descriptions paint a data engineer as a “unicorn” who must possess
+every data skill imaginable, data engineers don’t all do the same type of work or have
+the same skill set. Data maturity is a helpful guide to understanding the types of data
+challenges a company will face as it grows its data capability. It’s beneficial to look
+Data Engineering Skills and Activities
+|
+21
+

@@ -1,0 +1,856 @@
+# Uma viagem à biblioteca: Notas e recomendações de leitura
+
+Paginas: 264-289
+
+Uma viagem à biblioteca
+Notas e recomendações de leitura
+Confesso que, como praticante da aleatoriedade, concentrei-me
+principalmente nos defeitos de meu próprio pensamento (e no de
+algumas poucas pessoas que observei ou monitorei ao longo do
+tempo). Também era minha intenção que o livro fosse divertido, o que
+não é muito compatível com ligar cada uma das ideias a um artigo
+cientíco de modo a conferir-lhe algum grau de respeitabilidade.
+Tomo a liberdade nesta seção de renar alguns pontos e fornecer
+referências
+selecionadas
+(do
+tipo
+“leituras
+complementares
+recomendadas”) — mas vinculadas a assuntos que vivenciei
+diretamente. Repito que isto é um ensaio pessoal, não um tratado.
+Ao concluir esta compilação, descobri que predominavam questões
+relativas à natureza humana (principalmente a psicologia empírica)
+sobre assuntos matemáticos. Sinal dos tempos: estou convencido de
+que a próxima edição, com sorte daqui a dois anos, terá um bocado de
+referências e notas acerca de neurobiologia e neuroeconomia.
+PREFÁCIO
+Viés retrospectivo: Também conhecido como “quarterback um dia
+depois do jogo”. Ver FischhoÁ (1982).
+Conhecimento clínico: O problema dos médicos clínicos não
+saberem o que não sabem e não perceberem isso. Ver Meehl (1954)
+para a introdução seminal. “É claro que a asserção dogmática e
+complacente às vezes ouvida da boca de clínicos de que a previsão
+‘naturalmente’ clínica, sendo baseada em uma ‘compreensão real’, é
+superior simplesmente não foi comprovada até hoje.” Nos testes dele,
+
+em todos os casos à exceção de um, previsões feitas por meios
+atuariais foram iguais ou melhores que os métodos clínicos. Ainda
+pior: em um artigo posterior, ele mudou de ideia sobre a única
+exceção. Desde o trabalho de Meehl tem havido uma longa tradição de
+exame de opiniões de especialistas, conrmando os resultados. Esse
+problema se aplica a quase todas as prossões — especialmente
+jornalistas e economistas. Discutiremos em outras notas o problema
+correlato do autoconhecimento.
+Montaigne x Descartes: Agradeço ao pesquisador de inteligência
+articial e leitor onívoro Peter McBurney por trazer à minha atenção a
+discussão em Toulmin (1990). A respeito disso, tenho que fazer a
+triste observação de que Descartes era originalmente um cético
+(conforme atesta seu experimento mental do gênio maligno), mas a
+assim chamada mente cartesiana corresponde a alguém com apetite
+por certezas. A ideia de Descartes em sua forma original é que há
+pouquíssimas certezas além de declarações dedutivas estreitamente
+denidas, não que tudo em que pensamos precisa ser dedutivo.
+Armar o consequente: A falácia lógica é em geral apresentada da
+seguinte forma:
+Se p, então q
+q
+Portanto, p
+(Todas as pessoas da família Smith são altas; ele é alto, portanto,
+pertence à família Smith).
+O histórico da população em geral em fazer corretamente essa
+inferência é extremamente parco. Embora não seja costumeiro citar
+livros didáticos, indico ao leitor o excelente Eysenck e Keane (2000)
+para uma lista de trabalhos sobre as diferentes diculdades — até 70%
+da população pode cometer esse erro!
+A mente milionária: Stanley (2000). Ele também entendeu
+(corretamente) que os ricos eram “afeitos ao risco” e inferiu
+
+(incorretamente) a exposição a riscos a que se submetem. Tivesse
+examinado a população de empreendedores falidos, teria inferido
+também (corretamente) que empreendedores falidos também eram
+“afeitos ao risco”.
+Jornalistas são “práticos”: Ouvi pelo menos quatro vezes a palavra
+prático por parte de jornalistas tentando justicar sua simplicação. O
+programa de televisão que queria que eu apresentasse três
+recomendações de ações queria algo “prático”, não teorias.
+PRÓLOGO
+A matemática em conito com a probabilidade: Uma trata de
+certezas; a outra, do exato oposto. Isso explica o desrespeito que por
+muito tempo os matemáticos demonstraram pelo tema da
+probabilidade — e a diculdade em integrar as duas coisas. Apenas
+recentemente a teoria probabilística foi denominada “a lógica da
+ciência” — título do livro póstumo de Jaynes (2003). Curiosamente,
+talvez esse livro seja a descrição mais completa da matemática da
+disciplina — Jaynes consegue usar a probabilidade como uma expansão
+da lógica convencional.
+O destacado matemático David Mumford, ganhador da Medalha
+Fields, se arrepende de seu antigo desprezo pela probabilidade. Em
+The Dawning of the Age of Stochasticity (Mumford, 1999), ele escreve:
+“Por mais de dois milênios, a lógica de Aristóteles regeu o pensamento
+dos intelectuais ocidentais. Todas as teorias precisas, todos os
+modelos cientícos, até mesmo os modelos do processo de
+pensamento em si, em princípio sujeitaram-se à camisa de força da
+lógica. Mas a partir de sua origem questionável, concebendo
+estratégias de jogatina e contando cadáveres na Londres medieval, a
+teoria da probabilidade e a inferência estatística agora emergem como
+os melhores alicerces para modelos cientícos, especialmente aqueles
+do processo de pensamento, e como ingredientes essenciais da
+matemática teórica, inclusive os fundamentos da própria matemática.
+Sugerimos que essa mudança em nossa perspectiva afetará
+praticamente toda a matemática no próximo século”.
+
+Coragem ou tolice: Para um exame dessa noção de “coragem” e
+“ousadia”, ver Kahneman e Lovallo (1993). Ver também uma discussão
+em Hilton (2003). Tirei a ideia da apresentação de Daniel Kahneman
+em Roma em abril de 2003 (Kahneman, 2003).
+Erros cognitivos na previsão: Tversky e Kahneman (1971 e 1982),
+Lichtenstein, FischhoÁ e Phillips (1977).
+Utópico e trágico: O ensaísta e destacado cientista e intelectual
+Steven Pinker popularizou a distinção (originalmente atribuível ao
+lósofo político Thomas Sowell). Ver Sowell (1987), Pinker (2002).
+Na realidade, a distinção não é tão clara. Algumas pessoas realmente
+acreditam, por exemplo, que Milton Friedman é um utopista no
+sentido de que acredita que todos os males são causados pelos
+governos e de que se livrar do governo seria uma tremenda panaceia.
+Falibilidade e infalibilismo: Peirce (em um prospecto para um livro
+que nunca foi escrito) escreve: “Nada pode ser mais completamente
+contrário a uma losoa, o fruto de uma vida cientíca, do que o
+infalibilismo, seja disposto nas antigas armadilhas eclesiásticas ou sob
+seu recente disfarce ‘cientíco’” (Brent, 1993). Para familiarizar-se
+com as obras de Peirce, ver Menand (2001), um livro curto e
+agradável de ler. Baseia-se em sua única biograa, Brent (1993).
+CAPÍTULO 1
+A posição relativa comparada à posição absoluta: Ver
+Kahneman, Knetsch e Thaler (1986). Robert Frank é um pesquisador
+interessante, que passou parte de sua carreira re etindo sobre o
+problema de status, posição social e renda relativa. Ver Frank (1985 e
+1999), o último uma leitura prazerosa que inclui discussões sobre o
+interessante problema proponente/respondedor, em que pessoas
+abrem mão de lucros extraordinários para privar outras de uma fatia
+maior da bolada. Uma pessoa propõe a outra uma parte de, digamos,
+cem dólares. Ela pode aceitar ou recusar. Se recusar, ambas saem de
+mãos vazias.
+
+Resultados ainda mais perversos foram demonstrados por
+pesquisadores que estudaram o quanto as pessoas pagariam para
+reduzir a renda de outras: ver Zizzo e Oswald (2001). Sobre o mesmo
+tema, ver Burnham (2003), que em um experimento mediu os níveis
+de testosterona nas transações econômicas.
+Serotonina e hierarquia: Frank (1999) inclui uma discussão disso.
+Sobre o papel social do psicopata: Ver Horrobin (2002). Embora
+possa ter pontos de vista extremados sobre a questão, o livro analisa
+discussões das teorias em torno do sucesso alcançado pelos
+psicopatas. Ver também Carter (1999) para uma apresentação da
+vantagem que algumas pessoas têm por se afastar do sentimento de
+empatia e compaixão.
+Emoções sociais: Damásio (2003): “Uma das muitas razões por que
+algumas pessoas tornam-se líderes e outras seguidoras, por que
+algumas impõem respeito e outras se acovardam, tem pouco a ver com
+os conhecimentos ou aptidões dessas pessoas, e muitíssimo a ver com
+qualidades físicas que promovem certas respostas emocionais nos
+outros”.
+Literatura sobre emoções: Para uma revisão das ideias cientícas
+atuais, ver o excelente e compacto Evans (2002). O autor pertence à
+nova estirpe do lósofo/ensaísta que contempla temas amplos com
+uma mente cientíca. Elster (1998) entra nas vastas implicações
+sociais das emoções. O best-seller Goleman (1995) oferece uma
+explicação surpreendentemente completa (o fato de ser um best-seller
+é surpreendente: estamos cientes de nossa irracionalidade, mas isso
+aparentemente não ajuda).
+CAPÍTULO 2
+Mundos possíveis: Kripke (1980).
+Muitos mundos: Ver o excelentemente escrito livro de Deutsch
+(1997). Sugiro também uma visita ao esplêndido site do autor. A
+
+versão preliminar anterior pode ser encontrada em DeWitt e Graham
+(1973), que contém o artigo original de Hugh Everett.
+Economia da incerteza e possíveis estados da natureza: Ver
+Debreu (1959). Para uma apresentação de métodos de entrelaçamento
+estado-espaço em nanças matemáticas, ver Ingersoll (1987), que é
+um livro bem estruturado, embora seco e muitíssimo entediante,
+como a personalidade de seu autor, e Huang e Litzenberger (1988),
+mais carregados de jargão. Para uma apresentação voltada para a
+economia, ver Hirshleifer e Riley (1992).
+Para as obras de Shiller: Ver Shiller (2000). O trabalho mais
+técnico está no (originalmente) polêmico Shiller (1981). Ver também
+Shiller (1990). Para uma compilação: Shiller (1989). Ver Kurz (1997)
+para uma discussão sobre incerteza endógena.
+Risco e emoções: Dado o crescente interesse recente no papel
+emocional no comportamento, tem havido uma produção cada vez
+maior da literatura sobre o papel das emoções, tanto em termos de
+exposição a riscos quanto de prevenção de riscos: a teoria do “risco
+como sentimento”. Ver Loewenstein, Weber, Hsee e Welch (2001), e
+Slovic, Finucane, Peters e MacGregor (2003a). Para uma pesquisa,
+ver Slovic, Finucane, Peters e MacGregor (2003b). Ver também
+Slovic (1987).
+Para uma discussão sobre a heurística do afeto: Ver Finucane,
+Alhakami, Slovic e Johnson (2000).
+Emoções e cognição: Ver LeDoux (2002).
+Disponibilidade heurística (com que facilidade as coisas vêm à
+mente): Tversky e Kahneman (1973).
+Incidência real de catástrofes: Para uma discussão perspicaz, ver
+Albouy (2002).
+
+Sobre provérbios e ditos populares: Há muito os psicólogos
+examinam a credulidade de pessoas em ambientes sociais diante de
+provérbios cuja formulação parece estar correta. Por exemplo, desde a
+década de 1960 são realizados experimentos em que os entrevistados
+respondem se consideram determinado provérbio certo, enquanto a
+outro grupo apresenta-se o signicado oposto. Para uma apresentação
+dos hilários resultados, ver Myers (2002).
+Epifenômenos: Ver o belo texto de Wegner (2002).
+CAPÍTULO 3
+Keynes: Na opinião de muitas pessoas, o Tratado sobre a
+probabilidade continua a gurar como o mais importante trabalho
+individual sobre o tema — especialmente levando-se em consideração
+como Keynes era jovem quando o escreveu (o trabalho foi publicado
+anos depois de ter sido concluído). No tratado, Keynes desenvolve a
+noção decisiva de probabilidade subjetiva.
+Les gommes: Robbe-Grillet (1985).
+Historicismo pseudocientíco: Para um exemplo, sugiro Fukuyama
+(1992).
+Os medos estão embutidos em nossos genes: Em sentido estrito,
+isso não é verdadeiro — os traços genéticos precisam ser
+culturalmente ativados. Temos uma ligação intrínseca com alguns
+medos, a exemplo do medo de cobras, mas macacos que nunca viram
+uma não se sentem assim. Eles precisam ver o medo nas feições de
+outro macaco para começar a experimenar a mesma sensação
+(LeDoux, 1998).
+Amnésia e prevenção de riscos: Damásio (2000) apresenta o caso
+de David, paciente amnésico que sabia evitar aqueles que o
+maltratavam. Ver também Lewis, Amini e Lannon (2000), cujo livro
+apresenta uma discussão pedagógica sobre “aprendizagem camu ada”,
+sob a forma de memória implícita, em oposição à memória explícita
+
+(neocortical). O livro retrata a memória como uma correlação na
+conectividade neuronal, em vez de uma gravação ao estilo de um CD —
+o que explica as revisões de lembranças que as pessoas fazem após
+eventos.
+Por que não aprendemos com nossa história pregressa?: Duas
+tendências de literatura: (1) a recente linha de pesquisa em psicologia
+“desconhecidos de nós mesmos” (Wilson, 2002); (2) a literatura
+sobre “negligência imunológica” (Wilson, Meyers e Gilbert, 2001;
+Wilson, Gilbert e Centerbar, 2003). Literalmente, as pessoas não
+aprendem com suas reações pregressas a coisas boas e ruins.
+Literatura sobre bolhas: Há uma longa tradição. Ver Kindleberger
+(2001), MacKay (2002), Galbraith (1991), Chancellor (1999) e,
+claro, Shiller (2000). Com um pouco de trabalho, pode-se convencer
+Shiller a fazer uma segunda edição.
+Long-Term Capital Management: Ver Lowenstein (2000).
+Estresse e aleatoriedade: Sapolsky (1998) é um livro popular, às
+vezes hilário. O autor é especialista, entre outras coisas, no efeito de
+glicocorticoides liberados em momentos de estresse na atroa do
+hipocampo, obstruindo a formação de novas memórias e a
+plasticidade cerebral. Mais técnico, Sapolsky (2003).
+Assimetrias cerebrais com ganhos e perdas: Ver Gehring e
+Willoughby (2002). Ver os trabalhos de Davidson sobre a assimetria
+cerebral anterior (Goleman, 2003, tem um sumário claro e uma
+apresentação popular). Ver também Shizgal (1999).
+O dentista e a teoria do prospecto: Kahneman e Tversky (1979).
+Nessa discussão seminal, os autores apresentam os agentes como
+interessados em diferenças e na redenição de seu nível de dor/prazer
+com zero como “âncora”. O fundamento disso é que “riqueza” não
+importa, apenas diferenças nela, uma vez que a redenição cancela o
+efeito da acumulação. Pense em John alcançando 1 milhão de dólares,
+
+de baixo ou de cima, e o impacto em seu bem-estar. A diferença entre
+a utilidade de riqueza e a utilidade de mudanças na riqueza não é
+trivial: ela leva à dependência do período de observação. De fato, a
+noção, levada ao limite, resulta na completa revisão da teoria
+econômica: a economia neoclássica deixará de ser útil para além dos
+exercícios matemáticos. Houve vigorosos debates também na
+literatura hedonista: ver Kahneman, Diener e Schwarz (1999).
+CAPÍTULO 4
+Intelectual público e cientíco: Brockman (1995) oferece
+apresentações feitas pela “nata” da nova tradição intelectual cientíca.
+Ver também seu site: www.edge.org. Para a posição de um físico sobre
+as guerras culturais, Weinberg (2001). Para a apresentação de um
+intelectual público, ver Posner (2002). Note que a Florida Atlantic
+University oferece um programa de doutorado para quem quer se
+tornar um intelectual público — literário, já que os cientistas não
+precisam desse tipo de artifício.
+A fraude: Sokal (1996).
+O gene egoísta: Dawkins (1989, 1976). Hegel: em Popper (1994).
+Cadáveres delicados: Nadeau (1970).
+O gerador: www.monash.edu.au.
+Linguagem e probabilidade: Existe uma conexão muito grande entre
+linguagem e probabilidade; esse vínculo tem sido estudado por
+pensadores e cientistas via os métodos ans de entropia e teoria da
+informação — pode-se reduzir a dimensionalidade de uma mensagem
+eliminando a redundância, por exemplo; o que resta é medido como
+conteúdo de informação (pense na compactação de um arquivo) e está
+ligado à noção de “entropia”, que é o grau de desordem, o imprevisível
+que resta. A entropia é uma noção bastante invasiva, uma vez que se
+relaciona à estética e à termodinâmica. Ver Campbell (1982) para uma
+apresentação literária, e Cover e Thomas (1991) para uma
+
+apresentação cientíca, particularmente a discussão acerca da
+“entropia do inglês”. Para uma discussão clássica sobre entropia e arte,
+Arnheim (1971), embora a conexão entre entropia e probabilidade
+ainda não estivesse clara na época. Ver Georgescu-Roegen (1971) para
+uma argumentação (talvez) pioneira de entropia em economia.
+CAPÍTULO 5
+O efeito Corpo de Bombeiros e a convergência de opiniões: Há
+na literatura psicológica um bocado de discussões acerca da
+convergência de opiniões, particularmente na área de seleção de
+parceiros, ou o que Keynes chama de “concurso de beleza”, já que as
+pessoas tendem a escolher o que as outras escolhem, causando ciclos
+incessantes de feedback positivo.
+Uma manifestação interessante é o efeito autocinético. Quando
+pessoas tam uma luz estacionária em uma sala, depois de algum
+tempo elas a veem se movendo e são capazes de calcular a quantidade
+de movimento, sem saber que se trata de uma ilusão, pois a luz não se
+move. Quando observam a luz em isolamento, os sujeitos do
+experimento mencionam velocidades de movimento extremamente
+variadas; quando testadas em grupo, as pessoas convergem para uma
+velocidade de movimento comum. Ver Plotkin (1998). Sornette
+(2003) apresenta um interessante relato sobre os circuitos de
+feedback resultantes do agrupamento, escrito com leveza e com uma
+matemática extremamente intuitiva.
+Biologia da imitação: Ver Dugatkin (2001).
+Evolução e pequenas probabilidades: A evolução é principalmente
+um conceito probabilístico. Ela pode ser enganada pela aleatoriedade?
+Os menos aptos conseguem sobreviver? Há uma tendência reinante
+do darwinismo, chamada de darwinismo ingênuo, que acredita que
+qualquer espécie ou membro de uma espécie dominante em
+determinado momento foi selecionado pela evolução porque leva uma
+vantagem sobre os outros. Isso resulta de um mal-entendido comum
+de condições ideais locais e globais, mesclado com uma incapacidade
+
+de se livrar da crença na lei dos pequenos números (superinferência a
+partir de pequenos conjuntos de dados). Basta colocar duas pessoas
+em um ambiente aleatório, digamos um cassino, durante um m de
+semana. Uma delas vai se sair melhor que a outra. Para um observador
+ingênuo, aquela com melhor desempenho terá uma vantagem de
+sobrevivência com relação à outra. Se essa pessoa é mais alta ou tem
+algum traço que a distingue da outra, tal característica será
+identicada pelo observador ingênuo como a explicação da diferença
+na aptidão. Algumas pessoas fazem isso com traders — colocando-os
+em disputa numa competição formal. Leve em consideração também o
+pensamento evolutivo ingênuo que postula o nível ótimo de seleção —
+o fundador da sociobiologia não concorda com isso quando se trata de
+eventos raros. E. O. Wilson (2002) escreve: “É evidente que o
+cérebro humano evoluiu para se envolver emocionalmente apenas com
+um pequeno naco de geograa, um limitado grupo de parentes e duas
+ou três gerações no futuro. Não olhar muito à frente nem muito longe
+é elementar em um sentido darwiniano. Temos uma tendência inata a
+ignorar qualquer possibilidade distante que ainda não requeira avaliação.
+É apenas o bom e velho senso comum, costumam dizer as pessoas. Por
+que pensam dessa maneira míope? O motivo é simples: trata-se de
+algo intrínseco à nossa herança paleolítica. Ao longo de centenas de
+milênios, aqueles que trabalhavam para obter o ganho de curto prazo
+dentro de um pequeno círculo de parentes e amigos viviam mais
+tempo e deixavam uma prole mais numerosa — mesmo quando seu
+esforço coletivo fazia com que seus territórios e impérios
+desmoronassem ao redor deles. A análise de longo prazo que poderia
+ter salvado seus descendentes distantes exigia uma visão e um
+altruísmo prolongados, instintivamente difíceis de organizar”.
+Ver também Miller (2000): “A evolução não tem previsão. Falta-lhe
+a visão de longo prazo da gestão de empresas farmacêuticas. Uma
+espécie não é capaz de arrecadar capital de risco para pagar suas
+contas enquanto sua equipe de pesquisa […] Cada espécie tem que se
+manter biologicamente rentável a cada geração, caso contrário será
+extinta. As espécies sempre têm problemas de  uxo de caixa que
+proíbem investimentos especulativos em seu futuro. Indo mais
+diretamente ao ponto, cada gene subjacente a todas as inovações
+
+potenciais tem que render maiores compensações evolutivas do que os
+genes concorrentes, ou desaparecerá antes que a inovação evolua
+ainda mais. Isso torna difícil explicar as inovações”.
+CAPÍTULO 6
+Iludidos pela assimetria negativa: O primeiro indício de
+explicação para a popularidade de compensações negativamente
+enviesadas vem da literatura inicial sobre comportamento sob
+incerteza, com o problema dos pequenos números. Tversky e
+Kahneman (1971) escrevem: “Submetemos à visão dessa pessoa uma
+amostra tirada aleatoriamente de uma população e bastante
+representativa, ou seja, similar a uma população em todas as
+características essenciais”. A consequência é a falácia indutiva: excesso
+de conança na capacidade de inferir propriedades gerais a partir dos
+fatos observados, “conança indevida nas tendências iniciais”,
+estabilidade de padrões observados a inferência de conclusões com
+mais conança atrelada a elas do que os dados autorizam. Pior, o
+agente encontra explicações causais ou atributos distributivos que
+conrmam sua generalização inapropriada. É fácil ver que os
+“pequenos números” cam exacerbados com a assimetria, uma vez que
+na maioria das vezes a média observada será diferente da média real e
+quase sempre a variância observada será menor que a verdadeira.
+Agora considere que seja um fato que, na vida, ao contrário de um
+laboratório ou um casino, não observamos a distribuição da
+probabilidade a partir da qual as variáveis aleatórias são extraídas,
+vendo somente as materializações desses processos aleatórios. Seria
+ótimo se conseguíssemos, mas não medimos probabilidades como
+medimos a temperatura ou a altura de uma pessoa. Isso signica que,
+quando computamos probabilidades a partir de dados passados,
+estamos fazendo suposições sobre a assimetria do gerador da série
+aleatória — todos os dados são dependentes de um gerador. Em suma,
+com pacotes enviesados, a camu agem das propriedades entra em
+cena e tendemos a acreditar naquilo que vemos. Ver Taleb (2004).
+Filósofo que às vezes banca o cientista: Nozik (1993).
+
+Economia de Hollywood: De Vany (2003).
+As pessoas são sensíveis ao signo e não à magnitude: Hsee e
+Rottenstreich (2004).
+Comentários críticos de Lucas: Lucas (1978).
+CAPÍTULO 7
+O livro de Niederho³er: NiederhoÁer (1997).
+O enigma da indução de Goodman: Pode-se levar a questão da
+indução a um território mais difícil com o seguinte enigma: digamos
+que o mercado registre alta todos os dias durante um mês. Para muitas
+pessoas de gosto indutivo, isso poderia conrmar a teoria de que o
+mercado está subindo todos os dias. Mas pense: pode ser que
+conrme a teoria de que o mercado sobe todos os dias e depois cai —
+o que estamos testemunhando não é um mercado em ascensão, mas
+um que ascende e em seguida despenca. Quando alguém observa um
+objeto azul, é possível dizer que está observando algo azul até o tempo
+t, além do qual ele é verde — ou seja, que tal objeto não é azul, mas
+“verzul”. Consequentemente, por essa lógica, o fato de que o mercado
+subiu durante todo esse tempo pode conrmar que desabará amanhã.
+Isso
+conrma
+que
+estamos
+observando
+um
+mercado
+em
+ascensão/declínio. Ver Goodman (1954).
+Escritos de Soros: Soros (1988).
+Hayek: Ver Hayek (1945) e o profético Hayek (1994, publicado pela
+primeira vez em 1945).
+Personalidade de Popper: Magee (1997) e Hacohen (2001).
+Também há um divertido relato em Edmonds e Eidinow (2001).
+CAPÍTULO 8
+O milionário mora ao lado: Stanley (1996).
+
+Enigma do prêmio de risco: Há uma discussão acadêmica ativa sobre
+“o prêmio de risco”, assumindo o “prêmio” aqui como o desempenho
+excepcional de ações em relação a títulos e procurando-se possíveis
+explicações. Houve pouquíssima re exão quanto à possibilidade de
+que o prêmio ou ágio talvez tenha sido uma ilusão de ótica devido ao
+viés do sobrevivente — ou que o processo possa incluir a ocorrência
+de cisnes negros. A discussão parece ter se abrandado um pouco
+depois das quedas nos mercados acionários após os eventos de 2000-
+2.
+CAPÍTULO 9
+Os analistas do mercado de ações enganaram a si mesmos: Para
+uma comparação entre analistas e meteorologistas, ver Taszka e
+Zielonka (2002).
+Diferenças entre os retornos: Ver Ambarish e Siegel (1996). O
+tedioso palestrante estava na verdade comparando “índice de Sharpe”,
+ou seja, retornos escalonados por desvios-padrão (ambos anualizados),
+assim nomeados em homenagem ao economista William Sharpe, mas
+o conceito tem sido comumente usado em estatística e chamado de
+“coeciente de variação” (Sharpe o introduziu no contexto da teoria
+normativa de precicação de ativos para computar os retornos
+esperados da carteira de investimentos levando-se em conta algum
+perl de risco, não como um dispositivo estatístico). Desconsiderando
+o viés do sobrevivente ao longo de um período de doze meses e
+presumindo (muito generosamente) uma distribuição gaussiana, as
+diferenças de “índice de Sharpe” para dois gestores não
+correlacionados excederia 1,8, com quase 50% de probabilidade. O
+palestrante estava discutindo diferenças de índices de Sharpe de cerca
+de .15! Mesmo assumindo uma janela de observação de cinco anos,
+algo raríssimo com gestores de hedge fund, as coisas não cam muito
+melhores que isso.
+Valor do assento: Mesmo assim, por algum viés de atribuição, os
+traders tendem a acreditar que sua renda se deve a suas habilidades,
+
+não ao “assento”, ou à “franquia” (isto é, o valor do  uxo de pedidos).
+O assento tem valor, visto que o “livro” do especialista da Bolsa de
+Valores de Nova York vale somas imensas. Ver Hilton (2003). Ver
+também Taleb (1997) para uma discussão sobre a vantagem de tempo
+e lugar.
+Mineração de dados: Sullivan, Timmermann e White (1999).
+Cachorros que não latem: Agradeço a meu correspondente
+Francesco Corielli, da Universidade Bocconi, por sua observação
+sobre meta-análise.
+CAPÍTULO 10
+Redes: Arthur (1994). Ver Barabasi (2002), Watts (2003).
+Dinâmica não linear: Para uma introdução à dinâmica não linear em
+nanças, ver Brock e De Lima (1995) e Brock, Hsieh e LeBaron
+(1991). Ver também o recente, e certamente mais completo, Sornette
+(2003). Ele vai além de simplesmente caracterizar o processo como
+sendo de cauda grossa e diz que a distribuição de probabilidade é
+diferente daquela que se aprende na primeira aula de um curso básico
+sobre nanças. Sornette estuda os pontos de transição. Digamos que
+as vendas de um livro se aproximam de um ponto crítico a partir do
+qual realmente decolam. A dinâmica das vendas, a depender do
+crescimento passado, torna-se previsível.
+O ponto da virada: Gladwell (2000). No artigo que precedeu o livro
+(Gladwell, 1996), o autor escreve: “A razão pela qual isso parece
+surpreendente é que os seres humanos preferem pensar em termos
+lineares […] Lembro que, quando criança, me debati com essas
+mesmas questões teóricas quando tentei ketchup na comida. Como
+todas as crianças que enfrentam esse problema pela primeira vez,
+supus que a solução fosse linear: que aumentar em ritmo constante a
+frequência e a força de batidas na base do frasco produziria
+quantidades cada vez maiores de ketchup saindo pela outra
+
+extremidade. Não é assim, disse-me meu pai, e recitou um verso que,
+para mim, permanece como a mais concisa armação da não
+linearidade fundamental da vida cotidiana: ‘Primeiro você bate e nada
+sai, por mais que sacuda. Depois vem tudo de uma vez, Deus nos
+acuda’.
+Pareto: Antes do uso generalizado da curva do sino, levávamos mais a
+sério as ideias de Pareto e sua distribuição — cuja marca é a
+contribuição de grandes desvios para as propriedades globais.
+Elaborações posteriores levaram às chamadas distribuições de Pareto-
+Levy ou de Levy-Stable, com algumas propriedades bastante perversas
+(à exceção dos casos especiais e sem taxa de erro conhecida). A razão
+pela qual os economistas nunca gostaram de usá-la é que não oferece
+propriedades manejáveis — economistas gostam de escrever artigos
+nos quais ofereçam a ilusão de soluções, particularmente na forma de
+respostas matemáticas. Uma distribuição de Pareto-Levy não lhes
+proporciona esse luxo. Para discussões econômicas sobre as ideias de
+Pareto, ver Zajdenweber (2000), Bouvier (1999). Para uma
+apresentação da matemática das distribuições de Pareto-Levy, ver Voit
+(2001) e Mandelbrot (1997). Houve uma redescoberta recente da
+dinâmica da lei de potência. Intuitivamente, uma distribuição da lei de
+potência tem a seguinte propriedade: se o expoente de potência fosse
+2, então haveria 4 vezes mais pessoas com uma renda superior a 1
+milhão de dólares do que as pessoas com 2 milhões de dólares. O
+efeito é que existe uma probabilidade muito pequena de haver um
+evento com um desvio extremamente grande. De maneira mais geral,
+para dado desvio x, a incidência de um desvio de um múltiplo de x
+será aquele múltiplo para determinado expoente de potência. Quanto
+maior o expoente, menor a probabilidade de um desvio grande.
+Comentário de Spitznagel: Gladwell (2002).
+Não leve a sério a palavra “correlação” e as pessoas que a usam:
+“Você não parece ter correlação com coisa alguma” era o modo mais
+comum de me acusarem enquanto levava adiante minha estratégia de
+procurar eventos raros. O exemplo a seguir talvez possa ilustrar meu
+
+argumento. Um instrumento de trading não linear — por exemplo,
+uma opção de venda — será positivamente correlacionado com a
+segurança subjacente em muitos caminhos de amostragem (digamos
+que a opção expire sem valor em um mercado de baixa que não tenha
+caído o suciente), exceto, é claro, ao se tornar dinheiro e obter lucro,
+caso em que a correlação se inverte violentamente. O leitor deve fazer
+um favor a si mesmo não levando a sério a noção de correlação, exceto
+em assuntos muito restritos, em que a linearidade é justicada.
+CAPÍTULO 11
+“Cegueira” à probabilidade: Tomo emprestada a expressão de
+Piattelli-Palmarini (1994).
+Discussão sobre “racionalidade”: Não é tão fácil lidar com esse
+conceito. Embora a noção tenha sido investigada em muitos campos,
+foi esquadrinhada mais a fundo pelos economistas como uma teoria
+normativa da escolha. Por que eles desenvolveram tamanho interesse
+pela racionalidade? A base da análise econômica é um conceito de
+natureza e racionalidade humanas materializado na noção de homo
+economicus. As características e os comportamentos desse homo
+economicus estão incorporados nos postulados da escolha do
+consumidor e incluem insaciabilidade (mais é sempre preferível a
+menos) e transitividade (consistência global na escolha). Por exemplo,
+Arrow (1987) escreve: “É digno de nota que o uso cotidiano do termo
+‘racionalidade’ não corresponda à denição economista de
+transitividade e completude, ou seja, de maximização de algo. O
+entendimento comum é a completa exploração da informação, do
+raciocínio sólido, e assim por diante”.
+Talvez, para um economista, a melhor maneira de ver isso seja a
+maximização levando a uma solução singular.
+Mesmo assim, não é fácil. Quem está maximizando o quê? Para
+começo de conversa, há um con ito entre a racionalidade coletiva e a
+individual (a “tragédia dos comuns” vista por Keynes em sua parábola
+do estádio, em que a estratégia ideal é se levantar, mas a estratégia
+ideal coletiva é que todos permaneçam sentados). Outro problema
+
+aparece no teorema da impossibilidade do eleitor de Arrow.
+Considere também o seguinte problema: as pessoas votam, mas os
+ganhos ajustados de probabilidade do ato de votar podem ser menores
+do que o esforço empreendido para ir até o local de votação. Ver Luce
+e RaiÁa (1957) para uma discussão desses paradoxos.
+Vale notar que a literatura relacionada a escolhas racionais sob
+incerteza é muito extensa, espalhando-se por diferentes campos, da
+teoria evolutiva dos jogos à ciência política. Mas como John Harsanyi
+armou sem rodeios: é normativa, e destina-se a ser assim. Trata-se de
+uma declaração heroica: dizer que a economia abandonou suas
+pretensões cientícas e aceitou o fato de que não descreve como as
+pessoas efetivamente agem, mas como deveriam agir. Signica que ela
+entrou em outro domínio: da losoa (embora não exatamente ética).
+Como tal, um indivíduo pode aceitá-lo plenamente e deveria ter como
+meta agir como o homem neoclássico. Se puder.
+Imediato/último como solução para alguns problemas de
+racionalidade: Os teóricos da evolução fazem uma distinção entre
+causa imediata e causa última.
+Causa imediata: Como porque estou com fome.
+Causa última: Se eu não tivesse um incentivo para comer, teria
+graciosamente me despedido do fundo genético.
+Ora, se alguém invoca as causas últimas, um bocado de
+comportamentos tidos como localmente irracionais (como o problema
+do eleitor mencionado antes) pode ser interpretado como racional.
+Isso explica o altruísmo: por que você correria um pequeno risco para
+ajudar uma pessoa desconhecida e evitar que ela se afogue?
+Visivelmente esse ímpeto de ajudar nos colocou onde estamos hoje.
+Ver Dawkins (1989 e 1976) e Pinker (2002) para informações
+adicionais acerca da diferença.
+Racionalidade e cienticismo: Por sugestão do meu correspondente
+Peter McBurney, descobri o romance Nós, de Ievguêni Zamiátin, uma
+sátira sobre a Rússia leninista escrita na década de 1920 e ambientada
+
+em um futuro distante, numa época em que as ideias tayloristas e
+racionalistas tiveram êxito, aparentemente, no sentido de conseguir
+eliminar da vida toda incerteza e irracionalidade.
+Racionalidade limitada: Simon (1956, 1957, 1987a e 1987b).
+Nascimento da neurobiologia da racionalidade: Berridge (2003)
+introduz um dimensão neurobiológica à racionalidade, usando duas
+das quatro utilidades de Kahneman (as utilidades experimentadas,
+lembradas, previstas e de decisão) e estabelecendo a irracionalidade se
+a utilidade de decisão exceder a prevista. Existe uma dimensão neural
+para essa irracionalidade: a atividade da dopamina no cérebro
+mesolímbico.
+Compilação de artigos sobre as heurísticas e vieses em quatro
+volumes: Kahneman, Slovic e Tversky (1982), Kahneman e Tversky
+(2000), Gilovich, GriÄn e Kahneman (2002), Kahneman, Diener e
+Schwarz (1999).
+Dois sistemas de raciocínio: Ver Sloman (1996 e 2002). Ver o
+resumo em Kahneman e Frederick (2002). Para o efeito heurístico,
+ver Zajonc (1980 e 1984).
+Psicologia evolutiva/sociobiologia: A leitura mais agradavel é
+Burnham e Phelan (2000). Ver Kreps e Davies (1993) para o quadro
+geral da ecologia como otimização. Ver também Wilson (2000),
+Winston (2002), os cartuns de Evans e Zarate (1999), Pinker (1997)
+e Burnham (1997).
+Modularidade: Para obras seminais, ver Fodor (1983) em losoa e
+ciência cognitiva, Cosmides e Tooby (1992) em psicologia evolutiva.
+A tarefa de seleção de Wason (sobre a qual se escreve em quase
+todos os livros sobre psicologia evolutiva) é a seguinte. Considere dois
+problemas:
+Problema 1: suponha que tenha um baralho e em cada uma das
+cartas haja uma letra de um lado e um número do outro. Suponha que,
+além disso, eu arme que a seguinte regra é verdadeira: se a carta tem
+
+uma vogal em um dos lados, do outro lado há um número par. Imagine
+que eu agora lhe mostre quatro cartas do baralho: E 6 K 9. Qual carta
+ou cartas você deve virar a m de concluir se a regra é verdadeira ou
+falsa?
+Problema 2: Você trabalha como atendente de bar em uma
+cidadezinha onde a idade legal para consumir bebida alcoólica é de 21
+anos e pretende evitar violações de regras. Para fazê-lo, vê-se na
+situação de ter que perguntar ao cliente qual é a idade dele ou o que
+está bebendo. Com qual desses quatro clientes você falaria: (1) o que
+está bebendo cerveja; (2) o que tem mais de 21 anos; (3) o que está
+bebendo Coca-Cola; (4) o que tem menos de 21 anos?
+Embora os dois problemas sejam idênticos (está claro que você
+precisa vericar apenas o primeiro e o último dos quatro casos), a
+maior parte da população erra o primeiro e acerta o segundo. Os
+psicólogos evolutivos acreditam que as diculdades em resolver o
+primeiro problema e a facilidade no segundo mostram evidências de
+um módulo de detecção de trapaceiros — basta considerar que nos
+adaptamos à execução de tarefas cooperativas e somos rápidos em
+identicar aproveitadores e parasitas.
+Critérios de modularidade: Tomo emprestada a apresentação que a
+linguista Elisabeth Bates (Bates, 1994) faz dos nove critérios de
+modularidade de Fodor (ironicamente, Bates é cética quanto ao tema).
+Os critérios de processamento de informações são: encapsulamento
+(não podemos interferir com o funcionamento de um módulo),
+inconsciência, velocidade (esse é o x da questão do módulo), saídas
+superciais (não temos ideia dos passos intermediários) e disparo
+obrigatório (um módulo gera saídas predeterminadas para entradas
+predeterminadas). Os critérios biológicos que os distinguem dos
+hábitos aprendidos são: universais ontogenéticos (desenvolvem-se em
+uma sequência característica), localização (usam sistemas neurais
+dedicados) e universais patológicos (têm patologias características
+entre diferentes populações). Por m, a propriedade mais importante
+da modularidade é sua especicidade de domínio.
+
+Livros
+sobre
+o
+cérebro
+físico:
+Para
+a
+hierarquia
+reptiliano/límbico/neocórtex, ver descrições causais em Ratey
+(2001), Ramachandran e Blakeslee (1998), Carter (1999 e 2002),
+Conlan (1999), Lewis, Amini e Lannon (2000) e Goleman (1995).
+Cérebro emocional: Damásio (1994) e LeDoux (1998). Bechara,
+Damásio, Damásio e Anderson (1994) mostram a degradação do risco
+de comportamento de prevenção de riscos de pacientes com lesão no
+córtex pré-frontal ventromedial, uma parte do cérebro que nos liga às
+emoções. Essas emoções parecem desempenhar um papel crítico nos
+dois sentidos. Para o novo campo da neuroeconomia, ver discussões
+em Glimcher (2002) e Camerer, Loewenstein e Prelec (2003).
+Sensibilidade às perdas: Note que as perdas são mais importantes
+que os ganhos, mas você se torna rapidamente insensível a elas (uma
+perda de 10 mil dólares é melhor do que dez perdas de mil dólares).
+Os ganhos importam menos que perdas, e grandes ganhos importam
+até menos (dez ganhos de mil dólares são melhores que um ganho de
+10 mil).
+Esteira hedônica: Meu falecido amigo Jimmy Powers costumava
+fazer um esforço excepcional para me mostrar banqueiros de
+investimento ricaços sofrendo, desconsolados, depois de um dia ruim.
+Essa riqueza toda é mesmo boa para eles se acabam ajustando-se a ela
+de tal modo que um único dia ruim é capaz de aniquilar o efeito de
+todos os êxitos anteriores? E, se as coisas não se acumulam bem,
+então se conclui que os seres humanos devem seguir um conjunto de
+estratégias diferente. Essa “redenição” mostra a ligação com a teoria
+do prospecto.
+Debate: Gigerenzer (1996), Kahneman e Tversky (1996), e
+Stanovich e West (2000). Considera-se que os teóricos evolutivos
+têm uma visão panglossiana: a evolução resolve tudo. Estranhamente,
+o debate é ferrenho não por causa de grandes divergências de
+opiniões, mas de pequenas discordâncias. Heurísticas simples que nos
+tornam inteligentes é o título de uma compilação de artigos de
+
+Gigerenzer e seus pares (Gigerenzer, 2000). Ver também Gigerenzer,
+Czerlinski e Martignon (2002).
+Exemplo médico: Bennett (1998). Também discutido em
+Gigerenzer, Czerlinski e Martignon (2002). As heurísticas e vieses o
+catalogam como a falácia da taxa básica. Os teóricos evolutivos o
+dividem em domínio geral (probabilidade incondicional) em oposição
+ao que é de domínio especíco (condicional).
+Finanças comportamentais: Ver Schleifer (2000) e Shefrin (2000)
+para uma revisão. Ver também Thaler (1994b) e o original Thaler
+(1994a).
+Adaptações especícas de domínio: Nossos pulmões são uma
+adaptação especíca de domínio, cuja nalidade é extrair oxigênio do
+ar e depositá-lo em nosso sangue; não é papel dos pulmões fazer o
+sangue circular. Para os psicólogos evolutivos, o mesmo aplica-se a
+adaptações psicológicas.
+Processo opaco: Para os psicólogos na tradição heurística e de vieses,
+o sistema 1 é opaco, ou seja, não é autoconsciente. Isso se assemelha
+ao encapsulamento e à inconsciência dos módulos discutidos
+anteriormente.
+Fluxo: Ver Csikszentmihalyi (1993 e 1998). Cito ambos por
+precaução, mas não sei se existem diferenças entre os livros: o autor
+parece reescrever de diferentes maneiras a mesma ideia geral.
+Subestimação de resultados possíveis: Hilton (2003).
+A neurobiologia do contato visual: Ramachandran e Blakeslee
+(1998) sobre os centros visuais que se projetam para a amígdala:
+“Cientistas registrando respostas celulares na amígdala descobriram
+que, além de responder a expressões e emoções faciais, as células
+respondem também à direção do olhar xo. Por exemplo, uma célula
+pode disparar se outra pessoa estiver olhando diretamente para
+alguém, ao passo que uma célula vizinha disparará somente se o olhar
+
+xo dessa pessoa for evitado por uma fração de polegada. No entanto,
+outras células disparam quando o olhar se desvia muito para a
+esquerda ou para a direita. Esse fenômeno não é surpreendente, dado
+o importante papel que a direção do olhar desempenha nas
+comunicações sociais dos primatas — desviar o olhar por culpa,
+vergonha ou constrangimento, o olhar intenso e direto da pessoa
+amada, o olhar ameaçador de um inimigo”.
+CAPÍTULO 12
+Pombos numa caixa: Skinner (1948).
+Ilusão de conhecimento: Barber e Odean (2001) apresentam uma
+discussão sobre a literatura acerca da tendência a fazer uma inferência
+mais forte do que autorizam os dados, o que chamam de “ilusão de
+conhecimento”.
+CAPÍTULO 13
+Céticos árabes: Al-Ghazali (1989).
+O livro de Rozan: Rozan (1999).
+Contabilidade mental: Thaler (1980), Kahneman, Knetsch e Thaler
+(1991).
+Teoria do portfólio (infelizmente): Markowitz (1959).
+O paradigma de probabilidade convencional: A maioria das
+discussões convencionais sobre o pensamento probabilístico,
+especialmente na literatura losóca, apresenta variantes menores do
+mesmo paradigma com a sucessão das seguintes contribuições
+históricas: Chevalier de Méré, Pascal, Cardano, De Moivre, Gauss,
+Bernouilli, Laplace, Bayes, Von Mises, Carnap, Kolmogorov, Borel,
+De Finetti, Ramsey etc. No entanto, as últimas dizem respeito aos
+problemas de cálculo de probabilidade, talvez carregados de problemas
+técnicos, mas que são discussões sobre minúcias e, sendo
+
+depreciativo, acadêmicas. Elas não têm muita relevância neste livro —
+porque, apesar da minha especialidade, não parecem fornecer
+qualquer utilidade remota para questões práticas. Para uma revisão
+dessas, recomendo ao leitor os textos de Gillies (2000), Von Plato
+(1994), Hacking (1990) ou o mais popular e agradabilíssimo Desao
+aos deuses (Bernstein, 1996), livro fortemente calcado em Florence
+Nightingale David (David, 1962). Recomendo Desao aos deuses
+como uma apresentação fácil de ler da história do pensamento
+probabilístico em engenharia e das ciências exatas aplicadas, mas
+discordo completamente de sua mensagem acerca da mensurabilidade
+de riscos nas ciências sociais.
+Repito o ponto: para lósofos operando com a probabilidade em si,
+o problema parece ser de cálculo. Neste livro, o problema da
+probabilidade é em grande medida uma questão de conhecimento, não
+de cômputo. Considero esses cálculos mera nota de rodapé para o
+tema. O verdadeiro problema é: de onde obtemos a probabilidade?
+Como podemos mudar nossas convicções? Venho trabalhando no
+problema de “apostas com dados errados”: é muito mais importante
+entender quais são os dados que estamos usando ao jogar do que
+desenvolver sosticados cálculos de resultados e correr o risco de ter,
+digamos, dados com nada mais além de seis. Em economia, por
+exemplo, temos modelos muito grandes de cálculos de risco baseados
+em suposições bastante fracas (na verdade, fracas, não, mas
+claramente equivocadas). Elas nos sufocam com matemática, mas tudo
+o mais está errado. Obter as suposições corretas pode ser mais
+importante do que ter um modelo sosticado.
+Um problema interessante é a questão do “value at risk”, em que as
+pessoas imaginam que sabem lidar com o risco usando “matemática
+complexa” e fazendo previsões sobre eventos raros — por julgar que
+são capazes, com base em dados passados, de observar as distribuições
+de probabilidade. O aspecto comportamental mais interessante é que
+as pessoas que o defendem não parecem ter testado seu histórico de
+previsão anterior, outro tipo de problema de Meehl.
+Pensadores e lósofos da probabilidade: Talvez o livro mais
+perspicaz já escrito sobre o assunto continue a ser o grande Tratado
+
+sobre
+a
+probabilidade,
+de
+John
+Maynard
+Keynes,
+que
+surpreendentemente não juntou poeira — de alguma forma, tudo o
+que descobrimos parece ter sido dito nele (embora, como é
+característico de Keynes, de maneira tortuosa). Nas habituais listas de
+pensadores da probabilidade, Shackle, que renou a probabilidade
+subjetiva, muitas vezes está imerecidamente ausente (Shackle, 1973).
+A maioria dos autores também omite as contribuições relevantes de
+Isaac Levi sobre a probabilidade subjetiva e suas ligações com a crença
+(Levi, 1970), o que deveria ser leitura obrigatória nessa área (é um
+livro impenetrável, mas vale o exercício). É uma pena, porque Isaac
+Levi é um pensador da probabilidade (em oposição a um calculador
+de probabilidades). O epistemologista da probabilidade Henry Kyburg
+(muito difícil de ler) também está ausente.
+Uma observação sobre os lósofos em comparação com os
+cientistas é que eles parecem funcionar de uma maneira muito
+heterogênea e compartimentada: em losoa, lida-se com a
+probabilidade em diferentes ramos como lógica, epistemologia,
+escolha racional, losoa da matemática e losoa da ciência. É
+surpreendente ver Nicholas Rescher proferindo seu perspicaz
+discurso na Associação Filosóca Norte-Americana sobre o tópico da
+sorte, mais tarde publicado como um livro intitulado Luck sem
+discutir boa parte dos problemas na literatura losóca e cognitiva
+sobre probabilidade.
+Problemas com a mensagem: Vale notar que muitos leitores nas
+prossões técnicas, digamos, na engenharia, demonstraram certa
+diculdade em ver a conexão entre probabilidade e crença e a
+importância do ceticismo na gestão de risco.
+CAPÍTULO 14
+Estoicismo: Discussões modernas em Becker (1998) e Banateanu
+(2001).
+PÓS-ESCRITO
+
+Incerteza e prazer: Ver Wilson et al. (2005) para o efeito da
+aleatoriedade no prolongamento de estados hedônicos positivos.
+Aparência e sucesso: Ver Shahami et al. (1993) Hosoda et al. e
+(1999). Meu amigo Peter Bevelin me escreveu: “Quando penso em
+erro de julgamento de personalidades, sempre me lembro de Sherlock
+Holmes em O signo dos quatro, de Arthur Conan Doyle: ‘É de suma
+importância não permitir que nosso juízo seja distorcido por
+qualidades pessoais. Asseguro-lhe que a mulher mais encantadora que
+já vi foi condenada ao enforcamento por envenenar três criancinhas
+para car com o dinheiro do seguro, e que o homem mais repulsivo
+que conheço é um lantropo que já gastou quase um quarto de milhão
+com os pobres de Londres’”.
+Maximização: A literatura psicológica tem enfocado a maximização
+em termos de escolha, não tanto em termos de otimização efetiva. Vou
+além, examinando a atividade de otimização na vida diária. Para
+síntese e revisão do impacto hedônico da maximização e de por que
+“menos é mais”, ver Schwartz (2003). Ver também Schwartz et al.
+(2002). Para o nexo de causalidade entre a infelicidade e a busca de
+benefícios materiais, ver Kasser (2002).
+Data da sua morte: Devo este último ponto a Gerd Gigerenzer.
+Comportamento imprevisível: Ver Miller (2000) para a discussão
+da questão em biologia. Ver também as aplicações de Lucas (1978) em
+uma política monetária aleatória que frustra as expectativas.
+

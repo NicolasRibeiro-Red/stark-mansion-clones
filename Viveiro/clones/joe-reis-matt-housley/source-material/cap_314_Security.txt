@@ -1,0 +1,45 @@
+# Security
+
+Paginas: 386-386
+
+instances where serving data highlights something missed earlier in the lifecycle.
+Always be on the lookout for how the undercurrents can help you spot ways to
+improve data products.
+We’re fond of saying, “Data is a silent killer,” and the undercurrents come to a head in
+the serving stage. Serving is your final chance to make sure your data is in great shape
+before it gets into the hands of end users.
+Security
+The same security principles apply whether sharing data with people or systems. We
+often see data shared indiscriminately, with little to no access controls or thought as
+to what the data will be used for. This is a huge mistake that can have catastrophic
+results, such as a data breach and the resulting fines, bad press, and lost jobs. Take
+security seriously, especially in this stage of the lifecycle. Of all the lifecycle stages,
+serving presents the largest security surface.
+As always, exercise the principle of least privilege both for people and systems, and
+provide only the access required for the purpose at hand and the job to be done.
+What data does an executive need versus an analyst or data scientist? What about an
+ML pipeline or reverse ETL process? These users and destinations all have different
+data needs, and access should be provided accordingly. Avoid giving carte blanche
+permissions to everyone and everything.
+Serving data is often read-only unless a person or process needs to update data in the
+system from which it is queried. People should be given read-only access to specific
+databases and datasets unless their role requires something more advanced like write
+or update access. This can be accomplished by combining groups of users with
+certain IAM roles (i.e., analysts group, data scientist group) or custom IAM roles if
+this makes sense. For systems, provide service accounts and roles in a similar fashion.
+For both users and systems, narrow access to a dataset’s fields, rows, columns, and
+cells if this is warranted. Access controls should be as fine-grained as possible and
+revoked when access is no longer required.
+Access controls are critical when serving data in a multitenant environment. Make
+sure users can access only their data and nothing more. A good approach is to
+mediate access through filtered views, thus alleviating the security risks inherent in
+sharing access to a common table. Another suggestion is to use data sharing in your
+workflows, which allows for read-only granular controls between you and people
+consuming your data.
+Check how often data products are used and whether it makes sense to stop sharing
+certain data products. It’s extremely common for an executive to urgently request
+an analyst to create a report, only to have this report very quickly go unused. If
+Undercurrents
+|
+361
+

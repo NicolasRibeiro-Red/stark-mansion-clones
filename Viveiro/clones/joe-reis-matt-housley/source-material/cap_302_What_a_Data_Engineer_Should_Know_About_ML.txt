@@ -1,0 +1,54 @@
+# What a Data Engineer Should Know About ML
+
+Paginas: 375-375
+
+What a Data Engineer Should Know About ML
+Before we discuss serving data for ML, you may ask yourself how much ML you need
+to know as a data engineer. ML is an incredibly vast topic, and we won’t attempt to
+teach you the field; countless books and courses are available to learn ML.
+While a data engineer doesn’t need to have a deep understanding of ML, it helps
+tremendously to know the basics of how classical ML works and the fundamentals
+of deep learning. Knowing the basics of ML will go a long way in helping you work
+alongside data scientists in building data products.
+Here are some areas of ML that we think a data engineer should be familiar with:
+• The difference between supervised, unsupervised, and semisupervised learning.
+•
+• The difference between classification and regression techniques.
+•
+• The various techniques for handling time-series data. This includes time-series
+•
+analysis, as well as time-series forecasting.
+• When to use the “classical” techniques (logistic regression, tree-based learning,
+•
+support vector machines) versus deep learning. We constantly see data scientists
+immediately jump to deep learning when it’s overkill. As a data engineer, your
+basic knowledge of ML can help you spot whether an ML technique is appropri‐
+ate and scales the data you’ll need to provide.
+• When would you use automated machine learning (AutoML) versus handcraft‐
+•
+ing an ML model? What are the trade-offs with each approach regarding the data
+being used?
+• What are data-wrangling techniques used for structured and unstructured data?
+•
+• All data that is used for ML is converted to numbers. If you’re serving structured
+•
+or semistructured data, ensure that the data can be properly converted during the
+feature-engineering process.
+• How to encode categorical data and the embeddings for various types of data.
+•
+• The difference between batch and online learning. Which approach is appropri‐
+•
+ate for your use case?
+• How does the data engineering lifecycle intersect with the ML lifecycle at your
+•
+company? Will you be responsible for interfacing with or supporting ML tech‐
+nologies such as feature stores or ML observability?
+• Know when it’s appropriate to train locally, on a cluster, or at the edge. When
+•
+would you use a GPU over a CPU? The type of hardware you use largely depends
+on the type of ML problem you’re solving, the technique you’re using, and the
+size of your dataset.
+350
+|
+Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
+

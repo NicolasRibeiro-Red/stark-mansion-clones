@@ -1,0 +1,420 @@
+# 19. A lógica de correr riscos
+
+Paginas: 229-241
+
+19. A lógica de correr riscos
+O capítulo principal sempre vem por último — Sempre aposte duas vezes — Você
+conhece a sua hora de parar? — Quem é “você”? — Os gregos quase sempre
+estavam certos
+FIGURA 5. A diferença entre cem pessoas indo a
+um cassino e uma pessoa indo a um cassino
+cem
+vezes,
+isto
+é,
+entre
+probabilidade
+dependente
+do
+caminho
+e
+compreendida
+convencionalmente.
+O
+erro
+persiste
+na
+
+economia e na psicologia desde tempos
+imemoriais. CRÉDITO ILUSTRAÇÃO: SHUTTERSTOCK
+Hora de explicar a ergodicidade, a ruína e (novamente) a racionalidade. Lembre-
+se de que fazer ciência (e outras coisas boas) requer sobrevivência, mas não o
+contrário.
+Considere o seguinte experimento mental. No primeiro caso, cem pessoas vão a
+um cassino para apostar determinada quantia cada uma no decorrer de
+determinado período de tempo e bebericam o gim-tônica que ganham de cortesia
+— como é mostrado no desenho na figura 5. Algumas delas podem perder,
+algumas podem ganhar, e no fim do dia podemos inferir qual é a “margem”, ou
+seja, calcular os retornos simplesmente contando o dinheiro que sobra na carteira
+das pessoas que retornam. Assim, podemos descobrir se o cassino está avaliando
+corretamente as probabilidades. Agora suponha que o jogador de número 28
+“quebre” e vá à bancarrota. O jogador de número 29 será afetado? Não.
+Podemos calcular com segurança, a partir da nossa amostra, que cerca de 1%
+dos apostadores perderá tudo. E se o apostador continuar jogando e jogando a
+expectativa é a de que tenhamos mais ou menos a mesma proporção, 1% dos
+apostadores indo à falência, em média, na mesma janela de tempo.
+Agora comparemos isso ao segundo caso do experimento mental. Uma pessoa,
+seu primo Theodorus Ibn Warqa, vai ao cassino durante cem dias seguidos,
+começando com uma quantia fixa. No dia 28, o primo Theodorus Ibn Warqa fica
+liso, sem dinheiro algum. Haverá o dia 29? Não. Ele atingiu a hora de parar; não
+tem mais jogo.
+Não importa quanto seu primo Theodorus Ibn Warqa seja bom ou alerta, você
+pode calcular com toda certeza de que ele tem uma probabilidade de 100% de,
+no fim das contas, ir à falência.
+As probabilidades de sucesso de um grupo de pessoas não se aplicam ao primo
+Theodorus Ibn Warqa. Vamos chamar o primeiro de probabilidade de conjunto, e
+o segundo de probabilidade de tempo (já que o primeiro diz respeito a um grupo
+de pessoas e o segundo concerne a uma única pessoa no decorrer do tempo).
+Agora, quando você ler material escrito por professores de finanças, gurus do
+mercado financeiro ou seu banco local fazendo recomendações de investimentos
+com base nos retornos de longo prazo do mercado, cuidado. Mesmo que as
+previsões deles fossem verdadeiras (não são), nenhum indivíduo pode obter os
+mesmos retornos que o mercado, a menos que tenha bolsos infinitos e não tenha
+hora de parar. Isso é fundir a probabilidade de conjunto e a probabilidade de
+tempo. Se mais dia, menos dia o investidor tiver de reduzir sua exposição por
+
+causa das perdas, ou por causa da aposentadoria, ou porque se divorciou para se
+casar com a mulher do vizinho, ou porque de repente desenvolveu um vício em
+heroína após sua hospitalização em decorrência de uma apendicite, ou porque
+mudou de ideia sobre a vida, seus retornos serão dissociados daqueles do
+mercado, ponto final.
+Qualquer um que tenha sobrevivido no negócio de assumir riscos por alguns
+anos tem alguma versão do nosso agora já conhecido princípio de que “para ter
+sucesso, você deve primeiro sobreviver”. O meu próprio princípio tem sido:
+“nunca atravesse um rio se ele tiver em média 1,20 metro de profundidade”.
+Efetivamente organizei toda a minha vida em torno do fundamento de que a
+sequência é importante e a presença da ruína desqualifica as análises de custo-
+benefício; mas nunca me ocorreu que a falha na teoria da decisão fosse tão
+profunda. Até que do nada surgiu um artigo do físico Ole Peters, trabalhando
+com o grande Murray Gell-Mann. Eles apresentaram uma versão da diferença
+entre as probabilidades de conjunto e de tempo com um experimento mental
+semelhante ao que apresentei aqui, e mostraram que praticamente tudo nas ciên-
+cias sociais que tem a ver com a probabilidade é falho. Profundamente falho.
+Profundissimamente falho. Terminalmente falho. Pois, no quarto milênio desde
+uma formulação inicial de tomada de decisão sob incerteza pelo matemático
+Jacob Bernoulli, que desde então se tornou padrão, quase todas as pessoas
+envolvidas no campo cometeram o grave erro de não compreender o efeito da
+diferença entre conjunto e tempo.1 Todo mundo? Não é bem assim: todo
+economista talvez, mas nem todo mundo. Os matemáticos aplicados Claude
+Shannon e Ed Thorp, e o físico J. L. Kelly, do Critério de Kelly, entenderam
+direito. E conseguiram isso de uma maneira muito simples. O pai da atuária (a
+matemática do seguro), o matemático aplicado sueco Harald Cramér, também
+entendeu. E, há mais de duas décadas, praticantes como Mark Spitznagel e eu
+construímos toda a nossa carreira nos negócios em torno dessa diferença
+(misteriosamente, acertei em cheio nos meus textos e quando eu fazia transações
+no mercado financeiro e quando tomava decisões, e percebo bem no fundo
+quando a ergodicidade é violada, mas nunca entendi explicitamente a estrutura
+matemática de Peters e Gell-Mann — a ergodicidade é discutida inclusive em
+Iludido pelo acaso, de duas décadas atrás). Spitznagel e eu até abrimos uma
+empresa inteiramente devotada a ajudar investidores a eliminar a hora de parar de
+modo a poderem obter o retorno do mercado. Embora eu tenha me aposentado
+para perambular um pouco mundo afora, Mark continuou implacavelmente (e
+com sucesso) na sua [empresa de gerenciamento de riscos] Universa. Mark e eu
+
+ficamos frustrados por economistas que, sem compreender a ergodicidade,
+continuam dizendo que se preocupar com as caudas é “irracional”.
+A ideia que acabei de apresentar é muito, muito simples. Mas como é que
+ninguém, durante 250 anos, percebeu? Faltou arriscar a própria pele,
+obviamente.
+Pois parece que é preciso ter muita inteligência para entender coisas
+probabilísticas quando não se arrisca a própria pele. Mas, para um não praticante
+superinstruído, essas coisas são difíceis de compreender. A menos que a pessoa
+seja um gênio, isto é, tenha a clareza mental para enxergar através da lama, ou
+tenha um domínio suficientemente profundo da teoria da probabilidade para
+romper à força a barreira de baboseiras. Agora, comprovadamente, Murray Gell-
+Mann é um gênio (é provável que Peter também). Gell-Mann descobriu as
+partículas subatômicas que ele mesmo chamou de quarks (o que lhe assegurou o
+Nobel). Peters disse que quando apresentou a ideia a Gell-Mann, “ele entendeu
+no mesmo instante”. Claude Shannon, Ed Thorp, J. L. Kelly e Harald Cramér são,
+sem dúvida, gênios — posso pessoalmente pôr a mão no fogo por Thorp, que tem
+um inequívoco discernimento combinado a uma profundidade de pensamento
+que se destaca numa conversa. Essas pessoas seriam capazes de entender sem
+arriscar a própria pele. Mas economistas, psicólogos e teóricos da decisão não
+têm gênios entre suas fileiras (a menos que se conte o polímata Herb Simon, que
+trabalhou um pouco com psicologia por fora), e são grandes as chances de que
+nunca terão. Adicionar pessoas sem a perspicácia fundamental não resulta em
+clareza de visão; buscar clareza nesses campos é como procurar harmonia estética
+no cubículo de um hacker autônomo ou no sótão de um eletricista extremamente
+desorganizado.
+ERGODICIDADE
+Para fazer um balanço: uma situação é considerada não ergódica quando
+probabilidades passadas observadas não se aplicam a processos futuros. Há uma
+“parada” em algum lugar, uma barreira absorvente que impede que pessoas que
+arriscam a própria pele saiam dela — e para a qual o sistema invariavelmente
+tenderá. Vamos chamar essas situações de “ruína”, já que não há reversibilidade
+fora da condição. O problema essencial é que, se houver uma possibilidade de
+ruína, as análises de custo-benefício não serão mais possíveis.
+Consideremos um exemplo mais extremo do que o experimento do cassino.
+Suponhamos que um grupo de pessoas jogue roleta-russa uma única vez por 1
+
+milhão de dólares — esta é a história central em Iludido pelo acaso. Cinco a cada
+seis pessoas ganharão dinheiro. Se alguém usasse uma análise de custo-benefício
+padrão, teria alegado que a pessoa tem uma chance de 83,33% de ganhos, para
+um retorno médio “esperado” por chance de 833.333 dólares. Mas, se a pessoa
+continuar jogando roleta-russa, vai acabar no cemitério. A expectativa de retorno
+dela é… não computável.
+REPETIÇÃO DE EXPOSIÇÕES
+Vejamos por que as declarações de “testes estatísticos” e “científicos” são
+extremamente insuficientes na presença de problemas de ruína e repetição de
+exposições. Se alguém alegasse haver “evidências estatísticas de que um avião é
+seguro”, com um nível de confiança de 98% (estatísticas não têm sentido sem
+esses intervalos de confiança) e agisse em conformidade com essa diretriz,
+praticamente nenhum piloto experiente estaria vivo hoje. Em minha guerra
+contra a máquina da Monsanto, os defensores dos transgênicos insistiam em
+contra-argumentar golpeando-me com análises de benefícios (que muitas vezes
+eram espúrias e manipuladas), e não análises de risco de cauda para exposições
+repetidas.
+Os psicólogos determinam nossa “paranoia” ou “aversão ao risco” submetendo
+uma pessoa a um único experimento — e depois declaram que os humanos são
+racionalmente incapazes, pois há uma tendência inata de “superestimar”
+pequenas probabilidades. Eles conseguem acreditar que seus sujeitos de pesquisa
+nunca mais assumirão qualquer risco de cauda! Lembre-se, pela leitura do
+capítulo sobre desigualdade, de que os acadêmicos em ciências sociais são…
+dinamicamente incapazes. Ninguém pôde ver a óbvia (tão evidente que salta à
+vista até das avós) inconsistência de tal comportamento com a nossa arraigada
+lógica de vida diária, que é acentuadamente mais rigorosa. Fumar um único
+cigarro é extremamente benigno, portanto uma análise de custo-benefício
+consideraria irracional desistir de tamanho prazer por tão pouco risco! Mas é o
+ato de fumar que mata, um certo número de maços por ano, ou dezenas de
+milhares de cigarros — em outras palavras, exposição repetida em série.
+Mas as coisas são ainda piores: na vida real, cada pedaço de risco que a pessoa
+assume contribui para reduzir sua expectativa de vida. Se alguém escala
+montanhas e dirige uma motocicleta e pilota seu próprio avião e bebe absinto e
+fuma cigarros e pratica parkour nas noites de quinta-feira, sua expectativa de vida
+é consideravelmente reduzida, embora nenhuma ação isolada tenha um efeito
+
+significativo. Essa ideia de repetição torna a paranoia com relação a alguns
+eventos de baixa probabilidade, mesmo aqueles considerados “patológicos”,
+perfeitamente racional.
+Além disso, há uma guinada. Se a medicina está melhorando progressivamente a
+nossa expectativa de vida, precisamos ser ainda mais paranoicos. Pensar
+dinamicamente.
+Se uma pessoa ficar sujeita a uma pequena probabilidade de ruína como um
+risco “único e ímpar”, sobreviver e, em seguida, fizer a mesma coisa novamente
+(outro evento “que não se repete”), acabará falindo, com 100% de probabilidade.
+A confusão surge porque pode parecer que, se o risco “único” é razoável, um
+adicional também é razoável. Isso pode ser quantificado reconhecendo-se que a
+probabilidade de ruína se aproxima de 1 à medida que o número de exposições a
+riscos individualmente pequenos — digamos 1 em dez mil — aumenta.
+A falha nos artigos de psicologia é acreditar que o sujeito de pesquisa não
+assume nenhum outro risco em qualquer lugar fora do experimento e, de maneira
+decisiva, nunca mais assumirá qualquer risco. A ideia nas ciências sociais de
+“aversão à perda” não foi examinada com a devida atenção — ela não é
+mensurável da maneira como foi medida (se é que de fato é mensurável).
+Digamos que você pergunte a uma cobaia quanto ela pagaria para pôr no seguro
+uma probabilidade de 1% de perder cem dólares. Você está tentando descobrir
+quanto a pessoa está “pagando em excesso” pela “aversão ao risco” ou algo ainda
+mais tolo, “aversão à perda”. Mas você não pode ignorar todos os outros riscos
+financeiros que essa pessoa está assumindo: se ela tem um carro estacionado na
+rua e que pode ser arranhado, se tem uma carteira de investimentos passível de
+perder dinheiro, se tem uma padaria que talvez seja multada, se tem um filho
+matriculado numa faculdade que pode inesperadamente ficar mais cara, se pode
+ser demitido, se no futuro pode adoecer subitamente. Todos esses riscos se
+somam, e a atitude do sujeito reflete todos eles. A ruína é indivisível e invariante
+à fonte de aleatoriedade que pode causá-la.
+Outro erro comum na literatura psicológica diz respeito ao que é chamado de
+“contabilidade mental”. A teoria da escola de informação de Thorp, Kelly e
+Shannon exige que, para que uma estratégia de investimento seja ergódica e no
+fim das contas capture o retorno do mercado, os agentes aumentem seus riscos
+enquanto estiverem ganhando, mas reduzam e limitem a aposta após perdas, uma
+técnica chamada de “jogar com o dinheiro da casa”. Na prática, isso é feito por
+limiar, pela facilidade de execução, não por regras complicadas: a pessoa começa
+apostando agressivamente sempre que tiver lucro, nunca quando tiver um déficit,
+
+como se um interruptor fosse ligado ou desligado. Esse método é praticado por
+provavelmente todos os traders que sobreviveram. Agora acontece que essa
+estratégia
+dinâmica
+é
+considerada
+inapropriada
+por
+econofastros
+comportamentais como o horripilante intervencionista Richard Thaler, que,
+muito ignorante acerca da probabilidade, chama essa “contabilidade mental”2 de
+erro (e, é claro, convida o governo a nos “empurrar” para longe dela, e impedir
+que as estratégias sejam ergódicas).
+Acredito que a aversão ao risco não existe: o que observamos é, simplesmente,
+um residual de ergodicidade. As pessoas estão, simplesmente, tentando evitar o
+suicídio financeiro e assumir certa atitude com relação aos riscos de cauda.
+Mas não precisamos ser excessivamente paranoicos acerca de nós mesmos;
+precisamos mudar algumas das nossas preocupações para coisas maiores.
+QUEM É “VOCÊ”?
+Voltemos à noção de “tribo”. Um dos defeitos que a educação e o pensamento
+modernos introduzem é a ilusão de que cada um de nós é único. Com efeito,
+entrevistei uma amostragem de noventa pessoas em seminários e perguntei:
+“Qual é a pior coisa que pode acontecer com você?”. Oitenta e oito pessoas
+responderam: “Morrer”.
+Essa só pode ser a pior situação possível para um psicopata. Porque, depois
+disso, perguntei a quem julgava que o pior desfecho seria a própria morte: “A sua
+morte mais a morte dos seus filhos, sobrinhos, primos, gatos, cachorros,
+periquitos e hamsters (se tiver algum dos itens mencionados) é pior do que
+apenas a sua morte?”. Invariavelmente, sim. “Sua morte mais a de seus filhos,
+sobrinhos, primos (…) e mais a de toda a humanidade é pior do que apenas a sua
+morte?”. Sim, claro. Então, como pode a sua morte ser o pior cenário possível?3
+A menos que você seja um rematado narcisista e psicopata — mesmo assim —, a
+sua pior situação possível jamais se limita à perda apenas de sua vida.
+Assim, vemos o argumento fundamental de que a ruína individual não é tão
+importante quanto a ruína coletiva. E, é claro, o ecocídio, a destruição
+irreversível do meio ambiente, é o grande tema com o qual devemos nos
+preocupar.
+Para usar o arcabouço ergódico: minha morte na roleta-russa não é ergódica
+para mim, mas é ergódica para o sistema. O princípio da precaução, como
+formulei com alguns colegas, trata precisamente da camada mais alta.
+
+FIGURA 6. Assumir riscos pessoais para salvar o coletivo é “coragem” e
+“prudência”, já que você está reduzindo os riscos para a coletividade.
+Praticamente toda vez que discuto o princípio da precaução, algum especialista
+superinstruído sugere que “corremos riscos ao atravessar a rua”, então por que se
+preocupar tanto com o sistema? Esse sofisma geralmente suscita em mim um
+pouco de fúria. À parte o fato de que o risco de ser assassinado na condição de
+pedestre é de menos de 1 em 47 mil anos, a questão é que minha morte nunca é a
+pior hipótese possível, a menos que se correlacione à morte de outros.
+Tenho uma vida útil finita, a humanidade deveria ter uma duração infinita.
+Ou,
+Eu sou renovável, a humanidade ou o ecossistema, não.
+Pior ainda, como mostrei em Antifrágil, a fragilidade dos componentes do
+sistema (desde que sejam renováveis e substituíveis) é necessária para assegurar a
+solidez do sistema como um todo. Se os humanos fossem imortais, seriam
+
+extintos em decorrência de um acidente, ou de um acúmulo gradual de desajuste
+da forma física. Mas a vida útil mais curta para os seres humanos permite que as
+mudanças genéticas ao longo das gerações estejam em sincronia com a
+variabilidade do ambiente.
+CORAGEM E PRECAUÇÃO NÃO SÃO OPOSTOS
+Como é possível que tanto a coragem quanto a prudência sejam virtudes
+clássicas? A virtude, conforme apresentada na Ética a Nicômaco de Aristóteles,
+inclui: sophrosyne (σωφροσύνη), prudência, e uma forma de bom senso e sólido
+discernimento que ele chamou de forma mais ampla de phrónesis (φρόνησις)4
+Estas não são inconsistentes com a coragem?
+Em nosso arcabouço, não são nem um pouco. Na verdade são, como diria Tony
+Gordo, a mesmo coiza. Como?
+Posso fazer uso da coragem para salvar um grupo de crianças do afogamento,
+colocando em risco a minha própria vida, e isso também corresponderia a uma
+forma de prudência. Se eu morresse, estaria sacrificando uma camada inferior na
+figura 6 para salvar a camada superior.
+Coragem, de acordo com o ideal grego que Aristóteles herdou de Homero (e
+transmitido por Sólon, Péricles e Tucídides) nunca é uma ação egoísta:
+Coragem é quando você sacrifica o próprio bem-estar em prol da sobrevivência de
+uma camada superior à sua.
+Coragem egoísta não é coragem. Um apostador tolo não está cometendo um ato
+de coragem, especialmente se estiver arriscando os fundos de outras pessoas ou
+se tiver uma família para alimentar.5
+RACIONALIDADE, DE NOVO
+O último capítulo reformulou a racionalidade em termos de decisões reais, não
+do que se chama de “crenças”, pois estas podem ser adaptadas para nos estimular
+da maneira mais convincente a evitar coisas que ameacem a sobrevivência
+sistêmica. Se a superstição é o que é necessário, não só não há absolutamente
+nenhuma violação dos axiomas da racionalidade aí, mas seria tecnicamente
+irracional atrapalhá-la ou impedi-la. Se a superstição é o que é necessário para
+satisfazer a ergodicidade, que seja.
+Voltemos a Warren Buffett. Ele não ganhou seus bilhões por meio da análise de
+custo-benefício; em vez disso, ficou bilionário simplesmente estabelecendo um
+
+filtro alto, e depois escolhendo oportunidades que ultrapassassem esse limiar. “A
+diferença entre pessoas bem-sucedidas e pessoas realmente bem-sucedidas é que
+as pessoas realmente bem-sucedidas dizem não para quase tudo”, declarou ele.
+Da mesma forma, nossa estrutura pode ser adaptada para “dizer não” ao risco de
+cauda. Pois há um zilhão de maneiras de ganhar dinheiro sem correr riscos de
+cauda. Há um zilhão de maneiras de resolver problemas (alimentar o mundo, por
+exemplo) sem tecnologias complicadas que acarretem fragilidade e uma
+possibilidade desconhecida de explosão de cauda. Sempre que ouço alguém dizer
+“precisamos correr riscos [de cauda]”, sei que isso não saiu da boca de um
+praticante sobrevivente, mas de um acadêmico de finanças ou de um banqueiro
+— o último, nós vimos, quase sempre explode, geralmente com o dinheiro de
+outras pessoas.
+Na verdade, não nos custa muito recusar algumas novas tecnologias de segunda
+categoria. Não me custa muito seguir a minha “paranoia refinada”, mesmo que
+esteja errada. Tudo o que é necessário é que minha paranoia esteja certa uma
+única vez, e ela salva minha vida.
+AME ALGUNS RISCOS
+Antifrágil mostra como as pessoas confundem risco de ruína com variações e
+flutuações — uma simplificação que viola uma lógica mais profunda e mais
+rigorosa das coisas. Defendo a ideia de amar o risco, apresento argumentos a
+favor de sistemáticos ajustes e experimentações “convexos”, e de se assumirem
+muitos riscos que não tenham riscos de cauda mas ofereçam lucros de cauda.
+Coisas voláteis não são necessariamente arriscadas, e o inverso também é
+verdadeiro. Saltar de cima de um banco de rua seria bom para você e seus ossos,
+ao passo que cair do vigésimo segundo andar nunca será. Serão benéficos os
+pequenos ferimentos, nunca os maiores, aqueles que têm efeitos irreversíveis.
+Espalhar medo alarmista com relação a algumas classes de eventos é alarmismo;
+com relação a outras classes de eventos, não é. Risco e ruína são coizas diferentes.
+EMPIRISMO INGÊNUO
+Os riscos não são todos iguais. Muitas vezes ouvimos que “o Ebola vem
+causando menos mortes do que o número de pessoas que se afoga na banheira”
+ou algo do tipo, com base em “provas”. Essa é outra classe de problemas que sua
+avó consegue entender, mas os semi-instruídos não.
+
+Nunca compare um risco multiplicativo, sistêmico e de cauda longa a um risco
+não multiplicativo, idiossincrático e de cauda curta.
+Lembre-se de que me preocupo com a correlação entre a morte de uma pessoa
+e a de outra. Por isso precisamos nos preocupar com efeitos sistêmicos: coisas
+que, caso aconteçam, podem afetar mais de uma pessoa.
+Uma revisão/atualização. Existem duas categorias nas quais se encaixam os
+eventos aleatórios: Mediocristão e Extremistão. O Mediocristão é de cauda curta
+e afeta o indivíduo sem correlação com o coletivo. O Extremistão, por definição,
+afeta muitas pessoas. Por conseguinte, o Extremistão tem um efeito sistêmico
+que o Mediocristão não tem. Riscos multiplicativos — como as epidemias — são
+sempre do Extremistão. Podem não ser letais (a gripe, por exemplo), mas
+continuam sendo do Extremistão.
+Em termos mais técnicos:
+Os riscos Mediocristãos estão sujeitos ao limite de Chernoff.
+O limite de Chernoff pode ser explicado da seguinte maneira. A probabilidade
+de que o número de pessoas que se afogam na banheira nos Estados Unidos
+dobre no próximo ano — supondo que não haja mudanças na população nem nas
+banheiras — é de 1 por vários trilhões de vidas do universo. Isso não pode ser
+dito sobre a duplicação do número de pessoas mortas pelo terrorismo no mesmo
+período.
+Jornalistas e cientistas sociais são patologicamente propensos a esse disparate —
+em especial aqueles que pensam que uma regressão e um gráfico são maneiras
+sofisticadas de abordar um problema. De forma mais simples, foram treinados
+com ferramentas para o Mediocristão. Então, muitas vezes vemos a manchete
+alardeando que o número de cidadãos norte-americanos que dormiram com Kim
+Kardashian é maior do que os que morreram por Ebola. Ou que mais gente
+morreu vitimada por seus próprios móveis do que por atos terroristas. A lógica
+da nossa avó tornaria ridículas essas afirmações. Basta apenas considerar que: é
+impossível que 1 bilhão de pessoas durma com Kim Kardashian (até mesmo ela),
+mas há uma probabilidade não zero de que um processo multiplicativo (uma
+pandemia) cause um número tão descomunal de mortes por Ebola. Ou mesmo se
+tais eventos não fossem multiplicativos, digamos, o terrorismo, há uma
+probabilidade de ações como poluir o suprimento de água, que podem causar
+desvios extremos. O outro argumento é de reação: se as baixas de terrorismo são
+pequenas, é por causa da vigilância (tendemos a revistar os passageiros antes do
+
+embarque em aviões), e o argumento de que essa vigilância é supérflua indica
+uma grave falha de raciocínio. A sua banheira não está tentando matar você.
+Eu estava me perguntando por que essa questão parece ser antinatural para
+muitos “cientistas” (o que inclui os formuladores de políticas), mas natural para
+algumas outras pessoas, como o probabilista Paul Embrechts. Em termos simples,
+Embrechts olha para as coisas a partir da cauda. Embrechts estuda um ramo da
+probabilidade chamado de teoria do valor extremo, e faz parte de um grupo que
+chamamos de “extremistas” — um grupo restrito de pesquisadores que se
+especializam, como eu, em eventos extremos. Bem, Embrechts e seus colegas
+analisam a diferença entre processos para extremos, nunca para o comum. Não
+confunda isso com o Extremistão: eles estudam o que acontece nos extremos,
+que inclui tanto o Extremistão quanto o Mediocristão — acontece que o
+Mediocristão é mais ameno que o Extremistão. Eles classificam o que pode
+acontecer “nas caudas” de acordo com a distribuição generalizada do valor
+extremo. As coisas são muito — muito — mais claras nas caudas. E as coisas são
+muito — muito — mais claras em probabilidade do que em palavras.
+RESUMO
+Encerramos este capítulo com algumas frases à guisa de resumo.
+Uma pessoa pode amar correr riscos, mas ser completamente avessa à ruína.
+A assimetria essencial da vida é:
+Em uma estratégia que implica a ruína, os benefícios nunca compensam os riscos.
+Indo além:
+A ruína e outras mudanças de condição são coisas muito diferentes.
+Cada risco que você assume contribui para reduzir sua expectativa de vida.
+Por fim:
+Racionalidade é evitar a ruína sistêmica.
+1. Assim como no meu projeto “caudas longas”, os economistas talvez estejam cientes do problema conjunto-
+tempo, mas de maneira estéril. Além disso, insistem em dizer “nós sabemos sobre as caudas longas”, mas de
+alguma forma não percebem que levar a ideia para o passo seguinte contradiz boa parte do seu trabalho. São
+as consequências que importam.
+
+2. A contabilidade mental refere-se à tendência das pessoas de colocar mentalmente (ou fisicamente) seus
+fundos em contas isoladas separadas, concentrando-se na fonte do dinheiro e esquecendo-se de que, como
+donos do lucro, a fonte não deveria importar. Por exemplo, alguém que não compraria uma gravata por ser
+cara e porque parece uma compra supérflua fica empolgado quando sua esposa lhe dá como presente de
+aniversário a mesma gravata, que ela comprou usando fundos de uma conta corrente conjunta. No caso em
+discussão, Thaler considera um erro a pessoa variar a estratégia dependendo se a fonte dos fundos é o lucro
+obtido na jogatina em um cassino ou a renda original. Claramente, Thaler, como outros psicologuinhos,
+ignora a dinâmica: os cientistas sociais não são bons com coisas que se movem.
+3. Na verdade, costumo fazer a piada de que minha morte mais o fato de alguém de quem eu não gosto
+sobreviver — o professor de jornalismo Steven Pinker, por exemplo — é pior do que apenas a minha morte.
+4. Frônese, conceito que designa a sabedoria por ser a virtude do pensamento prático, sendo traduzido
+habitualmente como sabedoria prática. (N. T.)
+5. Para mostrar a inanidade das ciências sociais, eles têm que reunir o sensacionalismo dos “neurônios-
+espelho” para explicar o vínculo entre o individual e o coletivo. Fiar-se em neuro-alguma coisa é uma forma
+de cientificismo chamada “pornografia cerebral”, discutida em Antifrágil.
+

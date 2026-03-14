@@ -1,0 +1,33 @@
+# Insert-Only
+
+Paginas: 187-187
+
+Figure 5-3. Database logs record operations on a table
+CRUD
+CRUD, which stands for create, read, update, and delete, is a transactional pattern
+commonly used in programming and represents the four basic operations of persis‐
+tent storage. CRUD is the most common pattern for storing application state in a
+database. A basic tenet of CRUD is that data must be created before being used. After
+the data has been created, the data can be read and updated. Finally, the data may
+need to be destroyed. CRUD guarantees these four operations will occur on data,
+regardless of its storage.
+CRUD is a widely used pattern in software applications, and you’ll commonly find
+CRUD used in APIs and databases. For example, a web application will make heavy
+use of CRUD for RESTful HTTP requests and storing and retrieving data from a
+database.
+As with any database, we can use snapshot-based extraction to get data from a
+database where our application applies CRUD operations. On the other hand, event
+extraction with CDC gives us a complete history of operations and potentially allows
+for near real-time analytics.
+Insert-Only
+The insert-only pattern retains history directly in a table containing data. Rather
+than updating records, new records get inserted with a timestamp indicating when
+they were created (Table 5-1). For example, suppose you have a table of customer
+addresses. Following a CRUD pattern, you would simply update the record if the
+customer changed their address. With the insert-only pattern, a new address record
+is inserted with the same customer ID. To read the current customer address by
+customer ID, you would look up the latest record under that ID.
+162
+|
+Chapter 5: Data Generation in Source Systems
+

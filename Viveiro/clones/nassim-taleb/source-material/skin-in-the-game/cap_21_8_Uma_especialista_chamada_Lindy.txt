@@ -1,0 +1,422 @@
+# 8. Uma especialista chamada Lindy
+
+Paginas: 147-158
+
+8. Uma especialista chamada Lindy
+Ela é a única especialista — Não coma o cheesecake deles — Metaespecialistas
+julgados por metametaespecialistas — Prostitutas, não prostitutas e amadoras
+A Lindy’s é uma delicatéssen em Nova York, hoje em dia uma armadilha para
+turistas, que afirma com orgulho ser famosa por seu cheesecake, mas na verdade
+é conhecida há cerca de cinquenta anos por físicos e matemáticos graças à
+heurística que se desenvolveu lá. Atores que ficavam de bobeira na loja fofocando
+sobre outros atores descobriram que os espetáculos da Broadway que se
+mantinham em cartaz por, digamos, cem dias, tinham uma expectativa de vida
+futura de mais cem. Para aqueles que duravam duzentos dias, duzentos mais. A
+heurística ficou conhecida como efeito Lindy.
+Deixe-me alertar o leitor: embora o efeito Lindy seja uma das heurísticas mais
+úteis, robustas e universais que conheço, o cheesecake da Lindy é… muito menos
+notável. O mais provável é que a delicatéssen não sobreviverá, de acordo com o
+efeito Lindy.
+Um punhado de modelos matemáticos se encaixavam mais ou menos na
+história, embora não muito, até que a) este que vos fala descobriu que a melhor
+forma de compreender o efeito Lindy é usando a teoria da fragilidade e
+antifragilidade, e b) o matemático Iddo Eliazar formalizou sua estrutura
+probabilística. Na verdade, a teoria da fragilidade leva diretamente ao efeito
+Lindy. De maneira simples, meus colaboradores e eu conseguimos definir a
+fragilidade como sensibilidade à desordem: a coruja de porcelana sentada à minha
+frente na escrivaninha, enquanto escrevo estas linhas, quer tranquilidade. Não
+gosta de choques, desordem, variações, terremotos, manuseio inadequado por
+funcionários de serviços de limpeza com fobia de poeira, viagem dentro de uma
+mala atravessando o Terminal 5 em Heathrow e bombardeio por milícias
+islâmicas patrocinadas pela Barbária Saudita. Claramente, a coruja não tem
+
+nenhuma vantagem a partir de eventos aleatórios e, geralmente, da desordem.
+(Tecnicamente, sendo frágil, ela necessariamente tem uma reação não linear a
+estressores: até seu ponto de ruptura, choques de maior intensidade a afetam
+desproporcionalmente mais que os menores.)
+Agora, de modo decisivo, o tempo equivale à desordem, e a resistência aos
+estragos causados pelo tempo, isto é, o que gloriosamente chamamos de
+sobrevivência, é a capacidade de lidar com a desordem.
+Aquilo que é frágil tem uma resposta assimétrica à volatilidade e a outros
+estressores, ou seja, sofrerá mais danos do que terá benefícios com ela.
+Em probabilidade, volatilidade e tempo são o mesmo. A ideia de fragilidade
+ajudou a incutir algum rigor em torno da noção de que o único juiz efetivo das
+coisas é o tempo — por coisas queremos dizer ideias, pessoas, produções
+intelectuais, modelos de carros, teorias científicas, livros etc. Não dá para enganar
+Lindy: livros como os escritos pelo atual colunista bambambã da página de
+artigos de opinião do New York Times podem suscitar algum burburinho,
+fabricado ou espontâneo, na época da publicação, mas sua taxa de sobrevida de
+cinco anos é geralmente menor que a do câncer de pâncreas.
+QUEM É O “VERDADEIRO” ESPECIALISTA?
+Efetivamente, o efeito Lindy responde às antiquíssimas metaperguntas: Quem
+julgará o especialista? Quem vai vigiar os vigilantes? (Quis custodiet ipsos
+custodes?) Quem julgará os juízes? Bem, a sobrevivência fará isso.
+Pois o tempo depende de arriscar a própria pele. As coisas que sobreviveram
+estão insinuando para nós ex post que têm alguma robustez — dependendo de
+serem expostas a danos. Pois sem arriscar a própria pele, por meio da exposição à
+realidade, o mecanismo de fragilidade é desestruturado: as coisas podem
+sobreviver sem razão por algum tempo, em alguma escala, e no fim das contas
+desmoronar, causando um bocado de danos colaterais.
+Mais alguns detalhes (para os interessados nas complexidades, o efeito Lindy
+foi descrito exaustivamente em Antifrágil). Há duas maneiras pelas quais as coisas
+lidam com o tempo. Em primeiro lugar, há envelhecimento e perecibilidade: as
+coisas morrem porque têm um relógio biológico, o que chamamos de
+senescência. Em segundo, há o perigo, o acaso, a taxa de acidentes. O que
+testemunhamos na vida física é a combinação dos dois: quando a pessoa está
+velha e frágil, não lida muito bem com acidentes. Esses acidentes não precisam
+
+ser externos, como cair de uma escada ou ser atacado por um urso; podem
+também ser internos, decorrentes do mau funcionamento aleatório dos órgãos ou
+de problemas de circulação. Por outro lado, animais que na verdade não
+envelhecem, tartarugas e crocodilos, por exemplo, parecem ter uma expectativa
+de vida que permanece constante por muito tempo. Se um crocodilo de vinte
+anos tiver mais quarenta anos para viver (devido aos perigos do seu hábitat), um
+de quarenta anos também terá cerca de quarenta anos de vida.
+Vamos usar como abreviação “prova de Lindy”, “é Lindy” ou “compatível com
+Lindy” (uma pode substituir a outra) para mostrar algo que parece pertencer à
+classe de coisas que provaram ter a seguinte propriedade:
+Aquilo que é “Lindy” é o que envelhece ao contrário, ou seja, sua expectativa de
+vida se prolonga com o tempo, condicionada à sobrevivência.
+Somente o imperecível pode ser Lindy. Quando se trata de ideias, livros,
+tecnologias, procedimentos, instituições e sistemas políticos sob Lindy, não
+existe envelhecimento ou perecibilidade intrínsecos. Um exemplar físico de
+Guerra e paz pode envelhecer (particularmente quando o editor corta custos com
+papel para economizar vinte centavos por unidade); o livro em si, como ideia,
+não.
+Note que, graças a Lindy, nenhum especialista é o especialista soberano e
+definitivo, e não precisamos de metaespecialistas que julguem a competência e
+qualidade de especialistas um nível abaixo deles. Resolvemos o problema das
+“tartarugas até lá embaixo”.1 A fragilidade é o especialista, portanto o tempo e a
+sobrevivência.
+O LINDY DE LINDY
+A ideia do efeito Lindy é, em si, à prova de Lindy. O pensador pré-socrático
+Periandro de Corinto escreveu, há mais de dois mil e quinhentos anos: Use leis
+que sejam antigas, mas alimentos que sejam frescos.
+Da mesma forma, Afonso X da Espanha, apelidado de El Sabio, “o sábio”, tinha
+uma máxima: Queime lenha velha. Beba vinho envelhecido. Leia livros antigos.
+Mantenha velhos amigos.
+O perspicaz e felizmente não acadêmico historiador Tom Holland comentou
+certa vez: “O que eu mais admiro nos romanos é o total desprezo que eles eram
+capazes de demonstrar pelo culto à juventude”. Ele também escreveu: “Os
+romanos julgavam seu sistema político perguntando-se não se fazia sentido, mas
+
+se funcionava”, e é por essa razão que, ao escrever a dedicatória deste livro,
+chamei Ron Paul de um romano entre os gregos.
+PRECISAMOS DE UM JUIZ?
+Como mencionei no prólogo (parte 3), durante a maior parte da minha carreira
+(mais ou menos) acadêmica mantive um cargo de professor lecionando por não
+mais do que um trimestre. Um trimestre é suficiente para ter um lugar aonde ir,
+especialmente quando chove em Nova York, sem ser emocionalmente socializado
+nem perder a independência intelectual por medo de perder uma festa ou ter que
+almoçar sozinho. Mas um (agora “aposentado”) chefe de departamento um dia
+veio falar comigo e emitiu o alerta: “Assim como quando você é um empresário e
+autor e é julgado por outros empresários e autores, aqui, como acadêmico, você é
+julgado por outros acadêmicos. A vida gira em torno de avaliação por pares”.
+Levei algum tempo para superar meu nojo — ainda não estou totalmente
+familiarizado com o modo como os avessos a riscos funcionam; na verdade eles
+não percebem que os outros não são como eles, e são incapazes de entender o
+que move as pessoas reais. Não, os empresários, como arrojados e afeitos a riscos,
+não estão sujeitos ao julgamento de outros empresários, apenas ao de seu
+contador pessoal. Eles só precisam evitar um registro documentado de (algumas)
+violações éticas. Além disso, a pessoa não apenas não quer a aprovação dos
+colegas, mas quer a desaprovação (exceto para questões éticas): um velho colega,
+trader do pregão, certa vez compartilhou sua sabedoria comigo: “Se as pessoas
+aqui gostarem de você, provavelmente está fazendo algo errado”.
+Indo além,
+Pode-se definir uma pessoa livre precisamente como alguém cujo destino não é
+central ou diretamente dependente da avaliação por pares.
+E, como ensaísta, não sou julgado por outros escritores, editores de livros e
+críticos, mas por leitores. Leitores? Talvez, mas espere um minuto… não os
+leitores de hoje. Apenas aqueles de amanhã e de depois de amanhã. Então, meu
+único juiz verdadeiro sendo o tempo, o que conta são a estabilidade e a robustez
+do público leitor (isto é, futuros leitores). O leitor constante e orientado pela
+moda dos livros resenhados mais recentemente nas páginas do New York Times
+não me interessa. E, como um arrojado afeito a riscos, só o tempo conta — pois
+eu poderia enganar meu contador com ganhos estáveis e um bocado de risco
+oculto, mas, mais dia, menos dia, o tempo acabará por revelá-los.
+
+Ser analisado, examinado ou avaliado por outros só é importante se e somente se
+alguém estiver sujeito ao julgamento de outros do futuro — não apenas do
+presente.
+E lembre-se de que uma pessoa livre não precisa ganhar discussões, basta
+ganhar.2
+CHÁ COM A RAINHA
+Os pares delegam honrarias, associações a academias, prêmios Nobel, convites
+para Davos e locais semelhantes, chá (e sanduíches de pepino) com a rainha,
+pedidos de ricaços que adoram citar nomes de celebridades para participar de
+coquetéis onde só se veem pessoas famosas. Acredite em mim, existem pessoas
+ricas cuja vida gira em torno dessas coisas. Elas geralmente afirmam que estão
+tentando salvar o mundo, os ursos, as crianças, as montanhas, os desertos —
+todos os ingredientes para propagandear a virtude.
+Mas claramente não conseguem influenciar Lindy — na verdade, é o contrário.
+Se você gastar seu tempo tentando impressionar os outros em um bar chique de
+Nova York, talvez haja algo de errado com você.
+Os pares contemporâneos são colaboradores valiosos, não juízes definitivos e
+soberanos.3
+INSTITUIÇÕES
+De fato, há algo pior do que a avaliação por pares — a burocratização da
+atividade cria uma classe de novos juízes: administradores universitários, que não
+têm ideia do que alguém está fazendo exceto por meio de sinais externos, mas
+ainda assim tornam-se os árbitros efetivos.
+Esses árbitros não percebem que a publicação “de prestígio”, determinada por
+pares-resenhistas de maneira circular, não é compatível com Lindy — significa
+apenas que um certo conjunto de pessoas (atualmente) poderosas está feliz com
+o seu trabalho.
+As ciências naturais talvez sejam resistentes a patologias. Então, vamos dar uma
+olhada nas ciências sociais. Dado que os únicos juízes de um colaborador são
+seus “colegas”, há em curso um conluio de citações que pode levar a todos os
+tipos de podridão. A macroeconomia, por exemplo, pode ser um disparate, uma
+vez que é mais fácil manipular a macrobaboseira do que a microbaboseira —
+ninguém é capaz de dizer se uma teoria realmente funciona.
+
+Se você disser algo maluco, será considerado louco. Mas se você juntar umas,
+digamos, vinte pessoas para fundar uma academia e disser coisas malucas aceitas
+pelo coletivo, agora você tem “revisão por pares” e pode abrir um departamento
+em uma universidade.
+A academia, quando desenfreada, tem uma tendência (por não arriscar a própria
+pele) de evoluir para um jogo ritualístico de publicação autorreferencial.
+Ora, se a academia se transformou em uma competição atlética, Wittgen stein
+defendia o ponto de vista exatamente oposto: na verdade, o conhecimento é o
+contrário de um campeonato esportivo. Em filosofia, o vencedor é aquele que
+termina por último, disse ele.
+Indo além,
+Qualquer coisa que cheire a concorrência destrói o conhecimento.
+Em algumas áreas, como estudos de gênero ou psicologia, o jogo ritualístico de
+publicação gradualmente mapeia cada vez menos a pesquisa real, pela própria
+natureza do problema de agência, para alcançar uma divergência de interesses
+semelhante à máfia: os pesquisadores têm seus próprios objetivos e prioridades,
+em desacordo com aquilo por que pagam seus clientes, ou seja, a sociedade e os
+alunos. A opacidade do assunto para pessoas de fora os ajuda a controlar os
+portões. Entender de “economia” não significa saber alguma coisa sobre
+economia no sentido da atividade real, mas antes as teorias, que em sua maioria
+não passam de baboseiras produzidas por economistas. E os cursos nas
+universidades, custeadas por pais trabalhadores que precisam economizar
+durante décadas para bancar a educação dos filhos, degeneram facilmente em
+modismos. Você trabalha com afinco e economiza para que seus filhos aprendam
+uma crítica da mecânica quântica orientada por estudos pós-colonialistas.
+Mas há esperança. Na verdade, eventos recentes indicam como o sistema vai
+fechar as portas: ex-alunos (que por acaso trabalharam no mundo real) estão
+começando a cortar fundos para disciplinas espúrias e falcatruosas (embora não
+para os enfoques farsescos dentro das disciplinas tradicionais). Afinal, acontece
+que alguém precisa pagar os salários de macroeconomistas e “especialistas” em
+gênero pós-colonialistas. E o ensino universitário precisa competir com
+seminários e oficinas de treinamento profissional: era uma vez, uma época em
+que estudar teorias pós-coloniais poderia ajudar alguém a obter um emprego
+diferente de servir batatas fritas. Não mais.
+
+CONTRA OS PRÓPRIOS INTERESSES
+As afirmações mais convincentes são aquelas em que a pessoa tem algo a
+perder, aquelas em que alguém arrisca a própria pele no nível máximo; as menos
+convincentes são aqueles em que alguém (embora sem ter consciência disso)
+tenta melhorar seu status sem dar uma contribuição tangível (por exemplo, como
+vimos, na grande maioria dos artigos acadêmicos que não dizem nada e não
+correm riscos). Mas não tem que ser assim. Exibir-se é razoável; é humano.
+Contanto que a substância exceda a ostentação, tudo bem. Permaneça humano,
+pegue o máximo que puder, sob a condição de dar mais do que você recebe.
+Deve-se dar mais peso à pesquisa que, apesar de ser rigorosa, contradiz outros
+pares, particularmente se isso implicar custos e prejuízos representativos para o
+autor.
+Indo além,
+Alguém que tem presença pública notória, que é controverso e assume riscos por
+sua opinião, está pouco propenso a ser um vendedor ambulante de baboseiras.4
+ARRISCANDO A PRÓPRIA ALMA, DE NOVO
+No fim das contas, a desprostitucionalização da pesquisa será feita da seguinte
+maneira: forçar as pessoas que queiram fazer “pesquisa” a fazê-la durante suas
+folgas, em seu tempo livre, isto é, obtendo sua renda a partir de outras fontes.
+Sacrifício é necessário. Pode parecer absurdo para os contemporâneos que
+sofreram lavagem cerebral, mas Antifrágil documenta as descomunais
+contribuições históricas dos não profissionais, ou melhor, dos não meretrícios.
+Para que suas pesquisas sejam genuínas, eles devem primeiro ter um emprego do
+mundo real como sua fonte de renda primária, ou pelo menos passar dez anos
+como: fabricante de lentes, funcionário de patentes, mafioso, apostador
+profissional, carteiro, agente penitenciário, médico, motorista de limusine,
+integrante de milícia, agente de segurança social, advogado de tribunal, agricultor,
+chef, garçom com experiência em bares lotados, bombeiro (meu favorito),
+faroleiro etc., enquanto vão construindo as próprias ideias originais.
+É um mecanismo de filtragem, de expurgo da baboseira. Não tenho simpatia
+nenhuma por pesquisadores profissionais chorões. De minha parte, passei 23
+anos em uma profissão de tempo integral, muito exigente e extremamente
+estressante, enquanto estudava, pesquisava e escrevia durante a noite meus três
+
+primeiros livros; isso diminuiu (verdade seja dita, eliminou) a minha tolerância
+pela pesquisa de construção de carreira.
+(Existe a ilusão de que, assim como os empresários são motivados e
+recompensados pelos lucros, os cientistas deveriam ser motivados e
+recompensados por títulos, cargos honoríficos e reconhecimento. Não é assim
+que a coisa funciona. Lembre-se de que a ciência é uma regra da minoria: poucos
+vão comandar o show e fazê-la funcionar, os outros são apenas os soldados da
+retaguarda).
+A CIÊNCIA É PROPENSA A LINDY
+Já afirmamos que, sem arriscar a própria pele, os mecanismos de sobrevivência
+são gravemente interrompidos. Isso também se aplica a ideias.
+A ideia de ciência de Karl Popper é a de um empreendimento que produz
+enunciados que podem ser desmentidos e contestados por eventuais
+observações, não uma série de alegações verificáveis: a ciência é
+fundamentalmente desconfirmatória, não confirmatória. Esse mecanismo de
+falsificação é inteiramente compatível com Lindy; na verdade, requer a operação
+do efeito Lindy (em combinação com a regra da minoria). Embora Popper tenha
+visto a estática, ele não estudou a dinâmica, tampouco examinou a dimensão de
+risco das coisas. A razão pela qual a ciência funciona não é porque existe um
+“método científico” adequado, obtido por alguns nerds isolados, ou algum
+“padrão” que passa em um teste semelhante ao exame oftalmológico do Detran;
+ao contrário, é porque as ideias científicas são propensas a Lindy, isto é, sujeitas à
+própria fragilidade natural. As ideias precisam arriscar a própria pele. Você sabe
+que uma ideia fracassará se ela não for útil — portanto, pode ser vulnerável à
+falsificação do tempo (e não do falsificacionismo ingênuo, isto é, de acordo com
+alguma diretriz governamental impressa em preto e branco). Quanto mais tempo
+uma ideia existir sem ser falsificada, maior será sua expectativa de vida futura.
+Pois, se você ler o relato de Paul Feyerabend sobre a história das descobertas
+científicas, poderá ver claramente que vale tudo no processo — mas não com o
+teste do tempo. Isso parece ser inegociável.
+Note que estou modificando a ideia de Popper; podemos substituir
+“verdadeiro” (ou melhor, não falso) por “útil”, até mesmo “não prejudicial”, até
+mesmo “protetor para seus usuários”. Assim, divergirei de Popper no seguinte:
+para que as coisas sobrevivam, elas necessariamente precisam se sair bem na
+dimensão de risco, isto é, ser boas em não morrer. Pelo efeito Lindy, se uma ideia
+
+arrisca a pele no jogo, não é no jogo da verdade, mas no jogo do dano. Uma ideia
+sobrevive se for um bom gestor de risco, isto é, não só não prejudica aqueles que
+a ela se aferram, mas favorece a sobrevivência deles — isso também se aplica a
+superstições que atravessaram séculos porque conduziram a algumas ações de
+proteção. Em termos mais técnicos, uma ideia precisa ser convexa (antifrágil), ou
+pelo menos ocasionar uma redução benéfica da fragilidade em algum lugar.
+EMPÍRICA OU TEÓRICA?
+Os acadêmicos dividem a pesquisa em áreas teóricas e empíricas. O empirismo
+consiste em analisar dados em um computador em busca do que eles chamam de
+“estatisticamente significativo”, ou fazer experimentos no laboratório sob algumas
+condições propositadamente restritas. Fazer as coisas no mundo real, em algumas
+profissões (como a medicina), ostenta o nome clínico, que não é considerado
+científico. Muitas disciplinas carecem desta terceira dimensão, a clínica.
+Pois, de fato, pelo efeito Lindy, a robustez ao tempo, ou seja, fazer as coisas sob
+condições de exposição ao risco, é controlada e verificada pela sobrevivência. As
+coisas funcionam 1) se aqueles que estiveram fazendo o trabalho assumiram
+algum tipo de risco, e 2) seu trabalho consegue atravessar gerações.
+O que me leva às avós.
+A AVÓ VERSUS OS PESQUISADORES
+Se você ouvir o conselho de uma avó ou de um idoso, é provável que funcione
+em 90% do tempo. Por outro lado, em parte por causa do cientificismo e da
+prostituição acadêmica, em parte porque o mundo é difícil, se você ler qualquer
+coisa escrita por psicólogos e cientistas comportamentais, as probabilidades são
+de que funcione em menos de 10% das vezes, a menos que também tenha sido
+analisado pela avó e pelos clássicos, e nesse caso por que você precisaria de um
+psicólogo?5 Saiba que um esforço recente para reproduzir os cem artigos de
+psicologia em periódicos “prestigiosos” de 2008 constatou que, de cem, apenas
+39 foram replicados. Destes 39, creio que menos de dez sejam realmente
+robustos e se transfiram para fora da estreiteza da experiência. Defeitos
+semelhantes foram encontrados na medicina e na neurociência; discutirei mais
+sobre eles depois (no capítulo 18 e, principalmente, no 19, além disso, abordarei
+por que as advertências de sua avó ou os interditos e proibições não são
+“irracionais”; a maior parte do que é chamado de “irracional” vem da
+incompreensão da probabilidade).
+
+É fundamental que não seja apenas que os livros dos antigos ainda existam por
+aí e tenham sido filtrados por Lindy, mas que as populações que os leem também
+sobreviveram.
+Embora nosso conhecimento de física não estivesse disponível para os antigos,
+a natureza humana estava. Portanto, tudo o que é válido nas ciências sociais e
+tudo o que se aplica à psicologia devem ser à prova de Lindy, ou seja, ter um
+antecedente nos clássicos; caso contrário, não será replicado ou não se
+generalizará além do experimento. Por clássicos podemos definir a literatura
+moral latina e a helenística tardia (as ciências morais significavam algo diferente
+do que fazem hoje): Cícero, Sêneca, Marco Aurélio, Epíteto, Luciano, ou os
+poetas Juvenal, Horácio, ou os franceses posteriores chamados “moralistas” (La
+Rochefoucauld, Vauvenargues, La Bruyère, Chamfort). Bossuet é em si uma aula.
+Pode-se usar Montaigne e Erasmo como um portal para os antigos: Montaigne
+foi o divulgador e popularizador de seu tempo; Erasmo foi o rematado
+compilador.
+UM BREVE GUIA DA SABEDORIA DOS SEUS AVÓS
+Agora vamos encerrar com a amostragem de algumas ideias que existem nos
+saberes antigos e são meio que consagradas pela psicologia moderna. São
+mostradas aqui organicamente, o que significa que não são o resultado de
+pesquisa, mas do que vem espontaneamente à mente (lembre-se de que o título
+deste livro é Arriscando a própria pele), e depois verificado nos textos.
+Dissonância cognitiva (teoria psicológica de Leon Festinger sobre as uvas
+verdes, de acordo com a qual as pessoas, a fim de evitar crenças inconsistentes,
+racionalizam que, por exemplo, as uvas que elas não conseguem obter só podem
+ser verdes): vista pela primeira vez em Esopo, é claro, reescrita por La Fontaine.
+Mas suas raízes parecem ainda mais antigas, com o assírio Ahiqar de Nínive.
+Aversão à perda (teoria psicológica segundo a qual a perda é mais dolorosa do
+que um ganho é agradável): nos Anais de Lívio (XXX, 21), Os homens sentem o que
+é bom com menos intensidade do que o que é ruim.6 Quase todas as cartas de
+Sêneca têm algum elemento de aversão à perda.
+Conselho negativo (via negativa): conhecemos melhor o que é errado do que
+sabemos o que é certo; lembre-se da superioridade da Regra de Prata com relação
+à Regra de Ouro. O bem não é tão bom quanto a ausência do mal,7 Ênio, repetido
+por Cícero.
+
+Arriscar a própria pele (literalmente): começamos com o provérbio iídiche:
+Ninguém consegue mastigar com os dentes de outra pessoa. “Para coçar sua coceira,
+nada melhor que a própria unha”,8 recolhido por Scaliger por volta de 1614 em
+Proverborum Arabicorum.
+Antifragilidade: existem dezenas de ditos e provérbios antigos. Vamos
+mencionar apenas Cícero. Quando nossas almas estão apaziguadas, a abelha pode
+picar. Ver também Maquiavel e Rousseau, por sua aplicação aos sistemas
+políticos.
+Desconto do tempo: “Mais vale um pássaro na mão do que dez na árvore”9
+(provérbio levantino).
+Loucura das multidões: Nietzsche: A loucura é muito rara em indivíduos, mas em
+grupos, partidos políticos, nações e épocas, é a regra. (Isso conta como sabedoria
+antiga, já que Nietzsche era um classicista; já vi muitas dessas referências em
+Platão.)
+Menos é mais: Altercação demais faz a verdade se perder,10 em Públio Siro. Mas
+é claro que a expressão “menos é mais” está em um poema de 1855 de Robert
+Browning.
+Excesso de confiança: “Perdi dinheiro por causa de excesso de confiança”,11
+Erasmo inspirado por Teógnis de Mégara (Confiante, tudo perdi; audacioso, tudo
+guardei) e Epicarmo de Cós (Permanece sóbrio e lembra-te de ficar atento).
+O paradoxo do progresso e o paradoxo da escolha: há uma famosa história de
+um banqueiro de Nova York em férias na Grécia, que, ao conversar com um
+pescador e esquadrinhar a atividade pesqueira dele, cria um esquema para ajudar
+o pescador a transformar seu trabalho em um grande negócio. O pescador
+perguntou-lhe quais eram os benefícios; o banqueiro respondeu que ele poderia
+ganhar uma pilha de dinheiro em Nova York e voltar para passar as férias na
+Grécia; algo que pareceu ridículo aos olhos do pescador, que já estava lá fazendo
+o tipo de coisa que os banqueiros fazem quando vão passar férias na Grécia.
+A história era bem conhecida na Antiguidade, sob uma forma mais elegante,
+conforme foi recontada por Montaigne (em tradução livre): Quando o rei Pirro
+organizava uma expedição para tentar invadir a Itália, Cíneas, seu sábio
+conselheiro, tentou fazê-lo ponderar sobre a vaidade de tal ação. “Qual é o
+propósito desse empreendimento?”, perguntou ele. Pirro respondeu: “É para me
+tornar o senhor da Itália”. Cíneas: “E depois?”. Pirro: “Para chegar à Gália, depois
+tomar a Espanha”. Cíneas: “E depois?”. Pirro: “Conquistar a África, e então…
+descansar”. Cíneas: “Mas se nada nos impede de fazermos isso já; por que correr
+
+mais riscos?”. Montaigne a seguir cita a conhecida passagem de De Rerum Natura
+[Da natureza das coisas] (V, 1431), de Lucrécio, sobre como a natureza humana
+não conhece limites superiores, como se para punir a si mesma.
+1. A expressão “tartarugas até lá embaixo” expressa um problema de regresso infinito, como se segue. Certa
+vez disseram ao lógico Bertrand Russell que o mundo estava apoiado em cima de uma tartaruga. “E essa
+tartaruga está em cima de quê?”, perguntou ele. “São tartarugas até lá embaixo, a perder de vista”, foi a
+resposta.
+2. Uma observação sobre a modernidade. A mudança pela mudança em si, como vemos na arquitetura, na
+comida e no estilo de vida, é frequentemente o oposto do progresso. Como expliquei em Antifrágil, uma taxa
+de mutação alta demais impede a manutenção dos benefícios das mudanças anteriores: a evolução (e o
+progresso) exige, apesar de não muito frequente, alguma variação.
+3. Os prêmios podem ser uma maldição. De fato, há uma antiga e longeva crença entre traders de que o
+elogio dos jornalistas é um indicador reverso. Aprendi isso a duras penas e do jeito mais difícil. Em 1983,
+pouco antes de eu me tornar um trader, a gigante da computação IBM apareceu na capa da BusinessWeek,
+revista norte-americana influente na época, como “a melhor empresa”. Ingenuamente, corri para comprar
+suas ações. Tomei uma sonora surra. Então me ocorreu que, quando muito, eu deveria estar vendendo a
+empresa a descoberto, para me beneficiar do seu declínio. Então inverti a negociação e aprendi que o elogio
+coletivo dos jornalistas é, no mínimo, suspeito e, na melhor das hipóteses, uma maldição. A IBM entrou em
+uma derrocada que durou uma década e meia; quase foi à falência. Além disso, aprendi a evitar honrarias e
+prêmios em parte porque, uma vez que são concedidos pelos juízes errados, é provável que atinjam você no
+auge (melhor ser ignorado ou, melhor, não ser apreciado pela mídia em geral). Um ex-trader que investe no
+ramo de restaurantes, Brian Hinchcliffe, transmitiu para mim a seguinte heurística: restaurantes que ganham
+prêmios como “O Melhor” em alguma coisa (melhor atmosfera, melhor serviço de garçons, melhor iogurte
+fermentado e outras bebidas não alcoólicas para receber a visita de xeques etc.) fecham as portas antes da
+cerimônia de premiação. Empiricamente, se você quer que um escritor ou escritora perdure por algumas
+gerações, certifique-se de que ele ou ela nunca receba uma coisa chamada prêmio Nobel de Literatura.
+4. Por via de regra sou alérgico a algumas personalidades públicas, mas não a outras. Demorei algum tempo
+para descobrir como estabelecer o limite explicitamente. A diferença é a exposição a riscos e se a pessoa se
+preocupa com a própria reputação.
+5. Em uma nota técnica chamada “Metadistribuição de valores-P” em torno da estocasticidade de “valores-P”
+e sua mutilação por pesquisadores charlatães, mostro que a significância estatística desses artigos é pelo
+menos uma ordem de grandeza menor do que o alegado.
+6. Segnius homines bona quam mala sentiunt.
+7. Nimium boni est, cui nihil est mali.
+8. Non scabat caput praeter unges tuo, Ma bih ikkak illa difrak.
+9. xasfour bil ‘id ahsan min xasra xalsajra.
+10. Nimium allercando veritas amittitur.
+11. Fiducia pecunias amici.
+

@@ -1,0 +1,40 @@
+# Data Architecture Defined
+
+Paginas: 100-100
+
+5 The Open Group, TOGAF Version 9.1, https://oreil.ly/A1H67.
+6 DAMA - DMBOK: Data Management Body of Knowledge, 2nd ed. (Technics Publications, 2017).
+Let’s reiterate one central point in our enterprise architecture definition: enterprise
+architecture balances flexibility and trade-offs. This isn’t always an easy balance, and
+architects must constantly assess and reevaluate with the recognition that the world
+is dynamic. Given the pace of change that enterprises are faced with, organizations—
+and their architecture—cannot afford to stand still.
+Data Architecture Defined
+Now that you understand enterprise architecture, let’s dive into data architecture by
+establishing a working definition that will set the stage for the rest of the book. Data
+architecture is a subset of enterprise architecture, inheriting its properties: processes,
+strategy, change management, and evaluating trade-offs. Here are a couple of defini‐
+tions of data architecture that influence our definition.
+TOGAF’s definition
+TOGAF defines data architecture as follows:5
+A description of the structure and interaction of the enterprise’s major types and sour‐
+ces of data, logical data assets, physical data assets, and data management resources.
+DAMA’s definition
+The DAMA DMBOK defines data architecture as follows:6
+Identifying the data needs of the enterprise (regardless of structure) and designing and
+maintaining the master blueprints to meet those needs. Using master blueprints to
+guide data integration, control data assets, and align data investments with business
+strategy.
+Our definition
+Considering the preceding two definitions and our experience, we have crafted our
+definition of data architecture:
+Data architecture is the design of systems to support the evolving data needs of an
+enterprise, achieved by flexible and reversible decisions reached through a careful
+evaluation of trade-offs.
+How does data architecture fit into data engineering? Just as the data engineering life‐
+cycle is a subset of the data lifecycle, data engineering architecture is a subset of gen‐
+eral data architecture. Data engineering architecture is the systems and frameworks
+What Is Data Architecture?
+|
+75
+

@@ -1,0 +1,43 @@
+# Our Advice
+
+Paginas: 154-154
+
+A multicloud methodology has several disadvantages. As we just mentioned, data
+egress costs and networking bottlenecks are critical. Going multicloud can introduce
+significant complexity. Companies must now manage a dizzying array of services
+across several clouds; cross-cloud integration and security present a considerable
+challenge; multicloud networking can be diabolically complicated.
+A new generation of “cloud of clouds” services aims to facilitate multicloud with
+reduced complexity by offering services across clouds and seamlessly replicating data
+between clouds or managing workloads on several clouds through a single pane of
+glass. To cite one example, a Snowflake account runs in a single cloud region, but
+customers can readily spin up other accounts in GCP, AWS, or Azure. Snowflake
+provides simple scheduled data replication between these various cloud accounts.
+The Snowflake interface is essentially the same in all of these accounts, removing the
+training burden of switching between cloud-native data services.
+The “cloud of clouds” space is evolving quickly; within a few years of this book’s pub‐
+lication, many more of these services will be available. Data engineers and architects
+would do well to maintain awareness of this quickly changing cloud landscape.
+Decentralized: Blockchain and the Edge
+Though not widely used now, it’s worth briefly mentioning a new trend that might
+become popular over the next decade: decentralized computing. Whereas today’s
+applications mainly run on premises and in the cloud, the rise of blockchain, Web
+3.0, and edge computing may invert this paradigm. For the moment, decentralized
+platforms have proven extremely popular but have not had a significant impact in the
+data space; even so, keeping an eye on these platforms is worthwhile as you assess
+technology decisions.
+Our Advice
+From our perspective, we are still at the beginning of the transition to the cloud. Thus
+the evidence and arguments around workload placement and migration are in flux.
+The cloud itself is changing, with a shift from the IaaS model built around Amazon
+EC2 that drove the early growth of AWS and more generally toward more managed
+service offerings such as AWS Glue, Google BigQuery, and Snowflake.
+We’ve also seen the emergence of new workload placement abstractions. On-premises
+services are becoming more cloud-like and abstracted. Hybrid cloud services allow
+customers to run fully managed services within their walls while facilitating tight
+integration between local and remote environments. Further, the “cloud of clouds” is
+beginning to take shape, fueled by third-party services and public cloud vendors.
+Location
+|
+129
+

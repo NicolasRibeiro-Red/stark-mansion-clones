@@ -1,0 +1,44 @@
+# Reliability and Durability
+
+Paginas: 265-265
+
+comes back online and attempts to backfill the lapsed data loads, will your ingestion
+be able to keep up with this sudden influx of backlogged data?
+Another thing to consider is your ability to handle bursty data ingestion. Data gener‐
+ation rarely happens at a constant rate and often ebbs and flows. Built-in buffering
+is required to collect events during rate spikes to prevent data from getting lost.
+Buffering bridges the time while the system scales and allows storage systems to
+accommodate bursts even in a dynamically scalable system.
+Whenever possible, use managed services that handle the throughput scaling for you.
+While you can manually accomplish these tasks by adding more servers, shards, or
+workers, often this isn’t value-added work, and there’s a good chance you’ll miss
+something. Much of this heavy lifting is now automated. Don’t reinvent the data
+ingestion wheel if you don’t have to.
+Reliability and Durability
+Reliability and durability are vital in the ingestion stages of data pipelines. Reliability
+entails high uptime and proper failover for ingestion systems. Durability entails
+making sure that data isn’t lost or corrupted.
+Some data sources (e.g., IoT devices and caches) may not retain data if it is not
+correctly ingested. Once lost, it is gone for good. In this sense, the reliability of
+ingestion systems leads directly to the durability of generated data. If data is ingested,
+downstream processes can theoretically run late if they break temporarily.
+Our advice is to evaluate the risks and build an appropriate level of redundancy and
+self-healing based on the impact and cost of losing data. Reliability and durability
+have both direct and indirect costs. For example, will your ingestion process continue
+if an AWS zone goes down? How about a whole region? How about the power grid
+or the internet? Of course, nothing is free. How much will this cost you? You might
+be able to build a highly redundant system and have a team on call 24 hours a day
+to handle outages. This also means your cloud and labor costs become prohibitive
+(direct costs), and the ongoing work takes a significant toll on your team (indirect
+costs). There’s no single correct answer, and you need to evaluate the costs and
+benefits of your reliability and durability decisions.
+Don’t assume that you can build a system that will reliably and durably ingest data in
+every possible scenario. Even the nearly infinite budget of the US federal government
+can’t guarantee this. In many extreme scenarios, ingesting data actually won’t matter.
+There will be little to ingest if the internet goes down, even if you build multiple air-
+gapped data centers in underground bunkers with independent power. Continually
+evaluate the trade-offs and costs of reliability and durability.
+240
+|
+Chapter 7: Ingestion
+

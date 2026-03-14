@@ -1,0 +1,1034 @@
+# Five: System Traps … and Opportunities
+
+Paginas: 114-140
+
+
+— FIVE —
+System Traps … and Opportunities
+Rational elites … know everything there is to know about their self-
+contained technical or scientific worlds, but lack a broader
+perspective. They range from Marxist cadres to Jesuits, from
+Harvard MBAs to army staff officers.… They have a common
+underlying concern: how to get their particular system to function.
+Meanwhile … civilization becomes increasingly directionless and
+incomprehensible.
+—John Ralston Saul,1 political scientist
+Delays, nonlinearities, lack of firm boundaries, and other properties of systems
+that surprise us are found in just about any system. Generally, they are not
+properties that can or should be changed. The world is nonlinear. Trying to make
+it linear for our mathematical or administrative convenience is not usually a
+good idea even when feasible, and it is rarely feasible. Boundaries are problem-
+dependent, evanescent, and messy; they are also necessary for organization and
+clarity. Being less surprised by complex systems is mainly a matter of learning
+to expect, appreciate, and use the world’s complexity.
+But some systems are more than surprising. They are perverse. These are the
+systems that are structured in ways that produce truly problematic behavior;
+they cause us great trouble. There are many forms of systems trouble, some of
+them unique, but many strikingly common. We call the system structures that
+produce such common patterns of problematic behavior archetypes. Some of
+the behaviors these archetypes manifest are addiction, drift to low performance,
+and escalation. These are so prevalent that I had no problem finding in just one
+week of the International Herald Tribune enough examples to illustrate each of
+the archetypes described in this chapter.
+Understanding archetypal problem-generating structures is not enough.
+Putting up with them is impossible. They need to be changed. The destruction
+they cause is often blamed on particular actors or events, although it is actually a
+consequence of system structure. Blaming, disciplining, firing, twisting policy
+
+levers harder, hoping for a more favorable sequence of driving events, tinkering
+at the margins—these standard responses will not fix structural problems. That
+is why I call these archetypes “traps.”
+But system traps can be escaped—by recognizing them in advance and not
+getting caught in them, or by altering the structure—by reformulating goals, by
+weakening, strengthening, or altering feedback loops, by adding new feedback
+loops. That is why I call these archetypes not just traps, but opportunities.
+Policy Resistance—Fixes that Fail
+I think the investment tax credit has a good history of being an
+effective economic stimulus,” said Joseph W. Duncan, chief
+economist for Dun & Bradstreet Corp.…
+But skeptics abound. They say nobody can prove any benefit to
+economic growth from investment credits, which have been granted,
+altered, and repealed again and again in the last 30 years.
+—John H. Cushman, Jr., International Herald Tribune, 19922
+As we saw in Chapter Two, the primary symptom of a balancing feedback loop
+structure is that not much changes, despite outside forces pushing the system.
+Balancing loops stabilize systems; behavior patterns persist. This is a great
+structure if you are trying to maintain your body temperature at 37°C (98.6°F),
+but some behavior patterns that persist over long periods of time are
+undesirable. Despite efforts to invent technological or policy “fixes,” the system
+seems to be intractably stuck, producing the same behavior every year. This is
+the systemic trap of “fixes that fail” or “policy resistance.” You see this when
+farm programs try year after year to reduce gluts, but there is still
+overproduction. There are wars on drugs, after which drugs are as prevalent as
+ever. There is little evidence that investment tax credits and many other policies
+designed to stimulate investment when the market is not rewarding investment
+actually work. No single policy yet has been able to bring down health care
+costs in the United States. Decades of “job creation” have not managed to keep
+unemployment permanently low. You probably can name a dozen other areas in
+which energetic efforts consistently produce non-results.
+Policy resistance comes from the bounded rationalities of the actors in a
+system, each with his or her (or “its” in the case of an institution) own goals.
+Each actor monitors the state of the system with regard to some important
+variable—income or prices or housing or drugs or investment—and compares
+that state with his, her, or its goal. If there is a discrepancy, each actor does
+something to correct the situation. Usually the greater the discrepancy between
+the goal and the actual situation, the more emphatic the action will be.
+
+Such resistance to change arises when goals of subsystems are different from
+and inconsistent with each other. Picture a single-system stock—drug supply on
+the city streets, for example—with various actors trying to pull that stock in
+different directions. Addicts want to keep it high, enforcement agencies want to
+keep it low, pushers want to keep it right in the middle so prices don’t get either
+too high or too low. The average citizen really just wants to be safe from
+robberies by addicts trying to get money to buy drugs. All the actors work hard
+to achieve their different goals.
+If any one actor gains an advantage and moves the system stock (drug supply)
+in one direction (enforcement agencies manage to cut drug imports at the
+border), the others double their efforts to pull it back (street prices go up, addicts
+have to commit more crimes to buy their daily fixes, higher prices bring more
+profits, suppliers use the profits to buy planes and boats to evade the border
+patrols). Together, the countermoves produce a standoff, the stock is not much
+different from before, and that is not what anybody wants.
+In a policy-resistant system with actors pulling in different directions,
+everyone has to put great effort into keeping the system where no one wants it to
+be. If any single actor lets up, the others will drag the system closer to their
+goals, and farther from the goal of the one who let go. In fact, this system
+structure can operate in a ratchet mode: Intensification of anyone’s effort leads
+to intensification of everyone else’s. It’s hard to reduce the intensification. It
+takes a lot of mutual trust to say, OK, why don’t we all just back off for a while?
+The results of policy resistance can be tragic. In 1967, the Romanian
+government decided that Romania needed more people and that the way to get
+them was to make abortions for women under age forty-five illegal. Abortions
+were abruptly banned. Shortly thereafter, the birth rate tripled. Then the policy
+resistance of the Romanian people set in.
+Although contraceptives and abortions remained illegal, the birth rate slowly
+came back down nearly to its previous level. This result was achieved primarily
+through dangerous, illegal abortions, which tripled the maternal mortality rate.
+In addition, many of the unwanted children that had been born when abortions
+were illegal were abandoned to orphanages. Romanian families were too poor to
+raise the many children their government desired decently, and they knew it. So,
+they resisted the government’s pull toward larger family size, at great cost to
+themselves and to the generation of children who grew up in orphanages.
+One way to deal with policy resistance is to try to overpower it. If you wield
+enough power and can keep wielding it, the power approach can work, at the
+cost of monumental resentment and the possibility of explosive consequences if
+the power is ever let up. This is what happened with the formulator of the
+Romanian population policy, dictator Nicolae Ceausescu, who tried long and
+hard to overpower the resistance to his policy. When his government was
+
+overturned, he was executed, along with his family. The first law the new
+government repealed was the ban on abortion and contraception.
+The alternative to overpowering policy resistance is so counterintuitive that
+it’s usually unthinkable. Let go. Give up ineffective policies. Let the resources
+and energy spent on both enforcing and resisting be used for more constructive
+purposes. You won’t get your way with the system, but it won’t go as far in a
+bad direction as you think, because much of the action you were trying to
+correct was in response to your own action. If you calm down, those who are
+pulling against you will calm down too. This is what happened in 1933 when
+Prohibition ended in the United States; the alcohol-driven chaos also largely
+ended.
+That calming down may provide the opportunity to look more closely at the
+feedbacks within the system, to understand the bounded rationality behind them,
+and to find a way to meet the goals of the participants in the system while
+moving the state of the system in a better direction.
+For example, a nation wanting to increase its birth rate might ask why families
+are having few children and discover that it isn’t because they don’t like
+children. Perhaps they haven’t the resources, the living space, the time, or the
+security to have more. Hungary, at the same time Romania was banning
+abortions, also was worried about its low birth rate—fearing an economic
+downturn could result from fewer people in the workforce. The Hungarian
+government discovered that cramped housing was one reason for small family
+size. The government devised a policy that rewarded larger families with more
+living space. This policy was only partially successful, because housing was not
+the only problem. But it was far more successful than Romania’s policy and it
+avoided Romania’s disastrous results.3
+The most effective way of dealing with policy resistance is to find a way of
+aligning the various goals of the subsystems, usually by providing an
+overarching goal that allows all actors to break out of their bounded rationality.
+If everyone can work harmoniously toward the same outcome (if all feedback
+loops are serving the same goal), the results can be amazing. The most familiar
+examples of this harmonization of goals are mobilizations of economies during
+wartime, or recovery after war or natural disaster.
+Another example was Sweden’s population policy. During the 1930s,
+Sweden’s birth rate dropped precipitously, and, like the governments of
+Romania and Hungary, the Swedish government worried about that. Unlike
+Romania and Hungary, the Swedish government assessed its goals and those of
+the population and decided that there was a basis of agreement, not on the size
+of the family, but on the quality of child care. Every child should be wanted and
+nurtured. No child should be in material need. Every child should have access to
+
+excellent education and health care. These were goals around which the
+government and the people could align themselves.
+The resulting policy looked strange during a time of low birth rate, because it
+included free contraceptives and abortion—because of the principle that every
+child should be wanted. The policy also included widespread sex education,
+easier divorce laws, free obstetrical care, support for families in need, and
+greatly increased investment in education and health care.4 Since then, the
+Swedish birth rate has gone up and down several times without causing panic in
+either direction, because the nation is focused on a far more important goal than
+the number of Swedes.
+Harmonization of goals in a system is not always possible, but it’s an option
+worth looking for. It can be found only by letting go of more narrow goals and
+considering the long-term welfare of the entire system.
+THE TRAP: POLICY RESISTANCE
+When various actors try to pull a system stock toward various
+goals, the result can be policy resistance. Any new policy,
+especially if it’s effective, just pulls the stock farther from the
+goals of other actors and produces additional resistance, with
+a result that no one likes, but that everyone expends
+considerable effort in maintaining.
+THE WAY OUT
+Let go. Bring in all the actors and use the energy formerly
+expended on resistance to seek out mutually satisfactory
+ways for all goals to be realized—or redefinitions of larger
+and more important goals that everyone can pull toward
+together.
+The Tragedy of the Commons
+Leaders of Chancellor Helmut Kohl’s coalition, led by the Christian
+Democratic Union, agreed last week with the opposition Social
+Democrats, after months of bickering, to turn back a flood of
+economic migrants by tightening conditions for claiming asylum.
+—International Herald Tribune, 19925
+
+The trap called the tragedy of the commons comes about when there is
+escalation, or just simple growth, in a commonly shared, erodable environment.
+Ecologist Garrett Hardin described the commons system in a classic article in
+1968. Hardin used as his opening example a common grazing land:
+Picture a pasture open to all. It is to be expected that each herdsman
+will try to keep as many cattle as possible on the commons.…
+Explicitly or implicitly, more or less consciously, he asks, “What is
+the utility to me of adding one more animal to my herd?”…
+Since the herdsman receives all the proceeds from the sale of the
+additional animal, the positive utility is nearly +1.… Since,
+however, the effects of overgrazing are shared by all, … the
+negative utility for any particular decision-making herdsman is only
+a fraction of –1.…
+The rational herdsman concludes that the only sensible course for
+him to pursue is to add another animal to his herd. And another; and
+another.… But this is the conclusion reached by each and every
+rational herdsman sharing a commons. Therein is the tragedy. Each
+… is locked into a system that compels him to increase his herd
+without limit—in a world that is limited. Ruin is the destination
+toward which all … rush, each pursuing his own best interest.6
+Bounded rationality in a nutshell!
+In any commons system there is, first of all, a resource that is commonly
+shared (the pasture). For the system to be subject to tragedy, the resource must
+be not only limited, but erodable when overused. That is, beyond some
+threshold, the less resource there is, the less it is able to regenerate itself, or the
+more likely it is to be destroyed. As there is less grass on the pasture, the cows
+eat even the base of the stems from which the new grass grows. The roots no
+longer hold the soil from washing away in the rains. With less soil, the grass
+grows more poorly. And so forth. Another reinforcing feedback loop running
+downhill.
+A commons system also needs users of the resource (the cows and their
+owners), which have good reason to increase, and which increase at a rate that is
+not influenced by the condition of the commons. The individual herdsman has no
+reason, no incentive, no strong feedback, to let the possibility of overgrazing
+stop him from adding another cow to the common pasture. To the contrary, he or
+she has everything to gain.
+The hopeful immigrant to Germany expects nothing but benefit from that
+country’s generous asylum laws, and has no reason to take into consideration the
+fact that too many immigrants will inevitably force Germany to toughen those
+
+laws. In fact, the knowledge that Germany is discussing that possibility is all the
+more reason to hurry to Germany!
+The tragedy of the commons arises from missing (or too long delayed)
+feedback from the resource to the growth of the users of that resource.
+The more users there are, the more resource is used. The more resource is
+used, the less there is per user. If the users follow the bounded rationality of the
+commons (“There’s no reason for me to be the one to limit my cows!”), there is
+no reason for any of them to decrease their use. Eventually, then, the harvest rate
+will exceed the capacity of the resource to bear the harvest. Because there is no
+feedback to the user, overharvesting will continue. The resource will decline.
+Finally, the erosion loop will kick in, the resource will be destroyed, and all the
+users will be ruined.
+Surely, you’d think, no group of people would be so shortsighted as to destroy
+their commons. But consider just a few commonplace examples of commons
+that are being driven, or have been driven, to disaster:
+Uncontrolled access to a popular national park can bring in such
+crowds that the park’s natural beauties are destroyed.
+It is to everyone’s immediate advantage to go on using fossil
+fuels, although carbon dioxide from these fuels is a greenhouse
+gas that is causing global climate change.
+If every family can have any number of children it wants, but
+society as a whole has to support the cost of education, health
+care, and environmental protection for all children, the number
+of children born can exceed the capacity of the society to
+support them all. (This is the example that caused Hardin to
+write his article.)
+These examples have to do with overexploitation of renewable resources—a
+structure you have seen already in the systems zoo. Tragedy can lurk not only in
+the use of common resources, but also in the use of common sinks, shared
+places where pollution can be dumped. A family, company, or nation can reduce
+its costs, increase its profits, or grow faster if it can get the entire community to
+absorb or handle its wastes. It reaps a large gain, while itself having to live with
+only a fraction of its own pollution (or none, if it can dump downstream or
+downwind). There is no rational reason why a polluter should desist. In these
+cases, the feedback influencing the rate of use of the common resource—
+whether it is a source or a sink—is weak.
+If you think that the reasoning of an exploiter of the commons is hard to
+understand, ask yourself how willing you are to carpool in order to reduce air
+pollution, or to clean up after yourself whenever you make a mess. The structure
+of a commons system makes selfish behavior much more convenient and
+
+profitable than behavior that is responsible to the whole community and to the
+future.
+There are three ways to avoid the tragedy of the commons.
+Educate and exhort. Help people to see the consequences of
+unrestrained use of the commons. Appeal to their morality.
+Persuade them to be temperate. Threaten transgressors with
+social disapproval or eternal hellfire.
+Privatize the commons. Divide it up, so that each person reaps
+the consequences of his or her own actions. If some people lack
+the self-control to stay below the carrying capacity of their own
+private resource, those people will harm only themselves and
+not others.
+Regulate the commons. Garrett Hardin calls this option, bluntly,
+“mutual coercion, mutually agreed upon.” Regulation can take
+many forms, from outright bans on certain behaviors to quotas,
+permits, taxes, incentives. To be effective, regulation must be
+enforced by policing and penalties.
+The first of these solutions, exhortation, tries to keep use of the commons low
+enough through moral pressure that the resource is not threatened. The second,
+privatization, makes a direct feedback link from the condition of the resource to
+those who use it, by making sure that gains and losses fall on the same decision
+maker. The owner still may abuse the resource, but now it takes ignorance or
+irrationality to do so. The third solution, regulation, makes an indirect feedback
+link from the condition of the resource through regulators to users. For this
+feedback to work, the regulators must have the expertise to monitor and
+interpret correctly the condition of the commons, they must have effective
+means of deterrence, and they must have the good of the whole community at
+heart. (They cannot be uninformed or weak or corrupt.)
+Some “primitive” cultures have managed common resources effectively for
+generations through education and exhortation. Garrett Hardin does not believe
+that option is dependable, however. Common resources protected only by
+tradition or an “honor system” may attract those who do not respect the tradition
+or who have no honor.
+Privatization works more reliably than exhortation, if society is willing to let
+some individuals learn the hard way. But many resources, such as the
+atmosphere and the fish of the sea, simply cannot be privatized. That leaves only
+the option of “mutual coercion, mutually agreed upon.”
+Life is full of mutual-coercion arrangements, most of them so ordinary you
+hardly stop to think about them. Every one of them limits the freedom to abuse a
+commons, while preserving the freedom to use it. For example:
+
+The common space in the center of a busy intersection is
+regulated by traffic lights. You can’t drive through whenever
+you want to. When it is your turn, however, you can pass
+through more safely than would be possible if there were an
+unregulated free-for-all.
+Use of common parking spaces in downtown areas are parceled
+out by meters, which charge for a space and limit the time it can
+be occupied. You are not free to park wherever you want for as
+long as you want, but you have a higher chance of finding a
+parking space than you would if the meters weren’t there.
+You may not help yourself to the money in a bank, however
+advantageous it might be for you to do so. Protective devices
+such as strongboxes and safes, reinforced by police and jails,
+prevent you from treating a bank as a commons. In return, your
+own money in the bank is protected.
+You may not broadcast at will over the wavelengths that carry
+radio or television signals. You must obtain a permit from a
+regulatory agency. If your freedom to broadcast were not
+limited, the airwaves would be a chaos of overlapping signals.
+Many municipal garbage systems have become so expensive
+that households are now charged for garbage disposal depending
+on the amount of garbage they generate—transforming the
+previous commons to a regulated pay-as-you-go system.
+Notice from these examples how many different forms “mutual coercion,
+mutually agreed upon” can take. The traffic light doles out access to the
+commons on a “take your turn” basis. The meters charge for use of the parking
+commons. The bank uses physical barriers and strong penalties. Permits to use
+broadcasting frequencies are issued to applicants by a government agency. And
+garbage fees directly restore the missing feedback, letting each household feel
+the economic impact of its own use of the commons.
+Most people comply with regulatory systems most of the time, as long as they
+are mutually agreed upon and their purpose is understood. But all regulatory
+systems must use police power and penalties for the occasional noncooperator.
+THE TRAP: TRAGEDY OF THE COMMONS
+When there is a commonly shared resource, every user
+benefits directly from its use, but shares the costs of its
+abuse with everyone else. Therefore, there is very weak
+feedback from the condition of the resource to the decisions
+
+of the resource users. The consequence is overuse of the
+resource, eroding it until it becomes unavailable to anyone.
+THE WAY OUT
+Educate and exhort the users, so they understand the
+consequences of abusing the resource. And also restore or
+strengthen the missing feedback link, either by privatizing the
+resource so each user feels the direct consequences of its
+abuse or (since many resources cannot be privatized) by
+regulating the access of all users to the resource.
+Drift to Low Performance
+In this recession, the British have discovered that … the economy is
+just as downwardly mobile as ever. Even national disasters are now
+seized on as portents of further decline. The Independent on Sunday
+carried a front-page article on “the ominous feeling that the Windsor
+fire is symptomatic of the country at large, that it stems from the
+new national characteristic of ineptitude.…”
+Insisted Lord Peston, Labor’s trade and industry spokesman, “We
+know what we ought to do, for some reason we just don’t do it.”
+Politicians, businessmen, and economists fault the country as a
+place where the young receive substandard education, where both
+labor and management are underskilled, where investment is
+skimped, and where politicians mismanage the economy.
+—Erik Ipsen, International Herald Tribune, 19927
+Some systems not only resist policy and stay in a normal bad state, they keep
+getting worse. One name for this archetype is “drift to low performance.”
+Examples include falling market share in a business, eroding quality of service
+at a hospital, continuously dirtier rivers or air, increased fat in spite of periodic
+diets, the state of America’s public schools—or my one-time jogging program,
+which somehow just faded away.
+The actor in this feedback loop (British government, business, hospital, fat
+person, school administrator, jogger) has, as usual, a performance goal or
+desired system state that is compared to the actual state. If there is a discrepancy,
+action is taken. So far, that is an ordinary balancing feedback loop that should
+keep performance at the desired level.
+
+But in this system, there is a distinction between the actual system state and
+the perceived state. The actor tends to believe bad news more than good news.
+As actual performance varies, the best results are dismissed as aberrations, the
+worst results stay in the memory. The actor thinks things are worse than they
+really are.
+And to complete this tragic archetype, the desired state of the system is
+influenced by the perceived state. Standards aren’t absolute. When perceived
+performance slips, the goal is allowed to slip. “Well, that’s about all you can
+expect.” “Well, we’re not doing much worse than we were last year.” “Well,
+look around, everybody else is having trouble too.”
+The balancing feedback loop that should keep the system state at an
+acceptable level is overwhelmed by a reinforcing feedback loop heading
+downhill. The lower the perceived system state, the lower the desired state. The
+lower the desired state, the less discrepancy, and the less corrective action is
+taken. The less corrective action, the lower the system state. If this loop is
+allowed to run unchecked, it can lead to a continuous degradation in the
+system’s performance.
+Another name for this system trap is “eroding goals.” It is also called the
+“boiled frog syndrome,” from the old story (I don’t know whether it is true) that
+a frog put suddenly in hot water will jump right out, but if it is put into cold
+water that is gradually heated up, the frog will stay there happily until it boils.
+“Seems to be getting a little warm in here. Well, but then it’s not so much
+warmer than it was a while ago.” Drift to low performance is a gradual process.
+If the system state plunged quickly, there would be an agitated corrective
+process. But if it drifts down slowly enough to erase the memory of (or belief in)
+how much better things used to be, everyone is lulled into lower and lower
+expectations, lower effort, lower performance.
+There are two antidotes to eroding goals. One is to keep standards absolute,
+regardless of performance. Another is to make goals sensitive to the best
+performances of the past, instead of the worst. If perceived performance has an
+upbeat bias instead of a downbeat one, if one takes the best results as a standard,
+and the worst results only as a temporary setback, then the same system
+structure can pull the system up to better and better performance. The
+reinforcing loop going downward, which said “the worse things get, the worse
+I’m going to let them get,” becomes a reinforcing loop going upward: “The
+better things get, the harder I’m going to work to make them even better.”
+If I had applied that lesson to my jogging, I’d be running marathons by now.
+THE TRAP: DRIFT TO LOW PERFORMANCE
+
+Allowing performance standards to be influenced by past
+performance, especially if there is a negative bias in
+perceiving past performance, sets up a reinforcing feedback
+loop of eroding goals that sets a system drifting toward low
+performance.
+THE WAY OUT
+Keep performance standards absolute. Even better, let
+standards be enhanced by the best actual performances
+instead of being discouraged by the worst. Use the same
+structure to set up a drift toward high performance!
+Escalation
+Islamic militants kidnapped an Israeli soldier Sunday and threatened
+to kill him unless the army quickly releases the imprisoned founder
+of a dominant Muslim group in the Gaza Strip.… The kidnapping …
+came in a wave of intense violence, … with the shooting of three
+Palestinians and an Israeli soldier who … was gunned down from a
+passing vehicle while he was on patrol in a jeep. In addition Gaza
+was buffeted by repeated clashes between stone-throwing
+demonstrators and Israeli troops, who opened fire with live
+ammunition and rubber bullets, wounding at least 120 people.
+—Clyde Haberman, International Herald Tribune, 19928
+I already mentioned one example of escalation early in this book; the system of
+kids fighting. You hit me, so I hit you back a little harder, so you hit me back a
+little harder, and pretty soon we have a real fight going.
+“I’ll raise you one” is the decision rule that leads to escalation. Escalation
+comes from a reinforcing loop set up by competing actors trying to get ahead of
+each other. The goal of one part of the system or one actor is not absolute, like
+the temperature of a room thermostat being set at 18°C (65°F), but is related to
+the state of another part of the system, another actor. Like many of the other
+system traps, escalation is not necessarily a bad thing. If the competition is
+about some desirable goal, like a more efficient computer or a cure for AIDS, it
+can hasten the whole system toward the goal. But when it is escalating hostility,
+weaponry, noise, or irritation, this is an insidious trap indeed. The most common
+and awful examples are arms races and those places on earth where implacable
+enemies live constantly on the edge of self-reinforcing violence.
+
+Each actor takes its desired state from the other’s perceived system state—and
+ups it! Escalation is not just keeping up with the Joneses, but keeping slightly
+ahead of the Joneses. The United States and the Soviet Union for years
+exaggerated their reports of each other’s armaments in order to justify more
+armaments of their own. Each weapons increase on one side caused a scramble
+to surpass it on the other side. Although each side blamed the other for the
+escalation, it would be more systematic to say that each side was escalating
+itself—its own weapons development started a process that was sure to require
+still more weapons development in the future. This system caused trillions of
+dollars of expense, the degradation of the economies of two superpowers, and
+the evolution of unimaginably destructive weapons, which still threaten the
+world.
+Negative campaigning is another perverse example of escalation. One
+candidate smears another, so the other smears back, and so forth, until the voters
+have no idea that their candidates have any positive features, and the whole
+democratic process is demeaned.
+Then there are price wars, with one economic competitor underpricing
+another, which causes the other to cut prices more, which causes the first to cut
+prices yet again, until both sides are losing money, but neither side can easily
+back out. This kind of escalation can end with the bankruptcy of one of the
+competitors.
+Advertising companies escalate their bids for the attention of the consumer.
+One company does something bright and loud and arresting. Its competitor does
+something louder, bigger, brasher. The first company outdoes that. Advertising
+becomes ever more present in the environment (in the mail, on the telephone),
+more garish, more noisy, more intrusive, until the consumer’s senses are dulled
+to the point at which almost no advertiser’s message can penetrate.
+The escalation system also produces the increasing loudness of conversation
+at cocktail parties, the increasing length of limousines, and the increasing
+raunchiness of rock bands.
+Escalation also could be about peacefulness, civility, efficiency, subtlety,
+quality. But even escalating in a good direction can be a problem, because it
+isn’t easy to stop. Each hospital trying to outdo the others in up-to-date,
+powerful, expensive diagnostic machines can lead to out-of-sight health care
+costs. Escalation in morality can lead to holier-than-thou sanctimoniousness.
+Escalation in art can lead from baroque to rococo to kitsch. Escalation in
+environmentally responsible lifestyles can lead to rigid and unnecessary
+puritanism.
+Escalation, being a reinforcing feedback loop, builds exponentially. Therefore,
+it can carry a competition to extremes faster than anyone would believe
+
+possible. If nothing is done to break the loop, the process usually ends with one
+or both of the competitors breaking down.
+One way out of the escalation trap is unilateral disarmament—deliberately
+reducing your own system state to induce reductions in your competitor’s state.
+Within the logic of the system, this option is almost unthinkable. But it actually
+can work, if one does it with determination, and if one can survive the short-
+term advantage of the competitor.
+The only other graceful way out of the escalation system is to negotiate a
+disarmament. That’s a structural change, an exercise in system design. It creates
+a new set of balancing controlling loops to keep the competition in bounds
+(parental pressure to stop the kids’ fight; regulations on the size and placement
+of advertisements; peace-keeping troops in violence-prone areas). Disarmament
+agreements in escalation systems are not usually easy to get, and are never very
+pleasing to the parties involved, but they are much better than staying in the
+race.
+THE TRAP: ESCALATION
+When the state of one stock is determined by trying to
+surpass the state of another stock—and vice versa—then
+there is a reinforcing feedback loop carrying the system into
+an arms race, a wealth race, a smear campaign, escalating
+loudness, escalating violence. The escalation is exponential
+and can lead to extremes surprisingly quickly. If nothing is
+done, the spiral will be stopped by someone’s collapse—
+because exponential growth cannot go on forever.
+THE WAY OUT
+The best way out of this trap is to avoid getting in it. If caught
+in an escalating system, one can refuse to compete
+(unilaterally disarm), thereby interrupting the reinforcing loop.
+Or one can negotiate a new system with balancing loops to
+control the escalation.
+Success to the Successful—Competitive Exclusion
+Extremely rich people—the top slice of the top 1 percent of
+taxpayers—have considerable flexibility to expose less of their
+
+income to taxation.… Those who can have raced to take bonuses
+now rather than next year [when taxes are expected to be higher], to
+cash in stock options, … and to move income forward in any way
+possible.
+—Sylvia Nasar, International Herald Tribune, 19929
+Using accumulated wealth, privilege, special access, or inside information to
+create more wealth, privilege, access or information are examples of the
+archetype called “success to the successful.” This system trap is found whenever
+the winners of a competition receive, as part of the reward, the means to
+compete even more effectively in the future. That’s a reinforcing feedback loop,
+which rapidly divides a system into winners who go on winning, and losers who
+go on losing.
+Anyone who has played the game of Monopoly knows the success-to-the-
+successful system. All players start out equal. The ones who manage to be first
+at building “hotels” on their property are able to extract “rent” from the other
+players—which they can then use to buy more hotels. The more hotels you have,
+the more hotels you can get. The game ends when one player has bought up
+everything, unless the other players have long ago quit in frustration.
+Once our neighborhood had a contest with a $100 reward for the family that
+put up the most impressive display of outdoor Christmas lights. The family that
+won the first year spent the $100 on more Christmas lights. After that family
+won three years in a row, with their display getting more elaborate every year,
+the contest was suspended.
+To him that hath shall be given. The more the winner wins, the more he, she,
+or it can win in the future. If the winning takes place in a limited environment,
+such that everything the winner wins is extracted from the losers, the losers are
+gradually bankrupted, or forced out, or starved.
+Success to the successful is a well-known concept in the field of ecology,
+where it is called “the competitive exclusion principle.” This principle says that
+two different species cannot live in exactly the same ecological niche,
+competing for exactly the same resources. Because the two species are different,
+one will necessarily reproduce faster, or be able to use the resource more
+efficiently than the other. It will win a larger share of the resource, which will
+give it the ability to multiply more and keep winning. It will not only dominate
+the niche, it will drive the losing competitor to extinction. That will happen not
+by direct confrontation usually, but by appropriating all the resource, leaving
+none for the weaker competitor.
+Another expression of this trap was part of the critique of capitalism by Karl
+Marx. Two firms competing in the same market will exhibit the same behavior
+as two species competing in a niche. One will gain a slight advantage, through
+
+greater efficiency or smarter investment or better technology or bigger bribes, or
+whatever. With that advantage, the firm will have more income to invest in
+productive facilities or newer technologies or advertising or bribes. Its
+reinforcing feedback loop of capital accumulation will be able to turn faster than
+that of the other firm, enabling it to produce still more and earn still more. If
+there is a finite market and no antitrust law to stop it, one firm will take over
+everything as long as it chooses to reinvest in and expand its production
+facilities.
+Some people think the fall of the communist Soviet Union has disproved the
+theories of Karl Marx, but this particular analysis of his—that market
+competition systematically eliminates market competition—is demonstrated
+wherever there is, or used to be, a competitive market. Because of the
+reinforcing feedback loop of success to the successful, the many automobile
+companies in the United States were reduced to three (not one, because of
+antitrust laws). In most major U.S. cities, there is only one newspaper left. In
+every market economy, we see long-term trends of declining numbers of farms,
+while the size of farms increases.
+The trap of success to the successful does its greatest damage in the many
+ways it works to make the rich richer and the poor poorer. Not only do the rich
+have more ways to avoid taxation than the poor, but:
+In most societies, the poorest children receive the worst
+educations in the worst schools, if they are able to go to school
+at all. With few marketable skills, they qualify only for low-
+paying jobs, perpetuating their poverty.10
+People with low income and few assets are not able to borrow
+from most banks. Therefore, either they can’t invest in capital
+improvements, or they must go to local moneylenders who
+charge exorbitant interest rates. Even when interest rates are
+reasonable, the poor pay them, the rich collect them.
+Land is held so unevenly in many parts of the world that most
+farmers are tenants on someone else’s land. They must pay part
+of their crops to the landowner for the privilege of working the
+land, and so never are able to buy land of their own. The
+landowner uses the income from tenants to buy more land.
+Those are only a few of the feedbacks that perpetuate inequitable distribution
+of income, assets, education, and opportunity. Because the poor can afford to
+buy only small quantities (of food, fuel, seed, fertilizer), they pay the highest
+prices. Because they are often unorganized and inarticulate, a disproportionately
+small part of government expenditure is allocated to their needs. Ideas and
+technologies come to them last. Disease and pollution come to them first. They
+
+are the people who have no choice but to take dangerous, low-paying jobs,
+whose children are not vaccinated, who live in crowded, crime-prone, disaster-
+prone areas.
+How do you break out of the trap of success to the successful?
+Species and companies sometimes escape competitive exclusion by
+diversifying. A species can learn or evolve to exploit new resources. A company
+can create a new product or service that does not directly compete with existing
+ones. Markets tend toward monopoly and ecological niches toward monotony,
+but they also create offshoots of diversity, new markets, new species, which in
+the course of time may attract competitors, which then begin to move the system
+toward competitive exclusion again.
+Diversification is not guaranteed, however, especially if the monopolizing
+firm (or species) has the power to crush all offshoots, or buy them up, or deprive
+them of the resources they need to stay alive. Diversification doesn’t work as a
+strategy for the poor.
+The success-to-the-successful loop can be kept under control by putting into
+place feedback loops that keep any competitor from taking over entirely. That’s
+what antitrust laws do in theory and sometimes in practice. (One of the
+resources very big companies can win by winning, however, is the power to
+weaken the administration of antitrust laws.)
+The most obvious way out of the success-to-the-successful archetype is by
+periodically “leveling the playing field.” Traditional societies and game
+designers instinctively design into their systems some way of equalizing
+advantages, so the game stays fair and interesting. Monopoly games start over
+again with everyone equal, so those who lost last time have a chance to win.
+Many sports provide handicaps for weaker players. Many traditional societies
+have some version of the Native American “potlatch,” a ritual in which those
+who have the most give away many of their possessions to those who have the
+least.
+There are many devices to break the loop of the rich getting richer and the
+poor getting poorer: tax laws written (unbeatably) to tax the rich at higher rates
+than the poor; charity; public welfare; labor unions; universal and equal health
+care and education; taxation on inheritance (a way of starting the game over
+with each new generation). Most industrial societies have some combination of
+checks like these on the workings of the success-to-the-successful trap, in order
+to keep everyone in the game. Gift-giving cultures redistribute wealth through
+potlatches and other ceremonies that increase the social standing of the gift
+giver.
+These equalizing mechanisms may derive from simple morality, or they may
+come from the practical understanding that losers, if they are unable to get out
+
+of the game of success to the successful, and if they have no hope of winning,
+could get frustrated enough to destroy the playing field.
+THE TRAP: SUCCESS TO THE SUCCESSFUL
+If the winners of a competition are systematically rewarded
+with the means to win again, a reinforcing feedback loop is
+created by which, if it is allowed to proceed uninhibited, the
+winners eventually take all, while the losers are eliminated.
+THE WAY OUT
+Diversification, which allows those who are losing the
+competition to get out of that game and start another one;
+strict limitation on the fraction of the pie any one winner may
+win (antitrust laws); policies that level the playing field,
+removing some of the advantage of the strongest players or
+increasing the advantage of the weakest; policies that devise
+rewards for success that do not bias the next round of
+competition.
+Shifting the Burden to the Intervenor—Addiction
+You get some sense of what an incredible downward spiral we’re in.
+Because more costs keep being shifted to the private sector, more
+private sector people stop insuring their employees. We are … now
+up to 100,000 Americans a month losing their health insurance.
+An enormous percentage of them qualify for state Medicaid
+benefits. And since states can’t run a deficit, they all go out and
+either underfund education, or underfund children’s investment
+programs, or raise taxes, and that takes money away from other
+investments.
+—Bill Clinton, International Herald Tribune, 199211
+If you want to make a Somali angry, it is said, take away his khat.…
+Khat is the fresh tender leaves and twigs of the catha edulis
+plant.… It is pharmacologically related to amphetamines.…
+Abdukadr Mahmoud Farah, 22, said he first started chewing khat
+when he was 15.… “The reason is not to think of this place. When I
+use it, I get happy. I can do everything. I do not get tired.”
+
+—Keith B. Richburg, International Herald Tribune, 199212
+Most people understand the addictive properties of alcohol, nicotine, caffeine,
+sugar, and heroin. Not everyone recognizes that addiction can appear in larger
+systems and in other guises—such as the dependence of industry on government
+subsidy, the reliance of farmers on fertilizers, the addiction of Western
+economies to cheap oil or weapons manufacturers to government contracts.
+This trap is known by many names: addiction, dependence, shifting the
+burden to the intervenor. The structure includes a stock with in-flows and out-
+flows. The stock can be physical (a crop of corn) or meta-physical (a sense of
+well-being or self-worth). The stock is maintained by an actor adjusting a
+balancing feedback loop—either altering the in-flows or out-flows. The actor
+has a goal and compares it with a perception of the actual state of the stock to
+determine what action to take.
+Say you are a young boy, living in a land of famine and war, and your goal is
+to boost your sense of well-being so you feel happy and energetic and fearless.
+There is a huge discrepancy between your desired and actual state, and there are
+very few options available to you for closing that gap. But one thing you can do
+is take drugs. The drugs do nothing to improve your real situation—in fact, they
+likely make it worse. But the drugs quickly alter your perception of your state,
+numbing your senses and making you feel tireless and brave.
+Similarly, if you are running an ineffective company, and if you can get the
+government to subsidize you, you can go on making money and continue to
+have a good profit, thereby remaining a respected member of society. Or
+perhaps you are a farmer trying to increase your corn crop on overworked land.
+You apply fertilizers and get a bumper crop without doing anything to improve
+the fertility of the soil.
+The trouble is that the states created by interventions don’t last. The
+intoxication wears off. The subsidy is spent. The fertilizer is consumed or
+washed away.
+Examples of dependence and burden-shifting systems abound:
+Care of the aged used to be carried on by families, not always
+easily. So along came Social Security, retirement communities,
+nursing homes. Now most families no longer have the space, the
+time, the skills, or the willingness to care for their elderly
+members.
+Long-distance shipping was carried by railroads and short-
+distance commuting by subways and streetcars, until the
+government decided to help out by building highways.
+Kids used to be able to do arithmetic in their heads or with paper
+and pencil, before the widespread use of calculators.
+
+Populations built up a partial immunity to diseases such as
+smallpox, tuberculosis, and malaria, until vaccinations and drugs
+came along.
+Modern medicine in general has shifted the responsibility for
+health away from the practices and lifestyle of each individual
+and onto intervening doctors and medicines.
+Shifting a burden to an intervenor can be a good thing. It often is done
+purposefully, and the result can be an increased ability to keep the system in a
+desirable state. Surely the 100 percent protection from smallpox vaccines, if it
+lasts, is preferable to only partial protection from natural smallpox immunity.
+Some systems really need an intervenor!
+But the intervention can become a system trap. A corrective feedback process
+within the system is doing a poor (or even so-so) job of maintaining the state of
+the system. A well-meaning and efficient intervenor watches the struggle and
+steps in to take some of the load. The intervenor quickly brings the system to the
+state everybody wants it to be in. Congratulations are in order, usually self-
+congratulations by the intervenor to the intervenor.
+Then the original problem reappears, since nothing has been done to solve it
+at its root cause. So the intervenor applies more of the “solution,” disguising the
+real state of the system again, and thereby failing to act on the problem. That
+makes it necessary to use still more “solution.”
+The trap is formed if the intervention, whether by active destruction or simple
+neglect, undermines the original capacity of the system to maintain itself. If that
+capability atrophies, then more of the intervention is needed to achieve the
+desired effect. That weakens the capability of the original system still more. The
+intervenor picks up the slack. And so forth.
+Why does anyone enter the trap? First, the intervenor may not foresee that the
+initial urge to help out a bit can start a chain of events that leads to ever-
+increasing dependency, which ultimately will strain the capacity of the
+intervenor. The American health-care system is experiencing the strains of that
+sequence of events.
+Second, the individual or community that is being helped may not think
+through the long-term loss of control and the increased vulnerability that go
+along with the opportunity to shift a burden to an able and powerful intervenor.
+If the intervention is a drug, you become addicted. The more you are sucked
+into an addictive action, the more you are sucked into it again. One definition of
+addiction used in Alcoholics Anonymous is repeating the same stupid behavior
+over and over and over, and somehow expecting different results.
+Addiction is finding a quick and dirty solution to the symptom of the problem,
+which prevents or distracts one from the harder and longer-term task of solving
+
+the real problem. Addictive policies are insidious, because they are so easy to
+sell, so simple to fall for.
+Are insects threatening the crops? Rather than examine the farming methods,
+the monocultures, the destruction of natural ecosystem controls that have led to
+the pest outbreak, just apply pesticides. That will make the bugs go away, and
+allow more monocultures, more destruction of ecosystems. That will bring back
+the bugs in greater outbursts, requiring more pesticides in the future.
+Is the price of oil going up? Rather than acknowledge the inevitable depletion
+of a nonrenewable resource and increase fuel efficiency or switch to other fuels,
+we can fix the price. (Both the Soviet Union and the United States did this as
+their first response to the oil-price shocks of the 1970s.) That way we can
+pretend that nothing is happening and go on burning oil—making the depletion
+problem worse. When that policy breaks down, we can go to war for oil. Or find
+more oil. Like a drunk ransacking the house in hopes of unearthing just one
+more bottle, we can pollute the beaches and invade the last wilderness areas,
+searching for just one more big deposit of oil.
+Breaking an addiction is painful. It may be the physical pain of heroin
+withdrawal, or the economic pain of a price increase to reduce oil consumption,
+or the consequences of a pest invasion while natural predator populations are
+restoring themselves. Withdrawal means finally confronting the real (and
+usually much deteriorated) state of the system and taking the actions that the
+addiction allowed one to put off. Sometimes the withdrawal can be done
+gradually. Sometimes a nonaddictive policy can be put in place first to restore
+the degraded system with a minimum of turbulence (group support to restore the
+self-image of the addict, home insulation and high-mileage cars to reduce oil
+expense, polyculture and crop rotation to reduce crop vulnerability to pests).
+Sometimes there’s no way out but to go cold turkey and just bear the pain.
+It’s worth going through the withdrawal to get back to an unaddicted state, but
+it is far preferable to avoid addiction in the first place.
+The problem can be avoided up front by intervening in such a way as to
+strengthen the ability of the system to shoulder its own burdens. This option,
+helping the system to help itself, can be much cheaper and easier than taking
+over and running the system—something liberal politicians don’t seem to
+understand. The secret is to begin not with a heroic takeover, but with a series of
+questions.
+Why are the natural correction mechanisms failing?
+How can obstacles to their success be removed?
+How can mechanisms for their success be made more effective?
+If you are the intervenor, work in such a way as to restore or enhance the
+system’s own ability to solve its problems, then remove yourself.
+
+If you are the one with an unsupportable dependency, build your system’s
+own capabilities back up before removing the intervention. Do it right away.
+The longer you wait, the harder the withdrawal process will be.
+THE TRAP: SHIFTING THE BURDEN TO THE
+INTERVENOR
+Shifting the burden, dependence, and addiction arise when a
+solution to a systemic problem reduces (or disguises) the
+symptoms, but does nothing to solve the underlying problem.
+Whether it is a substance that dulls one’s perception or a
+policy that hides the underlying trouble, the drug of choice
+interferes with the actions that could solve the real problem.
+If the intervention designed to correct the problem causes
+the self-maintaining capacity of the original system to atrophy
+or erode, then a destructive reinforcing feedback loop is set
+in motion. The system deteriorates; more and more of the
+solution is then required. The system will become more and
+more dependent on the intervention and less and less able to
+maintain its own desired state.
+THE WAY OUT
+Again, the best way out of this trap is to avoid getting in.
+Beware of symptom-relieving or signal-denying policies or
+practices that don’t really address the problem. Take the
+focus off short-term relief and put it on long-term
+restructuring.
+Rule Beating
+CALVIN: OK, Hobbes, I’ve got a plan.
+HOBBES: Yeah?
+CALVIN: If I do ten spontaneous acts of good will a day from now
+until Christmas, Santa will have to be lenient in judging the rest of
+this last year. I can claim I’ve turned a new leaf.
+HOBBES: Well, here’s your chance. Susie’s coming this way.
+CALVIN: Maybe I’ll start tomorrow and do 20 a day.
+—International Herald Tribune, 199213
+
+Wherever there are rules, there is likely to be rule beating. Rule beating means
+evasive action to get around the intent of a system’s rules—abiding by the letter,
+but not the spirit, of the law. Rule beating becomes a problem only when it leads
+a system into large distortions, unnatural behaviors that would make no sense at
+all in the absence of the rules. If it gets out of hand, rule beating can cause
+systems to produce very damaging behavior indeed.
+Rule beating that distorts nature, the economy, organizations, and the human
+spirit can be destructive. Here are some examples, some serious, some less so,
+of rule beating:
+Departments of governments, universities, and corporations
+often engage in pointless spending at the end of the fiscal year
+just to get rid of money—because if they don’t spend their
+budget this year, they will be allocated less next year.
+In the 1970s, the state of Vermont adopted a land-use law called
+Act 250 that requires a complex approval process for
+subdivisions that create lots of ten acres or less. Now Vermont
+has an extraordinary number of lots just a little over ten acres.
+To reduce grain imports and assist local grain farmers, European
+countries imposed import restrictions on feed grains in the
+1960s. No one thought, while the restrictions were being
+drafted, about the starchy root called cassava, which also
+happens to be a good animal feed. Cassava was not included in
+the restrictions. So corn imports from North America were
+replaced by cassava imports from Asia.14
+The U.S. Endangered Species Act restricts development
+wherever an endangered species has its habitat. Some
+landowners, on discovering that their property harbors an
+endangered species, purposely hunt or poison it, so the land can
+be developed.
+Notice that rule beating produces the appearance of rules being followed.
+Drivers obey the speed limits, when they’re in the vicinity of a police car. Feed
+grains are no longer imported into Europe. Development does not proceed
+where an endangered species is documented as present. The “letter of the law” is
+met, the spirit of the law is not. That is a warning about needing to design the
+law with the whole system, including its self-organizing evasive possibilities, in
+mind.
+Rule beating is usually a response of the lower levels in a hierarchy to
+overrigid, deleterious, unworkable, or ill-defined rules from above. There are
+two generic responses to rule beating. One is to try to stamp out the self-
+
+organizing response by strengthening the rules or their enforcement—usually
+giving rise to still greater system distortion. That’s the way further into the trap.
+The way out of the trap, the opportunity, is to understand rule beating as
+useful feedback, and to revise, improve, rescind, or better explain the rules.
+Designing rules better means foreseeing as far as possible the effects of the rules
+on the subsystems, including any rule beating they might engage in, and
+structuring the rules to turn the self-organizing capabilities of the system in a
+positive direction.
+THE TRAP: RULE BEATING
+Rules to govern a system can lead to rule beating—perverse
+behavior that gives the appearance of obeying the rules or
+achieving the goals, but that actually distorts the system.
+THE WAY OUT
+Design, or redesign, rules to release creativity not in the
+direction of beating the rules, but in the direction of achieving
+the purpose of the rules.
+Seeking the Wrong Goal
+The government formally acknowledged Friday what private
+economists have been saying for months: Japan will not come close
+to hitting the 3.5 percent growth target government planners set a
+year ago.…
+GNP grew in 1991 by 3.5 percent and in 1990 by 5.5 percent.
+Since the beginning of this fiscal year … the economy has been
+stagnant or contracting.…
+Now that the forecast … has been lowered sharply, pressure from
+politicians and business is likely to grow on the Finance Ministry to
+take stimulative measures.
+—International Herald Tribune, 199215
+Back in Chapter One, I said that one of the most powerful ways to influence the
+behavior of a system is through its purpose or goal. That’s because the goal is
+the direction-setter of the system, the definer of discrepancies that require
+action, the indicator of compliance, failure, or success toward which balancing
+feedback loops work. If the goal is defined badly, if it doesn’t measure what it’s
+
+supposed to measure, if it doesn’t reflect the real welfare of the system, then the
+system can’t possibly produce a desirable result. Systems, like the three wishes
+in the traditional fairy tale, have a terrible tendency to produce exactly and only
+what you ask them to produce. Be careful what you ask them to produce.
+If the desired system state is national security, and that is defined as the
+amount of money spent on the military, the system will produce military
+spending. It may or may not produce national security. In fact, security may be
+undermined if the spending drains investment from other parts of the economy,
+and if the spending goes for exorbitant, unnecessary, or unworkable weapons.
+If the desired system state is good education, measuring that goal by the
+amount of money spent per student will ensure money spent per student. If the
+quality of education is measured by performance on standardized tests, the
+system will produce performance on standardized tests. Whether either of these
+measures is correlated with good education is at least worth thinking about.
+In the early days of family planning in India, program goals were defined in
+terms of the number of IUDs implanted. So doctors, in their eagerness to meet
+their targets, put loops into women without patient approval.
+These examples confuse effort with result, one of the most common mistakes
+in designing systems around the wrong goal. Maybe the worst mistake of this
+kind has been the adoption of the GNP as the measure of national economic
+success. The GNP is the gross national product, the money value of the final
+goods and services produced by the economy. As a measure of human welfare, it
+has been criticized almost from the moment it was invented:
+The gross national product does not allow for the health of our
+children, the quality of their education or the joy of their play. It
+does not include the beauty of our poetry or the strength of our
+marriages, the intelligence of our public debate or the integrity of
+our public officials. It measures neither our wit nor our courage,
+neither our wisdom nor our learning, neither our compassion nor our
+devotion to our country, it measures everything in short, except that
+which makes life worthwhile.16
+We have a system of national accounting that bears no resemblance
+to the national economy whatsoever, for it is not the record of our
+life at home but the fever chart of our consumption.17
+The GNP lumps together goods and bads. (If there are more car accidents and
+medical bills and repair bills, the GNP goes up.) It counts only marketed goods
+and services. (If all parents hired people to bring up their children, the GNP
+would go up.) It does not reflect distributional equity. (An expensive second
+home for a rich family makes the GNP go up more than an inexpensive basic
+
+home for a poor family.) It measures effort rather than achievement, gross
+production and consumption rather than efficiency. New light bulbs that give the
+same light with one-eighth the electricity and that last ten times as long make
+the GNP go down.
+GNP is a measure of throughput—flows of stuff made and purchased in a year
+—rather than capital stocks, the houses and cars and computers and stereos that
+are the source of real wealth and real pleasure. It could be argued that the best
+society would be one in which capital stocks can be maintained and used with
+the lowest possible throughput, rather than the highest.
+Although there is every reason to want a thriving economy, there is no
+particular reason to want the GNP to go up. But governments around the world
+respond to a signal of faltering GNP by taking numerous actions to keep it
+growing. Many of those actions are simply wasteful, stimulating inefficient
+production of things no one particularly wants. Some of them, such as
+overharvesting forests in order to stimulate the economy in the short term,
+threaten the long-term good of the economy or the society or the environment.
+If you define the goal of a society as GNP, that society will do its best to
+produce GNP. It will not produce welfare, equity, justice, or efficiency unless
+you define a goal and regularly measure and report the state of welfare, equity,
+justice, or efficiency. The world would be a different place if instead of
+competing to have the highest per capita GNP, nations competed to have the
+highest per capita stocks of wealth with the lowest throughput, or the lowest
+infant mortality, or the greatest political freedom, or the cleanest environment,
+or the smallest gap between the rich and the poor.
+THE TRAP: SEEKING THE WRONG GOAL
+System behavior is particularly sensitive to the goals of
+feedback loops. If the goals—the indicators of satisfaction of
+the rules—are defined inaccurately or incompletely, the
+system may obediently work to produce a result that is not
+really intended or wanted.
+THE WAY OUT
+Specify indicators and goals that reflect the real welfare of
+the system. Be especially careful not to confuse effort with
+result or you will end up with a system that is producing
+effort, not result.
+
+Seeking the wrong goal, satisfying the wrong indicator, is a system
+characteristic almost opposite from rule beating. In rule beating, the system is
+out to evade an unpopular or badly designed rule, while giving the appearance
+of obeying it. In seeking the wrong goal, the system obediently follows the rule
+and produces its specified result—which is not necessarily what anyone actually
+wants. You have the problem of wrong goals when you find something stupid
+happening “because it’s the rule.” You have the problem of rule beating when
+you find something stupid happening because it’s the way around the rule. Both
+of these system perversions can be going on at the same time with regard to the
+same rule.
+INTERLUDE • The Goal of Sailboat Design
+Once upon a time, people raced sailboats not for millions of dollars or for
+national glory, but just for the fun of it.
+They raced the boats they already had for normal purposes, boats that were
+designed for fishing, or transporting goods, or sailing around on weekends.
+It quickly was observed that races are more interesting if the competitors are
+roughly equal in speed and maneuverability. So rules evolved, that defined
+various classes of boat by length and sail area and other parameters, and that
+restricted races to competitors of the same class.
+Soon boats were being designed not for normal sailing, but for winning races
+within the categories defined by the rules. They squeezed the last possible burst
+of speed out of a square inch of sail, or the lightest possible load out of a
+standard-sized rudder. These boats were strange-looking and strange-handling,
+not at all the sort of boat you would want to take out fishing or for a Sunday sail.
+As the races became more serious, the rules became stricter and the boat designs
+more bizarre.
+Now racing sailboats are extremely fast, highly responsive, and nearly
+unseaworthy. They need athletic and expert crews to manage them. No one
+would think of using an America’s Cup yacht for any purpose other than racing
+within the rules. The boats are so optimized around the present rules that they
+have lost all resilience. Any change in the rules would render them useless.
+

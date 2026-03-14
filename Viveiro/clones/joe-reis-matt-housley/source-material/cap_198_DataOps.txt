@@ -1,0 +1,39 @@
+# DataOps
+
+Paginas: 254-254
+
+Metadata management also significantly enhances data governance. Beyond simply
+enabling passive data cataloging and lineage, consider implementing analytics over
+these systems to get a clear, active picture of what’s happening with your data.
+Data versioning in object storage
+Major cloud object storage systems enable data versioning. Data versioning can help
+with error recovery when processes fail, and data becomes corrupted. Versioning
+is also beneficial for tracking the history of datasets used to build models. Just as
+code version control allows developers to track down commits that cause bugs,
+data version control can aid ML engineers in tracking changes that lead to model
+performance degradation.
+Privacy
+GDPR and other privacy regulations have significantly impacted storage system
+design. Any data with privacy implications has a lifecycle that data engineers must
+manage. Data engineers must be prepared to respond to data deletion requests and
+selectively remove data as required. In addition, engineers can accommodate privacy
+and security through anonymization and masking.
+DataOps
+DataOps is not orthogonal to data management, and a significant area of overlap
+exists. DataOps concerns itself with traditional operational monitoring of storage
+systems and monitoring the data itself, inseparable from metadata and quality.
+Systems monitoring
+Data engineers must monitor storage in a variety of ways. This includes monitoring
+infrastructure storage components, where they exist, but also monitoring object
+storage and other “serverless” systems. Data engineers should take the lead on FinOps
+(cost management), security monitoring, and access monitoring.
+Observing and monitoring data
+While metadata systems as we’ve described are critical, good engineering must con‐
+sider the entropic nature of data by actively seeking to understand its characteristics
+and watching for major changes. Engineers can monitor data statistics, apply anom‐
+aly detection methods or simple rules, and actively test and validate for logical
+inconsistencies.
+Undercurrents
+|
+229
+

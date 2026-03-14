@@ -1,0 +1,384 @@
+Apêndice II (muito técnico)
+Onde a maioria dos modelos econômicos fragiliza e destrói as pessoas
+Quando eu disse “técnico” no texto principal, talvez estivesse blefando. Aqui, não estou.
+A incoerência de Markowitz:
+Suponha que alguém lhe diga que a probabilidade de um evento é exatamente zero. Você pergunta onde ele obteve essa informação. “Foi Baal quem me disse”, é a resposta. Nesse caso, a pessoa é coerente, mas seria considerada fora da realidade pelos não baalistas. Mas se, por outro lado, a pessoa lhe disser “eu
+estimei
+que é igual a zero”, temos um problema. Essa pessoa é, ao mesmo tempo, fora da realidade e incoerente. Algo que é estimado precisa ter um erro de estimativa. Então, a probabilidade não pode ser zero se for estimada, pois seu limite inferior está vinculado ao erro de estimativa; quanto maior o erro de estimativa, maior é a probabilidade, até certo ponto. Assim como no argumento da ignorância total formulado por Laplace, um
+erro de estimativa infinito empurra a probabilidade para ½.
+Voltaremos à implicação do erro; por ora, tenha em mente que estimar um parâmetro e, em seguida, colocá-lo na forma de uma equação é diferente de estimar a equação por meio de parâmetros (a mesma história da saúde da avó, a temperatura média: aqui, “estimada” é irrelevante, precisamos é da saúde média entre as temperaturas medidas). E Markowitz demonstrou sua incoerência ao iniciar seu artigo “seminal” com “Suponha que você conheça
+E
+e
+V
+” (isto é, a expectativa e a variância). Ao fim do artigo, ele aceita que
+E
+e
+V
+precisam ser estimadas, e, o que é pior, com uma combinação entre as técnicas estatísticas e o “parecer de homens práticos”. Bem, se esses parâmetros precisam ser estimados, com um erro, então as derivações precisam ser escritas de forma diferente e, é claro, não teríamos artigo nenhum — e nenhum artigo de Markowitz, nenhuma explosão, nada de finanças modernas, nenhum fragilista ensinando bobagens aos estudantes… Modelos econômicos são extremamente frágeis a pressupostos, no sentido de que uma ligeira alteração nessas premissas pode, como veremos, levar a diferenças extremamente relevantes nos resultados. E, para piorar a situação, muitos desses modelos são “reajustados retroativamente” às premissas, no sentido de que as hipóteses são selecionadas para fazer a matemática funcionar, o que as torna ultrafrágeis e ultrafragilizadoras.
+Exemplo simples:
+os déficits governamentais.
+Usamos o seguinte exemplo de déficit, devido ao modo como os cálculos feitos atualmente pelos governos e agências governamentais negligenciam os termos da
+convexidade (e têm dificuldade para aceitá-los). A bem da verdade, eles não os levam em conta. O exemplo ilustra que:
+(a) se omite o caráter estocástico de uma variável que, sabidamente, afeta o modelo, mas é considerada determinada (e fixa), e
+(b)
+F
+, a função dessa variável, é convexa ou côncava com relação à variável.
+Digamos que um governo estima a taxa de desemprego para os três anos seguintes a uma média de 9%; ele usa seus modelos econométricos para divulgar um balanço previsional
+B
+com um déficit de 200 bilhões na moeda local. Mas omite (como quase tudo na economia) que o desemprego é uma variável estocástica. O emprego, ao longo de um período de três anos, teve uma flutuação de 1% em média. Podemos calcular o efeito do erro nos seguintes termos:
+Taxa de desemprego a 8%, Balanço B
+(
+8%
+)
+= –75 bi
+(
+melhoria de 125 bi
+)
+Taxa de desemprego a 9%, Balanço B
+(
+9%
+)
+= –200 bi
+Taxa de desemprego a 10%, Balanço B
+(
+10%
+)
+= –550 bi
+(
+piora de 350 bi
+)
+O viés de concavidade, ou viés de convexidade negativo, resultante da subestimação do déficit é de –112,5 bi, uma vez que ½ {
+B
+(8%) +
+B
+(10%)} = –312 bi, e não –200 bi. Esse é exatamente o caso da
+pedra filosofal às avessas
+.
+FIGURA 37.
+As transformações não lineares permitem a detecção tanto do viés de convexidade do modelo quanto da fragilidade.
+Ilustração do exemplo: histograma da simulação do déficit governamental de Monte Carlo como uma variável aleatória, com cauda à esquerda, simplesmente como resultado da randomização do desemprego, do qual ele é uma função côncava. O método de estimativa por pontos presumiria uma medida de Dirac em –200, assim subestimando tanto o déficit esperado
+(
+–312
+)
+quanto a fragilidade de cauda
+(
+fonte: Taleb e Douady, 2012
+)
+.
+Aplicação: Modelo ricardiano e cauda à esquerda — acontece que o preço do vinho varia
+Por quase duzentos anos, temos falado sobre uma ideia do economista David Ricardo chamada “vantagem comparativa”. Em suma, ela diz que um país deveria implementar certas políticas com base em sua vantagem comparativa em vinho ou em tecidos. Digamos que um país tenha uma boa produção tanto de vinho quanto de tecidos, superior à de seus vizinhos, com quem ele pode negociar livremente. Então, a estratégia visível
+mais favorável
+seria especializar-se ou em vinho ou em tecidos, o que tivesse melhor adaptação e pudesse minimizar os custos de oportunidade. Dessa maneira, todos ficariam
+felizes. A analogia feita pelo economista Paul Samuelson é a de que, se acontecer de alguém ser o melhor médico da cidade e, ao mesmo tempo, o melhor secretário, então seria preferível ser o médico de mais alta renda — já que isso minimizaria as perdas de oportunidade — e deixar que outra pessoa desempenhasse a função de secretário, contratando os serviços de secretariado dela.
+Concordo que há benefícios em
+alguma
+forma de especialização, mas não a partir dos modelos usados para se provar isso. A falha desse raciocínio é a seguinte: na verdade, seria inconcebível que um médico se tornasse secretário em meio período só porque ele exerce bem as funções de secretariado. Ao mesmo tempo, contudo, podemos presumir, sem medo de errar, que ser médico garante alguma estabilidade profissional: as pessoas não deixarão de adoecer, e a profissão de médico tem maior status social do que a de secretário, o que a torna mais desejável. Mas suponha, agora, que, em um mundo em que existem apenas dois países, um deles, especializado em vinho, tem esperanças de vender sua especialidade no mercado do outro país, e,
+de súbito
+,
+o preço do vinho desaba vertiginosamente
+. Alguma alteração no sabor causou uma mudança no preço. A análise de Ricardo presume que tanto o preço de mercado do vinho quanto os custos de produção permanecem constantes e que não há nenhum elemento “de segunda ordem” nesta história.
+TABELA 11 • EXEMPLO ORIGINAL DE RICARDO
+(CUSTOS DE PRODUÇÃO POR UNIDADE)
+Tecidos
+Vinho
+Inglaterra
+100
+110
+Portugal
+90
+80
+A lógica:
+a tabela 11 mostra os custos de produção, normalizados para o preço de venda de uma unidade de cada, isto é, partindo do pressuposto de que esses produtos são comercializados a um preço idêntico (uma unidade de tecido para uma unidade de vinho). O que parece um paradoxo é o seguinte: Portugal produz roupas a um custo mais baixo do que a Inglaterra, mas compra roupas daquele país usando os lucros das vendas de vinho. Na ausência de custos de transação e de transporte, para a Inglaterra é mais eficiente produzir apenas tecidos, e, para Portugal, produzir apenas vinho.
+A ideia sempre atraiu os economistas, por causa de seu aspecto paradoxal e contraintuitivo. Por exemplo, em um artigo intitulado “Why Intellectuals Don’t Understand Comparative Advantage” [Por que os intelectuais não compreendem a vantagem comparativa] (Krugman, 1998), Paul Krugman, ele próprio incapaz de entender o conceito, uma vez que seu ensaio e seu trabalho técnico demonstram que ele é completamente ignorante acerca de eventos de cauda e gerenciamento de riscos, ridiculariza outros intelectuais, como S
+.
+J
+.
+Gould, que compreendem os eventos de cauda, embora de maneira intuitiva e não analítica (é claro que não se pode falar de retornos e ganhos sem descontar esses benefícios, pela compensação de riscos). O artigo mostra Krugman caindo na grave e perigosa falácia de confundir a função da média com a média da função (a análise ricardiana tradicional presume que as variáveis são endógenas, mas não acrescenta uma camada de estocasticidade).
+Agora considere a
+variável
+do preço do vinho e dos tecidos — o que Ricardo não levou em conta —, com números acima do valor médio a longo prazo, sem viés nenhum. Suponha, ainda, que eles seguem uma distribuição de cauda grossa. Ou considere que seus custos de produção variam de acordo com uma distribuição de cauda grossa.
+Se o preço do vinho nos mercados internacionais subir, digamos, em 40%, então haverá benefícios claros. Mas se o preço cair em uma porcentagem idêntica, em –40%, então a consequência seria um dano gigantesco, de magnitude maior que os benefícios, caso houvesse uma alta equivalente. Há concavidades na exposição — concavidades graves.
+E, como fica evidente, se o preço caísse 90%, o efeito seria desastroso. Apenas imagine o que aconteceria com sua família se seu salário sofresse um instantâneo e imprevisto corte de 40%. De fato, ao longo da história tivemos problemas com países que se especializaram em alguns produtos, commodities e culturas agrícolas que não eram apenas voláteis, mas extremamente voláteis. E o desastre não é causado necessariamente pela variação de preços, mas resulta de problemas de produção: de repente, é impossível cultivar o que quer que seja por causa de um germe, do mau tempo ou de algum outro impedimento.
+Uma safra ruim, como a que causou a fome da batata na Irlanda, na década em 1850, resultou na morte de 1 milhão de pessoas e na emigração de mais outro milhão (no momento em que escrevo este texto, a população total da Irlanda é de apenas cerca de 6 milhões de pessoas, se incluirmos a parte norte). É muito difícil reconverter os recursos — ao contrário do caso do médico-secretário,
+países não têm a capacidade de mudar. Na verdade, a monocultura (sistema de cultivo agrícola com foco em um só produto) mostrou-se letal na história — uma safra ruim ocasiona fomes devastadoras.
+A outra parte que foi omitida na analogia médico-secretário é que países não têm família nem amigos. Um médico conta com uma rede de apoio, um círculo de amigos, uma coletividade que cuida dele, um sogro a quem pedir dinheiro emprestado caso ele tenha de mudar de profissão, um Estado acima dele para ajudá-lo. Os países, não. Além disso, um médico guarda suas economias; países tendem a ser devedores.
+Então, aqui, temos mais uma vez a fragilidade aos efeitos de segunda ordem.
+Combinação de probabilidades:
+a ideia da vantagem comparativa tem um análogo na probabilidade: se você pegar amostras de dentro de uma urna (com reposição) e retirar uma bola preta em 60% das vezes e uma bola branca em 40% das vezes restantes, a estratégia ideal, de acordo com os livros didáticos, é apostar 100% do tempo nas bolas pretas. A estratégia de apostar 60% do tempo nas bolas pretas e 40% nas bolas brancas é chamada de “combinação de probabilidades”, o que a literatura científica sobre tomada de decisões considera um erro (lembro ao leitor que foi a estratégia usada por Triffat no capítulo 10). O instinto das pessoas de decidir-se pela combinação de probabilidades parece ser uma opção sensata, não um erro. Na natureza, as probabilidades são instáveis (ou desconhecidas), e a combinação de probabilidades é semelhante à redundância, como um amortecedor de segurança. Portanto, se as probabilidades mudarem, ou, em outras palavras, se houver outra
+camada de aleatoriedade, então a estratégia mais favorável é a combinação de probabilidades.
+Como funciona a especialização:
+o leitor não deve interpretar o que estou dizendo como uma afirmação de que a especialização não é uma coisa boa — apenas que o indíviduo deveria instaurar essa especialização depois de lidar com a fragilidade e os efeitos de segunda ordem. Ora, acredito que em última análise Ricardo está certo, mas não a partir dos modelos apresentados. Organicamente, os sistemas sem controles estruturados de cima para baixo se especializariam de forma progressiva, lenta e, ao longo de um extenso período de tempo, chegariam à quantidade certa de especialização via tentativa e erro — e não por meio de algum burocrata munido de um modelo. Repetindo: sistemas cometem pequenos erros, o planejamento comete erros maiores.
+Assim, a imposição da brilhante noção de Ricardo, convertida em modelo por algum planejador social, levaria a explosões; deixar que experimentações e improvisos funcionem lentamente resultaria em eficiência — a verdadeira eficiência. O papel dos formuladores de políticas deveria ser, ao estilo
+via negativa
+, permitir o surgimento da especialização, impedindo o que dificulta o processo.
+Uma metodologia mais geral para detectar o erro do modelo
+Efeitos de segunda ordem e fragilidade do modelo:
+suponha que temos o modelo correto (o que é uma hipótese muito generosa), mas estamos incertos quanto aos parâmetros. À guisa de uma generalização do exemplo do déficit/emprego usado na seção anterior,
+digamos que estamos usando
+f
+, uma função simples:
+f
+(
+x|
+ᾱ
+), na qual se supõe que
+ᾱ
+seja a variável inicial média esperada, e na qual consideramos
+φ
+a distribuição de
+α
+ao longo de seu domínio
+.
+A pedra filosofal:
+o mero fato de que
+α
+é incerta (uma vez que é estimada) pode levar a um viés se causarmos um distúrbio a partir do
+interior
+(da integral), isto é, estocastizar o parâmetro considerado fixo. Consequentemente, o viés de convexidade é facilmente mensurado como a diferença entre (a) a função
+f
+integrada com os valores da
+α
+potencial, e (b)
+f
+estimada para um único valor de
+α
+, tido como a sua média. O viés de convexidade (pedra filosofal)
+ω
+A
+torna-se:
+1
+A equação principal:
+a fragilidade é uma pedra filosofal parcial abaixo de
+K
+, daí que a fragilidade omitida
+ω
+B
+é calculada comparando-se as duas integrais abaixo de
+K
+, a fim de descrever o efeito sobre a cauda à esquerda:
+que pode ser simulada por uma estimativa interpolada, obtida com dois valores de
+α
+separados a partir de um ponto central por Δ
+α
+, seu desvio médio de
+α
+, e estimando
+Note que a antifragilidade
+ω
+C
+integra-se desde
+K
+até o infinito. Podemos analisar
+ω
+B
+por estimativas pontuais de
+f
+em um nível de
+X
+≤
+K
+de modo que
+o que nos leva à heurística de detecção de fragilidade (Taleb, Canetti et al., 2012). Especificamente, se assumirmos que
+ώ
+B
+(
+X
+) tem um sinal constante para
+X
+≤
+K
+, então
+ω
+B
+(
+K
+) terá o mesmo sinal. A heurística de detecção é um distúrbio nas caudas para esquadrinhar a fragilidade, por meio da verificação da função
+ώ
+B
+(
+X
+) em qualquer nível de
+X
+.
+TABELA 12
+MODELO
+FONTE DE FRAGILIDADE
+MEDIDA CORRETIVA
+Teoria do portfólio, média variância
+etc.
+Pressupor o conhecimento dos parâmetros, não integrar modelos entre parâmetros, confiar em correlações (muito instáveis). Presume
+ω
+A
+(viés) e
+ω
+B
+(fragilidade) = 0
+1/
+n
+(disseminar o maior número possível de exposições manejáveis), estratégia
+barbell
+, construção progressiva e orgânica etc.)
+Vantagem comparativa ricardiana
+Negligenciar a camada de aleatoriedade no preço do vinho pode implicar a inversão total de alocação. Admite que
+ω
+A
+(viés) e
+ω
+B
+(fragilidade) = 0
+Sistemas naturais encontram sua própria alocação por meio de experimentações e improvisos
+Otimização de Samuelson
+Concentração de fontes de aleatoriedade sob a
+concavidade da função de perda. Supõe
+ω
+A
+(viés) e
+ω
+B
+(fragilidade) = 0
+Aleatoriedade distribuída
+Modelo de estado-espaço de Arrow-Debreu
+Falácia lúdica: pressupõe o conhecimento exaustivo de resultados e o conhecimento de probabilidades. Supõe
+ω
+A
+(viés),
+ω
+B
+(fragilidade) e
+ω
+C
+(antifragilidade) = 0
+O uso de metaprobabilidades muda todo o modelo de implicações
+Modelos de fluxo de caixa de dividendos
+Omite a estocasticidade, causando efeitos de convexidade. Considera, basicamente,
+ω
+C
+(antifragilidade) = 0
+Heurísticas
+Falácias dos portfólios de investimento:
+atente para uma falácia fomentada pelos adeptos de Markowitz:
+a teoria do portfólio estimula as pessoas a diversificar, portanto isso é melhor do que nada
+. Errado, seus idiotas das finanças: isso empurra as pessoas para a otimização, consequentemente para a superalocação. Diversificar não leva as pessoas a correrem menos riscos; pelo contrário, faz com que assumam posições mais expostas, devido à percepção das propriedades estatísticas de compensação — tornando-as vulneráveis a erros do modelo, e especialmente vulneráveis à subestimação dos eventos de cauda. Para entender como, considere dois investidores encarando a tarefa de escolher onde alocar recursos dentre três itens: dinheiro em espécie e nos títulos
+A
+e
+B
+. O investidor que não conhece as propriedades estatísticas de
+A
+e
+B
+, e sabe que não conhece, alocará, digamos, a porção que ele não quer perder em dinheiro, o restante em
+A
+e
+B
+— seja qual for a heurística sendo usada tradicionalmente. O investidor que julga conhecer as propriedades estatísticas, com parâmetros
+σ
+a
+,
+σ
+b
+,
+ρ
+a,b
+, alocará em
+ω
+A
+,
+ω
+B
+, de modo a colocar o risco total em
+algum nível de referência pretendido (vamos ignorar o lucro esperado para isso). Quanto menor sua percepção da correlação
+ρ
+A
+,
+B
+, pior sua exposição ao erro do modelo. Supondo que ele pense que a correlação
+ρ
+A
+,
+B
+, é igual a 0, ele fará uma superalocação de
+⅓
+em eventos extremos. Mas se o pobre investidor tiver a ilusão de que a correlação é de –1, ele fará uma superalocação máxima em seus investimentos
+A
+e
+B
+. Se o investidor usar a alavancagem, em última instância teremos a história do fundo de investimentos Long-Term Capital Management, que, como se viu, deixou-se iludir pelos parâmetros (na vida real, ao contrário do que vemos em artigos acadêmicos de economia, as coisas tendem a mudar; e, em nome de Baal, elas mudam!). Podemos repetir a ideia para cada parâmetro
+σ
+e ver de que modo a percepção menor de
+σ
+leva à superalocação.
+Atuando como
+trader
+, notei — e fiquei obcecado pela ideia — que as correlações jamais eram as mesmas em diferentes mensurações. “Instável” seria uma palavra gentil para elas: 0,8 durante um longo período de tempo torna-se –0,2 no decorrer de outro longo intervalo de tempo. Um puro jogo de otário. Em períodos de estresse, as correlações sofrem mudanças ainda mais bruscas, sem regularidade confiável, apesar das tentativas de simular “correlações de estresse”. Taleb (1997) lida com os efeitos das correlações estocásticas: só está seguro quem reduz uma correlação para 1 e a compra a –1, o que parece corresponder à heurística 1/
+n
+.
+Critério de Kelly versus Markowitz:
+para implementar uma completa otimização ao estilo de Markowitz, é preciso conhecer toda a distribuição de probabilidade conjunta de todos os ativos no futuro
+todo, mais a exata função utilitária da riqueza em todos os tempos futuros. E sem erros! (Vimos que os erros de estimativa fazem o sistema explodir.) O método de Kelly, desenvolvido mais ou menos no mesmo período, não requer distribuição conjunta nem função utilitária. Na prática, a pessoa precisa da proporção entre o lucro esperado e o pior retorno possível — dinamicamente ajustados para evitar o fracasso. No caso de transformações estilo
+barbell
+, o pior cenário possível já está garantido. E o erro do modelo é muitíssimo mais brando sob o critério de Kelly. Thorp (1971, 1998), Haigh (2000).
+O formidável Aaron Brown aponta que as ideias de Kelly foram rejeitadas pelos economistas — apesar do fascínio prático que despertam — por causa da adoração desses economistas pelas teorias gerais que determinam todos os preços dos ativos.
+Note que a tentativa e erro restrita é compatível com o critério de Kelly quando o indivíduo tem uma noção do retorno potencial — mesmo quando ignora os retornos, se os prejuízos forem limitados, a compensação será robusta e o método deverá apresentar um desempenho superior ao do fragilista Markowitz.
+Finanças corporativas:
+em suma, as finanças corporativas parecem basear-se em projeções pontuais, não em projeções distributivas; assim, se alguém causar alterações nas projeções de fluxo de caixa, digamos, no modelo de avaliação de Gordon, substituindo o crescimento fixo — e conhecido — (e outros parâmetros) por meio de saltos continuamente variáveis (em especial, distribuições de caudas grossas), as empresas consideradas “caras” ou aquelas com alto índice de
+crescimento mas lucros modestos poderiam aumentar acentuadamente seu valor esperado, algo que o mercado precifica heuristicamente, mas sem nenhuma razão explícita.
+Conclusão e resumo:
+algo que o establishment econômico vem omitindo é o fato de que ter à disposição o modelo correto (o que é uma hipótese muito generosa), mas estar inseguro quanto aos seus parâmetros, levará invariavelmente a um aumento da fragilidade na presença da convexidade e das não linearidades.
+DEIXA PARA LÁ AS PEQUENAS PROBABILIDADES
+Agora, o ponto crucial, além da economia, o problema mais genérico da probabilidade e de sua mensuração equivocada.
+Como as caudas grossas (Extremistão) surgem de respostas não lineares aos parâmetros do modelo
+Eventos raros têm determinada propriedade — negligenciada até o momento da redação deste livro. Lidamos com eles usando um modelo, uma geringonça matemática que se alimenta de informações dos parâmetros e produz probabilidades como resposta. Quanto mais incerteza sobre os parâmetros houver em um modelo projetado para calcular probabilidades, mais as pequenas probabilidades tenderão a ser subestimadas. Em termos simples, as pequenas probabilidades são convexas a erros de cômputo, assim como uma viagem de avião é côncava a erros e distúrbios (lembre-se, ela fica mais longa, e não mais curta). Quanto mais fontes
+de distúrbio a pessoa se esquecer de levar em conta, mais longa será a viagem de avião em comparação com a estimativa ingênua.
+Todos sabemos que, para calcular a probabilidade usando uma distribuição estatística normal padrão, é necessário um parâmetro chamado
+desvio-padrão
+— ou algo semelhante que caracterize a escala ou a dispersão dos resultados. Mas a incerteza sobre esse desvio-padrão tem um efeito de elevar as pequenas probabilidades. Por exemplo, para um desvio que é chamado de “três sigma”, eventos que não deveriam ocorrer mais do que uma vez a cada 740 observações, a probabilidade aumenta em 60% se o desvio-padrão subir 5%, e cai em 40% se reduzirmos o desvio-padrão em 5%. Assim, se o erro for, em média, de meros 5%, a subestimação originada de um modelo ingênuo é de cerca de 20%. É uma grande assimetria, mas ainda não representa muito. Piora à medida que observamos outros desvios, os “seis sigma” (infelizmente frequentíssimos na economia): um aumento cinco vezes maior. Quanto mais raro o evento (isto é, quanto maior o “sigma”), pior o efeito resultante da pequena incerteza com relação ao que colocar na equação. Em eventos como os do dez sigma, a diferença é de mais de 1 bilhão de vezes. Podemos usar esse argumento para mostrar de que modo as probabilidades cada vez menores exigem maior precisão de cálculo. Quanto menor a probabilidade, mais um diminuto arredondamento de cálculo torna a assimetria substancialmente insignificante. Para probabilidades pequeníssimas, é necessário contar com uma precisão quase infinita nos parâmetros; neste caso, a menor das incertezas provoca o caos. Elas são bastante convexas a perturbações. Este é, em certo sentido, o argumento que usei para mostrar que as pequenas
+probabilidades são incalculáveis, mesmo quando temos o modelo certo — o qual, é claro, não temos.
+O mesmo argumento é válido para a derivação de probabilidades usando modelos não paramétricos, com base em frequências anteriores. Se a probabilidade aproximar-se de 1/tamanho da amostra, o erro explode.
+Isso, logicamente, explica o erro de Fukushima. Semelhante ao da Fannie Mae. Resumindo: as pequenas probabilidades aumentam de modo acelerado, à proporção que se altera o parâmetro utilizado para seu cálculo.
+FIGURA 38.
+A probabilidade é convexa ao desvio-padrão em um modelo gaussiano. O gráfico mostra o efeito PADRÃO em P
+>
+x, e compara P
+>
+6 com um PADRÃO de 1,5 comparado a P
+>
+6, presumindo uma combinação linear de 1,2 e 1,8
+(
+aqui,
+α
+(
+1
+)
+= 1/5
+)
+.
+O fato preocupante é que um distúrbio em
+σ
+se estenderia até a cauda da distribuição de forma convexa; os riscos de um portfólio de investimentos que é sensível às caudas explodiriam. Ou seja, ainda estamos aqui
+no mundo gaussiano! Essa incerteza explosiva não é o resultado de caudas grossas naturais na distribuição, somente uma pequena imprecisão sobre um parâmetro futuro. É apenas epistêmica! Portanto, aqueles que usam esses modelos, embora admitam a incerteza dos parâmetros, estão, necessariamente, cometendo uma grave incoerência.
+2
+Evidente, a incerteza explode ainda mais quando reproduzimos as condições do mundo real não gaussiano após eventos de cauda perturbadores. Mesmo com uma distribuição de lei de potência, os resultados são muito intensos, particularmente sob as variações do expoente de cauda, já que esses eventos têm consequências gigantescas. Na realidade, as caudas grossas significam a incalculabilidade dos eventos de cauda, pouco mais do que isso.
+Incerteza composta (Fukushima)
+Usando a afirmação anterior de que a
+estimativa implica erro
+, vamos estender a lógica: os erros contêm erros; estes, por sua vez, contêm erros. Levar em conta o efeito faz com que todas as pequenas probabilidades venham à tona, independentemente do modelo — até mesmo o gaussiano —, a ponto de alcançar as caudas grossas e os efeitos da lei de potência (até mesmo a chamada variância infinita) quando ordens mais altas de incerteza são significativas. Mesmo considerando uma distribuição gaussiana
+σ
+em que o desvio-padrão tem um erro proporcional
+α
+(1);
+α
+(1) apresenta uma taxa de erro
+α
+(2) etc. Ora, tudo depende da taxa de erro de ordem superior
+α
+(n), em relação a
+α
+(n–1); se elas estiverem em proporção constante, então convergiremos para uma
+distribuição de cauda bastante longa. Se os erros proporcionais diminuírem, ainda teremos caudas grossas. Em todos os casos, o mero erro não é uma coisa boa para as pequenas probabilidades.
+O mais triste é que fazer as pessoas aceitarem que todas as medições contêm um erro tem sido uma tarefa quase impossível — o evento em Fukushima, que de acordo com as previsões aconteceria uma vez a cada 1 milhão de anos, se transformaria em um em cada trinta se filtrássemos e distribuíssemos da maneira adequada as diferentes camadas de incerteza.
+1
+. A diferença entre os dois lados da desigualdade de Jensen corresponde a uma noção da teoria da informação, a divergência de Bregman. Briys, Magdalou e Nock, 2012.
+2
+. Isso revela ainda mais as deficiências da noção da “incerteza knightiana”, uma vez que
+todas as caudas
+são incertas sob a mais ínfima perturbação, e seus efeitos são graves em domínios com caudas grossas, isto é, na vida econômica.

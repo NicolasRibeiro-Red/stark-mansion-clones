@@ -1,0 +1,122 @@
+# Separation of Compute from Storage
+
+Paginas: 245-247
+
+as Parquet or JSON. CSV files are notorious for schema inconsistency and are not
+recommended in this setting.
+The principal advantage of schema on write is that it enforces data standards, mak‐
+ing data easier to consume and utilize in the future. Schema on read emphasizes
+flexibility, allowing virtually any data to be written. This comes at the cost of greater
+difficulty consuming data in the future.
+Separation of Compute from Storage
+A key idea we revisit throughout this book is the separation of compute from storage.
+This has emerged as a standard data access and query pattern in today’s cloud era.
+Data lakes, as we discussed, store data in object stores and spin up temporary com‐
+pute capacity to read and process it. Most fully managed OLAP products now rely
+on object storage behind the scenes. To understand the motivations for separating
+compute and storage, we should first look at the colocation of compute and storage.
+Colocation of compute and storage
+Colocation of compute and storage has long been a standard method to improve
+database performance. For transactional databases, data colocation allows fast, low-
+latency disk reads and high bandwidth. Even when we virtualize storage (e.g., using
+Amazon EBS), data is located relatively close to the host machine.
+The same basic idea applies for analytics query systems running across a cluster of
+machines. For example, with HDFS and MapReduce, the standard approach is to
+locate data blocks that need to be scanned in the cluster, and then push individual
+map jobs out to these blocks. The data scan and processing for the map step are
+strictly local. The reduce step involves shuffling data across the cluster, but keeping
+map steps local effectively preserves more bandwidth for shuffling, delivering better
+overall performance; map steps that filter heavily also dramatically reduce the amount
+of data to be shuffled.
+Separation of compute and storage
+If colocation of compute and storage delivers high performance, why the shift toward
+separation of compute and storage? Several motivations exist.
+Ephemerality and scalability. In the cloud, we’ve seen a dramatic shift toward ephemer‐
+ality. In general, it’s cheaper to buy and host a server than to rent it from a cloud
+provider, provided that you’re running it 24 hours a day nonstop for years on end. In
+practice, workloads vary dramatically, and significant efficiencies are realized with a
+pay-as-you-go model if servers can scale up and down. This is true for web servers in
+online retail, and it is also true for big data batch jobs that may run only periodically.
+220
+|
+Chapter 6: Storage
+
+Ephemeral compute resources allow engineers to spin up massive clusters to com‐
+plete jobs on time and then delete clusters when these jobs are done. The per‐
+formance benefits of temporarily operating at ultra-high scale can outweigh the
+bandwidth limitations of object storage.
+Data durability and availability. Cloud object stores significantly mitigate the risk of
+data loss and generally provide extremely high uptime (availability). For example, S3
+stores data across multiple zones; if a natural disaster destroys a zone, data is still
+available from the remaining zones. Having multiple zones available also reduces the
+odds of a data outage. If resources in one zone go down, engineers can spin up the
+same resources in a different zone.
+The potential for a misconfiguration that destroys data in object storage is still some‐
+what scary, but simple-to-deploy mitigations are available. Copying data to multiple
+cloud regions reduces this risk since configuration changes are generally deployed to
+only one region at a time. Replicating data to multiple storage providers can further
+reduce the risk.
+Hybrid separation and colocation
+The practical realities of separating compute from storage are more complicated
+than we’ve implied. In practice, we constantly hybridize colocation and separation to
+realize the benefits of both approaches. This hybridization is typically done in two
+ways: multitier caching and hybrid object storage.
+With multitier caching, we utilize object storage for long-term data retention and
+access but spin up local storage to be used during queries and various stages of data
+pipelines. Both Google and Amazon offer versions of hybrid object storage (object
+storage that is tightly integrated with compute).
+Let’s look at examples of how some popular processing engines hybridize separation
+and colocation of storage and compute.
+Example: AWS EMR with S3 and HDFS. Big data services like Amazon EMR spin up tem‐
+porary HDFS clusters to process data. Engineers have the option of referencing both
+S3 and HDFS as a filesystem. A common pattern is to stand up HDFS on SSD drives,
+pull from S3, and save data from intermediate processing steps on local HDFS. Doing
+so can realize significant performance gains over processing directly from S3. Full
+results are written back to S3 once the cluster completes its steps, and the cluster and
+HDFS are deleted. Other consumers read the output data directly from S3.
+Example: Apache Spark. In practice, Spark generally runs jobs on HDFS or some other
+ephemeral distributed filesystem to support performant storage of data between
+processing steps. In addition, Spark relies heavily on in-memory storage of data to
+improve processing. The problem with owning the infrastructure for running Spark
+Big Ideas and Trends in Storage
+|
+221
+
+4 Valliappa Lakshmanan and Jordan Tigani, Google BigQuery: The Definitive Guide (Sebastopol, CA: O’Reilly,
+2019), 16–17, 188, https://oreil.ly/5aXXu.
+is that dynamic RAM (DRAM) is extremely expensive; by separating compute and
+storage in the cloud, we can rent large quantities of memory and then release that
+memory when the job completes.
+Example: Apache Druid. Apache Druid relies heavily on SSDs to realize high perfor‐
+mance. Since SSDs are significantly more expensive than magnetic disks, Druid keeps
+only one copy of data in its cluster, reducing “live” storage costs by a factor of three.
+Of course, maintaining data durability is still critical, so Druid uses an object store as
+its durability layer. When data is ingested, it’s processed, serialized into compressed
+columns, and written to cluster SSDs and object storage. In the event of node failure
+or cluster data corruption, data can be automatically recovered to new nodes. In
+addition, the cluster can be shut down and then fully recovered from SSD storage.
+Example: Hybrid object storage. Google’s Colossus file storage system supports fine-
+grained control of data block location, although this functionality is not exposed
+directly to the public. BigQuery uses this feature to colocate customer tables in a
+single location, allowing ultra-high bandwidth for queries in that location.4 We refer
+to this as hybrid object storage because it combines the clean abstractions of object
+storage with some advantages of colocating compute and storage. Amazon also offers
+some notion of hybrid object storage through S3 Select, a feature that allows users to
+filter S3 data directly in S3 clusters before data is returned across the network.
+We speculate that public clouds will adopt hybrid object storage more widely to
+improve the performance of their offerings and make more efficient use of available
+network resources. Some may be already doing so without disclosing this publicly.
+The concept of hybrid object storage underscores that there can still be advantages
+to having low-level access to hardware rather than relying on someone else’s public
+cloud. Public cloud services do not expose low-level details of hardware and systems
+(e.g., data block locations for Colossus), but these details can be extremely useful in
+performance optimization and enhancement. See our discussion of cloud economics
+in Chapter 4.
+While we’re now seeing a mass migration of data to public clouds, we believe that
+many hyper-scale data service vendors that currently run on public clouds provided
+by other vendors may build their data centers in the future, albeit with deep network
+integration into public clouds.
+222
+|
+Chapter 6: Storage
+

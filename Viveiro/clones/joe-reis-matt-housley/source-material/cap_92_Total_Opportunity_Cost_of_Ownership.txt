@@ -1,0 +1,45 @@
+# Total Opportunity Cost of Ownership
+
+Paginas: 144-144
+
+1 For more details, see “Total Opportunity Cost of Ownership” by Joseph Reis in 97 Things Every Data Engineer
+Should Know (O’Reilly).
+to millions of dollars or more—would be treated as assets and slowly depreciate over
+time. From a budget perspective, capital was required to fund the entire purchase.
+This is capex, a significant capital outlay with a long-term plan to achieve a positive
+ROI on the effort and expense put forth.
+Operational expenses, also known as opex, are the opposite of capex in certain
+respects. Opex is gradual and spread out over time. Whereas capex is long-term
+focused, opex is short-term. Opex can be pay-as-you-go or similar and allows a lot of
+flexibility. Opex is closer to a direct cost, making it easier to attribute to a data project.
+Until recently, opex wasn’t an option for large data projects. Data systems often
+required multimillion-dollar contracts. This has changed with the advent of the
+cloud, as data platform services allow engineers to pay on a consumption-based
+model. In general, opex allows for a far greater ability for engineering teams to
+choose their software and hardware. Cloud-based services let data engineers iterate
+quickly with various software and technology configurations, often inexpensively.
+Data engineers need to be pragmatic about flexibility. The data landscape is changing
+too quickly to invest in long-term hardware that inevitably goes stale, can’t easily
+scale, and potentially hampers a data engineer’s flexibility to try new things. Given the
+upside for flexibility and low initial costs, we urge data engineers to take an opex-first
+approach centered on the cloud and flexible, pay-as-you-go technologies.
+Total Opportunity Cost of Ownership
+Any choice inherently excludes other possibilities. Total opportunity cost of ownership
+(TOCO) is the cost of lost opportunities that we incur in choosing a technology,
+an architecture, or a process.1 Note that ownership in this setting doesn’t require
+long-term purchases of hardware or licenses. Even in a cloud environment, we
+effectively own a technology, a stack, or a pipeline once it becomes a core part of
+our production data processes and is difficult to move away from. Data engineers
+often fail to evaluate TOCO when undertaking a new project; in our opinion, this is a
+massive blind spot.
+If you choose data stack A, you’ve chosen the benefits of data stack A over all other
+options, effectively excluding data stacks B, C, and D. You’re committed to data stack
+A and everything it entails—the team to support it, training, setup, and maintenance.
+What happens if data stack A was a poor choice? What happens when data stack A
+becomes obsolete? Can you still move to other data stacks?
+How quickly and cheaply can you move to something newer and better? This is a
+critical question in the data space, where new technologies and products seem to
+Cost Optimization and Business Value
+|
+119
+

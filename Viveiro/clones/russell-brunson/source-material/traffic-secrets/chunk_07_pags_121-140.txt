@@ -1,0 +1,897 @@
+# CHUNK 7 (Paginas 121-140)
+
+
+--- PAGINA 121 ---
+
+SECRET #12
+GOOGLE TRAFFIC SECRETS
+The first time someone told me about Google, I was at a public library in 2001 in New Jersey,
+frustrated at how hard it was to find things online. The lady sitting next to me leaned over and
+said, “You should try www.Google.com. It’s new, and every time I search on it, I’m always able
+to actually find what I’m looking for.”
+I shrugged and decided to give it a try. I slowly typed it in for the first time, letter by letter,
+and after the search bar loaded, I typed in the same keywords I had tried on a dozen other
+search engines. Within seconds, I found exactly what I was looking for! I’m assuming that your
+first experience was probably similar, and that’s why we all kept going back.
+STEP #1: UNDERSTAND THE HISTORY AND THE GOAL
+It was 1996 at Stanford University when Larry Page and Sergey Brin started working on their
+first search engine called BackRub.33 At the time, searching on the internet was just starting.
+Search engines like Excite, Yahoo!, Ask Jeeves, and more started to pop up. They each had
+different ways they indexed pages and showed their results.
+Larry and Sergey had the idea that a better way to display search results was to look at the
+number of links coming back to a page (called backlinks) to estimate the value of that page.
+They theorized that the more backlinks pointed to a page, the more important the website
+must be, and therefore, the higher it would rank in the search engines. They wrote a
+mathematical algorithm that was based on that premise and created what are often called
+“spiders” to crawl the internet and count the number of backlinks pointing to every web page
+they could find, identifying the keyword phrases that are on the actual web page, and then
+ranking them for those keywords.
+They found out quickly that their hypothesis was correct. This new algorithm made for a
+better searching experience for the end user, and it started to grow fast. The first year they
+hosted BackRub on Stanford’s servers, but eventually, when they used up too much
+bandwidth, they had to move it. On September 15, 1997, they registered Google.com, and
+launched a dynasty based on a simple algorithm.
+Google’s algorithm made the so-called “cream of the World Wide Web” automatically rise to
+the top of the search results. In turn, the companies whose sites were indexed at the top of the
+search engines for certain keywords got flooded with so much traffic, so many visitors, and so
+many leads that many of them couldn’t keep up with the business. Being ranked on the first
+page in Google for a major keyword could bring you hundreds of thousands (and in some cases
+millions) of dollars overnight! With that much money on the line for each ranked keyword,
+almost everyone who noticed what was happening wanted to be at the top, no matter the cost.
+That’s the funny thing about algorithms: they don’t care who you are. They don’t care who
+has the best product, the best customer support, or who will treat the customers the best. All
+they know is that if a page meets their certain criteria, they rank it higher than a page that
+doesn’t meet their criteria. It’s that simple. When you understand that, then the question
+quickly becomes, “What exactly is the algorithm looking for, and how do I tweak what I’m
+doing to beat the algorithm so I can be ranked at the top?”
+Google’s original algorithm was primarily based on backlinks. If you had 100 links on other
+people’s websites all pointing to your page and your competitor had 101 links, your
+competitor would outrank you. As soon as people hacked the algorithm and figured out what
+made them win, they would do whatever they needed to rank them at the top.
+
+
+--- PAGINA 122 ---
+
+Figure 12.1: Google’s original algorithm ranked a website at the top if it had the most backlinks
+for a certain search keyword.
+I first discovered this when I was launching one of my first funnels ever. It was for my
+product teaching people how to make potato guns. I did some very basic keyword research
+and found that, at the time, there were about 18,000 people per month searching for the
+keyword phrase “potato gun.” I was shocked that there were that many searches and no one
+was selling a product showing people how to make potato guns! So I made a DVD, set up my
+funnel, and tried to get traffic.
+The first thing I did was type “potato gun” into Google, and I looked at the sites that were
+ranking on the first page. I had heard people say that the secret to being a good real estate
+investor was “location, location, location.” I remember thinking that these 10 spots on page
+number one were the most prime real estate in the world for someone selling potato gun
+plans. Being ranked on that first page was the big secret!
+I had to figure out how to get on that page, and the first step was figuring out the algorithm
+that decided which pages deserved to be at the top. Google was still in its infancy then, and as
+I started researching how to outrank my competitors, I learned that the only thing that
+mattered was backlinks. There were a few rudimentary tools that would show you how many
+links a page had, and within minutes, I knew exactly how many links I needed to be on the
+first page and how many links I needed to be in the top spot.
+After that, it was on like Donkey Kong. I started doing everything in my power to get links. I
+would buy links from people. I found sites that would let me post links in their directories. I
+would post in forums and link back to my page. I would basically drop links on any and every
+page that would let me, including “Free for All,” or FFA, pages (later nicknamed “link farms”),
+where you could submit as many links as you wanted. Within days, I saw my site move from
+the 100th page in Google to the 50th, to the 20th, and finally all the way to the second page! I
+was almost there! I was so close I could taste it. Within days, I would have my new potato gun
+storefront property listed on the most ideal real estate in the world: page one for my dream
+keyword.
+And then it happened. It was my first of many experiences with a Google slap. Overnight, my
+page was gone, dropped from the search engines forever. I didn’t know why. I didn’t
+understand where it went, but as I went looking for answers, I saw that it wasn’t just me.
+In the big scheme of things, my potato gun keywords were tiny. While 18,000 people might
+seem like a lot when you’re printing and shipping potato gun DVDs from your basement, it
+was tiny in relation to other keywords. Some keywords get hundreds of thousands or millions
+of visitors a month. Imagine being on page number one for “hotels” or “cars.” These keywords
+can and do make hundreds of millions of dollars for those who can hold their spot at the top.
+But even the phrase “emergency plumber Boise Idaho” will grow a local company faster than
+anything else one could ever dream of.
+So what was the Google slap? Well, each slap is different and is issued for different reasons,
+but the main reason always comes down to the battle between Google and the marketers.
+Google wants to show its visitors the best web page for every search. Marketers like us want
+our web page to be shown at the top. The battle between us and each platform is why the
+algorithms have to constantly change and evolve. That’s why almost every book that has ever
+been written on getting online traffic is obsolete within months.
+
+
+--- PAGINA 123 ---
+
+These slaps happen with Google, and they also occur with Facebook, Instagram, and
+YouTube. As soon as the platforms figure out the perfect algorithm that shows the best results,
+us marketers all start using our creative minds to figure out how to hack the algorithm so we
+can be in the number one spot or to make our videos go viral or get our posts, pictures, and
+images to get the most likes, shares, and views. With each keyword, image, or viral video
+potentially being worth millions of dollars, these platforms have created a scenario where the
+smartest people in the world are all focused on reverse engineering the algorithm for
+themselves, to get and keep their companies at the top.
+That is why, in this book, I’m never going to tell you how to hack an exact algorithm. We
+never really know exactly what it is, even though we can get close by modeling what is
+currently having success. And it changes constantly. So instead of showing you how to hack an
+exact algorithm, I’ll show you the history of each algorithm, as well as the changes that have
+taken place over time. After all, understanding the history and the changes make it easier to
+see the future and where things are going. I’ll show you how to figure out what the algorithms
+are right now on each platform so you can play the game that is working today, in real time.
+The real secret to traffic isn’t knowing exactly what the algorithm is before you get on each
+platform; the real secret is being able to look at each platform and quickly figure out what the
+algorithm is now.
+Let me quickly take you through a history of each Google slap so you can understand the
+evolution of the algorithm and where it is today.
+The Four Phases of Google
+Phase #1—Popularity through backlinks: As you’ve just seen, the big breakthrough that
+made Google the best search engine in the world was that they ranked your web pages based
+on how many other pages were talking about you and linking back to you. Each link that
+someone else posted on a page that linked back to your website counted as a “vote” and
+pushed your page up through Google’s rankings.
+The game was fun. You would pick a keyword you wanted, find out how many backlinks the
+person who was ranked number one had, and then you only needed to get more backlinks than
+they had. For example, if the number-one spot had 100 backlinks, you needed at least 101
+backlinks to replace them.
+The problem is that it created a game that was easy to win if you were okay with spamming
+the search engines. People would hire huge teams of workers overseas to post their links on
+every website they could find. Eventually, software was also built that would allow you to post
+hundreds of links with the simple click of a few buttons. What started out as the perfect
+ranking algorithm quickly became a cesspool with the most spammed pages rising to the top.
+This didn’t give Google’s users a good customer experience, so they had to make changes.
+Phase #2—Page rank and on-page optimization: To clean up this mess, Google started to
+look more closely at two things. The first was the actual quality of the links that were pointing
+back to you. They created something called “page rank” to give a quality score to every
+page.34 This made it possible to assign a weight to every link that was pointing back to your
+website. No longer would 101 links beat out 100 links; instead, if you had fewer links coming
+from higher-quality pages, you could win, even with much fewer links. This solved a lot of
+problems for Google and cleaned up the results for a while, but inevitably it made people start
+focusing their spamming efforts on better sites. Pretty soon, a whole underground industry
+popped up where you could buy links on high page-rank sites.
+Because garbage sites were rising to the top of the search engines, Google had its spiders
+look more closely at the actual content that was on the pages, not just how many links the web
+pages were getting.35 Google rewarded people who structured their web page content in a
+way that gave people the best user experience. This created a whole new industry of
+specialists who became amazing at doing on-page optimization, essentially creating pages that
+Google loved to rank high. But, as happens with most good things, the marketers mastered the
+algorithm again. They created software that would find articles from other people’s sites,
+scrape the articles, rewrite them (we used to call it “spinning” because it would take a
+percentage of the words in the article, look for other words in the thesaurus that had similar
+meanings, and replace the original words with the new, similar words so it looked like a new
+article), and display them in a way that would trick Google into ranking them high once again.
+Ultimately, it still gave end users a bad user experience. As good as Google’s algorithm was,
+people kept finding ways to beat it.
+Phase #3—The Google zoo: Panda, Penguin, Hummingbird:36 Starting in about 2011, the
+
+
+--- PAGINA 124 ---
+
+organic “Google slap” began, meaning Google made a bunch of huge algorithm changes
+designed to clean up their search results. Each update was given the name of an animal.
+It started with Panda, which killed content farms and scraper sites that people had created
+to beat the algorithm. In 2012, Penguin went live, penalizing people who were buying links or
+obtaining them through networks that were designed to boost search rankings.
+In 2013, Hummingbird figured out the intent behind a search rather than just the keyword
+itself, giving Google the artificial intelligence it needed to figure out what people were actually
+looking for. This was a huge update to Google’s core algorithm, and it had only one goal: to
+make a better experience for those who were searching for something.
+Phase #4—Mobilegeddon and Fred: For years, Google didn’t implement any big updates.
+That is, until 2015, which has been called the year of mobile. It was the first time that mobile
+searches bypassed desktop searches on Google. This was also the year that Google launched
+their new updated algorithm that ranked you higher if your site was optimized for mobile. This
+update forced everyone to redesign their pages to create a better mobile experience for
+Google’s mobile searchers.
+Two years later, we were introduced to the update that was unofficially named Fred.37 This
+update is the one that I think is most important for us all to understand, as it gives us the
+pattern to be successful with search in the future. Fred penalized sites that prioritized
+monetization over user experience. If your site had low user engagement, was thin in content,
+or had content heavily geared toward conversions, pop-ups, and aggressive advertising, you
+lost your rankings overnight.
+So, why are Fred and all its predecessors so important? They help us to see Google’s core
+goal: a better user experience. If we can align with Google’s goals, they will send us an almost
+unlimited amount of traffic for free. Trying to spam the algorithms may give you short-term
+gains, but only until Google finds the loopholes and closes them. However, the real secret is
+understanding Google’s intent and helping them to serve their searchers.
+Why does Google care so much about their users’ experience? Mostly because they still
+make the majority of their money from paid ads, and if people have a bad experience when
+they search, they won’t come back. So if your goal is to try to figure out a way to deliver the
+best experience possible to their surfers, Google will reward you for that.
+STEP #2: FIND YOUR DREAM 100 ON THIS PLATFORM
+This is where the search engines start to become really fun for me. This process is similar to a
+treasure hunt, looking for the keywords and blogs that you can tap into to bring you thousands
+of visitors a day, sometimes overnight.
+In Secret #2, we talked about two types of congregations. The first was “interest-based”
+congregations, such as influencers, brands, and other things that people are interested in. The
+second type of congregation we discussed was “search-based” congregations. Instead of
+targeting “interests,” we would be targeting keywords and keyword phrases. For Google, we
+are going to be building out two Dream 100 lists. One list will be with the top bloggers in your
+market, and the second list will be a list of your Dream 100 keywords.
+Your Dream 100 (bloggers): As I start looking at Google, before I put in the work of getting
+ranked in the search engines, I want to find the people who have already done the work,
+gotten ranked, and have readers who currently read their blogs. I will be utilizing these
+bloggers and their blogs in different ways, both buying my way into their traffic streams as
+well as working my way in. But for now, I just want to identify them and get them on my
+Dream 100 list.
+Finding them can be as easy as going to Google and typing in your dream keywords and the
+word “blog” after it. You’ll then see the top 10 listings in Google and which bloggers have
+made it to the top.
+Some of the bloggers will have their own blogs that run on their own domain, while others
+will use popular blogging networks like Medium.com. You can go to Medium.com (and other
+blog networks) and search for bloggers in your market. Make this list and keep it handy, as
+we’ll be leveraging these people soon.
+Your Dream 100 (keywords): It’s now finally time to dust off your “Dream 100” keywords
+that you wrote down in Secret #2 and focus on getting access to all the traffic that is on the
+first page in the search engines. Being ranked on page number one for one of your dream
+keywords is the equivalent of owning Boardwalk or Park Place in Monopoly. Owning one or
+more of these listings in this virtual real estate landscape can fill your funnels with traffic for
+
+
+--- PAGINA 125 ---
+
+years to come.
+Make a list of the keyword phrases that you think your dream customers would be typing
+into Google if they were trying to find the result that your product or service offers. When I
+first did this exercise with ClickFunnels, the first 10 dream keyword phrases that I wrote
+down were:
+Sales funnels
+Digital marketing
+Internet marketing
+Online marketing
+Landing page
+Marketing automation
+Growth hacking
+Personal branding
+Website traffic
+Social media marketing
+I figured that that my dream customers would be typing each of these phrases into Google
+to get the same result that my product could give them, and these became my dream
+keywords.
+The next step was to find the long-tail keywords associated with each of my dream
+keywords. Often it can be really difficult to rank for a high-competition keyword, so I also
+wanted to see the long-tail keywords that would be easier to rank at first.
+To do this, take your number-one dream keyword phrase and type it into Google. Google will
+suggest other keyword phrases in the search bar that people often search for when someone
+types in your dream keyword phrase. These are the other suggested phrases under your
+search results.
+These keywords will become your “long-tail” keyword phrases. Write down your nine long-
+tail keyword phrases that are associated with each of your dream keywords that you would
+like to target. For example:
+Dream Keyword: Sales Funnels
+Long-Tail Keywords:
+Sales funnels definition
+Sales funnels software
+Sales funnels for real estate
+Sales funnels examples
+Sales funnels for artists
+Sales funnels templates
+Sales funnels explained
+Sales funnels 101
+Sales funnels for Shopify
+You can also scroll down to the bottom of Google after you search for your dream keyword,
+and it will show you eight more keywords that are closely related to your search term.
+
+
+--- PAGINA 126 ---
+
+Figure 12.2: When you type in your dream keyword, Google will suggest other popular, long-tail
+keyword phrases (left). After searching for a specific result, Google will also show you related
+searches at the bottom of their search results (right).
+Keep looking until you find 10 solid keywords phrases to focus on. If you do that with all 10
+of your dream keywords, you will end up with a list of 100 keywords.
+This is the simplest way to build out your dream keyword list, but there are some amazing
+software tools that can help take it to the next level. Many of them will show you how many
+searches each keyword gets each month, how competitive it is to try and rank for these
+keywords, how much money you will pay per click from the sponsored ads, and more. I have
+posted a list of all my favorite keyword tools, as well as tutorial videos for my favorites, at Traf
+ficSecrets.com/resources.
+STEP #3: IDENTIFY THE PUBLISHING STRATEGY AND CREATE YOUR PUBLISHING PLAN
+Now that we have our dream keywords, we want to funnel hack the search engines to see
+what is already working for that keyword. To do that, all you have to do is type your keyword
+phrase into Google. Then scan the top 10 results and look for patterns of what type of posts
+are being ranked. I specifically look for what we call a “linkable asset,” or what I call
+internally a “Letterman Top 10 List.”
+I call it that because I remember when I was teenager and my parents would sometimes
+watch Late Show with David Letterman, and while I didn’t necessary like his show, there was
+one segment that I loved, and it was when he would do his famous Top 10 Lists, such as
+“Eminem’s Top 10 Pieces of Advice For Kids” or “Top 10 Questions Justin Bieber Would
+Answer ‘I Don’t Know.’”38 Then he would list out 10 funny things to go with each list.
+A linkable asset works similar to Letterman’s Top 10 Lists. They will usually be structured
+with a title like “25 SEO Tools to Instantly Improve Your Marketing in 2020” or “18 Things You
+Can Actually Eat on a Ketogenic Diet that You Assumed Were Bad for You.”
+These types of linkable assets are what Google loves for a few reasons. The first is that if
+you structure them correctly, people will love the content so much that they can’t help but link
+back to it. Real, organic, quality links are what Google wants to reward you for, and writing a
+good article that people naturally want to link to is the secret to getting the right links. The
+second reason is these are the types of posts that readers on Google love. Because Google
+owns the Chrome browser and usually has their analytics code on most of your pages, they
+can see how long someone stays on your site, how long they scroll for, if they click on your
+links, and how many pages they visit inside of your site. The more time someone spends on
+your site, the more they scroll, and the more pages they click to are all signs that your end
+user is having a good experience. These types of articles with their “21 steps” or “205
+resources,” if written correctly, will get people to scroll through your page and spend a lot of
+time there, showing its value to Google.
+
+
+--- PAGINA 127 ---
+
+As I’m scanning the organic results for my dream keywords, I’m looking to see if there are
+any Letterman Top 10 List–type articles being ranked. If there aren’t, then I will work on
+creating my own linkable asset that I can post on my blog. If I do find one that is already
+ranking in the top 10 for my Dream 100, I will use the “skyscraper” technique that I learned
+from Brian Dean to build a taller skyscraper and outrank them in the search engines.
+The skyscraper technique works after you have found content that has already generated a
+ton of links and is already ranking for your dream keywords, and then you model it to create
+your own bigger, better piece of content, i.e., a bigger skyscraper. I like to try to create at
+least one new skyscraper article per month.
+On his blog, Brian describes the skyscraper technique as a way for you to have the content
+that everyone wants to talk about (and link to):39
+Have you ever walked by a really tall building and said to yourself: Wow, that’s amazing!
+I wonder how big the eighth tallest building in the world is. Of course not. It’s human
+nature to be attracted to the best. And what you’re doing here is finding the tallest
+“skyscraper” in your space . . . and slapping 20 stories to the top of it.
+Figure 12.3: To rank for your dream keyword, find an article that is ranked high in Google for that
+keyword and write a “taller skyscraper” article that Google will like better.
+After you’ve found an article that is ranking for your dream keyword that you want to beat,
+the next step is to write a better piece of content. Here are four things that Brian
+recommended to do to your article to make your skyscraper taller:
+Longer: In some cases, publishing an article that’s simply longer or includes more items
+will do the trick. For example, if you find a link magnet with a title of “50 Healthy Snack
+Ideas,” publish a list of 150 (or even 500).
+More up to date: If you can take an out-of-date piece of content and spruce it up, you’ve
+got yourself a winner.
+Better designed: A visually stunning piece of content can typically generate a lot more
+links and social shares than something similar on an ugly page.
+More thorough: Most lists posts are made of a bland list of bullet points without any
+meaty content that people can actually use. But if you add a bit of depth for each item on
+your list, you have yourself a list post that’s much more valuable.40
+Important note: Brian recommends that you beat the existing content on all four levels.
+In this longer new skyscraper, I will often use my dream keyword as well as my long-tail
+keywords throughout the article. Doing this with just one skyscraper article will often get me
+ranked for many, if not all, my related Dream 100 keyword phrases.
+
+
+--- PAGINA 128 ---
+
+Getting quality links to your skyscraper: Publishing the longer, better skyscraper won’t in
+and of itself get your site ranked onto page number one. After you’ve written the article, you
+need to promote it, and the way you promote an article is by getting a lot of the right links to
+it. Brian taught us to get the right links by looking at the links that are pointing to the linkable
+asset that we modeled. If people are already linking to that content, we know a few things.
+They have a website in the same niche that we’re publishing.
+They’re interested in the topic, because they have already linked to our competitor.
+They’ve already linked to an article on that topic, so it’s not difficult for them to include a
+link to our longer, better, more updated article too.
+You will need to email the people linking to your competitor and ask them to link back to you
+as well. You can contact them manually or you can use a shortcut to save you time. Go to Traffi
+cSecrets.com/ resources to find some tools that will scrape the contact information from
+everyone who is linking to your competitor.
+In your email, you can let them know that you saw they linked to your competitor and that
+you’d love it if they’d link to your article as well since yours is similar but much more up to
+date and comprehensive. This strategy will help you to get the right links. Here’s an example
+of an email that Brian sent out to 160 people who were linking to his competitor that got him
+great results:
+Figure 12.4: After you write your skyscraper article, you can email the website owners of anyone
+who has linked to your competitor’s article and let them know you have created a newer, better
+article.
+Brian said that he personalized and tweaked this template for each person he reached out
+to, and out of the 160 emails he sent out, he got 17 people to link back! That’s an 11 percent
+success rate following the skyscraper method that helped him to get his article ranked.
+The next way I work to get links back to my new article is by reverse engineering (funnel
+hacking) the backlinks that are going to the other nine organic listings on page number one
+for my dream keyword. I already found the people that are linking to my competitor’s article
+and emailed them. I am now going to do the same thing to the people who are linking to the
+other nine pages that are ranked on page one. I send out a similar email to each of them
+asking if they’d be willing to link back to my linkable asset. By doing this, I am getting the
+
+
+--- PAGINA 129 ---
+
+same backlinks that are currently ranking the top 10 results for my dream keyword phrase all
+linking back to me.
+There are lots of other ways to get links, all with varying degrees of what Google likes.
+“White hat” techniques are the ones that Google loves and rewards you for, whereas “black
+hat” techniques are just spammy ways to get links that trick Google. While you may get short-
+term gains with black-hat techniques, every one that I’ve ever used to beat Google has always
+caught up with me eventually. We now solely focus on doing what Google wants. I’ll mention
+some other ways we get links in the “work your way in” section later, but Brian’s skyscraper
+linking technique is one of the best and fastest ways to kick-start your link building.
+These manual link requests will get the process started, and then I will stimulate traffic to
+the skyscraper pages by promoting my new article on my other social sites (Facebook and
+Instagram) and email lists. If you’ve followed the process we’ve discussed, your content will
+become a link magnet by organically getting the right types of links and continuing to rise in
+the search engines. This type of organic linking is what Google wants and rewards.
+Your Publishing Plan
+In this chapter, I’ve shown you how I look at marketing on Google. We’ve talked about some of
+the core ways to get organic traffic from Google. The following is a publishing plan that you
+and your team can use to systemize the ranking process.
+Figure 12.5: Use this publishing plan to see at a glance where you should focus your efforts on
+Google.
+STEP #4: WORK YOUR WAY IN
+Working your way into the search engines has two amazing benefits. The first is that you can
+tap into the traffic streams of the bloggers that you put on your Dream 100 list earlier. The
+second is you can get some of the best quality links directly from these same bloggers who
+have quality sites in your market (the type of links that Google loves).
+The way I work my way into the search engines is through “guest posting.” That means I am
+looking for someone else who has a blog in my market and I am asking if I can make a “guest
+post” on their site. I’ll email the blog owners and tell them that I had a few cool ideas for a
+post on their blog and ask them if any of them are of interest. If they say yes, then I write up
+the post, include a link to one or two of my skyscrapers, and have them post it. I give them
+good content, their readers will click on the links and I’ll get traffic from that, the spiders will
+
+
+--- PAGINA 130 ---
+
+see the links to my skyscraper, and it will increase my rankings from there.
+You can also work on becoming a writer or a columnist for high-traffic sites in your market.
+Some of the best SEO people I know are writers for Forbes, Entrepreneur, and other top-
+ranked sites. They are able to use their positions as writers on the sites to push traffic into
+their own funnels and post quality links to rank their skyscrapers.
+I try to post at least one guest post per week on blogs in my market, as well as work toward
+becoming a contributing author for the sites that bring me the most traffic and quality links.
+STEP #5: BUY YOUR WAY IN
+When I first started to learn SEO, back before the Google slaps started, I got frustrated that I
+wasn’t ranked number one for some of the highly competitive dream keywords that I wanted
+to rank for. One day I decided I wanted to be number one for the keyword “internet
+marketing.” I set out on a journey to rank organically for that keyword, and after eight long
+months I finally ended up getting to page number one! I think I topped out at the number four
+spot on page one before I got slapped during one of the algorithm updates.
+But about a month into that long journey, I got frustrated and I looked at each of the people
+who were already ranked number one for my dream keywords. I started to notice that a lot of
+those sites were articles and weren’t actually selling any products. They had some banner ads
+on them, but they didn’t have a product like mine to sell.
+I started emailing a bunch of them, knowing how hard I was working to try to get that
+ranking, wondering why they would put in that much effort to rank when they didn’t have an
+actual product to sell. I got emails back from about a half dozen of them, and I found out
+something very interesting. Most of them were SEO guys who were really good at ranking
+pages but had no idea how to create products. So instead they would get a page ranked on
+page one, and then they would either sell ads on their page or link to other products as an
+affiliate. As soon as they told me that, I had the big idea.
+What if while I was waiting to get my site ranked on page one, I started getting traffic
+immediately from all the people who were currently ranked number one? My goal in the short-
+term wasn’t to outrank them; it was to get ads for my funnels on their pages.
+I started to negotiate deals with them, and within days I was prominently displayed at the
+top of some of the sites that were already ranked for my dream keywords. Getting on these
+pages turned on a faucet of traffic over night!
+I quickly started to realize how much more valuable a click to your funnels is from one of
+these pages than even the same from the Google homepage. Just think, a phrase like “internet
+marketing” could have thousands of people searching for it per day on Google. However, the
+people who do the following three-step process are actually more valuable to you:
+1. Type a phrase into Google
+2. Click on one of the results
+3. Click on the link to your funnel from this other page
+Figure 12.6: People who follow this three-step process of searching for your keyword, clicking on
+one of the results, clicking on your paid ad inside that result, and landing on your funnel are
+more valuable to you because they’re warmer traffic.
+
+
+--- PAGINA 131 ---
+
+The first click on Google is typically from the “browsers” but the second click comes from
+the people who are the most serious: the buyers. Because they’ve made two clicks to get to
+you, they are so much more likely to convert when they do get to your page. Tons of the clicks
+that hit Google’s homepage will be wasted on people who aren’t serious, and if you’re paying
+for these clicks, it can be very expensive. However, the people who have to click two clicks to
+get to you are the ones who are most serious and will be worth the most money to you long-
+term.
+When I look at my Dream 100 websites, I try to quickly weed out the ones that don’t have
+any advertising on them already. Instead, I’m looking for sites that have AdSense ads, banner
+ads, affiliate links to other products, and email newsletter subscription boxes. Then I start
+contacting the owners of these websites to find out my advertising options.
+If they have an email newsletter, I ask them if I can purchase a solo ad to their email
+list (more on this in Secret #17).
+If they have banner ads on their website, I ask them how much it costs to purchase a
+banner ad.
+If they have Google AdSense on their site, then I add their site to my list to target
+later with Google Display Network or GDN (more on this in Secret #9).
+If they have an article on that page, then I try to see if I can get them to add a link
+back to one of my pages in their article.
+Getting your links to your funnels on the pages that are already ranked for your dream
+keywords is one of the fastest ways to get super qualified traffic into your funnels.
+STEP #6: FILL YOUR FUNNEL
+Are you able to see now how you can get access to the traffic that is coming from the search
+engines? We focus on creating blog posts that are linkable assets that will act as link magnets
+that you can get ranked on page one for your dream keywords. While we’re waiting for these
+pages to rise in the search engines, we do guest posting on the blogs in our market to get both
+instant traffic from their readers and more links pointing back to our linkable assets.
+We then go to the pages that are already ranked on page one for our dream keywords, and
+we work to buy ads on these pages so we can plug our funnels into the existing streams of
+traffic that are going to these pages.
+The last step is buying ads on Google’s paid search platforms. There are two main ways that
+you can get paid traffic from Google. The first is the paid ads on the search engine results
+pages (the ads that show up above and below the organic results for your dream keywords)
+and the second is from AdSense ads that other people have put on their pages. You get access
+to these ads through the GDN.
+I won’t be showing the actual tactics behind how to run Google Ads as they are always
+changing, but the strategy behind how you run Google Ads in Secret #9 is the same. First you
+create prospecting ads as hooks to capture your dream customers and pull them into your
+funnels. For those that don’t immediately convert, we move them into our retargeting buckets
+and move them from engaged, to landed, and then to owned. After we own the traffic, we use
+our follow-up funnels to ascend them up our value ladder.
+
+
+--- PAGINA 132 ---
+
+SECRET #13
+YOUTUBE TRAFFIC SECRETS
+There is something special about YouTube that I don’t think many people understand. YouTube
+is the only platform where you can create something and post it online where it will actually
+grow exponentially over time.
+When you post a video on Facebook Live, it will show up in the newsfeed of your dream
+customers for a few days, and then it’s gone forever. You can extend the life of that video by
+paying for ads to boost it, but eventually it will fall to the bottom of your feed, never to be seen
+again. And although Facebook Live is like a good talk show for current events, the art you
+create has a limited life span. The same is true with Instagram, where eventually your pictures
+will fall to the bottom of your feed and your Stories will expire. Some platforms have more
+longevity and last longer, but they all perform progressively worse over time.
+Every platform, that is, except for YouTube. As soon as artists create videos and post them
+on YouTube, their viewership can start to grow and continue to grow forever. I have videos
+that I published five years ago that still get hundreds of views a day. Other videos that we
+published more recently received an initial viewer surge (we can often get thousands of views
+per day simply because it’s a new video), but the numbers of new views continue to rise day
+after day. YouTube’s algorithms are built to keep people on YouTube, so they try to
+recommend videos that are most likely to keep their viewers engaged as long as possible.
+This gives us creators a reason to spend more time producing amazing videos that will serve
+us and our audiences for the rest of our lives and beyond. And when you understand a few key
+things about how YouTube’s algorithms work, it will help you set up your videos for long-term
+success.
+Six years ago, I got a call from a guy named Joe Marfoglio, who asked me if he could become
+an affiliate for a new product I had just launched. It was a course we had created helping
+people to overcome pornography addiction. Excited to get someone else besides myself
+driving traffic to our new product, I said yes. He told me that he was going to create a few
+videos and post them on YouTube, driving traffic through his affiliate link to our product.
+I gave him permission and didn’t think much more about it at the time. Within a few months,
+Joe was driving more sales by himself than all my marketing efforts combined. Confused, I
+asked him what he was doing, and he told me that he had just posted two videos on YouTube
+and that was it. I asked him if I could see the videos and he sent me the links.
+One was a short, 2-minute-and-47-second video he had created, and the other was the sales
+video that I had created to sell the product. Both these videos were getting thousands of views
+a day. As I was writing this chapter, I went back to find these two videos and was shocked to
+see that the first video had received 1.2 million views and the longer video had over 815,000
+views!
+
+
+--- PAGINA 133 ---
+
+Figure 13.1: In six years, this video has received over 815,000 views, and because it’s on YouTube,
+it gets more views every day.
+Despite the fact that we stopped selling that product a few years ago, these videos continue
+to drive traffic every day. I had Joe pull the stats, and that month alone, more than six years
+after he posted them, the videos had 10,361 views and were able to generate 553 clicks back
+to our funnel. That is the power of creating videos with YouTube.
+STEP #1: UNDERSTAND THE HISTORY AND THE GOAL
+Did you know that YouTube is the world’s second largest search engine (behind Google), and
+it’s also the second most trafficked website (also behind Google)?41 Oh, yeah, and in case you
+didn’t know, it’s also owned by Google. It was created in 2005 by three PayPal employees
+(Chad Hurley, Steve Chen, and Jawed Karim) above a pizzeria in San Mateo, California.42 In
+less than two years after YouTube started, Google purchased it for $1.65 billion.
+Right now, over 1.9 billion people log into YouTube every month, over 400 hours of video are
+uploaded to YouTube every minute, and over one billion hours of videos are watched on
+YouTube every day.
+YouTube is interesting because it functions similar to a social platform. You create content,
+try to get people to engage with that content and build up subscribers just like other social
+networks.
+YouTube also functions as a search engine, which is why, unlike social networks, your videos
+continue to grow over time. If you learn how to optimize your videos the way that YouTube
+would like you to, they will reward you by ranking you for your dream keywords inside of
+YouTube, and often they’ll even post those videos inside the search results of Google.
+STEP #2: FIND YOUR DREAM 100 ON THIS PLATFORM
+Six months after we had launched ClickFunnels, we were trying to figure out new ways to get
+more people to create accounts. We hadn’t used YouTube yet as a traffic strategy, so I called
+up Joe Marfoglio (my friend who ranked the videos for our pornography anti-addiction product
+a few years earlier) and asked him if he could help. During our initial call, he got excited and
+had me jump on a videoconference where I could see his computer screen. He opened up
+YouTube, and I watched as he showed me one of the most powerful marketing tactics I had
+ever witnessed.
+First, he typed in the names of some of the people who were on my Dream 100 list—people
+who we had been targeting on Facebook to see if they were also publishing on YouTube. Many
+of them didn’t have YouTube channels, but others had really big channels with hundreds of
+thousands of subscribers. As I looked at each of the videos on their channels, Joe said, “You
+know you can buy ads that will be shown in front of any of those videos, right? As soon as
+anyone goes to watch a video on their channel, the first thing they will see are your ads.”
+At the time I had no idea that was possible, and almost instantly my mind wondered about
+the possibilities. “Wait, I can buy ads on each of their videos and use it to bring people into my
+funnels?”
+“Exactly,” Joe said. “You are leveraging their name, their credibility, and their content to
+drive people into your funnels.”
+He then went to the YouTube search bar and asked me what keywords I thought my dream
+customers would be searching for. I asked him to try the keyword “internet marketing,” and
+within a few seconds I saw dozens of videos that were already ranked for that term. Joe
+explained how we could easily create videos and get them ranked for these dream keywords,
+just like we did for the pornography anti-addiction video. Joe said, “We can put in the work
+once, and these videos will serve you for the rest of your life. Heck, they’ll keep driving traffic
+to your funnels even after you’re dead!”
+Laughing, I asked him, “While we’re waiting for these videos to get ranked at the top, could
+I buy ads on all the other videos now?” He smiled and politely told me yes.
+Within just a few minutes, I started to see why I was going to love YouTube so much. After I
+got off that call, I immediately did exactly what I’m going to tell you to do now. You need to
+build out two Dream 100 lists: one list with the names of the people, brands, and influencers
+that you would like to target, and a second list with the keyword phrases that you would like
+to create videos for. I’ll go into more detail on how we find the right keywords in the
+publishing section later in this chapter.
+
+
+--- PAGINA 134 ---
+
+STEP #3: IDENTIFY THE PUBLISHING STRATEGY AND CREATE YOUR PUBLISHING PLAN
+Just like Google, YouTube has an algorithm that decides which videos to rank to increase their
+users’ experience. To prevent people from ranking videos that ruin the experience for end
+users, the algorithm is constantly being updated and changed. The way to win at YouTube is to
+figure out ways to create and post videos that are in alignment with how they want videos to
+be posted. That’s why it’s so important to closely watch your Dream 100 and see what things
+they’re doing that YouTube is rewarding them for. If they change how they like descriptions,
+tags, or linking, you’ll see the changes in the videos that are getting a lot of views, and then
+you can change your strategy to match theirs. Most of the things that I will be showing you in
+this publishing section are things that I learned from Joe Marfoglio as he’s consulted us at
+ClickFunnels with our YouTube strategy.
+Set Up Your Channel
+Before we start creating any videos, we need to make sure the channel is set up so that when
+potential subscribers come, they’ll turn into actual subscribers.
+Name of your channel: For your channel name, you should focus more on branding than
+keywords. Your channel name will show up everywhere in searches, suggested searches,
+related channel suggestions, and on your videos when you leave comments. You want people
+to be able to see your name and brand and get a sense of what your channel is about. You’ll
+notice that my channel name is Russell Brunson—ClickFunnels. I do this because I want
+people to recognize my name as well as my main brand when they see my channel name come
+up.
+“About Us” page: This page is important for two reasons. First, it lets people know more
+about you when they’re checking you out before they subscribe. Second, the information you
+write here will show up in the search results for your channel and will be a big key to people
+finding and subscribing to your channel.
+Header image: When people come to your channel page, the first thing they’ll see is your
+header. Your header should be simple and speak clearly to your target audience so that they
+know the value they’ll get from your channel. Those who see mine will know quickly what I do
+and how I can help them.
+Figure 13.2: When people see your YouTube channel, you want them to immediately know who
+you are and what you’re about.
+Profile image: Many people mistakenly put their logos here. Instead, use a picture of yourself
+because it will dramatically increase engagement.
+Channel trailer and description: When people first come to your channel page, they’ll see
+an actual trailer for your channel as well as a brief description about your channel. It is only
+shown to new visitors who aren’t subscribers yet, so this video is speaking specifically to
+them.
+Here are Joe’s script guidelines for an engaging channel trailer:
+
+
+--- PAGINA 135 ---
+
+Introduce yourself and welcome your viewer to your channel. You want the viewer to
+feel like you are talking to them and that you understand them.
+Go briefly into your backstory and explain why you have the authority to be creating the
+content you make on YouTube.
+Pitch your value statement. Leave no doubt in your viewer’s mind what this channel is
+about. Talk about the channel, what it is about, and why it matters.
+Share your posting schedule so they know when to expect new content.
+End the video with a really strong CTA. This means you need to tell the viewer what you
+want them to do. Tell them to subscribe to your channel and turn on notifications so they
+don’t miss any of your new videos.
+Make sure this video is no more than 60–120 seconds long. Any longer than that and you
+will lose your potential viewer.
+Figure 13.3: Create a short channel trailer by following this simple script: introduction,
+backstory, value statement, posting schedule, and CTA.
+When shooting this video, don’t get overwhelmed or bogged down with details about the
+camera and the equipment. If you’re just starting out, you don’t need to buy anything fancy. I
+still use my iPhone for the majority of my videos.
+Identify Your Dream Keywords that You Want to Make Videos For
+The first step is to find all the long-tail keywords around your dream keyword that you can
+make videos for. If you have a brand-new channel and try to rank for a keyword like “how to
+make money online,” it’s going to be extremely difficult to outrank some of the bigger
+channels. But Joe has a strategy that has proven successful in the past to get you tons of
+views, traction, and subscribers:
+This is a tactic I learned from my good friend Jeremy Vest. He calls this tactic “finding
+your channel’s focus phrase.” You can think of it like trying to find your channel’s “how to
+shave.” What does that mean? A lot of you have probably seen a video or heard about the
+Dollar Shave Club. They made an incredible video that went viral everywhere on
+Facebook, Twitter, and YouTube with millions upon millions of views, and that launched
+their company into the stratosphere. But did you know another razor company was
+dominating YouTube and raking in millions of views from their hyper-targeted market and
+they did it without any viral or hype videos?
+That company was Gillette. What they found was that the most influential keyword in
+their space was “how to shave.” They centered their channel around that keyword. Now, if
+Gillette just wanted to rank for “how to shave,” they wouldn’t get a ton of traction. It
+
+
+--- PAGINA 136 ---
+
+would have been really hard, right out of the gate, to rank for that keyword. Instead, they
+took “how to shave” as the root keyword. Then, they looked through suggested search
+terms and added words to the back of it. Gillette created hundreds of videos with that root
+keyword, such as, “how to shave your head,” “how to shave your back,” “how to shave
+your beard,” “how to shave your legs,” and so on. Gillette made video after video with the
+root word “how to shave.” These videos have collectively received millions of views across
+their channel.
+The dream keyword “ABC Hack”: Here’s a trick to find hundreds of keywords you can
+choose from. If my root keyword is fairly broad, like “how to make money,” you can type in the
+same words in the YouTube search bar followed by a space and the letter a.
+The suggested search results will show you: “How to make money . . .”
+As a beginner
+As a kid
+At home
+At school
+Then you can replace the a with b, and the suggested search results will show you: “How to
+make money . . .”
+Blogging
+By investing
+By posting ads
+Then move on to c and d and so on. You will want to get at least 50 of these “how to make
+money” keywords to use as keyword titles in your videos.
+Create Your First Video
+Now that you’ve done all the research, set up your channel, and made a list of keywords to
+target, now it’s time to start creating videos. As I’m creating videos, there are two types of
+video that I focus on.
+The first are called “discoverable videos.” These are videos based on keyword phrases that I
+publish as hooks to rank for these keywords with a goal of grabbing people’s attention, pulling
+them into my channel, and turning them into subscribers. How you structure these videos is
+very important because if one of them takes off and gets 100K views, you want to be able to
+make sure that you are able to create subscribers and leads from all of these viewers.
+Here is the script that Joe created that I use for every discoverable video we create:
+Figure 13.4: To create a discoverable video, simply follow this five-step script outline: hook,
+
+
+--- PAGINA 137 ---
+
+trailer, intro, story/content, and offer.
+Hook: Create a 15-second concise introduction. This is where you’re going to hook
+people using the same keywords that they’re searching for. You’ll tell them the value of
+your video and present a hook for them to look forward to so they continue watching.
+Trailer: Place your quick branded intro or “trailer,” which should be no more than four to
+five seconds maximum. Do not put a 30- or 60-second branded intro here. You’ll lose the
+majority of your viewers right there.
+Intro: Talk to your viewer about who you are and why they should listen to you for the
+next 15–30 seconds. Share a little bit about your story so that you make a connection
+with that new visitor. Don’t assume that they know who you are.
+Story/Content: Share content and story for the next 7 to 12 minutes. Here is where you
+deliver the value from the hook you mentioned earlier.
+Offer: Add your CTA. As a discoverable video, the offer will normally be to get people to
+like, comment, subscribe, or turn on the notifications.
+Use this show formula as an outline to write out your video script. Once you have an outline
+and a tight script, take out your cell phone or camera, look right into the lens, and film
+yourself recording that video. The goal of these videos is to hook people who are searching
+and direct them back to your “home” to become subscribers. Typically, I’m not selling on these
+videos, outside of selling the subscription to my channel.
+The second type of video I create is called “video webinars,” which are usually less keyword
+focused, as they are created to build a stronger relationship with my current subscribers.
+These videos are the ones that I’m posting for my existing followers, at my home. These are
+the videos that I use to sell things. I’ll still try to find keywords to rank them for, but
+oftentimes I am trying to create or teach something that may not fit inside of a certain
+keyword phrase. I use the Perfect Webinar script, or the Perfect Webinar Hack, or the Perfect
+Five-Minute Webinar (all from Expert Secrets, and you can print the scripts at TrafficSecrets.c
+om/resources) with a goal of moving them from traffic that I’ve earned into traffic that I own.
+Figure 13.5: To create a video webinar, you can still follow the five-step script from earlier, but
+instead of asking your subscribers to like, comment, or subscribe, you’ll encourage them to get a
+lead magnet.
+Upload Your Video and Set It Live
+After I’ve created the video, there are six things that we currently do for each video we upload
+to make sure we’re aligned with YouTube’s algorithm.
+Look at YouTube as a TV show: YouTube very much sees itself like a TV station. Unlike
+Facebook Live where you can go live anytime you want, YouTube wants you to create a show,
+schedule it, and publish it on a consistent schedule. For example, you may publish your videos
+every Thursday at 7:00 P.M. EST, or every Tuesday and Thursday at 7:00 A.M. EST. Create a
+schedule for yourself that you know you can keep up with, and be consistent as you stick to
+that publishing schedule.
+Find the keyword for your new video: Make sure you have identified the keyword phrases
+you want to use for your new video. Earlier we walked you through how to find these phrases,
+and now we’re ready to use them.
+Write your video title: Your title should have two elements: it must contain your keyword
+phrase, and it also needs a strong hook that works in tandem with your thumbnail to “sell the
+click.” For example, if I were trying to create a video that would rank for “potato gun,” some
+
+
+--- PAGINA 138 ---
+
+possible titles might be:
+“Potato Gun—The 17 steps to build your gun in under an hour”
+or
+“How to build your Potato Gun with stuff you can find at Home Depot for under $30”
+Create your thumbnail “hook”: This is the visual hook that will grab people when they’re
+watching someone else’s video to convince them to watch your video next. Make sure it looks
+good when it’s shrunken down tiny. The best practices that usually get the most clicks are
+using large faces/images, bright colors, and as few words as possible. It needs to pop off the
+page. Look at your Dream 100’s video thumbnails to get an idea of how they’re grabbing
+attention with their thumbnails.
+Figure 13.6: When creating thumbnails, be sure to have clear hooks with an image of your face to
+get more clicks.
+Write your description: Ideally, these will be between 150–300 words. The first two
+sentences should contain your keyword and CTA because this portion is “above the fold,” i.e.,
+the portion that everyone sees before they scroll down. You will also want to add your
+subscribe link and a link to your front-end funnels, as well as links to other related videos and
+playlists you have on YouTube. To optimize your search results, I recommend adding up to
+three hashtags.
+Add tags: While still helpful for search ranking, tags mean less than they used to. Keep your
+tags highly relevant to your main keyword: the more closely related to the topic, the better. If
+you branch out, you’ll only confuse the algorithm.
+Figure 13.7: Just as important as the video itself is the content about the video, such as the
+keywords, title, description, and tags.
+Those are the core things that we’re looking at when posting each video. Again, these specific
+things may change, so that’s why it’s so essential to closely watch your Dream 100 to see what
+things are being rewarded in YouTube and then make changes as needed.
+After your video is posted, you want to get people watching it as soon as possible. I’ll usually
+encourage the traffic that I own, such as my email lists, fans, and followers, to watch the new
+
+
+--- PAGINA 139 ---
+
+video. Because these are your best fans, they’ll likely watch more of the video, like more,
+comment more, and share more—all those things that will show the algorithm that your video
+is good. After your initial surge of traffic to the video, YouTube will start posting it in the side
+bar of videos that are related, and they will often rank it for the keywords that you are
+targeting.
+YouTube’s algorithm will then watch and see how your video performs. The better it does,
+the more they’ll reward it. Here are the three things we’ve noticed that have the biggest
+impact on your video’s success:
+Click-Through Rate (CTR): How many people who see your thumbnail actually click
+on it? The benchmarks we want for CTR are:
+4 percent—Acceptable
+6 percent—Good
+9 percent—We should throw a party!
+Initial retention: The first minute of retention is very important. You need to hook
+people fast and keep them watching. Watch the videos from your Dream 100 to get ideas
+on how they hook people past the first minute. Try to keep minute one retention above 70
+percent.
+Overall retention: As for your overall video retention, how long is the actual video
+being watched? We look at how many people make it to the end of the video. The
+benchmarks for video retention are:
+35 percent—Acceptable
+40 percent—Good
+50 percent—Party time! (You’ll get a lot more reach if your account averages this or
+better)
+The “Binge-Watching”YouTube Hack
+One of the best things you can do for your channel is to get people to binge-watch your videos.
+When YouTube sees people going from one video in your channel to another, and another, not
+only will it boost your views on those videos, it will lift the entire channel.
+One secret is instead of putting up a longer, 30- or 60-plus minute video, create a YouTube
+playlist and break up your long videos into smaller 5–10 minute videos that are part of a series
+inside of that playlist. Then when someone watches the first video on the playlist, it
+automatically directs them to video two in the series, and when that video ends, it directs
+them into video three, and so on. This gets people watching a half dozen or more videos on
+your channel in a row and boosts all your rankings across your channel!
+It’s very simple to set up a playlist in YouTube, add your videos, and promote the new
+“series” to the traffic you own. Think of the ripple effect that promoting a new playlist to
+binge-watch will create.
+It’s a huge value add to your own list and will build a better relationship with your
+viewers.
+It gets your hottest subscribers watching your newest videos, which should give you
+higher initial and overall retention than a cold viewer who finds you on YouTube.
+You’re likely to get more likes and comments from these viewers, especially if you ask
+them to engage in these ways in the emails and messages you send to them promoting
+this new series.
+Most of them will move through each video in the playlist because they’re excited to see
+your new series, which will make these videos rank higher, which will also boost your
+entire channel.
+This becomes such a big win-win-win for you, your viewers, and YouTube that we try to build
+launching a new playlist that viewers can binge-watch into our publishing plan at least once
+per month.
+Your Publishing Plan
+In this chapter, you’ve seen how you can create videos on YouTube that will rank for your
+
+
+--- PAGINA 140 ---
+
+dream keywords on both Google and YouTube. Each week you should be launching new
+discoverable videos to target your dream keywords, and each month launching a playlist
+where you can teach your subscribers, boost your rankings, and give them something
+awesome to watch. I’m including a YouTube publishing plan so you can see how to weave it
+into your daily and weekly processes.
+Figure 13.8: Use this publishing plan to see, at a glance, where you should focus your efforts on
+YouTube.
+STEP #4: WORK YOUR WAY IN
+The core way we work our way in to YouTube is by following the publishing plan we just laid
+out. Every day, we’re picking new keywords we want to rank for, and then we go and create
+videos to target these keywords. If you are consistent in publishing these videos, you will
+continue to show up in the search results for more keyword phrases, more people will
+subscribe to your channel, and your videos will keep growing.
+Similar to Instagram, you can also do collabs with other channels where you can make a
+video with another influencer and have them post it to their channel with links pointing back
+to you. Sometimes we will do a swap with collabs where I will post a video on my channel
+linking to them, and then they will post one linking back to us, but it doesn’t always have to be
+a one-for-one swap. Often, I’ll have someone post a video for me on their channel in exchange
+for featuring them on my podcast. That way they get exposure on my primary show, and I get
+exposure on theirs. There are lots of ways to make collabs work; you just need to be creative
+and figure out how to make it a win-win for both of you.
+STEP #5: BUY YOUR WAY IN
+One of my favorite YouTube shortcuts is to find videos that are getting a lot of views, but
+where the creators of the videos don’t really understand how to make money from their views.
+For example, a few years ago I purchased a website called Vygone.com. I went on YouTube
+and found that there was a customer who had bought the product and had made a video using
+it. At the time, the video was getting hundreds of views per day, yet there were no links or a
+description or anything.
+I called her up and asked her if I could pay her to put a link in the description back to my
+new website. She agreed, and almost five years later, this video still sends me hundreds of
+clicks each month.
+

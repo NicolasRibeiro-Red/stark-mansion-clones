@@ -1,0 +1,98 @@
+# Streaming Transformations and Processing
+
+Paginas: 351-353
+
+A closely related concept is the notion of query pushdown. Suppose I wanted to
+query data from Snowflake, join data from a MySQL database, and filter the results.
+Query pushdown aims to move as much work as possible to the source databases.
+The engine might look for ways to push filtering predicates into the queries on the
+source systems. This serves two purposes: first, it offloads computation from the
+virtualization layer, taking advantage of the query performance of the source. Second,
+it potentially reduces the quantity of data that must push across the network, a critical
+bottleneck for virtualization performance.
+Data virtualization is a good solution for organizations with data stored across vari‐
+ous data sources. However, data virtualization should not be used haphazardly. For
+example, virtualizing a production MySQL database doesn’t solve the core problem of
+analytics queries adversely impacting the production system—because Trino does not
+store data internally, it will pull from MySQL every time it runs a query.
+Alternatively, data virtualization can be used as a component of data ingestion and
+processing pipelines. For instance, Trino might be used to select from MySQL once
+a day at midnight when the load on the production system is low. Results could be
+saved into S3 for consumption by downstream transformations and daily queries,
+protecting MySQL from direct analytics queries.
+Data virtualization can be viewed as a tool that expands the data lake to many
+more sources by abstracting away barriers used to silo data between organizational
+units. An organization can store frequently accessed, transformed data in S3 and
+virtualize access between various parts of the company. This fits closely with the
+notion of a data mesh (discussed in Chapter 3), wherein small teams are responsible
+for preparing their data for analytics and sharing it with the rest of the company;
+virtualization can serve as a critical access layer for practical sharing.
+Streaming Transformations and Processing
+We’ve already discussed stream processing in the context of queries. The difference
+between streaming transformations and streaming queries is subtle and warrants
+more explanation.
+Basics
+Streaming queries run dynamically to present a current view of data, as dis‐
+cussed previously. Streaming transformations aim to prepare data for downstream
+consumption.
+For instance, a data engineering team may have an incoming stream carrying events
+from an IoT source. These IoT events carry a device ID and event data. We wish to
+dynamically enrich these events with other device metadata, which is stored in a sep‐
+arate database. The stream-processing engine queries a separate database containing
+326
+|
+Chapter 8: Queries, Modeling, and Transformation
+
+19 For a detailed application of the concept of a streaming DAG, see “Why We Moved from Apache Kafka to
+Apache Pulsar” by Simba Khadder, StreamNative blog, April 21, 2020, https://oreil.ly/Rxfko.
+this metadata by device ID, generates new events with the added data, and passes it
+on to another stream. Live queries and triggered metrics run on this enriched stream
+(see Figure 8-20).
+Figure 8-20. An incoming stream is carried by a streaming event platform and passed
+into a stream processor
+Transformations and queries are a continuum
+The line between transformations and queries is also blurry in batch processing, but
+the differences become even more subtle in the domain of streaming. For example, if
+we dynamically compute roll-up statistics on windows, and then send the output to a
+target stream, is this a transformation or a query?
+Maybe we will eventually adopt new terminology for stream processing that better
+represents real-world use cases. For now, we will do our best with the terminology we
+have.
+Streaming DAGs
+One interesting notion closely related to stream enrichment and joins is the streaming
+DAG.19 We first talked about this idea in our discussion of orchestration in Chapter 2.
+Orchestration is inherently a batch concept, but what if we wanted to enrich, merge,
+and split multiple streams in real time?
+Let’s take a simple example where streaming DAG would be useful. Suppose that we
+want to combine website clickstream data with IoT data. This will allow us to get a
+unified view of user activity by combining IoT events with clicks. Furthermore, each
+data stream needs to be preprocessed into a standard format (see Figure 8-21).
+Transformations
+|
+327
+
+Figure 8-21. A simple streaming DAG
+This has long been possible by combining a streaming store (e.g., Kafka) with a
+stream processor (e.g., Flink). Creating the DAG amounted to building a complex
+Rube Goldberg machine, with numerous topics and processing jobs connected.
+Pulsar dramatically simplifies this process by treating DAGs as a core streaming
+abstraction. Rather than managing flows across several systems, engineers can define
+their streaming DAGs as code inside a single system.
+Micro-batch versus true streaming
+A long-running battle has been ongoing between micro-batch and true streaming
+approaches. Fundamentally, it’s important to understand your use case, the perfor‐
+mance requirements, and the performance capabilities of the framework in question.
+Micro-batching is a way to take a batch-oriented framework and apply it in a stream‐
+ing situation. A micro-batch might run anywhere from every two minutes to every
+second. Some micro-batch frameworks (e.g., Apache Spark Streaming) are designed
+for this use case and will perform well with appropriately allocated resources at a
+high batch frequency. (In truth, DBAs and engineers have long used micro-batching
+with more traditional databases; this often led to horrific performance and resource
+consumption.)
+True streaming systems (e.g., Beam and Flink) are designed to process one event at a
+time. However, this comes with significant overhead. Also, it’s important to note that
+even in these true streaming systems, many processes will still occur in batches. A
+328
+|
+Chapter 8: Queries, Modeling, and Transformation
+

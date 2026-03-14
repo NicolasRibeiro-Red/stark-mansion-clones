@@ -1,0 +1,44 @@
+# Conclusion
+
+Paginas: 293-293
+
+Orchestration
+Ingestion generally sits at the beginning of a large and complex data graph; since
+ingestion is the first stage of the data engineering lifecycle, ingested data will flow into
+many more data processing steps, and data from many sources will commingle in
+complex ways. As we’ve emphasized throughout this book, orchestration is a crucial
+process for coordinating these steps.
+Organizations in an early stage of data maturity may choose to deploy ingestion
+processes as simple scheduled cron jobs. However, it is crucial to recognize that this
+approach is brittle and can slow the velocity of data engineering deployment and
+development.
+As data pipeline complexity grows, true orchestration is necessary. By true orches‐
+tration, we mean a system capable of scheduling complete task graphs rather than
+individual tasks. An orchestration can start each ingestion task at the appropriate
+scheduled time. Downstream processing and transform steps begin as ingestion tasks
+are completed. Further downstream, processing steps lead to additional processing
+steps.
+Software Engineering
+The ingestion stage of the data engineering lifecycle is engineering intensive. This
+stage sits at the edge of the data engineering domain and often interfaces with
+external systems, where software and data engineers have to build a variety of custom
+plumbing.
+Behind the scenes, ingestion is incredibly complicated, often with teams operating
+open source frameworks like Kafka or Pulsar, or some of the biggest tech companies
+running their own forked or homegrown ingestion solutions. As discussed in this
+chapter, managed data connectors have simplified the ingestion process, such as
+Fivetran, Matillion, and Airbyte. Data engineers should take advantage of the best
+available tools—primarily, managed tools and services that do a lot of the heavy
+lifting for you—and develop high software development competency in areas where
+it matters. It pays to use proper version control and code review processes and
+implement appropriate tests even for any ingestion-related code.
+When writing software, your code needs to be decoupled. Avoid writing monolithic
+systems with tight dependencies on the source or destination systems.
+Conclusion
+In your work as a data engineer, ingestion will likely consume a significant part of
+your energy and effort. At the heart, ingestion is plumbing, connecting pipes to other
+pipes, ensuring that data flows consistently and securely to its destination. At times,
+268
+|
+Chapter 7: Ingestion
+

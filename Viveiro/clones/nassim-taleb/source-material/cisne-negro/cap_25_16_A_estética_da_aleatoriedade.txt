@@ -1,0 +1,748 @@
+# 16. A estética da aleatoriedade
+
+Paginas: 285-306
+
+16. A estética da aleatoriedade
+A biblioteca de Mandelbrot — Galileu era cego? — Pérolas aos porcos —
+Autoaﬁnidade — Como o mundo pode ser complicado de uma maneira simples, ou,
+talvez, simples de uma maneira muito complicada
+O POETA DA ALEATORIEDADE
+Era uma tarde melancólica quando cheirei os livros antigos na biblioteca de
+Benoît Mandelbrot. Foi em um dia quente de agosto de 2005, e o calor
+exacerbava o odor de mofo da cola de velhas edições francesas, provocando uma
+poderosa nostalgia olfativa. Geralmente consigo sufocar essas digressões
+nostálgicas, mas não quando elas se aproximam de mim furtivamente, feito uma
+música ou um cheiro. Os livros de Mandelbrot recendiam a literatura francesa,
+exalavam o aroma da biblioteca dos meus pais, das horas que, ainda adolescente,
+passei em livrarias e bibliotecas, quando muitos livros ao meu redor eram
+(infelizmente) em francês, quando eu pensava que a literatura estava acima de
+tudo e de todos. (Não tive muito contato com livros franceses desde a
+adolescência.) Por mais que eu quisesse que a literatura fosse abstrata, ela tinha
+uma personiﬁcação física, tinha um cheiro, e o cheiro era aquele.
+A tarde também era sombria porque Mandelbrot estava de mudança, justo
+quando eu tinha adquirido o direito de ligar para ele em horários amalucados
+toda vez que quisesse fazer uma pergunta, por exemplo: como é que as pessoas
+não percebem que 80/20 poderia ser 50/01? Mandelbrot tinha decidido mudar
+para a área de Boston, não para se aposentar, mas para trabalhar em um centro de
+pesquisa ﬁnanciado por um laboratório nacional. Visto que agora ia morar em um
+apartamento em Cambridge, deixando sua imensa casa nos subúrbios do condado
+de Westchester, estado de Nova York, ele me convidou para ir até lá e escolher os
+livros que eu quisesse.
+
+Até mesmo os títulos na biblioteca de Mandelbrot tinham um toque
+nostálgico. Enchi uma caixa com títulos franceses, incluindo um exemplar de
+1949 de Matière et mémoire, de Henri Bergson,1 que aparentemente ele comprara
+em seus tempos de estudante (o cheiro!).
+Depois de ter mencionado o nome de Mandelbrot a torto e a direito ao longo
+deste livro, por ﬁm vou apresentá-lo, sobretudo como a primeira pessoa com um
+título acadêmico com quem falei sobre aleatoriedade sem me sentir enganado.
+Outros matemáticos da probabilidade arremessavam na minha direção teoremas
+com nomes russos como “Sobolev”, “Kolmogorov”, medida de Wiener, sem os
+quais ﬁcavam perdidos; tinham diﬁculdade em chegar ao cerne da questão ou sair
+de sua caixinha por tempo suﬁciente para ponderar sobre as falhas empíricas
+dela. Com Mandelbrot era diferente: era como se nós dois tivéssemos nascido no
+mesmo país, encontrando-nos após anos de frustrante exílio, e agora, por ﬁm,
+pudéssemos falar em nossa língua nativa sem esforço algum. Ele foi o único
+professor de carne e osso que já tive — meus professores costumam ser os livros
+da minha biblioteca. Eu respeitava muito pouco os matemáticos que lidavam com
+incerteza e estatísticas para considerar qualquer um deles como meu professor —
+em minha mente, matemáticos, treinados para certezas, não tinham o direito de
+lidar com aleatoriedade. Mandelbrot provou que eu estava errado.
+Ele falava um francês excepcionalmente preciso e formal, muito parecido com
+aquele falado por levantinos da geração dos meus pais ou por aristocratas do
+Velho Mundo. Por causa disso era estranho ouvir, vez por outra, seu inglês norte-
+americano coloquial, com sotaque acentuado, mas muito normal. Mandelbrot era
+alto, um pouco acima do peso, o que lhe conferia uma cara de bebê (embora eu
+nunca o tivesse visto comer uma refeição abundante), e tinha uma presença física
+marcante.
+Olhando do lado de fora, qualquer um pensaria que o que Mandelbrot e eu
+tínhamos em comum era a incerteza desenfreada, Cisnes Negros e as enfadonhas
+(por vezes menos enfadonhas) noções estatísticas. Contudo, embora fôssemos
+colaboradores, não era em torno disso que giravam nossas principais conversas.
+Trocávamos ideias principalmente sobre temas literários e estéticos, ou fofocas
+históricas sobre pessoas de extraordinário reﬁnamento intelectual. Quero dizer
+reﬁnamento, não realização. Mandelbrot conhecia histórias sobre a fenomenal
+gama de ﬁgurões com os quais havia trabalhado durante o século passado, mas eu
+de alguma forma sou programado para considerar as personae de cientistas muito
+menos interessantes que as de eruditos pitorescos. Como eu, Mandelbrot se
+interessava por indivíduos cosmopolitas e reﬁnados cuja combinação de traços
+
+ninguém pensaria ser possível. Uma pessoa que ele mencionava com frequência
+era o barão Pierre Jean de Menasce, que conheceu na década de 1950 em
+Princeton, onde De Menasce foi colega de quarto do físico Oppenheimer. De
+Menasce era exatamente o tipo de pessoa por quem tenho interesse, a
+personiﬁcação de um Cisne Negro. Nascido em uma opulenta família de
+comerciantes judeus de Alexandria, falantes de francês e italiano, como todos os
+levantinos soﬁsticados. Seus antepassados haviam adotado uma graﬁa veneziana
+para o nome árabe, acrescentando um título de nobreza húngaro ao longo do
+caminho, e socializavam com a realeza. De Menasce não apenas se converteu ao
+cristianismo, mas também se tornou padre dominicano e um grande estudioso
+acadêmico das línguas semíticas e persas. Mandelbrot vivia me perguntando
+sobre Alexandria, já que estava sempre à procura desse tipo de personagem.
+É verdade que personagens soﬁsticados em termos intelectuais eram
+exatamente o que eu procurava na vida. Meu pai erudito e polímata — apenas
+duas semanas mais velho que Benoît M. — gostava da companhia de padres
+jesuítas extremamente cultos. Eu me lembro dos visitantes jesuítas ocupando
+minha cadeira à mesa de jantar. Lembro que um deles tinha um diploma de
+medicina e um doutorado em física, mas ensinava aramaico aos habitantes do
+Instituto de Línguas Orientais de Beirute. Sua missão anterior poderia ter sido
+lecionar física no Ensino Médio, e a anterior talvez tivesse sido na faculdade de
+medicina. Esse tipo de erudição impressionava meu pai muito mais do que o
+trabalho cientíﬁco ao estilo linha de montagem. Pode ser que eu tenha em meus
+genes algo que me faz querer distância dos bildungsphilisters.
+Embora muitas vezes expressasse perplexidade diante do temperamento de
+eruditos bem-sucedidos e de cientistas extraordinários, mas não tão famosos —
+caso de seu velho amigo Carleton Gajdusek, homem que o impressionava com
+sua habilidade para descobrir as causas de doenças tropicais —, Mandelbrot não
+parecia nem um pouco ávido para alardear a própria associação com aqueles que
+consideramos grandes cientistas. Levei um bocado de tempo para descobrir que
+ele havia trabalhado com uma lista impressionante de cientistas em
+aparentemente todos os campos do conhecimento, algo que uma pessoa afeita a
+desﬁar um rosário de nomes e citações de celebridades para impressionar o
+interlocutor mencionaria de forma contínua. Embora já trabalhasse com
+Mandelbrot havia alguns anos, foi somente em uma conversa com sua esposa que
+descobri que ele passara dois anos como colaborador matemático do psicólogo
+Jean Piaget. Tive outro choque quando descobri que ele também havia trabalhado
+com o grande historiador Fernand Braudel, mas Mandelbrot não parecia
+
+interessado em Braudel. Não mostrava a menor vontade de debater John von
+Neuman, colega seu de pós-doutorado. Suas escalas eram invertidas. Certa vez
+lhe perguntei sobre Charles Tresser, físico nem um pouco célebre que conheci
+em uma festa; autor de artigos sobre a teoria do caos, Tresser complementava sua
+renda de pesquisador fazendo doces e tortas em sua confeitaria nos arredores da
+cidade de Nova York. Mandelbrot foi enfático: deﬁniu Tresser como “un homme
+extraordinaire” e não conseguiu parar de elogiá-lo. Mas quando lhe perguntei
+sobre um famoso ﬁgurão, ele respondeu: “Ele é o prototípico bon élève, um aluno
+com boas notas, sem profundidade e sem visão”. Esse ﬁgurão ganhou um Nobel.
+A PLATONICIDADE DOS TRIÂNGULOS
+Ora, por que estou chamando esse negócio de aleatoriedade mandelbrotiana,
+ou fractal? Cada uma das peças individuais do quebra-cabeça já tinha sido
+mencionada anteriormente por outra pessoa, a exemplo de Pareto, Yule e Zipf,
+mas foi Mandelbrot quem a) conectou os pontos, b) estabeleceu uma associação
+entre a aleatoriedade e a geometria (uma variedade especial de geometria, por
+sinal), e c) levou a questão à sua conclusão natural. De fato, muitos matemáticos
+são famosos hoje, em parte, porque Mandelbrot desenterrou as obras deles para
+dar respaldo às próprias aﬁrmações — a estratégia que estou seguindo aqui neste
+livro. “Precisei inventar meus antecessores para que as pessoas me levassem a
+sério”, disse-me ele certa vez, e usou a credibilidade de grandes ﬁgurões como um
+artifício retórico. Quase sempre é possível desencavar predecessores para
+corroborar qualquer pensamento. Sempre se pode encontrar alguém que tenha
+trabalhado com base em um argumento seu e então usar a contribuição dele
+como apoio para suas próprias teses. A associação cientíﬁca com uma grande
+ideia, a “grife”, vai para aquele que conecta os pontos, não para aquele que faz
+uma observação eventual e desimportante — até mesmo Charles Darwin, que
+cientistas incultos aﬁrmam que “inventou” a sobrevivência do mais apto, não foi o
+primeiro a mencioná-la. Darwin escreveu na introdução de A origem das espécies
+que os fatos que ele apresentava não eram necessariamente originais; eram as
+consequências que ele julgava serem “interessantes” (palavra que ele usou, com a
+característica modéstia vitoriana). Ao ﬁm e ao cabo, quem vence são aqueles que
+inferem consequências e captam a importância das ideias, vendo seu valor real.
+São eles que têm condições de falar sobre o tema.
+Então, permita-me descrever a geometria mandelbrotiana.
+A geometria da natureza
+
+Triângulos, quadrados, círculos e outros conceitos geométricos que ﬁzeram
+muitos de nós bocejar na sala de aula podem ser noções belas e puras, mas
+parecem estar mais presentes em edifícios de arte moderna ou na mente de
+arquitetos, designers, e professores do Ensino Fundamental do que na natureza
+propriamente dita. Tudo bem, exceto pelo fato de que a maioria de nós não tem
+consciência disso. Montanhas não são triângulos nem pirâmides; árvores não são
+círculos; quase nunca vemos linhas retas em lugar nenhum. A Mãe Natureza não
+frequentou cursos de geometria no Ensino Médio, tampouco leu os livros de
+Euclides de Alexandria. A geometria da natureza é irregular, mas tem uma lógica
+própria e fácil de entender.
+Já aﬁrmei que, ao que parece, temos uma inclinação natural a platoniﬁcar e a
+pensar exclusivamente em termos de material estudado: ninguém, seja um
+pedreiro ou um ﬁlósofo natural, consegue escapar com facilidade da escravidão
+desse condicionamento. Tenha em mente que o imenso Galileu, de modo geral
+um desmascarador de falsidades, escreveu o seguinte:
+O grande livro da Natureza se acha continuamente aberto diante de nossos olhos, e nele está escrita a
+verdadeira ﬁlosoﬁa […]. Mas não se pode lê-lo sem antes compreender a língua e os caracteres nos quais
+ele está escrito […]. Ele vem escrito em linguagem matemática, e os caracteres são triângulos, círculos e
+outras ﬁguras geométricas.
+Galileu era oﬁcialmente cego? Nem mesmo o formidável Galileu, com toda a
+sua suposta independência de espírito, foi capaz de olhar com lucidez para a Mãe
+Natureza. Tenho plena certeza de que havia janelas em sua casa e de que ele por
+vezes se aventurava em incursões para fora das quatro paredes: deveria saber que
+não é fácil encontrar triângulos na natureza. Sofremos lavagem cerebral com
+muita facilidade.
+Somos cegos ou analfabetos, ou as duas coisas. Que a geometria da natureza
+não era a de Euclides era algo tão óbvio, e ninguém, quase ninguém, viu isso.
+Essa cegueira (física) é idêntica à falácia lúdica que nos leva a pensar que os
+cassinos representam aleatoriedade.
+Fractalidade
+Primeiro, uma descrição dos fractais. Em seguida, mostraremos como eles se
+vinculam ao que chamamos de leis de potência, ou leis escaláveis.
+Fractal é uma palavra que Mandelbrot cunhou para descrever a geometria do
+irregular, quebrado, fragmentado — do latim fractus, origem de termos como
+“fração” e “fratura”. Fractalidade é a repetição de padrões geométricos em
+
+diferentes escalas, revelando versões cada vez menores de si mesmos. Partes
+pequenas se assemelham, em algum grau, ao todo. Tentarei mostrar neste capítulo
+como o fractal se aplica à variedade de incerteza que deveria levar o nome de
+Mandelbrot: aleatoriedade mandelbrotiana.
+As veias ou nervuras das folhas parecem galhos; os galhos parecem árvores;
+pedras assemelham-se a montanhas em miniatura. Não há mudança qualitativa
+quando um objeto muda de tamanho. Se, de dentro de um avião, você observar a
+costa da Inglaterra, será semelhante ao que você vê quando olha para ela com
+uma lente de aumento. Esse caráter de autoaﬁnidade sugere que uma regra
+enganosamente curta e simples de iteração pode ser usada, por um computador
+ou, de modo mais aleatório, pela Mãe Natureza, para construir formas que
+parecem ter grande complexidade. Isso pode ser útil para computação gráﬁca,
+porém, ainda mais importante, é como a natureza funciona. Mandelbrot
+concebeu o objeto matemático hoje conhecido como conjunto de Mandelbrot, o
+mais famoso objeto da história da matemática, e que se tornou popular entre os
+adeptos da teoria do caos porque gera imagens de complexidade cada vez maior
+utilizando uma regra recursiva ilusoriamente minúscula; recursivo signiﬁca que
+algo pode ser reaplicado a si mesmo inﬁnitamente. Você pode olhar para o
+conjunto em resoluções cada vez menores, sem jamais alcançar o limite;
+continuará a ver formas reconhecíveis. As formas nunca são as mesmas, embora
+apresentem aﬁnidade entre si, uma forte semelhança de família.
+Esses objetos desempenham um papel importante na estética. Pense nas
+seguintes aplicações:
+Artes visuais: a maior parte dos objetos hoje gerados por computador é
+baseada em alguma versão do fractal mandelbrotiano. Também podemos ver
+fractais na arquitetura, em pinturas e em muitas obras de arte visual — é claro,
+sem que sejam incorporados conscientemente pelo artista.
+Música: cantarole lentamente as quatro notas de abertura da Quinta Sinfonia
+de Beethoven: ta-ta-ta-ta… Em seguida, substitua cada nota individual pelas
+mesmas quatro notas da abertura, de modo que você termine com uma medida
+de dezesseis notas. Você verá (ou melhor, ouvirá) que cada onda menor se
+assemelha à onda maior original. Bach e Mahler, por exemplo, escreveram
+submovimentos que lembram os movimentos maiores dos quais fazem parte.
+Poesia: a poesia de Emily Dickinson, por exemplo, é fractal: o grande se parece
+com o pequeno. Ela tem, de acordo com um crítico literário, “uma montagem
+conscientemente elaborada de dicções, métricas, retóricas, gestos e tons”.
+
+De início, os fractais ﬁzeram de Benoît M. um pária no establishment
+matemático. Os matemáticos franceses ﬁcaram horrorizados. O quê? Imagens?
+Mon dieu! Era como mostrar um ﬁlme pornô para uma assembleia de devotas
+vovozinhas da Igreja Ortodoxa Oriental em minha aldeia ancestral de Amioun.
+Então, Mandelbrot passou algum tempo como refugiado intelectual em um
+centro de pesquisas da 4_ no interior do estado de Nova York. Em termos
+ﬁnanceiros, era uma situação do tipo “dinheiro suﬁciente para mandar todo
+mundo à merda”, pois a 4_ o deixava fazer tudo o que ele sentisse vontade de
+fazer.
+Mas as pessoas do público em geral (principalmente as fanáticas por
+computadores) entenderam. O livro de Mandelbrot, The Fractal Geometry of
+Nature [A geometria fractal da natureza], causou sensação quando foi publicado
+em 1982. A obra se disseminou pelos círculos artísticos e levou a estudos em
+estética, projetos arquitetônicos e até mesmo a grandes aplicações industriais.
+Benoît M. chegou a receber uma oferta de emprego como professor de medicina!
+Supostamente, os pulmões são autossemelhantes. Suas palestras eram invadidas
+por todos os tipos de artistas, o que lhe rendeu o apelido de “astro do rock da
+matemática”. A era da computação ajudou Mandelbrot a se tornar um dos
+matemáticos mais inﬂuentes da história, em termos das aplicações de sua obra,
+muito antes de sua aceitação pela torre de marﬁm. Veremos que, além da
+universalidade, a obra mandelbrotiana tem um atributo incomum: é
+extremamente fácil de entender.
+Algumas palavras sobre a biograﬁa de Mandelbrot. Ele deixou Varsóvia rumo à
+França em 1936, aos doze anos de idade. Devido às vicissitudes de uma vida
+clandestina durante a ocupação nazista no território francês, foi em parte
+poupado de uma educação gaulesa, com seus exercícios algébricos pouco
+inspiradores, e se tornou amplamente autodidata. Mais tarde, sofreu forte
+inﬂuência de seu tio Szolem, um destacado integrante do establishment
+matemático francês e detentor de uma cadeira no Collège de France. Mais tarde,
+Benoît M. ﬁxou residência nos Estados Unidos, onde passou a maior parte da
+vida como cientista industrial, ocupando alguns cargos acadêmicos transitórios e
+variados.
+O computador desempenhou dois papéis relevantes na nova ciência que
+Mandelbrot ajudou a conceber. Primeiro, objetos fractais, como vimos, podem
+ser gerados com uma regra simples aplicada a si mesma, o que os torna ideais
+para a atividade automática de um computador (ou da Mãe Natureza). Em
+
+segundo lugar, na geração de intuições visuais há uma dialética entre o
+matemático e os objetos gerados.
+Agora vamos ver como isso nos leva à aleatoriedade. Na verdade, foi com a
+probabilidade que Mandelbrot iniciou sua carreira.
+Uma abordagem visual do Extremistão/Mediocristão
+Estou olhando para o tapete do meu escritório. Se eu examinar a trama com
+um microscópio, verei um terreno muito acidentado e desigual. Se olhar com
+uma lupa, o terreno será mais suave, mas ainda assim bastante irregular. Porém,
+quando me levanto e o inspeciono de uma posição vertical, parece uniforme — é
+quase tão liso quanto uma folha de papel. O tapete visto a olho nu corresponde
+ao Mediocristão e à lei dos grandes números: o que estou vendo é a soma das
+ondulações, e elas se suavizam. É assim com a aleatoriedade gaussiana: a razão
+pela qual minha xícara de café não sai pulando é porque a soma de todas as suas
+partículas móveis se torna suavizada. Da mesma forma, chegamos a certezas pela
+soma de pequenas incertezas gaussianas: essa é a lei dos grandes números.
+A gaussiana não é autossemelhante, e é por isso que minha xícara de café não
+saltita pela superfície da minha escrivaninha.
+Agora, imagine um passeio montanha acima. Não importa a que altitude você
+suba na superfície da Terra, ela permanecerá irregular. Isso continua sendo
+verdade mesmo a 9 mil metros. Quando você estiver sobrevoando os Alpes,
+ainda verá um mar de montanhas irregulares em vez de pequenas pedras.
+Portanto, algumas superfícies não são do Mediocristão, e mudar a resolução não
+as torna muito mais lisas. (Observe que esse efeito só desaparece quando você
+sobe para píncaros mais extremos. Nosso planeta parece liso e regular para um
+observador do espaço, mas isso ocorre porque é muito pequeno. Se fosse um
+planeta maior, teria montanhas que fariam o Himalaia parecer um morrinho e
+exigiria a observação a partir de uma distância maior para que parecesse regular.
+Da mesma forma, se o planeta tivesse uma população maior, mesmo mantendo a
+mesma riqueza média, o mais provável é que encontrássemos alguém cujo
+patrimônio líquido superaria inúmeras vezes o patrimônio de Bill Gates.)
+As ﬁguras 11 e 12 ilustram esse ponto; um observador olhando para a primeira
+fotograﬁa pode pensar que a tampa da lente da câmera caiu no chão.
+Lembre-se de nossa breve discussão sobre a costa da Inglaterra. Se você olhar
+para ela de um avião, os contornos não são tão diferentes dos contornos que você
+vê na praia. A mudança na escala não altera as formas ou o grau de lisura da
+superfície.
+
+FIGURA 15. Aparentemente, uma tampa de lente de câmera caiu no chão.
+Pérolas aos porcos
+O que a geometria fractal tem a ver com a distribuição de riqueza, o tamanho
+das cidades, lucros nos mercados ﬁnanceiros, o número de mortes em uma guerra
+ou o tamanho dos planetas? Vamos conectar os pontos.
+A chave aqui é que o fractal tem medidas numéricas ou estatísticas que são (um
+tanto) preservadas entre as escalas — a proporção é a mesma, ao contrário da
+gaussiana. Outra visão dessa autossemelhança é apresentada na ﬁgura 15. Como
+vimos no capítulo 15, os super-ricos são semelhantes aos ricos, só que mais ricos
+— a riqueza é independente da escala, ou, mais precisamente, dependente de
+uma escala desconhecida.
+Na década de 1960, Mandelbrot apresentou ao establishment econômico suas
+ideias sobre os preços de commodities e títulos ﬁnanceiros, e os economistas
+ﬁnanceiros ﬁcaram todos entusiasmados. Em 1963, o então reitor do Escola de
+Pós-Graduação em Negócios da Universidade de Chicago, George Shultz,
+ofereceu-lhe uma cátedra. O mesmo George Shultz que mais tarde se tornou
+secretário de Estado de Ronald Reagan.
+Certa noite, Shultz ligou para ele para rescindir a oferta.
+
+FIGURA 16. O objeto não é, na verdade, uma tampa de lente de câmera. Essas duas fotos ilustram a
+invariância de escala: o terreno é fractal. Compare com objetos feitos pelo homem, como um carro ou
+uma casa.
+fonte: Professor Stephen W. Wheatcraft, Universidade de Nevada, campus de Reno.
+No momento em que escrevo estas linhas, 44 anos depois, nada aconteceu
+nem na economia nem nas estatísticas de ciências sociais — exceto por alguns
+ajustes cosméticos que tratam o mundo como se estivéssemos sujeitos apenas a
+uma leve aleatoriedade —, e ainda assim as medalhas do Nobel continuaram a ser
+distribuídas. Alguns artigos foram escritos, por pessoas que não entendem o
+argumento central deste livro, para sugerir “evidências” de que Mandelbrot estava
+errado — localizando períodos que não têm eventos raros, sempre é possível
+produzir dados que “corroboram” que o processo subjacente é gaussiano, assim
+como é possível encontrar uma tarde qualquer durante a qual ninguém matou
+ninguém e usar isso como “evidência” de comportamento íntegro. Repito: por
+causa da assimetria com a indução, assim como é mais fácil rejeitar a inocência do
+que aceitá-la, é mais fácil rejeitar uma curva em forma de sino do que aceitá-la;
+inversamente, é mais difícil rejeitar um fractal do que aceitá-lo. Por quê? Porque
+
+um único evento pode destruir o argumento de que estamos diante de uma curva
+em forma de sino gaussiana.
+Em suma, quatro décadas atrás, Mandelbrot deu pérolas a economistas e
+ﬁlisteus construtores de currículos, que as rejeitaram porque as ideias eram boas
+demais para eles. Foi, como diz o ditado, margaritas ante porcos, pérolas aos
+porcos.
+No restante deste capítulo, explicarei como posso endossar fractais
+mandelbrotianos como uma representação de grande parte da aleatoriedade, sem
+necessariamente aceitar seu uso preciso. Os fractais devem ser o padrão, a
+aproximação, o arcabouço. Não resolvem o problema do Cisne Negro e não
+transformam todos os Cisnes Negros em eventos previsíveis, mas mitigam de
+maneira signiﬁcativa o problema do Cisne Negro por tornarem concebíveis os
+eventos de grande envergadura. (Isso os torna cinzentos. Por que cinzentos?
+Porque apenas a gaussiana oferece certezas. Em breve falarei mais sobre isso.)
+A LÓGICA DA ALEATORIEDADE FRACTAL (COM UM ALERTA)2
+Mostrei nas listas de riqueza no capítulo 15 a lógica de uma distribuição
+fractal: se a riqueza dobra de 1 milhão para 2 milhões, a incidência de pessoas
+com essa soma mínima em dinheiro é dividida em quatro, que é um expoente de
+dois. Se o expoente fosse 1, então a incidência dessa riqueza, ou de uma riqueza
+maior, seria dividida em dois. O expoente é chamado de “potência” (é por isso
+que algumas pessoas usam o termo lei de potência). Chamemos de “excedências”
+o número de ocorrências mais alto do que certo nível — uma excedência de 2
+milhões é o número de pessoas com uma riqueza superior a 2 milhões. Uma
+propriedade principal desses fractais (ou outra forma de expressar sua
+propriedade principal, a escalabilidade) é que a proporção de duas excedências3
+será a proporção dos dois números elevados à potência negativa do expoente da
+potência. Permita-me ilustrar isso. Digamos que você “ache” que apenas 96 livros
+por ano venderão mais de 250 mil exemplares, e que você “pense” que o
+expoente é de cerca de 1,5. Você pode extrapolar para estimar que por volta de
+34 livros venderão mais de 500 mil exemplares — simplesmente 96 vezes (500
+000/250 000)–1,5. Podemos continuar e observar que cerca de doze livros
+deverão vender mais de 1 milhão de exemplares, aqui 96 vezes (1 000 000/250
+000)–1,5.
+
+FIGURA 17. A pura montanha estatística fractal. O grau de desigualdade será o mesmo em todas
+as dezesseis subseções do gráco. No mundo gaussiano, as disparidades de riqueza (ou qualquer outra
+quantidade) diminuem quando se olha para o topo do gráco, de modo que os bilionários deveriam ser
+mais iguais uns em relação aos outros do que em relação aos milionários, e os milionários mais iguais entre
+si do que em relação à classe média. Em poucas palavras, essa falta de igualdade em todos os níveis de
+riqueza é autossimilaridade estatística.
+Permita-me mostrar os diferentes expoentes medidos para uma variedade de
+fenômenos.
+Indo direto ao ponto, direi que esses expoentes signiﬁcam muito pouco em
+termos de precisão numérica. Veremos o porquê daqui a um minuto, mas por ora
+
+note que não observamos esses parâmetros; simplesmente os adivinhamos, ou os
+inferimos para informações estatísticas, o que por vezes torna difícil saber os
+parâmetros reais — se é que de fato existem. Primeiro, examinemos as
+consequências práticas de um expoente.
+A tabela 3 ilustra o impacto do altamente improvável. Mostra as contribuições
+do topo de 1% e 20% do total. Quanto mais baixo o expoente, maiores serão
+essas contribuições. Mas veja como o processo é sensível: entre 1,1 e 1,3,
+passamos de 66% do total para 34%. Uma diferença de apenas 0,2 no expoente
+altera drasticamente o resultado — e essa diferença pode ser causada por um
+simples erro de medição. Essa diferença não é trivial: basta levar em conta que
+não temos uma ideia exata de qual é o valor do expoente porque não temos
+condições de medi-lo diretamente. Tudo o que fazemos é tentar estimá-lo a
+partir de dados anteriores ou nos basear em teorias que permitam a construção
+de algum modelo capaz de nos dar alguma noção — mas esses modelos podem ter
+fraquezas ocultas que nos impedem de aplicá-los cegamente à realidade.
+  •     *
+
+ 
+( )
+Frequência de uso de palavras
+1,2
+Número de acesso a sites
+1,4
+Número de livros vendidos nos Estados Unidos
+1,5
+Chamadas telefônicas recebidas
+1,22
+Magnitude de terremotos
+2,8
+Diâmetro das crateras lunares
+2,14
+Intensidade das erupções solares
+0,8
+Intensidade de guerras
+0,8
+Patrimônio líquido dos norte-americanos
+1,1
+Número de pessoas por sobrenome
+1
+População urbana dos Estados Unidos
+1,3
+Movimentos do mercado
+3 (ou menos)
+Tamanho de empresas
+1,5
+Pessoas mortas em ataques terroristas
+2 (mas possivelmente um expoente muito menor)
+* : M. E. J. Newman (2005) e cálculos do próprio autor.
+  •    
+
+
+  %  
+  %  
+1
+99,99%*
+99,99%
+1,1
+66%
+86%
+1,2
+47%
+76%
+1,3
+34%
+69%
+1,4
+27%
+63%
+1,5
+22%
+58%
+2
+10%
+45%
+2,5
+6%
+38%
+3
+4,6%
+34%
+* Claramente, você não observa 100% em uma amostragem nita.
+Portanto, tenha em mente que o expoente 1,5 é uma aproximação, que é difícil
+de ser calculado, que não é uma dádiva que recebemos dos deuses, pelo menos
+não facilmente, e que você terá um monstruoso erro de amostragem. Você
+observará que o número de livros cujas vendas chegam a mais de 1 milhão de
+exemplares nem sempre será doze — pode ser tão alto quanto vinte ou tão baixo
+quanto dois.
+De maneira mais signiﬁcativa, esse expoente começa a ser aplicável em algum
+número chamado “crossover” [cruzamento] e diz respeito a números maiores do
+que esse cruzamento. Pode começar em 200 mil livros, ou talvez apenas em 400
+mil livros. Da mesma forma, a riqueza tem propriedades diferentes antes de,
+digamos, 600 milhões de dólares, quando a desigualdade aumenta, das que se
+apresentam abaixo de tal número. Como se sabe onde ﬁca o ponto de
+cruzamento? Isso é um problema. Meus colegas e eu trabalhamos com cerca de
+20 milhões de partes individuais de dados ﬁnanceiros. Todos nós tínhamos o
+mesmo conjunto de dados, mas nunca concordávamos sobre qual exatamente
+deveria ser o expoente em nossos conjuntos. Sabíamos que os dados revelavam
+uma lei de potência fractal, mas aprendemos que não seria possível produzir um
+número preciso. Contudo, o que de fato sabíamos — que a distribuição é escalável
+e fractal — era suﬁciente para que pudéssemos fazer o trabalho de operações de
+mercado e tomar decisões.
+O problema do limite superior
+Algumas pessoas pesquisaram e aceitaram o fractal “até certo ponto”. Elas
+argumentam que na riqueza, nas vendas de livros e nos lucros do mercado
+
+ﬁnanceiro há certo nível a partir do qual as coisas deixam de ser fractais.
+“Truncamento” é o que elas propõem. Concordo que existe um nível em que a
+fractalidade poderia parar, mas qual é ele? Na prática, dizer há um limite superior,
+mas não sei quão alto ele é traz as mesmas consequências que dizer não existe
+limite. Propor o limite superior é extremamente perigoso. Você pode dizer:
+“Vamos limitar a riqueza a 150 bilhões de dólares em nossas análises”. Em
+seguida, outra pessoa pode dizer: “Por que não 151 bilhões de dólares? Ou por
+que não 152 bilhões?”. Dá no mesmo que considerar que a variável é ilimitada.
+Cuidado com a precisão
+Aprendi alguns truques com os anos de experiência; qualquer expoente que eu
+tente medir provavelmente será superestimado (lembre-se de que um expoente
+mais alto implica um papel menor para os grandes desvios) — é provável que o
+que você vê seja menos parecido com um Cisne Negro do que aquilo que você
+não vê. Chamo isso de problema da falsa aparência.
+Digamos que eu gere um processo que tem um expoente de 1,7. Você não vê o
+que está dentro do motor, apenas os dados que saem como resultado. Se eu lhe
+perguntar qual é o expoente, as chances são de que você compute em torno de
+2,4. Você faria isso mesmo se tivesse 1 milhão de pontos de dados. A razão é o
+fato de ser necessário um bocado de tempo para que alguns processos fractais
+revelem suas propriedades, e você subestima a gravidade do choque.
+Por vezes, um fractal pode fazer você acreditar que é gaussiano, sobretudo
+quando o ponto de corte começa em um número alto. Com distribuições fractais,
+desvios extremos desse tipo são raros o suﬁciente para criar uma cortina de
+fumaça: você não reconhece a distribuição como sendo fractal.
+A poça d’água, revisitada
+Como você viu, temos diﬁculdade em saber os parâmetros de qualquer
+modelo que, presumimos, comanda o mundo. Assim, com o Extremistão, o
+problema da indução vem à baila novamente, dessa vez de forma ainda mais
+signiﬁcativa do que em qualquer ponto anterior deste livro. Em termos simples,
+se um mecanismo é fractal, pode fornecer grandes valores; portanto, a incidência
+de grandes desvios é possível, mas será difícil saber com qualquer precisão até
+que ponto eles são possíveis e com que frequência devem ocorrer. Isso guarda
+semelhanças com o problema da poça d’água: muitos cubos de gelo poderiam ter
+gerado a poça. Como alguém que vai da realidade a possíveis modelos
+
+explicativos, eu me vejo diante de uma série de problemas completamente
+diferentes daqueles com que se deparam os que fazem o oposto.
+Acabei de ler três livros de “divulgação cientíﬁca” que resumem a pesquisa em
+sistemas complexos: Ubiquity: Why Catastrophes Happen [Ubiquidade: Por que
+catástrofes acontecem], de Mark Buchanan, Critical Mass [Massa crítica], de
+Philip Ball e Why Most Things Fail [Por que a maioria das coisas dá errado], de
+Paul Ormerod. Esses três autores apresentam o mundo das ciências sociais como
+sendo repleto de leis de potência, visão com a qual certamente concordo. Eles
+aﬁrmam também que há uma universalidade em muitos desses fenômenos, que
+existe uma incrível semelhança entre vários processos na natureza e o
+comportamento dos grupos sociais, com o que concordo. Eles corroboram seus
+estudos com as várias teorias sobre redes e mostram a maravilhosa
+correspondência entre os assim chamados fenômenos críticos em ciências
+naturais e a auto-organização de grupos sociais. Reúnem processos que geram
+avalanches, contágios sociais e o que eles chamam de cascatas de informação,
+com o que concordo.
+A universalidade é uma das razões pelas quais os físicos consideram as leis de
+potência relacionadas a pontos críticos particularmente interessantes. Existem
+muitas situações, tanto na teoria dos sistemas dinâmicos quanto na mecânica
+estatística, em que muitas das propriedades da dinâmica em torno dos pontos
+críticos são independentes dos detalhes do sistema dinâmico subjacente. O
+expoente no ponto crítico pode ser idêntico para muitos sistemas no mesmo
+grupo, embora muitos outros aspectos do sistema sejam diferentes. Quase
+concordo com essa noção de universalidade. Por ﬁm, os três autores nos
+incentivam a aplicar técnicas de física estatística, evitando a econometria e as
+distribuições não escaláveis de estilo gaussiano como o diabo foge da cruz, e
+concordo em gênero, número e grau.
+Mas todos os três autores, ao produzir ou promover a precisão, caem na
+armadilha de não fazer distinção entre os processos forward e backward (entre o
+problema e o problema inverso) — na minha opinião, o maior dos pecados
+cientíﬁcos e epistemológicos. Eles não estão sozinhos; quase todos os que
+trabalham com dados, mas não tomam decisões com base nesses dados, tendem a
+ser culpados do mesmo pecado, uma variação da falácia narrativa. Na ausência de
+um processo de feedback, você olha para os modelos e pensa que eles conﬁrmam
+a realidade. Acredito nas ideias desses três livros, mas não na forma como estão
+sendo usadas, e certamente não com a precisão que os autores atribuem a elas.
+Verdade seja dita, a teoria da complexidade deveria nos fazer desconﬁar mais de
+
+aﬁrmações cientíﬁcas de modelos precisos da realidade. Ela não torna brancos
+todos os cisnes, isso é previsível; ela os torna cinzentos, e apenas cinzentos.4
+Como já aﬁrmei, o mundo, em termos epistemológicos, é literalmente um
+lugar diferente para um empirista de baixo para cima. Não temos o luxo de nos
+sentar para ler a equação que rege o universo; apenas observamos os dados e
+fazemos uma suposição acerca do que poderia ser o processo real, e “calibramos”
+nossa equação de acordo com informações adicionais. À medida que os eventos
+se apresentam a nós, comparamos o que vemos ao que esperávamos ver. Costuma
+ser uma lição de humildade, especialmente para alguém que esteja ciente da
+falácia narrativa, o processo de descobrir que a história corre para a frente, não
+para trás. Por mais que se pense que os homens de negócios têm egos inﬂados,
+essas pessoas são muitas vezes humilhadas por lembretes das diferenças entre
+decisões e resultados, entre modelos precisos e a realidade.
+Estou falando sobre opacidade, incompletude de informações, a invisibilidade
+do gerador do mundo. A história não nos revela sua mente — precisamos
+adivinhar o que há dentro dela.
+Da representação à realidade
+A ideia anterior liga todas as partes deste livro. Enquanto muitos estudam
+psicologia, matemática ou teoria da evolução e procuram maneiras de obter
+lucros aplicando suas ideias aos negócios, sugiro exatamente o oposto: estude a
+intensa, desconhecida e humilhante incerteza nos mercados como um meio de
+obter insights sobre a natureza da aleatoriedade, que é aplicável à psicologia, à
+probabilidade, à matemática, à teoria das decisões e até mesmo à física estatística.
+Você verá as manifestações sorrateiras da falácia narrativa, da falácia lúdica e dos
+grandes erros da platonicidade, de ir da representação à realidade.
+Quando conheci Mandelbrot, perguntei-lhe por que um cientista estabelecido
+como ele, que deveria ter coisas mais valiosas para fazer com a própria vida, se
+interessaria por um tema tão vulgar como ﬁnanças. Eu pensava que ﬁnanças e
+economia eram apenas lugares onde uma pessoa poderia aprender a partir de
+vários fenômenos empíricos e encher sua conta bancária com dinheiro suﬁciente
+para mandar todo mundo à merda antes de se dedicar a coisas maiores e
+melhores. A resposta de Mandelbrot foi: “Dados, uma mina de ouro de dados”.
+Na verdade, todo mundo se esquece de que Mandelbrot começou na economia
+antes de passar para a física e a geometria da natureza. Trabalhar com essa
+profusão de dados é uma lição de humildade; propicia a intuição do seguinte
+erro: trilhar a estrada entre representação e realidade na direção errada.
+
+O problema da circularidade das estatísticas (que também podemos chamar de
+argumento de regressão estatística) é o seguinte. Digamos que você precise de
+dados anteriores para descobrir se uma distribuição de probabilidades é
+gaussiana, fractal ou alguma outra coisa. Você precisará deﬁnir se possui dados
+suﬁcientes para dar respaldo a sua alegação. Como sabemos se temos dados
+suﬁcientes? A partir da distribuição de probabilidades — uma distribuição diz se
+você dispõe de dados suﬁcientes para “criar conﬁança” com relação ao que está
+inferindo. Se for uma curva em forma de sino gaussiana, então alguns pontos
+serão suﬁcientes (a lei dos grandes números, mais uma vez). E como você sabe se
+a distribuição é gaussiana? Bem, a partir dos dados. Portanto, precisamos dos
+dados para nos dizer qual é a distribuição de probabilidades, e de uma
+distribuição de probabilidades para nos dizer a quantidade de dados de que
+precisamos. Isso causa um severo argumento de regressão.
+Essa regressão não ocorre se você presumir de antemão que a distribuição é
+gaussiana. Acontece que, por algum motivo, a gaussiana revela suas propriedades
+com bastante facilidade. As distribuições do Extremistão não fazem isso. Então,
+selecionar a gaussiana enquanto se invoca alguma lei geral parece ser conveniente.
+A gaussiana é usada como uma distribuição padrão justamente por essa razão.
+Como insisto em repetir, supor sua aplicação de antemão pode funcionar com
+um pequeno número de campos, como estatísticas criminais, taxas de
+mortalidade, questões do Mediocristão. Mas não para dados históricos de
+atributos desconhecidos, e nem para questões do Extremistão.
+Ora, por que os estatísticos que trabalham com dados históricos não estão
+cientes desse problema? Primeiro, eles não gostam de ouvir que todo o seu
+negócio foi cancelado pelo problema da indução. Em segundo lugar, não são
+confrontados de maneira rigorosa com os resultados de suas previsões. Como
+vimos com as Competições _, eles se fundamentam na falácia narrativa, e não
+querem ouvir esse tipo de coisa.
+MAIS UMA VEZ, CUIDADO COM OS PREVISORES
+Permita-me levar o problema um degrau acima. Como já mencionei, muitos
+dos modelos em voga tentam explicar a gênese do Extremistão. Na verdade, eles
+são agrupados em duas classes amplas, mas em certas ocasiões há mais enfoques.
+A primeira classe inclui o simples modelo ao estilo “o rico ﬁca mais rico” (ou “o
+grande ﬁca maior”), usado para explicar a aglomeração de pessoas em torno das
+cidades, o domínio do mercado pela Microsoft e pela tecnologia Lw (em vez da
+
+Apple e da Betamax), a dinâmica das reputações acadêmicas etc. A segunda
+classe diz respeito ao que é geralmente chamado de “modelos de percolação”, que
+tratam não do comportamento do indivíduo, mas sim do terreno em que ele
+opera. Quando despejamos água sobre uma superfície porosa, a estrutura dessa
+superfície importa mais do que o líquido. Quando um grão de areia atinge uma
+pilha de outros grãos de areia, o modo como o terreno está organizado é o fator
+que determina se haverá uma avalanche.
+A maioria dos modelos, é óbvio, tenta ser preditiva e precisa, não apenas
+descritiva; a meu ver isso é irritante. Eles são boas ferramentas para ilustrar a
+gênese do Extremistão, mas insisto que o “gerador” da realidade não parece
+obedecê-los tão de perto a ponto de torná-los úteis em previsões acuradas. Ao
+menos pelo que se pode julgar por qualquer coisa que se encontre na literatura
+atual sobre o tema do Extremistão. Mais uma vez, enfrentamos graves problemas
+de calibração; portanto, seria uma ótima ideia evitar os erros comuns cometidos
+quando se calibra um processo não linear. Lembre-se de que os processos não
+lineares têm maiores graus de liberdade do que os lineares (como vimos no
+capítulo 11), com a implicação de que usar o modelo errado signiﬁca exposição a
+enormes riscos. Ainda assim, de vez em quando você se depara com algum livro
+ou artigo defendendo a aplicação de modelos da física estatística à realidade.
+Livros lindos como o de Philip Ball ilustram e informam, mas não conduzem a
+modelos precisos de dados quantitativos. Não os leve ao pé da letra.
+Mas vejamos o que podemos aprender com esses modelos.
+Uma vez mais, uma solução feliz
+Em primeiro lugar, ao presumir um escalável, aceito que um número
+arbitrariamente grande é possível. Em outras palavras, as desigualdades não
+deveriam parar acima de algum limite máximo conhecido.
+Digamos que o livro O código Da Vinci tenha vendido cerca de 60 milhões de
+exemplares. (A Bíblia vendeu por volta de 1 bilhão de cópias, mas vamos ignorar
+esse fato e limitar nossa análise a livros laicos escritos por autores individuais.)
+Embora nunca tenhamos conhecido um livro leigo capaz de vender 200 milhões
+de exemplares, podemos considerar que a possibilidade não é zero. É pequena,
+mas não é zero. Para cada três best-sellers ao estilo de O código Da Vinci, pode
+haver um supercampeão de vendas, e embora nenhum tenha surgido até agora,
+não podemos descartar essa possibilidade. E para cada quinze Códigos Da Vinci
+haverá um supercampeão que venderá, digamos, 500 milhões de exemplares.
+
+Aplique a mesma lógica à riqueza. Digamos que a pessoa mais rica do planeta
+tenha um patrimônio de 50 bilhões de dólares. Há uma probabilidade não
+desprezível de que, no próximo ano, alguém com 100 bilhões de dólares ou mais
+surja do nada. Para cada três pessoas com mais de 50 bilhões de dólares, pode
+haver uma que seja dona de 100 bilhões ou mais. Há uma probabilidade muito
+menor de haver alguém com mais de 200 bilhões de dólares — um terço da
+probabilidade anterior, mas ainda assim diferente de zero. Existe até mesmo uma
+probabilidade ínﬁma, mas diferente de zero, de haver alguém com mais de 500
+bilhões.
+Isso me diz o seguinte: posso fazer inferências sobre coisas que não vejo em
+meus dados, mas essas coisas ainda devem pertencer ao domínio das
+possibilidades. Em algum lugar por aí existe um best-seller invisível, que está
+ausente dos dados anteriores, mas que precisa ser levado em conta. Lembre-se
+do argumento que apresentei no capítulo 13: ele torna o investimento em um
+livro ou em um medicamento melhor do que podem sugerir as estatísticas
+calcadas em dados passados. Mas pode tornar as perdas do mercado de ações
+piores do que aquilo que o passado mostra.
+As guerras são fractais por natureza. Uma guerra que mata mais pessoas do
+que a devastadora Segunda Guerra Mundial é possível — improvável, mas não é
+uma probabilidade zero, embora o passado jamais tenha registrado tal guerra.
+Em segundo lugar, apresentarei uma ilustração da natureza que ajudará a
+esclarecer o argumento acerca da precisão. Uma montanha é um tanto
+semelhante a uma pedra: tem uma aﬁnidade com a pedra, uma semelhança de
+família, mas não é idêntica. A palavra para descrever tais semelhanças é autoaﬁm,
+não o preciso autossemelhante, mas Mandelbrot teve diﬁculdades para comunicar
+a noção de aﬁnidade, e o termo autossemelhante se espalhou com sua conotação
+de semelhança precisa em vez de semelhança familiar. Tal como acontece com a
+montanha e a pedra, a distribuição de riqueza acima de 1 bilhão de dólares não é
+exatamente a mesma que a distribuição abaixo de 1 bilhão, mas as duas
+distribuições têm “aﬁnidade”.
+E em terceiro lugar, aﬁrmei antes que deve existir uma fartura de artigos no
+mundo da econofísica (a aplicação da física estatística a fenômenos sociais e
+econômicos) visando a essa calibração, a extrair números do mundo dos
+fenômenos. Muitos tentam ser preditivos. Infelizmente, não somos capazes de
+prever “transições” para crises ou contágios. Meu amigo Didier Sornette tenta
+construir modelos preditivos, que eu adoro, só que não posso usá-los para fazer
+previsões — mas, por favor, não diga isso a ele; pode ser que ele pare de construí-
+
+los. O fato de eu não poder usar os modelos de acordo com a intenção original
+de Sornette não invalida o trabalho dele, apenas faz com que as interpretações
+exijam pensamento amplo e de mente aberta, ao contrário dos modelos em
+economia convencional, que são fundamentalmente falhos. Podemos ser capazes
+de nos dar bem com alguns dos fenômenos de Sornette, mas não com todos.
+ONDE ESTÁ O CISNE CINZENTO?
+Escrevi este livro inteiro sobre o Cisne Negro. Não é porque eu esteja
+apaixonado por ele; como humanista, eu o odeio. Odeio a maior parte da
+injustiça e dos danos que ele causa. Portanto, eu gostaria de eliminar muitos
+Cisnes Negros, ou pelo menos mitigar seus efeitos e me proteger deles. A
+aleatoriedade fractal é uma forma de reduzir essas surpresas, de fazer com que
+alguns dos cisnes pareçam possíveis, por assim dizer, de fazer com que tenhamos
+consciência de suas consequências, de torná-los cinzentos. Mas a aleatoriedade
+fractal não produz respostas precisas. Os benefícios são os seguintes: se você sabe
+que o mercado de ações pode quebrar, como aconteceu em 1987, então tal evento
+não é um Cisne Negro. O crash de 1987 não é um outlier se você usar um fractal
+com um expoente de três. Se você sabe que as empresas de biotecnologia podem
+introduzir no mercado um fármaco que será um estrondoso sucesso de vendas,
+maior do que tudo que tivemos até agora, então não será um Cisne Negro, e você
+não ﬁcará surpreso se esse fármaco aparecer.
+Assim, os fractais de Mandelbrot nos permitem explicar alguns Cisnes Negros,
+mas nem todos. Eu já disse que alguns Cisnes Negros surgem porque ignoramos
+fontes de aleatoriedade. Outros surgem quando superestimamos o expoente
+fractal. Um Cisne Cinzento refere-se a eventos extremos modeláveis, um Cisne
+Negro tem a ver com desconhecidos desconhecidos.
+Sentei-me e discuti isso com o grande homem, e o debate se tornou, como de
+praxe, um jogo linguístico. No capítulo 9, apresentei a distinção que os
+economistas fazem entre a incerteza knightiana (incomputável) e o risco
+knightiano (computável); essa distinção não pode ser uma ideia tão original a
+ponto de estar ausente do nosso vocabulário, por isso fomos procurá-la em
+francês. Mandelbrot mencionou um de seus amigos e heróis prototípicos, o
+aristocrata e matemático Marcel-Paul Schützenberger, um reﬁnado erudito que
+(assim como o autor que vos fala) se entediava facilmente e não conseguia
+trabalhar em problemas além de seus pontos de retorno decrescentes.
+Schützenberger insistiu na distinção, na língua francesa, entre hasard e fortuit.
+
+Hasard, do árabe az-zahr, implica, assim como alea, o dado (no sentido de
+sorte),5 a aleatoriedade manejável; fortuit, o fortuito, é meu Cisne Negro, o
+puramente acidental e inesperado. Fomos ao dicionário Petit Robert; a distinção
+está mesmo lá. Fortuit parece corresponder à minha opacidade epistêmica,
+l’imprévu et non quantiﬁable [o imprevisto e não quantiﬁcável]; hasard equivale ao
+tipo mais lúdico de incerteza que foi proposto pelo Chevalier de Méré na
+literatura sobre jogos de azar. De forma extraordinária, os árabes podem ter
+introduzido outra palavra ao negócio de incerteza: rizk, signiﬁcando propriedade.
+Repito: Mandelbrot lida com Cisnes Cinzentos; eu lido com o Cisne Negro.
+Assim, Mandelbrot domesticou muitos dos meus Cisnes Negros, mas não todos
+eles, não completamente. No entanto, com seu método ele nos mostra um
+vislumbre de esperança, uma maneira de começar a pensar sobre os problemas de
+incerteza. De fato, você está muito mais seguro se souber onde estão os animais
+selvagens.
+

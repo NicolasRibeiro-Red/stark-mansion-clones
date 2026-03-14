@@ -1,0 +1,223 @@
+# Additional Resources
+
+Paginas: 136-139
+
+Who’s Involved with Designing a Data Architecture?
+Data architecture isn’t designed in a vacuum. Bigger companies may still employ data
+architects, but those architects will need to be heavily in tune and current with the
+state of technology and data. Gone are the days of ivory tower data architecture. In
+the past, architecture was largely orthogonal to engineering. We expect this distinc‐
+tion will disappear as data engineering, and engineering in general, quickly evolves,
+becoming more agile, with less separation between engineering and architecture.
+Ideally, a data engineer will work alongside a dedicated data architect. However, if
+a company is small or low in its level of data maturity, a data engineer might work
+double duty as an architect. Because data architecture is an undercurrent of the data
+engineering lifecycle, a data engineer should understand “good” architecture and the
+various types of data architecture.
+When designing architecture, you’ll work alongside business stakeholders to evaluate
+trade-offs. What are the trade-offs inherent in adopting a cloud data warehouse
+versus a data lake? What are the trade-offs of various cloud platforms? When might a
+unified batch/streaming framework (Beam, Flink) be an appropriate choice? Studying
+these choices in the abstract will prepare you to make concrete, valuable decisions.
+Conclusion
+You’ve learned how data architecture fits into the data engineering lifecycle and
+what makes for “good” data architecture, and you’ve seen several examples of data
+architectures. Because architecture is such a key foundation for success, we encourage
+you to invest the time to study it deeply and understand the trade-offs inherent in any
+architecture. You will be prepared to map out architecture that corresponds to your
+organization’s unique requirements.
+Next up, let’s look at some approaches to choosing the right technologies to be used in
+data architecture and across the data engineering lifecycle.
+Additional Resources
+• “AnemicDomainModel” by Martin Fowler
+•
+• “Big Data Architectures” Azure documentation
+•
+• “BoundedContext” by Martin Fowler
+•
+• “A Brief Introduction to Two Data Processing Architectures—Lambda and
+•
+Kappa for Big Data” by Iman Samizadeh
+• “The Building Blocks of a Modern Data Platform” by Prukalpa
+•
+• “Choosing Open Wisely” by Benoit Dageville et al.
+•
+Who’s Involved with Designing a Data Architecture?
+|
+111
+
+• “Choosing the Right Architecture for Global Data Distribution” Google Cloud
+•
+Architecture web page
+• “Column-Oriented DBMS” Wikipedia page
+•
+• “A Comparison of Data Processing Frameworks” by Ludovik Santos
+•
+• “The Cost of Cloud, a Trillion Dollar Paradox” by Sarah Wang and Martin
+•
+Casado
+• “The Curse of the Data Lake Monster” by Kiran Prakash and Lucy Chambers
+•
+• Data Architecture: A Primer for the Data Scientist by W. H. Inmon et al. (Aca‐
+•
+demic Press)
+• “Data Architecture: Complex vs. Complicated” by Dave Wells
+•
+• “Data as a Product vs. Data as a Service” by Justin Gage
+•
+• “The Data Dichotomy: Rethinking the Way We Treat Data and Services” by Ben
+•
+Stopford
+• “Data Fabric Architecture Is Key to Modernizing Data Management and Integra‐
+•
+tion” by Ashutosh Gupta
+• “Data Fabric Defined” by James Serra
+•
+• “Data Team Platform” by GitLab Data
+•
+• “Data Warehouse Architecture: Overview” by Roelant Vos
+•
+• “Data Warehouse Architecture” tutorial at Javatpoint
+•
+• “Defining Architecture” ISO/IEC/IEEE 42010 web page
+•
+• “The Design and Implementation of Modern Column-Oriented Database Sys‐
+•
+tems” by Daniel Abadi et al.
+• “Disasters I’ve Seen in a Microservices World” by Joao Alves
+•
+• “DomainDrivenDesign” by Martin Fowler
+•
+• “Down with Pipeline Debt: Introducing Great Expectations” by the Great Expect‐
+•
+ations project
+• EABOK draft, edited by Paula Hagan
+•
+• EABOK website
+•
+• “EagerReadDerivation” by Martin Fowler
+•
+• “End-to-End Serverless ETL Orchestration in AWS: A Guide” by Rittika Jindal
+•
+• “Enterprise Architecture” Gartner Glossary definition
+•
+• “Enterprise Architecture’s Role in Building a Data-Driven Organization” by
+•
+Ashutosh Gupta
+• “Event Sourcing” by Martin Fowler
+•
+112
+|
+Chapter 3: Designing Good Data Architecture
+
+• “Falling Back in Love with Data Pipelines” by Sean Knapp
+•
+• “Five Principles for Cloud-Native Architecture: What It Is and How to Master It”
+•
+by Tom Grey
+• “Focusing on Events” by Martin Fowler
+•
+• “Functional Data Engineering: A Modern Paradigm for Batch Data Processing”
+•
+by Maxime Beauchemin
+• “Google Cloud Architecture Framework” Google Cloud Architecture web page
+•
+• “How to Beat the Cap Theorem” by Nathan Marz
+•
+• “How to Build a Data Architecture to Drive Innovation—Today and Tomorrow”
+•
+by Antonio Castro et al.
+• “How TOGAF Defines Enterprise Architecture (EA)” by Avancier Limited
+•
+• The Information Management Body of Knowledge website
+•
+• “Introducing Dagster: An Open Source Python Library for Building Data Appli‐
+•
+cations” by Nick Schrock
+• “The Log: What Every Software Engineer Should Know About Real-Time Data’s
+•
+Unifying Abstraction” by Jay Kreps
+• “Microsoft Azure IoT Reference Architecture” documentation
+•
+• Microsoft’s “Azure Architecture Center”
+•
+• “Modern CI Is Too Complex and Misdirected” by Gregory Szorc
+•
+• “The Modern Data Stack: Past, Present, and Future” by Tristan Handy
+•
+• “Moving Beyond Batch vs. Streaming” by David Yaffe
+•
+• “A Personal Implementation of Modern Data Architecture: Getting Strava Data
+•
+into Google Cloud Platform” by Matthew Reeve
+• “Polyglot Persistence” by Martin Fowler
+•
+• “Potemkin Data Science” by Michael Correll
+•
+• “Principled Data Engineering, Part I: Architectural Overview” by Hussein
+•
+Danish
+• “Questioning the Lambda Architecture” by Jay Kreps
+•
+• “Reliable Microservices Data Exchange with the Outbox Pattern” by Gunnar
+•
+Morling
+• “ReportingDatabase” by Martin Fowler
+•
+• “The Rise of the Metadata Lake” by Prukalpa
+•
+• “Run Your Data Team Like a Product Team” by Emilie Schario and Taylor A.
+•
+Murphy
+Additional Resources
+|
+113
+
+• “Separating Utility from Value Add” by Ross Pettit
+•
+• “The Six Principles of Modern Data Architecture” by Joshua Klahr
+•
+• Snowflake’s “What Is Data Warehouse Architecture” web page
+•
+• “Software Infrastructure 2.0: A Wishlist” by Erik Bernhardsson
+•
+• “Staying Ahead of Data Debt” by Etai Mizrahi
+•
+• “Tactics vs. Strategy: SOA and the Tarpit of Irrelevancy” by Neal Ford
+•
+• “Test Data Quality at Scale with Deequ” by Dustin Lange et al.
+•
+• “Three-Tier Architecture” by IBM Education
+•
+• TOGAF framework website
+•
+• “The Top 5 Data Trends for CDOs to Watch Out for in 2021” by Prukalpa
+•
+• “240 Tables and No Documentation?” by Alexey Makhotkin
+•
+• “The Ultimate Data Observability Checklist” by Molly Vorwerck
+•
+• “Unified Analytics: Where Batch and Streaming Come Together; SQL and
+•
+Beyond” Apache Flink Roadmap
+• “UtilityVsStrategicDichotomy” by Martin Fowler
+•
+• “What Is a Data Lakehouse?” by Ben Lorica et al.
+•
+• “What Is Data Architecture? A Framework for Managing Data” by Thor
+•
+Olavsrud
+• “What Is the Open Data Ecosystem and Why It’s Here to Stay” by Casber Wang
+•
+• “What’s Wrong with MLOps?” by Laszlo Sragner
+•
+• “What the Heck Is Data Mesh” by Chris Riccomini
+•
+• “Who Needs an Architect” by Martin Fowler
+•
+• “Zachman Framework” Wikipedia page
+•
+114
+|
+Chapter 3: Designing Good Data Architecture
+

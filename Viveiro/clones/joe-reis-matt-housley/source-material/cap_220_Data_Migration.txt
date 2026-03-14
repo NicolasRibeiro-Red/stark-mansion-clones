@@ -1,0 +1,43 @@
+# Data Migration
+
+Paginas: 272-272
+
+Inserts, Updates, and Batch Size
+Batch-oriented systems often perform poorly when users attempt to perform many
+small-batch operations rather than a smaller number of large operations. For exam‐
+ple, while it is common to insert one row at a time in a transactional database, this is
+a bad pattern for many columnar databases, as it forces the creation of many small,
+suboptimal files and forces the system to run a high number of create object opera‐
+tions. Running many small in-place update operations is an even bigger problem
+because it causes the database to scan each existing column file to run the update.
+Understand the appropriate update patterns for the database or data store you’re
+working with. Also, understand that certain technologies are purpose-built for high
+insert rates. For example, Apache Druid and Apache Pinot can handle high insert
+rates. SingleStore can manage hybrid workloads that combine OLAP and OLTP
+characteristics. BigQuery performs poorly on a high rate of vanilla SQL single-row
+inserts but extremely well if data is fed in through its stream buffer. Know the limits
+and characteristics of your tools.
+Data Migration
+Migrating data to a new database or environment is not usually trivial, and data needs
+to be moved in bulk. Sometimes this means moving data sizes that are hundreds of
+terabytes or much larger, often involving the migration of specific tables and moving
+entire databases and systems.
+Data migrations probably aren’t a regular occurrence as a data engineer, but you
+should be familiar with them. As is often the case for data ingestion, schema manage‐
+ment is a crucial consideration. Suppose you’re migrating data from one database
+system to a different one (say, SQL Server to Snowflake). No matter how closely the
+two databases resemble each other, subtle differences almost always exist in the way
+they handle schema. Fortunately, it is generally easy to test ingestion of a sample of
+data and find schema issues before undertaking a complete table migration.
+Most data systems perform best when data is moved in bulk rather than as individual
+rows or events. File or object storage is often an excellent intermediate stage for
+transferring data. Also, one of the biggest challenges of database migration is not the
+movement of the data itself but the movement of data pipeline connections from the
+old system to the new one.
+Be aware that many tools are available to automate various types of data migrations.
+Especially for large and complex migrations, we suggest looking at these options
+before doing this manually or writing your own migration solution.
+Batch Ingestion Considerations
+|
+247
+

@@ -1,0 +1,512 @@
+# 5. (Talvez) O problema mais útil na história da filosofia moderna
+
+Paginas: 375-388
+
+5. (Talvez) O problema mais útil na história da ﬁlosoﬁa
+moderna
+Aﬁnal de contas, pequeno pode não ser a ideia — Onde encontrar o toalete — Prever
+e perecer — Sobre ônibus escolares e livros didáticos inteligentes
+Vou direto ao ponto. Antes de A lógica do cisne negro (e artigos relacionados), a
+maior parte da epistemologia e da teoria da decisão era, para um ator do mundo
+real, apenas uma série de jogos mentais estéreis e preliminares. Quase toda a
+história do pensamento gira em torno do que sabemos ou pensamos que
+sabemos. A lógica do cisne negro é a primeiríssima tentativa (até onde sei), na
+história do pensamento, de apresentar um mapa com os locais onde somos
+prejudicados por aquilo que não sabemos, de deﬁnir limites sistemáticos para a
+fragilidade do conhecimento — e de fornecer as localizações exatas de onde esses
+mapas não funcionam mais.
+Respondendo às “críticas” mais comuns de economistas e banqueiros (agora
+falidos) que mencionei na seção 3, não estou dizendo “Essas merdas acontecem”,
+estou dizendo “Essas merdas acontecem no Quarto Quadrante”, o que é tão
+diferente quanto confundir prudência com paranoia.
+Ademais, para ser mais agressivo, embora os limites como aqueles atribuídos a
+Gödel tenham enormes consequências ﬁlosóﬁcas, mas não possamos fazer muito
+a respeito deles, acredito que os limites do conhecimento empírico e estatístico
+que mostrei têm uma importância razoável (senão vital) e podemos fazer muito
+com eles em termos de soluções, categorizando as decisões com base na
+gravidade do potencial erro de estimativa do par probabilidade vezes
+consequência. Por exemplo, podemos usá-los para construir uma sociedade mais
+segura, para robustecer o que está no Quarto Quadrante.
+
+VIVENDO EM DUAS DIMENSÕES
+Um problema espinhoso na história do pensamento humano é encontrar a
+posição do indivíduo na fronteira entre ceticismo e credulidade, ou entre
+acreditar e não acreditar. E como tomar decisões com base nessas crenças, visto
+que crenças sem decisões são simplesmente estéreis. Portanto, não se trata de um
+problema epistemológico (ou seja, enfocar o que é verdadeiro ou falso); é um
+problema de decisão, ação e comprometimento.
+Claramente, ninguém pode duvidar de tudo e ser uma pessoa funcional; não é
+possível acreditar em tudo e sobreviver. No entanto, o tratamento ﬁlosóﬁco do
+problema tem sido bastante incompleto e, pior, não se aprimorou muito ao longo
+dos séculos, se é que se aprimorou minimamente. Uma classe de pensadores,
+digamos os cartesianos, ou os céticos acadêmicos cerca de dezoito séculos antes
+deles, à sua própria maneira, começaram com a franca rejeição de tudo logo de
+cara — alguns foram até mais radicais, por exemplo os pirrônicos, que rejeitavam
+tanto a ponto de rejeitar inclusive o ceticismo, por considerá-lo dogmático em
+demasia. A outra classe, digamos os escolásticos medievais ou os pragmáticos da
+era moderna, começa com a ﬁxação de crenças, ou de algumas crenças. Enquanto
+os pensadores medievais param por aí, de uma maneira aristotélica, os primeiros
+pragmáticos, com o formidável pensador Charles Sanders Peirce, propiciaram um
+raio de esperança. Eles se propuseram a atualizar e corrigir crenças como um
+contínuo trabalho em andamento (embora sob uma conhecida estrutura de
+probabilidade, uma vez que Peirce acreditava na existência e alcançabilidade de
+um estado de convergência para a verdade ergódica, de longo prazo e atingível).
+Esse tipo de pragmatismo (inicialmente chamado de pragmaticismo) via o
+conhecimento como uma rigorosa interação entre anticeticismo e falibilismo, ou
+seja, entre as duas categorias: do que duvidar e o que aceitar. A aplicação para o
+meu campo de atuação, a probabilidade, e talvez a versão mais soﬁsticada do
+programa, está nas densas, difíceis, profundas e brilhantes incursões de Isaac
+Levi na teoria da decisão com a noção de corpus de crença, compromisso
+doxástico, distância da expectativa e medidas de probabilidade dos chamados
+conjuntos credais.
+Um raio de esperança, talvez, mas ainda não chega nem perto. Nem mesmo
+remotamente perto de qualquer coisa útil.
+Pense em viver em um espaço tridimensional sob a ilusão de estar em duas
+dimensões. Pode funcionar bem se você for uma minhoca, mas certamente não se
+você for um pássaro. Claro, você não terá ciência do truncamento — e se verá
+
+diante de muitos mistérios, que não poderão ser resolvidos sem o acréscimo de
+uma dimensão, por mais que você soﬁstique a questão. E, decerto, vez por outra
+você se sentirá desamparado. Foi esse o destino do conhecimento durante todos
+esses séculos, aprisionado em duas dimensões por demais simplistas para ser útil
+fora das salas de aula. Desde Platão, somente os ﬁlósofos dedicaram tempo à
+discussão acerca do que era a Verdade, e por uma razão: ela é inutilizável na
+prática. Ao se concentrar na distinção Verdadeiro/Falso, a epistemologia
+permaneceu, com pouquíssimas exceções, prisioneira de um arcabouço 2-:
+irrelevante e tremendamente incompleto. A terceira dimensão faltante é,
+naturalmente, a consequência da Verdade, e a gravidade do Falso, a expectativa.
+Em outras palavras, o payo das decisões, o impacto e a magnitude do resultado
+dessa decisão. Às vezes a pessoa pode estar errada e seu erro pode acabar se
+mostrando irrelevante. Ou pode estar certa, digamos, com relação a um tema
+como o sexo dos anjos, e no ﬁm ﬁcar claro que isso não tem serventia alguma
+além de funcionar como uma versão intelectual de colecionar selos.
+A noção simpliﬁcada, ﬁlistiniﬁcada, academiﬁcada e gloriﬁcada de “evidência”
+torna-se inútil. Com relação aos Cisnes Negros, você age para se proteger dos
+negativos (ou se expor aos positivos) mesmo que não tenha nenhuma evidência de
+que eles podem ocorrer, assim como submetemos as pessoas a veriﬁcações de
+segurança em busca de armas antes de elas embarcarem em um avião, embora não
+tenhamos nenhuma evidência de que sejam terroristas. Esse foco em noções
+comoditizadas, prontas para uso imediato, tais como “evidências”, é um problema
+para as pessoas que alegam usar “rigor”, mas que de tempos em tempos vão à
+falência.
+Um mundo probabilístico já tem problemas com a “prova” como tal, mas em
+um mundo do Cisne Negro as coisas são ainda piores.
+De fato, não conheço quase nenhuma decisão que seja baseada em noções de
+Verdadeiro/Falso.
+Assim que começa a examinar o payo, o resultado das decisões, você vê
+claramente que as consequências de alguns erros podem ser benignas, e as de
+outros podem ser graves. E você basicamente sabe qual é qual de antemão. Você
+sabe quais erros têm consequências importantes e quais são irrelevantes.
+Mas primeiro vamos examinar um problema grave na derivação de
+conhecimento sobre probabilidades.
+A DEPENDÊNCIA DA TEORIA PARA EVENTOS RAROS
+
+Durante meu período no deserto, quando eu estava sendo alvo de insultos
+pesados, mas divertidos, me vi em meio a um debate com um cavalheiro que na
+ocasião trabalhava em uma empresa chamada Lehman Brothers. Esse senhor deu
+uma declaração ao Wall Street Journal aﬁrmando que os eventos que vimos em
+agosto de 2007 deveriam ter acontecido uma vez a cada 10 mil anos. Como era
+de se esperar, tivemos três desses eventos em três dias consecutivos. O Wall
+Street Journal publicou uma fotograﬁa do tal senhor, e se você olhar para ela,
+poderá aﬁrmar com segurança: “Ele não parece ter 10 mil anos de idade”. Então,
+de onde ele estava tirando essa probabilidade de “uma vez a cada 10 mil anos”?
+Certamente não da experiência pessoal; certamente não dos arquivos históricos
+do Lehman Brothers — a empresa da qual ele era empregado não existia 10 mil
+anos atrás, e claro que não durou outros 10 mil anos, pois afundou logo após
+nosso debate. Então, você sabe que ele estava tirando suas pequenas
+probabilidades de uma teoria. Quanto mais remoto o evento, menos somos capazes
+de obter dados empíricos (presumindo generosamente que o futuro se parecerá com o
+passado) e mais precisamos conﬁar na teoria.
+Tenha em mente que a frequência de eventos raros não pode ser estimada a
+partir da observação empírica pela própria razão de serem raros. Assim,
+precisamos de uma representação de modelo prévia; quanto mais raro o evento,
+maior o erro na estimativa dos métodos indutivos padrão (digamos, amostragem
+de frequência a partir da contagem de ocorrências anteriores), portanto, maior a
+dependência de uma representação a priori que extrapola para dentro do espaço
+de eventos de baixa probabilidade (que necessariamente não são vistos com
+frequência).1
+Mas mesmo fora do âmbito das pequenas probabilidades, o problema a priori
+está sempre presente. Parece evidente no que diz respeito a eventos raros, mas
+permeia o conhecimento probabilístico. Apresentarei duas versões nas quais
+venho trabalhando com dois colaboradores, Avital Pilpel, um ﬁlósofo da ciência
+(ele caminha a passos rápidos), e Raphael Douady, um matemático (às vezes ele é
+bom de caminhada, quando não está ocupado).
+Epimênides, o cretense
+Avital Pilpel e eu expressamos o argumento da regressão da seguinte maneira,
+como o problema epistêmico de gerenciamento de riscos, mas o argumento pode
+ser generalizado para qualquer forma de conhecimento probabilístico. É um
+problema de autorreferência por medidas de probabilidade.
+
+Podemos aﬁrmar isso da seguinte maneira. Se precisarmos de dados para obter
+uma distribuição de probabilidades a ﬁm de avaliar o conhecimento sobre o
+comportamento futuro da distribuição a partir de seus resultados anteriores, e se,
+ao mesmo tempo, precisarmos de uma distribuição de probabilidades para medir
+a suﬁciência de dados e se ela é ou não preditiva de futuro, então enfrentaremos
+um grave circuito de regressão. Esse é um problema de autorreferência
+semelhante ao de Epimênides, o cretense, aﬁrmando se os cretenses são
+mentirosos ou não. De fato, chega desconfortavelmente perto da situação do
+paradoxo de Epimênides, uma vez que uma distribuição de probabilidades é
+usada para avaliar o grau de verdade, mas não é capaz de reﬂetir sobre seu
+próprio grau de verdade e validade. E, ao contrário de muitos problemas de
+autorreferência, os que são relacionados à avaliação de risco têm consequências
+graves. O problema é mais agudo com pequenas probabilidades.
+Um teorema da indecidibilidade
+Esse problema de autorreferência, publicado com Pilpel após A lógica do cisne
+negro, passou despercebido como tal. Então Raphael Douady e eu expressamos
+novamente o problema ﬁlosóﬁco em termos matemáticos, e parece muito mais
+devastador em suas implicações práticas do que o problema de Gödel.
+Raphael é, das pessoas que conheço, talvez o homem com a maior erudição
+matemática — pode ser que ele tenha mais cultura matemática do que qualquer
+outro indivíduo nos tempos modernos, exceto talvez seu falecido pai, Adrien
+Douady.
+No momento em que escrevo estas linhas, talvez tenhamos produzido uma
+prova formal usando matemática e um ramo chamado “teoria da medida”, que foi
+usado pelos franceses para colocar o rigor por trás da matemática da
+probabilidade. O artigo é intitulado “Statistical Undecidability” [Indecidibilidade
+estatística].
+São as consequências…
+Além do mais, na vida real não nos importamos com a probabilidade simples e
+bruta (se um evento acontece ou não acontece); o que nos preocupa são as
+consequências (o tamanho do evento; a magnitude total da destruição em número
+de vidas ou de riquezas, ou outras perdas e prejuízos decorrentes do evento;
+quanto benefício um evento benéﬁco trará). Visto que quanto menos frequente o
+evento, mais graves são as consequências (basta pensar que a enchente que
+ocorre a cada cem anos é mais severa e menos frequente do que a inundação que
+
+acontece a cada dez anos; o livro que é o campeão de vendas da década
+movimenta mais exemplares do que o maior best-seller do ano), nossa estimativa
+da contribuição do evento raro será extremamente defeituosa (a contribuição é a
+probabilidade vezes o efeito; multiplique isso pelo erro de estimativa); e nada é
+capaz de corrigi-la.2
+Assim sendo, quanto mais raro o evento, menos sabemos a respeito de seu
+papel — e mais precisamos compensar essa deﬁciência com uma teoria
+extrapolativa e generalizante. O rigor que faltará a ela será proporcional às
+aﬁrmações sobre a raridade do evento. Consequentemente, os erros teóricos e de
+modelo são mais relevantes nas caudas; e, a boa notícia, algumas representações
+são mais frágeis do que outras.
+Mostrei que esse erro é mais grave no Extremistão, onde eventos raros são
+mais signiﬁcativos, devido a uma falta de escala, ou por causa de uma falta de teto
+assintótico para a variável aleatória. No Mediocristão, em comparação,
+predomina o efeito coletivo de eventos regulares, e as exceções são bastante
+irrelevantes — conhecemos seu efeito, que é muito brando porque podemos
+diversiﬁcar graças à “lei dos grandes números”. Permita-me fornecer mais uma
+vez uma ilustração do Extremistão. Menos de 0,25% de todas as empresas
+registradas no mundo representam cerca de metade da capitalização de mercado;
+menos do que uma minúscula porcentagem de romances do planeta é responsável
+por aproximadamente metade das vendas de ﬁcção; menos de 0,1% dos
+medicamentos gera um pouco mais que a metade das vendas totais da indústria
+farmacêutica — e menos de 0,1% dos eventos de risco causará pelo menos
+metade dos danos e perdas.
+Da realidade à representação3
+Permita-me adotar um outro ângulo. A passagem da teoria para o mundo real
+apresenta duas diﬁculdades distintas: problemas inversos e pré-assintóticos.
+Problemas inversos. Lembre-se de como é muito mais difícil recriar um cubo
+de gelo a partir dos resultados da poça d’água (engenharia reversa) do que prever
+o formato da poça. Na verdade, a solução não é única: o cubo de gelo pode ter
+muitos formatos. Descobri que o método soviético de Harvard de ver o mundo
+(em oposição ao estilo de Tony Gordo) nos faz cometer o erro de confundir as
+duas setas (a direção do cubo de gelo à poça e da poça ao cubo de gelo). É outra
+manifestação do erro de platonicidade, de pensar que a forma platônica que você
+tem em mente é a que está observando do lado de fora da janela. Vemos uma
+porção de evidências da confusão das duas setas na história da medicina, a
+
+medicina
+racionalista
+baseada
+na
+teleologia
+aristotélica,
+que
+discuti
+anteriormente. Essa confusão é baseada no seguinte fundamento. Presumimos
+que conhecemos a lógica subjacente a um órgão, a ﬁnalidade para a qual ele foi
+feito, e, portanto, que podemos usar essa lógica no tratamento do paciente. Tem
+sido muito difícil, na medicina, livrar-nos das nossas teorias sobre o corpo
+humano. Da mesma forma, é fácil construir uma teoria na mente, ou pegá-la de
+Harvard e, em seguida, projetá-la no mundo. Aí as coisas são muito simples.
+Esse problema de confusão das duas setas é muito grave no caso da
+probabilidade, sobretudo com pequenas probabilidades.4
+Como mostramos com o teorema da indecidibilidade e o argumento da
+autorreferência, na vida real não observamos distribuições de probabilidade.
+Apenas eventos. Portanto, posso reformular os resultados da seguinte forma: não
+conhecemos as propriedades estatísticas — até, é claro, que o fato ocorra. Dado
+um conjunto de observações, muitas distribuições estatísticas podem
+corresponder às mesmas materializações e representações — cada uma
+extrapolaria de maneira diferente o conjunto de eventos do qual foi derivada. O
+problema inverso é mais agudo quando mais teorias e mais distribuições podem
+caber em um conjunto de dados, sobretudo na presença de não linearidades ou
+distribuições não parcimoniosas.5 Sob não linearidades, as famílias de possíveis
+modelos/parametrizações explodem em números.6
+Mas o problema ﬁca mais interessante em alguns domínios. Lembre-se do
+problema de Casanova no capítulo 8. Para ambientes que tendem a produzir
+Cisnes Negros negativos, mas não Cisnes Negros positivos (esses ambientes são
+chamados
+de
+negativamente
+enviesados),
+o
+problema
+das
+pequenas
+probabilidades é pior. Por quê? É evidente que eventos catastróﬁcos estarão
+necessariamente ausentes dos dados, uma vez que a sobrevivência da própria
+variável dependerá desse efeito. Portanto, tais distribuições permitirão que o
+observador ﬁque propenso a superestimar a estabilidade e a subestimar a
+volatilidade e o risco potenciais.
+Este ponto — que as coisas têm uma tendência a parecer mais estáveis e
+menos arriscadas no passado, levando-nos a surpresas — precisa ser levado a
+sério, em especial na área médica. A história das epidemias, estudada de maneira
+minuciosa, não sugere os riscos da grande peste que virá para assolar o planeta.
+Também estou convencido de que, fazendo o que estamos fazendo com o meio
+ambiente, subestimamos enormemente a potencial instabilidade que sentiremos
+na pele em algum lugar por conta dos danos cumulativos que causamos à
+natureza.
+
+Uma ilustração dessa questão central está acontecendo bem agora. No
+momento em que escrevo, o mercado de ações tem se mostrado muito, muito
+mais arriscado do que os ingênuos aposentados foram levados a crer, a julgar
+pelos discursos históricos que mostram cem anos de dados. Houve uma queda de
+cerca de 23% na década que terminou em 2010, ao passo que os aposentados
+foram informados por charlatães das ﬁnanças que a expectativa era de que
+aumentasse em cerca de 75% ao longo desse período. Isso levou à falência muitos
+planos de pensão (e a maior empresa de automóveis do mundo), pois realmente
+acreditaram naquela lorota “empírica” — e é claro que isso fez com que muitas
+pessoas desapontadas adiassem sua aposentadoria. Tenha em mente que somos
+otários e gravitaremos em direção às variáveis que são instáveis, mas que parecem
+estáveis.
+Pré-assintóticas. Voltemos à platonicidade com uma discussão sobre as pré-
+assintóticas, o que acontece no curto prazo. Para começo de conversa, teorias são
+coisas ruins, mas podem ser piores em algumas situações quando derivadas em
+cenários idealizados, a assíntota, mas são usadas fora da assíntota (seu limite,
+digamos o inﬁnito ou o inﬁnitesimal). Mandelbrot e eu mostramos como algumas
+propriedades assintóticas funcionam bem pré-assintoticamente no Mediocristão,
+razão pela qual os cassinos se dão bem; as coisas são diferentes no Extremistão.
+A maior parte da educação estatística baseia-se nessas propriedades
+assintóticas, platônicas, mas vivemos no mundo real, que raramente se assemelha
+à assíntota. Os teóricos da estatística sabem disso, ou alegam saber, mas não o
+usuário comum de estatísticas que fala sobre “evidências” ao escrever artigos.
+Além do mais, isso intensiﬁca o que chamei de falácia lúdica: a maior parte do
+que os estudantes de estatística matemática fazem é pressupor uma estrutura
+semelhante às estruturas fechadas de jogos, normalmente com probabilidade
+conhecida a priori. No entanto, nosso problema não é tanto fazer cálculos tão
+logo conhecemos as probabilidades, mas encontrar a verdadeira distribuição para
+o horizonte em questão. Muitos dos nossos problemas de conhecimento vêm
+dessa tensão entre a priori e a posteriori.
+Prova em carne e osso
+Não existe uma maneira conﬁável de calcular pequenas probabilidades.
+Apresentei argumentos ﬁlosóﬁcos sobre a diﬁculdade de calcular as
+probabilidades de eventos raros. Usando quase todos os dados econômicos
+disponíveis — e usei dados econômicos porque ali estavam os dados limpos —,
+mostrei a impossibilidade de computar a partir dos dados a medida do quanto
+
+alguém está longe da gaussiana. Existe uma medida chamada curtose, com a qual
+o leitor não precisa se preocupar, mas que representa “quão gordas são as caudas”,
+isto é, até que ponto os eventos raros desempenham um papel importante. Bem,
+muitas vezes, com 10 mil dados individuais, quarenta anos de observações
+diárias, uma única observação representa 90% da curtose! O erro de amostragem
+é grande demais para qualquer inferência estatística sobre o quanto uma coisa é
+não gaussiana, o que signiﬁca que se você deixa passar um único número, perde a
+coisa toda. A instabilidade da curtose implica que certa classe de medidas
+estatísticas deveria ser totalmente proibida. Isso prova que tudo aquilo que é
+baseado em “desvio-padrão”, “variância”, “método dos mínimos quadrados” etc. é
+uma fraude.
+Ademais, mostrei também que é impossível usar fractais para obter
+probabilidades com um grau aceitável de precisão — simplesmente porque uma
+mudança muito pequena no que chamei de “expoente de cauda” no capítulo 16,
+proveniente do erro de observação, faria as probabilidades mudarem por um
+fator de dez, talvez mais.
+Implicação: a necessidade de evitar a exposição a pequenas probabilidades em
+um determinado domínio. Simplesmente não somos capazes de calculá-las.
+FALÁCIA DA PROBABILIDADE DO EVENTO ÚNICO
+Lembre-se de que vimos no capítulo 10, com o exemplo do comportamento
+da expectativa de vida, que a expectativa condicional de vida adicional cai à
+medida que a idade da pessoa avança (conforme a pessoa envelhece, espera-se
+que viva por um número menor de anos; isso vem do fato de que existe um teto
+assintótico “leve” para quantos anos um humano pode viver). Expressando isso
+em unidades de desvios-padrão, a expectativa condicional de uma variável
+gaussiana mediocristã, com a condição de ser superior ao limite de 0, é 0,8
+(desvio-padrão). Condicional ao fato de ser superior ao limite de 1, será 1,52.
+Com a condição de ser maior que 2, será 2,37. Como se vê, os dois números
+devem convergir um para o outro à medida que os desvios se tornam grandes,
+portanto, com a condição de ser superior a dez desvios-padrão, espera-se que
+uma variável aleatória seja de apenas dez.
+No Extremistão, as coisas funcionam de forma diferente. A expectativa
+condicional de um aumento em uma variável aleatória não converge para o limite
+à medida que a variável ﬁca maior. No mundo real, digamos no caso dos retornos
+de ações (e todas as variáveis econômicas), condicionada a uma perda pior do que
+
+cinco unidades, usando-se qualquer unidade de medida (faz pouca diferença),
+será de cerca de oito unidades. Sob a condição de que um movimento seja
+superior a cinquenta unidades, deverá ﬁcar em torno de oitenta unidades, e se
+formos até o ﬁm, até a amostragem se esgotar, o movimento médio pior do que
+cem unidades é de 250 unidades! Esse padrão se estende a todas as áreas em que
+encontrei amostragens suﬁcientes. Isso nos diz que não existe “nenhum” fracasso
+típico e “nenhum” sucesso típico. Você pode ser capaz de prever a ocorrência de
+uma guerra, mas não será capaz de avaliar os efeitos dela! Dependente da
+condição de uma guerra matar mais de 5 milhões de pessoas, ela deverá matar
+cerca de 10 milhões (ou mais). Com a condição de matar mais de 500 milhões,
+mataria 1 bilhão (ou mais, não sabemos). Você pode prever corretamente que
+uma pessoa competente ﬁcará “rica”, mas, condicional a que ela enriqueça, sua
+riqueza pode chegar a 1 milhão de dólares, 10 milhões, 1 bilhão, 10 bilhões — não
+existe um número típico. Temos dados, por exemplo, para previsões de vendas de
+medicamentos, dependendo da condição de que as coisas sejam feitas direito. As
+estimativas de vendas não têm absolutamente nenhuma correlação com as vendas
+reais — alguns medicamentos cujo sucesso comercial foi corretamente previsto
+tiveram suas vendas subestimadas em até 22 vezes.
+Essa ausência de eventos “típicos” no Extremistão é o que torna ridículo algo
+chamado de mercados de previsão (nos quais as pessoas supostamente fazem
+apostas em eventos), pois eles consideram que os eventos são binários. “Uma
+guerra” é desprovida de sentido: você precisa estimar seus danos — e nenhum
+dano é típico. Muitos previram que a Primeira Guerra Mundial ocorreria, mas
+ninguém previu realmente sua magnitude. Uma das razões pelas quais a
+economia não funciona é o fato de a literatura ser quase completamente cega
+com relação a esse aspecto.
+Por esse motivo, a metodologia de Ferguson (mencionada no capítulo 1) para
+examinar a previsão de eventos expressa no preço dos títulos de guerra é mais
+sólida do que simplesmente contar previsões, porque um título, reﬂetindo os
+custos para os governos envolvidos em uma guerra, tem um preço deﬁnido para
+cobrir a probabilidade de um evento vezes suas consequências, não apenas a
+probabilidade de um evento. Portanto, nosso foco não deve ser se alguém
+“previu” um evento, e sim se a declaração tinha consequências vinculadas a ela.
+Associado à falácia anterior está o erro de pensar que minha mensagem é a de
+que esses Cisnes Negros são necessariamente mais prováveis do que presumem
+os métodos convencionais. Eles são, na maior parte dos casos, menos prováveis,
+mas têm efeitos maiores. Tenha em mente que, em um ambiente do tipo “o
+
+vencedor leva tudo”, como as artes, as chances de sucesso são baixas, uma vez que
+há menos pessoas bem-sucedidas, mas a recompensa é desproporcionalmente
+alta. Então, em um ambiente de cauda gorda, eventos raros podem ser menos
+frequentes (sua probabilidade é menor), mas eles são tão poderosos que sua
+contribuição para a bolada total é mais substancial.
+O xis da questão é simples do ponto de vista matemático, mas a ﬁcha não cai
+tão fácil assim. Eu gosto de dar aos alunos de pós-graduação em matemática o
+seguinte teste (para ser respondido intuitivamente, na hora). Em um mundo
+gaussiano, a probabilidade de exceder um desvio-padrão é cerca de 16%. Quais
+são as chances de excedê-lo sob uma distribuição de caudas mais gordas (com a
+mesma média e variância)? A resposta certa: mais baixas, não mais altas — o
+número de desvios cai, mas os poucos que acontecem são mais importantes. Era
+intrigante ver que a maioria dos alunos de pós-graduação entendia tudo errado.
+De volta aos testes de estresse. No momento em que este artigo está sendo
+escrito, o governo dos Estados Unidos submete instituições ﬁnanceiras a testes
+de estresse, presumindo grandes desvios e veriﬁcando os resultados em relação à
+capitalização dessas empresas. Mas o problema é: onde eles obtiveram os
+números? Do passado? Isso é extremamente falho, já que o passado, como vimos,
+não é indicação de desvios futuros no Extremistão. Isso vem da atipicidade dos
+desvios extremos. Pelas minhas experiências com testes de estresse, eles revelam
+pouco sobre os riscos — mas os riscos podem ser usados para avaliar o grau de
+erro de modelo.
+Psicologia da percepção de desvios
+Fragilidade de intuições sobre a tipicidade do movimento. Dan Goldstein e eu
+realizamos uma série de experimentos sobre as intuições de agentes relativas a
+essas expectativas condicionais. Apresentamos perguntas do seguinte tipo: qual é
+a altura média de humanos com mais de 1,80 metro? Qual é o peso médio de
+pessoas com mais de 110 quilos? Experimentamos uma série de variáveis do
+Mediocristão, incluindo altura e peso como mencionado, às quais adicionamos
+idade, e pedimos aos participantes que ﬁzessem suposições sobre variáveis do
+Extremistão, como capitalização de mercado (qual é o tamanho médio das
+empresas com capitalização superior a 5 bilhões de dólares?) e desempenho de
+ações. Os resultados mostram que, claramente, temos boas intuições quando se
+trata do Mediocristão, mas intuições terrivelmente fracas quando se trata do
+Extremistão — embora a vida econômica seja quase todo o Extremistão. Não
+temos boa intuição para aquela atipicidade dos grandes desvios. Isso explica tanto
+
+a tola exposição a riscos quanto o modo como as pessoas podem subestimar
+oportunidades.
+Enquadrando os riscos. Declarações matematicamente equivalentes, conforme
+já demonstrei com meu exemplo das taxas de sobrevivência, não têm igual valor
+do ponto de vista psicológico. O pior é que até mesmo os proﬁssionais se
+enganam e baseiam suas decisões em erros de percepção. Nossa pesquisa mostra
+que o modo como um risco é enquadrado inﬂuencia fortemente a compreensão
+das pessoas a respeito dele. Se você disser que, em média, os investidores
+perderão todo o dinheiro deles a cada trinta anos, é mais provável que eles
+continuem propensos a investir do que se você lhes disser que eles têm 3,3% de
+chance de perder certa quantia por ano.
+O mesmo vale para viagens de avião. Perguntamos aos participantes do
+experimento: “Você está de férias em um país estrangeiro e está cogitando a
+possibilidade de pegar um voo de uma companhia aérea local para visitar uma
+bela ilha. As estatísticas de segurança mostram que, se você voar uma vez por
+ano, haverá em média uma queda de aeronave dessa companhia aérea a cada mil
+anos. Se você não ﬁzer a viagem, é improvável que volte a visitar essa parte do
+mundo. Você pegaria o voo?”. Todos os entrevistados disseram que sim. Mas
+quando mudamos a segunda frase para: “As estatísticas de segurança mostram
+que, em média, um em cada mil voos dessa companhia aérea terminaram em
+desastre”, apenas 70% disseram que pegariam o avião. Em ambos os casos, a
+chance de queda do avião é de 1 em 1000; a última formulação simplesmente
+parece mais arriscada.
+O PROBLEMA DA INDUÇÃO E CAUSAÇÃO NO DOMÍNIO COMPLEXO
+O que é complexidade? Simpliﬁcarei aqui com uma deﬁnição funcional de
+complexidade — entre muitas outras mais completas. Um domínio complexo é
+caracterizado pelo seguinte: existe um grande grau de interdependência entre
+seus elementos, sejam temporais (uma variável depende de suas mudanças
+pregressas), horizontais (as variáveis dependem umas das outras) ou diagonais (a
+variável ) depende do histórico da variável 4). Como resultado dessa
+interdependência, os mecanismos são submetidos a ciclos de feedback de reforço
+positivo, que causam “caudas gordas”. Ou seja, impedem o funcionamento do
+Teorema do Limite Central que, como vimos no capítulo 15, estabelece caudas
+magras do Mediocristão sob a soma e agregação de elementos e causa
+“convergência para a gaussiana”. Em termos leigos, os movimentos são
+
+exacerbados ao longo do tempo, em vez de serem refreados por forças de
+contrapeso. Por ﬁm, temos não linearidades que acentuam as caudas gordas.
+Portanto, a complexidade implica o Extremistão. (O contrário não é
+necessariamente verdadeiro.)
+Como pesquisador, concentrei-me apenas no elemento de teoria da
+complexidade do Extremistão, ignorando os outros elementos, exceto como
+suporte para as minhas considerações de imprevisibilidade. Mas a complexidade
+tem outras consequências para as análises convencionais, e para a causação.
+Indução
+Examinemos novamente, de um certo ângulo, o problema da “indução”. Ela se
+torna um passo além do arcaico em um ambiente moderno, agravando ainda mais
+o problema do Cisne Negro. Simpliﬁcando: em um domínio complexo, a
+discussão da indução versus dedução torna-se secundária demais para os
+problemas reais (exceto para um subconjunto limitado de variáveis, se muito);
+toda a distinção aristotélica deixa escapar uma dimensão importante (semelhante
+àquela discutida anteriormente acerca da atipicidade dos eventos no
+Extremistão). Até mesmo outras noções como “causa” assumem um signiﬁcado
+diferente, em especial na presença de causalidade e interdependência circulares.7
+O equivalente probabilístico é a mudança de um modelo de passeio aleatório
+convencional (com uma variável aleatória movendo-se em um terreno ﬁxo e não
+interagindo com outras variáveis ao seu redor), para modelos de percolação (em
+que o próprio terreno é estocástico, com diferentes variáveis agindo umas sobre
+as outras).
+Dirigindo o ônibus escolar de olhos vendados
+Infelizmente, no momento em que este texto está sendo escrito, o sistema
+econômico ainda desconhece a presença de complexidade, o que degrada a
+previsibilidade. Não me deixarei levar pela minha indignação — em vez de
+percorrer um segundo deserto, Mark Spitznagel e eu estamos projetando outro
+programa de gerenciamento de riscos para robustecer portfólios contra o erro de
+modelo, erro este que decorre principalmente do erro do governo na projeção de
+déﬁcits, que leva a empréstimos excessivos e possível hiperinﬂação.
+Certa vez, estive no Fórum Econômico Mundial em Davos; em uma das
+sessões de que participei, ilustrei a interdependência em um sistema complexo e
+a degradação das previsões com o seguinte esquema: o desemprego em Nova
+York desencadeado por perdas em Wall Street, impregnando-se e gerando
+
+desemprego, digamos, na China, e depois se inﬁltrando de volta no desemprego
+em Nova York, não é analisável em termos analíticos, porque os ciclos de
+feedback produziram erros de estimativa monstruosos. Usei a noção de
+“convexidade”, uma resposta não linear desproporcional originária de uma
+variação nos dados de entrada (enquanto as ferramentas para a medição das taxas
+de erro desaparecem completamente na presença de convexidade). Stanley
+Fisher, presidente do Banco Central de Israel, ex-ﬁgurão do G_, coautor de um
+livro clássico de macroeconomia, veio falar comigo após a sessão para criticar
+meu argumento sobre esses ciclos de feedback serem causadores de
+imprevisibilidade. Ele explicou que tínhamos matrizes de dados de entrada e de
+saída que eram boas para calcular esses feedbacks, e citou um trabalho laureado
+pelo “Nobel” de economia. O economista em questão era um certo Vassili
+Leontie, presumo. Eu o ﬁtei com um olhar do tipo “ele é arrogante, mas não
+tem conhecimento suﬁciente para entender que nem mesmo errado ele está”
+(desnecessário dizer, Fisher foi um dos que não anteviram a crise). Era difícil
+transmitir a mensagem de que, mesmo que os métodos econométricos pudessem
+rastrear os efeitos de ciclos de feedback em tempos normais (natural, uma vez
+que os erros são pequenos), esses modelos nada diziam sobre grandes distúrbios.
+E repito: grandes distúrbios são tudo no Extremistão.
+O problema é que, se eu estiver certo, o livro didático de Fisher, e os livros
+didáticos de seus colegas, devem ser jogados fora. Assim como deveriam ser
+abandonados quase todos os métodos de previsão que usam equações
+matemáticas.
+Tentei explicar os problemas de erros na política monetária sob não
+linearidades: você segue adicionando dinheiro sem consequências… até haver
+hiperinﬂação. Ou nada. Governos não deveriam receber brinquedos cujo
+funcionamento não entendem.
+

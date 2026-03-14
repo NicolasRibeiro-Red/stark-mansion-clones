@@ -1,0 +1,18 @@
+# Chapter 8. Queries, Modeling, and Transformation
+
+Paginas: 296-296
+
+CHAPTER 8
+Queries, Modeling, and Transformation
+Up to this point, the stages of the data engineering lifecycle have primarily been about
+passing data from one place to another or storing it. In this chapter, you’ll learn
+how to make data useful. By understanding queries, modeling, and transformations
+(see Figure 8-1), you’ll have the tools to turn raw data ingredients into something
+consumable by downstream stakeholders.
+Figure 8-1. Transformations allow us to create value from data
+We’ll first discuss queries and the significant patterns underlying them. Second, we
+will look at the major data modeling patterns you can use to introduce business logic
+into your data. Then, we’ll cover transformations, which take the logic of your data
+models and the results of queries and make them useful for more straightforward
+271
+

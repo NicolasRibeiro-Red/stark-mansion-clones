@@ -1,0 +1,43 @@
+# Data Mesh
+
+Paginas: 134-134
+
+24 Zhamak Dehghani, “Data Mesh Principles and Logical Architecture,” MartinFowler.com, December 3, 2020,
+https://oreil.ly/ezWE7.
+25 Zhamak Dehghani, “How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh,” Martin‐
+Fowler.com, May 20, 2019, https://oreil.ly/SqMe8.
+26 Zhamak Dehghani, “Data Mesh Principles and Logical Architecture.”
+Scratching the surface of the IoT
+IoT scenarios are incredibly complex, and IoT architecture and systems are also less
+familiar to data engineers who may have spent their careers working with business
+data. We hope that this introduction will encourage interested data engineers to learn
+more about this fascinating and rapidly evolving specialization.
+Data Mesh
+The data mesh is a recent response to sprawling monolithic data platforms, such as
+centralized data lakes and data warehouses, and “the great divide of data,” wherein the
+landscape is divided between operational data and analytical data.24 The data mesh
+attempts to invert the challenges of centralized data architecture, taking the concepts
+of domain-driven design (commonly used in software architectures) and applying
+them to data architecture. Because the data mesh has captured much recent attention,
+you should be aware of it.
+A big part of the data mesh is decentralization, as Zhamak Dehghani noted in her
+groundbreaking article on the topic:25
+In order to decentralize the monolithic data platform, we need to reverse how we think
+about data, its locality, and ownership. Instead of flowing the data from domains into
+a centrally owned data lake or platform, domains need to host and serve their domain
+datasets in an easily consumable way.
+Dehghani later identified four key components of the data mesh:26
+• Domain-oriented decentralized data ownership and architecture
+•
+• Data as a product
+•
+• Self-serve data infrastructure as a platform
+•
+• Federated computational governance
+•
+Figure 3-18 shows a simplified version of a data mesh architecture. You can learn
+more about data mesh in Dehghani’s book Data Mesh (O’Reilly).
+Examples and Types of Data Architecture
+|
+109
+

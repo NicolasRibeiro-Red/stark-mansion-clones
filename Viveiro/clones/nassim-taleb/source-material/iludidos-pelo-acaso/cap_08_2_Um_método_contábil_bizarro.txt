@@ -1,0 +1,675 @@
+# 2. Um método contábil bizarro
+
+Paginas: 45-63
+
+2. Um método contábil bizarro
+HISTÓRIA ALTERNATIVA
+Parto do lugar-comum de que não se pode julgar o desempenho em
+qualquer área (guerra, política, medicina, investimentos) por seus
+resultados, mas se deve fazê-lo pelos custos da alternativa (isto é, se a
+história tivesse se desenrolado de maneira diferente). Esses cursos de
+acontecimentos substitutos são chamados de histórias alternativas. É
+evidente que a qualidade de uma decisão não pode ser julgada apenas
+com base em seu resultado, mas esse ponto de vista parece ser emitido
+apenas por pessoas que fracassam (os que têm êxito atribuem seu
+sucesso à qualidade de sua decisão). Isso é o que os políticos deixando
+o cargo cam dizendo para os elementos da imprensa que ainda os
+ouvem, que eles seguiram o melhor caminho — apresentando a
+costumeira autocomiseração “sim, nós sabemos”, o que torna a
+ferroada mais dolorosa ainda. E, como muitos lugares-comuns
+ingênuos, esse aqui, embora por demais óbvio, não é fácil de levar
+para a prática.
+Roleta-russa
+Pode-se ilustrar o estranho conceito de histórias alternativas da
+seguinte maneira. Imagine um magnata excêntrico (e entediado)
+oferecendo 10 milhões de dólares para alguém jogar roleta-russa, isto
+é, encostar na cabeça um revólver com um único projétil nas seis
+câmaras disponíveis e puxar o gatilho. Cada “disparo” seria
+contabilizado como uma história, num total de seis possíveis, de igual
+probabilidade. Cinco das seis histórias levariam ao enriquecimento;
+uma levaria a uma estatística, isto é, a um obituário com uma causa de
+morte embaraçosa (mas certamente original). O problema é que
+apenas uma das histórias é observada na realidade; e o ganhador dos
+
+10 milhões conseguiria a admiração e o louvor de algum jornalista
+inepto (o mesmo que, incondicionalmente, admira os quinhentos
+bilionários da revista Forbes). Como quase todo executivo que
+encontrei durante minha carreira de quinze anos em Wall Street (a
+função desses executivos, na minha opinião, sendo nada mais do que
+avaliar os resultados extraídos de maneira aleatória), o público observa
+os sinais exteriores de riqueza sem dar uma olhada na fonte (que
+chamamos de gerador). Consideremos a possibilidade de que o
+ganhador da roleta-russa fosse usado como um modelo para família,
+amigos e vizinhos.
+Embora as cinco histórias restantes não sejam observáveis, a pessoa
+sábia e ponderada poderia facilmente fazer uma estimativa de seus
+atributos. É preciso certa ponderação e coragem. Além disso, com o
+tempo, se o idiota que aposta na roleta-russa continuar jogando, as
+histórias ruins acabarão vindo. Assim, se um sujeito de 25 anos zesse
+roleta-russa, digamos, uma vez por ano, haveria uma possibilidade
+muito tênue de sobreviver até os cinquenta — mas, com diversos
+jogadores, digamos, milhares de jovens com 25 anos, podemos esperar
+ver um pequeno grupo de sobreviventes extremamente ricos, além de
+um cemitério muito grande. Aqui tenho que admitir que o exemplo da
+roleta-russa é mais do que um divertimento apenas intelectual para
+mim. Perdi um camarada para esse tipo de “jogo” durante a guerra do
+Líbano, quando éramos adolescentes. Há mais: descobri que tinha
+além de um pequeno interesse na literatura graças ao efeito da
+descrição que Graham Greene faz do seu namoro com esse jogo;
+aquilo penetrou mais a fundo em mim do que os acontecimentos reais
+dos quais eu, recentemente, tinha sido testemunha ocular. Greene
+alegava que, certa vez, tentara dissipar o tédio da infância puxando o
+gatilho de um revólver — fazendo-me tremer ao pensar que eu tive
+pelo menos a probabilidade de um em seis de car sem seus
+romances.
+O leitor pode agora entender meu conceito inusitado de
+contabilidade alternativa: 10 milhões ganhos por meio da roleta-russa
+não têm o mesmo valor que 10 milhões ganhos por meio da laboriosa
+e difícil arte da odontologia. As duas quantias são iguais, podem
+comprar as mesmas coisas, exceto que a dependência de uma em
+
+relação ao acaso é maior. Para um contador, entretanto, elas seriam
+iguais. Para seu vizinho também. Contudo, lá no fundo, não posso
+deixar de considerá-las qualitativamente diferentes. A ideia dessa
+contabilidade alternativa tem consequências intelectuais interessantes
+e leva à formulação matemática, como veremos no próximo capítulo,
+com a apresentação que faremos da máquina Monte Carlo. Observe
+que esse uso da matemática é apenas ilustrativo, objetivando uma
+intuição do assunto, e não deve ser interpretado como uma questão de
+engenharia. Em outras palavras, não é necessário calcular, na
+realidade, as histórias alternativas como se avaliam seus atributos. A
+matemática não é somente um “jogo de números”, é um modo de
+pensar. Veremos que probabilidade é uma questão qualitativa.
+Mundos possíveis
+Note que essas ideias envolvendo histórias alternativas foram
+cobertas por disciplinas separadas na história intelectual, dignas de
+apresentar rapidamente porque todas parecem convergir no mesmo
+conceito de risco e incerteza (certeza é algo propenso a ocorrer no
+maior número de diferentes histórias alternativas; incerteza se refere a
+eventos que devem ocorrer no menor número delas).
+Na losoa, há consideráveis trabalhos sobre o assunto, começando
+com a ideia de Leibniz de mundos possíveis, entre os quais selecionou
+apenas um. Os não selecionados são mundos de possibilidades, e
+aquele no qual respiro e escrevo estas linhas é apenas um deles, que
+por acaso foi executado. Filósofos também têm um ramo da lógica que
+se especializa no assunto: se uma propriedade se sustenta em todos os
+mundos possíveis ou um único — com ramicações na losoa da
+linguagem chamada semântica dos mundos possíveis, com autores como
+Saul Kripke.
+Na física, existe a interpretação de muitos mundos na mecânica
+quântica (associada ao trabalho de Hugh Everett em 1957), a qual
+considera que o universo se ramica como uma árvore a todo
+momento; o que estamos vivendo agora é só um de muitos mundos.
+Levado a um nível mais extremo, sempre que inúmeras possibilidades
+viáveis existem, o mundo se divide em muitos mundos, um para cada
+possibilidade diferente — causando a proliferação de universos
+
+paralelos. Sou um trader ensaísta em um desses universos e poeira em
+outro.
+Finalmente,
+na
+economia:
+economistas
+estudaram
+(talvez
+involuntariamente) algumas das ideias de Leibniz com os “estados de
+natureza” possíveis de que Kenneth Arrow e Gerard Debreu foram
+pioneiros. Essa abordagem analítica do estudo da incerteza econômica
+é chamado de método do “espaço de estados” — e por acaso é o
+alicerce da teoria econômica e da matemática nanceira neoclássicas.
+Uma versão simplicada é chamada de “análise de cenários”, a série de
+“e se” usada, por exemplo, na previsão de vendas de um fertilizante em
+diferentes condições e demandas mundiais para o produto.
+Uma roleta ainda mais viciada
+A realidade é muito mais perversa do que a roleta-russa. Primeiro,
+ela dispara a bala fatal sem muita frequência, como um revólver que
+tivesse centenas, até mesmo milhares de câmaras, em vez de seis.
+Depois de umas poucas dezenas de tentativas, a pessoa esquece a
+existência de uma bala, sob um falso e entorpecedor senso de
+segurança. Essa tese é retomada no capítulo 7, quando abordo o
+problema do cisne negro, que está ligado ao problema da indução, o
+qual tem mantido alguns lósofos da ciência acordados durante a
+noite. A ideia também se relaciona ao problema da difamação da
+história, em que jogadores, investidores e pessoas que têm de tomar
+decisões acham que aquilo que acontece com outros não vai
+necessariamente acontecer com eles.
+Segundo, diferente de um jogo preciso, bem denido, como roleta-
+russa, onde os riscos são visíveis para qualquer um capaz de
+multiplicar e dividir por seis, não se consegue observar o cano do
+revólver da realidade. Raras vezes o gerador é visto a olho nu. Assim, é
+possível que estejamos, inadvertidamente, jogando roleta-russa — e
+chamando-a por algum nome alternativo, como “baixo risco”. Vemos a
+riqueza sendo gerada, nunca o processador dela, uma questão que faz
+com que as pessoas não enxerguem os riscos e nunca vejam os
+perdedores. O jogo parece incrivelmente fácil, e entramos nele
+alegres.
+
+Por último, há um fator de ingratidão em alertar as pessoas quanto a
+algo abstrato (por denição, qualquer coisa que não aconteceu é
+abstrato). Digamos que você se envolva no negócio de proteger
+investidores de eventos raros ao construir um pacote que os ampare
+contra suas ferroadas (algo que já z). Digamos que nada aconteça
+durante um período. Alguns investidores vão reclamar por estar
+gastando o dinheiro deles; alguns vão até tentar fazer com que se
+arrependa: “Você gastou meu dinheiro em seguro no ano passado; a
+fábrica não queimou, então foi um gasto idiota. Você só devia fazer
+seguros contra eventos que acontecem”. Um investidor veio me ver
+convencido de que eu ia me desculpar (o que não aconteceu). Mas o
+mundo não é homogêneo. Há pessoas (ainda que poucas) que ligam
+para expressar sua gratidão por tê-las protegido de eventos que não
+ocorreram.
+BOAS RELAÇÕES COM OS PARES
+O grau de resistência ao acaso na vida é uma ideia abstrata, sendo
+parte de sua lógica algo que vai contra a intuição; para confundir ainda
+mais a questão, suas realizações são não observáveis. Mas tenho me
+dedicado cada vez mais ao assunto — por um conjunto de razões
+pessoais que deixarei para mais tarde. É claro que meu modo de julgar
+os assuntos é probabilístico, em sua natureza; depende da ideia do que
+provavelmente teria acontecido e exige certa atitude mental no que diz
+respeito às observações que fazemos. Não recomendo entrar numa
+discussão com um contador sobre essas considerações probabilísticas.
+Para um contador, um número é um número. Se estivesse interessado
+em probabilidade, ele teria abraçado outras prossões mais
+introspectivas — e seria propenso a cometer um erro na sua
+declaração de imposto de renda, o que poderia custar caro a você.
+Embora não vejamos o cano do revólver na roleta-russa da
+realidade, algumas pessoas tentam fazê-lo; é preciso uma estrutura
+mental especial para isso. Tendo visto centenas de pessoas entrarem e
+saírem da minha prossão (caracterizada por uma extrema
+dependência do acaso), preciso dizer que tende a ir mais longe quem
+tem um pouco de conhecimento cientíco. Para muitos, pensar assim
+
+é uma segunda natureza. Isso pode não vir do treinamento cientíco
+per se (cuidado com a causalidade), mas do fato de que as pessoas que
+decidiram, em certo ponto da vida, se devotar à pesquisa cientíca
+tendem a possuir uma curiosidade intelectual entranhada e uma
+inclinação natural para esse tipo de introspecção. Particularmente
+ponderados são aqueles que tiveram que abandonar os estudos
+cientícos devido à sua incapacidade de se manter focados em um
+problema rigidamente denido. Sem uma curiosidade intelectual
+grande é quase impossível completar uma tese de doutorado hoje, mas
+sem o desejo de se especializar num campo restrito do conhecimento
+é impossível fazer carreira cientíca. (Há uma distinção, entretanto,
+entre a mente de um matemático puro desenvolvendo-se nas áreas
+abstratas e a de um cientista consumido pela curiosidade. Um
+matemático ca absorvido pelo que lhe passa pela cabeça, enquanto
+um cientista pesquisa o que está fora dele mesmo.) Entretanto, a
+preocupação de algumas pessoas pelo acaso pode ser excessiva; tenho
+visto gente preparada em outras áreas, como, digamos, mecânica
+quântica, levar a ideia para o outro extremo, vendo apenas histórias
+alternativas e ignorando aquela que realmente ocorreu.
+Alguns traders até podem ser introspectivos acerca do acaso.
+Recentemente, jantei no bar do Odeon com Lauren R., um trader que
+estava lendo um rascunho deste livro. Jogamos uma moeda para o alto
+para ver quem pagava o jantar. Eu perdi e paguei. Ele estava quase me
+agradecendo quando subitamente parou e disse: “Lendo seu livro, eu
+diria que paguei por metade do jantar, sob o ponto de vista
+probabilístico”.
+Assim, vejo as pessoas distribuídas em duas categorias opostas: num
+extremo, aquelas que nunca aceitam a ideia de acaso; do outro, aquelas
+que são torturadas por essa ideia. Quando comecei em Wall Street, na
+década de 1980, as salas de traders eram cheias de gente com
+“orientação para negócios”, isto é, em geral privadas de qualquer
+capacidade de introspecção, extremamente rasas e com boa
+probabilidade de ser enganadas pelo acaso. A taxa de fracassos entre
+esse pessoal era extremamente alta, em particular quando os
+instrumentos nanceiros ganharam complexidade. De alguma forma,
+foram introduzidos no mercado produtos enganosos, como opções
+
+exóticas, dando resultados contraintuitivos, e lidar com eles era difícil
+demais para pessoas com certo tipo de cultura. Elas caíram fora aos
+montes; não acho que muitas das centenas de pessoas da minha
+geração com MBA que encontrei em Wall Street nos anos 1980 ainda
+estejam assumindo riscos dessa forma, de maneira prossional e
+disciplinada.
+Salvação via Aero ot
+Os anos 1990 testemunharam a chegada de gente com
+antecedentes mais variados e interessantes, o que tornou as salas de
+trading muito mais divertidas e me salvou das conversas do pessoal
+com MBA. Muitos cientistas, alguns dos quais bem-sucedidos em sua
+área, chegaram com o desejo de arrebentar a boca do balão. Esses
+cientistas, por sua vez, contrataram pessoas que se pareciam com eles.
+Embora a maioria não fosse ph.D. (na realidade, os ph.D. ainda são
+minoria), a cultura e os valores mudaram subitamente, e aumentou a
+tolerância com a profundidade intelectual. Isso causou um aumento na
+já alta demanda de cientistas em Wall Street, devido ao rápido
+desenvolvimento de ferramentas nanceiras. A especialidade
+dominante era a física, mas podia se encontrar todo tipo de
+antecedentes quantitativos entre eles. Os sotaques russo, francês,
+chinês e indiano (nessa ordem) começaram a dominar, tanto em Nova
+York quanto em Londres. Dizia-se que todo avião vindo de Moscou
+tinha pelo menos sua última leira de poltronas ocupadas por físicos
+matemáticos a caminho de Wall Street (eles não tinham a esperteza
+necessária para conseguir bons lugares). Podia-se contratar mão de
+obra barata indo ao aeroporto JFK com um tradutor (obrigatório) e
+entrevistando aleatoriamente aqueles que se adequassem ao
+estereótipo. Na verdade, no nal da década de 1990, era possível ser
+treinado por um cientista de nível mundial por quase a metade do
+preço de um MBA. Como dizem, marketing é tudo; esses caras não
+sabem se vender.
+Eu tinha uma forte inclinação a favor dos cientistas russos; muitos
+podiam ser bem utilizados como técnicos de xadrez (também consegui
+um professor de piano assim). Além do mais, são extremamente úteis
+
+no processo de entrevista. Quando as pessoas com MBA se candidatam
+para a função de trader, frequentemente se vangloriam no currículo de
+jogar xadrez em nível “avançado”. Lembro-me de um orientador de
+MBA em Wharton recomendando que anunciássemos nosso
+conhecimento do xadrez “porque soa inteligente e estratégico”. Quem
+tem MBA, tipicamente, pode interpretar o próprio conhecimento
+supercial das regras como sendo “conhecimento profundo do jogo”.
+Costumávamos vericar a veracidade das alegações sobre esse
+“conhecimento profundo do xadrez” (e o caráter do candidato)
+tirando um tabuleiro de uma gaveta e dizendo ao estudante, que na
+hora cava pálido: “Yuri vai ter uma palavrinha com você”.
+A proporção de fracassados entre esses cientistas, entretanto, era
+menor, mas apenas ligeiramente, do que entre as pessoas com MBA;
+mas a razão era outra, ligada ao fato de serem, na média (mas somente
+na média), desprovidos da menor partícula de inteligência prática.
+Alguns cientistas bem-sucedidos tinham a capacidade de julgamento
+(e a educação social) de uma maçaneta — mas isso não acontecia com
+todos eles. Muita gente era capaz dos cálculos mais complexos, com
+grande rigor, quando se tratava de equações, embora fosse totalmente
+incapaz de resolver um problema com a mínima conexão com a
+realidade; era como se entendesse a letra, mas não o espírito da
+matemática. Estou convencido de que X, um russo agradável, meu
+conhecido, tinha dois cérebros: um para a matemática e outro,
+consideravelmente inferior, para tudo o mais (o que incluía resolver
+problemas relacionados com matemática nanceira). Mas, de vez em
+quando, surgia uma pessoa com mente cientíca, pensamento rápido e
+jeito para os problemas práticos. Sempre que os dons dessa população
+mudavam, melhorava nosso conhecimento do xadrez e nos permitia
+uma conversa de qualidade na hora do almoço, prolongando
+consideravelmente essa hora. Pense que, na década de 1980, eu tinha
+que conversar com colegas que possuíam MBA ou formação em
+contabilidade scal, capazes do heroico feito de discutir os padrões da
+FASB. É necessário dizer que seus interesses não eram muito
+contagiosos. O interessante sobre esses físicos não está na sua
+capacidade de discutir a dinâmica dos  uidos; é que eles são
+
+naturalmente interessados em uma variedade de assuntos intelectuais,
+o que permite uma conversa agradável.
+Sólon vai ao Regine’s
+Como o leitor talvez já tenha suspeitado, minhas opiniões sobre o
+acaso não me granjearam relações amistosas com alguns de meus pares
+durante minha carreira em Wall Street (muitos dos quais poderão ser
+indiretamente — mas apenas indiretamente — retratados nestes
+capítulos). Mas minhas relações realmente acidentadas foram com
+alguns dos que tiveram a pouca sorte de ser meus chefes. Tive na vida
+dois chefes de características contrastantes em cada aspecto de sua
+personalidade.
+O primeiro, a quem chamarei de Kenny, era a epítome do homem
+de família e morador de subúrbio elegante. Ele era do tipo que podia
+ser treinador de futebol nas manhãs de sábado e convidar o cunhado
+para um churrasco na tarde de domingo. Tinha a aparência de alguém
+a quem eu conaria minhas economias — na verdade, ele subiu muito
+depressa na instituição, a despeito da sua falta de competência técnica
+em derivativos nanceiros (que era o estandarte da fama da rma).
+Contudo, era uma pessoa direta demais para entender minha lógica.
+Certa vez me censurou por não ter cado impressionado com o
+sucesso de alguns de seus traders, que se saíram bem durante a
+histeria de compra de títulos europeus em 1993, e que eu
+abertamente julguei serem nada melhor do que pistoleiros do acaso.
+Tentei mostrar-lhe o conceito do viés do sobrevivente (Parte II deste
+livro), mas foi em vão. Seus traders foram todos alijados do negócio,
+“em busca de outros interesses” (inclusive ele). Kenny dava a
+impressão de ser um homem calmo, comedido, que falava o que
+pensava e sabia como deixar uma pessoa à vontade durante uma
+conversa. Falava bem, tinha boa aparência graças a seu porte atlético,
+media as palavras e havia sido agraciado com a qualidade
+extremamente rara de ser um excelente ouvinte. Seu encanto pessoal
+permitiu-lhe conquistar a conança do presidente — mas eu não podia
+esconder minha falta de respeito por ele, principalmente pelo fato de
+ele não compreender a natureza da minha conversa. A despeito de
+
+seus ares conservadores, ele era uma perfeita bomba-relógio, tique-
+taque, tique-taque…
+O segundo, a quem chamarei de Jean-Patrice, em contraste, era um
+francês mal-humorado, com um temperamento explosivo e uma
+personalidade hiperagressiva. Exceto com aqueles de quem realmente
+gostava (não muitos), tinha fama de deixar seus subordinados
+desconfortáveis, colocando-os num estado de ansiedade constante.
+Jean-Patrice contribuiu grandemente para minha formação como
+tomador de riscos; é uma dessas raras pessoas que têm a coragem de
+só se preocupar com o gerador, inteiramente desatento aos resultados.
+Aparentava a sabedoria de Sólon, mas, enquanto se podia esperar que
+alguém com tal sabedoria e tal compreensão do acaso levasse uma vida
+entediante, a dele era cheia de colorido. Ao contrário de Kenny, que
+usava ternos escuros conservadores e camisas brancas (sua única
+concessão eram vistosas gravatas Hermès), Jean-Patrice vestia-se como
+um pavão: camisas azuis, blazers xadrez repletos de bolsos de seda.
+Longe de ser um homem preocupado com a família, ele raramente
+chegava ao trabalho antes do meio-dia — embora eu possa dizer com
+segurança que levava trabalho consigo para os lugares mais
+improváveis. Frequentemente me convidava para o Regine’s, uma casa
+noturna de classe alta em Nova York, acordando-me às três da manhã
+para discutir pequenos (e irrelevantes) detalhes da minha exposição ao
+risco. A despeito de seu porte franzino, as mulheres pareciam achá-lo
+irresistível; muitas vezes desaparecia ao meio-dia, e ninguém o via
+durante horas. Sua vantagem talvez fosse de ser um francês em Nova
+York com o hábito de banhos frequentes. Há pouco tempo, ele me
+convidou para discutir uma questão urgente. De modo característico,
+eu o encontrei no meio da tarde em um estranho “clube” em Paris,
+que não tinha letreiro na porta. Ele estava sentado a uma mesa com
+documentos espalhados à frente. Bebericando champanhe, recebia
+carinhos
+simultâneos
+de
+duas
+jovens
+em
+trajes
+sumários.
+Estranhamente, ele as envolveu na conversa como se zessem parte da
+reunião. Chegou até mesmo a fazer com que uma delas casse
+atendendo seu celular, que tocava o tempo todo, pois não queria que
+nossa conversa fosse interrompida.
+
+Ainda me surpreendo com a obsessão bombástica que esse homem
+tinha por riscos, coisa que constantemente o preocupava — ele
+literalmente pensava em tudo o que podia acontecer. Forçou-me a
+fazer um plano alternativo para a eventualidade de um avião bater no
+edifício do escritório (muito antes dos eventos do Onze de Setembro)
+— e cou possesso com minha resposta de que a condição nanceira
+do departamento dele seria de pouco interesse para mim, se aquilo
+acontecesse. Tinha uma reputação terrível de namorador e de chefe
+temperamental, capaz de despedir alguém num assomo de raiva;
+contudo, me ouvia e compreendia cada palavra que eu tinha a dizer,
+encorajando-me a ir adiante, sempre mais adiante, no estudo do acaso.
+Ensinou-me a procurar os riscos invisíveis de explosão em qualquer
+portfólio de investimentos. Não por coincidência, tinha um imenso
+respeito pela ciência e uma deferência quase carinhosa por cientistas;
+mais ou menos uma década depois da época em que trabalhamos
+juntos, ele apareceu inesperadamente quando eu ia defender minha
+tese de doutorado, sorrindo do fundo da sala. Enquanto Kenny sabia
+como subir na escala hierárquica de uma instituição, atingindo um alto
+nível na organização antes de sair, Jean-Patrice não teve uma carreira
+tão feliz, o que me ensinou a tomar cuidado com as instituições
+nanceiras bem estabelecidas.
+Muita gente de estilo próprio, orientada pela losoa de resultado,
+não gosta de ser questionada sobre as histórias que não aconteceram.
+É claro, para uma pessoa pé no chão, da variedade “bem-sucedida nos
+negócios”, minha linguagem e, tenho que reconhecer, alguns traços de
+minha personalidade parecem estranhos e incompreensíveis; me
+diverte saber que esse argumento parece ofensivo a muitos.
+O contraste entre Kenny e Jean-Patrice não é mera coincidência em
+uma carreira longa. Cuidado com o perdulário “conhecedor do
+negócio”; o cemitério dos mercados é desproporcionalmente bem
+provido de gente de estilo próprio, com losoa de resultado. Em
+contraste com sua atitude costumeira, de Mestres do Universo, essas
+pessoas subitamente cam pálidas e humildes, e lhes faltam
+hormônios quando se dirigem ao Departamento de Recursos
+Humanos para discutir acordos de demissão.
+
+GEORGE WILL NÃO É NENHUM SÓLON: SOBRE VERDADES
+CONTRAINTUITIVAS
+O realismo pode ser devastador. O ceticismo probabilístico é pior.
+É difícil levar a vida usando óculos probabilísticos, pois começa-se a
+ver joguetes do acaso por toda parte, numa variedade de situações —
+obstinados em sua ilusão perceptiva. Para começar, é impossível ler a
+análise de um historiador sem questionar as inferências: sabemos que
+Aníbal e Hitler eram pessoas alucinadas em busca de seus objetivos,
+assim como sabemos que Roma, hoje, não fala fenício, e que a Times
+Square, em Nova York, não ostenta suásticas. Mas o que dizer de
+todos aqueles generais que também foram idiotas, porém terminaram
+vencendo a guerra e, consequentemente, ganhando a estima do
+cronista da história? É difícil pensar em Alexandre, o Grande, ou em
+Júlio César apenas como homens que venceram na história visível, mas
+que teriam sofrido derrotas em outras. Se ouvimos falar deles, isso
+acontece simplesmente porque assumiram riscos consideráveis, com
+milhares de outros, e conseguiram vencer. Eram inteligentes,
+corajosos, nobres (às vezes), tinham o mais alto grau de cultura que se
+podia obter em seus dias — mas isso também ocorreu com milhares de
+outros que vivem nos rodapés empoeirados da história. Não estou, de
+novo, contestando o fato de que eles venceram suas guerras —
+contesto apenas a pretensa qualidade de suas estratégias. (Minha
+primeira impressão sobre uma recente releitura da Ilíada, a primeira
+na minha vida adulta, é de que o poeta épico não julgou seus heróis
+pelo resultado: eles venceram e perderam as batalhas de uma maneira
+totalmente independente de seu próprio valor; seu destino dependeu
+de forças totalmente externas, em geral pela ação explícita de deuses
+ardilosos — não isentos de nepotismo. Heróis são heróis porque são
+heroicos no comportamento, não porque ganharam ou perderam.
+Pátroclo não nos impressiona como herói devido a seus feitos — ele
+foi logo morto —, mas porque preferiu morrer a ver Aquiles
+mergulhado na inação. É claro que os poetas épicos compreendiam as
+histórias invisíveis. Também mais tarde pensadores e poetas tiveram
+modos mais sosticados de lidar com o acaso, como veremos em
+relação ao estoicismo.)
+
+O contato com a mídia, principalmente porque não estou
+acostumado a ele, às vezes me faz saltar da cadeira e me emocionar
+diante de uma imagem (fui criado sem televisão, e já estava quase
+chegando aos trinta quando aprendi a mexer num aparelho). Uma
+ilustração da perigosa recusa de considerar histórias alternativas nos é
+dada pela entrevista que George Will, um “comentarista” da mídia que
+fala sobre todo tipo de coisa, fez com o professor Robert Shiller, um
+homem famoso por seu livro, um best-seller chamado Exuberância
+irracional, mas conhecido por suas notáveis ideias sobre o acaso e a
+volatilidade na estrutura dos mercados de capitais (expressos com a
+precisão da matemática).
+A entrevista pode ser tomada como um exemplo do aspecto
+destrutivo da mídia, pois reforça nosso senso comum, fortemente
+deformado, e nossas inclinações. Disseram-me que George Will era
+muito famoso e respeitado (para um jornalista). É possível, até, que
+seja uma pessoa de grande integridade intelectual; sua prossão, no
+entanto, resume-se a parecer desenvolto e inteligente diante da turba.
+Shiller, por outro lado, conhece todas as particularidades do acaso; ele
+sabe lidar com uma argumentação rigorosa, mas parece menos
+inteligente em público porque o assunto de sua especialidade é
+altamente contraintuitivo. Ele vinha proclamando que as ações
+estavam supervalorizadas havia bastante tempo. George Will lembrou
+a Shiller que, se as pessoas o tivessem ouvido no passado, teriam
+perdido dinheiro, pois o mercado havia mais do que dobrado desde
+que Shiller começara a fazer seu discurso sobre o preço excessivo das
+ações. Frente a um argumento assim, jornalístico e bem fundamentado
+(mas disparatado), Shiller não conseguiu responder, exceto para
+explicar que não se devia dar indevida importância a um erro seu com
+relação a uma única rodada do mercado. Como cientista, Shiller não
+proclamava ser um profeta ou comentador dos mercados no noticiário
+da noite. Yogi Berra teria se saído melhor com sua frase sobre a
+senhora gorda que ainda precisava cantar.
+Não entendi o que Shiller, pouco habituado a comprimir suas ideias
+em rajadas de palavras vazias, estava fazendo naquele programa de TV.
+Obviamente, é idiotice pensar que um mercado irracional pode se
+
+tornar ainda mais irracional; as opiniões de Shiller sobre a
+racionalidade do mercado não cam invalidadas pelo argumento de
+que, no passado, ele errou. Nesse particular, não posso evitar ver na
+pessoa de George Will o representante de tantos pesadelos da minha
+carreira: minha tentativa de evitar que alguém jogasse roleta-russa por
+10 milhões de dólares e o jornalista George Will me humilhando em
+público, dizendo que, se a pessoa tivesse me dado ouvidos, teria
+perdido uma considerável fortuna. Além disso, o comentário de Will
+não foi algo que ele tirou da manga; ele escreveu um artigo sobre o
+assunto discutindo a “profecia” equivocada de Shiller. Essa tendência
+a fazer e desfazer profetas com base na roleta é sintomática da nossa
+inaptidão genética, prevalente no mundo moderno, para lidar com a
+complexa estrutura do acaso. Misturar previsões e profecias é
+sintomático dos joguetes do acaso (a profecia pertence à coluna da
+direita, previsão é seu mero equivalente na coluna da esquerda).
+Humilhado nos debates
+É claro que essa ideia de histórias alternativas não apela ao senso
+intuitivo, que é onde começa a diversão. Para começar, não somos
+feitos de modo a compreender a probabilidade, um ponto que
+examinarei em todo o meu livro. Direi somente, a essa altura, que os
+pesquisadores do cérebro acreditam que as verdades matemáticas
+fazem pouco sentido para nossa mente, em particular quando se trata
+do exame de resultados aleatórios. A maioria dos resultados em
+probabilidades é inteiramente contraintuitiva, e veremos muitos deles.
+Então, por que discutir com um mero jornalista que é pago para
+brincar com a sabedoria convencional da multidão? Toda vez que fui
+humilhado numa discussão pública sobre mercados por alguém (tipo
+George Will) que parecia ter argumentos mais digeríveis, eu estava
+com a razão. Não ponho em dúvida que os argumentos devem ser
+simplicados ao máximo; mas as pessoas muitas vezes confundem
+ideias complexas, que não podem ser simplicadas numa elocução
+simpática à mídia, com uma mente confusa. As pessoas que fazem
+MBA aprendem o conceito de clareza e simplicidade, a receita de
+gerente em cinco minutos. O conceito pode se aplicar ao plano de
+
+negócios de uma fábrica de fertilizantes, mas não a argumentos
+altamente probabilísticos — e é por isso que tenho provas “históricas”
+no meu ramo de negócio de que aqueles que zeram MBA tendem a se
+dar mal nos mercados nanceiros, pois são treinados a simplicar as
+coisas em uns poucos passos além do que é exigido (peço que o leitor
+que tenha MBA não que ofendido; eu mesmo sou um infeliz detentor
+desse diploma).
+Um tipo diferente de terremoto
+Faça a seguinte experiência. Vá a um aeroporto e pergunte a quem
+está viajando para determinado destino remoto quanto pagariam por
+uma apólice de seguros da ordem de, por exemplo, 1 milhão de tugrits
+(a moeda da Mongólia) em caso de morte durante a viagem (por
+qualquer motivo). Então pergunte a outro grupo de viajantes quanto
+eles desembolsariam por um seguro que pagaria o mesmo em caso de
+morte devido a um ato terrorista (e só nesse caso). Em que caso você
+acha que as pessoas pagariam mais? A probabilidade é de que paguem
+mais pelo segundo tipo de seguro (ainda que o primeiro também
+inclua morte em consequência de terrorismo). Os psicólogos Daniel
+Kahneman e Amos Tversky concluíram isso há décadas. A ironia é que
+uma das populações de amostra não era constituída por pessoas
+passando na rua, mas por prossionais que trabalhavam com previsão
+do tempo participando do encontro anual de determinada associação.
+Em uma experiência agora famosa, Kahneman e Tversky descobriram
+que a maioria das pessoas, trabalhem com previsão do tempo ou não,
+acredita que uma enchente fatal (que leva a milhares de mortes),
+causada por um terremoto na Califórnia, é mais provável que uma
+enchente fatal (que leva a milhares de mortes) que ocorre em algum
+lugar da América do Norte (que por acaso inclui a Califórnia). Como
+um trader de derivativos, percebi que as pessoas não gostam de fazer
+seguros contra coisas abstratas; o risco que recebe sua atenção é
+sempre algo vívido.
+Isso nos leva a uma dimensão mais perigosa do jornalismo.
+Acabamos de ver como o cienticamente desprezível George Will e
+seus colegas distorcem argumentos para parecerem certos sem
+
+estarem certos de fato. Mas há um impacto mais geral exercido por
+aqueles que transmitem informações ao representar o mundo sob
+determinado viés. É fato que nosso cérebro tende a buscar pistas
+superciais quando se trata de risco e probabilidade, e essas pistas são
+amplamente determinadas pelas emoções que despertam ou a
+naturalidade com que vêm à mente. Além de tais problemas com a
+percepção de risco, também é um fato cientíco, e muito chocante,
+que tanto a detecção quanto a prevenção de riscos não são
+processadas na parte do cérebro que “pensa”, e sim principalmente na
+responsável pelas emoções (o que comprova a teoria do risco como
+sensação). As consequências não são triviais: signica que o
+pensamento racional tem muito, muito pouco a ver com a prevenção
+de ricos. Muito do que o pensamento racional parece fazer é
+racionalizar as ações de uma pessoa encaixando-as em alguma lógica.
+Nesse sentido, mais que apenas uma representação irrealista do
+mundo, a descrição jornalística é aquela com mais propensão a
+enganá-lo despertando sua atenção através de um aparato emocional
+— a sensação mais fácil de se atingir. Peguemos a “ameaça” da vaca
+louca como exemplo: ela cou mais de uma década nas manchetes,
+mas as mortes registradas caram na casa das centenas (nas
+estimativas mais altas), muito menos que as causadas por acidentes de
+carro (na casa das inúmeras centenas de milhares!). Só que a descrição
+jornalística das mortes por acidentes de carro não daria tantos frutos
+comercialmente. (Note que o risco de morrer por intoxicação
+alimentar ou em um acidente de carro a caminho do restaurante é
+maior que o de morrer da doença da vaca louca.) O sensacionalismo
+pode direcionar empatia a causas erradas, e o câncer e a desnutrição
+são as que mais sofrem por essa falta de atenção. A desnutrição na
+África e no Sudeste da Ásia já não causa impacto emocional — então
+foram deixadas de lado. O mapa probabilístico na mente de cada um é
+tão voltado para o sensacional que seria possível obter ganhos
+informativos deixando-se de assistir ao noticiário. Outro exemplo
+envolve a volatilidade dos mercados. Na mente das pessoas, preços
+mais baixos são muito mais “voláteis” que mudanças acentuadas para
+cima. Além disso, a volatilidade parece ser determinada não pelas
+mudanças em si, mas pelo tom da mídia. Os movimentos do mercado
+
+nos dezoito meses depois do Onze de Setembro foram muito
+menores do que aqueles dos dezoito meses anteriores — mas, de
+alguma forma, na mente dos investidores eles foram muito mais
+voláteis. As discussões na mídia sobre a “ameaça terrorista” ampliaram
+o efeito dos movimentos do mercado na cabeça das pessoas. Esse é
+um dos muitos motivos pelos quais o jornalismo talvez seja a maior
+praga que enfrentamos hoje — enquanto o mundo ca cada vez mais
+complicado, nossa mente é treinada para cada vez mais simplicação.
+Provérbios em abundância
+Cuidado com a confusão entre correção e inteligibilidade. Parte da
+sabedoria convencional favorece coisas que podem ser explicadas
+quase instantaneamente, com pouquíssimas palavras — em muitos
+círculos isso é considerado lei. Tendo frequentado uma escola de
+primeiro grau francesa, um lycée primaire, me habituei a repetir o
+provérbio popular: “Ce qui se conçoit bien s’énonce clairement et les
+mots pour le dire viennent aisément”. Ou seja: o que é fácil de conceber
+é claro de expressar, e as palavras para dizê-lo vêm sem esforço.
+O leitor pode imaginar minha decepção quando percebi, enquanto
+me desenvolvia como prossional do acaso, que os provérbios que
+soam mais poéticos são totalmente errados. A sabedoria emprestada
+pode ser maldosa. Preciso fazer um esforço enorme para não ser
+cooptado por observações bem sonantes. Lembro-me do comentário
+de Einstein, de que o senso comum não é nada mais do que um
+conjunto de equívocos adquiridos aos dezoito anos. Mais que isso: o
+que soa inteligente em uma conversa, numa reunião e particularmente na
+mídia é suspeito.
+Qualquer leitura da história da ciência mostraria que quase todas as
+coisas inteligentes que foram provadas por ela pareceram como se
+fossem de lunático na época em que foram descobertas. Tente explicar
+a um jornalista do London Times, em 1905, que o tempo se desenrola
+mais devagar quando se viaja (o próprio comitê do Nobel nunca
+concedeu a Einstein um prêmio por seu trabalho sobre a relatividade
+especial). Ou tente explicar a alguém que não conheça física que há
+lugares no universo onde o tempo não existe. Tente explicar a Kenny
+que, embora seu melhor trader ganhe bastante dinheiro para ele,
+
+tenho argumentos sucientes para convencê-lo de que o homem é um
+idiota perigoso.
+Gerentes de riscos
+As grandes empresas e instituições nanceiras criaram há pouco o
+estranho cargo de gerente de riscos, alguém que se espera que
+acompanhe a instituição e verique se ela não está muito envolvida no
+negócio da roleta-russa. É óbvio que, tendo se queimado algumas
+vezes, a ideia é de que deve haver alguém que tome conta do gerador,
+a roleta que produz lucros e perdas. Embora seja mais divertido ser
+trader do que gerente de riscos, muitos amigos meus, gente bastante
+inteligente (inclusive Jean-Patrice), se sentiram atraídos pelo cargo. É
+fato importante, e algo muito atraente, que o gerente de riscos médio
+ganha mais que o trader médio (particularmente quando levamos em
+conta o número de traders que saem do ramo). Mas a função parece
+estranha devido à seguinte razão: como dissemos, o gerador da
+realidade não é observável. Esses gerentes têm poder limitado quando
+se trata de impedir que traders lucrativos continuem a assumir riscos,
+pois seriam — ex post — acusados pelos George Wills de plantão de
+subtrair ao acionista um precioso dinheiro devido às oportunidades
+perdidas. Contudo, caso houvesse uma explosão, os gerentes seriam
+responsabilizados pelo fato. O que fazer em tais circunstâncias?
+O melhor caminho é fazer política, cobrindo a retaguarda com a
+emissão de memorandos vagos que previnam mas não condenem
+completamente atividades em que se assumem riscos, sob o risco de
+perda do emprego. Como um médico dividido entre dois tipos de
+erros, o falso positivo (dizer ao paciente que ele tem câncer quando
+não tem) e o falso negativo (dizer ao paciente que ele está sadio
+quando ele tem câncer), os gerentes de riscos precisam encontrar o
+equilíbrio com a abertura inerente para certa margem de erro na sua
+função.
+Epifenômeno
+Do ponto de vista da instituição, a existência de um gerente de
+riscos tem menos a ver com redução de risco de fato do que com a
+impressão de redução de risco. Filósofos desde Hume e psicólogos
+
+modernos têm estudado o conceito de epifenomenalismo, ou seja,
+quando alguém tem uma ilusão de causa e efeito. A bússola move o
+barco? “Observando” os riscos, você os reduz efetivamente ou só tem
+a sensação de que está fazendo seu trabalho? Você é mais um diretor
+executivo ou apenas um observador da imprensa? A ilusão do controle
+é nociva?
+Concluo este capítulo com a apresentação do paradoxo central da
+minha carreira centrada no acaso nanceiro. Por denição, vou contra
+a natureza, de modo que não deve surpreender que meu estilo e meus
+métodos não sejam nem populares nem fáceis de entender. Contudo,
+gerencio dinheiro para outras pessoas, e o mundo não é povoado
+apenas de jornalistas tagarelas que não ligam para as consequências
+porque não têm dinheiro para investir. De modo que meu desejo é
+que os investidores em geral continuem sendo joguetes do acaso (para
+que eu possa “apostar” contra eles), mas que sempre haja uma minoria
+inteligente o bastante para dar valor a meus métodos e a me suprir de
+capital. Tive sorte em encontrar Donald Sussman, que corresponde ao
+investidor ideal desse tipo; ele me ajudou na segunda fase da minha
+carreira, me libertando, assim, dos males do emprego xo. Meu maior
+risco é ter sucesso, pois isso signicaria que meu negócio está a ponto
+de desaparecer; estranho ramo de negócio o nosso.
+

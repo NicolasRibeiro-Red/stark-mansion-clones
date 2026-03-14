@@ -1,0 +1,184 @@
+{
+  "titulo": "Ogilvy on Advertising",
+  "autor": "David Ogilvy",
+  "total_paginas": 484,
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "Title Page",
+      "paginas": "3-3",
+      "arquivo": "cap_01_Title_Page.txt"
+    },
+    {
+      "numero": 2,
+      "titulo": "Copyright",
+      "paginas": "4-4",
+      "arquivo": "cap_02_Copyright.txt"
+    },
+    {
+      "numero": 3,
+      "titulo": "Contents",
+      "paginas": "5-6",
+      "arquivo": "cap_03_Contents.txt"
+    },
+    {
+      "numero": 4,
+      "titulo": "1. Overture",
+      "paginas": "7-10",
+      "arquivo": "cap_04_1_Overture.txt"
+    },
+    {
+      "numero": 5,
+      "titulo": "2. How to produce advertising that sells",
+      "paginas": "11-47",
+      "arquivo": "cap_05_2_How_to_produce_advertising_that_sells.txt"
+    },
+    {
+      "numero": 6,
+      "titulo": "3. Jobs in advertising – and how to get them",
+      "paginas": "48-68",
+      "arquivo": "cap_06_3_Jobs_in_advertising_and_how_to_get_them.txt"
+    },
+    {
+      "numero": 7,
+      "titulo": "4. How to run an advertising agency",
+      "paginas": "69-89",
+      "arquivo": "cap_07_4_How_to_run_an_advertising_agency.txt"
+    },
+    {
+      "numero": 8,
+      "titulo": "5. How to get clients",
+      "paginas": "90-102",
+      "arquivo": "cap_08_5_How_to_get_clients.txt"
+    },
+    {
+      "numero": 9,
+      "titulo": "6. Open letter to a client in search of an agency",
+      "paginas": "103-107",
+      "arquivo": "cap_09_6_Open_letter_to_a_client_in_search_of_an_agency.txt"
+    },
+    {
+      "numero": 10,
+      "titulo": "7. Wanted: a renaissance in print advertising",
+      "paginas": "108-161",
+      "arquivo": "cap_10_7_Wanted_a_renaissance_in_print_advertising.txt"
+    },
+    {
+      "numero": 11,
+      "titulo": "8. How to make TV commercials that sell",
+      "paginas": "162-186",
+      "arquivo": "cap_11_8_How_to_make_TV_commercials_that_sell.txt"
+    },
+    {
+      "numero": 12,
+      "titulo": "9. Advertising corporations",
+      "paginas": "187-203",
+      "arquivo": "cap_12_9_Advertising_corporations.txt"
+    },
+    {
+      "numero": 13,
+      "titulo": "10. How to advertise foreign travel",
+      "paginas": "204-217",
+      "arquivo": "cap_13_10_How_to_advertise_foreign_travel.txt"
+    },
+    {
+      "numero": 14,
+      "titulo": "11. The secrets of success in business-to-business advertising",
+      "paginas": "218-226",
+      "arquivo": "cap_14_11_The_secrets_of_success_in_business-to-business_.txt"
+    },
+    {
+      "numero": 15,
+      "titulo": "12. Direct mail, my first love and secret weapon",
+      "paginas": "227-238",
+      "arquivo": "cap_15_12_Direct_mail_my_first_love_and_secret_weapon.txt"
+    },
+    {
+      "numero": 16,
+      "titulo": "13. Advertising for good causes",
+      "paginas": "239-246",
+      "arquivo": "cap_16_13_Advertising_for_good_causes.txt"
+    },
+    {
+      "numero": 17,
+      "titulo": "14. Competing with Procter & Gamble",
+      "paginas": "247-250",
+      "arquivo": "cap_17_14_Competing_with_Procter_Gamble.txt"
+    },
+    {
+      "numero": 18,
+      "titulo": "15. 18 Miracles of research",
+      "paginas": "251-264",
+      "arquivo": "cap_18_15_18_Miracles_of_research.txt"
+    },
+    {
+      "numero": 19,
+      "titulo": "16. What little I know about marketing",
+      "paginas": "265-273",
+      "arquivo": "cap_19_16_What_little_I_know_about_marketing.txt"
+    },
+    {
+      "numero": 20,
+      "titulo": "17. Is America still top nation?",
+      "paginas": "274-294",
+      "arquivo": "cap_20_17_Is_America_still_top_nation.txt"
+    },
+    {
+      "numero": 21,
+      "titulo": "18. Lasker, Resor, Rubicam, Burnett, Hopkins and Bernbach",
+      "paginas": "295-324",
+      "arquivo": "cap_21_18_Lasker_Resor_Rubicam_Burnett_Hopkins_and_Bernba.txt"
+    },
+    {
+      "numero": 22,
+      "titulo": "19. What’s wrong with advertising?",
+      "paginas": "325-341",
+      "arquivo": "cap_22_19_Whats_wrong_with_advertising.txt"
+    },
+    {
+      "numero": 23,
+      "titulo": "20. I predict 13 changes",
+      "paginas": "342-343",
+      "arquivo": "cap_23_20_I_predict_13_changes.txt"
+    },
+    {
+      "numero": 24,
+      "titulo": "Reading list",
+      "paginas": "344-345",
+      "arquivo": "cap_24_Reading_list.txt"
+    },
+    {
+      "numero": 25,
+      "titulo": "Index",
+      "paginas": "346-484",
+      "arquivo": "cap_25_Index.txt"
+    }
+  ],
+  "arquivos": [
+    "cap_01_Title_Page.txt",
+    "cap_02_Copyright.txt",
+    "cap_03_Contents.txt",
+    "cap_04_1_Overture.txt",
+    "cap_05_2_How_to_produce_advertising_that_sells.txt",
+    "cap_06_3_Jobs_in_advertising_and_how_to_get_them.txt",
+    "cap_07_4_How_to_run_an_advertising_agency.txt",
+    "cap_08_5_How_to_get_clients.txt",
+    "cap_09_6_Open_letter_to_a_client_in_search_of_an_agency.txt",
+    "cap_10_7_Wanted_a_renaissance_in_print_advertising.txt",
+    "cap_11_8_How_to_make_TV_commercials_that_sell.txt",
+    "cap_12_9_Advertising_corporations.txt",
+    "cap_13_10_How_to_advertise_foreign_travel.txt",
+    "cap_14_11_The_secrets_of_success_in_business-to-business_.txt",
+    "cap_15_12_Direct_mail_my_first_love_and_secret_weapon.txt",
+    "cap_16_13_Advertising_for_good_causes.txt",
+    "cap_17_14_Competing_with_Procter_Gamble.txt",
+    "cap_18_15_18_Miracles_of_research.txt",
+    "cap_19_16_What_little_I_know_about_marketing.txt",
+    "cap_20_17_Is_America_still_top_nation.txt",
+    "cap_21_18_Lasker_Resor_Rubicam_Burnett_Hopkins_and_Bernba.txt",
+    "cap_22_19_Whats_wrong_with_advertising.txt",
+    "cap_23_20_I_predict_13_changes.txt",
+    "cap_24_Reading_list.txt",
+    "cap_25_Index.txt"
+  ]
+}

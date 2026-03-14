@@ -1,0 +1,236 @@
+# Object Storage
+
+Paginas: 230-235
+
+Figure 6-7. Instance store volumes can be used as a processing cache in an ephemeral
+Hadoop cluster
+We recommend that engineers think about locally attached storage in worst-case
+scenarios. What are the consequences of a local disk failure? Of an accidental VM or
+cluster shutdown? Of a zonal or regional cloud outage? If none of these scenarios will
+have catastrophic consequences when data on locally attached volumes is lost, local
+storage may be a cost-effective and performant option. In addition, simple mitigation
+strategies (periodic checkpoint backups to S3) can prevent data loss.
+Object Storage
+Object storage contains objects of all shapes and sizes (Figure 6-8). The term object
+storage is somewhat confusing because object has several meanings in computer
+science. In this context, we’re talking about a specialized file-like construct. It could
+be any type of file—TXT, CSV, JSON, images, videos, or audio.
+Figure 6-8. Object storage contains immutable objects of all shapes and sizes. Unlike files
+on a local disk, objects cannot be modified in place.
+Data Storage Systems
+|
+205
+
+Object stores have grown in importance and popularity with the rise of big data and
+the cloud. Amazon S3, Azure Blob Storage, and Google Cloud Storage (GCS) are
+widely used object stores. In addition, many cloud data warehouses (and a growing
+number of databases) utilize object storage as their storage layer, and cloud data lakes
+generally sit on object stores.
+Although many on-premises object storage systems can be installed on server clus‐
+ters, we’ll focus mostly on fully managed cloud object stores. From an operational
+perspective, one of the most attractive characteristics of cloud object storage is that
+it is straightforward to manage and use. Object storage was arguably one of the first
+“serverless” services; engineers don’t need to consider the characteristics of underly‐
+ing server clusters or disks.
+An object store is a key-value store for immutable data objects. We lose much of the
+writing flexibility we expect with file storage on a local disk in an object store. Objects
+don’t support random writes or append operations; instead, they are written once as a
+stream of bytes. After this initial write, objects become immutable. To change data in
+an object or append data to it, we must rewrite the full object. Object stores generally
+support random reads through range requests, but these lookups may perform much
+worse than random reads from data stored on an SSD.
+For a software developer used to leveraging local random access file storage, the
+characteristics of objects might seem like constraints, but less is more; object stores
+don’t need to support locks or change synchronization, allowing data storage across
+massive disk clusters. Object stores support extremely performant parallel stream
+writes and reads across many disks, and this parallelism is hidden from engineers,
+who can simply deal with the stream rather than communicating with individual
+disks. In a cloud environment, write speed scales with the number of streams being
+written up to quota limits set by the vendor. Read bandwidth can scale with the
+number of parallel requests, the number of virtual machines employed to read data,
+and the number of CPU cores. These characteristics make object storage ideal for
+serving high-volume web traffic or delivering data to highly parallel distributed query
+engines.
+Typical cloud object stores save data in several availability zones, dramatically reduc‐
+ing the odds that storage will go fully offline or be lost in an unrecoverable way. This
+durability and availability are built into the cost; cloud storage vendors offer other
+storage classes at discounted prices in exchange for reduced durability or availability.
+We’ll discuss this in “Storage classes and tiers” on page 210.
+Cloud object storage is a key ingredient in separating compute and storage, allowing
+engineers to process data with ephemeral clusters and scale these clusters up and
+down on demand. This is a key factor in making big data available to smaller
+organizations that can’t afford to own hardware for data jobs that they’ll run only
+occasionally. Some major tech companies will continue to run permanent Hadoop
+206
+|
+Chapter 6: Storage
+
+clusters on their hardware. Still, the general trend is that most organizations will
+move data processing to the cloud, using an object store as essential storage and
+serving layer while processing data on ephemeral clusters.
+In object storage, available storage space is also highly scalable, an ideal characteristic
+for big data systems. Storage space is constrained by the number of disks the storage
+provider owns, but these providers handle exabytes of data. In a cloud environment,
+available storage space is virtually limitless; in practice, the primary limit on storage
+space for public cloud customers is budget. From a practical standpoint, engineers
+can quickly store massive quantities of data for projects without planning months in
+advance for necessary servers and disks.
+Object stores for data engineering applications
+From the standpoint of data engineering, object stores provide excellent performance
+for large batch reads and batch writes. This corresponds well to the use case for
+massive OLAP systems. A bit of data engineering folklore says that object stores are
+not good for updates, but this is only partially true. Object stores are an inferior fit for
+transactional workloads with many small updates every second; these use cases are
+much better served by transactional databases or block storage systems. Object stores
+work well for a low rate of update operations, where each operation updates a large
+volume of data.
+Object stores are now the gold standard of storage for data lakes. In the early days
+of data lakes, write once, read many (WORM) was the operational standard, but this
+had more to do with the complexities of managing data versions and files than the
+limitations of HDFS and object stores. Since then, systems such as Apache Hudi and
+Delta Lake have emerged to manage this complexity, and privacy regulations such
+as GDPR and CCPA have made deletion and update capabilities imperative. Update
+management for object storage is the central idea behind the data lakehouse concept,
+which we introduced in Chapter 3.
+Object storage is an ideal repository for unstructured data in any format beyond
+these structured data applications. Object storage can house any binary data with no
+constraints on type or structure and frequently plays a role in ML pipelines for raw
+text, images, video, and audio.
+Object lookup
+As we mentioned, object stores are key-value stores. What does this mean for engi‐
+neers? It’s critical to understand that, unlike file stores, object stores do not utilize a
+directory tree to find objects. The object store uses a top-level logical container (a
+bucket in S3 and GCS) and references objects by key. A simple example in S3 might
+look like this:
+S3://oreilly-data-engineering-book/data-example.json
+Data Storage Systems
+|
+207
+
+In this case, S3://oreilly-data-engineering-book/ is the bucket name, and data-
+example.json is the key pointing to a particular object. S3 bucket names must be
+unique across all of AWS. Keys are unique within a bucket. Although cloud object
+stores may appear to support directory tree semantics, no true directory hierarchy
+exists. We might store an object with the following full path:
+S3://oreilly-data-engineering-book/project-data/11/23/2021/data.txt
+On the surface, this looks like subdirectories you might find in a regular file folder
+system: project-data, 11, 23, and 2021. Many cloud console interfaces allow users
+to view the objects inside a “directory,” and cloud command-line tools often support
+Unix-style commands such as ls inside an object store directory. However, behind
+the scenes, the object system does not traverse a directory tree to reach the object.
+Instead, it simply sees a key (project-data/11/23/2021/data.txt) that happens
+to match directory semantics. This might seem like a minor technical detail, but
+engineers need to understand that certain “directory”-level operations are costly
+in an object store. To run aws ls S3://oreilly-data-engineering-book/project-
+data/11/ the object store must filter keys on the key prefix project-data/11/. If the
+bucket contains millions of objects, this operation might take some time, even if the
+“subdirectory” houses only a few objects.
+Object consistency and versioning
+As mentioned, object stores don’t support in-place updates or appends as a general
+rule. We write a new object under the same key to update an object. When data
+engineers utilize updates in data processes, they must be aware of the consistency
+model for the object store they’re using. Object stores may be eventually consistent
+or strongly consistent. For example, until recently, S3 was eventually consistent; after
+a new version of an object was written under the same key, the object store might
+sometimes return the old version of the object. The eventual part of eventual consis‐
+tency means that after enough time has passed, the storage cluster reaches a state
+such that only the latest version of the object will be returned. This contrasts with the
+strong consistency model we expect of local disks attached to a server: reading after a
+write will return the most recently written data.
+It might be desirable to impose strong consistency on an object store for various
+reasons, and standard methods are used to achieve this. One approach is to add a
+strongly consistent database (e.g., PostgreSQL) to the mix. Writing an object is now a
+two-step process:
+1. Write the object.
+1.
+2. Write the returned metadata for the object version to the strongly consistent
+2.
+database.
+208
+|
+Chapter 6: Storage
+
+The version metadata (an object hash or an object timestamp) can uniquely identify
+an object version in conjunction with the object key. To read an object, a reader
+undertakes the following steps:
+1. Fetch the latest object metadata from the strongly consistent database.
+1.
+2. Query object metadata using the object key. Read the object data if it matches the
+2.
+metadata fetched from the consistent database.
+3. If the object metadata does not match, repeat step 2 until the latest version of the
+3.
+object is returned.
+A practical implementation has exceptions and edge cases to consider, such as when
+the object gets rewritten during this querying process. These steps can be managed
+behind an API so that an object reader sees a strongly consistent object store at the
+cost of higher latency for object access.
+Object versioning is closely related to object consistency. When we rewrite an object
+under an existing key in an object store, we’re essentially writing a brand-new object,
+setting references from the existing key to the object, and deleting the old object
+references. Updating all references across the cluster takes time, hence the potential
+for stale reads. Eventually, the storage cluster garbage collector deallocates the space
+dedicated to the dereferenced data, recycling disk capacity for use by new objects.
+With object versioning turned on, we add additional metadata to the object that
+stipulates a version. While the default key reference gets updated to point to the new
+object, we retain other pointers to previous versions. We also maintain a version list
+so that clients can get a list of all object versions, and then pull a specific version.
+Because old versions of the object are still referenced, they aren’t cleaned up by the
+garbage collector.
+If we reference an object with a version, the consistency issue with some object
+storage systems disappears: the key and version metadata together form a unique
+reference to a particular, immutable data object. We will always get the same object
+back when we use this pair, provided that we haven’t deleted it. The consistency issue
+still exists when a client requests the “default” or “latest” version of an object.
+The principal overhead that engineers need to consider with object versioning is
+the cost of storage. Historical versions of objects generally have the same associated
+storage costs as current versions. Object version costs may be nearly insignificant or
+catastrophically expensive, depending on various factors. The data size is an issue, as
+is update frequency; more object versions can lead to significantly larger data size.
+Keep in mind that we’re talking about brute-force object versioning. Object storage
+systems generally store full object data for each version, not differential snapshots.
+Data Storage Systems
+|
+209
+
+Engineers also have the option of deploying storage lifecycle policies. Lifecycle poli‐
+cies allow automatic deletion of old object versions when certain conditions are met
+(e.g., when an object version reaches a certain age or many newer versions exist).
+Cloud vendors also offer various archival data tiers at heavily discounted prices, and
+the archival process can be managed using lifecycle policies.
+Storage classes and tiers
+Cloud vendors now offer storage classes that discount data storage pricing in
+exchange for reduced access or reduced durability. We use the term reduced access
+here because many of these storage tiers still make data highly available, but with high
+retrieval costs in exchange for reduced storage costs.
+Let’s look at a couple of examples in S3 since Amazon is a benchmark for cloud ser‐
+vice standards. The S3 Standard-Infrequent Access storage class discounts monthly
+storage costs for increased data retrieval costs. (See “A Brief Detour on Cloud
+Economics” on page 125 for a theoretical discussion of the economics of cloud
+storage tiers.) Amazon also offers the Amazon S3 One Zone-Infrequent Access tier,
+replicating only to a single zone. Projected availability drops from 99.9% to 99.5% to
+account for the possibility of a zonal outage. Amazon still claims extremely high data
+durability, with the caveat that data will be lost if an availability zone is destroyed.
+Further down the tiers of reduced access are the archival tiers in S3 Glacier. S3
+Glacier promises a dramatic reduction in long-term storage costs for much higher
+access costs. Users have various retrieval speed options, from minutes to hours, with
+higher retrieval costs for faster access. For example, at the time of this writing, S3
+Glacier Deep Archive discounts storage costs even further; Amazon advertises that
+storage costs start at $1 per terabyte per month. In exchange, data restoration takes 12
+hours. In addition, this storage class is designed for data that will be stored 7–10 years
+and be accessed only one to two times per year.
+Be aware of how you plan to utilize archival storage, as it’s easy to get into and often
+costly to access data, especially if you need it more often than expected. See Chapter 4
+for a more extensive discussion of archival storage economics.
+Object store–backed filesystems
+Object store synchronization solutions have become increasingly popular. Tools like
+s3fs and Amazon S3 File Gateway allow users to mount an S3 bucket as local storage.
+Users of these tools should be aware of the characteristics of writes to the filesystem
+and how these will interact with the characteristics and pricing of object storage.
+File Gateway, for example, handles changes to files fairly efficiently by combining
+portions of objects into a new object using the advanced capabilities of S3. However,
+high-speed transactional writing will overwhelm the update capabilities of an object
+210
+|
+Chapter 6: Storage
+

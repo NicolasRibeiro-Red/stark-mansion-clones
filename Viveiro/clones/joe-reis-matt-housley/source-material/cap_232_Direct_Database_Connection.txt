@@ -1,0 +1,45 @@
+# Direct Database Connection
+
+Paginas: 276-276
+
+some common ways, keep in mind that the universe of data ingestion practices and
+technologies is vast and growing daily.
+Direct Database Connection
+Data can be pulled from databases for ingestion by querying and reading over a net‐
+work connection. Most commonly, this connection is made using ODBC or JDBC.
+ODBC uses a driver hosted by a client accessing the database to translate commands
+issued to the standard ODBC API into commands issued to the database. The data‐
+base returns query results over the wire, where the driver receives them and translates
+them back into a standard form to be read by the client. For ingestion, the application
+utilizing the ODBC driver is an ingestion tool. The ingestion tool may pull data
+through many small queries or a single large query.
+JDBC is conceptually remarkably similar to ODBC. A Java driver connects to a
+remote database and serves as a translation layer between the standard JDBC API
+and the native network interface of the target database. It might seem strange to
+have a database API dedicated to a single programming language, but there are
+strong motivations for this. The Java Virtual Machine (JVM) is standard, portable
+across hardware architectures and operating systems, and provides the performance
+of compiled code through a just-in-time (JIT) compiler. The JVM is an extremely
+popular compiling VM for running code in a portable manner.
+JDBC provides extraordinary database driver portability. ODBC drivers are shipped
+as OS and architecture native binaries; database vendors must maintain versions for
+each architecture/OS version that they wish to support. On the other hand, vendors
+can ship a single JDBC driver that is compatible with any JVM language (e.g., Java,
+Scala, Clojure, or Kotlin) and JVM data framework (i.e., Spark.) JDBC has become so
+popular that it is also used as an interface for non-JVM languages such as Python; the
+Python ecosystem provides translation tools that allow Python code to talk to a JDBC
+driver running on a local JVM.
+JDBC and ODBC are used extensively for data ingestion from relational databases,
+returning to the general concept of direct database connections. Various enhance‐
+ments are used to accelerate data ingestion. Many data frameworks can parallelize
+several simultaneous connections and partition queries to pull data in parallel. On the
+other hand, nothing is free; using parallel connections also increases the load on the
+source database.
+JDBC and ODBC were long the gold standards for data ingestion from databases, but
+these connection standards are beginning to show their age for many data engineer‐
+ing applications. These connection standards struggle with nested data, and they send
+data as rows. This means that native nested data must be reencoded as string data to
+Ways to Ingest Data
+|
+251
+

@@ -1,0 +1,667 @@
+{
+  "titulo": "Maestria",
+  "autor": "Robert Greene",
+  "total_paginas": 299,
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "Créditos",
+      "paginas": "5-5",
+      "arquivo": "cap_01_Créditos.txt"
+    },
+    {
+      "numero": 2,
+      "titulo": "Introdução",
+      "paginas": "6-5",
+      "arquivo": "cap_02_Introdução.txt"
+    },
+    {
+      "numero": 3,
+      "titulo": "A forma máxima de poder",
+      "paginas": "6-9",
+      "arquivo": "cap_03_A_forma_máxima_de_poder.txt"
+    },
+    {
+      "numero": 4,
+      "titulo": "A evolução da maestria",
+      "paginas": "10-13",
+      "arquivo": "cap_04_A_evolução_da_maestria.txt"
+    },
+    {
+      "numero": 5,
+      "titulo": "Caminhos para a maestria",
+      "paginas": "14-21",
+      "arquivo": "cap_05_Caminhos_para_a_maestria.txt"
+    },
+    {
+      "numero": 6,
+      "titulo": "I. Descubra sua vocação: Sua Missão de Vida",
+      "paginas": "22-22",
+      "arquivo": "cap_06_I_Descubra_sua_vocação_Sua_Missão_de_Vida.txt"
+    },
+    {
+      "numero": 7,
+      "titulo": "A força oculta",
+      "paginas": "23-21",
+      "arquivo": "cap_07_A_força_oculta.txt"
+    },
+    {
+      "numero": 8,
+      "titulo": "Caminhos para a maestria",
+      "paginas": "22-29",
+      "arquivo": "cap_08_Caminhos_para_a_maestria.txt"
+    },
+    {
+      "numero": 9,
+      "titulo": "Estratégias para descobrir sua missão de vida",
+      "paginas": "30-30",
+      "arquivo": "cap_09_Estratégias_para_descobrir_sua_missão_de_vida.txt"
+    },
+    {
+      "numero": 10,
+      "titulo": "1. Retorno às origens – Estratégia da inclinação primordial",
+      "paginas": "31-32",
+      "arquivo": "cap_10_1_Retorno_às_origens_Estratégia_da_inclinação_prim.txt"
+    },
+    {
+      "numero": 11,
+      "titulo": "2. Ocupe o nicho perfeito – Estratégia darwiniana",
+      "paginas": "33-36",
+      "arquivo": "cap_11_2_Ocupe_o_nicho_perfeito_Estratégia_darwiniana.txt"
+    },
+    {
+      "numero": 12,
+      "titulo": "3. Evite o caminho falso – Estratégia da rebelião",
+      "paginas": "37-38",
+      "arquivo": "cap_12_3_Evite_o_caminho_falso_Estratégia_da_rebelião.txt"
+    },
+    {
+      "numero": 13,
+      "titulo": "4. Descarte o passado – Estratégia da adaptação",
+      "paginas": "39-40",
+      "arquivo": "cap_13_4_Descarte_o_passado_Estratégia_da_adaptação.txt"
+    },
+    {
+      "numero": 14,
+      "titulo": "5. Descubra o caminho de volta – Estratégia de vida ou morte",
+      "paginas": "41-42",
+      "arquivo": "cap_14_5_Descubra_o_caminho_de_volta_Estratégia_de_vida_o.txt"
+    },
+    {
+      "numero": 15,
+      "titulo": "Desvios",
+      "paginas": "43-46",
+      "arquivo": "cap_15_Desvios.txt"
+    },
+    {
+      "numero": 16,
+      "titulo": "II. Submeta-se à realidade: A aprendizagem ideal",
+      "paginas": "47-47",
+      "arquivo": "cap_16_II_Submeta-se_à_realidade_A_aprendizagem_ideal.txt"
+    },
+    {
+      "numero": 17,
+      "titulo": "A primeira transformação",
+      "paginas": "48-51",
+      "arquivo": "cap_17_A_primeira_transformação.txt"
+    },
+    {
+      "numero": 18,
+      "titulo": "Caminhos para a maestria",
+      "paginas": "52-53",
+      "arquivo": "cap_18_Caminhos_para_a_maestria.txt"
+    },
+    {
+      "numero": 19,
+      "titulo": "A fase de aprendizagem – Os três passos ou modos",
+      "paginas": "54-53",
+      "arquivo": "cap_19_A_fase_de_aprendizagem_Os_três_passos_ou_modos.txt"
+    },
+    {
+      "numero": 20,
+      "titulo": "Primeiro passo: Observação profunda – Modo passivo",
+      "paginas": "54-56",
+      "arquivo": "cap_20_Primeiro_passo_Observação_profunda_Modo_passivo.txt"
+    },
+    {
+      "numero": 21,
+      "titulo": "Segundo passo: Aquisição de habilidades – Modo prático",
+      "paginas": "57-59",
+      "arquivo": "cap_21_Segundo_passo_Aquisição_de_habilidades_Modo_prátic.txt"
+    },
+    {
+      "numero": 22,
+      "titulo": "Terceiro passo: Experimentação – Modo ativo",
+      "paginas": "60-62",
+      "arquivo": "cap_22_Terceiro_passo_Experimentação_Modo_ativo.txt"
+    },
+    {
+      "numero": 23,
+      "titulo": "Estratégias para completar a aprendizagem ideal",
+      "paginas": "63-62",
+      "arquivo": "cap_23_Estratégias_para_completar_a_aprendizagem_ideal.txt"
+    },
+    {
+      "numero": 24,
+      "titulo": "1. Valorize o aprendizado, nunca o dinheiro",
+      "paginas": "63-64",
+      "arquivo": "cap_24_1_Valorize_o_aprendizado_nunca_o_dinheiro.txt"
+    },
+    {
+      "numero": 25,
+      "titulo": "2. Amplie seus horizontes",
+      "paginas": "65-68",
+      "arquivo": "cap_25_2_Amplie_seus_horizontes.txt"
+    },
+    {
+      "numero": 26,
+      "titulo": "3. Restabeleça o sentimento de inferioridade",
+      "paginas": "69-71",
+      "arquivo": "cap_26_3_Restabeleça_o_sentimento_de_inferioridade.txt"
+    },
+    {
+      "numero": 27,
+      "titulo": "4. Confie no processo",
+      "paginas": "72-74",
+      "arquivo": "cap_27_4_Confie_no_processo.txt"
+    },
+    {
+      "numero": 28,
+      "titulo": "5. Aumente a resistência e supere a dor",
+      "paginas": "75-77",
+      "arquivo": "cap_28_5_Aumente_a_resistência_e_supere_a_dor.txt"
+    },
+    {
+      "numero": 29,
+      "titulo": "6. Aprenda com o fracasso",
+      "paginas": "78-79",
+      "arquivo": "cap_29_6_Aprenda_com_o_fracasso.txt"
+    },
+    {
+      "numero": 30,
+      "titulo": "7. Combine o “como” com o “o quê”",
+      "paginas": "80-82",
+      "arquivo": "cap_30_7_Combine_o_como_com_o_o_quê.txt"
+    },
+    {
+      "numero": 31,
+      "titulo": "8. Avance por tentativa e erro",
+      "paginas": "83-85",
+      "arquivo": "cap_31_8_Avance_por_tentativa_e_erro.txt"
+    },
+    {
+      "numero": 32,
+      "titulo": "Desvios",
+      "paginas": "86-87",
+      "arquivo": "cap_32_Desvios.txt"
+    },
+    {
+      "numero": 33,
+      "titulo": "III. Incorpore o poder do Mestre: A dinâmica do mentor",
+      "paginas": "88-88",
+      "arquivo": "cap_33_III_Incorpore_o_poder_do_Mestre_A_dinâmica_do_ment.txt"
+    },
+    {
+      "numero": 34,
+      "titulo": "A alquimia do conhecimento",
+      "paginas": "89-94",
+      "arquivo": "cap_34_A_alquimia_do_conhecimento.txt"
+    },
+    {
+      "numero": 35,
+      "titulo": "Caminhos para a maestria",
+      "paginas": "95-100",
+      "arquivo": "cap_35_Caminhos_para_a_maestria.txt"
+    },
+    {
+      "numero": 36,
+      "titulo": "Estratégias para aprofundar a dinâmica do mentor",
+      "paginas": "101-101",
+      "arquivo": "cap_36_Estratégias_para_aprofundar_a_dinâmica_do_mentor.txt"
+    },
+    {
+      "numero": 37,
+      "titulo": "1. Escolha o mentor de acordo com suas necessidades e inclinações",
+      "paginas": "102-104",
+      "arquivo": "cap_37_1_Escolha_o_mentor_de_acordo_com_suas_necessidades.txt"
+    },
+    {
+      "numero": 38,
+      "titulo": "2. Contemple o espelho que o mentor segura à sua frente",
+      "paginas": "105-108",
+      "arquivo": "cap_38_2_Contemple_o_espelho_que_o_mentor_segura_à_sua_fr.txt"
+    },
+    {
+      "numero": 39,
+      "titulo": "3. Transforme as ideias dele",
+      "paginas": "109-110",
+      "arquivo": "cap_39_3_Transforme_as_ideias_dele.txt"
+    },
+    {
+      "numero": 40,
+      "titulo": "4. Crie uma dinâmica mentor-aprendiz",
+      "paginas": "111-113",
+      "arquivo": "cap_40_4_Crie_uma_dinâmica_mentor-aprendiz.txt"
+    },
+    {
+      "numero": 41,
+      "titulo": "Desvios",
+      "paginas": "114-115",
+      "arquivo": "cap_41_Desvios.txt"
+    },
+    {
+      "numero": 42,
+      "titulo": "IV. Veja as pessoas como realmente são: Inteligência social",
+      "paginas": "116-116",
+      "arquivo": "cap_42_IV_Veja_as_pessoas_como_realmente_são_Inteligência.txt"
+    },
+    {
+      "numero": 43,
+      "titulo": "Pensar dentro",
+      "paginas": "117-122",
+      "arquivo": "cap_43_Pensar_dentro.txt"
+    },
+    {
+      "numero": 44,
+      "titulo": "Caminhos para a maestria",
+      "paginas": "123-126",
+      "arquivo": "cap_44_Caminhos_para_a_maestria.txt"
+    },
+    {
+      "numero": 45,
+      "titulo": "Conhecimento específico – Interpretando as pessoas",
+      "paginas": "127-128",
+      "arquivo": "cap_45_Conhecimento_específico_Interpretando_as_pessoas.txt"
+    },
+    {
+      "numero": 46,
+      "titulo": "Conhecimento genérico – As Sete Realidades Fatais",
+      "paginas": "129-134",
+      "arquivo": "cap_46_Conhecimento_genérico_As_Sete_Realidades_Fatais.txt"
+    },
+    {
+      "numero": 47,
+      "titulo": "Estratégias para a aquisição de inteligência social",
+      "paginas": "135-134",
+      "arquivo": "cap_47_Estratégias_para_a_aquisição_de_inteligência_socia.txt"
+    },
+    {
+      "numero": 48,
+      "titulo": "1. Fale por meio de seu trabalho",
+      "paginas": "135-139",
+      "arquivo": "cap_48_1_Fale_por_meio_de_seu_trabalho.txt"
+    },
+    {
+      "numero": 49,
+      "titulo": "2. Elabore a persona apropriada",
+      "paginas": "140-143",
+      "arquivo": "cap_49_2_Elabore_a_persona_apropriada.txt"
+    },
+    {
+      "numero": 50,
+      "titulo": "3. Veja a si mesmo como os outros o veem",
+      "paginas": "144-146",
+      "arquivo": "cap_50_3_Veja_a_si_mesmo_como_os_outros_o_veem.txt"
+    },
+    {
+      "numero": 51,
+      "titulo": "4. Tolere os tolos",
+      "paginas": "147-150",
+      "arquivo": "cap_51_4_Tolere_os_tolos.txt"
+    },
+    {
+      "numero": 52,
+      "titulo": "Desvios",
+      "paginas": "151-152",
+      "arquivo": "cap_52_Desvios.txt"
+    },
+    {
+      "numero": 53,
+      "titulo": "V. Desperte a mente dimensional: A fase criativa-ativa",
+      "paginas": "153-153",
+      "arquivo": "cap_53_V_Desperte_a_mente_dimensional_A_fase_criativa-ati.txt"
+    },
+    {
+      "numero": 54,
+      "titulo": "A segunda transformação",
+      "paginas": "154-158",
+      "arquivo": "cap_54_A_segunda_transformação.txt"
+    },
+    {
+      "numero": 55,
+      "titulo": "Caminhos para a maestria",
+      "paginas": "159-162",
+      "arquivo": "cap_55_Caminhos_para_a_maestria.txt"
+    },
+    {
+      "numero": 56,
+      "titulo": "Primeiro passo: A tarefa criativa",
+      "paginas": "163-164",
+      "arquivo": "cap_56_Primeiro_passo_A_tarefa_criativa.txt"
+    },
+    {
+      "numero": 57,
+      "titulo": "Segundo passo: Estratégias criativas",
+      "paginas": "165-164",
+      "arquivo": "cap_57_Segundo_passo_Estratégias_criativas.txt"
+    },
+    {
+      "numero": 58,
+      "titulo": "A. Cultive a capacidade negativa",
+      "paginas": "165-167",
+      "arquivo": "cap_58_A_Cultive_a_capacidade_negativa.txt"
+    },
+    {
+      "numero": 59,
+      "titulo": "B. Abra espaço para a serendipidade",
+      "paginas": "168-170",
+      "arquivo": "cap_59_B_Abra_espaço_para_a_serendipidade.txt"
+    },
+    {
+      "numero": 60,
+      "titulo": "C. Estimule a mente – A corrente",
+      "paginas": "171-173",
+      "arquivo": "cap_60_C_Estimule_a_mente_A_corrente.txt"
+    },
+    {
+      "numero": 61,
+      "titulo": "D. Altere sua perspectiva",
+      "paginas": "174-178",
+      "arquivo": "cap_61_D_Altere_sua_perspectiva.txt"
+    },
+    {
+      "numero": 62,
+      "titulo": "E. Retorne às formas primitivas de inteligência",
+      "paginas": "179-181",
+      "arquivo": "cap_62_E_Retorne_às_formas_primitivas_de_inteligência.txt"
+    },
+    {
+      "numero": 63,
+      "titulo": "Terceiro passo: A ruptura criativa – Tensão e insight",
+      "paginas": "182-183",
+      "arquivo": "cap_63_Terceiro_passo_A_ruptura_criativa_Tensão_e_insight.txt"
+    },
+    {
+      "numero": 64,
+      "titulo": "Armadilhas emocionais",
+      "paginas": "184-187",
+      "arquivo": "cap_64_Armadilhas_emocionais.txt"
+    },
+    {
+      "numero": 65,
+      "titulo": "Estratégias para a fase criativa-ativa",
+      "paginas": "188-187",
+      "arquivo": "cap_65_Estratégias_para_a_fase_criativa-ativa.txt"
+    },
+    {
+      "numero": 66,
+      "titulo": "1. A voz autêntica",
+      "paginas": "188-191",
+      "arquivo": "cap_66_1_A_voz_autêntica.txt"
+    },
+    {
+      "numero": 67,
+      "titulo": "2. O fato de maior rendimento",
+      "paginas": "192-196",
+      "arquivo": "cap_67_2_O_fato_de_maior_rendimento.txt"
+    },
+    {
+      "numero": 68,
+      "titulo": "3. Inteligência mecânica",
+      "paginas": "197-200",
+      "arquivo": "cap_68_3_Inteligência_mecânica.txt"
+    },
+    {
+      "numero": 69,
+      "titulo": "4. Poderes naturais",
+      "paginas": "201-204",
+      "arquivo": "cap_69_4_Poderes_naturais.txt"
+    },
+    {
+      "numero": 70,
+      "titulo": "5. O campo aberto",
+      "paginas": "205-208",
+      "arquivo": "cap_70_5_O_campo_aberto.txt"
+    },
+    {
+      "numero": 71,
+      "titulo": "6. Refinamento intelectual",
+      "paginas": "209-211",
+      "arquivo": "cap_71_6_Refinamento_intelectual.txt"
+    },
+    {
+      "numero": 72,
+      "titulo": "7. O sequestro evolutivo",
+      "paginas": "212-216",
+      "arquivo": "cap_72_7_O_sequestro_evolutivo.txt"
+    },
+    {
+      "numero": 73,
+      "titulo": "8. Pensamento dimensional",
+      "paginas": "217-221",
+      "arquivo": "cap_73_8_Pensamento_dimensional.txt"
+    },
+    {
+      "numero": 74,
+      "titulo": "9. Criatividade alquímica e o inconsciente",
+      "paginas": "222-224",
+      "arquivo": "cap_74_9_Criatividade_alquímica_e_o_inconsciente.txt"
+    },
+    {
+      "numero": 75,
+      "titulo": "Desvios",
+      "paginas": "225-226",
+      "arquivo": "cap_75_Desvios.txt"
+    },
+    {
+      "numero": 76,
+      "titulo": "VI. Combine o intuitivo com o racional: Maestria",
+      "paginas": "227-227",
+      "arquivo": "cap_76_VI_Combine_o_intuitivo_com_o_racional_Maestria.txt"
+    },
+    {
+      "numero": 77,
+      "titulo": "A terceira transformação",
+      "paginas": "228-233",
+      "arquivo": "cap_77_A_terceira_transformação.txt"
+    },
+    {
+      "numero": 78,
+      "titulo": "Caminhos para a maestria",
+      "paginas": "234-238",
+      "arquivo": "cap_78_Caminhos_para_a_maestria.txt"
+    },
+    {
+      "numero": 79,
+      "titulo": "As raízes da intuição magistral",
+      "paginas": "239-243",
+      "arquivo": "cap_79_As_raízes_da_intuição_magistral.txt"
+    },
+    {
+      "numero": 80,
+      "titulo": "O retorno à realidade",
+      "paginas": "244-246",
+      "arquivo": "cap_80_O_retorno_à_realidade.txt"
+    },
+    {
+      "numero": 81,
+      "titulo": "Estratégias para atingir a maestria",
+      "paginas": "247-246",
+      "arquivo": "cap_81_Estratégias_para_atingir_a_maestria.txt"
+    },
+    {
+      "numero": 82,
+      "titulo": "1. Conecte-se com o ambiente – Poderes primitivos",
+      "paginas": "247-250",
+      "arquivo": "cap_82_1_Conecte-se_com_o_ambiente_Poderes_primitivos.txt"
+    },
+    {
+      "numero": 83,
+      "titulo": "2. Explore suas forças – Foco supremo",
+      "paginas": "251-260",
+      "arquivo": "cap_83_2_Explore_suas_forças_Foco_supremo.txt"
+    },
+    {
+      "numero": 84,
+      "titulo": "3. Transforme-se pela prática – A sensibilidade na ponta dos dedos",
+      "paginas": "261-264",
+      "arquivo": "cap_84_3_Transforme-se_pela_prática_A_sensibilidade_na_po.txt"
+    },
+    {
+      "numero": 85,
+      "titulo": "4. Internalize os detalhes – A força da vida",
+      "paginas": "265-269",
+      "arquivo": "cap_85_4_Internalize_os_detalhes_A_força_da_vida.txt"
+    },
+    {
+      "numero": 86,
+      "titulo": "5. Amplie a visão – Perspectiva global",
+      "paginas": "270-272",
+      "arquivo": "cap_86_5_Amplie_a_visão_Perspectiva_global.txt"
+    },
+    {
+      "numero": 87,
+      "titulo": "6. Submeta-se aos outros – A perspectiva de dentro para fora",
+      "paginas": "273-277",
+      "arquivo": "cap_87_6_Submeta-se_aos_outros_A_perspectiva_de_dentro_pa.txt"
+    },
+    {
+      "numero": 88,
+      "titulo": "7. Sintetize todas as formas de conhecimento – Homem/Mulher Universal",
+      "paginas": "278-283",
+      "arquivo": "cap_88_7_Sintetize_todas_as_formas_de_conhecimento_HomemM.txt"
+    },
+    {
+      "numero": 89,
+      "titulo": "Desvios",
+      "paginas": "284-285",
+      "arquivo": "cap_89_Desvios.txt"
+    },
+    {
+      "numero": 90,
+      "titulo": "Biografias dos Mestres contemporâneos",
+      "paginas": "286-290",
+      "arquivo": "cap_90_Biografias_dos_Mestres_contemporâneos.txt"
+    },
+    {
+      "numero": 91,
+      "titulo": "Bibliografia selecionada",
+      "paginas": "291-292",
+      "arquivo": "cap_91_Bibliografia_selecionada.txt"
+    },
+    {
+      "numero": 92,
+      "titulo": "Sobre o autor",
+      "paginas": "293-293",
+      "arquivo": "cap_92_Sobre_o_autor.txt"
+    },
+    {
+      "numero": 93,
+      "titulo": "Conheça os clássicos da Editora Sextante",
+      "paginas": "294-294",
+      "arquivo": "cap_93_Conheça_os_clássicos_da_Editora_Sextante.txt"
+    },
+    {
+      "numero": 94,
+      "titulo": "Informações sobre os próximos lançamentos",
+      "paginas": "295-299",
+      "arquivo": "cap_94_Informações_sobre_os_próximos_lançamentos.txt"
+    }
+  ],
+  "arquivos": [
+    "cap_01_Créditos.txt",
+    "cap_02_Introdução.txt",
+    "cap_03_A_forma_máxima_de_poder.txt",
+    "cap_04_A_evolução_da_maestria.txt",
+    "cap_05_Caminhos_para_a_maestria.txt",
+    "cap_06_I_Descubra_sua_vocação_Sua_Missão_de_Vida.txt",
+    "cap_07_A_força_oculta.txt",
+    "cap_08_Caminhos_para_a_maestria.txt",
+    "cap_09_Estratégias_para_descobrir_sua_missão_de_vida.txt",
+    "cap_10_1_Retorno_às_origens_Estratégia_da_inclinação_prim.txt",
+    "cap_11_2_Ocupe_o_nicho_perfeito_Estratégia_darwiniana.txt",
+    "cap_12_3_Evite_o_caminho_falso_Estratégia_da_rebelião.txt",
+    "cap_13_4_Descarte_o_passado_Estratégia_da_adaptação.txt",
+    "cap_14_5_Descubra_o_caminho_de_volta_Estratégia_de_vida_o.txt",
+    "cap_15_Desvios.txt",
+    "cap_16_II_Submeta-se_à_realidade_A_aprendizagem_ideal.txt",
+    "cap_17_A_primeira_transformação.txt",
+    "cap_18_Caminhos_para_a_maestria.txt",
+    "cap_19_A_fase_de_aprendizagem_Os_três_passos_ou_modos.txt",
+    "cap_20_Primeiro_passo_Observação_profunda_Modo_passivo.txt",
+    "cap_21_Segundo_passo_Aquisição_de_habilidades_Modo_prátic.txt",
+    "cap_22_Terceiro_passo_Experimentação_Modo_ativo.txt",
+    "cap_23_Estratégias_para_completar_a_aprendizagem_ideal.txt",
+    "cap_24_1_Valorize_o_aprendizado_nunca_o_dinheiro.txt",
+    "cap_25_2_Amplie_seus_horizontes.txt",
+    "cap_26_3_Restabeleça_o_sentimento_de_inferioridade.txt",
+    "cap_27_4_Confie_no_processo.txt",
+    "cap_28_5_Aumente_a_resistência_e_supere_a_dor.txt",
+    "cap_29_6_Aprenda_com_o_fracasso.txt",
+    "cap_30_7_Combine_o_como_com_o_o_quê.txt",
+    "cap_31_8_Avance_por_tentativa_e_erro.txt",
+    "cap_32_Desvios.txt",
+    "cap_33_III_Incorpore_o_poder_do_Mestre_A_dinâmica_do_ment.txt",
+    "cap_34_A_alquimia_do_conhecimento.txt",
+    "cap_35_Caminhos_para_a_maestria.txt",
+    "cap_36_Estratégias_para_aprofundar_a_dinâmica_do_mentor.txt",
+    "cap_37_1_Escolha_o_mentor_de_acordo_com_suas_necessidades.txt",
+    "cap_38_2_Contemple_o_espelho_que_o_mentor_segura_à_sua_fr.txt",
+    "cap_39_3_Transforme_as_ideias_dele.txt",
+    "cap_40_4_Crie_uma_dinâmica_mentor-aprendiz.txt",
+    "cap_41_Desvios.txt",
+    "cap_42_IV_Veja_as_pessoas_como_realmente_são_Inteligência.txt",
+    "cap_43_Pensar_dentro.txt",
+    "cap_44_Caminhos_para_a_maestria.txt",
+    "cap_45_Conhecimento_específico_Interpretando_as_pessoas.txt",
+    "cap_46_Conhecimento_genérico_As_Sete_Realidades_Fatais.txt",
+    "cap_47_Estratégias_para_a_aquisição_de_inteligência_socia.txt",
+    "cap_48_1_Fale_por_meio_de_seu_trabalho.txt",
+    "cap_49_2_Elabore_a_persona_apropriada.txt",
+    "cap_50_3_Veja_a_si_mesmo_como_os_outros_o_veem.txt",
+    "cap_51_4_Tolere_os_tolos.txt",
+    "cap_52_Desvios.txt",
+    "cap_53_V_Desperte_a_mente_dimensional_A_fase_criativa-ati.txt",
+    "cap_54_A_segunda_transformação.txt",
+    "cap_55_Caminhos_para_a_maestria.txt",
+    "cap_56_Primeiro_passo_A_tarefa_criativa.txt",
+    "cap_57_Segundo_passo_Estratégias_criativas.txt",
+    "cap_58_A_Cultive_a_capacidade_negativa.txt",
+    "cap_59_B_Abra_espaço_para_a_serendipidade.txt",
+    "cap_60_C_Estimule_a_mente_A_corrente.txt",
+    "cap_61_D_Altere_sua_perspectiva.txt",
+    "cap_62_E_Retorne_às_formas_primitivas_de_inteligência.txt",
+    "cap_63_Terceiro_passo_A_ruptura_criativa_Tensão_e_insight.txt",
+    "cap_64_Armadilhas_emocionais.txt",
+    "cap_65_Estratégias_para_a_fase_criativa-ativa.txt",
+    "cap_66_1_A_voz_autêntica.txt",
+    "cap_67_2_O_fato_de_maior_rendimento.txt",
+    "cap_68_3_Inteligência_mecânica.txt",
+    "cap_69_4_Poderes_naturais.txt",
+    "cap_70_5_O_campo_aberto.txt",
+    "cap_71_6_Refinamento_intelectual.txt",
+    "cap_72_7_O_sequestro_evolutivo.txt",
+    "cap_73_8_Pensamento_dimensional.txt",
+    "cap_74_9_Criatividade_alquímica_e_o_inconsciente.txt",
+    "cap_75_Desvios.txt",
+    "cap_76_VI_Combine_o_intuitivo_com_o_racional_Maestria.txt",
+    "cap_77_A_terceira_transformação.txt",
+    "cap_78_Caminhos_para_a_maestria.txt",
+    "cap_79_As_raízes_da_intuição_magistral.txt",
+    "cap_80_O_retorno_à_realidade.txt",
+    "cap_81_Estratégias_para_atingir_a_maestria.txt",
+    "cap_82_1_Conecte-se_com_o_ambiente_Poderes_primitivos.txt",
+    "cap_83_2_Explore_suas_forças_Foco_supremo.txt",
+    "cap_84_3_Transforme-se_pela_prática_A_sensibilidade_na_po.txt",
+    "cap_85_4_Internalize_os_detalhes_A_força_da_vida.txt",
+    "cap_86_5_Amplie_a_visão_Perspectiva_global.txt",
+    "cap_87_6_Submeta-se_aos_outros_A_perspectiva_de_dentro_pa.txt",
+    "cap_88_7_Sintetize_todas_as_formas_de_conhecimento_HomemM.txt",
+    "cap_89_Desvios.txt",
+    "cap_90_Biografias_dos_Mestres_contemporâneos.txt",
+    "cap_91_Bibliografia_selecionada.txt",
+    "cap_92_Sobre_o_autor.txt",
+    "cap_93_Conheça_os_clássicos_da_Editora_Sextante.txt",
+    "cap_94_Informações_sobre_os_próximos_lançamentos.txt"
+  ]
+}

@@ -1,0 +1,44 @@
+# Schema
+
+Paginas: 244-244
+
+Data catalog use cases
+Data catalogs have both organizational and technical use cases. Data catalogs make
+metadata easily available to systems. For instance, a data catalog is a key ingredient of
+the data lakehouse, allowing table discoverability for queries.
+Organizationally, data catalogs allow business users, analysts, data scientists, and
+engineers to search for data to answer questions. Data catalogs streamline cross-
+organizational communications and collaboration.
+Data Sharing
+Data sharing allows organizations and individuals to share specific data and carefully
+defined permissions with specific entities. Data sharing allows data scientists to
+share data from a sandbox with their collaborators within an organization. Across
+organizations, data sharing facilitates collaboration between partner businesses. For
+example, an ad tech company can share advertising data with its customers.
+A cloud multitenant environment makes interorganizational collaboration much eas‐
+ier. However, it also presents new security challenges. Organizations must carefully
+control policies that govern who can share data with whom to prevent accidental
+exposure or deliberate exfiltration.
+Data sharing is a core feature of many cloud data platforms. See Chapter 5 for a more
+extensive discussion of data sharing.
+Schema
+What is the expected form of the data? What is the file format? Is it structured,
+semistructured, or unstructured? What data types are expected? How does the data
+fit into a larger hierarchy? Is it connected to other data through shared keys or other
+relationships?
+Note that schema need not be relational. Rather, data becomes more useful when we
+have as much information about its structure and organization. For images stored in
+a data lake, this schema information might explain the image format, resolution, and
+the way the images fit into a larger hierarchy.
+Schema can function as a sort of Rosetta stone, instructions that tell us how to read
+the data. Two major schema patterns exist: schema on write and schema on read.
+Schema on write is essentially the traditional data warehouse pattern: a table has an
+integrated schema; any writes to the table must conform. To support schema on
+write, a data lake must integrate a schema metastore.
+With schema on read, the schema is dynamically created when data is written, and
+a reader must determine the schema when reading the data. Ideally, schema on read
+is implemented using file formats that implement built-in schema information, such
+Big Ideas and Trends in Storage
+|
+219
+

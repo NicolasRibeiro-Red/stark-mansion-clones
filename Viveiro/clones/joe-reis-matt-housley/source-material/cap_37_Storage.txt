@@ -1,0 +1,51 @@
+# Storage
+
+Paginas: 63-63
+
+Storage
+You need a place to store data. Choosing a storage solution is key to success in
+the rest of the data lifecycle, and it’s also one of the most complicated stages of the
+data lifecycle for a variety of reasons. First, data architectures in the cloud often lever‐
+age several storage solutions. Second, few data storage solutions function purely as
+storage, with many supporting complex transformation queries; even object storage
+solutions may support powerful query capabilities—e.g., Amazon S3 Select. Third,
+while storage is a stage of the data engineering lifecycle, it frequently touches on other
+stages, such as ingestion, transformation, and serving.
+Storage runs across the entire data engineering lifecycle, often occurring in multiple
+places in a data pipeline, with storage systems crossing over with source systems,
+ingestion, transformation, and serving. In many ways, the way data is stored impacts
+how it is used in all of the stages of the data engineering lifecycle. For example, cloud
+data warehouses can store data, process data in pipelines, and serve it to analysts.
+Streaming frameworks such as Apache Kafka and Pulsar can function simultaneously
+as ingestion, storage, and query systems for messages, with object storage being a
+standard layer for data transmission.
+Evaluating storage systems: Key engineering considerations
+Here are a few key engineering questions to ask when choosing a storage system for a
+data warehouse, data lakehouse, database, or object storage:
+• Is this storage solution compatible with the architecture’s required write and read
+•
+speeds?
+• Will storage create a bottleneck for downstream processes?
+•
+• Do you understand how this storage technology works? Are you utilizing the
+•
+storage system optimally or committing unnatural acts? For instance, are you
+applying a high rate of random access updates in an object storage system? (This
+is an antipattern with significant performance overhead.)
+• Will this storage system handle anticipated future scale? You should consider all
+•
+capacity limits on the storage system: total available storage, read operation rate,
+write volume, etc.
+• Will downstream users and processes be able to retrieve data in the required
+•
+service-level agreement (SLA)?
+• Are you capturing metadata about schema evolution, data flows, data lineage,
+•
+and so forth? Metadata has a significant impact on the utility of data. Meta‐
+data represents an investment in the future, dramatically enhancing discoverabil‐
+ity and institutional knowledge to streamline future projects and architecture
+changes.
+38
+|
+Chapter 2: The Data Engineering Lifecycle
+

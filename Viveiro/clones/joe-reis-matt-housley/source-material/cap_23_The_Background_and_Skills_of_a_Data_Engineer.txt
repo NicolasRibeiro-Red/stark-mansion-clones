@@ -1,0 +1,48 @@
+# The Background and Skills of a Data Engineer
+
+Paginas: 42-42
+
+• Collaborate efficiently with software engineers, ML engineers, analysts, and
+•
+others
+• Create a community and environment where people can collaborate and speak
+•
+openly, no matter their role or position
+Issues to watch out for include the following:
+• At this stage, complacency is a significant danger. Once organizations reach
+•
+stage 3, they must constantly focus on maintenance and improvement or risk
+falling back to a lower stage.
+• Technology distractions are a more significant danger here than in the other
+•
+stages. There’s a temptation to pursue expensive hobby projects that don’t deliver
+value to the business. Utilize custom-built technology only where it provides a
+competitive advantage.
+The Background and Skills of a Data Engineer
+Data engineering is a fast-growing field, and a lot of questions remain about how
+to become a data engineer. Because data engineering is a relatively new discipline,
+little formal training is available to enter the field. Universities don’t have a standard
+data engineering path. Although a handful of data engineering boot camps and online
+tutorials cover random topics, a common curriculum for the subject doesn’t yet exist.
+People entering data engineering arrive with varying backgrounds in education,
+career, and skill set. Everyone entering the field should expect to invest a significant
+amount of time in self-study. Reading this book is a good starting point; one of the
+primary goals of this book is to give you a foundation for the knowledge and skills we
+think are necessary to succeed as a data engineer.
+If you’re pivoting your career into data engineering, we’ve found that the transition is
+easiest when moving from an adjacent field, such as software engineering, ETL devel‐
+opment, database administration, data science, or data analysis. These disciplines
+tend to be “data aware” and provide good context for data roles in an organization.
+They also equip folks with the relevant technical skills and context to solve data
+engineering problems.
+Despite the lack of a formalized path, a requisite body of knowledge exists that we
+believe a data engineer should know to be successful. By definition, a data engineer
+must understand both data and technology. With respect to data, this entails knowing
+about various best practices around data management. On the technology end, a
+data engineer must be aware of various options for tools, their interplay, and their
+trade-offs. This requires a good understanding of software engineering, DataOps, and
+data architecture.
+Data Engineering Skills and Activities
+|
+17
+

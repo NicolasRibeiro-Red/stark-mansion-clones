@@ -1,0 +1,31 @@
+# Conventions Used in This Book
+
+Paginas: 22-22
+
+In the course of working in data engineering, doing research for this book and
+interviewing numerous experts, we thought a good deal about where the field is going
+in the near and long term. Chapter 11 outlines our highly speculative ideas on the
+future of data engineering. By its nature, the future is a slippery thing. Time will tell if
+some of our ideas are correct. We would love to hear from our readers on how their
+visions of the future agree with or differ from our own.
+In the appendices, we cover a handful of technical topics that are extremely relevant
+to the day-to-day practice of data engineering but didn’t fit into the main body of
+the text. Specifically, engineers need to understand serialization and compression
+(see Appendix A) both to work directly with data files and to assess performance
+considerations in data systems, and cloud networking (see Appendix B) is a critical
+topic as data engineering shifts into the cloud.
+Conventions Used in This Book
+The following typographical conventions are used in this book:
+Italic
+Indicates new terms, URLs, email addresses, filenames, and file extensions
+Constant width
+Used for program listings, as well as within paragraphs to refer to program
+elements such as variable or function names, databases, data types, environment
+variables, statements, and keywords
+This element signifies a tip or suggestion.
+This element signifies a general note.
+This element indicates a warning or caution.
+Preface
+|
+xvii
+

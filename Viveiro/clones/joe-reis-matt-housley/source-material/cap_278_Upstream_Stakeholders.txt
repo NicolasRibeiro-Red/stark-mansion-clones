@@ -1,0 +1,45 @@
+# Upstream Stakeholders
+
+Paginas: 354-354
+
+basic enrichment process that adds data to individual events can deliver one event at
+a time with low latency. However, a triggered metric on windows may run every few
+seconds, every few minutes, etc.
+When you’re using windows and triggers (hence, batch processing), what’s the win‐
+dow frequency? What’s the acceptable latency? If you are collecting Black Friday sales
+metrics published every few minutes, micro-batches are probably just fine as long as
+you set an appropriate micro-batch frequency. On the other hand, if your ops team
+is computing metrics every second to detect DDoS attacks, true streaming may be in
+order.
+When should you use one over the other? Frankly, there is no universal answer. The
+term micro-batch has often been used to dismiss competing technologies, but it may
+work just fine for your use case and can be superior in many respects depending on
+your needs. If your team already has expertise in Spark, you will be able to spin up a
+Spark (micro-batch) streaming solution extremely fast.
+There’s no substitute for domain expertise and real-world testing. Talk to experts
+who can present an even-handed opinion. You can also easily test the alternatives by
+spinning up tests on cloud infrastructure. Also, watch out for spurious benchmarks
+provided by vendors. Vendors are notorious for cherry-picking benchmarks and
+setting up artificial examples that don’t match reality (recall our conversation on
+benchmarks in Chapter 4). Frequently, vendors will show massive advantages in their
+benchmark results but fail to deliver in the real world for your use case.
+Whom You’ll Work With
+Queries, transformations, and modeling impact all stakeholders up and down the
+data engineering lifecycle. The data engineer is responsible for several things at this
+stage in the lifecycle. From a technical angle, the data engineer designs, builds, and
+maintains the integrity of the systems that query and transform data. The data engi‐
+neer also implements data models within this system. This is the most “full-contact”
+stage where your focus is to add as much value as possible, both in terms of function‐
+ing systems and reliable and trustworthy data.
+Upstream Stakeholders
+When it comes to transformations, upstream stakeholders can be broken into two
+broad categories: those who control the business definitions and those who control
+the systems generating data.
+When interfacing with upstream stakeholders about business definitions and logic,
+you’ll need to know the data sources—what they are, how they’re used, and the
+business logic and definitions involved. You’ll work with the engineers in charge of
+these source systems and the business stakeholders who oversee the complementary
+Whom You’ll Work With
+|
+329
+

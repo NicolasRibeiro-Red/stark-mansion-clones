@@ -1,0 +1,37 @@
+# Ways to Ingest Data
+
+Paginas: 275-275
+
+A dead-letter queue segregates problematic events from events that can be accepted
+by the consumer (Figure 7-12). If events are not rerouted to a dead-letter queue, these
+erroneous events risk blocking other messages from being ingested. Data engineers
+can use a dead-letter queue to diagnose why event ingestions errors occur and solve
+data pipeline problems, and might be able to reprocess some messages in the queue
+after fixing the underlying cause of errors.
+Figure 7-12. “Good” events are passed to the consumer, whereas “bad” events are stored
+in a dead-letter queue
+Consumer Pull and Push
+A consumer subscribing to a topic can get events in two ways: push and pull. Let’s
+look at the ways some streaming technologies pull and push data. Kafka and Kinesis
+support only pull subscriptions. Subscribers read messages from a topic and confirm
+when they have been processed. In addition to pull subscriptions, Pub/Sub and
+RabbitMQ support push subscriptions, allowing these services to write messages to a
+listener.
+Pull subscriptions are the default choice for most data engineering applications, but
+you may want to consider push capabilities for specialized applications. Note that
+pull-only message ingestion systems can still push if you add an extra layer to handle
+this.
+Location
+It is often desirable to integrate streaming across several locations for enhanced
+redundancy and to consume data close to where it is generated. As a general rule,
+the closer your ingestion is to where data originates, the better your bandwidth and
+latency. However, you need to balance this against the costs of moving data between
+regions to run analytics on a combined dataset. As always, data egress costs can spiral
+quickly. Do a careful evaluation of the trade-offs as you build out your architecture.
+Ways to Ingest Data
+Now that we’ve described some of the significant patterns underlying batch and
+streaming ingestion, let’s focus on ways you can ingest data. Although we will cite
+250
+|
+Chapter 7: Ingestion
+

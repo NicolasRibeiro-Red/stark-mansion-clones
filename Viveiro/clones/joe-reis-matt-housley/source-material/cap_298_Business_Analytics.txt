@@ -1,0 +1,89 @@
+# Business Analytics
+
+Paginas: 369-370
+
+This dramatically changes the details and structure of serving. We introduced the
+concept of a data mesh in Chapter 3. Now that we’ve covered some general considera‐
+tions for serving data, let’s look at the first major area: analytics.
+Analytics
+The first data-serving use case you’ll likely encounter is analytics, which is discover‐
+ing, exploring, identifying, and making visible key insights and patterns within data.
+Analytics has many aspects. As a practice, analytics is carried out using statistical
+methods, reporting, BI tools, and more. As a data engineer, knowing the various
+types and techniques of analytics is key to accomplishing your work. This section
+aims to show how you’ll serve data for analytics and presents some points to think
+about to help your analysts succeed.
+Before you even serve data for analytics, the first thing you need to do (which should
+sound familiar after reading the preceding section) is identify the end use case. Is
+the user looking at historical trends? Should users be immediately and automatically
+notified of an anomaly, such as a fraud alert? Is someone consuming a real-time
+dashboard on a mobile application? These examples highlight the differences between
+business analytics (usually BI), operational analytics, and embedded analytics. Each
+of these analytics categories has different goals and unique serving requirements. Let’s
+look at how you’ll serve data for these types of analytics.
+Business Analytics
+Business analytics uses historical and current data to make strategic and actionable
+decisions. The types of decisions tend to factor in longer-term trends and often
+involve a mix of statistical and trend analysis, alongside domain expertise and human
+judgment. Business analysis is as much an art as it is a science.
+Business analytics typically falls into a few big areas—dashboards, reports, and ad hoc
+analysis. A business analyst might focus on one or all of these categories. Let’s quickly
+look at the differences between these practices and related tools. Understanding an
+analyst’s workflow will help you, the data engineer, understand how to serve data.
+A dashboard concisely shows decision makers how an organization is performing
+against a handful of core metrics, such as sales and customer retention. These core
+metrics are presented as visualizations (e.g., charts or heatmaps), summary statistics,
+or even a single number. This is similar to a car dashboard, which gives you a
+single readout of the critical things you need to know while driving a vehicle. An
+organization may have more than one dashboard, with C-level executives using
+an overarching dashboard and their direct reports using dashboards with their par‐
+ticular metrics, KPIs, or objectives and key results (OKRs). Analysts help create
+and maintain these dashboards. Once business stakeholders embrace and rely on a
+344
+|
+Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
+
+dashboard, the analyst usually responds to requests to look into a potential issue
+with a metric or add a new metric to the dashboard. Currently, you might use BI
+platforms to create dashboards, such as Tableau, Looker, Sisense, Power BI, or Apache
+Superset/Preset.
+Analysts are often tasked by business stakeholders with creating a report. The goal
+of a report is to use data to drive insights and action. An analyst working at an
+online retail company is asked to investigate which factors are driving a higher-than-
+expected rate of returns for women’s running shorts. The analyst runs some SQL
+queries in the data warehouse, aggregates the return codes that customers provide
+as the reason for their return, and discovers that the fabric in the running shorts
+is of inferior quality, often wearing out within a few uses. Stakeholders such as
+manufacturing and quality control are notified of these findings. Furthermore, the
+findings are summarized in a report and distributed in the same BI tool where the
+dashboard resides.
+The analyst was asked to dig into a potential issue and come back with insights. This
+represents an example of ad hoc analysis. Reports typically start as ad hoc requests.
+If the results of the ad hoc analysis are impactful, they often end up in a report
+or dashboard. The technologies used for reports and ad hoc analysis are similar to
+dashboards but may include Excel, Python, R-based notebooks, SQL queries, and
+much more.
+Good analysts constantly engage with the business and dive into the data to answer
+questions and uncover hidden and counterintuitive trends and insights. They also
+work with data engineers to provide feedback on data quality, reliability issues,
+and requests for new datasets. The data engineer is responsible for addressing this
+feedback and providing new datasets for the analyst to use.
+Returning to the running shorts example, suppose that after communicating their
+findings, analysts learn that manufacturing can provide them with various supply-
+chain details regarding the materials used in the running shorts. Data engineers
+undertake a project to ingest this data into the data warehouse. Once the supply-
+chain data is present, analysts can correlate specific garment serial numbers with the
+supplier of the fabric used in the item. They discover that most failures are tied to one
+of their three suppliers, and the factory stops using fabric from this supplier.
+The data for business analytics is frequently served in batch mode from a data
+warehouse or a data lake. This varies wildly across companies, departments, and
+even data teams within companies. New data might be available every second, every
+minute, every 30 minutes, every day, or once a week. The frequency of the batches
+can vary for several reasons. One key thing to note is that engineers working on ana‐
+lytics problems should consider various potential applications of data—current and
+future. It is common to have mixed data update frequencies to serve use cases appro‐
+priately but remember that the frequency of ingestion sets a ceiling on downstream
+Analytics
+|
+345
+

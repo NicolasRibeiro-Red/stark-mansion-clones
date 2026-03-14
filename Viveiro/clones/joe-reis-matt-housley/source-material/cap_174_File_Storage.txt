@@ -1,0 +1,121 @@
+# File Storage
+
+Paginas: 224-226
+
+Soft-state
+The state of the transaction is fuzzy, and it’s uncertain whether the transaction is
+committed or uncommitted.
+Eventual consistency
+At some point, reading data will return consistent values.
+If reading data in an eventually consistent system is unreliable, why use it? Eventual
+consistency is a common trade-off in large-scale, distributed systems. If you want
+to scale horizontally (across multiple nodes) to process data in high volumes, then
+eventually, consistency is often the price you’ll pay. Eventual consistency allows you
+to retrieve data quickly without verifying that you have the latest version across all
+nodes.
+The opposite of eventual consistency is strong consistency. With strong consistency,
+the distributed database ensures that writes to any node are first distributed with a
+consensus and that any reads against the database return consistent values. You’ll use
+strong consistency when you can tolerate higher query latency and require correct
+data every time you read from the database.
+Generally, data engineers make decisions about consistency in three places. First, the
+database technology itself sets the stage for a certain level of consistency. Second,
+configuration parameters for the database will have an impact on consistency. Third,
+databases often support some consistency configuration at an individual query level.
+For example, DynamoDB supports eventually consistent reads and strongly consis‐
+tent reads. Strongly consistent reads are slower and consume more resources, so it is
+best to use them sparingly, but they are available when consistency is required.
+You should understand how your database handles consistency. Again, data engineers
+are tasked with understanding technology deeply and using it to solve problems
+appropriately. A data engineer might need to negotiate consistency requirements
+with other technical and business stakeholders. Note that this is both a technology
+and organizational problem; ensure that you have gathered requirements from your
+stakeholders and choose your technologies appropriately.
+File Storage
+We deal with files every day, but the notion of a file is somewhat subtle. A file is a
+data entity with specific read, write, and reference characteristics used by software
+and operating systems. We define a file to have the following characteristics:
+Finite length
+A file is a finite-length stream of bytes.
+Data Storage Systems
+|
+199
+
+Append operations
+We can append bytes to the file up to the limits of the host storage system.
+Random access
+We can read from any location in the file or write updates to any location.
+Object storage behaves much like file storage but with key differences. While we set
+the stage for object storage by discussing file storage first, object storage is arguably
+much more important for the type of data engineering you’ll do today. We will
+forward-reference the object storage discussion extensively over the next few pages.
+File storage systems organize files into a directory tree. The directory reference for a
+file might look like this:
+/Users/matthewhousley/output.txt
+When this file reference is passed to the operating system, it starts at the root
+directory /, finds Users, matthewhousley, and finally output.txt. Working from
+the left, each directory is contained inside a parent directory, until we finally reach
+the file output.txt. This example uses Unix semantics, but Windows file reference
+semantics are similar. The filesystem stores each directory as metadata about the files
+and directories that it contains. This metadata consists of the name of each entity,
+relevant permission details, and a pointer to the actual entity. To find a file on disk,
+the operating system looks at the metadata at each hierarchy level and follows the
+pointer to the next subdirectory entity until finally reaching the file itself.
+Note that other file-like data entities generally don’t necessarily have all these proper‐
+ties. For example, objects in object storage support only the first characteristic, finite
+length, but are still extremely useful. We discuss this in “Object Storage” on page 205.
+In cases where file storage paradigms are necessary for a pipeline, be careful with
+state and try to use ephemeral environments as much as possible. Even if you must
+process files on a server with an attached disk, use object storage for intermediate
+storage between processing steps. Try to reserve manual, low-level file processing for
+one-time ingestion steps or the exploratory stages of pipeline development.
+Local disk storage
+The most familiar type of file storage is an operating system–managed filesystem
+on a local disk partition of SSD or magnetic disk. New Technology File System
+(NTFS) and ext4 are popular filesystems on Windows and Linux, respectively. The
+operating system handles the details of storing directory entities, files, and metadata.
+Filesystems are designed to write data to allow for easy recovery in the event of power
+loss during a write, though any unwritten data will still be lost.
+200
+|
+Chapter 6: Storage
+
+Local filesystems generally support full read after write consistency; reading immedi‐
+ately after a write will return the written data. Operating systems also employ various
+locking strategies to manage concurrent writing attempts to a file.
+Local disk filesystems may also support advanced features such as journaling, snap‐
+shots, redundancy, the extension of the filesystem across multiple disks, full disk
+encryption, and compression. In “Block Storage” on page 202, we also discuss RAID.
+Network-attached storage
+Network-attached storage (NAS) systems provide a file storage system to clients over
+a network. NAS is a prevalent solution for servers; they quite often ship with built-in
+dedicated NAS interface hardware. While there are performance penalties to access‐
+ing the filesystem over a network, significant advantages to storage virtualization
+also exist, including redundancy and reliability, fine-grained control of resources,
+storage pooling across multiple disks for large virtual volumes, and file sharing across
+multiple machines. Engineers should be aware of the consistency model provided by
+their NAS solution, especially when multiple clients will potentially access the same
+data.
+A popular alternative to NAS is a storage area network (SAN), but SAN systems
+provide block-level access without the filesystem abstraction. We cover SAN systems
+in “Block Storage” on page 202.
+Cloud filesystem services
+Cloud filesystem services provide a fully managed filesystem for use with multiple
+cloud VMs and applications, potentially including clients outside the cloud environ‐
+ment. Cloud filesystems should not be confused with standard storage attached
+to VMs—generally, block storage with a filesystem managed by the VM operating
+system. Cloud filesystems behave much like NAS solutions, but the details of net‐
+working, managing disk clusters, failures, and configuration are fully handled by the
+cloud vendor.
+For example, Amazon Elastic File System (EFS) is an extremely popular example of
+a cloud filesystem service. Storage is exposed through the NFS 4 protocol, which
+is also used by NAS systems. EFS provides automatic scaling and pay-per-storage
+pricing with no advanced storage reservation required. The service also provides local
+read-after-write consistency (when reading from the machine that performed the
+write). It also offers open-after-close consistency across the full filesystem. In other
+words, once an application closes a file, subsequent readers will see changes saved to
+the closed file.
+Data Storage Systems
+|
+201
+

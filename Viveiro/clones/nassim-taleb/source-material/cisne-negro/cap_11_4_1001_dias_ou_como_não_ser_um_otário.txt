@@ -1,0 +1,441 @@
+# 4. 1001 dias, ou como não ser um otário
+
+Paginas: 58-70
+
+4. 1001 dias, ou como não ser um otário
+Surpresa, surpresa — Métodos soﬁsticados para aprender com o futuro — Sexto
+estava sempre à frente — A ideia principal é não ser um otário — Vamos nos mudar
+para o Mediocristão, se conseguirmos encontrá-lo
+O que nos traz ao problema do Cisne Negro em sua forma original.
+Imagine alguém de autoridade e posição elevada, operando em um lugar onde
+a hierarquia é importante — digamos, uma agência governamental ou uma grande
+corporação. Pode ser um verborrágico comentarista político da Fox News numa
+~ bem em frente a você na academia (impossível não olhar para a tela), o
+presidente de uma empresa discutindo o “futuro brilhante pela frente”, um
+médico platônico que descartou categoricamente a utilidade do leite materno
+(porque não viu nada de especial nisso), ou um professor da Harvard Business
+School que não ri das piadas que você conta. Essa pessoa leva um pouco a sério
+demais aquilo que sabe.
+Digamos que um dia, durante um momento de relaxamento, essa pessoa
+notável e inﬂuente seja surpreendida pela travessura de um fanfarrão que,
+sorrateiramente, enﬁa-lhe uma pena ﬁna no nariz. Como ﬁcaria a pompa do
+digno ﬁgurão depois dessa pegadinha? Contraste o ar de autoridade com a
+perplexidade de ser atingido por algo totalmente inesperado que ele não entende.
+Por um breve instante, antes que ele se recomponha, você o verá desconcertado.
+Confesso ter desenvolvido um gosto incorrigível por esse tipo de pegadinha
+durante meu primeiro acampamento de férias de verão. Introduzida na narina de
+um campista adormecido, uma pena causava pânico repentino. Passei parte da
+minha infância praticando variações da brincadeira: no lugar de uma pena ﬁna
+você pode enrolar a ponta de um lenço de papel para torná-lo longo e estreito.
+Nisso eu tenho alguma prática, de tanto aprontar com meu irmão mais novo.
+Uma brincadeira igualmente eﬁcaz é deixar cair um cubo de gelo dentro da gola
+
+da camisa da pessoa quando ela menos espera, digamos durante um jantar formal.
+Tive que parar com essas pegadinhas à medida que fui avançando na idade adulta,
+claro, mas muitas vezes sou involuntariamente atingido por essa imagem quando
+me ﬂagro morrendo de tédio em reuniões com homens de negócios de aparência
+sisuda (ternos escuros e mentes padronizadas), que ﬁcam teorizando, explicando
+coisas ou discorrendo sobre eventos aleatórios com uma conversa mole salpicada
+de “porquês”. Imagino em detalhes um desses homens e vejo o cubo de gelo
+deslizando por suas costas — seria menos requintado, ainda que certamente mais
+espetacular, colocar um camundongo dentro da gola do sujeito, em especial se ele
+tiver cócegas e estiver usando gravata, o que bloquearia a rota normal de fuga do
+roedor.1
+Pregar peças pode ser um exercício de compaixão. Lembro-me dos meus
+primeiros tempos atuando como trader, por volta dos 25 anos, quando o dinheiro
+estava começando a vir facilmente. Quando pegava um táxi, se o motorista falasse
+em tom desanimado e parecesse deprimido, eu lhe dava uma nota de cem dólares
+como gorjeta, só para ver o susto que ele tomava e saborear sua surpresa. Eu
+observava o taxista desdobrar a cédula e olhar para ela com algum grau de
+consternação (é claro que uma gorjeta de 1 milhão de dólares teria sido melhor,
+mas isso não estava ao alcance dos meus recursos). Não deixava de ser também
+um simples experimento hedonista: era uma sensação ediﬁcante fazer alguém
+ganhar o dia com uma bagatela de cem dólares. Com o passar do tempo, parei;
+todos nós nos tornamos mesquinhos e calculistas quando nossa riqueza cresce e
+começamos a levar o dinheiro a sério demais.
+Não preciso de uma grande ajuda do destino para obter entretenimento em
+larga escala: a realidade proporciona revisões forçadas de crenças com uma
+frequência bastante alta. Muitas são um tanto espetaculares. Na verdade, todo
+empreendimento de busca do conhecimento baseia-se em pegar a sabedoria
+convencional e convicções cientíﬁcas aceitas e estraçalhar tudo em mil pedaços
+com novas evidências contraintuitivas, seja em uma escala micro (cada descoberta
+cientíﬁca é uma tentativa de produzir um micro-Cisne Negro) ou uma escala
+maior (a exemplo da relatividade de Poincaré e Einstein). Os cientistas podem
+até rir de seus predecessores, mas devido a uma série de disposições mentais
+humanas, poucos percebem que alguém vai rir de suas crenças no futuro (mais
+próximo do que imaginam). Neste caso, meus leitores e eu estamos rindo do
+estado atual do conhecimento social. Esses ﬁgurões não anteveem a chegada da
+inevitável suplantação de seu trabalho, o que geralmente signiﬁca que eles terão
+uma surpresa e tanto.
+
+COMO APRENDER COM O PERU
+O superﬁlósofo Bertrand Russell apresenta uma variante especialmente tóxica
+do meu solavanco de surpresa ao ilustrar aquilo que as pessoas em seu ramo de
+negócios chamam de Problema da Indução ou Problema do Conhecimento
+Indutivo (em maiúsculas por conta da seriedade) — certamente o maior de todos
+os problemas da vida. De que maneira podemos partir logicamente de instâncias
+especíﬁcas para chegar a conclusões gerais? Como sabemos o que sabemos?
+Como sabemos que aquilo que observamos a partir de determinados objetos e
+eventos nos capacita a descobrir suas outras propriedades? Existem armadilhas
+embutidas em qualquer tipo de conhecimento obtido por meio da observação.
+Pense em um peru que é alimentado todos os dias. Cada refeição solidiﬁca a
+convicção do pássaro de que é a regra geral da vida ser alimentado todos os dias
+por membros amigáveis da raça humana “cuidando de seus melhores interesses”,
+como diria um político. Na tarde anterior ao Natal, algo inesperado acontecerá
+com o peru. Isso o levará a rever suas convicções.2
+O restante deste capítulo delineará o problema do Cisne Negro em sua forma
+original: como podemos saber o futuro, dado o conhecimento que temos do
+passado; ou, em termos mais gerais, como podemos entender as propriedades do
+(inﬁnito) desconhecido com base no (ﬁnito) conhecido? Pense novamente na
+alimentação do peru: o que a ave pode aprender, a partir dos eventos de ontem,
+sobre o que a espera amanhã? Muita coisa, talvez, mas com certeza um pouco
+menos do que ela pensa, e é exatamente esse “pouco menos” que pode fazer toda
+a diferença.
+O problema do peru pode ser generalizado para qualquer situação em que a
+mão que afaga é a mesma que apedreja. Tenha em mente o caso dos judeus
+alemães cada vez mais integrados na década de 1930 — ou minha descrição no
+capítulo 1 de como a população do Líbano foi seduzida e levada a ter uma falsa
+sensação de segurança pela aparência de amizade e tolerância mútuas.
+Vamos dar um passo adiante e ponderar sobre o aspecto mais preocupante da
+indução: aprender de trás para a frente. Imagine que a experiência do peru pode
+ter, em vez de valor nenhum, um valor negativo. A ave aprendeu com a
+observação, conforme todos nós somos aconselhados a fazer (ei, aﬁnal, isso é o
+que acreditamos ser o método cientíﬁco). A conﬁança do peru aumentou à
+medida que o número de refeições amigáveis cresceu, e ele parecia cada vez mais
+seguro, embora o momento do abate estivesse a cada dia mais iminente. Leve em
+conta que a sensação de segurança atingiu o ápice quando o risco era máximo!
+
+Mas o problema é ainda mais geral do que isso; atinge a natureza do próprio
+conhecimento empírico. Alguma coisa funcionava no passado, até que — bem,
+inesperadamente não funciona mais, e, no ﬁm ﬁca claro, o que aprendemos com
+o passado se mostra, na melhor das hipóteses, irrelevante ou falso, e, na pior das
+hipóteses, perversamente enganador.
+A ﬁgura 1 fornece o caso prototípico do problema da indução tal qual é
+encontrado na vida real. Você observa uma variável hipotética para mil dias. Pode
+ser qualquer coisa (com algumas ligeiras transformações): vendas de livros,
+pressão arterial, crimes, sua renda pessoal, a ﬂutuação no preço de uma
+determinada ação, os juros de um empréstimo, a taxa de comparecimento
+dominical dos devotos nos cultos de uma igreja ortodoxa grega especíﬁca.
+Posteriormente você extrai, apenas a partir de dados anteriores, algumas
+conclusões relativas às propriedades do padrão com projeções para os mil dias
+seguintes, até mesmo cinco mil dias. No 1001º dia — bum! Ocorre uma grande
+mudança, para a qual o passado deixou você completamente despreparado.
+FIGURA 1. 1001 dias de história. Um peru antes e depois do Dia de Ação de Graças. A história de
+um processo de mais de mil dias de duração não diz nada sobre o que vai acontecer a seguir. Essa
+projeção ingênua do futuro com base no passado pode ser aplicada a qualquer coisa.
+
+Pense na surpresa que foi a Primeira Guerra Mundial. Após os conﬂitos
+napoleônicos, o mundo conhecera um período de paz que levaria qualquer
+observador a acreditar no desaparecimento de conﬂitos com potencial de
+destruição grave. Ainda assim, surpresa! A Grande Guerra acabou sendo o
+conﬂito mais mortífero, até então, da história da humanidade.
+Observe que após o evento você começa a prever a possibilidade de outros
+outliers acontecerem em âmbito local, ou seja, no processo que acabou de
+surpreender você, mas não em outros lugares. Depois da quebra do mercado de
+ações em 1987, metade dos traders dos Estados Unidos se preparava para outro
+colapso todo mês de outubro — sem levar em conta que não houve antecedente
+para o primeiro. Nós nos preocupamos tarde demais — após o fato. Confundir
+uma observação ingênua do passado com algo deﬁnitivo ou que representa o
+futuro é a única causa de nossa incapacidade de entender o Cisne Negro.
+Para um diletante afeito a citações, ou seja, um daqueles escritores e
+estudiosos que recheiam seus textos com frases de alguma autoridade morta —
+pareceria que, como aﬁrmou Hobbes, “de antecedentes semelhantes ﬂuem
+consequências
+semelhantes”.
+Aqueles
+que
+acreditam
+nos
+benefícios
+incondicionais da experiência do passado devem levar em consideração esta
+pérola de sabedoria supostamente pronunciada por um famoso capitão de navio:
+Contudo, em toda a minha experiência, nunca sofri nenhum acidente […] que fosse digno de menção.
+Em todos os meus anos no mar, vi apenas um navio em perigo. Jamais vi um naufrágio nem nunca
+naufraguei, tampouco enfrentei qualquer contratempo que ameaçasse terminar em qualquer espécie de
+desastre.
+E. J. Smith, 1907, Capitão, s_w Titanic
+O navio do capitão Smith afundou em 1912 e se tornou o naufrágio mais
+comentado da história.3
+Treinado para ser chato
+Da mesma forma, pense em um presidente de banco cuja instituição tenha
+lucros constantes por um longo tempo e de repente perca tudo em um único
+revés da fortuna. Tradicionalmente, os banqueiros da variedade que faz
+empréstimos são ﬁguras em formato de pera, de rosto escanhoado, que se vestem
+da maneira mais confortável e enfadonha possível, com ternos escuros, camisas
+brancas e gravatas vermelhas. Na verdade, para praticar seu negócio de
+empréstimos, os bancos contratam pessoas chatas e as treinam para serem mais
+chatas ainda. Mas isso é só fachada. Se eles parecem conservadores, é porque
+seus empréstimos só dão prejuízo em ocasiões raras, raríssimas. Não há meio de
+
+avaliar a eﬁcácia da atividade de empréstimos dos bancos observando-a durante
+um dia ou ao longo de uma semana, um mês ou… até mesmo um século! No verão
+de 1982, grandes bancos norte-americanos perderam o equivalente a quase todos
+os lucros anteriores (cumulativamente), mais ou menos tudo o que haviam
+ganhado na história do sistema bancário dos Estados Unidos — tudo. Eles
+vinham fazendo empréstimos para países da América do Sul e da América
+Central que, todos ao mesmo tempo, deram o calote — “um evento de natureza
+excepcional”. Então, demorou apenas um verão para descobrirem que era um
+negócio de otários e que todos os seus lucros vinham de um jogo bastante
+arriscado. Tudo isso enquanto os banqueiros induziam todo mundo,
+especialmente a si próprios, a acreditar que eram “conservadores”. Eles não são
+conservadores; apenas uma habilidade fenomenal de autoengano, varrendo para
+debaixo do tapete a possibilidade de uma perda colossal e devastadora. Na
+verdade, a grotesca farsa repetiu-se uma década depois, com os grandes bancos
+“conscientes do risco” mais uma vez sob pressão ﬁnanceira, muitos deles à beira
+da falência após o colapso imobiliário do início da década de 1990, em que os
+agora extintos segmentos de poupança e empréstimos exigiram um socorro
+ﬁnanceiro, pago pelos contribuintes, de mais de meio trilhão de dólares. O
+Federal Reserve protegeu os bancos às nossas custas: quando banqueiros
+“conservadores” obtêm lucros, ﬁcam com os benefícios; quando têm prejuízo,
+nós pagamos o pato.
+Depois de me formar na Wharton, comecei a trabalhar para o Bankers Trust
+(hoje extinto). Lá, o escritório do presidente, rapidamente esquecendo a história
+de 1982, divulgava os resultados de cada trimestre com um anúncio que explicava
+o quanto eles eram inteligentes, rentáveis, conservadores (e bonitos). Estava na
+cara que seus lucros eram simplesmente dinheiro tomado emprestado do destino,
+uma dívida que seria cobrada em alguma data aleatória. Não tenho nenhum
+problema com quem corre riscos, mas por favor, por favor, não se autodenomine
+conservador e banque o superior em comparação a outras empresas que não são
+tão vulneráveis aos Cisnes Negros.
+Outro acontecimento recente é a falência quase instantânea, em 1998, de uma
+instituição de investimentos ﬁnanceiros (hedge fund) chamada Long-Term
+Capital Management (Y~5_), que usava os métodos e o conhecimento técnico de
+gerenciamento de riscos de dois “economistas ganhadores do Nobel”, que,
+embora tidos como “gênios”, na verdade usavam matemática fajuta, estilo curva
+em forma de sino, enquanto conseguiam convencer a si mesmos de que era uma
+ciência formidável e, assim, estavam fazendo todos no establishment do mercado
+
+ﬁnanceiro de otários. Uma das maiores perdas do mercado de ações da história
+ocorreu quase que em um piscar de olhos, sem nenhum sinal de alerta (falarei
+mais, muito mais sobre isso no capítulo 17).4
+Um Cisne Negro é relativo ao conhecimento
+Do ponto de vista do peru, não ser alimentado no 1001º dia é um Cisne
+Negro. Para o açougueiro, não é, já que a ocorrência não é inesperada. Então você
+pode ver aqui que o Cisne Negro é um problema de otário. Em outras palavras,
+ele ocorre em relação à sua expectativa. Você se dá conta de que pode eliminar
+um Cisne Negro por meio da ciência (se for capaz), ou mantendo a mente aberta.
+Claro que, como o pessoal do Y~5_, você pode criar Cisnes Negros com ciência,
+assegurando às pessoas que o Cisne Negro não vai acontecer — é aí que a ciência
+transforma cidadãos normais em otários.
+Observe que esses eventos não precisam ser surpresas instantâneas. Algumas
+das rupturas históricas que menciono no capítulo 1 duraram algumas décadas. Foi
+o caso, por exemplo, do computador pessoal, que acarretou efeitos relevantes na
+sociedade sem que sua invasão de nossa vida fosse perceptível no dia a dia.
+Alguns Cisnes Negros podem vir do lento acúmulo de mudanças graduais na
+mesma direção, como acontece com os livros que vendem grandes quantidades
+ao longo dos anos, sem nunca aparecer nas listas dos mais vendidos, ou com as
+tecnologias que se inﬁltram em nós de forma furtiva, mas inelutável. Do mesmo
+modo, o aumento do valor das ações da Nasdaq no ﬁnal da década de 1990
+demorou alguns anos — mas esse crescimento pareceria mais acentuado se fosse
+traçado ao longo de uma linha histórica mais ampla. As coisas devem ser vistas
+em uma escala de tempo relativa, não absoluta: terremotos duram minutos, o
+Onze de Setembro durou horas, mas as mudanças históricas e implementações
+tecnológicas são Cisnes Negros que podem levar décadas. Em geral, Cisnes
+Negros positivos demoram algum tempo para mostrar seus efeitos, ao passo que
+os negativos acontecem muito rapidamente — é muito mais fácil e rápido destruir
+do que construir. (Durante a guerra no Líbano, a casa dos meus pais em Amioun
+e a casa do meu avô em um povoado próximo foram destruídas em questão de
+poucas horas, dinamitadas por inimigos do meu avô que controlavam a área.
+Levou 7 mil vezes mais tempo — dois anos — para reconstruí-las. Essa assimetria
+em escalas de tempo explica a diﬁculdade de reverter o tempo.)
+UMA BREVE HISTÓRIA DO PROBLEMA DO CISNE NEGRO
+
+Esse problema do peru (também conhecido como problema da indução) é
+muito antigo, mas, por alguma razão, provavelmente seu professor local de
+ﬁlosoﬁa o chame de “problema de Hume”.
+As pessoas imaginam que nós, céticos e empiristas, somos taciturnos,
+paranoicos e torturados em nossa vida privada, o que pode ser exatamente o
+oposto do que a história (e minha experiência pessoal) registra. Como muitos dos
+céticos com quem convivo, Hume era jovial e bon-vivant, ávido pela fama
+literária, por salões sociais e conversas agradáveis. Sua vida não foi desprovida de
+episódios pitorescos. Certa vez, ele caiu em um pântano nos arredores da casa
+que estava construindo em Edimburgo. Devido à sua reputação de ateu entre os
+habitantes locais, uma mulher recusou-se a tirá-lo de lá até que ele recitasse o
+pai-nosso e o credo, o que ele, tendo uma mente prática, fez. Mas não sem antes
+argumentar com a mulher sobre os cristãos serem ou não obrigados a ajudar seus
+inimigos. Hume tinha uma aparência pouco graciosa. “Ele exibia aquele olhar ﬁxo
+e preocupado do acadêmico atencioso que geralmente deixa uma impressão de
+imbecilidade em quem não tem discernimento”, escreve um biógrafo.
+Estranhamente, Hume não foi conhecido durante sua época pelas obras que
+geraram a reputação da qual ele desfruta hoje em dia — ele ganhou fama e riqueza
+ao escrever um livro sobre a história da Inglaterra que se tornou um best-seller.
+O irônico é que, quando Hume estava vivo, suas obras ﬁlosóﬁcas, às quais agora
+atribuímos sua fama, “saíam natimortas das prensas tipográﬁcas”, ao passo que as
+obras pelas quais ele era famoso na época são agora mais difíceis de encontrar.
+Hume escrevia com tanta clareza que envergonha quase todos os pensadores da
+atualidade e, sem dúvida, todo o currículo acadêmico de pós-graduação alemão.
+Ao contrário de Kant, Fichte, Schopenhauer e Hegel, Hume é o tipo de pensador
+que às vezes é lido pela pessoa que menciona sua obra.
+Costumo ouvir o “problema de Hume” mencionado em conexão com o
+problema da indução, mas o problema é antigo, mais antigo do que o interessante
+escocês, talvez tão antigo quanto a própria ﬁlosoﬁa, talvez tão antigo quanto
+conversas em olivais. Vamos voltar ao passado, pois o problema foi formulado
+com a mesma precisão pelos antigos.
+Sexto, o (lamentavelmente) Empírico
+Escritor violentamente antiacadêmico e ativista antidogmático, Sexto
+Empírico atuou cerca de um milênio e meio antes de Hume, e formulou com
+grande precisão o problema do peru. Temos pouca informação sobre Sexto; não
+sabemos se era um ﬁlósofo ou se estava mais para um copista de textos
+
+ﬁlosóﬁcos, de autores que hoje em dia são obscuros para nós. Presumimos que
+viveu em Alexandria no segundo século de nossa era. Sexto fazia parte de uma
+escola de medicina chamada “empírica”, uma vez que seus praticantes duvidavam
+de teorias e da causalidade e se orientavam por experiências passadas para
+ministrar os tratamentos, embora não botassem muita fé neles. Além disso, não
+conﬁavam que a anatomia revelasse funções de maneira tão óbvia assim. Diz-se
+que o adepto mais famoso da escola empírica, Menódoto de Nicomédia, que
+fundiu o empirismo e o ceticismo ﬁlosóﬁco, manteve a medicina na condição de
+arte, não de “ciência”, e separou a prática médica dos problemas da ciência
+dogmática. A prática da medicina explica a adição do epíteto empiricus (“o
+empírico”) ao nome de Sexto.
+Sexto representou e redigiu as ideias da escola dos céticos pirrônicos, que
+buscavam alguma forma de terapia intelectual resultante da suspensão da crença.
+Você está diante da possibilidade de um evento adverso? Não se preocupe.
+Talvez isso acabe sendo bom para você. Duvidar das consequências de um
+resultado lhe permitirá manter-se imperturbável. Os céticos pirrônicos eram
+cidadãos dóceis que, sempre que possível, seguiam costumes e tradições, mas
+ensinaram a si mesmos a duvidar sistematicamente de tudo, de modo a atingir
+algum nível de serenidade. Todavia, embora conservadores em seus hábitos, eram
+radicais em sua luta contra o dogma.
+Entre as obras de Sexto que sobreviveram está uma diatribe com o belo título
+Adversos Mathematicos, às vezes traduzido como Contra os professores.5 Boa
+parte poderia ter sido escrita na noite da última quarta-feira!
+No que diz respeito às minhas ideias, o mais interessante em Sexto é a rara
+mistura de ﬁlosoﬁa e tomada de decisões em sua prática. Sexto era um realizador,
+portanto os estudiosos clássicos não dizem coisas boas sobre ele. Os métodos da
+medicina empírica, ﬁando-se no sistema de tentativa e erro aparentemente
+despropositado, serão fundamentais para as minhas ideias sobre planejamento e
+previsão, sobre como tirar proveito do Cisne Negro.
+Em 1998, quando me tornei dono do meu próprio nariz, dei a meu
+laboratório de pesquisa e agência de operações ﬁnanceiras o nome Empirica, não
+pelas mesmas razões antidogmáticas, mas por conta do lembrete muito mais
+deprimente de que foram necessários pelo menos outros catorze séculos na
+esteira dos trabalhos da escola de medicina empírica antes que a medicina
+mudasse e ﬁnalmente se tornasse adogmática, desconﬁada de teorizações,
+profundamente cética e baseada em evidências! A lição? Que a consciência de
+
+um problema não signiﬁca muita coisa, especialmente quando isso envolve
+interesses especiais e instituições interesseiras.
+Algazel
+O terceiro pensador de grande envergadura que tratou do problema foi o
+cético de língua árabe do século  Al-Ghazali, conhecido em latim como
+Algazel. O nome que ele deu para uma classe de acadêmicos dogmáticos foi
+ghabi, literalmente “os imbecis”, forma árabe que é mais engraçada do que
+“ignorantes” e mais expressiva do que “obscurantistas”. Algazel escreveu seu
+próprio Contra os professores, uma diatribe intitulada Tahafut al falasifah, que
+traduzo como “A incompetência dos ﬁlósofos”. O alvo era a escola chamada
+falasifah — o establishment intelectual árabe foi o herdeiro direto da ﬁlosoﬁa
+clássica da academia, e eles conseguiram reconciliá-la com o islã por meio de
+argumentos racionais.
+O ataque de Algazel ao conhecimento “cientíﬁco” iniciou um debate com
+Averróis, o ﬁlósofo medieval que, entre todos os pensadores de sua era, acabou
+sendo o mais inﬂuente (com grande ascendência sobre judeus e cristãos, mas não
+sobre os muçulmanos). Por ﬁm, o debate entre Algazel e Averróis foi,
+infelizmente, vencido por ambos. Como consequência, muitos pensadores
+religiosos árabes integraram e exageraram o ceticismo de Algazel em relação ao
+método cientíﬁco, preferindo deixar para Deus as considerações de causalidade
+(na verdade, foi uma interpretação um tanto quanto forçada da ideia de Algazel).
+O Ocidente adotou o racionalismo de Averróis (alicerçado em Aristóteles), que
+sobreviveu por meio de Tomás de Aquino e dos ﬁlósofos judeus que por um
+longo tempo se chamaram de averroístas. Muitos pensadores culpam a enorme
+inﬂuência de Algazel pelo posterior abandono do método cientíﬁco por parte dos
+árabes — embora tudo indique que isso se deu alguns séculos depois. Algazel
+acabou alimentando o misticismo suﬁ, no qual o devoto tenta entrar em
+comunhão com Deus e corta todas as conexões com questões terrenas. Tudo isso
+veio do problema do Cisne Negro.
+O cético, amigo da religião
+Enquanto os céticos antigos defendiam a ignorância aprendida como o
+primeiro passo para indagações honestas sobre a verdade, céticos medievais
+posteriores, tanto muçulmanos quanto cristãos, usaram o ceticismo como uma
+ferramenta para não aceitar o que hoje chamamos de ciência. A crença na
+importância do problema do Cisne Negro, as preocupações relativas à indução e
+
+o ceticismo podem tornar alguns argumentos religiosos mais atraentes, ainda que
+de forma despojada, anticlerical e teísta. A ideia de conﬁar na fé, não na razão,
+era conhecida como ﬁdeísmo. Então, há uma tradição dos céticos do Cisne
+Negro que encontraram consolo na religião, e cujo representante mais destacado
+é o erudito protestante Pierre Bayle, ﬁlósofo e teólogo francófono que, exilado na
+Holanda, construiu uma extensa arquitetura ﬁlosóﬁca ligada aos céticos
+pirrônicos. Os escritos de Bayle exerceram considerável inﬂuência sobre Hume,
+apresentando-o ao ceticismo antigo — a tal ponto que Hume comprou ideias de
+Bayle no atacado. O Dictionnaire historique et critique de Bayle foi a obra
+acadêmica mais lida do século , mas, como muitos dos meus heróis franceses
+(a exemplo de Frédéric Bastiat), Bayle não parece fazer parte do currículo
+acadêmico francês, e é quase impossível encontrar a obra na língua francesa
+original. O mesmo acontece com Nicolau de Autrécourt, algazelista do século
+.
+Na verdade, não é um fato bem conhecido que a exposição mais completa das
+ideias do ceticismo, até recentemente, continua sendo a obra de um poderoso
+bispo católico que foi um augusto membro da Academia Francesa. Pierre-Daniel
+Huet escreveu em 1690 seu Tratado ﬁlosóﬁco sobre as fraquezas da mente
+humana, livro extraordinário que faz picadinho de dogmas e questiona a
+percepção humana. Huet apresenta argumentos bastante potentes contra a
+causalidade — ele aﬁrma, por exemplo, que qualquer evento pode ter uma
+inﬁnidade de causas possíveis.
+Huet e Bayle eram eruditos e passaram a vida debruçados sobre livros. Huet,
+que viveu até os noventa e poucos anos de idade, fazia um criado segui-lo com
+um livro para ler em voz alta durante as refeições e nos intervalos, evitando assim
+a perda de tempo. Era tido como a pessoa mais lida e versada de sua época.
+Permita-me insistir que, para mim, a erudição é importante. É sinal de genuína
+curiosidade intelectual. Acompanha uma mente aberta e o desejo de investigar as
+ideias alheias. Acima de tudo, um erudito pode se sentir insatisfeito com seu
+próprio conhecimento, e essa insatisfação é um maravilhoso escudo contra a
+platonicidade, as simpliﬁcações do “gerente dos cinco minutos” ou a vulgaridade
+inculta do acadêmico superespecializado. De fato, academicismo sem erudição
+pode levar a desastres.
+Não quero ser um peru
+Mas promover o ceticismo ﬁlosóﬁco não é exatamente a missão deste livro. Se
+a consciência do problema do Cisne Negro pode nos levar à abstinência e ao
+
+ceticismo extremo, aqui sigo a direção exatamente oposta. Estou interessado em
+ações e no verdadeiro empirismo. Então, este livro não foi escrito por um místico
+suﬁ, nem por um cético no sentido antigo ou medieval, tampouco (veremos) em
+um sentido ﬁlosóﬁco, mas por um praticante cujo principal objetivo é não ser um
+otário nas coisas que importam, ponto-ﬁnal.
+Hume era radicalmente cético no terreno ﬁlosóﬁco, mas abandonava essas
+ideias quando se tratava da vida cotidiana, uma vez que não conseguia lidar com
+elas. Aqui estou fazendo exatamente o contrário: sou cético em questões que têm
+implicações para a vida diária. De certa forma, tudo o que me importa é tomar
+uma decisão sem ser o peru.
+Nos últimos vinte anos, muitas pessoas de nível intelectual mediano me
+perguntaram, “Taleb, considerando a sua extrema consciência dos riscos, como é
+que você consegue atravessar a rua?”, ou ﬁzeram a declaração mais tola, “Você
+está nos pedindo para não corrermos riscos”. Claro que não estou defendendo a
+total fobia ao risco (veremos que sou a favor de um tipo agressivo de exposição a
+riscos): tudo o que mostrarei neste livro é como evitar atravessar a rua com os
+olhos vendados.
+Eles querem viver no Mediocristão
+Acabei de apresentar o problema do Cisne Negro em sua forma histórica: a
+diﬁculdade fundamental de generalizar a partir das informações disponíveis, ou
+de aprender com o passado, com o conhecido e com o que já foi visto.
+Apresentei também a lista daquelas que, creio eu, são as ﬁguras históricas mais
+relevantes.
+Você pode ver que, para nós, é extremamente conveniente partir do princípio
+de que moramos no Mediocristão. Por quê? Porque isso nos permite excluir as
+surpresas do Cisne Negro! Para quem mora no Mediocristão, o problema do
+Cisne Negro ou não existe ou tem consequências insigniﬁcantes!
+Esse pressuposto afasta, como num passe de mágica, o problema da indução,
+que vem atormentando a história do pensamento desde Sexto Empírico. O
+estatístico pode acabar com a epistemologia.
+Que ilusão! Nós não vivemos no Mediocristão, então o Cisne Negro precisa
+de uma mentalidade diferente. Como não podemos varrer o problema para
+debaixo do tapete, teremos que examiná-lo mais a fundo. Não se trata de uma
+diﬁculdade incontornável — e podemos até mesmo nos beneﬁciar dela.
+
+Ora, existem outros temas decorrentes de nossa cegueira em relação ao Cisne
+Negro:
+a. Nós nos concentramos em segmentos pré-selecionados daquilo que é visto,
+e a partir daí generalizamos para o que não é visto: o erro de conﬁrmação.
+b. Nós nos enganamos com histórias que satisfazem nossa sede platônica por
+padrões distintos: a falácia narrativa.
+c. Nós nos comportamos como se o Cisne Negro não existisse: a natureza
+humana não é programada para Cisnes Negros.
+d. O que vemos não é necessariamente tudo o que existe. A história esconde
+de nós os Cisnes Negros e nos dá uma ideia errônea sobre as
+probabilidades desses eventos: é a distorção da evidência silenciosa.
+e. Nós enxergamos com “visão de túnel”, isto é, nos concentramos em
+algumas fontes bem deﬁnidas de incerteza, em uma lista muito especíﬁca
+de Cisnes Negros (à custa dos outros que não vêm facilmente à mente).
+Discutirei cada um dos pontos nos próximos cinco capítulos. Em seguida, na
+conclusão da parte , mostrarei como, de fato, eles são o mesmo tópico.
+

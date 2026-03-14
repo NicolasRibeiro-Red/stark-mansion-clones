@@ -1,0 +1,113 @@
+# Data Warehouse
+
+Paginas: 123-125
+
+22 H. W. Inmon, Building the Data Warehouse (Hoboken: Wiley, 2005).
+Now, we’ll look at examples and types of architectures—some established for dec‐
+ades (the data warehouse), some brand-new (the data lakehouse), and some that
+quickly came and went but still influence current architecture patterns (Lambda
+architecture).
+Examples and Types of Data Architecture
+Because data architecture is an abstract discipline, it helps to reason by example. In
+this section, we outline prominent examples and types of data architecture that are
+popular today. Though this set of examples is by no means exhaustive, the intention is
+to expose you to some of the most common data architecture patterns and to get you
+thinking about the requisite flexibility and trade-off analysis needed when designing
+a good architecture for your use case.
+Data Warehouse
+A data warehouse is a central data hub used for reporting and analysis. Data in a
+data warehouse is typically highly formatted and structured for analytics use cases. It’s
+among the oldest and most well-established data architectures.
+In 1989, Bill Inmon originated the notion of the data warehouse, which he described
+as “a subject-oriented, integrated, nonvolatile, and time-variant collection of data
+in support of management’s decisions.”22 Though technical aspects of the data ware‐
+house have evolved significantly, we feel this original definition still holds its weight
+today.
+In the past, data warehouses were widely used at enterprises with significant budgets
+(often in the millions of dollars) to acquire data systems and pay internal teams
+to provide ongoing support to maintain the data warehouse. This was expensive
+and labor-intensive. Since then, the scalable, pay-as-you-go model has made cloud
+data warehouses accessible even to tiny companies. Because a third-party provider
+manages the data warehouse infrastructure, companies can do a lot more with fewer
+people, even as the complexity of their data grows.
+It’s worth noting two types of data warehouse architecture: organizational and tech‐
+nical. The organizational data warehouse architecture organizes data associated with
+certain business team structures and processes. The technical data warehouse architec‐
+ture reflects the technical nature of the data warehouse, such as MPP. A company
+can have a data warehouse without an MPP system or run an MPP system that
+is not organized as a data warehouse. However, the technical and organizational
+architectures have existed in a virtuous cycle and are frequently identified with each
+other.
+98
+|
+Chapter 3: Designing Good Data Architecture
+
+The organizational data warehouse architecture has two main characteristics:
+Separates online analytical processing (OLAP) from production databases (online trans‐
+action processing)
+This separation is critical as businesses grow. Moving data into a separate physi‐
+cal system directs load away from production systems and improves analytics
+performance.
+Centralizes and organizes data
+Traditionally, a data warehouse pulls data from application systems by using
+ETL. The extract phase pulls data from source systems. The transformation
+phase cleans and standardizes data, organizing and imposing business logic in a
+highly modeled form. (Chapter 8 covers transformations and data models.) The
+load phase pushes data into the data warehouse target database system. Data is
+loaded into multiple data marts that serve the analytical needs for specific lines
+or business and departments. Figure 3-10 shows the general workflow. The data
+warehouse and ETL go hand in hand with specific business structures, including
+DBA and ETL developer teams that implement the direction of business leaders
+to ensure that data for reporting and analytics corresponds to business processes.
+Figure 3-10. Basic data warehouse with ETL
+Regarding the technical data warehouse architecture, the first MPP systems in the
+late 1970s became popular in the 1980s. MPPs support essentially the same SQL
+semantics used in relational application databases. Still, they are optimized to scan
+massive amounts of data in parallel and thus allow high-performance aggregation
+and statistical calculations. In recent years, MPP systems have increasingly shifted
+from a row-based to a columnar architecture to facilitate even larger data and queries,
+especially in cloud data warehouses. MPPs are indispensable for running performant
+queries for large enterprises as data and reporting needs grow.
+One variation on ETL is ELT. With the ELT data warehouse architecture, data gets
+moved more or less directly from production systems into a staging area in the data
+warehouse. Staging in this setting indicates that the data is in a raw form. Rather than
+using an external system, transformations are handled directly in the data warehouse.
+The intention is to take advantage of the massive computational power of cloud data
+Examples and Types of Data Architecture
+|
+99
+
+warehouses and data processing tools. Data is processed in batches, and transformed
+output is written into tables and views for analytics. Figure 3-11 shows the general
+process. ELT is also popular in a streaming arrangement, as events are streamed from
+a CDC process, stored in a staging area, and then subsequently transformed within
+the data warehouse.
+Figure 3-11. ELT—extract, load, and transform
+A second version of ELT was popularized during big data growth in the Hadoop
+ecosystem. This is transform-on-read ELT, which we discuss in “Data Lake” on page
+101.
+The cloud data warehouse
+Cloud data warehouses represent a significant evolution of the on-premises data
+warehouse architecture and have thus led to significant changes to the organiza‐
+tional architecture. Amazon Redshift kicked off the cloud data warehouse revolution.
+Instead of needing to appropriately size an MPP system for the next several years and
+sign a multimillion-dollar contract to procure the system, companies had the option
+of spinning up a Redshift cluster on demand, scaling it up over time as data and
+analytics demand grew. They could even spin up new Redshift clusters on demand
+to serve specific workloads and quickly delete clusters when they were no longer
+needed.
+Google BigQuery, Snowflake, and other competitors popularized the idea of separat‐
+ing compute from storage. In this architecture, data is housed in object storage,
+allowing virtually limitless storage. This also gives users the option to spin up
+computing power on demand, providing ad hoc big data capabilities without the
+long-term cost of thousands of nodes.
+Cloud data warehouses expand the capabilities of MPP systems to cover many big
+data use cases that required a Hadoop cluster in the very recent past. They can readily
+process petabytes of data in a single query. They typically support data structures that
+allow the storage of tens of megabytes of raw text data per row or extremely rich and
+complex JSON documents. As cloud data warehouses (and data lakes) mature, the
+line between the data warehouse and the data lake will continue to blur.
+100
+|
+Chapter 3: Designing Good Data Architecture
+

@@ -1,0 +1,253 @@
+# Improving Query Performance
+
+Paginas: 300-305
+
+1. The database engine compiles the SQL, parsing the code to check for proper
+1.
+semantics and ensuring that the database objects referenced exist and that the
+current user has the appropriate access to these objects.
+2. The SQL code is converted into bytecode. This bytecode expresses the steps
+2.
+that must be executed on the database engine in an efficient, machine-readable
+format.
+3. The database’s query optimizer analyzes the bytecode to determine how to exe‐
+3.
+cute the query, reordering and refactoring steps to use available resources as
+efficiently as possible.
+4. The query is executed, and results are produced.
+4.
+The Query Optimizer
+Queries can have wildly different execution times, depending on how they’re exe‐
+cuted. A query optimizer’s job is to optimize query performance and minimize costs
+by breaking the query into appropriate steps in an efficient order. The optimizer will
+assess joins, indexes, data scan size, and other factors. The query optimizer attempts
+to execute the query in the least expensive manner.
+Query optimizers are fundamental to how your query will perform. Every database
+is different and executes queries in ways that are obviously and subtly different from
+each other. You won’t directly work with a query optimizer, but understanding some
+of its functionality will help you write more performant queries. You’ll need to know
+how to analyze a query’s performance, using things like an explain plan or query
+analysis, described in the following section.
+Improving Query Performance
+In data engineering, you’ll inevitably encounter poorly performing queries. Knowing
+how to identify and fix these queries is invaluable. Don’t fight your database. Learn to
+work with its strengths and augment its weaknesses. This section shows various ways
+to improve your query performance.
+Optimize your join strategy and schema
+A single dataset (such as a table or file) is rarely useful on its own; we create value
+by combining it with other datasets. Joins are one of the most common means of
+combining datasets and creating new ones. We assume that you’re familiar with
+the significant types of joins (e.g., inner, outer, left, cross) and the types of join
+relationships (e.g., one to one, one to many, many to one, and many to many).
+Queries
+|
+275
+
+Joins are critical in data engineering and are well supported and performant in many
+databases. Even columnar databases, which in the past had a reputation for slow join
+performance, now generally offer excellent performance.
+A common technique for improving query performance is to prejoin data. If you find
+that analytics queries are joining the same data repeatedly, it often makes sense to
+join the data in advance and have queries read from the prejoined version of the
+data so that you’re not repeating computationally intensive work. This may mean
+changing the schema and relaxing normalization conditions to widen tables and
+utilize newer data structures (such as arrays or structs) for replacing frequently joined
+entity relationships. Another strategy is maintaining a more normalized schema but
+prejoining tables for the most common analytics and data science use cases. We
+can simply create prejoined tables and train users to utilize these or join inside
+materialized views (see “Materialized Views, Federation, and Query Virtualization”
+on page 323).
+Next, consider the details and complexity of your join conditions. Complex join logic
+may consume significant computational resources. We can improve performance for
+complex joins in a few ways.
+Many row-oriented databases allow you to index a result computed from a row.
+For instance, PostgreSQL allows you to create an index on a string field converted
+to lowercase; when the optimizer encounters a query where the lower() function
+appears inside a predicate, it can apply the index. You can also create a new derived
+column for joining, though you will need to train users to join on this column.
+Row Explosion
+An obscure but frustrating problem is row explosion. This occurs when we have a
+large number of many-to-many matches, either because of repetition in join keys or
+as a consequence of join logic. Suppose the join key in table A has the value this
+repeated five times, and the join key in table B contains this same value repeated 10
+times. This leads to a cross-join of these rows: every this row from table A paired
+with every this row from table B. This creates 5 × 10 = 50 rows in the output. Now
+suppose that many other repeats are in the join key. Row explosion often generates
+enough rows to consume a massive quantity of database resources or even cause a
+query to fail.
+It is also essential to know how your query optimizer handles joins. Some databases
+can reorder joins and predicates, while others cannot. A row explosion in an early
+query stage may cause the query to fail, even though a later predicate should correctly
+remove many of the repeats in the output. Predicate reordering can significantly
+reduce the computational resources required by a query.
+276
+|
+Chapter 8: Queries, Modeling, and Transformation
+
+Finally, use common table expressions (CTEs) instead of nested subqueries or tem‐
+porary tables. CTEs allow users to compose complex queries together in a readable
+fashion, helping you understand the flow of your query. The importance of readabil‐
+ity for complex queries cannot be understated.
+In many cases, CTEs will also deliver better performance than a script that creates
+intermediate tables; if you have to create intermediate tables, consider creating tem‐
+porary tables. If you’d like to learn more about CTEs, a quick web search will yield
+plenty of helpful information.
+Use the explain plan and understand your query’s performance
+As you learned in the preceding section, the database’s query optimizer influences
+the execution of a query. The query optimizer’s explain plan will show you how the
+query optimizer determined its optimum lowest-cost query, the database objects used
+(tables, indexes, cache, etc.), and various resource consumption and performance
+statistics in each query stage. Some databases provide a visual representation of query
+stages. In contrast, others make the explain plan available via SQL with the EXPLAIN
+command, which displays the sequence of steps the database will take to execute the
+query.
+In addition to using EXPLAIN to understand how your query will run, you should
+monitor your query’s performance, viewing metrics on database resource consump‐
+tion. The following are some areas to monitor:
+• Usage of key resources such as disk, memory, and network.
+•
+• Data loading time versus processing time.
+•
+• Query execution time, number of records, the size of the data scanned, and the
+•
+quantity of data shuffled.
+• Competing queries that might cause resource contention in your database.
+•
+• Number of concurrent connections used versus connections available. Oversub‐
+•
+scribed concurrent connections can have negative effects on your users who may
+not be able to connect to the database.
+Avoid full table scans
+All queries scan data, but not all scans are created equal. As a rule of thumb, you
+should query only the data you need. When you run SELECT * with no predicates,
+you’re scanning the entire table and retrieving every row and column. This is very
+inefficient performance-wise and expensive, especially if you’re using a pay-as-you-go
+database that charges you either for bytes scanned or compute resources utilized
+while a query is running.
+Queries
+|
+277
+
+Whenever possible, use pruning to reduce the quantity of data scanned in a query.
+Columnar and row-oriented databases require different pruning strategies. In a
+column-oriented database, you should select only the columns you need. Most
+column-oriented OLAP databases also provide additional tools for optimizing your
+tables for better query performance. For instance, if you have a very large table
+(several terabytes in size or greater), Snowflake and BigQuery give you the option
+to define a cluster key on a table, which orders the table’s data in a way that allows
+queries to more efficiently access portions of very large datasets. BigQuery also allows
+you to partition a table into smaller segments, allowing you to query only specific
+partitions instead of the entire table. (Be aware that inappropriate clustering and key
+distribution strategies can degrade performance.)
+In row-oriented databases, pruning usually centers around table indexes, which you
+learned in Chapter 6. The general strategy is to create table indexes that will improve
+performance for your most performance-sensitive queries while not overloading the
+table with so many indexes such that you degrade performance.
+Know how your database handles commits
+A database commit is a change within a database, such as creating, updating, or delet‐
+ing a record, table, or other database objects. Many databases support transactions—
+i.e., a notion of committing several operations simultaneously in a way that maintains
+a consistent state. Please note that the term transaction is somewhat overloaded; see
+Chapter 5. The purpose of a transaction is to keep a consistent state of a database
+both while it’s active and in the event of a failure. Transactions also handle isolation
+when multiple concurrent events might be reading, writing, and deleting from the
+same database objects. Without transactions, users would get potentially conflicting
+information when querying a database.
+You should be intimately familiar with how your database handles commits and
+transactions, and determine the expected consistency of query results. Does your
+database handle writes and updates in an ACID-compliant manner? Without ACID
+compliance, your query might return unexpected results. This could result from a
+dirty read, which happens when a row is read and an uncommitted transaction has
+altered the row. Are dirty reads an expected behavior of your database? If so, how
+do you handle this? Also, be aware that during update and delete transactions, some
+databases create new files to represent the new state of the database and retain the old
+files for failure checkpoint references. In these databases, running a large number of
+small commits can lead to clutter and consume significant storage space that might
+need to be vacuumed periodically.
+Let’s briefly consider three databases to understand the impact of commits (note these
+examples are current as of the time of this writing). First, suppose we’re looking at
+a PostgreSQL RDBMS and applying ACID transactions. Each transaction consists of
+278
+|
+Chapter 8: Queries, Modeling, and Transformation
+
+1 See, for example, Emin Gün Sirer, “NoSQL Meets Bitcoin and Brings Down Two Exchanges: The Story of
+Flexcoin and Poloniex,” Hacking, Distributed, April 6, 2014, https://oreil.ly/RM3QX.
+a package of operations that will either fail or succeed as a group. We can also run
+analytics queries across many rows; these queries will present a consistent picture of
+the database at a point in time.
+The disadvantage of the PostgreSQL approach is that it requires row locking (blocking
+reads and writes to certain rows), which can degrade performance in various ways.
+PostgreSQL is not optimized for large scans or the massive amounts of data appropri‐
+ate for large-scale analytics applications.
+Next, consider Google BigQuery. It utilizes a point-in-time full table commit model.
+When a read query is issued, BigQuery will read from the latest committed snapshot
+of the table. Whether the query runs for one second or two hours, it will read only
+from that snapshot and will not see any subsequent changes. BigQuery does not lock
+the table while I read from it. Instead, subsequent write operations will create new
+commits and new snapshots while the query continues to run on the snapshot where
+it started.
+To prevent the inconsistent state, BigQuery allows only one write operation at a time.
+In this sense, BigQuery provides no write concurrency whatsoever. (In the sense that
+it can write massive amounts of data in parallel inside a single write query, it is highly
+concurrent.) If more than one client attempts to write simultaneously, write queries
+are queued in order of arrival. BigQuery’s commit model is similar to the commit
+models used by Snowflake, Spark, and others.
+Last, let’s consider MongoDB. We refer to MongoDB as a variable-consistency data‐
+base. Engineers have various configurable consistency options, both for the database
+and at the level of individual queries. MongoDB is celebrated for its extraordinary
+scalability and write concurrency but is somewhat notorious for issues that arise
+when engineers abuse it.1
+For instance, in certain modes, MongoDB supports ultra-high write performance.
+However, this comes at a cost: the database will unceremoniously and silently discard
+writes if it gets overwhelmed with traffic. This is perfectly suitable for applications
+that can stand to lose some data—for example, IoT applications where we simply
+want many measurements but don’t care about capturing all measurements. It is not a
+great fit for applications that need to capture exact data and statistics.
+None of this is to say these are bad databases. They’re all fantastic databases when
+they are chosen for appropriate applications and configured correctly. The same goes
+for virtually any database technology.
+Queries
+|
+279
+
+2 Some Redshift configurations rely on object storage instead.
+Companies don’t hire engineers simply to hack on code in isolation. To be worthy
+of their title, engineers should develop a deep understanding of the problems they’re
+tasked with solving and the technology tools. This applies to commit and consistency
+models and every other aspect of technology performance. Appropriate technology
+choices and configuration can ultimately differentiate extraordinary success and mas‐
+sive failure. Refer to Chapter 6 for a deeper discussion of consistency.
+Vacuum dead records
+As we just discussed, transactions incur the overhead of creating new records during
+certain operations, such as updates, deletes, and index operations, while retaining the
+old records as pointers to the last state of the database. As these old records accumu‐
+late in the database filesystem, they eventually no longer need to be referenced. You
+should remove these dead records in a process called vacuuming.
+You can vacuum a single table, multiple tables, or all tables in a database. No mat‐
+ter how you choose to vacuum, deleting dead database records is important for
+a few reasons. First, it frees up space for new records, leading to less table bloat
+and faster queries. Second, new and relevant records mean query plans are more
+accurate; outdated records can lead the query optimizer to generate suboptimal and
+inaccurate plans. Finally, vacuuming cleans up poor indexes, allowing for better index
+performance.
+Vacuum operations are handled differently depending on the type of database. For
+example, in databases backed by object storage (BigQuery, Snowflake, Databricks),
+the only downside of old data retention is that it uses storage space, potentially
+costing money depending on the storage pricing model for the database. In Snow‐
+flake, users cannot directly vacuum. Instead, they control a “time-travel” interval that
+determines how long table snapshots are retained before they are auto vacuumed.
+BigQuery utilizes a fixed seven-day history window. Databricks generally retains data
+indefinitely until it is manually vacuumed; vacuuming is important to control direct
+S3 storage costs.
+Amazon Redshift handles its cluster disks in many configurations,2 and vacuuming
+can impact performance and available storage. VACUUM runs automatically behind the
+scenes, but users may sometimes want to run it manually for tuning purposes.
+Vacuuming becomes even more critical for relational databases such as PostgreSQL
+and MySQL. Large numbers of transactional operations can cause a rapid accumula‐
+tion of dead records, and engineers working in these systems need to familiarize
+themselves with the details and impact of vacuuming.
+280
+|
+Chapter 8: Queries, Modeling, and Transformation
+

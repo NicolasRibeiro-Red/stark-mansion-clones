@@ -1,0 +1,46 @@
+# Data Management
+
+Paginas: 356-356
+
+database must be controlled in the same way as you normally control access to your
+organization’s systems and environments.
+Keep credentials hidden; avoid copying and pasting passwords, access tokens, or
+other credentials into code or unencrypted files. It’s shockingly common to see code
+in GitHub repositories with database usernames and passwords pasted directly in
+the codebase! It goes without saying, don’t share passwords with other users. Finally,
+never allow unsecured or unencrypted data to traverse the public internet.
+Data Management
+Though data management is essential at the source system stage (and every other
+stage of the data engineering lifecycle), it’s especially critical at the transformation
+stage. Transformation inherently creates new datasets that need to be managed. As
+with other stages of the data engineering lifecycle, it’s critical to involve all stake‐
+holders in data models and transformations and manage their expectations. Also,
+make sure everyone agrees on naming conventions that align with the respective
+business definitions of the data. Proper naming conventions should be reflected in
+easy-to-understand field names. Users can also check in a data catalog for more
+clarity on what the field means when it was created, who maintains the dataset, and
+other relevant information.
+Accounting for definitional accuracy is key at the transformation stage. Does the
+transformation adhere to the expected business logic? Increasingly, the notion of
+a semantic or metrics layer that sits independent of transformations is becoming
+popular. Instead of enforcing business logic within the transformation at runtime,
+why not keep these definitions as a standalone stage before your transformation
+layer? While it’s still early days, expect to see semantic and metrics layers becoming
+more popular and commonplace in data engineering and data management.
+Because transformations involve mutating data, it’s critical to ensure that the data
+you’re using is free of defects and represents ground truth. If MDM is an option at
+your company, pursue its implementation. Conformed dimensions and other trans‐
+formations rely on MDM to preserve data’s original integrity and ground truth. If
+MDM isn’t possible, work with upstream stakeholders who control the data to ensure
+that any data you’re transforming is correct and complies with the agreed-upon
+business logic.
+Data transformations make it potentially difficult to know how a dataset was derived
+along the same lines. In Chapter 6, we discussed data catalogs. As we transform data,
+data lineage tools become invaluable. Data lineage tools help both data engineers,
+who must understand previous transformation steps as they create new transforma‐
+tions, and analysts, who need to understand where data came from as they run
+queries and build reports.
+Undercurrents
+|
+331
+

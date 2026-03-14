@@ -1,0 +1,176 @@
+Glossário
+Tríade
+: o trio Antifragilidade, Robustez, Fragilidade.
+Assimetria fundamental
+(também
+Assimetria de Sêneca
+): Quando alguém tem
+mais vantagens do que desvantagens
+em determinada situação, ele é antifrágil e tende a ganhar com (a) volatilidade, (b) aleatoriedade, (c) erros, (d) incerteza, (e) estressores, (f) tempo. E o inverso.
+Cama de Procusto:
+Procusto fazia com que as pessoas se ajustassem perfeitamente à sua cama, cortando ou esticando seus braços e pernas. Corresponde às situações em que simplificações não são simplificações.
+Fragilista:
+alguém que causa fragilidade por acreditar que entende o que está acontecendo. Em geral também é desprovido de senso de humor. Ver
+Iatrogenia
+. Invariavelmente, os fragilistas fragilizam privando de variabilidade os sistemas encantados pela variabilidade e destituindo de erros os sistemas que adoram erros. Os fragilistas tendem a confundir organismos com máquinas e projetos da engenharia.
+Efeito de ensinar os pássaros a voar:
+inverter o vetor do conhecimento para a leitura academia
+→
+prática ou educação
+→
+riqueza, de modo a fazer parecer que a tecnologia deve mais à ciência institucional do que realmente deve.
+Turistificação:
+a tentativa de matar a aleatoriedade da vida. Aplica-se a mãe-helicóptero, funcionários públicos de Washington, planejadores estratégicos, engenheiros sociais, manipuladores que dão “
+nudge
+” etc. Oposto:
+flanador racional
+.
+Flanador racional
+(ou apenas
+flanador
+): alguém que, ao contrário de um turista, toma uma decisão oportunista a cada etapa para rever sua programação (ou seu destino), de modo que possa impregnar-se das coisas com base em novas informações obtidas. Na área de pesquisa e no empreendedorismo, ser um flanador é chamado de “procurar a opcionalidade”. Um enfoque não narrativo da vida.
+Estratégia
+barbell:
+uma estratégia dupla, uma combinação de dois extremos, um seguro e um especulativo, tida como mais robusta do que uma estratégia “monomodal”; muitas vezes, uma condição necessária para a antifragilidade. Por exemplo, em sistemas biológicos é o equivalente a casar-se com um contador e ter um caso com um astro do rock; para um escritor, conseguir um cargo estável, que exige pouco ou nenhum trabalho, e usar seu tempo livre para escrever sem as pressões do mercado. Até mesmo a tentativa e erro é uma forma de
+barbell
+.
+Iatrogenia:
+dano causado por aquele que cura; por exemplo, quando as intervenções do médico fazem mais mal do que bem.
+Iatrogenia generalizada:
+por extensão, aplica-se aos efeitos colaterais danosos das ações dos formuladores de políticas públicas e das atividades dos acadêmicos.
+Classe submetida ao suplício:
+condição econômica de quem ganha mais do que o salário mínimo
+e
+deseja mais riqueza. Trabalhadores, monges, hippies, alguns artistas e aristocratas ingleses escapam dela. A classe média tende a se enquadrar nessa categoria; da mesma forma que os bilionários russos, os lobistas, a maioria dos banqueiros e os burocratas. Seus membros são subornáveis, contanto que providos da narrativa adequada, principalmente com a utilização da casuística.
+Erros do Cisne Negro
+Enfoque não preditivo:
+construir as coisas de uma forma imune a perturbações — portanto, robusta a mudanças em resultados futuros.
+Talesiano versus aristotélico:
+o talesiano concentra-se na exposição, na compensação obtida com as decisões; o aristotélico põe em foco a lógica, a distinção verdadeiro-falso. Para Tony Gordo, o problema gira em torno da dicotomia otário-não otário, ou riscos e recompensas. (Ver também
+não linearidades
+,
+efeitos de convexidade
+.)
+Fusão de eventos e exposição
+:
+confundir uma função de uma variável com a própria variável.
+Gerenciamento de riscos naturalista:
+a crença de que, quando se trata de gerenciamento de riscos, a Mãe Natureza tem um histórico de desempenho extremamente mais significativo do que os seres humanos racionais. É imperfeito, mas muito melhor.
+Ônus da evidência:
+o ônus da evidência recai sobre aqueles que desarranjam o natural, ou aqueles que propõem políticas de
+via positiva
+.
+Falácia lúdica:
+confundir os problemas de matemática e experimentos de laboratório, bem formulados e consistentes, com o ecologicamente complexo mundo real. Inclui confundir a aleatoriedade dos cassinos com a da vida real.
+Experimentações e bricolagem antifrágeis:
+certa classe de tentativa e erro, com os pequenos erros sendo o tipo “certo” de erros. Tudo equivalente a
+flanador racional
+.
+Hormese:
+uma pequena quantidade de uma substância nociva, ou estressor, na dose certa ou com a intensidade correta, estimula o organismo e torna-o melhor, mais forte, mais saudável e preparado para uma dose mais forte na próxima exposição (pense em ossos e em caratê).
+Intervencionismo ingênuo:
+intervenção com desprezo pela
+iatrogenia
+. A preferência, até mesmo a obrigação, de “fazer algo” em vez de não fazer nada. Embora possa ser benéfico em prontos-socorros ou em ambientes ancestrais, esse instinto é prejudicial em outros, nos quais haja um “problema para especialistas”.
+Racionalismo ingênuo:
+pensar que as razões para as coisas são, por padrão, acessíveis nos prédios universitários. Também chamado de
+Delírio soviético de Harvard
+.
+Peru e peru às avessas:
+o peru é alimentado durante mil dias por um açougueiro, e a cada dia o peru afirma, com uma confiança estatística cada vez maior, que o açougueiro “nunca lhe fará mal” — até que chega o Dia de Ação de Graças, que obriga o peru a fazer uma revisão Cisne Negro de suas convicções. O erro do
+peru às avessas
+é a confusão espelhada, não ver oportunidades — declarar que há evidências de que alguém que escava à procura de ouro ou que está em busca de curas “nunca encontrará” coisa alguma.
+Comprometimento doxástico ou “alma em jogo”:
+você só deve acreditar em previsões e opiniões proferidas por aqueles que estão comprometidos com certa crença e têm algo a perder, de modo que tenham de pagar um preço caso estejam errados.
+Heurística:
+regras gerais simples, práticas e fáceis de aplicar, que tornam a vida mais fácil. Elas são necessárias (não temos o poder mental de absorver todas as informações, e tendemos a ficar confusos com os detalhes), mas podem nos meter em encrencas, já que não sabemos que as estamos utilizando quando formamos nossos juízos.
+Heurística opaca:
+hábitos rotineiros colocados em prática pelas sociedades e que parecem não fazer sentido, embora vigorem há muito tempo e perdurem por razões desconhecidas.
+Dionisíaco:
+heurística opaca, aparentemente irracional, cujo nome homenageia Dionísio (ou Baco para os romanos), o deus do vinho, da celebração e do deleite. Opõe-se ao apolíneo, que representa a ordem.
+Problema de agência:
+situação em que o gestor de um negócio não é o verdadeiro dono, portanto segue uma estratégia que do ponto de vista cosmético parece sensata, mas que de forma oculta o beneficia e faz com que ele se torne antifrágil à custa (da fragilidade) dos verdadeiros donos ou da sociedade. Quando ele está certo, colhe grandes benefícios; quando está errado, outros pagam o preço. Esse problema muitas vezes leva à fragilidade, já que torna fácil ocultar os riscos. Afeta também políticos e acadêmicos. É uma das maiores fontes de fragilidade.
+Gerenciamento de riscos de Hamurabi:
+a ideia de que um construtor tem mais conhecimentos do que um analista, podendo ocultar os riscos nos alicerces, onde eles podem ser mais invisíveis; o remédio é eliminar o incentivo e privilegiar o risco protelado.
+Falácia da madeira verde:
+confundir a fonte de conhecimento importante ou até mesmo necessário — a cor da madeira — com outra, menos visível do exterior, menos maleável e manejável. Como os teóricos atribuem pesos errôneos ao que é preciso saber em determinado ramo de atividade ou, em termos mais genéricos, quantas coisas a que chamamos “conhecimentos relevantes” não são tão relevantes assim.
+Arriscar a própria pele/regra do capitão e do navio:
+todo capitão afunda com seu navio. Isso elimina o
+problema de agência
+e a falta de
+comprometimento doxástico
+.
+Ladrilho de Empédocles:
+um cachorro dorme no mesmo ladrilho por causa de uma correspondência natural, biológica, explicável ou não explicável, confirmada por uma longa série de frequentações recorrentes. Talvez jamais saibamos o motivo, mas a correspondência está lá. Exemplo: por que lemos livros.
+Escolha seletiva:
+selecionar a dedo, a partir dos dados, aquilo que serve para comprovar o próprio argumento, e ignorar elementos desconfirmatórios.
+Problemas éticos como transferências de assimetria (fragilidade):
+alguém rouba de outros a antifragilidade e a opcionalidade, ficando com as vantagens e deixando as desvantagens. “Arriscar a pele alheia.”
+A violação de Robert Rubin:
+roubo de opcionalidade. Obter vantagens a partir de uma estratégia sem desvantagem para si mesmo, deixando os danos para a sociedade. Rubin recebeu 120 milhões de dólares em compensação do Citibank; os contribuintes estão pagando retroativamente pelos erros dele.
+O problema de Alan Blinder:
+(1) usar retrospectivamente os privilégios do cargo à custa dos cidadãos. (2) violar regras morais, no fiel cumprimento da lei; confusão entre o ético e o legal. (3) o incentivo do regulador para a formulação de legislações complexas,
+a fim de, posteriormente, vender seu “conhecimento especializado” para o setor privado.
+O problema de Joseph Stiglitz:
+ausência de penalidades por recomendações ruins que causam danos a outras pessoas.
+Escolha seletiva
+mental, que acaba contribuindo para as causas de uma crise, ao mesmo tempo que o indivíduo se convence do contrário — e acredita ter previsto a crise. Aplica-se a pessoas com opiniões sem arriscar a própria pele.
+Opcionalidade racional:
+não ficar estagnado em determinado programa, de modo que possa mudar de opinião enquanto segue adiante, com base em descobertas ou novas informações. Também pode ser aplicado ao
+flanador racional
+.
+Inversão ética:
+adaptar a própria ética às ações (ou à profissão), e não o contrário.
+Falácia narrativa:
+nossa necessidade de ajustar uma história, ou padrão, a uma série de fatos conectados ou desconectados. A aplicação estatística é mineração de dados.
+Disciplina narrativa:
+disciplina que consiste em adaptar uma história convincente e agradável ao passado. Opõe-se à disciplina experimental. Uma excelente maneira de ludibriar as pessoas é usar as estatísticas como parte da narrativa, trazendo à tona “boas histórias” a partir dos dados graças à seleção a dedo; na medicina, estudos epidemiológicos tendem a ser maculados pela falácia narrativa, o que ocorre menos com
+experimentos controlados. Experimentos controlados são mais rigorosos, menos sujeitos à
+escolha seletiva
+.
+Ação não narrativa:
+não depende de uma narrativa para que a ação esteja correta — a narrativa está presente apenas para motivar, entreter ou suscitar uma ação. Ver
+flanador
+.
+Narrativa robusta:
+quando a narrativa não produz conclusões nem recomendações de ações opostas sob a mudança de premissa ou de ambiente. De outra maneira, a narrativa é frágil. Da mesma forma, um modelo ou ferramenta matemáticos robustos não levam a diretrizes diferentes quando algumas partes do modelo são alteradas.
+Conhecimento subtrativo:
+você sabe o que está errado com mais certeza do que sabe qualquer outra coisa. Uma aplicação da
+via negativa
+.
+Via negativa:
+em teologia e filosofia, o foco naquilo que algo não é, uma definição indireta. Na ação, é uma receita para o que evitar, o que não fazer — a subtração, e não a adição, como na medicina.
+Profecia subtrativa:
+prever o futuro por meio da eliminação do que é frágil, em vez de ingenuamente adicionar coisas. Uma aplicação da
+via negativa
+.
+Efeito Lindy:
+uma tecnologia, ou qualquer coisa não perecível, aumenta a expectativa de vida a cada dia vivido — ao contrário dos itens perecíveis (por exemplo, seres humanos, gatos, cães e tomates). Assim, um livro que vem
+sendo publicado há cem anos tem mais probabilidade de continuar sendo impresso por mais cem anos.
+Neomania:
+amor
+pela mudança em si mesma, uma forma de filisteísmo que não se põe em conformidade com o
+efeito Lindy
+e compreende a fragilidade. Prevê o futuro pela adição, e não pela subtração.
+Opacidade:
+você não vê o cano do revólver quando alguém está jogando roleta-russa. Em termos mais gerais, algumas coisas permanecem opacas para nós, levando a ilusões de compreensão.
+Mediocristão:
+um processo dominado pela mediocridade, com poucos sucessos ou fracassos extremos (digamos, por exemplo, a renda de um dentista). Nenhuma observação única é capaz de afetar significativamente o agregado. Também chamado de “cauda fina”, ou membro da família gaussiana de distribuições.
+Extremistão:
+um processo em que o total pode ser compreensivelmente impactado por uma única observação (digamos, por exemplo, a renda de um escritor). Também chamado de “cauda grossa”. Inclui a família de distribuições fractais, ou da lei de potência.
+Não linearidades, efeitos de convexidade (sorriso e cara fechada):
+as não linearidades podem ser côncavas ou convexas, ou uma mistura de ambas. O termo
+efeitos de convexidade
+é uma extensão e uma generalização da assimetria fundamental. O nome técnico da fragilidade é efeitos de convexidade negativos, e o da antifragilidade é efeitos de convexidade positivos. O
+convexo é bom (um sorriso); o côncavo é ruim (uma cara fechada).
+Pedra filosofal
+,
+também chamada de
+viés de convexidade
+(muito técnico): a medida exata dos benefícios derivados da não linearidade ou da opcionalidade (ou, em termos ainda mais técnicos, a diferença entre
+x
+e uma função convexa de
+x
+). Por exemplo, esse viés pode quantificar os benefícios para a saúde da intensidade variável da ventilação pulmonar em função da pressão constante, ou calcular os ganhos com a alimentação esporádica. A
+cama de Procusto
+a partir da negligência da não linearidade (para “simplificar”) está em presumir que esse viés de convexidade não existe.

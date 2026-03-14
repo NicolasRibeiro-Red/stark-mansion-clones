@@ -1,0 +1,75 @@
+# Modularity
+
+Paginas: 165-166
+
+Figure 4-4. The monolith tightly couples its services
+Of course, the monolith has cons. For one thing, monoliths are brittle. Because of the
+vast number of moving parts, updates and releases take longer and tend to bake in
+“the kitchen sink.” If the system has a bug—hopefully, the software’s been thoroughly
+tested before release!—it can harm the entire system.
+User-induced problems also happen with monoliths. For example, we saw a mono‐
+lithic ETL pipeline that took 48 hours to run. If anything broke anywhere in the
+pipeline, the entire process had to restart. Meanwhile, anxious business users were
+waiting for their reports, which were already two days late by default and usually
+arrived much later. Breakages were common enough that the monolithic system was
+eventually thrown out.
+Multitenancy in a monolithic system can also be a significant problem. It can be
+challenging to isolate the workloads of multiple users. In an on-prem data warehouse,
+one user-defined function might consume enough CPU to slow the system for other
+users. Conflicts between dependencies and resource contention are frequent sources
+of headaches.
+Another con of monoliths is that switching to a new system will be painful if the
+vendor or open source project dies. Because all of your processes are contained in
+the monolith, extracting yourself out of that system, and onto a new platform, will be
+costly in both time and money.
+Modularity
+Modularity (Figure 4-5) is an old concept in software engineering, but modular
+distributed systems truly came into vogue with the rise of microservices. Instead of
+relying on a massive monolith to handle your needs, why not break apart systems and
+processes into their self-contained areas of concern? Microservices can communicate
+via APIs, allowing developers to focus on their domains while making their applica‐
+tions accessible to other microservices. This is the trend in software engineering and
+is increasingly seen in modern data systems.
+140
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+
+Figure 4-5. With modularity, each service is decoupled from another
+Major tech companies have been key drivers in the microservices movement. The
+famous Bezos API mandate decreases coupling between applications, allowing refac‐
+toring and decomposition. Bezos also imposed the two-pizza rule (no team should
+be so large that two pizzas can’t feed the whole group). Effectively, this means that a
+team will have at most five members. This cap also limits the complexity of a team’s
+domain of responsibility—in particular, the codebase that it can manage. Whereas
+an extensive monolithic application might entail a group of one hundred people,
+dividing developers into small groups of five requires that this application be broken
+into small, manageable, loosely coupled pieces.
+In a modular microservice environment, components are swappable, and it’s possi‐
+ble to create a polyglot (multiprogramming language) application; a Java service
+can replace a service written in Python. Service customers need worry only about
+the technical specifications of the service API, not behind-the-scenes details of
+implementation.
+Data-processing technologies have shifted toward a modular model by providing
+strong support for interoperability. Data is stored in object storage in a standard
+format such as Parquet in data lakes and lakehouses. Any processing tool that sup‐
+ports the format can read the data and write processed results back into the lake
+for processing by another tool. Cloud data warehouses support interoperation with
+object storage through import/export using standard formats and external tables—
+i.e., queries run directly on data in a data lake.
+New technologies arrive on the scene at a dizzying rate in today’s data ecosystem, and
+most get stale and outmoded quickly. Rinse and repeat. The ability to swap out tools
+as technology changes is invaluable. We view data modularity as a more powerful
+paradigm than monolithic data engineering. Modularity allows engineers to choose
+the best technology for each job or step along the pipeline.
+The cons of modularity are that there’s more to reason about. Instead of handling a
+single system of concern, now you potentially have countless systems to understand
+and operate. Interoperability is a potential headache; hopefully, these systems all play
+nicely together.
+This very problem led us to break out orchestration as a separate undercurrent
+instead of placing it under data management. Orchestration is also important for
+monolithic data architectures; witness the success of tools like BMC Software’s
+Control-M in the traditional data warehousing space. But orchestrating five or ten
+Monolith Versus Modular
+|
+141
+

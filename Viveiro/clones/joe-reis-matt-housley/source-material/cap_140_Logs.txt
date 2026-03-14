@@ -1,0 +1,45 @@
+# Logs
+
+Paginas: 185-185
+
+CDC is handled differently depending on the database technology. Relational data‐
+bases often generate an event log stored directly on the database server that can be
+processed to create a stream. (See “Database Logs” on page 161.) Many cloud NoSQL
+databases can send a log or event stream to a target storage location.
+Logs
+A log captures information about events that occur in systems. For example, a log
+may capture traffic and usage patterns on a web server. Your desktop computer’s
+operating system (Windows, macOS, Linux) logs events as the system boots and
+when applications start or crash, for example.
+Logs are a rich data source, potentially valuable for downstream data analysis, ML,
+and automation. Here are a few familiar sources of logs:
+• Operating systems
+•
+• Applications
+•
+• Servers
+•
+• Containers
+•
+• Networks
+•
+• IoT devices
+•
+All logs track events and event metadata. At a minimum, a log should capture who,
+what, and when:
+Who
+The human, system, or service account associated with the event (e.g., a web
+browser user agent or a user ID)
+What happened
+The event and related metadata
+When
+The timestamp of the event
+Log encoding
+Logs are encoded in a few ways:
+Binary-encoded logs
+These encode data in a custom compact format for space efficiency and fast I/O.
+Database logs, discussed in “Database Logs” on page 161, are a standard example.
+160
+|
+Chapter 5: Data Generation in Source Systems
+

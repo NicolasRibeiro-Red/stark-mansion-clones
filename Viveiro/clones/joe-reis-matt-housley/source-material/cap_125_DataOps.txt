@@ -1,0 +1,45 @@
+# DataOps
+
+Paginas: 174-174
+
+system would realize its full potential only with some schema changes. To make mat‐
+ters worse, vendors juice their systems with an extra shot of join optimization (e.g.,
+preindexing joins) without applying comparable tuning in the competing database
+(e.g., putting joins in a materialized view).
+Caveat Emptor
+As with all things in data technology, let the buyer beware. Do your homework before
+blindly relying on vendor benchmarks to evaluate and choose technology.
+Undercurrents and Their Impacts
+on Choosing Technologies
+As seen in this chapter, a data engineer has a lot to consider when evaluating technol‐
+ogies. Whatever technology you choose, be sure to understand how it supports the
+undercurrents of the data engineering lifecycle. Let’s briefly review them again.
+Data Management
+Data management is a broad area, and concerning technologies, it isn’t always appa‐
+rent whether a technology adopts data management as a principal concern. For
+example, behind the scenes, a third-party vendor may use data management best
+practices—regulatory compliance, security, privacy, data quality, and governance—
+but hide these details behind a limited UI layer. In this case, while evaluating the
+product, it helps to ask the company about its data management practices. Here are
+some sample questions you should ask:
+• How are you protecting data against breaches, both from the outside and within?
+•
+• What is your product’s compliance with GDPR, CCPA, and other data privacy
+•
+regulations?
+• Do you allow me to host my data to comply with these regulations?
+•
+• How do you ensure data quality and that I’m viewing the correct data in your
+•
+solution?
+There are many other questions to ask, and these are just a few of the ways to think
+about data management as it relates to choosing the right technologies. These same
+questions should also apply to the OSS solutions you’re considering.
+DataOps
+Problems will happen. They just will. A server or database may die, a cloud’s region
+may have an outage, you might deploy buggy code, bad data might be introduced into
+your data warehouse, and other unforeseen problems may occur.
+Undercurrents and Their Impacts on Choosing Technologies
+|
+149
+

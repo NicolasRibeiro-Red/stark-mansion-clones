@@ -1,0 +1,45 @@
+# Transfer Appliances for Data Migration
+
+Paginas: 286-286
+
+Here is some top-level advice to be aware of before undertaking any web-scraping
+project. First, ask yourself if you should be web scraping or if data is available from
+a third party. If your decision is to web scrape, be a good citizen. Don’t inadvertently
+create a denial-of-service (DoS) attack, and don’t get your IP address blocked. Under‐
+stand how much traffic you generate and pace your web-crawling activities appropri‐
+ately. Just because you can spin up thousands of simultaneous Lambda functions to
+scrape doesn’t mean you should; excessive web scraping could lead to the disabling of
+your AWS account.
+Second, be aware of the legal implications of your activities. Again, generating DoS
+attacks can entail legal consequences. Actions that violate terms of service may cause
+headaches for your employer or you personally.
+Third, web pages constantly change their HTML element structure, making it tricky
+to keep your web scraper updated. Ask yourself, is the headache of maintaining these
+systems worth the effort?
+Web scraping has interesting implications for the data engineering lifecycle process‐
+ing stage; engineers should think about various factors at the beginning of a web-
+scraping project. What do you intend to do with the data? Are you just pulling
+required fields from the scraped HTML by using Python code and then writing these
+values to a database? Do you intend to maintain the complete HTML code of the
+scraped websites and process this data using a framework like Spark? These decisions
+may lead to very different architectures downstream of ingestion.
+Transfer Appliances for Data Migration
+For massive quantities of data (100 TB or more), transferring data directly over the
+internet may be a slow and costly process. At this scale, the fastest, most efficient way
+to move data is not over the wire but by truck. Cloud vendors offer the ability to send
+your data via a physical “box of hard drives.” Simply order a storage device, called
+a transfer appliance, load your data from your servers, and then send it back to the
+cloud vendor, which will upload your data.
+The suggestion is to consider using a transfer appliance if your data size hovers
+around 100 TB. On the extreme end, AWS even offers Snowmobile, a transfer appli‐
+ance sent to you in a semitrailer! Snowmobile is intended to lift and shift an entire
+data center, in which data sizes are in the petabytes or greater.
+Transfer appliances are handy for creating hybrid-cloud or multicloud setups. For
+example, Amazon’s data transfer appliance (AWS Snowball) supports import and
+export. To migrate into a second cloud, users can export their data into a Snowball
+device and then import it into a second transfer appliance to move data into GCP
+or Azure. This might sound awkward, but even when it’s feasible to push data over
+Ways to Ingest Data
+|
+261
+

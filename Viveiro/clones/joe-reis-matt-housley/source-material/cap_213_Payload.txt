@@ -1,0 +1,125 @@
+# Payload
+
+Paginas: 266-268
+
+Payload
+A payload is the dataset you’re ingesting and has characteristics such as kind, shape,
+size, schema and data types, and metadata. Let’s look at some of these characteristics
+to understand why this matters.
+Kind
+The kind of data you handle directly impacts how it’s dealt with downstream in the
+data engineering lifecycle. Kind consists of type and format. Data has a type—tabular,
+image, video, text, etc. The type directly influences the data format or the way it
+is expressed in bytes, names, and file extensions. For example, a tabular kind of
+data may be in formats such as CSV or Parquet, with each of these formats having
+different byte patterns for serialization and deserialization. Another kind of data is an
+image, which has a format of JPG or PNG and is inherently unstructured.
+Shape
+Every payload has a shape that describes its dimensions. Data shape is critical across
+the data engineering lifecycle. For instance, an image’s pixel and red, green, blue
+(RGB) dimensions are necessary for training deep learning models. As another
+example, if you’re trying to import a CSV file into a database table, and your CSV
+has more columns than the database table, you’ll likely get an error during the import
+process. Here are some examples of the shapes of various kinds of data:
+Tabular
+The number of rows and columns in the dataset, commonly expressed as M rows
+and N columns
+Semistructured JSON
+The key-value pairs and nesting depth occur with subelements
+Unstructured text
+Number of words, characters, or bytes in the text body
+Images
+The width, height, and RGB color depth (e.g., 8 bits per pixel)
+Uncompressed audio
+Number of channels (e.g., two for stereo), sample depth (e.g., 16 bits per sample),
+sample rate (e.g., 48 kHz), and length (e.g., 10,003 seconds)
+Size
+The size of the data describes the number of bytes of a payload. A payload may range
+in size from single bytes to terabytes and larger. To reduce the size of a payload, it
+Key Engineering Considerations for the Ingestion Phase
+|
+241
+
+may be compressed into various formats such as ZIP and TAR (see the discussion of
+compression in Appendix A).
+A massive payload can also be split into chunks, which effectively reduces the size
+of the payload into smaller subsections. When loading a huge file into a cloud object
+storage or data warehouse, this is a common practice as the small individual files
+are easier to transmit over a network (especially if they’re compressed). The smaller
+chunked files are sent to their destination and then reassembled after all data has
+arrived.
+Schema and data types
+Many data payloads have a schema, such as tabular and semistructured data. As
+mentioned earlier in this book, a schema describes the fields and types of data
+within those fields. Other data, such as unstructured text, images, and audio, will not
+have an explicit schema or data types. However, they might come with technical file
+descriptions on shape, data and file format, encoding, size, etc.
+Although you can connect to databases in various ways (such as file export, CDC,
+JDBC/ODBC), the connection is easy. The great engineering challenge is understand‐
+ing the underlying schema. Applications organize data in various ways, and engineers
+need to be intimately familiar with the organization of the data and relevant update
+patterns to make sense of it. The problem has been somewhat exacerbated by the
+popularity of object-relational mapping (ORM), which automatically generates sche‐
+mas based on object structure in languages such as Java or Python. Natural structures
+in an object-oriented language often map to something messy in an operational
+database. Data engineers may need to familiarize themselves with the class structure
+of application code.
+Schema is not only for databases. As we’ve discussed, APIs present their schema
+complications. Many vendor APIs have friendly reporting methods that prepare data
+for analytics. In other cases, engineers are not so lucky. The API is a thin wrapper
+around underlying systems, requiring engineers to understand application internals
+to use the data.
+Much of the work associated with ingesting from source schemas happens in the
+data engineering lifecycle transformation stage, which we discuss in Chapter 8. We’ve
+placed this discussion here because data engineers need to begin studying source
+schemas as soon they plan to ingest data from a new source.
+Communication is critical for understanding source data, and engineers also have
+the opportunity to reverse the flow of communication and help software engineers
+improve data where it is produced. Later in this chapter, we’ll return to this topic in
+“Whom You’ll Work With” on page 262.
+242
+|
+Chapter 7: Ingestion
+
+Detecting and handling upstream and downstream schema changes. Changes in schema
+frequently occur in source systems and are often well out of data engineers’ control.
+Examples of schema changes include the following:
+• Adding a new column
+•
+• Changing a column type
+•
+• Creating a new table
+•
+• Renaming a column
+•
+It’s becoming increasingly common for ingestion tools to automate the detection of
+schema changes and even auto-update target tables. Ultimately, this is something of a
+mixed blessing. Schema changes can still break pipelines downstream of staging and
+ingestion.
+Engineers must still implement strategies to respond to changes automatically and
+alert on changes that cannot be accommodated automatically. Automation is excel‐
+lent, but the analysts and data scientists who rely on this data should be informed
+of the schema changes that violate existing assumptions. Even if automation can
+accommodate a change, the new schema may adversely affect the performance of
+reports and models. Communication between those making schema changes and
+those impacted by these changes is as important as reliable automation that checks
+for schema changes.
+Schema registries. In streaming data, every message has a schema, and these schemas
+may evolve between producers and consumers. A schema registry is a metadata
+repository used to maintain schema and data type integrity in the face of constantly
+changing schemas. Schema registries can also track schema versions and history. It
+describes the data model for messages, allowing consistent serialization and deseriali‐
+zation between producers and consumers. Schema registries are used in most major
+data tools and clouds.
+Metadata
+In addition to the apparent characteristics we’ve just covered, a payload often con‐
+tains metadata, which we first discussed in Chapter 2. Metadata is data about data.
+Metadata can be as critical as the data itself. One of the significant limitations of
+the early approach to the data lake—or data swamp, which could become a data
+superfund site—was a complete lack of attention to metadata. Without a detailed
+description of the data, it may be of little value. We’ve already discussed some types of
+metadata (e.g., schema) and will address them many times throughout this chapter.
+Key Engineering Considerations for the Ingestion Phase
+|
+243
+

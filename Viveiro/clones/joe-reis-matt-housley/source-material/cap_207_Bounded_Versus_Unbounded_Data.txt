@@ -1,0 +1,30 @@
+# Bounded Versus Unbounded Data
+
+Paginas: 261-261
+
+• Serialization and deserialization
+•
+• Throughput and scalability
+•
+• Reliability and durability
+•
+• Payload
+•
+• Push versus pull versus poll patterns
+•
+Let’s look at each of these.
+Bounded Versus Unbounded Data
+As you might recall from Chapter 3, data comes in two forms: bounded and unboun‐
+ded (Figure 7-3). Unbounded data is data as it exists in reality, as events happen,
+either sporadically or continuously, ongoing and flowing. Bounded data is a conve‐
+nient way of bucketing data across some sort of boundary, such as time.
+Figure 7-3. Bounded versus unbounded data
+Let us adopt this mantra: All data is unbounded until it’s bounded. Like many mantras,
+this one is not precisely accurate 100% of the time. The grocery list that I scribbled
+this afternoon is bounded data. I wrote it as a stream of consciousness (unbounded
+data) onto a piece of scrap paper, where the thoughts now exist as a list of things
+(bounded data) I need to buy at the grocery store. However, the idea is correct for
+236
+|
+Chapter 7: Ingestion
+

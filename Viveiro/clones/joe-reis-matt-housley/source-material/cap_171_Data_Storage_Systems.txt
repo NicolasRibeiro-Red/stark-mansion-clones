@@ -1,0 +1,64 @@
+# Data Storage Systems
+
+Paginas: 222-222
+
+Compression also comes with disadvantages. Compressing and decompressing data
+entails extra time and resource consumption to read or write data. We undertake a
+more detailed discussion of compression algorithms and trade-offs in Appendix A.
+Caching
+We’ve already mentioned caching in our discussion of RAM. The core idea of caching
+is to store frequently or recently accessed data in a fast access layer. The faster
+the cache, the higher the cost and the less storage space available. Less frequently
+accessed data is stored in cheaper, slower storage. Caches are critical for data serving,
+processing, and transformation.
+As we analyze storage systems, it is helpful to put every type of storage we utilize
+inside a cache hierarchy (Table 6-1). Most practical data systems rely on many cache
+layers assembled from storage with varying performance characteristics. This starts
+inside CPUs; processors may deploy up to four cache tiers. We move down the
+hierarchy to RAM and SSDs. Cloud object storage is a lower tier that supports
+long-term data retention and durability while allowing for data serving and dynamic
+data movement in pipelines.
+Table 6-1. A heuristic cache hierarchy displaying storage types with approximate pricing and
+performance characteristics
+Storage type
+Data fetch latencya Bandwidth
+Price
+CPU cache
+1 nanosecond
+1 TB/s
+N/A
+RAM
+0.1 microseconds
+100 GB/s
+$10/GB
+SSD
+0.1 milliseconds
+4 GB/s
+$0.20/GB
+HDD
+4 milliseconds
+300 MB/s
+$0.03/GB
+Object storage
+100 milliseconds
+10 GB/s
+$0.02/GB per month
+Archival storage
+12 hours
+Same as object storage once data is available
+$0.004/GB per month
+a A microsecond is 1,000 nanoseconds, and a millisecond is 1,000 microseconds.
+We can think of archival storage as a reverse cache. Archival storage provides inferior
+access characteristics for low costs. Archival storage is generally used for data back‐
+ups and to meet data-retention compliance requirements. In typical scenarios, this
+data will be accessed only in an emergency (e.g., data in a database might be lost and
+need to be recovered, or a company might need to look back at historical data for
+legal discovery).
+Data Storage Systems
+This section covers the major data storage systems you’ll encounter as a data engi‐
+neer. Storage systems exist at a level of abstraction above raw ingredients. For exam‐
+ple, magnetic disks are a raw storage ingredient, while major cloud object storage
+Data Storage Systems
+|
+197
+

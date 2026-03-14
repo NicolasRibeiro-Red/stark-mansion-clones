@@ -1,0 +1,46 @@
+# Message Queues and Event-Streaming Platforms
+
+Paginas: 280-280
+
+The third trend is the emergence of data sharing (discussed in Chapter 5)—i.e., the
+ability to exchange data through a standard platform such as BigQuery, Snowflake,
+Redshift, or S3. Once data lands on one of these platforms, it is straightforward to
+store it, process it, or move it somewhere else. Data sharing has had a large and rapid
+impact in the data engineering space.
+Don’t reinvent the wheel when data sharing is not an option and direct API access
+is necessary. While a managed service might look like an expensive option, consider
+the value of your time and the opportunity cost of building API connectors when you
+could be spending your time on higher-value work.
+In addition, many managed services now support building custom API connectors.
+This may provide API technical specifications in a standard format or writing con‐
+nector code that runs in a serverless function framework (e.g., AWS Lambda) while
+letting the managed service handle the details of scheduling and synchronization.
+Again, these services can be a huge time-saver for engineers, both for development
+and ongoing maintenance.
+Reserve your custom connection work for APIs that aren’t well supported by existing
+frameworks; you will find that there are still plenty of these to work on. Handling
+custom API connections has two main aspects: software development and ops. Fol‐
+low software development best practices; you should use version control, continuous
+delivery, and automated testing. In addition to following DevOps best practices, con‐
+sider an orchestration framework, which can dramatically streamline the operational
+burden of data ingestion.
+Message Queues and Event-Streaming Platforms
+Message queues and event-streaming platforms are widespread ways to ingest real-
+time data from web and mobile applications, IoT sensors, and smart devices. As
+real-time data becomes more ubiquitous, you’ll often find yourself either introducing
+or retrofitting ways to handle real-time data in your ingestion workflows. As such,
+it’s essential to know how to ingest real-time data. Popular real-time data ingestion
+includes message queues or event-streaming platforms, which we covered in Chap‐
+ter 5. Though these are both source systems, they also act as ways to ingest data. In
+both cases, you consume events from the publisher you subscribe to.
+Recall the differences between messages and streams. A message is handled at the
+individual event level and is meant to be transient. Once a message is consumed, it
+is acknowledged and removed from the queue. On the other hand, a stream ingests
+events into an ordered log. The log persists for as long as you wish, allowing events
+to be queried over various ranges, aggregated, and combined with other streams to
+create new transformations published to downstream consumers. In Figure 7-14,
+we have two producers (producers 1 and 2) sending events to two consumers
+Ways to Ingest Data
+|
+255
+

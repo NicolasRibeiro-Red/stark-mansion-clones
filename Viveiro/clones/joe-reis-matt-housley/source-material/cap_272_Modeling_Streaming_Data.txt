@@ -1,0 +1,98 @@
+# Modeling Streaming Data
+
+Paginas: 332-333
+
+Table 8-21. An example of denormalized data
+OrderID
+OrderItems
+CustomerID
+Customer
+Name
+OrderDate
+Site
+Site
+Region
+100
+[{
+"sku": 1,
+"price": 50,
+"quantity": 1,
+"name:":
+"Thingamajig"
+}, {
+"sku": 2,
+"price": 25,
+"quantity": 2,
+"name:":
+"Whatchamacallit"
+}]
+5
+Joe Reis
+2022-03-01
+abc.com
+US
+What If You Don’t Model Your Data?
+You also have the option of not modeling your data. In this case, just query data
+sources directly. This pattern is often used, especially when companies are just getting
+started and want to get quick insights or share analytics with their users. While it
+allows you to get answers to various questions, you should consider the following:
+• If I don’t model my data, how do I know the results of my queries are consistent?
+•
+• Do I have proper definitions of business logic in the source system, and will my
+•
+query produce truthful answers?
+• What query load am I putting on my source systems, and how does this impact
+•
+users of these systems?
+At some point, you’ll probably gravitate toward a stricter batch data model paradigm
+and a dedicated data architecture that doesn’t rely on the source systems for the heavy
+lifting.
+Modeling Streaming Data
+Whereas many data-modeling techniques are well established for batch, this is not
+the case for streaming data. Because of the unbounded and continuous nature of
+streaming data, translating batch techniques like Kimball to a streaming paradigm
+is tricky, if not impossible. For example, given a stream of data, how would you
+continuously update a Type-2 slowly changing dimension without bringing your data
+warehouse to its knees?
+Data Modeling
+|
+307
+
+The world is evolving from batch to streaming and from on premises to the cloud.
+The constraints of the older batch methods no longer apply. That said, big questions
+remain about how to model data to balance the need for business logic against fluid
+schema changes, fast-moving data, and self-service. What is the streaming equivalent
+of the preceding batch data model approaches? There isn’t (yet) a consensus approach
+on streaming data modeling. We spoke with many experts in streaming data systems,
+many of whom told us that traditional batch-oriented data modeling doesn’t apply to
+streaming. A few suggested the Data Vault as an option for streaming data modeling.
+As you may recall, two main types of streams exist: event streams and CDC. Most
+of the time, the shape of the data in these streams is semistructured, such as JSON.
+The challenge with modeling streaming data is that the payload’s schema might
+change on a whim. For example, suppose you have an IoT device that recently
+upgraded its firmware and introduced a new field. In that case, it’s possible that your
+downstream destination data warehouse or processing pipeline isn’t aware of this
+change and breaks. That’s not great. As another example, a CDC system might recast
+a field as a different type—say, a string instead of an International Organization for
+Standardization (ISO) datetime format. Again, how does the destination handle this
+seemingly random change?
+The streaming data experts we’ve talked with overwhelmingly suggest you anticipate
+changes in the source data and keep a flexible schema. This means there’s no rigid
+data model in the analytical database. Instead, assume the source systems are provid‐
+ing the correct data with the right business definition and logic, as it exists today. And
+because storage is cheap, store the recent streaming and saved historical data in a way
+they can be queried together. Optimize for comprehensive analytics against a dataset
+with a flexible schema. Furthermore, instead of reacting to reports, why not create
+automation that responds to anomalies and changes in the streaming data instead?
+The world of data modeling is changing, and we believe a sea change will soon occur
+in data model paradigms. These new approaches will likely incorporate metrics and
+semantic layers, data pipelines, and traditional analytics workflows in a streaming
+layer that sits directly on top of the source system. Since data is being generated in
+real time, the notion of artificially separating source and analytics systems into two
+distinct buckets may not make as much sense as when data moved more slowly and
+predictably. Time will tell…
+We have more to say on the future of streaming data in Chapter 11.
+308
+|
+Chapter 8: Queries, Modeling, and Transformation
+

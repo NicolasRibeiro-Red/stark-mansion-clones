@@ -1,0 +1,2620 @@
+{
+  "titulo": "Fundamentals of Data Engineering",
+  "autor": "Reis, Joe;Housley, Matt;",
+  "total_paginas": 445,
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "Cover",
+      "paginas": "1-6",
+      "arquivo": "cap_01_Cover.txt"
+    },
+    {
+      "numero": 2,
+      "titulo": "Copyright",
+      "paginas": "7-7",
+      "arquivo": "cap_02_Copyright.txt"
+    },
+    {
+      "numero": 3,
+      "titulo": "Table of Contents",
+      "paginas": "8-17",
+      "arquivo": "cap_03_Table_of_Contents.txt"
+    },
+    {
+      "numero": 4,
+      "titulo": "Preface",
+      "paginas": "18-17",
+      "arquivo": "cap_04_Preface.txt"
+    },
+    {
+      "numero": 5,
+      "titulo": "What This Book Isn’t",
+      "paginas": "18-17",
+      "arquivo": "cap_05_What_This_Book_Isnt.txt"
+    },
+    {
+      "numero": 6,
+      "titulo": "What This Book Is About",
+      "paginas": "18-18",
+      "arquivo": "cap_06_What_This_Book_Is_About.txt"
+    },
+    {
+      "numero": 7,
+      "titulo": "Who Should Read This Book",
+      "paginas": "19-19",
+      "arquivo": "cap_07_Who_Should_Read_This_Book.txt"
+    },
+    {
+      "numero": 8,
+      "titulo": "Prerequisites",
+      "paginas": "20-19",
+      "arquivo": "cap_08_Prerequisites.txt"
+    },
+    {
+      "numero": 9,
+      "titulo": "What You’ll Learn and How It Will Improve Your Abilities",
+      "paginas": "20-20",
+      "arquivo": "cap_09_What_Youll_Learn_and_How_It_Will_Improve_Your_Abil.txt"
+    },
+    {
+      "numero": 10,
+      "titulo": "Navigating This Book",
+      "paginas": "21-21",
+      "arquivo": "cap_10_Navigating_This_Book.txt"
+    },
+    {
+      "numero": 11,
+      "titulo": "Conventions Used in This Book",
+      "paginas": "22-22",
+      "arquivo": "cap_11_Conventions_Used_in_This_Book.txt"
+    },
+    {
+      "numero": 12,
+      "titulo": "How to Contact Us",
+      "paginas": "23-22",
+      "arquivo": "cap_12_How_to_Contact_Us.txt"
+    },
+    {
+      "numero": 13,
+      "titulo": "Acknowledgments",
+      "paginas": "23-25",
+      "arquivo": "cap_13_Acknowledgments.txt"
+    },
+    {
+      "numero": 14,
+      "titulo": "Part I. Foundation and Building Blocks",
+      "paginas": "26-27",
+      "arquivo": "cap_14_Part_I_Foundation_and_Building_Blocks.txt"
+    },
+    {
+      "numero": 15,
+      "titulo": "Chapter 1. Data Engineering Described",
+      "paginas": "28-27",
+      "arquivo": "cap_15_Chapter_1_Data_Engineering_Described.txt"
+    },
+    {
+      "numero": 16,
+      "titulo": "What Is Data Engineering?",
+      "paginas": "28-28",
+      "arquivo": "cap_16_What_Is_Data_Engineering.txt"
+    },
+    {
+      "numero": 17,
+      "titulo": "Data Engineering Defined",
+      "paginas": "29-29",
+      "arquivo": "cap_17_Data_Engineering_Defined.txt"
+    },
+    {
+      "numero": 18,
+      "titulo": "The Data Engineering Lifecycle",
+      "paginas": "30-30",
+      "arquivo": "cap_18_The_Data_Engineering_Lifecycle.txt"
+    },
+    {
+      "numero": 19,
+      "titulo": "Evolution of the Data Engineer",
+      "paginas": "31-35",
+      "arquivo": "cap_19_Evolution_of_the_Data_Engineer.txt"
+    },
+    {
+      "numero": 20,
+      "titulo": "Data Engineering and Data Science",
+      "paginas": "36-37",
+      "arquivo": "cap_20_Data_Engineering_and_Data_Science.txt"
+    },
+    {
+      "numero": 21,
+      "titulo": "Data Engineering Skills and Activities",
+      "paginas": "38-37",
+      "arquivo": "cap_21_Data_Engineering_Skills_and_Activities.txt"
+    },
+    {
+      "numero": 22,
+      "titulo": "Data Maturity and the Data Engineer",
+      "paginas": "38-41",
+      "arquivo": "cap_22_Data_Maturity_and_the_Data_Engineer.txt"
+    },
+    {
+      "numero": 23,
+      "titulo": "The Background and Skills of a Data Engineer",
+      "paginas": "42-42",
+      "arquivo": "cap_23_The_Background_and_Skills_of_a_Data_Engineer.txt"
+    },
+    {
+      "numero": 24,
+      "titulo": "Business Responsibilities",
+      "paginas": "43-43",
+      "arquivo": "cap_24_Business_Responsibilities.txt"
+    },
+    {
+      "numero": 25,
+      "titulo": "Technical Responsibilities",
+      "paginas": "44-45",
+      "arquivo": "cap_25_Technical_Responsibilities.txt"
+    },
+    {
+      "numero": 26,
+      "titulo": "The Continuum of Data Engineering Roles, from A to B",
+      "paginas": "46-46",
+      "arquivo": "cap_26_The_Continuum_of_Data_Engineering_Roles_from_A_to_.txt"
+    },
+    {
+      "numero": 27,
+      "titulo": "Data Engineers Inside an Organization",
+      "paginas": "47-47",
+      "arquivo": "cap_27_Data_Engineers_Inside_an_Organization.txt"
+    },
+    {
+      "numero": 28,
+      "titulo": "Internal-Facing Versus External-Facing Data Engineers",
+      "paginas": "48-48",
+      "arquivo": "cap_28_Internal-Facing_Versus_External-Facing_Data_Engine.txt"
+    },
+    {
+      "numero": 29,
+      "titulo": "Data Engineers and Other Technical Roles",
+      "paginas": "49-52",
+      "arquivo": "cap_29_Data_Engineers_and_Other_Technical_Roles.txt"
+    },
+    {
+      "numero": 30,
+      "titulo": "Data Engineers and Business Leadership",
+      "paginas": "53-55",
+      "arquivo": "cap_30_Data_Engineers_and_Business_Leadership.txt"
+    },
+    {
+      "numero": 31,
+      "titulo": "Conclusion",
+      "paginas": "56-56",
+      "arquivo": "cap_31_Conclusion.txt"
+    },
+    {
+      "numero": 32,
+      "titulo": "Additional Resources",
+      "paginas": "57-57",
+      "arquivo": "cap_32_Additional_Resources.txt"
+    },
+    {
+      "numero": 33,
+      "titulo": "Chapter 2. The Data Engineering Lifecycle",
+      "paginas": "58-57",
+      "arquivo": "cap_33_Chapter_2_The_Data_Engineering_Lifecycle.txt"
+    },
+    {
+      "numero": 34,
+      "titulo": "What Is the Data Engineering Lifecycle?",
+      "paginas": "58-58",
+      "arquivo": "cap_34_What_Is_the_Data_Engineering_Lifecycle.txt"
+    },
+    {
+      "numero": 35,
+      "titulo": "The Data Lifecycle Versus the Data Engineering Lifecycle",
+      "paginas": "59-59",
+      "arquivo": "cap_35_The_Data_Lifecycle_Versus_the_Data_Engineering_Lif.txt"
+    },
+    {
+      "numero": 36,
+      "titulo": "Generation: Source Systems",
+      "paginas": "60-62",
+      "arquivo": "cap_36_Generation_Source_Systems.txt"
+    },
+    {
+      "numero": 37,
+      "titulo": "Storage",
+      "paginas": "63-63",
+      "arquivo": "cap_37_Storage.txt"
+    },
+    {
+      "numero": 38,
+      "titulo": "Ingestion",
+      "paginas": "64-67",
+      "arquivo": "cap_38_Ingestion.txt"
+    },
+    {
+      "numero": 39,
+      "titulo": "Transformation",
+      "paginas": "68-68",
+      "arquivo": "cap_39_Transformation.txt"
+    },
+    {
+      "numero": 40,
+      "titulo": "Serving Data",
+      "paginas": "69-72",
+      "arquivo": "cap_40_Serving_Data.txt"
+    },
+    {
+      "numero": 41,
+      "titulo": "Major Undercurrents Across the Data Engineering Lifecycle",
+      "paginas": "73-73",
+      "arquivo": "cap_41_Major_Undercurrents_Across_the_Data_Engineering_Li.txt"
+    },
+    {
+      "numero": 42,
+      "titulo": "Security",
+      "paginas": "74-74",
+      "arquivo": "cap_42_Security.txt"
+    },
+    {
+      "numero": 43,
+      "titulo": "Data Management",
+      "paginas": "75-83",
+      "arquivo": "cap_43_Data_Management.txt"
+    },
+    {
+      "numero": 44,
+      "titulo": "DataOps",
+      "paginas": "84-88",
+      "arquivo": "cap_44_DataOps.txt"
+    },
+    {
+      "numero": 45,
+      "titulo": "Data Architecture",
+      "paginas": "89-88",
+      "arquivo": "cap_45_Data_Architecture.txt"
+    },
+    {
+      "numero": 46,
+      "titulo": "Orchestration",
+      "paginas": "89-90",
+      "arquivo": "cap_46_Orchestration.txt"
+    },
+    {
+      "numero": 47,
+      "titulo": "Software Engineering",
+      "paginas": "91-92",
+      "arquivo": "cap_47_Software_Engineering.txt"
+    },
+    {
+      "numero": 48,
+      "titulo": "Conclusion",
+      "paginas": "93-93",
+      "arquivo": "cap_48_Conclusion.txt"
+    },
+    {
+      "numero": 49,
+      "titulo": "Additional Resources",
+      "paginas": "94-95",
+      "arquivo": "cap_49_Additional_Resources.txt"
+    },
+    {
+      "numero": 50,
+      "titulo": "Chapter 3. Designing Good Data Architecture",
+      "paginas": "96-95",
+      "arquivo": "cap_50_Chapter_3_Designing_Good_Data_Architecture.txt"
+    },
+    {
+      "numero": 51,
+      "titulo": "What Is Data Architecture?",
+      "paginas": "96-96",
+      "arquivo": "cap_51_What_Is_Data_Architecture.txt"
+    },
+    {
+      "numero": 52,
+      "titulo": "Enterprise Architecture Defined",
+      "paginas": "97-99",
+      "arquivo": "cap_52_Enterprise_Architecture_Defined.txt"
+    },
+    {
+      "numero": 53,
+      "titulo": "Data Architecture Defined",
+      "paginas": "100-100",
+      "arquivo": "cap_53_Data_Architecture_Defined.txt"
+    },
+    {
+      "numero": 54,
+      "titulo": "“Good” Data Architecture",
+      "paginas": "101-101",
+      "arquivo": "cap_54_Good_Data_Architecture.txt"
+    },
+    {
+      "numero": 55,
+      "titulo": "Principles of Good Data Architecture",
+      "paginas": "102-102",
+      "arquivo": "cap_55_Principles_of_Good_Data_Architecture.txt"
+    },
+    {
+      "numero": 56,
+      "titulo": "Principle 1: Choose Common Components Wisely",
+      "paginas": "103-103",
+      "arquivo": "cap_56_Principle_1_Choose_Common_Components_Wisely.txt"
+    },
+    {
+      "numero": 57,
+      "titulo": "Principle 2: Plan for Failure",
+      "paginas": "104-104",
+      "arquivo": "cap_57_Principle_2_Plan_for_Failure.txt"
+    },
+    {
+      "numero": 58,
+      "titulo": "Principle 3: Architect for Scalability",
+      "paginas": "105-104",
+      "arquivo": "cap_58_Principle_3_Architect_for_Scalability.txt"
+    },
+    {
+      "numero": 59,
+      "titulo": "Principle 4: Architecture Is Leadership",
+      "paginas": "105-105",
+      "arquivo": "cap_59_Principle_4_Architecture_Is_Leadership.txt"
+    },
+    {
+      "numero": 60,
+      "titulo": "Principle 5: Always Be Architecting",
+      "paginas": "106-105",
+      "arquivo": "cap_60_Principle_5_Always_Be_Architecting.txt"
+    },
+    {
+      "numero": 61,
+      "titulo": "Principle 6: Build Loosely Coupled Systems",
+      "paginas": "106-107",
+      "arquivo": "cap_61_Principle_6_Build_Loosely_Coupled_Systems.txt"
+    },
+    {
+      "numero": 62,
+      "titulo": "Principle 7: Make Reversible Decisions",
+      "paginas": "108-108",
+      "arquivo": "cap_62_Principle_7_Make_Reversible_Decisions.txt"
+    },
+    {
+      "numero": 63,
+      "titulo": "Principle 8: Prioritize Security",
+      "paginas": "109-109",
+      "arquivo": "cap_63_Principle_8_Prioritize_Security.txt"
+    },
+    {
+      "numero": 64,
+      "titulo": "Principle 9: Embrace FinOps",
+      "paginas": "110-111",
+      "arquivo": "cap_64_Principle_9_Embrace_FinOps.txt"
+    },
+    {
+      "numero": 65,
+      "titulo": "Major Architecture Concepts",
+      "paginas": "112-111",
+      "arquivo": "cap_65_Major_Architecture_Concepts.txt"
+    },
+    {
+      "numero": 66,
+      "titulo": "Domains and Services",
+      "paginas": "112-112",
+      "arquivo": "cap_66_Domains_and_Services.txt"
+    },
+    {
+      "numero": 67,
+      "titulo": "Distributed Systems, Scalability, and Designing for Failure",
+      "paginas": "113-114",
+      "arquivo": "cap_67_Distributed_Systems_Scalability_and_Designing_for_.txt"
+    },
+    {
+      "numero": 68,
+      "titulo": "Tight Versus Loose Coupling: Tiers, Monoliths, and Microservices",
+      "paginas": "115-118",
+      "arquivo": "cap_68_Tight_Versus_Loose_Coupling_Tiers_Monoliths_and_Mi.txt"
+    },
+    {
+      "numero": 69,
+      "titulo": "User Access: Single Versus Multitenant",
+      "paginas": "119-119",
+      "arquivo": "cap_69_User_Access_Single_Versus_Multitenant.txt"
+    },
+    {
+      "numero": 70,
+      "titulo": "Event-Driven Architecture",
+      "paginas": "120-120",
+      "arquivo": "cap_70_Event-Driven_Architecture.txt"
+    },
+    {
+      "numero": 71,
+      "titulo": "Brownfield Versus Greenfield Projects",
+      "paginas": "121-122",
+      "arquivo": "cap_71_Brownfield_Versus_Greenfield_Projects.txt"
+    },
+    {
+      "numero": 72,
+      "titulo": "Examples and Types of Data Architecture",
+      "paginas": "123-122",
+      "arquivo": "cap_72_Examples_and_Types_of_Data_Architecture.txt"
+    },
+    {
+      "numero": 73,
+      "titulo": "Data Warehouse",
+      "paginas": "123-125",
+      "arquivo": "cap_73_Data_Warehouse.txt"
+    },
+    {
+      "numero": 74,
+      "titulo": "Data Lake",
+      "paginas": "126-126",
+      "arquivo": "cap_74_Data_Lake.txt"
+    },
+    {
+      "numero": 75,
+      "titulo": "Convergence, Next-Generation Data Lakes, and the Data Platform",
+      "paginas": "127-127",
+      "arquivo": "cap_75_Convergence_Next-Generation_Data_Lakes_and_the_Dat.txt"
+    },
+    {
+      "numero": 76,
+      "titulo": "Modern Data Stack",
+      "paginas": "128-128",
+      "arquivo": "cap_76_Modern_Data_Stack.txt"
+    },
+    {
+      "numero": 77,
+      "titulo": "Lambda Architecture",
+      "paginas": "129-129",
+      "arquivo": "cap_77_Lambda_Architecture.txt"
+    },
+    {
+      "numero": 78,
+      "titulo": "Kappa Architecture",
+      "paginas": "130-129",
+      "arquivo": "cap_78_Kappa_Architecture.txt"
+    },
+    {
+      "numero": 79,
+      "titulo": "The Dataflow Model and Unified Batch and Streaming",
+      "paginas": "130-130",
+      "arquivo": "cap_79_The_Dataflow_Model_and_Unified_Batch_and_Streaming.txt"
+    },
+    {
+      "numero": 80,
+      "titulo": "Architecture for IoT",
+      "paginas": "131-133",
+      "arquivo": "cap_80_Architecture_for_IoT.txt"
+    },
+    {
+      "numero": 81,
+      "titulo": "Data Mesh",
+      "paginas": "134-134",
+      "arquivo": "cap_81_Data_Mesh.txt"
+    },
+    {
+      "numero": 82,
+      "titulo": "Other Data Architecture Examples",
+      "paginas": "135-135",
+      "arquivo": "cap_82_Other_Data_Architecture_Examples.txt"
+    },
+    {
+      "numero": 83,
+      "titulo": "Who’s Involved with Designing a Data Architecture?",
+      "paginas": "136-135",
+      "arquivo": "cap_83_Whos_Involved_with_Designing_a_Data_Architecture.txt"
+    },
+    {
+      "numero": 84,
+      "titulo": "Conclusion",
+      "paginas": "136-135",
+      "arquivo": "cap_84_Conclusion.txt"
+    },
+    {
+      "numero": 85,
+      "titulo": "Additional Resources",
+      "paginas": "136-139",
+      "arquivo": "cap_85_Additional_Resources.txt"
+    },
+    {
+      "numero": 86,
+      "titulo": "Chapter 4. Choosing Technologies Across the Data Engineering Lifecycle",
+      "paginas": "140-140",
+      "arquivo": "cap_86_Chapter_4_Choosing_Technologies_Across_the_Data_En.txt"
+    },
+    {
+      "numero": 87,
+      "titulo": "Team Size and Capabilities",
+      "paginas": "141-141",
+      "arquivo": "cap_87_Team_Size_and_Capabilities.txt"
+    },
+    {
+      "numero": 88,
+      "titulo": "Speed to Market",
+      "paginas": "142-141",
+      "arquivo": "cap_88_Speed_to_Market.txt"
+    },
+    {
+      "numero": 89,
+      "titulo": "Interoperability",
+      "paginas": "142-142",
+      "arquivo": "cap_89_Interoperability.txt"
+    },
+    {
+      "numero": 90,
+      "titulo": "Cost Optimization and Business Value",
+      "paginas": "143-142",
+      "arquivo": "cap_90_Cost_Optimization_and_Business_Value.txt"
+    },
+    {
+      "numero": 91,
+      "titulo": "Total Cost of Ownership",
+      "paginas": "143-143",
+      "arquivo": "cap_91_Total_Cost_of_Ownership.txt"
+    },
+    {
+      "numero": 92,
+      "titulo": "Total Opportunity Cost of Ownership",
+      "paginas": "144-144",
+      "arquivo": "cap_92_Total_Opportunity_Cost_of_Ownership.txt"
+    },
+    {
+      "numero": 93,
+      "titulo": "FinOps",
+      "paginas": "145-144",
+      "arquivo": "cap_93_FinOps.txt"
+    },
+    {
+      "numero": 94,
+      "titulo": "Today Versus the Future: Immutable Versus Transitory Technologies",
+      "paginas": "145-146",
+      "arquivo": "cap_94_Today_Versus_the_Future_Immutable_Versus_Transitor.txt"
+    },
+    {
+      "numero": 95,
+      "titulo": "Our Advice",
+      "paginas": "147-147",
+      "arquivo": "cap_95_Our_Advice.txt"
+    },
+    {
+      "numero": 96,
+      "titulo": "Location",
+      "paginas": "148-147",
+      "arquivo": "cap_96_Location.txt"
+    },
+    {
+      "numero": 97,
+      "titulo": "On Premises",
+      "paginas": "148-148",
+      "arquivo": "cap_97_On_Premises.txt"
+    },
+    {
+      "numero": 98,
+      "titulo": "Cloud",
+      "paginas": "149-151",
+      "arquivo": "cap_98_Cloud.txt"
+    },
+    {
+      "numero": 99,
+      "titulo": "Hybrid Cloud",
+      "paginas": "152-152",
+      "arquivo": "cap_99_Hybrid_Cloud.txt"
+    },
+    {
+      "numero": 100,
+      "titulo": "Multicloud",
+      "paginas": "153-153",
+      "arquivo": "cap_100_Multicloud.txt"
+    },
+    {
+      "numero": 101,
+      "titulo": "Decentralized: Blockchain and the Edge",
+      "paginas": "154-153",
+      "arquivo": "cap_101_Decentralized_Blockchain_and_the_Edge.txt"
+    },
+    {
+      "numero": 102,
+      "titulo": "Our Advice",
+      "paginas": "154-154",
+      "arquivo": "cap_102_Our_Advice.txt"
+    },
+    {
+      "numero": 103,
+      "titulo": "Cloud Repatriation Arguments",
+      "paginas": "155-156",
+      "arquivo": "cap_103_Cloud_Repatriation_Arguments.txt"
+    },
+    {
+      "numero": 104,
+      "titulo": "Build Versus Buy",
+      "paginas": "157-157",
+      "arquivo": "cap_104_Build_Versus_Buy.txt"
+    },
+    {
+      "numero": 105,
+      "titulo": "Open Source Software",
+      "paginas": "158-161",
+      "arquivo": "cap_105_Open_Source_Software.txt"
+    },
+    {
+      "numero": 106,
+      "titulo": "Proprietary Walled Gardens",
+      "paginas": "162-162",
+      "arquivo": "cap_106_Proprietary_Walled_Gardens.txt"
+    },
+    {
+      "numero": 107,
+      "titulo": "Our Advice",
+      "paginas": "163-163",
+      "arquivo": "cap_107_Our_Advice.txt"
+    },
+    {
+      "numero": 108,
+      "titulo": "Monolith Versus Modular",
+      "paginas": "164-163",
+      "arquivo": "cap_108_Monolith_Versus_Modular.txt"
+    },
+    {
+      "numero": 109,
+      "titulo": "Monolith",
+      "paginas": "164-164",
+      "arquivo": "cap_109_Monolith.txt"
+    },
+    {
+      "numero": 110,
+      "titulo": "Modularity",
+      "paginas": "165-166",
+      "arquivo": "cap_110_Modularity.txt"
+    },
+    {
+      "numero": 111,
+      "titulo": "The Distributed Monolith Pattern",
+      "paginas": "167-166",
+      "arquivo": "cap_111_The_Distributed_Monolith_Pattern.txt"
+    },
+    {
+      "numero": 112,
+      "titulo": "Our Advice",
+      "paginas": "167-167",
+      "arquivo": "cap_112_Our_Advice.txt"
+    },
+    {
+      "numero": 113,
+      "titulo": "Serverless Versus Servers",
+      "paginas": "168-167",
+      "arquivo": "cap_113_Serverless_Versus_Servers.txt"
+    },
+    {
+      "numero": 114,
+      "titulo": "Serverless",
+      "paginas": "168-168",
+      "arquivo": "cap_114_Serverless.txt"
+    },
+    {
+      "numero": 115,
+      "titulo": "Containers",
+      "paginas": "169-169",
+      "arquivo": "cap_115_Containers.txt"
+    },
+    {
+      "numero": 116,
+      "titulo": "How to Evaluate Server Versus Serverless",
+      "paginas": "170-170",
+      "arquivo": "cap_116_How_to_Evaluate_Server_Versus_Serverless.txt"
+    },
+    {
+      "numero": 117,
+      "titulo": "Our Advice",
+      "paginas": "171-171",
+      "arquivo": "cap_117_Our_Advice.txt"
+    },
+    {
+      "numero": 118,
+      "titulo": "Optimization, Performance, and the Benchmark Wars",
+      "paginas": "172-172",
+      "arquivo": "cap_118_Optimization_Performance_and_the_Benchmark_Wars.txt"
+    },
+    {
+      "numero": 119,
+      "titulo": "Big Data...for the 1990s",
+      "paginas": "173-172",
+      "arquivo": "cap_119_Big_Datafor_the_1990s.txt"
+    },
+    {
+      "numero": 120,
+      "titulo": "Nonsensical Cost Comparisons",
+      "paginas": "173-172",
+      "arquivo": "cap_120_Nonsensical_Cost_Comparisons.txt"
+    },
+    {
+      "numero": 121,
+      "titulo": "Asymmetric Optimization",
+      "paginas": "173-173",
+      "arquivo": "cap_121_Asymmetric_Optimization.txt"
+    },
+    {
+      "numero": 122,
+      "titulo": "Caveat Emptor",
+      "paginas": "174-173",
+      "arquivo": "cap_122_Caveat_Emptor.txt"
+    },
+    {
+      "numero": 123,
+      "titulo": "Undercurrents and Their Impacts on Choosing Technologies",
+      "paginas": "174-173",
+      "arquivo": "cap_123_Undercurrents_and_Their_Impacts_on_Choosing_Techno.txt"
+    },
+    {
+      "numero": 124,
+      "titulo": "Data Management",
+      "paginas": "174-173",
+      "arquivo": "cap_124_Data_Management.txt"
+    },
+    {
+      "numero": 125,
+      "titulo": "DataOps",
+      "paginas": "174-174",
+      "arquivo": "cap_125_DataOps.txt"
+    },
+    {
+      "numero": 126,
+      "titulo": "Data Architecture",
+      "paginas": "175-174",
+      "arquivo": "cap_126_Data_Architecture.txt"
+    },
+    {
+      "numero": 127,
+      "titulo": "Orchestration Example: Airflow",
+      "paginas": "175-175",
+      "arquivo": "cap_127_Orchestration_Example_Airflow.txt"
+    },
+    {
+      "numero": 128,
+      "titulo": "Software Engineering",
+      "paginas": "176-175",
+      "arquivo": "cap_128_Software_Engineering.txt"
+    },
+    {
+      "numero": 129,
+      "titulo": "Conclusion",
+      "paginas": "176-175",
+      "arquivo": "cap_129_Conclusion.txt"
+    },
+    {
+      "numero": 130,
+      "titulo": "Additional Resources",
+      "paginas": "176-177",
+      "arquivo": "cap_130_Additional_Resources.txt"
+    },
+    {
+      "numero": 131,
+      "titulo": "Part II. The Data Engineering Lifecycle in Depth",
+      "paginas": "178-179",
+      "arquivo": "cap_131_Part_II_The_Data_Engineering_Lifecycle_in_Depth.txt"
+    },
+    {
+      "numero": 132,
+      "titulo": "Chapter 5. Data Generation in Source Systems",
+      "paginas": "180-180",
+      "arquivo": "cap_132_Chapter_5_Data_Generation_in_Source_Systems.txt"
+    },
+    {
+      "numero": 133,
+      "titulo": "Sources of Data: How Is Data Created?",
+      "paginas": "181-180",
+      "arquivo": "cap_133_Sources_of_Data_How_Is_Data_Created.txt"
+    },
+    {
+      "numero": 134,
+      "titulo": "Source Systems: Main Ideas",
+      "paginas": "181-180",
+      "arquivo": "cap_134_Source_Systems_Main_Ideas.txt"
+    },
+    {
+      "numero": 135,
+      "titulo": "Files and Unstructured Data",
+      "paginas": "181-181",
+      "arquivo": "cap_135_Files_and_Unstructured_Data.txt"
+    },
+    {
+      "numero": 136,
+      "titulo": "APIs",
+      "paginas": "182-181",
+      "arquivo": "cap_136_APIs.txt"
+    },
+    {
+      "numero": 137,
+      "titulo": "Application Databases (OLTP Systems)",
+      "paginas": "182-183",
+      "arquivo": "cap_137_Application_Databases_OLTP_Systems.txt"
+    },
+    {
+      "numero": 138,
+      "titulo": "Online Analytical Processing System",
+      "paginas": "184-183",
+      "arquivo": "cap_138_Online_Analytical_Processing_System.txt"
+    },
+    {
+      "numero": 139,
+      "titulo": "Change Data Capture",
+      "paginas": "184-184",
+      "arquivo": "cap_139_Change_Data_Capture.txt"
+    },
+    {
+      "numero": 140,
+      "titulo": "Logs",
+      "paginas": "185-185",
+      "arquivo": "cap_140_Logs.txt"
+    },
+    {
+      "numero": 141,
+      "titulo": "Database Logs",
+      "paginas": "186-186",
+      "arquivo": "cap_141_Database_Logs.txt"
+    },
+    {
+      "numero": 142,
+      "titulo": "CRUD",
+      "paginas": "187-186",
+      "arquivo": "cap_142_CRUD.txt"
+    },
+    {
+      "numero": 143,
+      "titulo": "Insert-Only",
+      "paginas": "187-187",
+      "arquivo": "cap_143_Insert-Only.txt"
+    },
+    {
+      "numero": 144,
+      "titulo": "Messages and Streams",
+      "paginas": "188-188",
+      "arquivo": "cap_144_Messages_and_Streams.txt"
+    },
+    {
+      "numero": 145,
+      "titulo": "Types of Time",
+      "paginas": "189-189",
+      "arquivo": "cap_145_Types_of_Time.txt"
+    },
+    {
+      "numero": 146,
+      "titulo": "Source System Practical Details",
+      "paginas": "190-190",
+      "arquivo": "cap_146_Source_System_Practical_Details.txt"
+    },
+    {
+      "numero": 147,
+      "titulo": "Databases",
+      "paginas": "191-198",
+      "arquivo": "cap_147_Databases.txt"
+    },
+    {
+      "numero": 148,
+      "titulo": "APIs",
+      "paginas": "199-200",
+      "arquivo": "cap_148_APIs.txt"
+    },
+    {
+      "numero": 149,
+      "titulo": "Data Sharing",
+      "paginas": "201-201",
+      "arquivo": "cap_149_Data_Sharing.txt"
+    },
+    {
+      "numero": 150,
+      "titulo": "Third-Party Data Sources",
+      "paginas": "202-201",
+      "arquivo": "cap_150_Third-Party_Data_Sources.txt"
+    },
+    {
+      "numero": 151,
+      "titulo": "Message Queues and Event-Streaming Platforms",
+      "paginas": "202-205",
+      "arquivo": "cap_151_Message_Queues_and_Event-Streaming_Platforms.txt"
+    },
+    {
+      "numero": 152,
+      "titulo": "Whom You’ll Work With",
+      "paginas": "206-207",
+      "arquivo": "cap_152_Whom_Youll_Work_With.txt"
+    },
+    {
+      "numero": 153,
+      "titulo": "Undercurrents and Their Impact on Source Systems",
+      "paginas": "208-207",
+      "arquivo": "cap_153_Undercurrents_and_Their_Impact_on_Source_Systems.txt"
+    },
+    {
+      "numero": 154,
+      "titulo": "Security",
+      "paginas": "208-208",
+      "arquivo": "cap_154_Security.txt"
+    },
+    {
+      "numero": 155,
+      "titulo": "Data Management",
+      "paginas": "209-208",
+      "arquivo": "cap_155_Data_Management.txt"
+    },
+    {
+      "numero": 156,
+      "titulo": "DataOps",
+      "paginas": "209-209",
+      "arquivo": "cap_156_DataOps.txt"
+    },
+    {
+      "numero": 157,
+      "titulo": "Data Architecture",
+      "paginas": "210-210",
+      "arquivo": "cap_157_Data_Architecture.txt"
+    },
+    {
+      "numero": 158,
+      "titulo": "Orchestration",
+      "paginas": "211-211",
+      "arquivo": "cap_158_Orchestration.txt"
+    },
+    {
+      "numero": 159,
+      "titulo": "Software Engineering",
+      "paginas": "212-211",
+      "arquivo": "cap_159_Software_Engineering.txt"
+    },
+    {
+      "numero": 160,
+      "titulo": "Conclusion",
+      "paginas": "212-212",
+      "arquivo": "cap_160_Conclusion.txt"
+    },
+    {
+      "numero": 161,
+      "titulo": "Additional Resources",
+      "paginas": "213-213",
+      "arquivo": "cap_161_Additional_Resources.txt"
+    },
+    {
+      "numero": 162,
+      "titulo": "Chapter 6. Storage",
+      "paginas": "214-215",
+      "arquivo": "cap_162_Chapter_6_Storage.txt"
+    },
+    {
+      "numero": 163,
+      "titulo": "Raw Ingredients of Data Storage",
+      "paginas": "216-215",
+      "arquivo": "cap_163_Raw_Ingredients_of_Data_Storage.txt"
+    },
+    {
+      "numero": 164,
+      "titulo": "Magnetic Disk Drive",
+      "paginas": "216-217",
+      "arquivo": "cap_164_Magnetic_Disk_Drive.txt"
+    },
+    {
+      "numero": 165,
+      "titulo": "Solid-State Drive",
+      "paginas": "218-218",
+      "arquivo": "cap_165_Solid-State_Drive.txt"
+    },
+    {
+      "numero": 166,
+      "titulo": "Random Access Memory",
+      "paginas": "219-219",
+      "arquivo": "cap_166_Random_Access_Memory.txt"
+    },
+    {
+      "numero": 167,
+      "titulo": "Networking and CPU",
+      "paginas": "220-219",
+      "arquivo": "cap_167_Networking_and_CPU.txt"
+    },
+    {
+      "numero": 168,
+      "titulo": "Serialization",
+      "paginas": "220-220",
+      "arquivo": "cap_168_Serialization.txt"
+    },
+    {
+      "numero": 169,
+      "titulo": "Compression",
+      "paginas": "221-221",
+      "arquivo": "cap_169_Compression.txt"
+    },
+    {
+      "numero": 170,
+      "titulo": "Caching",
+      "paginas": "222-221",
+      "arquivo": "cap_170_Caching.txt"
+    },
+    {
+      "numero": 171,
+      "titulo": "Data Storage Systems",
+      "paginas": "222-222",
+      "arquivo": "cap_171_Data_Storage_Systems.txt"
+    },
+    {
+      "numero": 172,
+      "titulo": "Single Machine Versus Distributed Storage",
+      "paginas": "223-222",
+      "arquivo": "cap_172_Single_Machine_Versus_Distributed_Storage.txt"
+    },
+    {
+      "numero": 173,
+      "titulo": "Eventual Versus Strong Consistency",
+      "paginas": "223-223",
+      "arquivo": "cap_173_Eventual_Versus_Strong_Consistency.txt"
+    },
+    {
+      "numero": 174,
+      "titulo": "File Storage",
+      "paginas": "224-226",
+      "arquivo": "cap_174_File_Storage.txt"
+    },
+    {
+      "numero": 175,
+      "titulo": "Block Storage",
+      "paginas": "227-229",
+      "arquivo": "cap_175_Block_Storage.txt"
+    },
+    {
+      "numero": 176,
+      "titulo": "Object Storage",
+      "paginas": "230-235",
+      "arquivo": "cap_176_Object_Storage.txt"
+    },
+    {
+      "numero": 177,
+      "titulo": "Cache and Memory-Based Storage Systems",
+      "paginas": "236-235",
+      "arquivo": "cap_177_Cache_and_Memory-Based_Storage_Systems.txt"
+    },
+    {
+      "numero": 178,
+      "titulo": "The Hadoop Distributed File System",
+      "paginas": "236-236",
+      "arquivo": "cap_178_The_Hadoop_Distributed_File_System.txt"
+    },
+    {
+      "numero": 179,
+      "titulo": "Streaming Storage",
+      "paginas": "237-237",
+      "arquivo": "cap_179_Streaming_Storage.txt"
+    },
+    {
+      "numero": 180,
+      "titulo": "Indexes, Partitioning, and Clustering",
+      "paginas": "238-239",
+      "arquivo": "cap_180_Indexes_Partitioning_and_Clustering.txt"
+    },
+    {
+      "numero": 181,
+      "titulo": "Data Engineering Storage Abstractions",
+      "paginas": "240-239",
+      "arquivo": "cap_181_Data_Engineering_Storage_Abstractions.txt"
+    },
+    {
+      "numero": 182,
+      "titulo": "The Data Warehouse",
+      "paginas": "240-240",
+      "arquivo": "cap_182_The_Data_Warehouse.txt"
+    },
+    {
+      "numero": 183,
+      "titulo": "The Data Lake",
+      "paginas": "241-240",
+      "arquivo": "cap_183_The_Data_Lake.txt"
+    },
+    {
+      "numero": 184,
+      "titulo": "The Data Lakehouse",
+      "paginas": "241-241",
+      "arquivo": "cap_184_The_Data_Lakehouse.txt"
+    },
+    {
+      "numero": 185,
+      "titulo": "Data Platforms",
+      "paginas": "242-241",
+      "arquivo": "cap_185_Data_Platforms.txt"
+    },
+    {
+      "numero": 186,
+      "titulo": "Stream-to-Batch Storage Architecture",
+      "paginas": "242-242",
+      "arquivo": "cap_186_Stream-to-Batch_Storage_Architecture.txt"
+    },
+    {
+      "numero": 187,
+      "titulo": "Big Ideas and Trends in Storage",
+      "paginas": "243-242",
+      "arquivo": "cap_187_Big_Ideas_and_Trends_in_Storage.txt"
+    },
+    {
+      "numero": 188,
+      "titulo": "Data Catalog",
+      "paginas": "243-243",
+      "arquivo": "cap_188_Data_Catalog.txt"
+    },
+    {
+      "numero": 189,
+      "titulo": "Data Sharing",
+      "paginas": "244-243",
+      "arquivo": "cap_189_Data_Sharing.txt"
+    },
+    {
+      "numero": 190,
+      "titulo": "Schema",
+      "paginas": "244-244",
+      "arquivo": "cap_190_Schema.txt"
+    },
+    {
+      "numero": 191,
+      "titulo": "Separation of Compute from Storage",
+      "paginas": "245-247",
+      "arquivo": "cap_191_Separation_of_Compute_from_Storage.txt"
+    },
+    {
+      "numero": 192,
+      "titulo": "Data Storage Lifecycle and Data Retention",
+      "paginas": "248-250",
+      "arquivo": "cap_192_Data_Storage_Lifecycle_and_Data_Retention.txt"
+    },
+    {
+      "numero": 193,
+      "titulo": "Single-Tenant Versus Multitenant Storage",
+      "paginas": "251-251",
+      "arquivo": "cap_193_Single-Tenant_Versus_Multitenant_Storage.txt"
+    },
+    {
+      "numero": 194,
+      "titulo": "Whom You’ll Work With",
+      "paginas": "252-252",
+      "arquivo": "cap_194_Whom_Youll_Work_With.txt"
+    },
+    {
+      "numero": 195,
+      "titulo": "Undercurrents",
+      "paginas": "253-252",
+      "arquivo": "cap_195_Undercurrents.txt"
+    },
+    {
+      "numero": 196,
+      "titulo": "Security",
+      "paginas": "253-252",
+      "arquivo": "cap_196_Security.txt"
+    },
+    {
+      "numero": 197,
+      "titulo": "Data Management",
+      "paginas": "253-253",
+      "arquivo": "cap_197_Data_Management.txt"
+    },
+    {
+      "numero": 198,
+      "titulo": "DataOps",
+      "paginas": "254-254",
+      "arquivo": "cap_198_DataOps.txt"
+    },
+    {
+      "numero": 199,
+      "titulo": "Data Architecture",
+      "paginas": "255-254",
+      "arquivo": "cap_199_Data_Architecture.txt"
+    },
+    {
+      "numero": 200,
+      "titulo": "Orchestration",
+      "paginas": "255-254",
+      "arquivo": "cap_200_Orchestration.txt"
+    },
+    {
+      "numero": 201,
+      "titulo": "Software Engineering",
+      "paginas": "255-254",
+      "arquivo": "cap_201_Software_Engineering.txt"
+    },
+    {
+      "numero": 202,
+      "titulo": "Conclusion",
+      "paginas": "255-255",
+      "arquivo": "cap_202_Conclusion.txt"
+    },
+    {
+      "numero": 203,
+      "titulo": "Additional Resources",
+      "paginas": "256-257",
+      "arquivo": "cap_203_Additional_Resources.txt"
+    },
+    {
+      "numero": 204,
+      "titulo": "Chapter 7. Ingestion",
+      "paginas": "258-258",
+      "arquivo": "cap_204_Chapter_7_Ingestion.txt"
+    },
+    {
+      "numero": 205,
+      "titulo": "What Is Data Ingestion?",
+      "paginas": "259-259",
+      "arquivo": "cap_205_What_Is_Data_Ingestion.txt"
+    },
+    {
+      "numero": 206,
+      "titulo": "Key Engineering Considerations for the Ingestion Phase",
+      "paginas": "260-260",
+      "arquivo": "cap_206_Key_Engineering_Considerations_for_the_Ingestion_P.txt"
+    },
+    {
+      "numero": 207,
+      "titulo": "Bounded Versus Unbounded Data",
+      "paginas": "261-261",
+      "arquivo": "cap_207_Bounded_Versus_Unbounded_Data.txt"
+    },
+    {
+      "numero": 208,
+      "titulo": "Frequency",
+      "paginas": "262-262",
+      "arquivo": "cap_208_Frequency.txt"
+    },
+    {
+      "numero": 209,
+      "titulo": "Synchronous Versus Asynchronous Ingestion",
+      "paginas": "263-263",
+      "arquivo": "cap_209_Synchronous_Versus_Asynchronous_Ingestion.txt"
+    },
+    {
+      "numero": 210,
+      "titulo": "Serialization and Deserialization",
+      "paginas": "264-263",
+      "arquivo": "cap_210_Serialization_and_Deserialization.txt"
+    },
+    {
+      "numero": 211,
+      "titulo": "Throughput and Scalability",
+      "paginas": "264-264",
+      "arquivo": "cap_211_Throughput_and_Scalability.txt"
+    },
+    {
+      "numero": 212,
+      "titulo": "Reliability and Durability",
+      "paginas": "265-265",
+      "arquivo": "cap_212_Reliability_and_Durability.txt"
+    },
+    {
+      "numero": 213,
+      "titulo": "Payload",
+      "paginas": "266-268",
+      "arquivo": "cap_213_Payload.txt"
+    },
+    {
+      "numero": 214,
+      "titulo": "Push Versus Pull Versus Poll Patterns",
+      "paginas": "269-268",
+      "arquivo": "cap_214_Push_Versus_Pull_Versus_Poll_Patterns.txt"
+    },
+    {
+      "numero": 215,
+      "titulo": "Batch Ingestion Considerations",
+      "paginas": "269-270",
+      "arquivo": "cap_215_Batch_Ingestion_Considerations.txt"
+    },
+    {
+      "numero": 216,
+      "titulo": "Snapshot or Differential Extraction",
+      "paginas": "271-270",
+      "arquivo": "cap_216_Snapshot_or_Differential_Extraction.txt"
+    },
+    {
+      "numero": 217,
+      "titulo": "File-Based Export and Ingestion",
+      "paginas": "271-270",
+      "arquivo": "cap_217_File-Based_Export_and_Ingestion.txt"
+    },
+    {
+      "numero": 218,
+      "titulo": "ETL Versus ELT",
+      "paginas": "271-271",
+      "arquivo": "cap_218_ETL_Versus_ELT.txt"
+    },
+    {
+      "numero": 219,
+      "titulo": "Inserts, Updates, and Batch Size",
+      "paginas": "272-271",
+      "arquivo": "cap_219_Inserts_Updates_and_Batch_Size.txt"
+    },
+    {
+      "numero": 220,
+      "titulo": "Data Migration",
+      "paginas": "272-272",
+      "arquivo": "cap_220_Data_Migration.txt"
+    },
+    {
+      "numero": 221,
+      "titulo": "Message and Stream Ingestion Considerations",
+      "paginas": "273-272",
+      "arquivo": "cap_221_Message_and_Stream_Ingestion_Considerations.txt"
+    },
+    {
+      "numero": 222,
+      "titulo": "Schema Evolution",
+      "paginas": "273-272",
+      "arquivo": "cap_222_Schema_Evolution.txt"
+    },
+    {
+      "numero": 223,
+      "titulo": "Late-Arriving Data",
+      "paginas": "273-272",
+      "arquivo": "cap_223_Late-Arriving_Data.txt"
+    },
+    {
+      "numero": 224,
+      "titulo": "Ordering and Multiple Delivery",
+      "paginas": "273-273",
+      "arquivo": "cap_224_Ordering_and_Multiple_Delivery.txt"
+    },
+    {
+      "numero": 225,
+      "titulo": "Replay",
+      "paginas": "274-273",
+      "arquivo": "cap_225_Replay.txt"
+    },
+    {
+      "numero": 226,
+      "titulo": "Time to Live",
+      "paginas": "274-273",
+      "arquivo": "cap_226_Time_to_Live.txt"
+    },
+    {
+      "numero": 227,
+      "titulo": "Message Size",
+      "paginas": "274-273",
+      "arquivo": "cap_227_Message_Size.txt"
+    },
+    {
+      "numero": 228,
+      "titulo": "Error Handling and Dead-Letter Queues",
+      "paginas": "274-274",
+      "arquivo": "cap_228_Error_Handling_and_Dead-Letter_Queues.txt"
+    },
+    {
+      "numero": 229,
+      "titulo": "Consumer Pull and Push",
+      "paginas": "275-274",
+      "arquivo": "cap_229_Consumer_Pull_and_Push.txt"
+    },
+    {
+      "numero": 230,
+      "titulo": "Location",
+      "paginas": "275-274",
+      "arquivo": "cap_230_Location.txt"
+    },
+    {
+      "numero": 231,
+      "titulo": "Ways to Ingest Data",
+      "paginas": "275-275",
+      "arquivo": "cap_231_Ways_to_Ingest_Data.txt"
+    },
+    {
+      "numero": 232,
+      "titulo": "Direct Database Connection",
+      "paginas": "276-276",
+      "arquivo": "cap_232_Direct_Database_Connection.txt"
+    },
+    {
+      "numero": 233,
+      "titulo": "Change Data Capture",
+      "paginas": "277-278",
+      "arquivo": "cap_233_Change_Data_Capture.txt"
+    },
+    {
+      "numero": 234,
+      "titulo": "APIs",
+      "paginas": "279-279",
+      "arquivo": "cap_234_APIs.txt"
+    },
+    {
+      "numero": 235,
+      "titulo": "Message Queues and Event-Streaming Platforms",
+      "paginas": "280-280",
+      "arquivo": "cap_235_Message_Queues_and_Event-Streaming_Platforms.txt"
+    },
+    {
+      "numero": 236,
+      "titulo": "Managed Data Connectors",
+      "paginas": "281-281",
+      "arquivo": "cap_236_Managed_Data_Connectors.txt"
+    },
+    {
+      "numero": 237,
+      "titulo": "Moving Data with Object Storage",
+      "paginas": "282-281",
+      "arquivo": "cap_237_Moving_Data_with_Object_Storage.txt"
+    },
+    {
+      "numero": 238,
+      "titulo": "EDI",
+      "paginas": "282-281",
+      "arquivo": "cap_238_EDI.txt"
+    },
+    {
+      "numero": 239,
+      "titulo": "Databases and File Export",
+      "paginas": "282-282",
+      "arquivo": "cap_239_Databases_and_File_Export.txt"
+    },
+    {
+      "numero": 240,
+      "titulo": "Practical Issues with Common File Formats",
+      "paginas": "283-282",
+      "arquivo": "cap_240_Practical_Issues_with_Common_File_Formats.txt"
+    },
+    {
+      "numero": 241,
+      "titulo": "Shell",
+      "paginas": "283-283",
+      "arquivo": "cap_241_Shell.txt"
+    },
+    {
+      "numero": 242,
+      "titulo": "SSH",
+      "paginas": "284-283",
+      "arquivo": "cap_242_SSH.txt"
+    },
+    {
+      "numero": 243,
+      "titulo": "SFTP and SCP",
+      "paginas": "284-283",
+      "arquivo": "cap_243_SFTP_and_SCP.txt"
+    },
+    {
+      "numero": 244,
+      "titulo": "Webhooks",
+      "paginas": "284-284",
+      "arquivo": "cap_244_Webhooks.txt"
+    },
+    {
+      "numero": 245,
+      "titulo": "Web Interface",
+      "paginas": "285-284",
+      "arquivo": "cap_245_Web_Interface.txt"
+    },
+    {
+      "numero": 246,
+      "titulo": "Web Scraping",
+      "paginas": "285-285",
+      "arquivo": "cap_246_Web_Scraping.txt"
+    },
+    {
+      "numero": 247,
+      "titulo": "Transfer Appliances for Data Migration",
+      "paginas": "286-286",
+      "arquivo": "cap_247_Transfer_Appliances_for_Data_Migration.txt"
+    },
+    {
+      "numero": 248,
+      "titulo": "Data Sharing",
+      "paginas": "287-286",
+      "arquivo": "cap_248_Data_Sharing.txt"
+    },
+    {
+      "numero": 249,
+      "titulo": "Whom You’ll Work With",
+      "paginas": "287-286",
+      "arquivo": "cap_249_Whom_Youll_Work_With.txt"
+    },
+    {
+      "numero": 250,
+      "titulo": "Upstream Stakeholders",
+      "paginas": "287-287",
+      "arquivo": "cap_250_Upstream_Stakeholders.txt"
+    },
+    {
+      "numero": 251,
+      "titulo": "Downstream Stakeholders",
+      "paginas": "288-287",
+      "arquivo": "cap_251_Downstream_Stakeholders.txt"
+    },
+    {
+      "numero": 252,
+      "titulo": "Undercurrents",
+      "paginas": "288-288",
+      "arquivo": "cap_252_Undercurrents.txt"
+    },
+    {
+      "numero": 253,
+      "titulo": "Security",
+      "paginas": "289-288",
+      "arquivo": "cap_253_Security.txt"
+    },
+    {
+      "numero": 254,
+      "titulo": "Data Management",
+      "paginas": "289-290",
+      "arquivo": "cap_254_Data_Management.txt"
+    },
+    {
+      "numero": 255,
+      "titulo": "DataOps",
+      "paginas": "291-292",
+      "arquivo": "cap_255_DataOps.txt"
+    },
+    {
+      "numero": 256,
+      "titulo": "Orchestration",
+      "paginas": "293-292",
+      "arquivo": "cap_256_Orchestration.txt"
+    },
+    {
+      "numero": 257,
+      "titulo": "Software Engineering",
+      "paginas": "293-292",
+      "arquivo": "cap_257_Software_Engineering.txt"
+    },
+    {
+      "numero": 258,
+      "titulo": "Conclusion",
+      "paginas": "293-293",
+      "arquivo": "cap_258_Conclusion.txt"
+    },
+    {
+      "numero": 259,
+      "titulo": "Additional Resources",
+      "paginas": "294-295",
+      "arquivo": "cap_259_Additional_Resources.txt"
+    },
+    {
+      "numero": 260,
+      "titulo": "Chapter 8. Queries, Modeling, and Transformation",
+      "paginas": "296-296",
+      "arquivo": "cap_260_Chapter_8_Queries_Modeling_and_Transformation.txt"
+    },
+    {
+      "numero": 261,
+      "titulo": "Queries",
+      "paginas": "297-297",
+      "arquivo": "cap_261_Queries.txt"
+    },
+    {
+      "numero": 262,
+      "titulo": "What Is a Query?",
+      "paginas": "298-298",
+      "arquivo": "cap_262_What_Is_a_Query.txt"
+    },
+    {
+      "numero": 263,
+      "titulo": "The Life of a Query",
+      "paginas": "299-299",
+      "arquivo": "cap_263_The_Life_of_a_Query.txt"
+    },
+    {
+      "numero": 264,
+      "titulo": "The Query Optimizer",
+      "paginas": "300-299",
+      "arquivo": "cap_264_The_Query_Optimizer.txt"
+    },
+    {
+      "numero": 265,
+      "titulo": "Improving Query Performance",
+      "paginas": "300-305",
+      "arquivo": "cap_265_Improving_Query_Performance.txt"
+    },
+    {
+      "numero": 266,
+      "titulo": "Queries on Streaming Data",
+      "paginas": "306-311",
+      "arquivo": "cap_266_Queries_on_Streaming_Data.txt"
+    },
+    {
+      "numero": 267,
+      "titulo": "Data Modeling",
+      "paginas": "312-312",
+      "arquivo": "cap_267_Data_Modeling.txt"
+    },
+    {
+      "numero": 268,
+      "titulo": "What Is a Data Model?",
+      "paginas": "313-313",
+      "arquivo": "cap_268_What_Is_a_Data_Model.txt"
+    },
+    {
+      "numero": 269,
+      "titulo": "Conceptual, Logical, and Physical Data Models",
+      "paginas": "314-314",
+      "arquivo": "cap_269_Conceptual_Logical_and_Physical_Data_Models.txt"
+    },
+    {
+      "numero": 270,
+      "titulo": "Normalization",
+      "paginas": "315-318",
+      "arquivo": "cap_270_Normalization.txt"
+    },
+    {
+      "numero": 271,
+      "titulo": "Techniques for Modeling Batch Analytical Data",
+      "paginas": "319-331",
+      "arquivo": "cap_271_Techniques_for_Modeling_Batch_Analytical_Data.txt"
+    },
+    {
+      "numero": 272,
+      "titulo": "Modeling Streaming Data",
+      "paginas": "332-333",
+      "arquivo": "cap_272_Modeling_Streaming_Data.txt"
+    },
+    {
+      "numero": 273,
+      "titulo": "Transformations",
+      "paginas": "334-334",
+      "arquivo": "cap_273_Transformations.txt"
+    },
+    {
+      "numero": 274,
+      "titulo": "Batch Transformations",
+      "paginas": "335-347",
+      "arquivo": "cap_274_Batch_Transformations.txt"
+    },
+    {
+      "numero": 275,
+      "titulo": "Materialized Views, Federation, and Query Virtualization",
+      "paginas": "348-350",
+      "arquivo": "cap_275_Materialized_Views_Federation_and_Query_Virtualiza.txt"
+    },
+    {
+      "numero": 276,
+      "titulo": "Streaming Transformations and Processing",
+      "paginas": "351-353",
+      "arquivo": "cap_276_Streaming_Transformations_and_Processing.txt"
+    },
+    {
+      "numero": 277,
+      "titulo": "Whom You’ll Work With",
+      "paginas": "354-353",
+      "arquivo": "cap_277_Whom_Youll_Work_With.txt"
+    },
+    {
+      "numero": 278,
+      "titulo": "Upstream Stakeholders",
+      "paginas": "354-354",
+      "arquivo": "cap_278_Upstream_Stakeholders.txt"
+    },
+    {
+      "numero": 279,
+      "titulo": "Downstream Stakeholders",
+      "paginas": "355-354",
+      "arquivo": "cap_279_Downstream_Stakeholders.txt"
+    },
+    {
+      "numero": 280,
+      "titulo": "Undercurrents",
+      "paginas": "355-354",
+      "arquivo": "cap_280_Undercurrents.txt"
+    },
+    {
+      "numero": 281,
+      "titulo": "Security",
+      "paginas": "355-355",
+      "arquivo": "cap_281_Security.txt"
+    },
+    {
+      "numero": 282,
+      "titulo": "Data Management",
+      "paginas": "356-356",
+      "arquivo": "cap_282_Data_Management.txt"
+    },
+    {
+      "numero": 283,
+      "titulo": "DataOps",
+      "paginas": "357-357",
+      "arquivo": "cap_283_DataOps.txt"
+    },
+    {
+      "numero": 284,
+      "titulo": "Data Architecture",
+      "paginas": "358-357",
+      "arquivo": "cap_284_Data_Architecture.txt"
+    },
+    {
+      "numero": 285,
+      "titulo": "Orchestration",
+      "paginas": "358-357",
+      "arquivo": "cap_285_Orchestration.txt"
+    },
+    {
+      "numero": 286,
+      "titulo": "Software Engineering",
+      "paginas": "358-358",
+      "arquivo": "cap_286_Software_Engineering.txt"
+    },
+    {
+      "numero": 287,
+      "titulo": "Conclusion",
+      "paginas": "359-359",
+      "arquivo": "cap_287_Conclusion.txt"
+    },
+    {
+      "numero": 288,
+      "titulo": "Additional Resources",
+      "paginas": "360-361",
+      "arquivo": "cap_288_Additional_Resources.txt"
+    },
+    {
+      "numero": 289,
+      "titulo": "Chapter 9. Serving Data for Analytics, Machine Learning, and Reverse ETL",
+      "paginas": "362-362",
+      "arquivo": "cap_289_Chapter_9_Serving_Data_for_Analytics_Machine_Learn.txt"
+    },
+    {
+      "numero": 290,
+      "titulo": "General Considerations for Serving Data",
+      "paginas": "363-362",
+      "arquivo": "cap_290_General_Considerations_for_Serving_Data.txt"
+    },
+    {
+      "numero": 291,
+      "titulo": "Trust",
+      "paginas": "363-363",
+      "arquivo": "cap_291_Trust.txt"
+    },
+    {
+      "numero": 292,
+      "titulo": "What’s the Use Case, and Who’s the User?",
+      "paginas": "364-364",
+      "arquivo": "cap_292_Whats_the_Use_Case_and_Whos_the_User.txt"
+    },
+    {
+      "numero": 293,
+      "titulo": "Data Products",
+      "paginas": "365-365",
+      "arquivo": "cap_293_Data_Products.txt"
+    },
+    {
+      "numero": 294,
+      "titulo": "Self-Service or Not?",
+      "paginas": "366-366",
+      "arquivo": "cap_294_Self-Service_or_Not.txt"
+    },
+    {
+      "numero": 295,
+      "titulo": "Data Definitions and Logic",
+      "paginas": "367-367",
+      "arquivo": "cap_295_Data_Definitions_and_Logic.txt"
+    },
+    {
+      "numero": 296,
+      "titulo": "Data Mesh",
+      "paginas": "368-368",
+      "arquivo": "cap_296_Data_Mesh.txt"
+    },
+    {
+      "numero": 297,
+      "titulo": "Analytics",
+      "paginas": "369-368",
+      "arquivo": "cap_297_Analytics.txt"
+    },
+    {
+      "numero": 298,
+      "titulo": "Business Analytics",
+      "paginas": "369-370",
+      "arquivo": "cap_298_Business_Analytics.txt"
+    },
+    {
+      "numero": 299,
+      "titulo": "Operational Analytics",
+      "paginas": "371-372",
+      "arquivo": "cap_299_Operational_Analytics.txt"
+    },
+    {
+      "numero": 300,
+      "titulo": "Embedded Analytics",
+      "paginas": "373-373",
+      "arquivo": "cap_300_Embedded_Analytics.txt"
+    },
+    {
+      "numero": 301,
+      "titulo": "Machine Learning",
+      "paginas": "374-374",
+      "arquivo": "cap_301_Machine_Learning.txt"
+    },
+    {
+      "numero": 302,
+      "titulo": "What a Data Engineer Should Know About ML",
+      "paginas": "375-375",
+      "arquivo": "cap_302_What_a_Data_Engineer_Should_Know_About_ML.txt"
+    },
+    {
+      "numero": 303,
+      "titulo": "Ways to Serve Data for Analytics and ML",
+      "paginas": "376-375",
+      "arquivo": "cap_303_Ways_to_Serve_Data_for_Analytics_and_ML.txt"
+    },
+    {
+      "numero": 304,
+      "titulo": "File Exchange",
+      "paginas": "376-376",
+      "arquivo": "cap_304_File_Exchange.txt"
+    },
+    {
+      "numero": 305,
+      "titulo": "Databases",
+      "paginas": "377-378",
+      "arquivo": "cap_305_Databases.txt"
+    },
+    {
+      "numero": 306,
+      "titulo": "Streaming Systems",
+      "paginas": "379-378",
+      "arquivo": "cap_306_Streaming_Systems.txt"
+    },
+    {
+      "numero": 307,
+      "titulo": "Query Federation",
+      "paginas": "379-379",
+      "arquivo": "cap_307_Query_Federation.txt"
+    },
+    {
+      "numero": 308,
+      "titulo": "Data Sharing",
+      "paginas": "380-379",
+      "arquivo": "cap_308_Data_Sharing.txt"
+    },
+    {
+      "numero": 309,
+      "titulo": "Semantic and Metrics Layers",
+      "paginas": "380-380",
+      "arquivo": "cap_309_Semantic_and_Metrics_Layers.txt"
+    },
+    {
+      "numero": 310,
+      "titulo": "Serving Data in Notebooks",
+      "paginas": "381-382",
+      "arquivo": "cap_310_Serving_Data_in_Notebooks.txt"
+    },
+    {
+      "numero": 311,
+      "titulo": "Reverse ETL",
+      "paginas": "383-384",
+      "arquivo": "cap_311_Reverse_ETL.txt"
+    },
+    {
+      "numero": 312,
+      "titulo": "Whom You’ll Work With",
+      "paginas": "385-384",
+      "arquivo": "cap_312_Whom_Youll_Work_With.txt"
+    },
+    {
+      "numero": 313,
+      "titulo": "Undercurrents",
+      "paginas": "385-385",
+      "arquivo": "cap_313_Undercurrents.txt"
+    },
+    {
+      "numero": 314,
+      "titulo": "Security",
+      "paginas": "386-386",
+      "arquivo": "cap_314_Security.txt"
+    },
+    {
+      "numero": 315,
+      "titulo": "Data Management",
+      "paginas": "387-386",
+      "arquivo": "cap_315_Data_Management.txt"
+    },
+    {
+      "numero": 316,
+      "titulo": "DataOps",
+      "paginas": "387-387",
+      "arquivo": "cap_316_DataOps.txt"
+    },
+    {
+      "numero": 317,
+      "titulo": "Data Architecture",
+      "paginas": "388-387",
+      "arquivo": "cap_317_Data_Architecture.txt"
+    },
+    {
+      "numero": 318,
+      "titulo": "Orchestration",
+      "paginas": "388-388",
+      "arquivo": "cap_318_Orchestration.txt"
+    },
+    {
+      "numero": 319,
+      "titulo": "Software Engineering",
+      "paginas": "389-389",
+      "arquivo": "cap_319_Software_Engineering.txt"
+    },
+    {
+      "numero": 320,
+      "titulo": "Conclusion",
+      "paginas": "390-389",
+      "arquivo": "cap_320_Conclusion.txt"
+    },
+    {
+      "numero": 321,
+      "titulo": "Additional Resources",
+      "paginas": "390-391",
+      "arquivo": "cap_321_Additional_Resources.txt"
+    },
+    {
+      "numero": 322,
+      "titulo": "Part III. Security, Privacy, and the Future of Data Engineering",
+      "paginas": "392-393",
+      "arquivo": "cap_322_Part_III_Security_Privacy_and_the_Future_of_Data_E.txt"
+    },
+    {
+      "numero": 323,
+      "titulo": "Chapter 10. Security and Privacy",
+      "paginas": "394-394",
+      "arquivo": "cap_323_Chapter_10_Security_and_Privacy.txt"
+    },
+    {
+      "numero": 324,
+      "titulo": "People",
+      "paginas": "395-394",
+      "arquivo": "cap_324_People.txt"
+    },
+    {
+      "numero": 325,
+      "titulo": "The Power of Negative Thinking",
+      "paginas": "395-394",
+      "arquivo": "cap_325_The_Power_of_Negative_Thinking.txt"
+    },
+    {
+      "numero": 326,
+      "titulo": "Always Be Paranoid",
+      "paginas": "395-395",
+      "arquivo": "cap_326_Always_Be_Paranoid.txt"
+    },
+    {
+      "numero": 327,
+      "titulo": "Processes",
+      "paginas": "396-395",
+      "arquivo": "cap_327_Processes.txt"
+    },
+    {
+      "numero": 328,
+      "titulo": "Security Theater Versus Security Habit",
+      "paginas": "396-395",
+      "arquivo": "cap_328_Security_Theater_Versus_Security_Habit.txt"
+    },
+    {
+      "numero": 329,
+      "titulo": "Active Security",
+      "paginas": "396-396",
+      "arquivo": "cap_329_Active_Security.txt"
+    },
+    {
+      "numero": 330,
+      "titulo": "The Principle of Least Privilege",
+      "paginas": "397-396",
+      "arquivo": "cap_330_The_Principle_of_Least_Privilege.txt"
+    },
+    {
+      "numero": 331,
+      "titulo": "Shared Responsibility in the Cloud",
+      "paginas": "397-396",
+      "arquivo": "cap_331_Shared_Responsibility_in_the_Cloud.txt"
+    },
+    {
+      "numero": 332,
+      "titulo": "Always Back Up Your Data",
+      "paginas": "397-397",
+      "arquivo": "cap_332_Always_Back_Up_Your_Data.txt"
+    },
+    {
+      "numero": 333,
+      "titulo": "An Example Security Policy",
+      "paginas": "398-398",
+      "arquivo": "cap_333_An_Example_Security_Policy.txt"
+    },
+    {
+      "numero": 334,
+      "titulo": "Technology",
+      "paginas": "399-398",
+      "arquivo": "cap_334_Technology.txt"
+    },
+    {
+      "numero": 335,
+      "titulo": "Patch and Update Systems",
+      "paginas": "399-399",
+      "arquivo": "cap_335_Patch_and_Update_Systems.txt"
+    },
+    {
+      "numero": 336,
+      "titulo": "Encryption",
+      "paginas": "400-399",
+      "arquivo": "cap_336_Encryption.txt"
+    },
+    {
+      "numero": 337,
+      "titulo": "Logging, Monitoring, and Alerting",
+      "paginas": "400-400",
+      "arquivo": "cap_337_Logging_Monitoring_and_Alerting.txt"
+    },
+    {
+      "numero": 338,
+      "titulo": "Network Access",
+      "paginas": "401-401",
+      "arquivo": "cap_338_Network_Access.txt"
+    },
+    {
+      "numero": 339,
+      "titulo": "Security for Low-Level Data Engineering",
+      "paginas": "402-402",
+      "arquivo": "cap_339_Security_for_Low-Level_Data_Engineering.txt"
+    },
+    {
+      "numero": 340,
+      "titulo": "Conclusion",
+      "paginas": "403-402",
+      "arquivo": "cap_340_Conclusion.txt"
+    },
+    {
+      "numero": 341,
+      "titulo": "Additional Resources",
+      "paginas": "403-403",
+      "arquivo": "cap_341_Additional_Resources.txt"
+    },
+    {
+      "numero": 342,
+      "titulo": "Chapter 11. The Future of Data Engineering",
+      "paginas": "404-404",
+      "arquivo": "cap_342_Chapter_11_The_Future_of_Data_Engineering.txt"
+    },
+    {
+      "numero": 343,
+      "titulo": "The Data Engineering Lifecycle Isn’t Going Away",
+      "paginas": "405-404",
+      "arquivo": "cap_343_The_Data_Engineering_Lifecycle_Isnt_Going_Away.txt"
+    },
+    {
+      "numero": 344,
+      "titulo": "The Decline of Complexity and the Rise of Easy-to-Use Data Tools",
+      "paginas": "405-405",
+      "arquivo": "cap_344_The_Decline_of_Complexity_and_the_Rise_of_Easy-to-.txt"
+    },
+    {
+      "numero": 345,
+      "titulo": "The Cloud-Scale Data OS and Improved Interoperability",
+      "paginas": "406-407",
+      "arquivo": "cap_345_The_Cloud-Scale_Data_OS_and_Improved_Interoperabil.txt"
+    },
+    {
+      "numero": 346,
+      "titulo": "“Enterprisey” Data Engineering",
+      "paginas": "408-408",
+      "arquivo": "cap_346_Enterprisey_Data_Engineering.txt"
+    },
+    {
+      "numero": 347,
+      "titulo": "Titles and Responsibilities Will Morph...",
+      "paginas": "409-409",
+      "arquivo": "cap_347_Titles_and_Responsibilities_Will_Morph.txt"
+    },
+    {
+      "numero": 348,
+      "titulo": "Moving Beyond the Modern Data Stack, Toward the Live Data Stack",
+      "paginas": "410-409",
+      "arquivo": "cap_348_Moving_Beyond_the_Modern_Data_Stack_Toward_the_Liv.txt"
+    },
+    {
+      "numero": 349,
+      "titulo": "The Live Data Stack",
+      "paginas": "410-410",
+      "arquivo": "cap_349_The_Live_Data_Stack.txt"
+    },
+    {
+      "numero": 350,
+      "titulo": "Streaming Pipelines and Real-Time Analytical Databases",
+      "paginas": "411-411",
+      "arquivo": "cap_350_Streaming_Pipelines_and_Real-Time_Analytical_Datab.txt"
+    },
+    {
+      "numero": 351,
+      "titulo": "The Fusion of Data with Applications",
+      "paginas": "412-412",
+      "arquivo": "cap_351_The_Fusion_of_Data_with_Applications.txt"
+    },
+    {
+      "numero": 352,
+      "titulo": "The Tight Feedback Between Applications and ML",
+      "paginas": "413-412",
+      "arquivo": "cap_352_The_Tight_Feedback_Between_Applications_and_ML.txt"
+    },
+    {
+      "numero": 353,
+      "titulo": "Dark Matter Data and the Rise of...Spreadsheets?!",
+      "paginas": "413-413",
+      "arquivo": "cap_353_Dark_Matter_Data_and_the_Rise_ofSpreadsheets.txt"
+    },
+    {
+      "numero": 354,
+      "titulo": "Conclusion",
+      "paginas": "414-415",
+      "arquivo": "cap_354_Conclusion.txt"
+    },
+    {
+      "numero": 355,
+      "titulo": "Appendix A. Serialization and Compression Technical Details",
+      "paginas": "416-415",
+      "arquivo": "cap_355_Appendix_A_Serialization_and_Compression_Technical.txt"
+    },
+    {
+      "numero": 356,
+      "titulo": "Serialization Formats",
+      "paginas": "416-415",
+      "arquivo": "cap_356_Serialization_Formats.txt"
+    },
+    {
+      "numero": 357,
+      "titulo": "Row-Based Serialization",
+      "paginas": "416-417",
+      "arquivo": "cap_357_Row-Based_Serialization.txt"
+    },
+    {
+      "numero": 358,
+      "titulo": "Columnar Serialization",
+      "paginas": "418-419",
+      "arquivo": "cap_358_Columnar_Serialization.txt"
+    },
+    {
+      "numero": 359,
+      "titulo": "Hybrid Serialization",
+      "paginas": "420-419",
+      "arquivo": "cap_359_Hybrid_Serialization.txt"
+    },
+    {
+      "numero": 360,
+      "titulo": "Database Storage Engines",
+      "paginas": "420-420",
+      "arquivo": "cap_360_Database_Storage_Engines.txt"
+    },
+    {
+      "numero": 361,
+      "titulo": "Compression: gzip, bzip2, Snappy, Etc.",
+      "paginas": "421-423",
+      "arquivo": "cap_361_Compression_gzip_bzip2_Snappy_Etc.txt"
+    },
+    {
+      "numero": 362,
+      "titulo": "Appendix B. Cloud Networking",
+      "paginas": "424-423",
+      "arquivo": "cap_362_Appendix_B_Cloud_Networking.txt"
+    },
+    {
+      "numero": 363,
+      "titulo": "Cloud Network Topology",
+      "paginas": "424-423",
+      "arquivo": "cap_363_Cloud_Network_Topology.txt"
+    },
+    {
+      "numero": 364,
+      "titulo": "Data Egress Charges",
+      "paginas": "424-424",
+      "arquivo": "cap_364_Data_Egress_Charges.txt"
+    },
+    {
+      "numero": 365,
+      "titulo": "Availability Zones",
+      "paginas": "425-424",
+      "arquivo": "cap_365_Availability_Zones.txt"
+    },
+    {
+      "numero": 366,
+      "titulo": "Regions",
+      "paginas": "425-425",
+      "arquivo": "cap_366_Regions.txt"
+    },
+    {
+      "numero": 367,
+      "titulo": "GCP-Specific Networking and Multiregional Redundancy",
+      "paginas": "426-425",
+      "arquivo": "cap_367_GCP-Specific_Networking_and_Multiregional_Redundan.txt"
+    },
+    {
+      "numero": 368,
+      "titulo": "Direct Network Connections to the Clouds",
+      "paginas": "426-426",
+      "arquivo": "cap_368_Direct_Network_Connections_to_the_Clouds.txt"
+    },
+    {
+      "numero": 369,
+      "titulo": "CDNs",
+      "paginas": "427-426",
+      "arquivo": "cap_369_CDNs.txt"
+    },
+    {
+      "numero": 370,
+      "titulo": "The Future of Data Egress Fees",
+      "paginas": "427-427",
+      "arquivo": "cap_370_The_Future_of_Data_Egress_Fees.txt"
+    },
+    {
+      "numero": 371,
+      "titulo": "Index",
+      "paginas": "428-443",
+      "arquivo": "cap_371_Index.txt"
+    },
+    {
+      "numero": 372,
+      "titulo": "About the Authors",
+      "paginas": "444-443",
+      "arquivo": "cap_372_About_the_Authors.txt"
+    },
+    {
+      "numero": 373,
+      "titulo": "Colophon",
+      "paginas": "444-445",
+      "arquivo": "cap_373_Colophon.txt"
+    }
+  ],
+  "arquivos": [
+    "cap_01_Cover.txt",
+    "cap_02_Copyright.txt",
+    "cap_03_Table_of_Contents.txt",
+    "cap_04_Preface.txt",
+    "cap_05_What_This_Book_Isnt.txt",
+    "cap_06_What_This_Book_Is_About.txt",
+    "cap_07_Who_Should_Read_This_Book.txt",
+    "cap_08_Prerequisites.txt",
+    "cap_09_What_Youll_Learn_and_How_It_Will_Improve_Your_Abil.txt",
+    "cap_10_Navigating_This_Book.txt",
+    "cap_11_Conventions_Used_in_This_Book.txt",
+    "cap_12_How_to_Contact_Us.txt",
+    "cap_13_Acknowledgments.txt",
+    "cap_14_Part_I_Foundation_and_Building_Blocks.txt",
+    "cap_15_Chapter_1_Data_Engineering_Described.txt",
+    "cap_16_What_Is_Data_Engineering.txt",
+    "cap_17_Data_Engineering_Defined.txt",
+    "cap_18_The_Data_Engineering_Lifecycle.txt",
+    "cap_19_Evolution_of_the_Data_Engineer.txt",
+    "cap_20_Data_Engineering_and_Data_Science.txt",
+    "cap_21_Data_Engineering_Skills_and_Activities.txt",
+    "cap_22_Data_Maturity_and_the_Data_Engineer.txt",
+    "cap_23_The_Background_and_Skills_of_a_Data_Engineer.txt",
+    "cap_24_Business_Responsibilities.txt",
+    "cap_25_Technical_Responsibilities.txt",
+    "cap_26_The_Continuum_of_Data_Engineering_Roles_from_A_to_.txt",
+    "cap_27_Data_Engineers_Inside_an_Organization.txt",
+    "cap_28_Internal-Facing_Versus_External-Facing_Data_Engine.txt",
+    "cap_29_Data_Engineers_and_Other_Technical_Roles.txt",
+    "cap_30_Data_Engineers_and_Business_Leadership.txt",
+    "cap_31_Conclusion.txt",
+    "cap_32_Additional_Resources.txt",
+    "cap_33_Chapter_2_The_Data_Engineering_Lifecycle.txt",
+    "cap_34_What_Is_the_Data_Engineering_Lifecycle.txt",
+    "cap_35_The_Data_Lifecycle_Versus_the_Data_Engineering_Lif.txt",
+    "cap_36_Generation_Source_Systems.txt",
+    "cap_37_Storage.txt",
+    "cap_38_Ingestion.txt",
+    "cap_39_Transformation.txt",
+    "cap_40_Serving_Data.txt",
+    "cap_41_Major_Undercurrents_Across_the_Data_Engineering_Li.txt",
+    "cap_42_Security.txt",
+    "cap_43_Data_Management.txt",
+    "cap_44_DataOps.txt",
+    "cap_45_Data_Architecture.txt",
+    "cap_46_Orchestration.txt",
+    "cap_47_Software_Engineering.txt",
+    "cap_48_Conclusion.txt",
+    "cap_49_Additional_Resources.txt",
+    "cap_50_Chapter_3_Designing_Good_Data_Architecture.txt",
+    "cap_51_What_Is_Data_Architecture.txt",
+    "cap_52_Enterprise_Architecture_Defined.txt",
+    "cap_53_Data_Architecture_Defined.txt",
+    "cap_54_Good_Data_Architecture.txt",
+    "cap_55_Principles_of_Good_Data_Architecture.txt",
+    "cap_56_Principle_1_Choose_Common_Components_Wisely.txt",
+    "cap_57_Principle_2_Plan_for_Failure.txt",
+    "cap_58_Principle_3_Architect_for_Scalability.txt",
+    "cap_59_Principle_4_Architecture_Is_Leadership.txt",
+    "cap_60_Principle_5_Always_Be_Architecting.txt",
+    "cap_61_Principle_6_Build_Loosely_Coupled_Systems.txt",
+    "cap_62_Principle_7_Make_Reversible_Decisions.txt",
+    "cap_63_Principle_8_Prioritize_Security.txt",
+    "cap_64_Principle_9_Embrace_FinOps.txt",
+    "cap_65_Major_Architecture_Concepts.txt",
+    "cap_66_Domains_and_Services.txt",
+    "cap_67_Distributed_Systems_Scalability_and_Designing_for_.txt",
+    "cap_68_Tight_Versus_Loose_Coupling_Tiers_Monoliths_and_Mi.txt",
+    "cap_69_User_Access_Single_Versus_Multitenant.txt",
+    "cap_70_Event-Driven_Architecture.txt",
+    "cap_71_Brownfield_Versus_Greenfield_Projects.txt",
+    "cap_72_Examples_and_Types_of_Data_Architecture.txt",
+    "cap_73_Data_Warehouse.txt",
+    "cap_74_Data_Lake.txt",
+    "cap_75_Convergence_Next-Generation_Data_Lakes_and_the_Dat.txt",
+    "cap_76_Modern_Data_Stack.txt",
+    "cap_77_Lambda_Architecture.txt",
+    "cap_78_Kappa_Architecture.txt",
+    "cap_79_The_Dataflow_Model_and_Unified_Batch_and_Streaming.txt",
+    "cap_80_Architecture_for_IoT.txt",
+    "cap_81_Data_Mesh.txt",
+    "cap_82_Other_Data_Architecture_Examples.txt",
+    "cap_83_Whos_Involved_with_Designing_a_Data_Architecture.txt",
+    "cap_84_Conclusion.txt",
+    "cap_85_Additional_Resources.txt",
+    "cap_86_Chapter_4_Choosing_Technologies_Across_the_Data_En.txt",
+    "cap_87_Team_Size_and_Capabilities.txt",
+    "cap_88_Speed_to_Market.txt",
+    "cap_89_Interoperability.txt",
+    "cap_90_Cost_Optimization_and_Business_Value.txt",
+    "cap_91_Total_Cost_of_Ownership.txt",
+    "cap_92_Total_Opportunity_Cost_of_Ownership.txt",
+    "cap_93_FinOps.txt",
+    "cap_94_Today_Versus_the_Future_Immutable_Versus_Transitor.txt",
+    "cap_95_Our_Advice.txt",
+    "cap_96_Location.txt",
+    "cap_97_On_Premises.txt",
+    "cap_98_Cloud.txt",
+    "cap_99_Hybrid_Cloud.txt",
+    "cap_100_Multicloud.txt",
+    "cap_101_Decentralized_Blockchain_and_the_Edge.txt",
+    "cap_102_Our_Advice.txt",
+    "cap_103_Cloud_Repatriation_Arguments.txt",
+    "cap_104_Build_Versus_Buy.txt",
+    "cap_105_Open_Source_Software.txt",
+    "cap_106_Proprietary_Walled_Gardens.txt",
+    "cap_107_Our_Advice.txt",
+    "cap_108_Monolith_Versus_Modular.txt",
+    "cap_109_Monolith.txt",
+    "cap_110_Modularity.txt",
+    "cap_111_The_Distributed_Monolith_Pattern.txt",
+    "cap_112_Our_Advice.txt",
+    "cap_113_Serverless_Versus_Servers.txt",
+    "cap_114_Serverless.txt",
+    "cap_115_Containers.txt",
+    "cap_116_How_to_Evaluate_Server_Versus_Serverless.txt",
+    "cap_117_Our_Advice.txt",
+    "cap_118_Optimization_Performance_and_the_Benchmark_Wars.txt",
+    "cap_119_Big_Datafor_the_1990s.txt",
+    "cap_120_Nonsensical_Cost_Comparisons.txt",
+    "cap_121_Asymmetric_Optimization.txt",
+    "cap_122_Caveat_Emptor.txt",
+    "cap_123_Undercurrents_and_Their_Impacts_on_Choosing_Techno.txt",
+    "cap_124_Data_Management.txt",
+    "cap_125_DataOps.txt",
+    "cap_126_Data_Architecture.txt",
+    "cap_127_Orchestration_Example_Airflow.txt",
+    "cap_128_Software_Engineering.txt",
+    "cap_129_Conclusion.txt",
+    "cap_130_Additional_Resources.txt",
+    "cap_131_Part_II_The_Data_Engineering_Lifecycle_in_Depth.txt",
+    "cap_132_Chapter_5_Data_Generation_in_Source_Systems.txt",
+    "cap_133_Sources_of_Data_How_Is_Data_Created.txt",
+    "cap_134_Source_Systems_Main_Ideas.txt",
+    "cap_135_Files_and_Unstructured_Data.txt",
+    "cap_136_APIs.txt",
+    "cap_137_Application_Databases_OLTP_Systems.txt",
+    "cap_138_Online_Analytical_Processing_System.txt",
+    "cap_139_Change_Data_Capture.txt",
+    "cap_140_Logs.txt",
+    "cap_141_Database_Logs.txt",
+    "cap_142_CRUD.txt",
+    "cap_143_Insert-Only.txt",
+    "cap_144_Messages_and_Streams.txt",
+    "cap_145_Types_of_Time.txt",
+    "cap_146_Source_System_Practical_Details.txt",
+    "cap_147_Databases.txt",
+    "cap_148_APIs.txt",
+    "cap_149_Data_Sharing.txt",
+    "cap_150_Third-Party_Data_Sources.txt",
+    "cap_151_Message_Queues_and_Event-Streaming_Platforms.txt",
+    "cap_152_Whom_Youll_Work_With.txt",
+    "cap_153_Undercurrents_and_Their_Impact_on_Source_Systems.txt",
+    "cap_154_Security.txt",
+    "cap_155_Data_Management.txt",
+    "cap_156_DataOps.txt",
+    "cap_157_Data_Architecture.txt",
+    "cap_158_Orchestration.txt",
+    "cap_159_Software_Engineering.txt",
+    "cap_160_Conclusion.txt",
+    "cap_161_Additional_Resources.txt",
+    "cap_162_Chapter_6_Storage.txt",
+    "cap_163_Raw_Ingredients_of_Data_Storage.txt",
+    "cap_164_Magnetic_Disk_Drive.txt",
+    "cap_165_Solid-State_Drive.txt",
+    "cap_166_Random_Access_Memory.txt",
+    "cap_167_Networking_and_CPU.txt",
+    "cap_168_Serialization.txt",
+    "cap_169_Compression.txt",
+    "cap_170_Caching.txt",
+    "cap_171_Data_Storage_Systems.txt",
+    "cap_172_Single_Machine_Versus_Distributed_Storage.txt",
+    "cap_173_Eventual_Versus_Strong_Consistency.txt",
+    "cap_174_File_Storage.txt",
+    "cap_175_Block_Storage.txt",
+    "cap_176_Object_Storage.txt",
+    "cap_177_Cache_and_Memory-Based_Storage_Systems.txt",
+    "cap_178_The_Hadoop_Distributed_File_System.txt",
+    "cap_179_Streaming_Storage.txt",
+    "cap_180_Indexes_Partitioning_and_Clustering.txt",
+    "cap_181_Data_Engineering_Storage_Abstractions.txt",
+    "cap_182_The_Data_Warehouse.txt",
+    "cap_183_The_Data_Lake.txt",
+    "cap_184_The_Data_Lakehouse.txt",
+    "cap_185_Data_Platforms.txt",
+    "cap_186_Stream-to-Batch_Storage_Architecture.txt",
+    "cap_187_Big_Ideas_and_Trends_in_Storage.txt",
+    "cap_188_Data_Catalog.txt",
+    "cap_189_Data_Sharing.txt",
+    "cap_190_Schema.txt",
+    "cap_191_Separation_of_Compute_from_Storage.txt",
+    "cap_192_Data_Storage_Lifecycle_and_Data_Retention.txt",
+    "cap_193_Single-Tenant_Versus_Multitenant_Storage.txt",
+    "cap_194_Whom_Youll_Work_With.txt",
+    "cap_195_Undercurrents.txt",
+    "cap_196_Security.txt",
+    "cap_197_Data_Management.txt",
+    "cap_198_DataOps.txt",
+    "cap_199_Data_Architecture.txt",
+    "cap_200_Orchestration.txt",
+    "cap_201_Software_Engineering.txt",
+    "cap_202_Conclusion.txt",
+    "cap_203_Additional_Resources.txt",
+    "cap_204_Chapter_7_Ingestion.txt",
+    "cap_205_What_Is_Data_Ingestion.txt",
+    "cap_206_Key_Engineering_Considerations_for_the_Ingestion_P.txt",
+    "cap_207_Bounded_Versus_Unbounded_Data.txt",
+    "cap_208_Frequency.txt",
+    "cap_209_Synchronous_Versus_Asynchronous_Ingestion.txt",
+    "cap_210_Serialization_and_Deserialization.txt",
+    "cap_211_Throughput_and_Scalability.txt",
+    "cap_212_Reliability_and_Durability.txt",
+    "cap_213_Payload.txt",
+    "cap_214_Push_Versus_Pull_Versus_Poll_Patterns.txt",
+    "cap_215_Batch_Ingestion_Considerations.txt",
+    "cap_216_Snapshot_or_Differential_Extraction.txt",
+    "cap_217_File-Based_Export_and_Ingestion.txt",
+    "cap_218_ETL_Versus_ELT.txt",
+    "cap_219_Inserts_Updates_and_Batch_Size.txt",
+    "cap_220_Data_Migration.txt",
+    "cap_221_Message_and_Stream_Ingestion_Considerations.txt",
+    "cap_222_Schema_Evolution.txt",
+    "cap_223_Late-Arriving_Data.txt",
+    "cap_224_Ordering_and_Multiple_Delivery.txt",
+    "cap_225_Replay.txt",
+    "cap_226_Time_to_Live.txt",
+    "cap_227_Message_Size.txt",
+    "cap_228_Error_Handling_and_Dead-Letter_Queues.txt",
+    "cap_229_Consumer_Pull_and_Push.txt",
+    "cap_230_Location.txt",
+    "cap_231_Ways_to_Ingest_Data.txt",
+    "cap_232_Direct_Database_Connection.txt",
+    "cap_233_Change_Data_Capture.txt",
+    "cap_234_APIs.txt",
+    "cap_235_Message_Queues_and_Event-Streaming_Platforms.txt",
+    "cap_236_Managed_Data_Connectors.txt",
+    "cap_237_Moving_Data_with_Object_Storage.txt",
+    "cap_238_EDI.txt",
+    "cap_239_Databases_and_File_Export.txt",
+    "cap_240_Practical_Issues_with_Common_File_Formats.txt",
+    "cap_241_Shell.txt",
+    "cap_242_SSH.txt",
+    "cap_243_SFTP_and_SCP.txt",
+    "cap_244_Webhooks.txt",
+    "cap_245_Web_Interface.txt",
+    "cap_246_Web_Scraping.txt",
+    "cap_247_Transfer_Appliances_for_Data_Migration.txt",
+    "cap_248_Data_Sharing.txt",
+    "cap_249_Whom_Youll_Work_With.txt",
+    "cap_250_Upstream_Stakeholders.txt",
+    "cap_251_Downstream_Stakeholders.txt",
+    "cap_252_Undercurrents.txt",
+    "cap_253_Security.txt",
+    "cap_254_Data_Management.txt",
+    "cap_255_DataOps.txt",
+    "cap_256_Orchestration.txt",
+    "cap_257_Software_Engineering.txt",
+    "cap_258_Conclusion.txt",
+    "cap_259_Additional_Resources.txt",
+    "cap_260_Chapter_8_Queries_Modeling_and_Transformation.txt",
+    "cap_261_Queries.txt",
+    "cap_262_What_Is_a_Query.txt",
+    "cap_263_The_Life_of_a_Query.txt",
+    "cap_264_The_Query_Optimizer.txt",
+    "cap_265_Improving_Query_Performance.txt",
+    "cap_266_Queries_on_Streaming_Data.txt",
+    "cap_267_Data_Modeling.txt",
+    "cap_268_What_Is_a_Data_Model.txt",
+    "cap_269_Conceptual_Logical_and_Physical_Data_Models.txt",
+    "cap_270_Normalization.txt",
+    "cap_271_Techniques_for_Modeling_Batch_Analytical_Data.txt",
+    "cap_272_Modeling_Streaming_Data.txt",
+    "cap_273_Transformations.txt",
+    "cap_274_Batch_Transformations.txt",
+    "cap_275_Materialized_Views_Federation_and_Query_Virtualiza.txt",
+    "cap_276_Streaming_Transformations_and_Processing.txt",
+    "cap_277_Whom_Youll_Work_With.txt",
+    "cap_278_Upstream_Stakeholders.txt",
+    "cap_279_Downstream_Stakeholders.txt",
+    "cap_280_Undercurrents.txt",
+    "cap_281_Security.txt",
+    "cap_282_Data_Management.txt",
+    "cap_283_DataOps.txt",
+    "cap_284_Data_Architecture.txt",
+    "cap_285_Orchestration.txt",
+    "cap_286_Software_Engineering.txt",
+    "cap_287_Conclusion.txt",
+    "cap_288_Additional_Resources.txt",
+    "cap_289_Chapter_9_Serving_Data_for_Analytics_Machine_Learn.txt",
+    "cap_290_General_Considerations_for_Serving_Data.txt",
+    "cap_291_Trust.txt",
+    "cap_292_Whats_the_Use_Case_and_Whos_the_User.txt",
+    "cap_293_Data_Products.txt",
+    "cap_294_Self-Service_or_Not.txt",
+    "cap_295_Data_Definitions_and_Logic.txt",
+    "cap_296_Data_Mesh.txt",
+    "cap_297_Analytics.txt",
+    "cap_298_Business_Analytics.txt",
+    "cap_299_Operational_Analytics.txt",
+    "cap_300_Embedded_Analytics.txt",
+    "cap_301_Machine_Learning.txt",
+    "cap_302_What_a_Data_Engineer_Should_Know_About_ML.txt",
+    "cap_303_Ways_to_Serve_Data_for_Analytics_and_ML.txt",
+    "cap_304_File_Exchange.txt",
+    "cap_305_Databases.txt",
+    "cap_306_Streaming_Systems.txt",
+    "cap_307_Query_Federation.txt",
+    "cap_308_Data_Sharing.txt",
+    "cap_309_Semantic_and_Metrics_Layers.txt",
+    "cap_310_Serving_Data_in_Notebooks.txt",
+    "cap_311_Reverse_ETL.txt",
+    "cap_312_Whom_Youll_Work_With.txt",
+    "cap_313_Undercurrents.txt",
+    "cap_314_Security.txt",
+    "cap_315_Data_Management.txt",
+    "cap_316_DataOps.txt",
+    "cap_317_Data_Architecture.txt",
+    "cap_318_Orchestration.txt",
+    "cap_319_Software_Engineering.txt",
+    "cap_320_Conclusion.txt",
+    "cap_321_Additional_Resources.txt",
+    "cap_322_Part_III_Security_Privacy_and_the_Future_of_Data_E.txt",
+    "cap_323_Chapter_10_Security_and_Privacy.txt",
+    "cap_324_People.txt",
+    "cap_325_The_Power_of_Negative_Thinking.txt",
+    "cap_326_Always_Be_Paranoid.txt",
+    "cap_327_Processes.txt",
+    "cap_328_Security_Theater_Versus_Security_Habit.txt",
+    "cap_329_Active_Security.txt",
+    "cap_330_The_Principle_of_Least_Privilege.txt",
+    "cap_331_Shared_Responsibility_in_the_Cloud.txt",
+    "cap_332_Always_Back_Up_Your_Data.txt",
+    "cap_333_An_Example_Security_Policy.txt",
+    "cap_334_Technology.txt",
+    "cap_335_Patch_and_Update_Systems.txt",
+    "cap_336_Encryption.txt",
+    "cap_337_Logging_Monitoring_and_Alerting.txt",
+    "cap_338_Network_Access.txt",
+    "cap_339_Security_for_Low-Level_Data_Engineering.txt",
+    "cap_340_Conclusion.txt",
+    "cap_341_Additional_Resources.txt",
+    "cap_342_Chapter_11_The_Future_of_Data_Engineering.txt",
+    "cap_343_The_Data_Engineering_Lifecycle_Isnt_Going_Away.txt",
+    "cap_344_The_Decline_of_Complexity_and_the_Rise_of_Easy-to-.txt",
+    "cap_345_The_Cloud-Scale_Data_OS_and_Improved_Interoperabil.txt",
+    "cap_346_Enterprisey_Data_Engineering.txt",
+    "cap_347_Titles_and_Responsibilities_Will_Morph.txt",
+    "cap_348_Moving_Beyond_the_Modern_Data_Stack_Toward_the_Liv.txt",
+    "cap_349_The_Live_Data_Stack.txt",
+    "cap_350_Streaming_Pipelines_and_Real-Time_Analytical_Datab.txt",
+    "cap_351_The_Fusion_of_Data_with_Applications.txt",
+    "cap_352_The_Tight_Feedback_Between_Applications_and_ML.txt",
+    "cap_353_Dark_Matter_Data_and_the_Rise_ofSpreadsheets.txt",
+    "cap_354_Conclusion.txt",
+    "cap_355_Appendix_A_Serialization_and_Compression_Technical.txt",
+    "cap_356_Serialization_Formats.txt",
+    "cap_357_Row-Based_Serialization.txt",
+    "cap_358_Columnar_Serialization.txt",
+    "cap_359_Hybrid_Serialization.txt",
+    "cap_360_Database_Storage_Engines.txt",
+    "cap_361_Compression_gzip_bzip2_Snappy_Etc.txt",
+    "cap_362_Appendix_B_Cloud_Networking.txt",
+    "cap_363_Cloud_Network_Topology.txt",
+    "cap_364_Data_Egress_Charges.txt",
+    "cap_365_Availability_Zones.txt",
+    "cap_366_Regions.txt",
+    "cap_367_GCP-Specific_Networking_and_Multiregional_Redundan.txt",
+    "cap_368_Direct_Network_Connections_to_the_Clouds.txt",
+    "cap_369_CDNs.txt",
+    "cap_370_The_Future_of_Data_Egress_Fees.txt",
+    "cap_371_Index.txt",
+    "cap_372_About_the_Authors.txt",
+    "cap_373_Colophon.txt"
+  ]
+}

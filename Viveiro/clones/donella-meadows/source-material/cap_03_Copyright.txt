@@ -1,0 +1,45 @@
+# Copyright
+
+Paginas: 4-5
+
+
+Copyright © 2008 by Sustainability Institute. All rights reserved.
+No part of this book may be transmitted or reproduced in any form by any means without permission in
+writing from the publisher.
+Project Manager: Emily Foote Developmental Editor: Joni Praded Copy Editor: Cannon Labrie
+Proofreader: Ellen Brownstein Indexer: Beth Nauman-Montana Designer: Peter Holm, Sterling Hill
+Productions Printed in Canada
+First printing, December, 2008
+18 17 16 18 19 20 21
+Our Commitment to Green Publishing Chelsea Green sees publishing as a tool for cultural change
+and ecological stewardship. We strive to align our book manufacturing practices with our editorial
+mission and to reduce the impact of our business enterprise in the environment. We print our books
+and catalogs on chlorine-free recycled paper, using vegetable-based inks whenever possible. This
+book may cost slightly more because we use recycled paper, and we hope you’ll agree that it’s worth
+it. Thinking in Systems was printed on paper supplied by Marquis that contains 100% postconsumer
+recycled fiber.
+Library of Congress Cataloging-in-Publication Data Meadows, Donella H.
+Thinking in systems : a primer / Donella H. Meadows ; edited by Diana Wright.
+p. cm.
+Includes bibliographical references.
+ISBN 978-1-60358-055-7
+1. System analysis—Simulation methods 2. Decision making—Simulation methods 3. Critical thinking
+—Simulation methods 4. Sustainable development—Simulation methods. 5. Social sciences—Simulation
+methods. 6. Economic development—Environmental aspects—Simulation methods. 7. Population—
+Economic aspects—Simulation methods. 8. Pollution—Economic aspects—Simulation methods. 9.
+Environmental education—Simulation methods. I. Wright, Diana. II. Title.
+QA402.M425 2008
+003—dc22
+2008035211
+Chelsea Green Publishing
+85 North Main Street, Suite 120
+White River Junction, VT 05001
+(802) 295-6300
+www.chelseagreen.com
+Part of this work has been adapted from an article originally published under the title “Whole Earth Models
+and Systems” in Coevolution Quarterly (Summer 1982). An early version of Chapter 6 appeared as “Places
+to Intervene in a System” in Whole Earth Review (Winter 1997) and later as an expanded paper published
+
+by the Sustainability Institute. Chapter 7, “Living in a World of Systems,” was originally published as
+“Dancing with Systems” in Whole Earth Review (Winter 2001).
+

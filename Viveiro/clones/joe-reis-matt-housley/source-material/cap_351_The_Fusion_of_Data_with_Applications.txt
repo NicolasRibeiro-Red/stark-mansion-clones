@@ -1,0 +1,47 @@
+# The Fusion of Data with Applications
+
+Paginas: 412-412
+
+bottleneck at the head of your data pipeline? We’ll eventually look at batch ingestion
+the same way we now look at dial-up modems.
+In conjunction with the rise of streams, we expect a back-to-the-future moment for
+data transformations. We’ll shift away from ELT—in database transformations—to
+something that looks more like ETL. We provisionally refer to this as stream, trans‐
+form, and load (STL). In a streaming context, extraction is an ongoing, continuous
+process. Of course, batch transformations won’t entirely go away. Batch will still
+be very useful for model training, quarterly reporting, and more. But streaming
+transformation will become the norm.
+While the data warehouse and data lake are great for housing large amounts of data
+and performing ad hoc queries, they are not so well optimized for low-latency data
+ingestion or queries on rapidly moving data. The live data stack will be powered by
+OLAP databases that are purpose-built for streaming. Today, databases like Druid,
+ClickHouse, Rockset, and Firebolt are leading the way in powering the backend of
+the next generation of data applications. We expect that streaming technologies will
+continue to evolve rapidly and that new technologies will proliferate.
+Another area we think is ripe for disruption is data modeling, where there hasn’t
+been serious innovation since the early 2000s. The traditional batch-oriented data
+modeling techniques you learned about in Chapter 8 aren’t suited for streaming data.
+New data-modeling techniques will occur not within the data warehouse but in the
+systems that generate the data. We expect data modeling will involve some notion
+of an upstream definitions layer—including semantics, metrics, lineage, and data
+definitions (see Chapter 9)—beginning where data is generated in the application.
+Modeling will also happen at every stage as data flows and evolves through the full
+lifecycle.
+The Fusion of Data with Applications
+We expect the next revolution will be the fusion of the application and data layers.
+Right now, applications sit in one area, and the MDS sits in another. To make
+matters worse, data is created with no regard for how it will be used for analytics.
+Consequently, lots of duct tape is needed to make systems talk with one another. This
+patchwork, siloed setup is awkward and ungainly.
+Soon, application stacks will be data stacks, and vice versa. Applications will integrate
+real-time automation and decision making, powered by the streaming pipelines and
+ML. The data engineering lifecycle won’t necessarily change, but the time between
+stages of the lifecycle will drastically shorten. A lot of innovation will occur in new
+technologies and practices that will improve the experience of engineering the live
+data stack. Pay attention to emerging database technologies designed to address the
+mix of OLTP and OLAP use cases; feature stores may also play a similar role for ML
+use cases.
+Moving Beyond the Modern Data Stack, Toward the Live Data Stack
+|
+387
+

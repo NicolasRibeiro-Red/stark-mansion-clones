@@ -1,0 +1,75 @@
+# Reverse ETL
+
+Paginas: 383-384
+
+What happens when the dataset size exceeds the local machine’s available memory?
+This inevitably happens given the limited memory of laptops and workstations: it
+stops a data science project dead in its tracks. It’s time to consider more scalable
+options. First, move to a cloud-based notebook where the underlying storage and
+memory for the notebook can be flexibly scaled. Upon outgrowing this option, look
+at distributed execution systems; popular Python-based options include Dask, Ray,
+and Spark. If a full-fledged cloud-managed offering seems appealing, consider setting
+up a data science workflow using Amazon SageMaker, Google Cloud Vertex AI, or
+Microsoft Azure Machine Learning. Finally, open source end-to-end ML workflow
+options such as Kubeflow and MLflow make it easy to scale ML workloads in Kuber‐
+netes and Spark, respectively. The point is to get data scientists off their laptops and
+take advantage of the cloud’s power and scalability.
+Data engineers and ML engineers play a key role in facilitating the move to scalable
+cloud infrastructure. The exact division of labor depends a great deal on the details of
+your organization. They should take the lead in setting up cloud infrastructure, over‐
+seeing the management of environments, and training data scientists on cloud-based
+tools.
+Cloud environments require significant operational work, such as managing versions
+and updates, controlling access, and maintaining SLAs. As with other operational
+work, a significant payoff can result when “data science ops” are done well.
+Notebooks may even become a part of production data science; notebooks are widely
+deployed at Netflix. This is an interesting approach with advantages and trade-offs.
+Productionized notebooks allow data scientists to get their work into production
+much faster, but they are also inherently a substandard form of production. The
+alternative is to have ML and data engineers convert notebooks for production use,
+placing a significant burden on these teams. A hybrid of these approaches may be
+ideal, with notebooks used for “light” production and a full productionization process
+for high-value projects.
+Reverse ETL
+Today, reverse ETL is a buzzword that describes serving data by loading it from an
+OLAP database back into a source system. That said, any data engineer who’s worked
+in the field for more than a few years has probably done some variation of reverse
+ETL. Reverse ETL grew in popularity in the late 2010s/early 2020s and is increasingly
+recognized as a formal data engineering responsibility.
+A data engineer might pull customers and order data from a CRM and store it in
+a data warehouse. This data is used to train a lead scoring model, whose results are
+returned to the data warehouse. Your company’s sales team wants access to these
+scored leads to try to generate more sales. You have a few options to get the results of
+358
+|
+Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
+
+this lead scoring model into the hands of the sales team. You can put the results in a
+dashboard for them to view. Or you might email the results to them as an Excel file.
+The challenge with these approaches is that they are not connected to the CRM,
+where a salesperson does their work. Why not just put the scored leads back into the
+CRM? As we mentioned, successful data products reduce friction with the end user.
+In this case, the end user is the sales team.
+Using reverse ETL and loading the scored leads back into the CRM is the easiest
+and best approach for this data product. Reverse ETL takes processed data from the
+output side of the data engineering lifecycle and feeds it back into source systems
+(Figure 9-5).
+Instead of reverse ETL, we, the authors, half-jokingly call it bidir‐
+ectional load and transform (BLT). The term reverse ETL doesn’t
+quite accurately describe what’s happening in this process. Regard‐
+less, the term has stuck in the popular imagination and press, so
+we’ll use it throughout the book. More broadly, whether the term
+reverse ETL sticks around is anyone’s guess, but the practice of
+loading data from OLAP systems back into source systems will
+remain important.
+How do you begin serving data with reverse ETL? While you can roll your reverse
+ETL solution, many off-the-shelf reverse ETL options are available. We suggest using
+open source, or a commercial managed service. That said, the reverse ETL space is
+changing extremely quickly. No clear winners have emerged, and many reverse ETL
+products will be absorbed by major clouds or other data product vendors. Choose
+carefully.
+Figure 9-5. Reverse ETL
+Reverse ETL
+|
+359
+

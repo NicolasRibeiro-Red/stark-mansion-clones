@@ -1,0 +1,359 @@
+{
+  "titulo": "As 48 Leis do Poder",
+  "autor": "Robert Greene, Joost Elffers",
+  "total_paginas": 220,
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "dLivros",
+      "paginas": "2-3",
+      "arquivo": "cap_01_dLivros.txt"
+    },
+    {
+      "numero": 2,
+      "titulo": "PREFÁCIO",
+      "paginas": "4-18",
+      "arquivo": "cap_02_PREFÁCIO.txt"
+    },
+    {
+      "numero": 3,
+      "titulo": "LEI 1",
+      "paginas": "19-21",
+      "arquivo": "cap_03_LEI_1.txt"
+    },
+    {
+      "numero": 4,
+      "titulo": "LEI 2",
+      "paginas": "22-26",
+      "arquivo": "cap_04_LEI_2.txt"
+    },
+    {
+      "numero": 5,
+      "titulo": "LEI 3",
+      "paginas": "27-36",
+      "arquivo": "cap_05_LEI_3.txt"
+    },
+    {
+      "numero": 6,
+      "titulo": "LEI 4",
+      "paginas": "37-40",
+      "arquivo": "cap_06_LEI_4.txt"
+    },
+    {
+      "numero": 7,
+      "titulo": "LEI 5",
+      "paginas": "41-45",
+      "arquivo": "cap_07_LEI_5.txt"
+    },
+    {
+      "numero": 8,
+      "titulo": "LEI 6",
+      "paginas": "46-52",
+      "arquivo": "cap_08_LEI_6.txt"
+    },
+    {
+      "numero": 9,
+      "titulo": "LEI 7",
+      "paginas": "53-58",
+      "arquivo": "cap_09_LEI_7.txt"
+    },
+    {
+      "numero": 10,
+      "titulo": "LEI 8",
+      "paginas": "59-63",
+      "arquivo": "cap_10_LEI_8.txt"
+    },
+    {
+      "numero": 11,
+      "titulo": "LEI 9",
+      "paginas": "64-70",
+      "arquivo": "cap_11_LEI_9.txt"
+    },
+    {
+      "numero": 12,
+      "titulo": "LEI 10",
+      "paginas": "71-74",
+      "arquivo": "cap_12_LEI_10.txt"
+    },
+    {
+      "numero": 13,
+      "titulo": "LEI 11",
+      "paginas": "75-79",
+      "arquivo": "cap_13_LEI_11.txt"
+    },
+    {
+      "numero": 14,
+      "titulo": "LEI 12",
+      "paginas": "80-82",
+      "arquivo": "cap_14_LEI_12.txt"
+    },
+    {
+      "numero": 15,
+      "titulo": "LEI 13",
+      "paginas": "83-85",
+      "arquivo": "cap_15_LEI_13.txt"
+    },
+    {
+      "numero": 16,
+      "titulo": "LEI 14",
+      "paginas": "86-90",
+      "arquivo": "cap_16_LEI_14.txt"
+    },
+    {
+      "numero": 17,
+      "titulo": "LEI 15",
+      "paginas": "91-94",
+      "arquivo": "cap_17_LEI_15.txt"
+    },
+    {
+      "numero": 18,
+      "titulo": "LEI 16",
+      "paginas": "95-98",
+      "arquivo": "cap_18_LEI_16.txt"
+    },
+    {
+      "numero": 19,
+      "titulo": "LEI 17",
+      "paginas": "99-104",
+      "arquivo": "cap_19_LEI_17.txt"
+    },
+    {
+      "numero": 20,
+      "titulo": "LEI 18",
+      "paginas": "105-110",
+      "arquivo": "cap_20_LEI_18.txt"
+    },
+    {
+      "numero": 21,
+      "titulo": "LEI 19",
+      "paginas": "111-115",
+      "arquivo": "cap_21_LEI_19.txt"
+    },
+    {
+      "numero": 22,
+      "titulo": "LEI 20",
+      "paginas": "116-125",
+      "arquivo": "cap_22_LEI_20.txt"
+    },
+    {
+      "numero": 23,
+      "titulo": "LEI 21",
+      "paginas": "126-131",
+      "arquivo": "cap_23_LEI_21.txt"
+    },
+    {
+      "numero": 24,
+      "titulo": "LEI 22",
+      "paginas": "132-137",
+      "arquivo": "cap_24_LEI_22.txt"
+    },
+    {
+      "numero": 25,
+      "titulo": "LEI 23",
+      "paginas": "138-142",
+      "arquivo": "cap_25_LEI_23.txt"
+    },
+    {
+      "numero": 26,
+      "titulo": "LEI 24",
+      "paginas": "143-143",
+      "arquivo": "cap_26_LEI_24.txt"
+    },
+    {
+      "numero": 27,
+      "titulo": "LEI 25",
+      "paginas": "144-149",
+      "arquivo": "cap_27_LEI_25.txt"
+    },
+    {
+      "numero": 28,
+      "titulo": "LEI 26",
+      "paginas": "150-162",
+      "arquivo": "cap_28_LEI_26.txt"
+    },
+    {
+      "numero": 29,
+      "titulo": "LEI 27",
+      "paginas": "163-171",
+      "arquivo": "cap_29_LEI_27.txt"
+    },
+    {
+      "numero": 30,
+      "titulo": "LEI 28",
+      "paginas": "172-177",
+      "arquivo": "cap_30_LEI_28.txt"
+    },
+    {
+      "numero": 31,
+      "titulo": "LEI 29",
+      "paginas": "178-182",
+      "arquivo": "cap_31_LEI_29.txt"
+    },
+    {
+      "numero": 32,
+      "titulo": "LEI 30",
+      "paginas": "183-188",
+      "arquivo": "cap_32_LEI_30.txt"
+    },
+    {
+      "numero": 33,
+      "titulo": "LEI 31",
+      "paginas": "189-195",
+      "arquivo": "cap_33_LEI_31.txt"
+    },
+    {
+      "numero": 34,
+      "titulo": "LEI 32",
+      "paginas": "196-204",
+      "arquivo": "cap_34_LEI_32.txt"
+    },
+    {
+      "numero": 35,
+      "titulo": "LEI 33",
+      "paginas": "205-205",
+      "arquivo": "cap_35_LEI_33.txt"
+    },
+    {
+      "numero": 36,
+      "titulo": "LEI 34",
+      "paginas": "206-206",
+      "arquivo": "cap_36_LEI_34.txt"
+    },
+    {
+      "numero": 37,
+      "titulo": "LEI 35",
+      "paginas": "207-207",
+      "arquivo": "cap_37_LEI_35.txt"
+    },
+    {
+      "numero": 38,
+      "titulo": "LEI 36",
+      "paginas": "208-208",
+      "arquivo": "cap_38_LEI_36.txt"
+    },
+    {
+      "numero": 39,
+      "titulo": "LEI 37",
+      "paginas": "209-209",
+      "arquivo": "cap_39_LEI_37.txt"
+    },
+    {
+      "numero": 40,
+      "titulo": "LEI 38",
+      "paginas": "210-210",
+      "arquivo": "cap_40_LEI_38.txt"
+    },
+    {
+      "numero": 41,
+      "titulo": "LEI 39",
+      "paginas": "211-211",
+      "arquivo": "cap_41_LEI_39.txt"
+    },
+    {
+      "numero": 42,
+      "titulo": "LEI 40",
+      "paginas": "212-212",
+      "arquivo": "cap_42_LEI_40.txt"
+    },
+    {
+      "numero": 43,
+      "titulo": "LEI 41",
+      "paginas": "213-213",
+      "arquivo": "cap_43_LEI_41.txt"
+    },
+    {
+      "numero": 44,
+      "titulo": "LEI 42",
+      "paginas": "214-214",
+      "arquivo": "cap_44_LEI_42.txt"
+    },
+    {
+      "numero": 45,
+      "titulo": "LEI 43",
+      "paginas": "215-215",
+      "arquivo": "cap_45_LEI_43.txt"
+    },
+    {
+      "numero": 46,
+      "titulo": "LEI 44",
+      "paginas": "216-216",
+      "arquivo": "cap_46_LEI_44.txt"
+    },
+    {
+      "numero": 47,
+      "titulo": "LEI 45",
+      "paginas": "217-217",
+      "arquivo": "cap_47_LEI_45.txt"
+    },
+    {
+      "numero": 48,
+      "titulo": "LEI 46",
+      "paginas": "218-218",
+      "arquivo": "cap_48_LEI_46.txt"
+    },
+    {
+      "numero": 49,
+      "titulo": "LEI 47",
+      "paginas": "219-219",
+      "arquivo": "cap_49_LEI_47.txt"
+    },
+    {
+      "numero": 50,
+      "titulo": "LEI 48",
+      "paginas": "220-220",
+      "arquivo": "cap_50_LEI_48.txt"
+    }
+  ],
+  "arquivos": [
+    "cap_01_dLivros.txt",
+    "cap_02_PREFÁCIO.txt",
+    "cap_03_LEI_1.txt",
+    "cap_04_LEI_2.txt",
+    "cap_05_LEI_3.txt",
+    "cap_06_LEI_4.txt",
+    "cap_07_LEI_5.txt",
+    "cap_08_LEI_6.txt",
+    "cap_09_LEI_7.txt",
+    "cap_10_LEI_8.txt",
+    "cap_11_LEI_9.txt",
+    "cap_12_LEI_10.txt",
+    "cap_13_LEI_11.txt",
+    "cap_14_LEI_12.txt",
+    "cap_15_LEI_13.txt",
+    "cap_16_LEI_14.txt",
+    "cap_17_LEI_15.txt",
+    "cap_18_LEI_16.txt",
+    "cap_19_LEI_17.txt",
+    "cap_20_LEI_18.txt",
+    "cap_21_LEI_19.txt",
+    "cap_22_LEI_20.txt",
+    "cap_23_LEI_21.txt",
+    "cap_24_LEI_22.txt",
+    "cap_25_LEI_23.txt",
+    "cap_26_LEI_24.txt",
+    "cap_27_LEI_25.txt",
+    "cap_28_LEI_26.txt",
+    "cap_29_LEI_27.txt",
+    "cap_30_LEI_28.txt",
+    "cap_31_LEI_29.txt",
+    "cap_32_LEI_30.txt",
+    "cap_33_LEI_31.txt",
+    "cap_34_LEI_32.txt",
+    "cap_35_LEI_33.txt",
+    "cap_36_LEI_34.txt",
+    "cap_37_LEI_35.txt",
+    "cap_38_LEI_36.txt",
+    "cap_39_LEI_37.txt",
+    "cap_40_LEI_38.txt",
+    "cap_41_LEI_39.txt",
+    "cap_42_LEI_40.txt",
+    "cap_43_LEI_41.txt",
+    "cap_44_LEI_42.txt",
+    "cap_45_LEI_43.txt",
+    "cap_46_LEI_44.txt",
+    "cap_47_LEI_45.txt",
+    "cap_48_LEI_46.txt",
+    "cap_49_LEI_47.txt",
+    "cap_50_LEI_48.txt"
+  ]
+}

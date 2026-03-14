@@ -1,0 +1,46 @@
+# Data Engineering Defined
+
+Paginas: 29-29
+
+1 “Data Engineering and Its Main Concepts,” AlexSoft, last updated August 26, 2021, https://oreil.ly/e94py.
+2 ETL stands for extract, transform, load, a common pattern we cover in the book.
+3 Jesse Anderson, “The Two Types of Data Engineering,” June 27, 2018, https://oreil.ly/dxDt6.
+4 Maxime Beauchemin, “The Rise of the Data Engineer,” January 20, 2017, https://oreil.ly/kNDmd.
+5 Lewis Gavin, What Is Data Engineering? (Sebastapol, CA: O’Reilly, 2020), https://oreil.ly/ELxLi.
+—From “Data Engineering and Its Main Concepts” by AlexSoft1
+The first type of data engineering is SQL-focused. The work and primary storage of
+the data is in relational databases. All of the data processing is done with SQL or a
+SQL-based language. Sometimes, this data processing is done with an ETL tool.2 The
+second type of data engineering is Big Data–focused. The work and primary storage of
+the data is in Big Data technologies like Hadoop, Cassandra, and HBase. All of the data
+processing is done in Big Data frameworks like MapReduce, Spark, and Flink. While
+SQL is used, the primary processing is done with programming languages like Java,
+Scala, and Python.
+—Jesse Anderson3
+In relation to previously existing roles, the data engineering field could be thought of
+as a superset of business intelligence and data warehousing that brings more elements
+from software engineering. This discipline also integrates specialization around the
+operation of so-called “big data” distributed systems, along with concepts around the
+extended Hadoop ecosystem, stream processing, and in computation at scale.
+—Maxime Beauchemin4
+Data engineering is all about the movement, manipulation, and management of data.
+—Lewis Gavin5
+Wow! It’s entirely understandable if you’ve been confused about data engineering.
+That’s only a handful of definitions, and they contain an enormous range of opinions
+about the meaning of data engineering.
+Data Engineering Defined
+When we unpack the common threads of how various people define data engineer‐
+ing, an obvious pattern emerges: a data engineer gets data, stores it, and prepares it
+for consumption by data scientists, analysts, and others. We define data engineering
+and data engineer as follows:
+Data engineering is the development, implementation, and maintenance of systems
+and processes that take in raw data and produce high-quality, consistent information
+that supports downstream use cases, such as analysis and machine learning. Data engi‐
+neering is the intersection of security, data management, DataOps, data architecture,
+orchestration, and software engineering. A data engineer manages the data engineering
+lifecycle, beginning with getting data from source systems and ending with serving
+data for use cases, such as analysis or machine learning.
+4
+|
+Chapter 1: Data Engineering Described
+

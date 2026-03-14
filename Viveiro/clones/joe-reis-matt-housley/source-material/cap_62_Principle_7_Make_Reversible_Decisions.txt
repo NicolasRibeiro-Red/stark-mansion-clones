@@ -1,0 +1,46 @@
+# Principle 7: Make Reversible Decisions
+
+Paginas: 108-108
+
+12 Fowler, “Who Needs an Architect?”
+1. Many small teams engineer a large, complex system. Each team is tasked with
+1.
+engineering, maintaining, and improving some system components.
+2. These teams publish the abstract details of their components to other teams
+2.
+via API definitions, message schemas, etc. Teams need not concern themselves
+with other teams’ components; they simply use the published API or message
+specifications to call these components. They iterate their part to improve their
+performance and capabilities over time. They might also publish new capabilities
+as they are added or request new stuff from other teams. Again, the latter hap‐
+pens without teams needing to worry about the internal technical details of the
+requested features. Teams work together through loosely coupled communication.
+3. As a consequence of characteristic 2, each team can rapidly evolve and improve
+3.
+its component independently of the work of other teams.
+4. Specifically, characteristic 3 implies that teams can release updates to their com‐
+4.
+ponents with minimal downtime. Teams release continuously during regular
+working hours to make code changes and test them.
+Loose coupling of both technology and human systems will allow your data engineer‐
+ing teams to more efficiently collaborate with one another and with other parts of the
+company. This principle also directly facilitates principle 7.
+Principle 7: Make Reversible Decisions
+The data landscape is changing rapidly. Today’s hot technology or stack is tomorrow’s
+afterthought. Popular opinion shifts quickly. You should aim for reversible decisions,
+as these tend to simplify your architecture and keep it agile.
+As Fowler wrote, “One of an architect’s most important tasks is to remove architec‐
+ture by finding ways to eliminate irreversibility in software designs.”12 What was true
+when Fowler wrote this in 2003 is just as accurate today.
+As we said previously, Bezos refers to reversible decisions as “two-way doors.” As he
+says, “If you walk through and don’t like what you see on the other side, you can’t
+get back to before. We can call these Type 1 decisions. But most decisions aren’t
+like that—they are changeable, reversible—they’re two-way doors.” Aim for two-way
+doors whenever possible.
+Given the pace of change—and the decoupling/modularization of technologies across
+your data architecture—always strive to pick the best-of-breed solutions that work for
+today. Also, be prepared to upgrade or adopt better practices as the landscape evolves.
+Principles of Good Data Architecture
+|
+83
+

@@ -1,0 +1,28 @@
+# What Is Data Architecture?
+
+Paginas: 96-96
+
+CHAPTER 3
+Designing Good Data Architecture
+Good data architecture provides seamless capabilities across every step of the data
+lifecycle and undercurrent. We’ll begin by defining data architecture and then dis‐
+cuss components and considerations. We’ll then touch on specific batch patterns
+(data warehouses, data lakes), streaming patterns, and patterns that unify batch and
+streaming. Throughout, we’ll emphasize leveraging the capabilities of the cloud to
+deliver scalability, availability, and reliability.
+What Is Data Architecture?
+Successful data engineering is built upon rock-solid data architecture. This chapter
+aims to review a few popular architecture approaches and frameworks, and then
+craft our opinionated definition of what makes “good” data architecture. Indeed,
+we won’t make everyone happy. Still, we will lay out a pragmatic, domain-specific,
+working definition for data architecture that we think will work for companies of
+vastly different scales, business processes, and needs.
+What is data architecture? When you stop to unpack it, the topic becomes a bit
+murky; researching data architecture yields many inconsistent and often outdated
+definitions. It’s a lot like when we defined data engineering in Chapter 1—there’s no
+consensus. In a field that is constantly changing, this is to be expected. So what do
+we mean by data architecture for the purposes of this book? Before defining the term,
+it’s essential to understand the context in which it sits. Let’s briefly cover enterprise
+architecture, which will frame our definition of data architecture.
+71
+

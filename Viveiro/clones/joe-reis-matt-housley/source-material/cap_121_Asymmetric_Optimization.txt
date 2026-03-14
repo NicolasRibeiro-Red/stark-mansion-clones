@@ -1,0 +1,43 @@
+# Asymmetric Optimization
+
+Paginas: 173-173
+
+13 Justin Olsson and Reynold Xin, “Eliminating the Anti-competitive DeWitt Clause for Database Benchmark‐
+ing,” Databricks, November 8, 2021, https://oreil.ly/3iFOE.
+14 For a classic of the genre, see William McKnight and Jake Dolezal, “Data Warehouse in the Cloud Bench‐
+mark,” GigaOm, February 7, 2019, https://oreil.ly/QjCmA.
+We see such apples-to-oranges comparisons made all the time in the database space.
+Benchmarks either compare databases that are optimized for completely different use
+cases, or use test scenarios that bear no resemblance to real-world needs.
+Recently, we saw a new round of benchmark wars flare up among major vendors in
+the data space. We applaud benchmarks and are glad to see many database vendors
+finally dropping DeWitt clauses from their customer contracts.13 Even so, let the
+buyer beware: the data space is full of nonsensical benchmarks.14 Here are a few
+common tricks used to place a thumb on the benchmark scale.
+Big Data...for the 1990s
+Products that claim to support “big data” at petabyte scale will often use benchmark
+datasets small enough to easily fit in the storage on your smartphone. For systems
+that rely on caching layers to deliver performance, test datasets fully reside in solid-
+state drive (SSD) or memory, and benchmarks can show ultra-high performance by
+repeatedly querying the same data. A small test dataset also minimizes RAM and SSD
+costs when comparing pricing.
+To benchmark for real-world use cases, you must simulate anticipated real-world data
+and query size. Evaluate query performance and resource costs based on a detailed
+evaluation of your needs.
+Nonsensical Cost Comparisons
+Nonsensical cost comparisons are a standard trick when analyzing a price/perfor‐
+mance or TCO. For instance, many MPP systems can’t be readily created and deleted
+even when they reside in a cloud environment; these systems run for years on end
+once they’ve been configured. Other databases support a dynamic compute model
+and charge either per query or per second of use. Comparing ephemeral and non-
+ephemeral systems on a cost-per-second basis is nonsensical, but we see this all the
+time in benchmarks.
+Asymmetric Optimization
+The deceit of asymmetric optimization appears in many guises, but here’s one exam‐
+ple. Often a vendor will compare a row-based MPP system against a columnar data‐
+base by using a benchmark that runs complex join queries on highly normalized data.
+The normalized data model is optimal for the row-based system, but the columnar
+148
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+

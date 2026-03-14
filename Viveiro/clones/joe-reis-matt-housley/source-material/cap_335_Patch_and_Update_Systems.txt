@@ -1,0 +1,45 @@
+# Patch and Update Systems
+
+Paginas: 399-399
+
+• Treat your device as an extension of yourself. Don’t let your assigned device(s)
+•
+out of your sight.
+• When screen sharing, be aware of exactly what you’re sharing to protect sensitive
+•
+information and communications. Share only single documents, browser tabs,
+or windows, and avoid sharing your full desktop. Share only what’s required to
+convey your point.
+• Use “do not disturb” mode when on video calls; this prevents messages from
+•
+appearing during calls or recordings.
+Software Update Policy
+• Restart your web browser when you see an update alert.
+•
+• Run minor OS updates on company and personal devices.
+•
+• The company will identify critical major OS updates and provide guidance.
+•
+• Don’t use the beta version of an OS.
+•
+• Wait a week or two for new major OS version releases.
+•
+These are some basic examples of how security can be simple and effective. Based on
+your company’s security profile, you may need to add more requirements for people
+to follow. And again, always remember that people are your weakest link in security.
+Technology
+After you’ve addressed security with people and processes, it’s time to look at how
+you leverage technology to secure your systems and data assets. The following are
+some significant areas you should prioritize.
+Patch and Update Systems
+Software gets stale, and security vulnerabilities are constantly discovered. To avoid
+exposing a security flaw in an older version of the tools you’re using, always patch and
+update operating systems and software as new updates become available. Thankfully,
+many SaaS and cloud-managed services automatically perform upgrades and other
+maintenance without your intervention. To update your own code and dependencies,
+either automate builds or set alerts on releases and vulnerabilities so you can be
+prompted to perform the updates manually.
+374
+|
+Chapter 10: Security and Privacy
+

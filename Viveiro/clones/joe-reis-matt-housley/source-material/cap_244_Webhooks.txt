@@ -1,0 +1,44 @@
+# Webhooks
+
+Paginas: 284-284
+
+In addition, cloud vendors generally provide robust CLI-based tools. It is possible
+to run complex ingestion processes simply by issuing commands to the AWS CLI.
+As ingestion processes grow more complicated and the SLA grows more stringent,
+engineers should consider moving to a proper orchestration system.
+SSH
+SSH is not an ingestion strategy but a protocol used with other ingestion strategies.
+We use SSH in a few ways. First, SSH can be used for file transfer with SCP, as
+mentioned earlier. Second, SSH tunnels are used to allow secure, isolated connections
+to databases.
+Application databases should never be directly exposed on the internet. Instead, engi‐
+neers can set up a bastion host—i.e., an intermediate host instance that can connect
+to the database in question. This host machine is exposed on the internet, although
+locked down for minimal access from only specified IP addresses to specified ports.
+To connect to the database, a remote machine first opens an SSH tunnel connection
+to the bastion host and then connects from the host machine to the database.
+SFTP and SCP
+Accessing and sending data both from secure FTP (SFTP) and secure copy (SCP) are
+techniques you should be familiar with, even if data engineers do not typically use
+these regularly (IT or security/secOps will handle this).
+Engineers rightfully cringe at the mention of SFTP (occasionally, we even hear instan‐
+ces of FTP being used in production). Regardless, SFTP is still a practical reality for
+many businesses. They work with partner businesses that consume or provide data
+using SFTP and are unwilling to rely on other standards. To avoid data leaks, security
+analysis is critical in these situations.
+SCP is a file-exchange protocol that runs over an SSH connection. SCP can be
+a secure file-transfer option if it is configured correctly. Again, adding additional
+network access control (defense in depth) to enhance SCP security is highly
+recommended.
+Webhooks
+Webhooks, as we discussed in Chapter 5, are often referred to as reverse APIs. For a
+typical REST data API, the data provider gives engineers API specifications that they
+use to write their data ingestion code. The code makes requests and receives data in
+responses.
+With a webhook (Figure 7-15), the data provider defines an API request specifica‐
+tion, but the data provider makes API calls rather than receiving them; it’s the data
+consumer’s responsibility to provide an API endpoint for the provider to call. The
+Ways to Ingest Data
+|
+259
+

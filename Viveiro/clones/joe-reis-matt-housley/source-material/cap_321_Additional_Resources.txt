@@ -1,0 +1,76 @@
+# Additional Resources
+
+Paginas: 390-391
+
+the Data/MLOps infrastructure they’ve built so that these data teams can be as
+self-sufficient as possible.
+For embedded analytics, data engineers may need to work with application develop‐
+ers to ensure that queries are returned quickly and cost-effectively. The application
+developer will control the frontend code that users deal with. The data engineer is
+there to ensure that developers receive the correct payloads as they’re requested.
+Conclusion
+The data engineering lifecycle has a logical ending at the serving stage. As with all
+lifecycles, a feedback loop occurs (Figure 9-6). You should view the serving stage as
+a chance to learn what’s working and what can be improved. Listen to your stakehold‐
+ers. If they bring up issues—and they inevitably will—try not to take offense. Instead,
+use this as an opportunity to improve what you’ve built.
+Figure 9-6. Build, learn, improve
+A good data engineer is always open to new feedback and constantly finds ways to
+improve their craft. Now that we’ve taken a journey through the data engineering
+lifecycle, you know how to design, architect, build, maintain, and improve your data
+engineering systems and products. Let’s turn our attention to Part III of the book,
+where we’ll cover some aspects of data engineering we’re constantly asked about and
+that, frankly, deserve more attention.
+Additional Resources
+• “Data as a Product vs. Data Products: What Are the Differences?” by Xavier
+•
+Gumara Rigol
+• “Data Jujitsu: The Art of Turning Data into Product” by D. J. Patil
+•
+• Data Mesh by Zhamak Dehghani (O’Reilly)
+•
+• “Data Mesh Principles and Logical Architecture” by Zhamak Dehghani
+•
+• “Designing Data Products” by Seth O’Regan
+•
+• “The Evolution of Data Products” and “What Is Data Science” by Mike Loukides
+•
+Conclusion
+|
+365
+
+• Forrester’s “Self-Service Business Intelligence: Dissolving the Barriers to Creative
+•
+Decision-Support Solutions” blog article
+• “Fundamentals of Self-Service Machine Learning” by Paramita (Guha) Ghosh
+•
+• “The Future of BI Is Headless” by ZD
+•
+• “How to Build Great Data Products” by Emily Glassberg Sands
+•
+• “How to Structure a Data Analytics Team” by Niall Napier
+•
+• “Know Your Customers’ ‘Jobs to Be Done’” by Clayton M. Christensen et al.
+•
+• “The Missing Piece of the Modern Data Stack” and “Why Is Self-Serve Still a
+•
+Problem?” by Benn Stancil
+• “Self-Service Analytics” in the Gartner Glossary
+•
+• Ternary Data’s “What’s Next for Analytical Databases? w/ Jordan Tigani (Mother‐
+•
+Duck)” video
+• “Understanding the Superset Semantic Layer” by Srini Kadamati
+•
+• “What Do Modern Self-Service BI and Data Analytics Really Mean?” by Harry
+•
+Dix
+• “What Is Operational Analytics (and How Is It Changing How We Work with
+•
+Data)?” by Sylvain Giuliani
+• “What Is User-Facing Analytics?” by Chinmon Soman
+•
+366
+|
+Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
+

@@ -1,0 +1,46 @@
+# What’s the Use Case, and Who’s the User?
+
+Paginas: 364-364
+
+trust is gone, earning it back is insanely difficult. This inevitably leads to the business
+not performing to its fullest potential with data and data teams losing credibility (and
+possibly being dissolved).
+To realize data quality and build stakeholder trust, utilize data validation and data
+observability processes, in conjunction with visually inspecting and confirming valid‐
+ity with stakeholders. Data validation is analyzing data to ensure that it accurately
+represents financial information, customer interactions, and sales. Data observability
+provides an ongoing view of data and data processes. These processes must be applied
+throughout the data engineering lifecycle to realize a good result as we reach the end.
+We’ll discuss these further in “Undercurrents” on page 360.
+In addition to building trust in data quality, it is incumbent on engineers to build
+trust in their SLAs and SLOs with their end users and upstream stakeholders. Once
+users come to depend on data to accomplish business processes, they will require
+that data is consistently available and up-to-date per the commitments made by data
+engineers. High-quality data is of little value if it’s not available as expected when it’s
+time to make a critical business decision. Note, the SLAs and SLOs may also take the
+form of data contracts (see Chapter 5), formally or informally.
+We talked about SLAs in Chapter 5, but discussing them again here is worthwhile.
+SLAs come in a variety of forms. Regardless of its form, an SLA tells users what to
+expect from your data product; it is a contract between you and your stakeholders.
+An example of an SLA might be, “Data will be reliably available and of high quality.”
+An SLO is a key part of an SLA and describes the ways you’ll measure performance
+against what you’ve agreed to. For example, given the preceding example SLA, an
+SLO might be, “Our data pipelines to your dashboard or ML workflow will have 99%
+uptime, with 95% of data free of defects.” Be sure expectations are clear and you have
+the ability to verify you’re operating within your agreed SLA and SLO parameters.
+It’s not enough to simply agree on an SLA. Ongoing communication is a central
+feature of a good SLA. Have you communicated possible issues that might affect your
+SLA or SLO expectations? What’s your process for remediation and improvement?
+Trust is everything. It takes a long time to earn, and it’s easy to lose.
+What’s the Use Case, and Who’s the User?
+The serving stage is about data in action. But what is a productive use of data? You
+need to consider two things to answer this question: what’s the use case, and who’s the
+user?
+The use case for data goes well beyond viewing reports and dashboards. Data is at
+its best when it leads to action. Will an executive make a strategic decision from
+a report? Will a user of a mobile food delivery app receive a coupon that entices
+them to purchase in the next two minutes? The data is often used in more than one
+General Considerations for Serving Data
+|
+339
+

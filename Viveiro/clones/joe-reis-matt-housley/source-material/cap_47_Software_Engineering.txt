@@ -1,0 +1,84 @@
+# Software Engineering
+
+Paginas: 91-92
+
+We must point out that orchestration is strictly a batch concept. The streaming
+alternative to orchestrated task DAGs is the streaming DAG. Streaming DAGs remain
+challenging to build and maintain, but next-generation streaming platforms such as
+Pulsar aim to dramatically reduce the engineering and operational burden. We talk
+more about these developments in Chapter 8.
+Software Engineering
+Software engineering has always been a central skill for data engineers. In the early
+days of contemporary data engineering (2000–2010), data engineers worked on low-
+level frameworks and wrote MapReduce jobs in C, C++, and Java. At the peak of
+the big data era (the mid-2010s), engineers started using frameworks that abstracted
+away these low-level details.
+This abstraction continues today. Cloud data warehouses support powerful transfor‐
+mations using SQL semantics; tools like Spark have become more user-friendly,
+transitioning away from low-level coding details and toward easy-to-use dataframes.
+Despite this abstraction, software engineering is still critical to data engineering. We
+want to briefly discuss a few common areas of software engineering that apply to the
+data engineering lifecycle.
+Core data processing code
+Though it has become more abstract and easier to manage, core data processing code
+still needs to be written, and it appears throughout the data engineering lifecycle.
+Whether in ingestion, transformation, or data serving, data engineers need to be
+highly proficient and productive in frameworks and languages such as Spark, SQL, or
+Beam; we reject the notion that SQL is not code.
+It’s also imperative that a data engineer understand proper code-testing methodolo‐
+gies, such as unit, regression, integration, end-to-end, and smoke.
+Development of open source frameworks
+Many data engineers are heavily involved in developing open source frameworks.
+They adopt these frameworks to solve specific problems in the data engineering
+lifecycle, and then continue developing the framework code to improve the tools for
+their use cases and contribute back to the community.
+In the big data era, we saw a Cambrian explosion of data-processing frameworks
+inside the Hadoop ecosystem. These tools primarily focused on transforming and
+serving parts of the data engineering lifecycle. Data engineering tool speciation has
+not ceased or slowed down, but the emphasis has shifted up the ladder of abstraction,
+away from direct data processing. This new generation of open source tools assists
+engineers in managing, enhancing, connecting, optimizing, and monitoring data.
+66
+|
+Chapter 2: The Data Engineering Lifecycle
+
+For example, Airflow dominated the orchestration space from 2015 until the early
+2020s. Now, a new batch of open source competitors (including Prefect, Dagster, and
+Metaflow) has sprung up to fix perceived limitations of Airflow, providing better
+metadata handling, portability, and dependency management. Where the future of
+orchestration goes is anyone’s guess.
+Before data engineers begin engineering new internal tools, they would do well to
+survey the landscape of publicly available tools. Keep an eye on the total cost of
+ownership (TCO) and opportunity cost associated with implementing a tool. There
+is a good chance that an open source project already exists to address the problem
+they’re looking to solve, and they would do well to collaborate rather than reinventing
+the wheel.
+Streaming
+Streaming data processing is inherently more complicated than batch, and the tools
+and paradigms are arguably less mature. As streaming data becomes more pervasive
+in every stage of the data engineering lifecycle, data engineers face interesting soft‐
+ware engineering problems.
+For instance, data processing tasks such as joins that we take for granted in the
+batch processing world often become more complicated in real time, requiring more
+complex software engineering. Engineers must also write code to apply a variety
+of windowing methods. Windowing allows real-time systems to calculate valuable
+metrics such as trailing statistics. Engineers have many frameworks to choose from,
+including various function platforms (OpenFaaS, AWS Lambda, Google Cloud Func‐
+tions) for handling individual events or dedicated stream processors (Spark, Beam,
+Flink, or Pulsar) for analyzing streams to support reporting and real-time actions.
+Infrastructure as code
+Infrastructure as code (IaC) applies software engineering practices to the configura‐
+tion and management of infrastructure. The infrastructure management burden of
+the big data era has decreased as companies have migrated to managed big data
+systems—such as Databricks and Amazon Elastic MapReduce (EMR)—and cloud
+data warehouses. When data engineers have to manage their infrastructure in a cloud
+environment, they increasingly do this through IaC frameworks rather than manually
+spinning up instances and installing software. Several general-purpose and cloud-
+platform-specific frameworks allow automated infrastructure deployment based on a
+set of specifications. Many of these frameworks can manage cloud services as well as
+infrastructure. There is also a notion of IaC with containers and Kubernetes, using
+tools like Helm.
+Major Undercurrents Across the Data Engineering Lifecycle
+|
+67
+

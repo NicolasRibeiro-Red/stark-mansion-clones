@@ -1,0 +1,34 @@
+# Regions
+
+Paginas: 425-425
+
+Availability Zones
+The availability zone is the smallest unit of network topology that public clouds make
+visible to customers (Figure B-1). While a zone can potentially consist of multiple
+data centers, cloud customers cannot control resource placement at this level.
+Figure B-1. Availability zones in two separate regions
+Generally, clouds support their highest network bandwidth and lowest latency
+between systems and services within a zone. High throughput data workloads should
+run on clusters located in a single zone for performance and cost reasons. For exam‐
+ple, an ephemeral Amazon EMR cluster should generally sit in a single availability
+zone.
+In addition, network traffic sent to VMs within a zone is free, but with a significant
+caveat: traffic must be sent to private IP addresses. The major clouds utilize virtual
+networks known as virtual private clouds (VPCs). Virtual machines have private
+IP addresses within the VPC. They may also be assigned public IP addresses to
+communicate with the outside world and receive traffic from the internet, but com‐
+munications using external IP addresses can incur data egress charges.
+Regions
+A region is a collection of two or more availability zones. Data centers require many
+resources to run (electrical power, water, etc.). The resources of separate availability
+zones are independent so that a local power outage doesn’t take down multiple
+availability zones. Engineers can build highly resilient, separate infrastructure even
+within a single region by running servers in multiple zones or creating automated
+cross-zone failover processes.
+Offering multiple regions allows engineers to put resources close to any of their users.
+Close means that users can realize good network performance in connecting to serv‐
+ices, minimizing physical distance along the network path, and a minimal number of
+400
+|
+Appendix B: Cloud Networking
+

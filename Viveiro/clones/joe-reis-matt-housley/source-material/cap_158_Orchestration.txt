@@ -1,0 +1,45 @@
+# Orchestration
+
+Paginas: 211-211
+
+Here are some things to consider regarding source system architectures:
+Reliability
+All systems suffer from entropy at some point, and outputs will drift from what’s
+expected. Bugs are introduced, and random glitches happen. Does the system
+produce predictable outputs? How often can we expect the system to fail? What’s
+the mean time to repair to get the system back to sufficient reliability?
+Durability
+Everything fails. A server might die, a cloud’s zone or region could go offline,
+or other issues may arise. You need to account for how an inevitable failure
+or outage will affect your managed data systems. How does the source system
+handle data loss from hardware failures or network outages? What’s the plan
+for handling outages for an extended period and limiting the blast radius of an
+outage?
+Availability
+What guarantees that the source system is up, running, and available when it’s
+supposed to be?
+People
+Who’s in charge of the source system’s design, and how will you know if breaking
+changes are made in the architecture? A data engineer needs to work with the
+teams who maintain the source systems and ensure that these systems are archi‐
+tected reliably. Create an SLA with the source system team to set expectations
+about potential system failure.
+Orchestration
+When orchestrating within your data engineering workflow, you’ll primarily be con‐
+cerned with making sure your orchestration can access the source system, which
+requires the correct network access, authentication, and authorization.
+Here are some things to think about concerning orchestration for source systems:
+Cadence and frequency
+Is the data available on a fixed schedule, or can you access new data whenever
+you want?
+Common frameworks
+Do the software and data engineers use the same container manager, such as
+Kubernetes? Would it make sense to integrate application and data workloads
+into the same Kubernetes cluster? If you’re using an orchestration framework
+like Airflow, does it make sense to integrate it with the upstream application
+team? There’s no correct answer here, but you need to balance the benefits of
+integration with the risks of tight coupling.
+186
+|
+Chapter 5: Data Generation in Source Systems
+

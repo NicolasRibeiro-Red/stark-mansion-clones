@@ -1,0 +1,64 @@
+# Additional Resources
+
+Paginas: 57-57
+
+Additional Resources
+• “The AI Hierarchy of Needs” by Monica Rogati
+•
+• The AlphaGo research web page
+•
+• “Big Data Will Be Dead in Five Years” by Lewis Gavin
+•
+• Building Analytics Teams by John K. Thompson (Packt)
+•
+• Chapter 1 of What Is Data Engineering? by Lewis Gavin (O’Reilly)
+•
+• “Data as a Product vs. Data as a Service” by Justin Gage
+•
+• “Data Engineering: A Quick and Simple Definition” by James Furbush (O’Reilly)
+•
+• Data Teams by Jesse Anderson (Apress)
+•
+• “Doing Data Science at Twitter” by Robert Chang
+•
+• “The Downfall of the Data Engineer” by Maxime Beauchemin
+•
+• “The Future of Data Engineering Is the Convergence of Disciplines” by Liam
+•
+Hausmann
+• “How CEOs Can Lead a Data-Driven Culture” by Thomas H. Davenport and
+•
+Nitin Mittal
+• “How Creating a Data-Driven Culture Can Drive Success” by Frederik Bussler
+•
+• The Information Management Body of Knowledge website
+•
+• “Information Management Body of Knowledge” Wikipedia page
+•
+• “Information Management” Wikipedia page
+•
+• “On Complexity in Big Data” by Jesse Anderson (O’Reilly)
+•
+• “OpenAI’s New Language Generator GPT-3 Is Shockingly Good—and Com‐
+•
+pletely Mindless” by Will Douglas Heaven
+• “The Rise of the Data Engineer” by Maxime Beauchemin
+•
+• “A Short History of Big Data” by Mark van Rijmenam
+•
+• “Skills of the Data Architect” by Bob Lambert
+•
+• “The Three Levels of Data Analysis: A Framework for Assessing Data Organiza‐
+•
+tion Maturity” by Emilie Schario
+• “What Is a Data Architect? IT’s Data Framework Visionary” by Thor Olavsrud
+•
+• “Which Profession Is More Complex to Become, a Data Engineer or a Data
+•
+Scientist?” thread on Quora
+• “Why CEOs Must Lead Big Data Initiatives” by John Weathington
+•
+32
+|
+Chapter 1: Data Engineering Described
+

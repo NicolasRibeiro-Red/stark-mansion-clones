@@ -1,0 +1,152 @@
+# Data Engineers and Other Technical Roles
+
+Paginas: 49-52
+
+maintaining data pipelines and data warehouses for BI dashboards, reports, business
+processes, data science, and ML models.
+Figure 1-11. Internal-facing data engineer
+External-facing and internal-facing responsibilities are often blended. In practice,
+internal-facing data is usually a prerequisite to external-facing data. The data engi‐
+neer has two sets of users with very different requirements for query concurrency,
+security, and more.
+Data Engineers and Other Technical Roles
+In practice, the data engineering lifecycle cuts across many domains of responsibility.
+Data engineers sit at the nexus of various roles, directly or through managers, inter‐
+acting with many organizational units.
+Let’s look at whom a data engineer may impact. In this section, we’ll discuss technical
+roles connected to data engineering (Figure 1-12).
+Figure 1-12. Key technical stakeholders of data engineering
+The data engineer is a hub between data producers, such as software engineers, data
+architects, and DevOps or site-reliability engineers (SREs), and data consumers, such
+as data analysts, data scientists, and ML engineers. In addition, data engineers will
+interact with those in operational roles, such as DevOps engineers.
+Given the pace at which new data roles come into vogue (analytics and ML engineers
+come to mind), this is by no means an exhaustive list.
+24
+|
+Chapter 1: Data Engineering Described
+
+11 Paramita (Guha) Ghosh, “Data Architect vs. Data Engineer,” Dataversity, November 12, 2021,
+https://oreil.ly/TlyZY.
+Upstream stakeholders
+To be successful as a data engineer, you need to understand the data architecture
+you’re using or designing and the source systems producing the data you’ll need.
+Next, we discuss a few familiar upstream stakeholders: data architects, software
+engineers, and DevOps engineers.
+Data architects. Data architects function at a level of abstraction one step removed
+from data engineers. Data architects design the blueprint for organizational data
+management, mapping out processes and overall data architecture and systems.11
+They also serve as a bridge between an organization’s technical and nontechnical
+sides. Successful data architects generally have “battle scars” from extensive engi‐
+neering experience, allowing them to guide and assist engineers while successfully
+communicating engineering challenges to nontechnical business stakeholders.
+Data architects implement policies for managing data across silos and business units,
+steer global strategies such as data management and data governance, and guide
+significant initiatives. Data architects often play a central role in cloud migrations and
+greenfield cloud design.
+The advent of the cloud has shifted the boundary between data architecture and
+data engineering. Cloud data architectures are much more fluid than on-premises
+systems, so architecture decisions that traditionally involved extensive study, long
+lead times, purchase contracts, and hardware installation are now often made during
+the implementation process, just one step in a larger strategy. Nevertheless, data
+architects will remain influential visionaries in enterprises, working hand in hand
+with data engineers to determine the big picture of architecture practices and data
+strategies.
+Depending on the company’s data maturity and size, a data engineer may overlap
+with or assume the responsibilities of a data architect. Therefore, a data engineer
+should have a good understanding of architecture best practices and approaches.
+Note that we have placed data architects in the upstream stakeholders section. Data
+architects often help design application data layers that are source systems for data
+engineers. Architects may also interact with data engineers at various other stages of
+the data engineering lifecycle. We cover “good” data architecture in Chapter 3.
+Software engineers. Software engineers build the software and systems that run a
+business; they are largely responsible for generating the internal data that data engi‐
+neers will consume and process. The systems built by software engineers typically
+generate application event data and logs, which are significant assets in their own
+Data Engineers Inside an Organization
+|
+25
+
+12 A variety of references exist for this notion. Although this cliche is widely known, a healthy debate has arisen
+around its validity in different practical settings. For more details, see Leigh Dodds, “Do Data Scientists Spend
+80% of Their Time Cleaning Data? Turns Out, No?” Lost Boy blog, January 31, 2020, https://oreil.ly/szFww;
+and Alex Woodie, “Data Prep Still Dominates Data Scientists’ Time, Survey Finds,” Datanami, July 6, 2020,
+https://oreil.ly/jDVWF.
+right. This internal data contrasts with external data pulled from SaaS platforms or
+partner businesses. In well-run technical organizations, software engineers and data
+engineers coordinate from the inception of a new project to design application data
+for consumption by analytics and ML applications.
+A data engineer should work together with software engineers to understand the
+applications that generate data, the volume, frequency, and format of the generated
+data, and anything else that will impact the data engineering lifecycle, such as data
+security and regulatory compliance. For example, this might mean setting upstream
+expectations on what the data software engineers need to do their jobs. Data engi‐
+neers must work closely with the software engineers.
+DevOps engineers and site-reliability engineers. DevOps and SREs often produce data
+through operational monitoring. We classify them as upstream of data engineers, but
+they may also be downstream, consuming data through dashboards or interacting
+with data engineers directly in coordinating operations of data systems.
+Downstream stakeholders
+Data engineering exists to serve downstream data consumers and use cases. This
+section discusses how data engineers interact with various downstream roles. We’ll
+also introduce a few service models, including centralized data engineering teams and
+cross-functional teams.
+Data scientists. Data scientists build forward-looking models to make predictions and
+recommendations. These models are then evaluated on live data to provide value
+in various ways. For example, model scoring might determine automated actions in
+response to real-time conditions, recommend products to customers based on the
+browsing history in their current session, or make live economic predictions used by
+traders.
+According to common industry folklore, data scientists spend 70% to 80% of their
+time collecting, cleaning, and preparing data.12 In our experience, these numbers
+often reflect immature data science and data engineering practices. In particular,
+many popular data science frameworks can become bottlenecks if they are not
+scaled up appropriately. Data scientists who work exclusively on a single worksta‐
+tion force themselves to downsample data, making data preparation significantly
+more complicated and potentially compromising the quality of the models they
+26
+|
+Chapter 1: Data Engineering Described
+
+produce. Furthermore, locally developed code and environments are often difficult
+to deploy in production, and a lack of automation significantly hampers data science
+workflows. If data engineers do their job and collaborate successfully, data scientists
+shouldn’t spend their time collecting, cleaning, and preparing data after initial explor‐
+atory work. Data engineers should automate this work as much as possible.
+The need for production-ready data science is a significant driver behind the emer‐
+gence of the data engineering profession. Data engineers should help data scientists to
+enable a path to production. In fact, we (the authors) moved from data science to data
+engineering after recognizing this fundamental need. Data engineers work to provide
+the data automation and scale that make data science more efficient.
+Data analysts. Data analysts (or business analysts) seek to understand business per‐
+formance and trends. Whereas data scientists are forward-looking, a data analyst
+typically focuses on the past or present. Data analysts usually run SQL queries in a
+data warehouse or a data lake. They may also utilize spreadsheets for computation
+and analysis and various BI tools such as Microsoft Power BI, Looker, or Tableau.
+Data analysts are domain experts in the data they work with frequently and become
+intimately familiar with data definitions, characteristics, and quality problems. A
+data analyst’s typical downstream customers are business users, management, and
+executives.
+Data engineers work with data analysts to build pipelines for new data sources
+required by the business. Data analysts’ subject-matter expertise is invaluable in
+improving data quality, and they frequently collaborate with data engineers in this
+capacity.
+Machine learning engineers and AI researchers. Machine learning engineers (ML engi‐
+neers) overlap with data engineers and data scientists. ML engineers develop
+advanced ML techniques, train models, and design and maintain the infrastructure
+running ML processes in a scaled production environment. ML engineers often have
+advanced working knowledge of ML and deep learning techniques and frameworks
+such as PyTorch or TensorFlow.
+ML engineers also understand the hardware, services, and systems required to run
+these frameworks, both for model training and model deployment at a production
+scale. It’s common for ML flows to run in a cloud environment where ML engineers
+can spin up and scale infrastructure resources on demand or rely on managed
+services.
+As we’ve mentioned, the boundaries between ML engineering, data engineering, and
+data science are blurry. Data engineers may have some operational responsibilities
+over ML systems, and data scientists may work closely with ML engineering in
+designing advanced ML processes.
+Data Engineers Inside an Organization
+|
+27
+

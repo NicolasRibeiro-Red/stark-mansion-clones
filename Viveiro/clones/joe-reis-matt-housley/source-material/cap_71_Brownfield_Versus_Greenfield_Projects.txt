@@ -1,0 +1,78 @@
+# Brownfield Versus Greenfield Projects
+
+Paginas: 121-122
+
+An event-driven architecture (Figure 3-9) embraces the event-driven workflow and
+uses this to communicate across various services. The advantage of an event-driven
+architecture is that it distributes the state of an event across multiple services. This
+is helpful if a service goes offline, a node fails in a distributed system, or you’d
+like multiple consumers or services to access the same events. Anytime you have
+loosely coupled services, this is a candidate for event-driven architecture. Many of
+the examples we describe later in this chapter incorporate some form of event-driven
+architecture.
+You’ll learn more about event-driven streaming and messaging systems in Chapter 5.
+Figure 3-9. In an event-driven architecture, events are passed between loosely coupled
+services
+Brownfield Versus Greenfield Projects
+Before you design your data architecture project, you need to know whether you’re
+starting with a clean slate or redesigning an existing architecture. Each type of project
+requires assessing trade-offs, albeit with different considerations and approaches.
+Projects roughly fall into two buckets: brownfield and greenfield.
+Brownfield projects
+Brownfield projects often involve refactoring and reorganizing an existing architecture
+and are constrained by the choices of the present and past. Because a key part
+of architecture is change management, you must figure out a way around these
+limitations and design a path forward to achieve your new business and technical
+objectives. Brownfield projects require a thorough understanding of the legacy archi‐
+tecture and the interplay of various old and new technologies. All too often, it’s
+easy to criticize a prior team’s work and decisions, but it is far better to dig deep,
+ask questions, and understand why decisions were made. Empathy and context go a
+long way in helping you diagnose problems with the existing architecture, identify
+opportunities, and recognize pitfalls.
+You’ll need to introduce your new architecture and technologies and deprecate the
+old stuff at some point. Let’s look at a couple of popular approaches. Many teams
+jump headfirst into an all-at-once or big-bang overhaul of the old architecture, often
+figuring out deprecation as they go. Though popular, we don’t advise this approach
+96
+|
+Chapter 3: Designing Good Data Architecture
+
+20 Martin Fowler, “StranglerFigApplication,” June 29, 2004, https://oreil.ly/PmqxB.
+21 Mike Loukides, “Resume Driven Development,” O’Reilly Radar, October 13, 2004, https://oreil.ly/BUHa8.
+because of the associated risks and lack of a plan. This path often leads to disaster,
+with many irreversible and costly decisions. Your job is to make reversible, high-ROI
+decisions.
+A popular alternative to a direct rewrite is the strangler pattern: new systems slowly
+and incrementally replace a legacy architecture’s components.20 Eventually, the legacy
+architecture is completely replaced. The attraction to the strangler pattern is its
+targeted and surgical approach of deprecating one piece of a system at a time.
+This allows for flexible and reversible decisions while assessing the impact of the
+deprecation on dependent systems.
+It’s important to note that deprecation might be “ivory tower” advice and not practi‐
+cal or achievable. Eradicating legacy technology or architecture might be impossible
+if you’re at a large organization. Someone, somewhere, is using these legacy compo‐
+nents. As someone once said, “Legacy is a condescending way to describe something
+that makes money.”
+If you can deprecate, understand there are numerous ways to deprecate your old
+architecture. It is critical to demonstrate value on the new platform by gradually
+increasing its maturity to show evidence of success and then follow an exit plan to
+shut down old systems.
+Greenfield projects
+On the opposite end of the spectrum, a greenfield project allows you to pioneer a
+fresh start, unconstrained by the history or legacy of a prior architecture. Greenfield
+projects tend to be easier than brownfield projects, and many data architects and
+engineers find them more fun! You have the opportunity to try the newest and
+coolest tools and architectural patterns. What could be more exciting?
+You should watch out for some things before getting too carried away. We see teams
+get overly exuberant with shiny object syndrome. They feel compelled to reach for the
+latest and greatest technology fad without understanding how it will impact the value
+of the project. There’s also a temptation to do resume-driven development, stacking
+up impressive new technologies without prioritizing the project’s ultimate goals.21
+Always prioritize requirements over building something cool.
+Whether you’re working on a brownfield or greenfield project, always focus on the
+tenets of “good” data architecture. Assess trade-offs, make flexible and reversible
+decisions, and strive for positive ROI.
+Major Architecture Concepts
+|
+97
+

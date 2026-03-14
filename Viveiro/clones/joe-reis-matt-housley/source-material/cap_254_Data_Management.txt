@@ -1,0 +1,87 @@
+# Data Management
+
+Paginas: 289-290
+
+Security
+Moving data introduces security vulnerabilities because you have to transfer data
+between locations. The last thing you want is to capture or compromise the data
+while moving.
+Consider where the data lives and where it is going. Data that needs to move within
+your VPC should use secure endpoints and never leave the confines of the VPC.
+Use a VPN or a dedicated private connection if you need to send data between the
+cloud and an on-premises network. This might cost money, but the security is a good
+investment. If your data traverses the public internet, ensure that the transmission is
+encrypted. It is always a good practice to encrypt data over the wire.
+Data Management
+Naturally, data management begins at data ingestion. This is the starting point for
+lineage and data cataloging; from this point on, data engineers need to think about
+schema changes, ethics, privacy, and compliance.
+Schema changes
+Schema changes (such as adding, changing, or removing columns in a database table)
+remain, from our perspective, an unsettled issue in data management. The traditional
+approach is a careful command-and-control review process. Working with clients at
+large enterprises, we have been quoted lead times of six months for the addition of a
+single field. This is an unacceptable impediment to agility.
+On the opposite end of the spectrum, any schema change in the source triggers
+target tables to be re-created with the new schema. This solves schema problems at
+the ingestion stage but can still break downstream pipelines and destination storage
+systems.
+One possible solution, which we, the authors, have meditated on for a while, is an
+approach pioneered by Git version control. When Linus Torvalds was developing Git,
+many of his choices were inspired by the limitations of Concurrent Versions System
+(CVS). CVS is completely centralized; it supports only one current official version of
+the code, stored on a central project server. To make Git a truly distributed system,
+Torvalds used the notion of a tree; each developer could maintain their processed
+branch of the code and then merge to or from other branches.
+A few years ago, such an approach to data was unthinkable. On-premises MPP
+systems are typically operated at close to maximum storage capacity. However, stor‐
+age is cheap in big data and cloud data warehouse environments. One may quite
+easily maintain multiple versions of a table with different schemas and even different
+upstream transformations. Teams can support various “development” versions of
+a table by using orchestration tools such as Airflow; schema changes, upstream
+264
+|
+Chapter 7: Ingestion
+
+transformation, and code changes can appear in development tables before official
+changes to the main table.
+Data ethics, privacy, and compliance
+Clients often ask for our advice on encrypting sensitive data in databases, which
+generally leads us to ask a fundamental question: do you need the sensitive data
+you’re trying to encrypt? As it turns out, this question often gets overlooked when
+creating requirements and solving problems.
+Data engineers should always train themselves to ask this question when setting
+up ingestion pipelines. They will inevitably encounter sensitive data; the natural
+tendency is to ingest it and forward it to the next step in the pipeline. But if this data
+is not needed, why collect it at all? Why not simply drop sensitive fields before data is
+stored? Data cannot leak if it is never collected.
+Where it is truly necessary to keep track of sensitive identities, it is common practice
+to apply tokenization to anonymize identities in model training and analytics. But
+engineers should look at where this tokenization is used. If possible, hash data at
+ingestion time.
+Data engineers cannot avoid working with highly sensitive data in some cases. Some
+analytics systems must present identifiable, sensitive information. Engineers must
+act under the highest ethical standards whenever they handle sensitive data. In
+addition, they can put in place a variety of practices to reduce the direct handling of
+sensitive data. Aim as much as possible for touchless production where sensitive data
+is involved. This means that engineers develop and test code on simulated or cleansed
+data in development and staging environments but automated code deployments to
+production.
+Touchless production is an ideal that engineers should strive for, but situations
+inevitably arise that cannot be fully solved in development and staging environments.
+Some bugs may not be reproducible without looking at the live data that is triggering
+a regression. For these cases, put a broken-glass process in place: require at least two
+people to approve access to sensitive data in the production environment. This access
+should be tightly scoped to a particular issue and come with an expiration date.
+Our last bit of advice on sensitive data: be wary of naive technological solutions to
+human problems. Both encryption and tokenization are often treated like privacy
+magic bullets. Most cloud-based storage systems and nearly all databases encrypt data
+at rest and in motion by default. Generally, we don’t see encryption problems but data
+access problems. Is the solution to apply an extra layer of encryption to a single field
+or to control access to that field? After all, one must still tightly manage access to the
+encryption key. Legitimate use cases exist for single-field encryption, but watch out
+for ritualistic encryption.
+Undercurrents
+|
+265
+

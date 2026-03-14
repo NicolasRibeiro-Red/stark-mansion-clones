@@ -1,0 +1,45 @@
+# Orchestration Example: Airflow
+
+Paginas: 175-175
+
+When evaluating a new technology, how much control do you have over deploying
+new code, how will you be alerted if there’s a problem, and how will you respond
+when there’s a problem? The answer largely depends on the type of technology
+you’re considering. If the technology is OSS, you’re likely responsible for setting up
+monitoring, hosting, and code deployment. How will you handle issues? What’s your
+incident response?
+Much of the operations are outside your control if you’re using a managed offering.
+Consider the vendor’s SLA, the way they alert you to issues, and whether they’re
+transparent about how they’re addressing the case, including providing an ETA to a
+fix.
+Data Architecture
+As discussed in Chapter 3, good data architecture means assessing trade-offs and
+choosing the best tools for the job while keeping your decisions reversible. With the
+data landscape morphing at warp speed, the best tool for the job is a moving target.
+The main goals are to avoid unnecessary lock-in, ensure interoperability across the
+data stack, and produce high ROI. Choose your technologies accordingly.
+Orchestration Example: Airflow
+Throughout most of this chapter, we have actively avoided discussing any particular
+technology too extensively. We make an exception for orchestration because the space
+is currently dominated by one open source technology, Apache Airflow.
+Maxime Beauchemin kicked off the Airflow project at Airbnb in 2014. Airflow
+was developed from the beginning as a noncommercial open source project. The
+framework quickly grew significant mindshare outside Airbnb, becoming an Apache
+Incubator project in 2016 and a full Apache-sponsored project in 2019.
+Airflow enjoys many advantages, largely because of its dominant position in the open
+source marketplace. First, the Airflow open source project is extremely active, with a
+high rate of commits and a quick response time for bugs and security issues, and the
+project recently released Airflow 2, a major refactor of the codebase. Second, Airflow
+enjoys massive mindshare. Airflow has a vibrant, active community on many com‐
+munications platforms, including Slack, Stack Overflow, and GitHub. Users can easily
+find answers to questions and problems. Third, Airflow is available commercially as
+a managed service or software distribution through many vendors, including GCP,
+AWS, and Astronomer.io.
+Airflow also has some downsides. Airflow relies on a few core nonscalable compo‐
+nents (the scheduler and backend database) that can become bottlenecks for perfor‐
+mance, scale, and reliability; the scalable parts of Airflow still follow a distributed
+monolith pattern. (See “Monolith Versus Modular” on page 139.) Finally, Airflow
+150
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+

@@ -1,0 +1,52 @@
+# Random Access Memory
+
+Paginas: 219-219
+
+SSDs still play a significant role in OLAP systems. Some OLAP databases leverage
+SSD caching to support high-performance queries on frequently accessed data. As
+low-latency OLAP becomes more popular, we expect SSD usage in these systems to
+follow suit.
+Random Access Memory
+We commonly use the terms random access memory (RAM) and memory inter‐
+changeably. Strictly speaking, magnetic drives and SSDs also serve as memory
+that stores data for later random access retrieval, but RAM has several specific
+characteristics:
+• It is attached to a CPU and mapped into CPU address space.
+•
+• It stores the code that CPUs execute and the data that this code directly processes.
+•
+• It is volatile, while magnetic drives and SSDs are nonvolatile. Though they may
+•
+occasionally fail and corrupt or lose data, drives generally retain data when
+powered off. RAM loses data in less than a second when it is unpowered.
+• It offers significantly higher transfer speeds and faster retrieval times than SSD
+•
+storage. DDR5 memory—the latest widely used standard for RAM—offers data
+retrieval latency on the order of 100 ns, roughly 1,000 times faster than SSD. A
+typical CPU can support 100 GB/s bandwidth to attached memory and millions
+of IOPS. (Statistics vary dramatically depending on the number of memory
+channels and other configuration details.)
+• It is significantly more expensive than SSD storage, at roughly $10/GB (at the
+•
+time of this writing).
+• It is limited in the amount of RAM attached to an individual CPU and memory
+•
+controller. This adds further to complexity and cost. High-memory servers typ‐
+ically utilize many interconnected CPUs on one board, each with a block of
+attached RAM.
+• It is still significantly slower than CPU cache, a type of memory located directly
+•
+on the CPU die or in the same package. Cache stores frequently and recently
+accessed data for ultrafast retrieval during processing. CPU designs incorporate
+several layers of cache of varying size and performance characteristics.
+When we talk about system memory, we almost always mean dynamic RAM, a
+high-density, low-cost form of memory. Dynamic RAM stores data as charges in
+capacitors. These capacitors leak over time, so the data must be frequently refreshed
+(read and rewritten) to prevent data loss. The hardware memory controller handles
+these technical details; data engineers simply need to worry about bandwidth and
+retrieval latency characteristics. Other forms of memory, such as static RAM, are used
+in specialized applications such as CPU caches.
+194
+|
+Chapter 6: Storage
+

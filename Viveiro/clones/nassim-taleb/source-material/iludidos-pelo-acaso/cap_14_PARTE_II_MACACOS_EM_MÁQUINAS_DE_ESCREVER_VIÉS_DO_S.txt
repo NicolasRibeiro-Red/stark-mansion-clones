@@ -1,0 +1,100 @@
+# PARTE II: MACACOS EM MÁQUINAS DE ESCREVER — VIÉS DO SOBREVIVENTE E OUTRAS DISTORÇÕES DOS FATOS
+
+Paginas: 145-148
+
+Parte II
+Macacos em máquinas de escrever —
+Viés do sobrevivente e outras
+distorções dos fatos
+
+Se pusermos um número innito de macacos diante de máquinas de
+escrever (de construção robusta) e os deixarmos bater a esmo nas
+teclas, temos certeza de que um deles sairia com uma versão exata da
+Ilíada. Examinando melhor, essa ideia poderia ser menos interessante
+do que parece à primeira vista, já que a probabilidade é muito
+pequena. Mas vamos levar o raciocínio um passo adiante. Agora que
+descobrimos esse herói entre os macacos, algum leitor apostaria suas
+economias em que o macaco escrevesse a Odisseia a seguir?
+Nessa história, é o segundo passo que é interessante. Até onde o
+desempenho passado (aqui, escrever à máquina a Ilíada) pode ser
+importante na previsão do desempenho futuro? O mesmo se aplica a
+qualquer decisão baseada no desempenho passado, dependendo-se
+meramente dos atributos da série temporal passada. Pense no macaco
+aparecendo à sua porta com o impressionante desempenho passado.
+Ei, ele escreveu a Ilíada.
+O principal problema com a inferência em geral é que aqueles cuja
+prossão é tirar conclusões de dados geralmente caem na armadilha
+mais depressa e com mais conança do que os outros. Quanto mais
+dados temos, mais probabilidade há de que nos vejamos afogados
+neles. Isso porque a sabedoria comum entre pessoas com um mínimo
+conhecimento das leis da probabilidade as manda basear sua tomada
+de decisão no seguinte princípio: é muito pouco provável que alguém
+se saia consideravelmente bem, e de modo continuado, sem estar
+fazendo alguma coisa certa. As chas de desempenho se tornam,
+assim, muito importantes. Essas pessoas se baseiam na probabilidade
+de uma sucessão de êxitos e dizem a si mesmas que, se alguém se saiu
+melhor do que os outros no passado, então há uma grande chance de
+se sair melhor do que a multidão no futuro — e uma chance bastante
+grande, aliás. Entretanto devemos tomar cuidado com as coisas fáceis
+
+de entender: um reduzido conhecimento da probabilidade pode levar
+a piores resultados do que nenhum conhecimento.
+DEPENDE DO NÚMERO DE MACACOS
+Não nego que, se alguém teve um desempenho melhor do que o
+restante no passado, presume-se que sua capacidade o faça sair-se
+melhor no futuro. Contudo, essa suposição pode ser fraca, muito
+fraca, a ponto de se mostrar inútil na tomada de decisão. Por quê?
+Porque tudo depende de dois fatores: o conteúdo aleatório da
+prossão e o número de macacos em operação.
+O tamanho da amostra inicial tem enorme importância. Se há cinco
+macacos no jogo, eu caria muito impressionado com o escritor da
+Ilíada, a ponto de suspeitar que seja a reencarnação do poeta da
+Antiguidade. Se há 1 bilhão elevado à potência de 1 bilhão de macacos,
+eu caria menos impressionado — na verdade, seria uma surpresa se
+um deles não viesse a apresentar uma obra bem conhecida (mas não
+especicada) apenas por sorte (talvez Memórias de Casanova). Seria
+possível até mesmo esperar que um dos macacos nos saísse com A
+terra em balanço, do ex-vice-presidente Al Gore, e ainda sem os
+chavões.
+Esse problema tem efeitos mais malévolos sobre o mundo dos
+negócios do que sobre outras atividades da vida, devido à sua alta
+dependência em relação ao acaso (já traçamos um paralelo
+desfavorável entre os negócios, dependentes do acaso, e a
+odontologia). Quanto maior o número de executivos, maior a
+probabilidade de um deles se sair excepcionalmente bem, por pura
+sorte. Raras vezes vi alguém contar os macacos. No mesmo viés,
+poucos contam os investidores no mercado, a m de calcular não a
+probabilidade de sucesso, mas a probabilidade condicional de
+histórias bem-sucedidas, dado o número de investidores em operação
+em determinada história do mercado.
+MACACOS ESCONDIDOS
+
+Há outros aspectos do problema dos macacos: na vida real, os
+macacos que cam para trás não são contáveis, muito menos visíveis.
+Eles permanecem escondidos, enquanto a gente vê apenas os
+vencedores — é natural que aqueles que fracassam sumam sem deixar
+traço. Da mesma forma, vemos os sobreviventes, e apenas os
+sobreviventes, o que faz com que tenhamos uma percepção errada das
+chances. Não reagimos ante a probabilidade, mas à avaliação que a
+sociedade faz dela. Como vimos no caso de Nero Tulip, até mesmo
+pessoas com conhecimento de probabilidade reagem de maneira
+pouco inteligente à pressão social.
+ESTA SEÇÃO
+A Parte I descreveu situações em que as pessoas não compreendem
+o evento raro e parecem não aceitar a possibilidade de sua ocorrência
+ou suas penosas consequências. Ali também expus minhas próprias
+ideias, aquelas que parecem não ter sido exploradas na literatura.
+Contudo, um livro sobre o acaso não estará completo sem a
+apresentação das possíveis tendências que poderemos ter, à parte as
+deformações causadas pelo evento raro. O tema da Parte II é mais
+prosaico; farei rapidamente uma síntese das predisposições do acaso,
+conforme discutidas na agora abundante literatura existente sobre o
+assunto.
+Essas predisposições podem ser esboçadas da seguinte maneira: (a)
+viés do sobrevivente (ou macacos em uma máquina de escrever),
+conrmando que vemos apenas os vencedores e temos uma visão
+distorcida das probabilidades (capítulos 8 e 9), (b) o fato de que a
+sorte é, com máxima frequência, o motivo do grande sucesso (capítulo
+10), e (c) a deciência biológica de nossa incapacidade de entender a
+probabilidade (capítulo 11).
+

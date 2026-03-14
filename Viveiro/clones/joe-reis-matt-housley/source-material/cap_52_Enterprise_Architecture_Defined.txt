@@ -1,0 +1,118 @@
+# Enterprise Architecture Defined
+
+Paginas: 97-99
+
+1 The Open Group, TOGAF Version 9.1, https://oreil.ly/A1H67.
+2 Gartner Glossary, s.v. “Enterprise Architecture (EA),” https://oreil.ly/SWwQF.
+Enterprise Architecture Defined
+Enterprise architecture has many subsets, including business, technical, application,
+and data (Figure 3-1). As such, many frameworks and resources are devoted to
+enterprise architecture. In truth, architecture is a surprisingly controversial topic.
+Figure 3-1. Data architecture is a subset of enterprise architecture
+The term enterprise gets mixed reactions. It brings to mind sterile corporate offi‐
+ces, command-and-control/waterfall planning, stagnant business cultures, and empty
+catchphrases. Even so, we can learn some things here.
+Before we define and describe enterprise architecture, let’s unpack this term. Let’s
+look at how enterprise architecture is defined by some significant thought leaders:
+TOGAF, Gartner, and EABOK.
+TOGAF’s definition
+TOGAF is The Open Group Architecture Framework, a standard of The Open Group.
+It’s touted as the most widely used architecture framework today. Here’s the TOGAF
+definition:1
+The term “enterprise” in the context of “enterprise architecture” can denote an entire
+enterprise—encompassing all of its information and technology services, processes,
+and infrastructure—or a specific domain within the enterprise. In both cases, the
+architecture crosses multiple systems, and multiple functional groups within the
+enterprise.
+Gartner’s definition
+Gartner is a global research and advisory company that produces research articles
+and reports on trends related to enterprises. Among other things, it is responsible for
+the (in)famous Gartner Hype Cycle. Gartner’s definition is as follows:2
+Enterprise architecture (EA) is a discipline for proactively and holistically leading
+enterprise responses to disruptive forces by identifying and analyzing the execution of
+change toward desired business vision and outcomes. EA delivers value by presenting
+72
+|
+Chapter 3: Designing Good Data Architecture
+
+3 EABOK Consortium website, https://eabok.org.
+4 Jeff Haden, “Amazon Founder Jeff Bezos: This Is How Successful People Make Such Smart Decisions,” Inc.,
+December 3, 2018, https://oreil.ly/QwIm0.
+business and IT leaders with signature-ready recommendations for adjusting policies
+and projects to achieve targeted business outcomes that capitalize on relevant business
+disruptions.
+EABOK’s definition
+EABOK is the Enterprise Architecture Book of Knowledge, an enterprise architecture
+reference produced by the MITRE Corporation. EABOK was released as an incom‐
+plete draft in 2004 and has not been updated since. Though seemingly obsolete,
+EABOK is frequently referenced in descriptions of enterprise architecture; we found
+many of its ideas helpful while writing this book. Here’s the EABOK definition:3
+Enterprise Architecture (EA) is an organizational model; an abstract representation of
+an Enterprise that aligns strategy, operations, and technology to create a roadmap for
+success.
+Our definition
+We extract a few common threads in these definitions of enterprise architecture:
+change, alignment, organization, opportunities, problem-solving, and migration.
+Here is our definition of enterprise architecture, one that we feel is more relevant
+to today’s fast-moving data landscape:
+Enterprise architecture is the design of systems to support change in the enterprise,
+achieved by flexible and reversible decisions reached through careful evaluation of
+trade-offs.
+Here, we touch on some key areas we’ll return to throughout the book: flexible and
+reversible decisions, change management, and evaluation of trade-offs. We discuss
+each theme at length in this section and then make the definition more concrete in
+the latter part of the chapter by giving various examples of data architecture.
+Flexible and reversible decisions are essential for two reasons. First, the world is
+constantly changing, and predicting the future is impossible. Reversible decisions
+allow you to adjust course as the world changes and you gather new information.
+Second, there is a natural tendency toward enterprise ossification as organizations
+grow. Adopting a culture of reversible decisions helps overcome this tendency by
+reducing the risk attached to a decision.
+Jeff Bezos is credited with the idea of one-way and two-way doors.4 A one-way door
+is a decision that is almost impossible to reverse. For example, Amazon could have
+What Is Data Architecture?
+|
+73
+
+decided to sell AWS or shut it down. It would be nearly impossible for Amazon to
+rebuild a public cloud with the same market position after such an action.
+On the other hand, a two-way door is an easily reversible decision: you walk through
+and proceed if you like what you see in the room or step back through the door if
+you don’t. Amazon might decide to require the use of DynamoDB for a new micro‐
+services database. If this policy doesn’t work, Amazon has the option of reversing it
+and refactoring some services to use other databases. Since the stakes attached to each
+reversible decision (two-way door) are low, organizations can make more decisions,
+iterating, improving, and collecting data rapidly.
+Change management is closely related to reversible decisions and is a central theme
+of enterprise architecture frameworks. Even with an emphasis on reversible decisions,
+enterprises often need to undertake large initiatives. These are ideally broken into
+smaller changes, each one a reversible decision in itself. Returning to Amazon,
+we note a five-year gap (2007 to 2012) from the publication of a paper on the
+DynamoDB concept to Werner Vogels’s announcement of the DynamoDB service on
+AWS. Behind the scenes, teams took numerous small actions to make DynamoDB a
+concrete reality for AWS customers. Managing such small actions is at the heart of
+change management.
+Architects are not simply mapping out IT processes and vaguely looking toward a
+distant, utopian future; they actively solve business problems and create new oppor‐
+tunities. Technical solutions exist not for their own sake but in support of business
+goals. Architects identify problems in the current state (poor data quality, scalability
+limits, money-losing lines of business), define desired future states (agile data-quality
+improvement, scalable cloud data solutions, improved business processes), and real‐
+ize initiatives through execution of small, concrete steps. It bears repeating:
+Technical solutions exist not for their own sake but in support of business goals.
+We found significant inspiration in Fundamentals of Software Architecture by Mark
+Richards and Neal Ford (O’Reilly). They emphasize that trade-offs are inevitable and
+ubiquitous in the engineering space. Sometimes the relatively fluid nature of software
+and data leads us to believe that we are freed from the constraints that engineers face
+in the hard, cold physical world. Indeed, this is partially true; patching a software
+bug is much easier than redesigning and replacing an airplane wing. However, digi‐
+tal systems are ultimately constrained by physical limits such as latency, reliability,
+density, and energy consumption. Engineers also confront various nonphysical limits,
+such as characteristics of programming languages and frameworks, and practical
+constraints in managing complexity, budgets, etc. Magical thinking culminates in
+poor engineering. Data engineers must account for trade-offs at every step to design
+an optimal system while minimizing high-interest technical debt.
+74
+|
+Chapter 3: Designing Good Data Architecture
+

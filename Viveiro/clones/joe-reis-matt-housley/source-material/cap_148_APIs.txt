@@ -1,0 +1,82 @@
+# APIs
+
+Paginas: 199-200
+
+While time-series data such as orders, shipments, logs, and so forth have been stored
+in relational databases for ages, these data sizes and volumes were often tiny. As
+data grew faster and bigger, new special-purpose databases were needed. Time-series
+databases address the needs of growing, high-velocity data volumes from IoT, event
+and application logs, ad tech, and fintech, among many other use cases. Often these
+workloads are write-heavy. As a result, time-series databases often utilize memory
+buffering to support fast writes and reads.
+We should distinguish between measurement and event-based data, common in
+time-series databases. Measurement data is generated regularly, such as temperature
+or air-quality sensors. Event-based data is irregular and created every time an event
+occurs—for instance, when a motion sensor detects movement.
+The schema for a time series typically contains a timestamp and a small set of fields.
+Because the data is time-dependent, the data is ordered by the timestamp. This makes
+time-series databases suitable for operational analytics but not great for BI use cases.
+Joins are not common, though some quasi time-series databases such as Apache
+Druid support joins. Many time-series databases are available, both as open source
+and paid options.
+APIs
+APIs are now a standard and pervasive way of exchanging data in the cloud, for SaaS
+platforms, and between internal company systems. Many types of API interfaces exist
+across the web, but we are principally interested in those built around HTTP, the
+most popular type on the web and in the cloud.
+REST
+We’ll first talk about REST, currently the dominant API paradigm. As noted in
+Chapter 4, REST stands for representational state transfer. This set of practices and
+philosophies for building HTTP web APIs was laid out by Roy Fielding in 2000 in
+a PhD dissertation. REST is built around HTTP verbs, such as GET and PUT; in
+practice, modern REST uses only a handful of the verb mappings outlined in the
+original dissertation.
+One of the principal ideas of REST is that interactions are stateless. Unlike in a Linux
+terminal session, there is no notion of a session with associated state variables such
+as a working directory; each REST call is independent. REST calls can change the
+system’s state, but these changes are global, applying to the full system rather than a
+current session.
+174
+|
+Chapter 5: Data Generation in Source Systems
+
+5 For one example, see Michael S. Mikowski, “RESTful APIs: The Big Lie,” August 10, 2015, https://oreil.ly/rqja3.
+Critics point out that REST is in no way a full specification.5 REST stipulates basic
+properties of interactions, but developers utilizing an API must gain a significant
+amount of domain knowledge to build applications or pull data effectively.
+We see great variation in levels of API abstraction. In some cases, APIs are merely
+a thin wrapper over internals that provides the minimum functionality required to
+protect the system from user requests. In other examples, a REST data API is a
+masterpiece of engineering that prepares data for analytics applications and supports
+advanced reporting.
+A couple of developments have simplified setting up data-ingestion pipelines from
+REST APIs. First, data providers frequently supply client libraries in various lan‐
+guages, especially in Python. Client libraries remove much of the boilerplate labor of
+building API interaction code. Client libraries handle critical details such as authenti‐
+cation and map fundamental methods into accessible classes.
+Second, various services and open source libraries have emerged to interact with
+APIs and manage data synchronization. Many SaaS and open source vendors provide
+off-the-shelf connectors for common APIs. Platforms also simplify the process of
+building custom connectors as required.
+There are numerous data APIs without client libraries or out-of-the-box connector
+support. As we emphasize throughout the book, engineers would do well to reduce
+undifferentiated heavy lifting by using off-the-shelf tools. However, low-level plumb‐
+ing tasks still consume many resources. At virtually any large company, data engineers
+will need to deal with the problem of writing and maintaining custom code to
+pull data from APIs, which requires understanding the structure of the data as
+provided, developing appropriate data-extraction code, and determining a suitable
+data synchronization strategy.
+GraphQL
+GraphQL was created at Facebook as a query language for application data and an
+alternative to generic REST APIs. Whereas REST APIs generally restrict your queries
+to a specific data model, GraphQL opens up the possibility of retrieving multiple data
+models in a single request. This allows for more flexible and expressive queries than
+with REST. GraphQL is built around JSON and returns data in a shape resembling
+the JSON query.
+There’s something of a holy war between REST and GraphQL, with some engineering
+teams partisans of one or the other and some using both. In reality, engineers will
+encounter both as they interact with source systems.
+Source System Practical Details
+|
+175
+

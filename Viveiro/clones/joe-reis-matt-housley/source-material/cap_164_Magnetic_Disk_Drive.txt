@@ -1,0 +1,71 @@
+# Magnetic Disk Drive
+
+Paginas: 216-217
+
+1 Andy Klein, “Hard Disk Drive (HDD) vs. Solid-State Drive (SSD): What’s the Diff?,” Backblaze blog,
+October 5, 2021, https://oreil.ly/XBps8.
+Next, we’ll look at storage systems. In practice, we don’t directly access system mem‐
+ory or hard disks. These physical storage components exist inside servers and clusters
+that can ingest and retrieve data using various access paradigms.
+Finally, we’ll look at storage abstractions. Storage systems are assembled into a cloud
+data warehouse, a data lake, etc. When building data pipelines, engineers choose
+the appropriate abstractions for storing their data as it moves through the ingestion,
+transformation, and serving stages.
+Raw Ingredients of Data Storage
+Storage is so common that it’s easy to take it for granted. We’re often surprised by the
+number of software and data engineers who use storage every day but have little idea
+how it works behind the scenes or the trade-offs inherent in various storage media.
+As a result, we see storage used in some pretty...interesting ways. Though current
+managed services potentially free data engineers from the complexities of managing
+servers, data engineers still need to be aware of underlying components’ essential
+characteristics, performance considerations, durability, and costs.
+In most data architectures, data frequently passes through magnetic storage, SSDs,
+and memory as it works its way through the various processing phases of a data
+pipeline. Data storage and query systems generally follow complex recipes involving
+distributed systems, numerous services, and multiple hardware storage layers. These
+systems require the right raw ingredients to function correctly.
+Let’s look at some of the raw ingredients of data storage: disk drives, memory,
+networking and CPU, serialization, compression, and caching.
+Magnetic Disk Drive
+Magnetic disks utilize spinning platters coated with a ferromagnetic film (Figure 6-3).
+This film is magnetized by a read/write head during write operations to physically
+encode binary data. The read/write head detects the magnetic field and outputs a bit‐
+stream during read operations. Magnetic disk drives have been around for ages. They
+still form the backbone of bulk data storage systems because they are significantly
+cheaper than SSDs per gigabyte of stored data.
+On the one hand, these disks have seen extraordinary improvements in perfor‐
+mance, storage density, and cost.1 On the other hand, SSDs dramatically outperform
+magnetic disks on various metrics. Currently, commercial magnetic disk drives
+cost roughly 3 cents per gigabyte of capacity. (Note that we’ll frequently use the
+Raw Ingredients of Data Storage
+|
+191
+
+abbreviations HDD and SSD to denote rotating magnetic disk and solid-state drives,
+respectively.)
+Figure 6-3. Magnetic disk head movement and rotation are essential in random access
+latency
+IBM developed magnetic disk drive technology in the 1950s. Since then, magnetic
+disk capacities have grown steadily. The first commercial magnetic disk drive, the
+IBM 350, had a capacity of 3.75 megabytes. As of this writing, magnetic drives
+storing 20 TB are commercially available. In fact, magnetic disks continue to see
+rapid innovation, with methods such as heat-assisted magnetic recording (HAMR),
+shingled magnetic recording (SMR), and helium-filled disk enclosures being used
+to realize ever greater storage densities. In spite of the continuing improvements in
+drive capacity, other aspects of HDD performance are hampered by physics.
+First, disk transfer speed, the rate at which data can be read and written, does not
+scale in proportion with disk capacity. Disk capacity scales with areal density (gigabits
+stored per square inch), whereas transfer speed scales with linear density (bits per
+inch). This means that if disk capacity grows by a factor of 4, transfer speed increases
+by only a factor of 2. Consequently, current data center drives support maximum
+data transfer speeds of 200–300 MB/s. To frame this another way, it takes more than
+20 hours to read the entire contents of a 30 TB magnetic drive, assuming a transfer
+speed of 300 MB/s.
+A second major limitation is seek time. To access data, the drive must physically
+relocate the read/write heads to the appropriate track on the disk. Third, in order
+to find a particular piece of data on the disk, the disk controller must wait for that
+data to rotate under the read/write heads. This leads to rotational latency. Typical
+192
+|
+Chapter 6: Storage
+

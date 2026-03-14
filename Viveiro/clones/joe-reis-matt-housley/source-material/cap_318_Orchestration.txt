@@ -1,0 +1,49 @@
+# Orchestration
+
+Paginas: 388-388
+
+• Data health and data downtime
+•
+• Latency of systems serving data—dashboards, databases, etc.
+•
+• Data quality
+•
+• Data and system security and access
+•
+• Data and model versions being served
+•
+• Uptime to achieve an SLO
+•
+A variety of new tools have sprung up to address various monitoring aspects. For
+example, many popular data observability tools aim to minimize data downtime
+and maximize data quality. Observability tools may cross over from data to ML, sup‐
+porting monitoring of models and model performance. More conventional DevOps
+monitoring is also critical to DataOps—e.g., you need to monitor whether connec‐
+tions are stable among storage, transformation, and serving.
+As in every stage of the data engineering lifecycle, version-control code and opera‐
+tionalize deployment. This applies to analytical code, data logic code, ML scripts, and
+orchestration jobs. Use multiple stages of deployment (dev, test, prod) for reports and
+models.
+Data Architecture
+Serving data should have the same architectural considerations as other data engi‐
+neering lifecycle stages. At the serving stage, feedback loops must be fast and tight.
+Users should be able to access the data they need as quickly as possible when they
+need it.
+Data scientists are notorious for doing most development on their local machines.
+As discussed earlier, encourage them to migrate these workflows to common sys‐
+tems in a cloud environment, where data teams can collaborate in dev, test, and
+production environments and create proper production architectures. Facilitate your
+analysts and data scientists by supporting tools for publishing data insights with little
+encumbrance.
+Orchestration
+Data serving is the last stage of the data engineering lifecycle. Because serving is
+downstream of so many processes, it’s an area of extremely complex overlap. Orches‐
+tration is not simply a way of organizing and automating complex work but a means
+of coordinating data flow across teams so that data is made available to consumers at
+the promised time.
+Ownership of orchestration is a key organizational decision. Will orchestration be
+centralized or decentralized? A decentralized approach allows small teams to manage
+Undercurrents
+|
+363
+

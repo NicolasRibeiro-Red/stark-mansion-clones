@@ -1,0 +1,53 @@
+# Team Size and Capabilities
+
+Paginas: 141-141
+
+development, and a lack of expertise in architecture. In practice, this prioritization
+of technology often means they cobble together a kind of Dr. Seuss fantasy machine
+rather than a true data architecture. We strongly advise against choosing technology
+before getting your architecture right. Architecture first, technology second.
+This chapter discusses our tactical plan for making technology choices once we have
+a strategic architecture blueprint. The following are some considerations for choosing
+data technologies across the data engineering lifecycle:
+• Team size and capabilities
+•
+• Speed to market
+•
+• Interoperability
+•
+• Cost optimization and business value
+•
+• Today versus the future: immutable versus transitory technologies
+•
+• Location (cloud, on prem, hybrid cloud, multicloud)
+•
+• Build versus buy
+•
+• Monolith versus modular
+•
+• Serverless versus servers
+•
+• Optimization, performance, and the benchmark wars
+•
+• The undercurrents of the data engineering lifecycle
+•
+Team Size and Capabilities
+The first thing you need to assess is your team’s size and its capabilities with technol‐
+ogy. Are you on a small team (perhaps a team of one) of people who are expected to
+wear many hats, or is the team large enough that people work in specialized roles?
+Will a handful of people be responsible for multiple stages of the data engineering
+lifecycle, or do people cover particular niches? Your team’s size will influence the
+types of technologies you adopt.
+There is a continuum of simple to complex technologies, and a team’s size roughly
+determines the amount of bandwidth your team can dedicate to complex solutions.
+We sometimes see small data teams read blog posts about a new cutting-edge tech‐
+nology at a giant tech company and then try to emulate these same extremely com‐
+plex technologies and practices. We call this cargo-cult engineering, and it’s generally
+a big mistake that consumes a lot of valuable time and money, often with little to
+nothing to show in return. Especially for small teams or teams with weaker technical
+chops, use as many managed and SaaS tools as possible, and dedicate your limited
+bandwidth to solving the complex problems that directly add value to the business.
+116
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+

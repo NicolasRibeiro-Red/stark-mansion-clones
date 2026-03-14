@@ -1,0 +1,182 @@
+# Evolution of the Data Engineer
+
+Paginas: 31-35
+
+Evolution of the Data Engineer
+History doesn’t repeat itself, but it rhymes.
+—A famous adage often attributed to Mark Twain
+Understanding data engineering today and tomorrow requires a context of how the
+field evolved. This section is not a history lesson, but looking at the past is invaluable
+in understanding where we are today and where things are going. A common theme
+constantly reappears: what’s old is new again.
+The early days: 1980 to 2000, from data warehousing to the web
+The birth of the data engineer arguably has its roots in data warehousing, dating as
+far back as the 1970s, with the business data warehouse taking shape in the 1980s
+and Bill Inmon officially coining the term data warehouse in 1989. After engineers
+at IBM developed the relational database and Structured Query Language (SQL),
+Oracle popularized the technology. As nascent data systems grew, businesses needed
+dedicated tools and data pipelines for reporting and business intelligence (BI). To
+help people correctly model their business logic in the data warehouse, Ralph Kimball
+and Inmon developed their respective eponymous data-modeling techniques and
+approaches, which are still widely used today.
+Data warehousing ushered in the first age of scalable analytics, with new massively
+parallel processing (MPP) databases that use multiple processors to crunch large
+amounts of data coming on the market and supporting unprecedented volumes
+of data. Roles such as BI engineer, ETL developer, and data warehouse engineer
+addressed the various needs of the data warehouse. Data warehouse and BI engineer‐
+ing were a precursor to today’s data engineering and still play a central role in the
+discipline.
+The internet went mainstream around the mid-1990s, creating a whole new genera‐
+tion of web-first companies such as AOL, Yahoo, and Amazon. The dot-com boom
+spawned a ton of activity in web applications and the backend systems to support
+them—servers, databases, and storage. Much of the infrastructure was expensive,
+monolithic, and heavily licensed. The vendors selling these backend systems likely
+didn’t foresee the sheer scale of the data that web applications would produce.
+The early 2000s: The birth of contemporary data engineering
+Fast-forward to the early 2000s, when the dot-com boom of the late ’90s went bust,
+leaving behind a tiny cluster of survivors. Some of these companies, such as Yahoo,
+Google, and Amazon, would grow into powerhouse tech companies. Initially, these
+companies continued to rely on the traditional monolithic, relational databases and
+data warehouses of the 1990s, pushing these systems to the limit. As these systems
+6
+|
+Chapter 1: Data Engineering Described
+
+6 Cade Metz, “How Yahoo Spawned Hadoop, the Future of Big Data,” Wired, October 18, 2011,
+https://oreil.ly/iaD9G.
+7 Ron Miller, “How AWS Came to Be,” TechCrunch, July 2, 2016, https://oreil.ly/VJehv.
+buckled, updated approaches were needed to handle data growth. The new genera‐
+tion of the systems must be cost-effective, scalable, available, and reliable.
+Coinciding with the explosion of data, commodity hardware—such as servers, RAM,
+disks, and flash drives—also became cheap and ubiquitous. Several innovations
+allowed distributed computation and storage on massive computing clusters at a
+vast scale. These innovations started decentralizing and breaking apart traditionally
+monolithic services. The “big data” era had begun.
+The Oxford English Dictionary defines big data as “extremely large data sets that may
+be analyzed computationally to reveal patterns, trends, and associations, especially
+relating to human behavior and interactions.” Another famous and succinct descrip‐
+tion of big data is the three Vs of data: velocity, variety, and volume.
+In 2003, Google published a paper on the Google File System, and shortly after
+that, in 2004, a paper on MapReduce, an ultra-scalable data-processing paradigm.
+In truth, big data has earlier antecedents in MPP data warehouses and data manage‐
+ment for experimental physics projects, but Google’s publications constituted a “big
+bang” for data technologies and the cultural roots of data engineering as we know it
+today. You’ll learn more about MPP systems and MapReduce in Chapters 3 and 8,
+respectively.
+The Google papers inspired engineers at Yahoo to develop and later open source
+Apache Hadoop in 2006.6 It’s hard to overstate the impact of Hadoop. Software
+engineers interested in large-scale data problems were drawn to the possibilities of
+this new open source technology ecosystem. As companies of all sizes and types
+saw their data grow into many terabytes and even petabytes, the era of the big data
+engineer was born.
+Around the same time, Amazon had to keep up with its own exploding data needs
+and created elastic computing environments (Amazon Elastic Compute Cloud, or
+EC2), infinitely scalable storage systems (Amazon Simple Storage Service, or S3),
+highly scalable NoSQL databases (Amazon DynamoDB), and many other core data
+building blocks.7 Amazon elected to offer these services for internal and external
+consumption through Amazon Web Services (AWS), becoming the first popular
+public cloud. AWS created an ultra-flexible pay-as-you-go resource marketplace by
+virtualizing and reselling vast pools of commodity hardware. Instead of purchasing
+hardware for a data center, developers could simply rent compute and storage from
+AWS.
+What Is Data Engineering?
+|
+7
+
+As AWS became a highly profitable growth engine for Amazon, other public clouds
+would soon follow, such as Google Cloud, Microsoft Azure, and DigitalOcean. The
+public cloud is arguably one of the most significant innovations of the 21st century
+and spawned a revolution in the way software and data applications are developed
+and deployed.
+The early big data tools and public cloud laid the foundation for today’s data ecosys‐
+tem. The modern data landscape—and data engineering as we know it now—would
+not exist without these innovations.
+The 2000s and 2010s: Big data engineering
+Open source big data tools in the Hadoop ecosystem rapidly matured and spread
+from Silicon Valley to tech-savvy companies worldwide. For the first time, any busi‐
+ness had access to the same bleeding-edge data tools used by the top tech companies.
+Another revolution occurred with the transition from batch computing to event
+streaming, ushering in a new era of big “real-time” data. You’ll learn about batch and
+event streaming throughout this book.
+Engineers could choose the latest and greatest—Hadoop, Apache Pig, Apache Hive,
+Dremel, Apache HBase, Apache Storm, Apache Cassandra, Apache Spark, Presto,
+and numerous other new technologies that came on the scene. Traditional enterprise-
+oriented and GUI-based data tools suddenly felt outmoded, and code-first engineer‐
+ing was in vogue with the ascendance of MapReduce. We (the authors) were around
+during this time, and it felt like old dogmas died a sudden death upon the altar of big
+data.
+The explosion of data tools in the late 2000s and 2010s ushered in the big data
+engineer. To effectively use these tools and techniques—namely, the Hadoop eco‐
+system including Hadoop, YARN, Hadoop Distributed File System (HDFS), and
+MapReduce—big data engineers had to be proficient in software development and
+low-level infrastructure hacking, but with a shifted emphasis. Big data engineers
+typically maintained massive clusters of commodity hardware to deliver data at scale.
+While they might occasionally submit pull requests to Hadoop core code, they shifted
+their focus from core technology development to data delivery.
+Big data quickly became a victim of its own success. As a buzzword, big data gained
+popularity during the early 2000s through the mid-2010s. Big data captured the
+imagination of companies trying to make sense of the ever-growing volumes of data
+and the endless barrage of shameless marketing from companies selling big data tools
+and services. Because of the immense hype, it was common to see companies using
+big data tools for small data problems, sometimes standing up a Hadoop cluster to
+process just a few gigabytes. It seemed like everyone wanted in on the big data action.
+Dan Ariely tweeted, “Big data is like teenage sex: everyone talks about it, nobody
+8
+|
+Chapter 1: Data Engineering Described
+
+really knows how to do it, everyone thinks everyone else is doing it, so everyone
+claims they are doing it.”
+Figure 1-2 shows a snapshot of Google Trends for the search term “big data” to get an
+idea of the rise and fall of big data.
+Figure 1-2. Google Trends for “big data” (March 2022)
+Despite the term’s popularity, big data has lost steam. What happened? One word:
+simplification. Despite the power and sophistication of open source big data tools,
+managing them was a lot of work and required constant attention. Often, companies
+employed entire teams of big data engineers, costing millions of dollars a year, to
+babysit these platforms. Big data engineers often spent excessive time maintaining
+complicated tooling and arguably not as much time delivering the business’s insights
+and value.
+Open source developers, clouds, and third parties started looking for ways to abstract,
+simplify, and make big data available without the high administrative overhead and
+cost of managing their clusters, and installing, configuring, and upgrading their open
+source code. The term big data is essentially a relic to describe a particular time and
+approach to handling large amounts of data.
+Today, data is moving faster than ever and growing ever larger, but big data process‐
+ing has become so accessible that it no longer merits a separate term; every company
+aims to solve its data problems, regardless of actual data size. Big data engineers are
+now simply data engineers.
+What Is Data Engineering?
+|
+9
+
+8 DataOps is an abbreviation for data operations. We cover this topic in Chapter 2. For more information, read
+the DataOps Manifesto.
+The 2020s: Engineering for the data lifecycle
+At the time of this writing, the data engineering role is evolving rapidly. We expect
+this evolution to continue at a rapid clip for the foreseeable future. Whereas data
+engineers historically tended to the low-level details of monolithic frameworks such
+as Hadoop, Spark, or Informatica, the trend is moving toward decentralized, modu‐
+larized, managed, and highly abstracted tools.
+Indeed, data tools have proliferated at an astonishing rate (see Figure 1-3). Popular
+trends in the early 2020s include the modern data stack, representing a collection
+of off-the-shelf open source and third-party products assembled to make analysts’
+lives easier. At the same time, data sources and data formats are growing both in
+variety and size. Data engineering is increasingly a discipline of interoperation, and
+connecting various technologies like LEGO bricks, to serve ultimate business goals.
+Figure 1-3. Matt Turck’s Data Landscape in 2012 versus 2021
+The data engineer we discuss in this book can be described more precisely as a data
+lifecycle engineer. With greater abstraction and simplification, a data lifecycle engineer
+is no longer encumbered by the gory details of yesterday’s big data frameworks.
+While data engineers maintain skills in low-level data programming and use these as
+required, they increasingly find their role focused on things higher in the value chain:
+security, data management, DataOps, data architecture, orchestration, and general
+data lifecycle management.8
+As tools and workflows simplify, we’ve seen a noticeable shift in the attitudes of
+data engineers. Instead of focusing on who has the “biggest data,” open source
+projects and services are increasingly concerned with managing and governing data,
+making it easier to use and discover, and improving its quality. Data engineers are
+10
+|
+Chapter 1: Data Engineering Described
+

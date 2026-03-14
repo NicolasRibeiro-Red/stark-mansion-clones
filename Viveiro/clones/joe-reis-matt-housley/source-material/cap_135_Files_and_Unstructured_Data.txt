@@ -1,0 +1,43 @@
+# Files and Unstructured Data
+
+Paginas: 181-181
+
+As data proliferates, especially with the rise of data sharing (discussed next), we
+expect that a data engineer’s role will shift heavily toward understanding the interplay
+between data sources and destinations. The basic plumbing tasks of data engineer‐
+ing—moving data from A to B—will simplify dramatically. On the other hand, it will
+remain critical to understand the nature of data as it’s created in source systems.
+Sources of Data: How Is Data Created?
+As you learn about the various underlying operational patterns of the systems that
+generate data, it’s essential to understand how data is created. Data is an unorganized,
+context-less collection of facts and figures. It can be created in many ways, both
+analog and digital.
+Analog data creation occurs in the real world, such as vocal speech, sign language,
+writing on paper, or playing an instrument. This analog data is often transient; how
+often have you had a verbal conversation whose contents are lost to the ether after the
+conversation ends?
+Digital data is either created by converting analog data to digital form or is the native
+product of a digital system. An example of analog to digital is a mobile texting app
+that converts analog speech into digital text. An example of digital data creation is a
+credit card transaction on an ecommerce platform. A customer places an order, the
+transaction is charged to their credit card, and the information for the transaction is
+saved to various databases.
+We’ll utilize a few common examples in this chapter, such as data created when
+interacting with a website or mobile application. But in truth, data is everywhere
+in the world around us. We capture data from IoT devices, credit card terminals,
+telescope sensors, stock trades, and more.
+Get familiar with your source system and how it generates data. Put in the effort
+to read the source system documentation and understand its patterns and quirks. If
+your source system is an RDBMS, learn how it operates (writes, commits, queries,
+etc.); learn the ins and outs of the source system that might affect your ability to
+ingest from it.
+Source Systems: Main Ideas
+Source systems produce data in various ways. This section discusses the main ideas
+you’ll frequently encounter as you work with source systems.
+Files and Unstructured Data
+A file is a sequence of bytes, typically stored on a disk. Applications often write data
+to files. Files may store local parameters, events, logs, images, and audio.
+156
+|
+Chapter 5: Data Generation in Source Systems
+

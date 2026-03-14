@@ -1,0 +1,230 @@
+# 7. O que fazer com o Quarto Quadrante
+
+Paginas: 394-400
+
+7. O que fazer com o Quarto Quadrante
+NÃO USAR O MAPA ERRADO: A NOÇÃO DE IATROGENIA
+Portanto, por ora posso produzir regras fronéticas (no sentido aristotélico da
+phronesis, frônese, a sabedoria para tomar decisões). Talvez a história da minha
+vida esteja no seguinte dilema: parafraseando Danny Kahneman, em busca de
+conforto psicológico algumas pessoas prefeririam recorrer a um mapa dos
+Pireneus enquanto estão perdidas nos Alpes a não usar nada. Eles não fazem isso
+de forma explícita, mas na verdade fazem coisa até pior quando lidam com o
+futuro e usam medidas de risco. Preferem uma previsão defeituosa a nada. Então,
+proporcionar a um otário uma medida probabilística é tiro e queda para
+convencê-lo a correr mais riscos. Eu estava planejando realizar um teste com Dan
+Goldstein (como parte dos nossos programas gerais de pesquisa para
+compreender as intuições dos humanos no Extremistão). Danny (ele é um ótimo
+companheiro de caminhadas, mas não sabe ﬂâner, andar sem rumo certo) insistiu
+que não era necessário fazer nossos próprios experimentos. Existem muitas
+pesquisas sobre ancoragem que comprovam a toxicidade de dar a alguém uma
+estimativa numérica de risco equivocada. Numerosos experimentos fornecem
+evidências de que os proﬁssionais são signiﬁcativamente inﬂuenciados por
+números que eles sabem ser irrelevantes para sua decisão, como anotar os quatro
+últimos dígitos do 5pG antes de fazer uma estimativa numérica dos potenciais
+movimentos do mercado. Pessoas muito respeitáveis, os magistrados alemães que
+jogavam dados antes de tomar suas decisões redigiam sentenças 50% mais longas
+quando os dados mostravam um número alto, sem terem consciência disso.
+Conselho negativo
+Simplesmente, não entre no Quarto Quadrante, o Domínio do Cisne Negro.
+Mas é difícil seguir esse conselho sensato.
+
+Os psicólogos fazem uma distinção entre atos de comissão (o que fazemos, o
+cometimento) e atos de omissão. Embora sejam, do ponto de vista econômico,
+equivalentes para o resultado ﬁnal (tostão poupado, tostão ganho), não são
+tratados da mesma forma em nossa mente. Porém, como eu disse, recomendações
+do estilo “Não faça” são mais robustas empiricamente. Como é que se faz para
+viver muito tempo? Evitando a morte. Todavia, as pessoas não percebem que o
+sucesso consiste principalmente em evitar perdas, não em tentar obter lucros.
+O conselho positivo geralmente é a província do charlatão. As livrarias estão
+abarrotadas de livros sobre como alguém se tornou bem-sucedido; quase não há
+livros com o título O que aprendi indo à falência, ou Dez erros a se evitar na vida.
+Ligada a essa necessidade de aconselhamento positivo está a preferência de
+que temos que fazer algo em vez de nada, mesmo nos casos em que fazer algo é
+prejudicial.
+Estive recentemente na ~, e algum sujeito do tipo zero à esquerda metido a
+besta ﬁcou me amolando para dar conselhos precisos sobre como sair da crise.
+Foi impossível comunicar meu conselho sobre “o que não fazer”, ou apontar que
+minha área não é a da cirurgia de emergência, e sim a de prevenir erro, a qual
+poderia ser uma disciplina autônoma igualmente digna. Na verdade, passei doze
+anos tentando explicar que em muitos casos era melhor — e mais sábio — não ter
+modelo nenhum do que ter as acrobacias matemáticas que foram criadas.
+Infelizmente, essa falta de rigor toma conta do lugar onde menos esperamos
+encontrá-la: a ciência institucional. A ciência, em especial sua versão acadêmica,
+nunca gostou de resultados negativos, muito menos da declaração e publicidade
+de seus próprios limites. O sistema de recompensas não está conﬁgurado para
+isso. Você ganha respeito por praticar funambulismo ou esportes radicais —
+seguindo os passos certos para se tornar “o Einstein da economia” ou “o próximo
+Darwin” em vez de dar à sociedade algo real, desmascarando mitos ou
+catalogando os pontos de paralisia do nosso conhecimento.
+Permita-me voltar ao limite de Gödel. Em alguns casos aceitamos os limites do
+conhecimento, alardeando, digamos, o limite matemático da “descoberta
+inovadora” de Gödel porque mostra elegância na formulação e na proeza
+matemática — embora a importância desse limite seja ofuscada por nossos limites
+práticos em prever mudanças climáticas, crises, instabilidades sociais ou o
+destino dos fundos patrimoniais que ﬁnanciarão pesquisas sobre esses “elegantes”
+limites futuros. É por isso que aﬁrmo que minha solução do Quarto Quadrante é
+a mais aplicada desses limites.
+
+Iatrogenia e o rótulo do niilismo
+Vamos ponderar sobre a medicina (aquela irmã da ﬁlosoﬁa), que só começou a
+salvar vidas há menos de um século (sou generoso), e em menor grau do que
+inicialmente alardeado pela literatura popular, uma vez que a queda nas taxas de
+mortalidade parece resultar muito mais do saneamento e da descoberta
+(aleatória) de antibióticos do que de contribuições terapêuticas. Os médicos,
+movidos pela abominável ilusão de controle, passaram um bocado de tempo
+matando pacientes, sem levar em consideração que “não fazer nada” poderia ser
+uma opção válida (era “niilista”) — e pesquisas compiladas por Spyros Makridakis
+mostram que em certa medida eles ainda fazem isso, principalmente nos
+sobrediagnósticos de algumas doenças.
+O rótulo de niilismo sempre foi usado para causar danos. Os praticantes que
+eram conservadores e cogitavam a possibilidade de deixar a natureza fazer o seu
+trabalho, ou que asseveravam os limites do nosso conhecimento médico, eram,
+até a década de 1960, acusados de “niilismo terapêutico”. Considerava-se “não
+cientíﬁco” aquele que evitava arriscar-se na aventura de iniciar uma linha de
+conduta com base em um entendimento incompleto do corpo humano — aquele
+que dizia: “Este é o limite; meu corpo de conhecimento só vai até aqui”. O rótulo
+foi usado contra este autor por intelectuais fraudadores tentando vender
+produtos.
+O próprio termo iatrogenia, ou seja, o estudo dos danos causados pelo
+curador, não é muito difundido — nunca o vi usado fora da medicina. Apesar da
+minha obsessão ao longo da vida com o que é chamado de erro do tipo 1, ou o
+falso positivo, só fui apresentado ao conceito de dano iatrogênico muito
+recentemente, graças a uma conversa com o ensaísta Bryan Appleyard. Como é
+possível que uma ideia tão importante permaneça oculta de nossa consciência?
+Mesmo na medicina, isto é, a medicina moderna, o antigo conceito “primeiro,
+não faça mal” só se inﬁltrou, sorrateiramente, muito tarde. O ﬁlósofo da ciência
+Georges Canguilhem não entendia por que a ideia só tinha vindo à baila na
+década de 1950. Isto, para mim, é um mistério: como os proﬁssionais podem
+causar danos por tanto tempo em nome do conhecimento e sair impunes.
+É triste, mas uma investigação mais aprofundada mostra que essas iatrogenias
+foram meras redescobertas após a ciência ter se tornado arrogante demais por
+obra do Iluminismo. É triste, mais uma vez, o fato de que os antigos tinham mais
+discernimento do que nós — gregos, romanos, bizantinos e árabes tinham um
+respeito intrínseco pelos limites do conhecimento. Há um tratado do ﬁlósofo e
+
+médico árabe medieval Al-Ruhawi que revela a familiaridade dessas culturas
+mediterrâneas com a iatrogenia. Eu também, no passado, especulei que a religião
+salvou vidas ao afastar o paciente do médico. Uma pessoa poderia satisfazer sua
+ilusão de controle indo ao Templo de Apolo em vez de se consultar com um
+médico. O que é interessante é que os antigos mediterrâneos talvez tenham
+entendido muito bem as compensações envolvidas nessa escolha e podem ter
+aceitado a religião em parte como uma ferramenta para domar a ilusão de
+controle.
+Você não pode fazer nada com conhecimento a menos que saiba onde é o
+limite dele, bem como os custos de usá-lo. A ciência pós-iluminista e sua ﬁlha, a
+ciência superestrela, tiveram sorte de se sair bem em física (linear), química e
+engenharia. Todavia, em algum momento precisamos desistir da elegância para
+nos concentrarmos em algo que durante muito tempo recebeu pouca atenção: os
+mapas mostrando o que o conhecimento atual e os métodos atuais não fazem por
+nós; e um estudo rigoroso de iatrogenia cientíﬁca generalizada, mostrando quais
+danos podem ser causados pela ciência (ou, melhor, uma exposição dos danos
+que foram causados pela ciência). Creio que é a mais respeitável das empreitadas.
+Iatrogenia de reguladores. Infelizmente, o apelo por mais regulamentação
+(incondicional) da atividade econômica parece ser uma resposta normal. Meus
+piores pesadelos têm sido os resultados dos reguladores. Foram eles que
+promoveram a conﬁança nas classiﬁcações de agências de crédito e a “medição de
+risco” que fragilizaram o sistema à medida que os banqueiros os usavam para
+construir posições que deterioram. No entanto, sempre que há um problema,
+fazemos a coisa ao estilo soviético de Harvard com mais regulamentação, o que
+enriquece os banqueiros de investimentos, advogados e ex-reguladores que se
+tornaram consultores de Wall Street. Isso também serve a interesses de outros
+grupos.
+REGRAS FRONÉTICAS: O QUE É SÁBIO FAZER (OU NÃO FAZER) NA VIDA REAL PARA
+MITIGAR O QUARTO QUADRANTE SE VOCÊ NÃO CONSEGUE USAR A ESTRATÉGIA
+BARBELL?
+A maneira mais óbvia de sair do Quarto Quadrante é “truncar”, cortar certas
+exposições através da compra de seguro, quando disponível, colocando-se na
+situação de barbell descrita no capítulo 13. Mas se você não for capaz de recorrer
+à estratégia barbell e não conseguir evitar a exposição, como no caso, digamos, de
+noções climáticas, exposição a epidemias e itens semelhantes da tabela anterior,
+então pode adotar as seguintes regras de “sabedoria” para aumentar a robustez.
+
+1. Tenha respeito pelo tempo e pelos conhecimentos não demonstrativos.
+Lembre-se do meu respeito pela Mãe Terra — simplesmente por causa da
+idade dela. Leva muito, muito mais tempo para que uma série de dados no
+Quarto Quadrante revele suas propriedades. Eu vinha reclamando com
+veemência que essa compensação para executivos de bancos, que estão
+diretamente no Quarto Quadrante, é feita em uma janela de curto prazo,
+digamos uma vez por ano, por coisas que explodem a cada cinco, dez ou quinze
+anos, causando uma discrepância entre a janela de observação e a janela de
+comprimento suﬁciente para revelar as propriedades. Os banqueiros ﬁcam ricos
+apesar dos retornos negativos de longo prazo.
+Coisas que já funcionam há muito tempo são preferíveis — é mais provável
+que tenham atingido seus estados ergódicos. Na pior das hipóteses, não sabemos
+quanto tempo durarão.1
+Lembre-se de que o ônus da prova recai sobre alguém que perturba um
+sistema complexo, não sobre a pessoa que protege o status quo.
+2. Evite a otimização; Aprenda a amar a redundância.
+Discuti redundância e otimização na seção 1. Tenho mais algumas coisas a
+dizer.
+A redundância (em termos de ter economias e guardar dinheiro debaixo do
+colchão) é o oposto de dívida. Os psicólogos dizem que ﬁcar rico não traz
+felicidade — se você gastar suas economias. Mas se você esconder seu pé de meia
+embaixo do colchão, será menos vulnerável a um Cisne Negro.
+Além disso, por exemplo, a pessoa pode comprar um seguro, ou construí-lo,
+para robustecer um portfólio de investimentos.
+A superespecialização também não é uma boa ideia. Pense no que pode
+acontecer se você ﬁcar completamente sem trabalho. Em uma crise ﬁnanceira,
+alguém que atua como analista de Wall Street (do tipo que se especializa em
+previsões) e faz um bico como dançarina do ventre se sairá muito melhor do que
+alguém que é apenas um analista.
+3. Evite a previsão de recompensas de pequena probabilidade — embora não
+necessariamente das comuns.
+Obviamente, os resultados de eventos remotos são mais difíceis de prever.
+4. Cuidado com a “atipicidade” de eventos remotos.
+
+Existem métodos de otários chamados de “análises de cenário” e “testes de
+estresse” — geralmente baseados no passado (ou em alguma teoria do tipo “faz
+sentido”). No entanto (e já mostrei como), déﬁcits passados não preveem perdas
+futuras, por isso não sabemos exatamente onde aplicar os testes de estresse. Da
+mesma forma, “mercados de previsão” não funcionam aqui, uma vez que as
+apostas não protegem uma exposição em aberto. Podem até funcionar para uma
+eleição binária, mas não no Quarto Quadrante.
+5. Cuidado com o risco moral com pagamentos de bônus.
+É ótimo ganhar uma série de bônus apostando em riscos ocultos no Quarto
+Quadrante, depois explodir e escrever uma carta de agradecimento. Isso é
+chamado de argumento do risco moral. Os banqueiros sempre permanecem ricos
+por causa dessa incompatibilidade de boniﬁcações. Na verdade, a sociedade
+acaba pagando por isso. O mesmo se aplica a executivos de empresas.
+6. Evite algumas métricas de risco.
+Métricas convencionais, baseadas no Mediocristão, ajustadas para grandes
+desvios, não funcionam. É aqui que os otários caem na armadilha — de
+proporções muito maiores do que apenas presumir algo diferente da curva em
+forma de sino gaussiana. Palavras como “desvio-padrão” não são estáveis e não
+medem coisa alguma no Quarto Quadrante. Tampouco “regressão linear” (os
+erros estão no quarto Quadrante), “índice de Sharpe”, portfólio ótimo de
+Markowitz, análise de variância )`f) uma ova, quadrado mínimo ou
+literalmente qualquer coisa extraída mecanicamente de um livro de estatística.
+Meu problema é que as pessoas podem aceitar o papel de eventos raros,
+concordar comigo, e ainda assim usar essas métricas, o que me leva a imaginar se
+isso seria um distúrbio psicológico.
+7. Cisne Negro positivo ou negativo?
+Claramente, o Quarto Quadrante pode apresentar exposições positivas ou
+negativas ao Cisne Negro; se a exposição for negativa, é mais provável que a
+verdadeira média seja subestimada pela medição de realizações anteriores, e, da
+mesma forma, o potencial total também será medido de forma inadequada.
+A expectativa de vida dos humanos não é tão longa quanto suspeitamos (no
+reinado da globalização) porque os dados deixam passar em branco algo
+essencial: a grande epidemia (que supera em muito os ganhos resultantes das
+
+curas). A mesma coisa se aplica, como vimos, aos retornos dos investimentos de
+risco.
+Por outro lado, empreendimentos de pesquisa mostram uma história pregressa
+menos auspiciosa. Uma empresa de biotecnologia (geralmente) enfrenta
+incertezas positivas, enquanto um banco enfrenta quase exclusivamente choques
+negativos.
+Erros de modelo beneﬁciam aqueles que estão expostos a Cisnes Negros
+positivos. Em minha nova pesquisa, chamo isso de ser “côncavo” ou “convexo” ao
+erro de modelo.
+8. Não confunda ausência de volatilidade com ausência de risco.
+Métricas convencionais que usam a volatilidade como um indicador de
+estabilidade nos enganam, porque a evolução para o Extremistão é marcada por
+uma redução da volatilidade — e um risco maior de grandes saltos. Isso enganou
+um presidente do Federal Reserve chamado Ben Bernanke — bem como todo o
+sistema bancário. E vai enganar novamente.
+9. Cuidado com as apresentações de números de risco.
+Apresentei anteriormente os resultados que mostram como a percepção de
+risco está sujeita a questões de enquadramento que são agudas no Quarto
+Quadrante. São muito mais benevolentes em outros lugares.
+

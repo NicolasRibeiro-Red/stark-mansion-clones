@@ -1,0 +1,42 @@
+# Conclusion
+
+Paginas: 56-56
+
+Data engineers and other management roles
+Data engineers interact with various managers beyond project and product managers.
+However, these interactions usually follow either the services or cross-functional
+models. Data engineers either serve a variety of incoming requests as a centralized
+team or work as a resource assigned to a particular manager, project, or product.
+For more information on data teams and how to structure them, we recommend
+John Thompson’s Building Analytics Teams (Packt) and Jesse Anderson’s Data Teams
+(Apress). Both books provide strong frameworks and perspectives on the roles of
+executives with data, who to hire, and how to construct the most effective data team
+for your company.
+Companies don’t hire engineers simply to hack on code in isola‐
+tion. To be worthy of their title, engineers should develop a deep
+understanding of the problems they’re tasked with solving, the
+technology tools at their disposal, and the people they work with
+and serve.
+Conclusion
+This chapter provided you with a brief overview of the data engineering landscape,
+including the following:
+• Defining data engineering and describing what data engineers do
+•
+• Describing the types of data maturity in a company
+•
+• Type A and type B data engineers
+•
+• Whom data engineers work with
+•
+We hope that this first chapter has whetted your appetite, whether you are a soft‐
+ware development practitioner, data scientist, ML engineer, business stakeholder,
+entrepreneur, or venture capitalist. Of course, a great deal still remains to elucidate
+in subsequent chapters. Chapter 2 covers the data engineering lifecycle, followed
+by architecture in Chapter 3. The following chapters get into the nitty-gritty of
+technology decisions for each part of the lifecycle. The entire data field is in flux, and
+as much as possible, each chapter focuses on the immutables—perspectives that will
+be valid for many years amid relentless change.
+Conclusion
+|
+31
+

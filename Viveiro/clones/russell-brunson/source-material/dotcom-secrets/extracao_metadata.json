@@ -1,0 +1,282 @@
+{
+  "titulo": "",
+  "autor": "",
+  "total_paginas": 243,
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "Title",
+      "paginas": "4-5",
+      "arquivo": "cap_01_Title.txt"
+    },
+    {
+      "numero": 2,
+      "titulo": "Copyright",
+      "paginas": "6-8",
+      "arquivo": "cap_02_Copyright.txt"
+    },
+    {
+      "numero": 3,
+      "titulo": "Table of Contents",
+      "paginas": "9-12",
+      "arquivo": "cap_03_Table_of_Contents.txt"
+    },
+    {
+      "numero": 4,
+      "titulo": "Foreword What The ‘Online Marketing Wizard Fraternity’ Doesn’t Want You To Know (and: is THIS book a ‘fraud’?)",
+      "paginas": "13-16",
+      "arquivo": "cap_04_Foreword_What_The_Online_Marketing_Wizard_Fraterni.txt"
+    },
+    {
+      "numero": 5,
+      "titulo": "What This Book Is About (and What It’s NOT About)",
+      "paginas": "17-19",
+      "arquivo": "cap_05_What_This_Book_Is_About_and_What_Its_NOT_About.txt"
+    },
+    {
+      "numero": 6,
+      "titulo": "Introduction",
+      "paginas": "20-28",
+      "arquivo": "cap_06_Introduction.txt"
+    },
+    {
+      "numero": 7,
+      "titulo": "Section One: Ladders and Funnels",
+      "paginas": "29-29",
+      "arquivo": "cap_07_Section_One_Ladders_and_Funnels.txt"
+    },
+    {
+      "numero": 8,
+      "titulo": "Secret #1: The Secret Formula",
+      "paginas": "30-35",
+      "arquivo": "cap_08_Secret_1_The_Secret_Formula.txt"
+    },
+    {
+      "numero": 9,
+      "titulo": "Secret #2: The Value Ladder",
+      "paginas": "36-47",
+      "arquivo": "cap_09_Secret_2_The_Value_Ladder.txt"
+    },
+    {
+      "numero": 10,
+      "titulo": "Secret #3: From a Ladder to a Funnel",
+      "paginas": "48--2",
+      "arquivo": "cap_10_Secret_3_From_a_Ladder_to_a_Funnel.txt"
+    },
+    {
+      "numero": 11,
+      "titulo": "Section One: Ladders and Funnels",
+      "paginas": "-1-52",
+      "arquivo": "cap_11_Section_One_Ladders_and_Funnels.txt"
+    },
+    {
+      "numero": 12,
+      "titulo": "Secret #4: How to Find Your Dream Customers",
+      "paginas": "53-60",
+      "arquivo": "cap_12_Secret_4_How_to_Find_Your_Dream_Customers.txt"
+    },
+    {
+      "numero": 13,
+      "titulo": "Secret #5: The Tree Types of Traffic",
+      "paginas": "61-66",
+      "arquivo": "cap_13_Secret_5_The_Tree_Types_of_Traffic.txt"
+    },
+    {
+      "numero": 14,
+      "titulo": "Section Two: Your Communication Funnel",
+      "paginas": "67-67",
+      "arquivo": "cap_14_Section_Two_Your_Communication_Funnel.txt"
+    },
+    {
+      "numero": 15,
+      "titulo": "Secret #6: The Attractive Character",
+      "paginas": "68-80",
+      "arquivo": "cap_15_Secret_6_The_Attractive_Character.txt"
+    },
+    {
+      "numero": 16,
+      "titulo": "Secret #7: The Soap Opera Sequence",
+      "paginas": "81-94",
+      "arquivo": "cap_16_Secret_7_The_Soap_Opera_Sequence.txt"
+    },
+    {
+      "numero": 17,
+      "titulo": "Secret #8: Daily Seinfeld Sequence",
+      "paginas": "95-106",
+      "arquivo": "cap_17_Secret_8_Daily_Seinfeld_Sequence.txt"
+    },
+    {
+      "numero": 18,
+      "titulo": "Section Three: Funnelology Leading Your Customers 99 to the Sale (Over and Over Again)",
+      "paginas": "107-107",
+      "arquivo": "cap_18_Section_Three_Funnelology_Leading_Your_Customers_9.txt"
+    },
+    {
+      "numero": 19,
+      "titulo": "Secret #9: Reverse Engineering a Successful Funnel",
+      "paginas": "108-117",
+      "arquivo": "cap_19_Secret_9_Reverse_Engineering_a_Successful_Funnel.txt"
+    },
+    {
+      "numero": 20,
+      "titulo": "Secret #10: Seven Phases of a Funnel",
+      "paginas": "118-132",
+      "arquivo": "cap_20_Secret_10_Seven_Phases_of_a_Funnel.txt"
+    },
+    {
+      "numero": 21,
+      "titulo": "Secret #11: The Twenty-Three Building Blocks of a Funnel",
+      "paginas": "133--2",
+      "arquivo": "cap_21_Secret_11_The_Twenty-Three_Building_Blocks_of_a_Fu.txt"
+    },
+    {
+      "numero": 22,
+      "titulo": "Section Three: Funnelology Leading Your Customers 99 to the Sale (Over and Over Again)",
+      "paginas": "-1-154",
+      "arquivo": "cap_22_Section_Three_Funnelology_Leading_Your_Customers_9.txt"
+    },
+    {
+      "numero": 23,
+      "titulo": "Secret #12: Frontend vs. Backend Funnels",
+      "paginas": "155-159",
+      "arquivo": "cap_23_Secret_12_Frontend_vs_Backend_Funnels.txt"
+    },
+    {
+      "numero": 24,
+      "titulo": "Secret #13: The Best Bait",
+      "paginas": "160-167",
+      "arquivo": "cap_24_Secret_13_The_Best_Bait.txt"
+    },
+    {
+      "numero": 25,
+      "titulo": "Section Four: Funnels and Scripts",
+      "paginas": "168-169",
+      "arquivo": "cap_25_Section_Four_Funnels_and_Scripts.txt"
+    },
+    {
+      "numero": 26,
+      "titulo": "Frontend Funnels",
+      "paginas": "170-170",
+      "arquivo": "cap_26_Frontend_Funnels.txt"
+    },
+    {
+      "numero": 27,
+      "titulo": "Funnel #1: Two-Step, Free-Plus-Shipping",
+      "paginas": "171-179",
+      "arquivo": "cap_27_Funnel_1_Two-Step_Free-Plus-Shipping.txt"
+    },
+    {
+      "numero": 28,
+      "titulo": "Funnel #2: Self-Liquidating Offer",
+      "paginas": "180-191",
+      "arquivo": "cap_28_Funnel_2_Self-Liquidating_Offer.txt"
+    },
+    {
+      "numero": 29,
+      "titulo": "Funnel #3: Continuity",
+      "paginas": "192-193",
+      "arquivo": "cap_29_Funnel_3_Continuity.txt"
+    },
+    {
+      "numero": 30,
+      "titulo": "Funnels for the Middle of the Value Ladder",
+      "paginas": "194-194",
+      "arquivo": "cap_30_Funnels_for_the_Middle_of_the_Value_Ladder.txt"
+    },
+    {
+      "numero": 31,
+      "titulo": "Funnel #4: The Perfect Webinar",
+      "paginas": "195--2",
+      "arquivo": "cap_31_Funnel_4_The_Perfect_Webinar.txt"
+    },
+    {
+      "numero": 32,
+      "titulo": "Section Four: Funnels and Scripts",
+      "paginas": "-1--2",
+      "arquivo": "cap_32_Section_Four_Funnels_and_Scripts.txt"
+    },
+    {
+      "numero": 33,
+      "titulo": "Funnels for the Middle of the Value Ladder",
+      "paginas": "-1-203",
+      "arquivo": "cap_33_Funnels_for_the_Middle_of_the_Value_Ladder.txt"
+    },
+    {
+      "numero": 34,
+      "titulo": "Funnel #5: Invisible Funnel Webinar",
+      "paginas": "204-215",
+      "arquivo": "cap_34_Funnel_5_Invisible_Funnel_Webinar.txt"
+    },
+    {
+      "numero": 35,
+      "titulo": "Funnel #6: Product Launch",
+      "paginas": "216-220",
+      "arquivo": "cap_35_Funnel_6_Product_Launch.txt"
+    },
+    {
+      "numero": 36,
+      "titulo": "Backend Funnel",
+      "paginas": "221-221",
+      "arquivo": "cap_36_Backend_Funnel.txt"
+    },
+    {
+      "numero": 37,
+      "titulo": "Funnel #7: High-Ticket, Three-Step Application",
+      "paginas": "222-235",
+      "arquivo": "cap_37_Funnel_7_High-Ticket_Three-Step_Application.txt"
+    },
+    {
+      "numero": 38,
+      "titulo": "Section Five: ClickFunnels",
+      "paginas": "236-240",
+      "arquivo": "cap_38_Section_Five_ClickFunnels.txt"
+    },
+    {
+      "numero": 39,
+      "titulo": "Conclusion: Ignite",
+      "paginas": "241-243",
+      "arquivo": "cap_39_Conclusion_Ignite.txt"
+    }
+  ],
+  "arquivos": [
+    "cap_01_Title.txt",
+    "cap_02_Copyright.txt",
+    "cap_03_Table_of_Contents.txt",
+    "cap_04_Foreword_What_The_Online_Marketing_Wizard_Fraterni.txt",
+    "cap_05_What_This_Book_Is_About_and_What_Its_NOT_About.txt",
+    "cap_06_Introduction.txt",
+    "cap_07_Section_One_Ladders_and_Funnels.txt",
+    "cap_08_Secret_1_The_Secret_Formula.txt",
+    "cap_09_Secret_2_The_Value_Ladder.txt",
+    "cap_10_Secret_3_From_a_Ladder_to_a_Funnel.txt",
+    "cap_11_Section_One_Ladders_and_Funnels.txt",
+    "cap_12_Secret_4_How_to_Find_Your_Dream_Customers.txt",
+    "cap_13_Secret_5_The_Tree_Types_of_Traffic.txt",
+    "cap_14_Section_Two_Your_Communication_Funnel.txt",
+    "cap_15_Secret_6_The_Attractive_Character.txt",
+    "cap_16_Secret_7_The_Soap_Opera_Sequence.txt",
+    "cap_17_Secret_8_Daily_Seinfeld_Sequence.txt",
+    "cap_18_Section_Three_Funnelology_Leading_Your_Customers_9.txt",
+    "cap_19_Secret_9_Reverse_Engineering_a_Successful_Funnel.txt",
+    "cap_20_Secret_10_Seven_Phases_of_a_Funnel.txt",
+    "cap_21_Secret_11_The_Twenty-Three_Building_Blocks_of_a_Fu.txt",
+    "cap_22_Section_Three_Funnelology_Leading_Your_Customers_9.txt",
+    "cap_23_Secret_12_Frontend_vs_Backend_Funnels.txt",
+    "cap_24_Secret_13_The_Best_Bait.txt",
+    "cap_25_Section_Four_Funnels_and_Scripts.txt",
+    "cap_26_Frontend_Funnels.txt",
+    "cap_27_Funnel_1_Two-Step_Free-Plus-Shipping.txt",
+    "cap_28_Funnel_2_Self-Liquidating_Offer.txt",
+    "cap_29_Funnel_3_Continuity.txt",
+    "cap_30_Funnels_for_the_Middle_of_the_Value_Ladder.txt",
+    "cap_31_Funnel_4_The_Perfect_Webinar.txt",
+    "cap_32_Section_Four_Funnels_and_Scripts.txt",
+    "cap_33_Funnels_for_the_Middle_of_the_Value_Ladder.txt",
+    "cap_34_Funnel_5_Invisible_Funnel_Webinar.txt",
+    "cap_35_Funnel_6_Product_Launch.txt",
+    "cap_36_Backend_Funnel.txt",
+    "cap_37_Funnel_7_High-Ticket_Three-Step_Application.txt",
+    "cap_38_Section_Five_ClickFunnels.txt",
+    "cap_39_Conclusion_Ignite.txt"
+  ]
+}

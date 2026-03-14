@@ -1,0 +1,34 @@
+# How to Evaluate Server Versus Serverless
+
+Paginas: 170-170
+
+12 Examples include OpenFaaS, Knative, and Google Cloud Run.
+than persistent services.12 This gives users the simplicity of AWS Lambda with the
+full flexibility of a container environment instead of the highly restrictive Lambda
+runtime. And services such as AWS Fargate and Google App Engine run containers
+without managing a compute cluster required for Kubernetes. These services also
+fully isolate containers, preventing the security issues associated with multitenancy.
+Abstraction will continue working its way across the data stack. Consider the impact
+of Kubernetes on cluster management. While you can manage your Kubernetes
+cluster—and many engineering teams do so—even Kubernetes is widely available as a
+managed service. What comes after Kubernetes? We’re as excited as you to find out.
+How to Evaluate Server Versus Serverless
+Why would you want to run your own servers instead of using serverless? There are a
+few reasons. Cost is a big factor. Serverless makes less sense when the usage and cost
+exceed the ongoing cost of running and maintaining a server (Figure 4-6). However,
+at a certain scale, the economic benefits of serverless may diminish, and running
+servers becomes more attractive.
+Figure 4-6. Cost of serverless versus utilizing a server
+Customization, power, and control are other major reasons to favor servers over
+serverless. Some serverless frameworks can be underpowered or limited for certain
+use cases. Here are some things to consider when using servers, particularly in the
+cloud, where server resources are ephemeral:
+Expect servers to fail.
+Server failure will happen. Avoid using a “special snowflake” server that is overly
+customized and brittle, as this introduces a glaring vulnerability in your architec‐
+ture. Instead, treat servers as ephemeral resources that you can create as needed
+and then delete. If your application requires specific code to be installed on the
+Serverless Versus Servers
+|
+145
+

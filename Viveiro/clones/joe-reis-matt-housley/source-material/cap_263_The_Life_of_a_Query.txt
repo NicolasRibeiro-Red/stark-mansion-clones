@@ -1,0 +1,38 @@
+# The Life of a Query
+
+Paginas: 299-299
+
+Data control language
+You most likely want to limit access to database objects and finely control who has
+access to what. Data control language (DCL) allows you to control access to the
+database objects or the data by using SQL commands such as GRANT, DENY, and
+REVOKE.
+Let’s walk through a brief example using DCL commands. A new data scientist
+named Sarah joins your company, and she needs read-only access to a database called
+data_science_db. You give Sarah access to this database by using the following DCL
+command:
+GRANT SELECT ON data_science_db TO user_name Sarah;
+It’s a hot job market, and Sarah has worked at the company for only a few months
+before getting poached by a big tech company. So long, Sarah! Being a security-
+minded data engineer, you remove Sarah’s ability to read from the database:
+REVOKE SELECT ON data_science_db TO user_name Sarah;
+Access-control requests and issues are common, and understanding DCL will help
+you resolve problems if you or a team member can’t access the data they need, as well
+as prevent access to data they don’t need.
+Transaction control language
+As its name suggests, transaction control language (TCL) supports commands that
+control the details of transactions. With TCL, we can define commit checkpoints,
+conditions when actions will be rolled back, and more. Two common TCL com‐
+mands include COMMIT and ROLLBACK.
+The Life of a Query
+How does a query work, and what happens when a query is executed? Let’s cover the
+high-level basics of query execution (Figure 8-2), using an example of a typical SQL
+query executing in a database.
+Figure 8-2. The life of a SQL query in a database
+While running a query might seem simple—write code, run it, and get results—a lot
+is going on under the hood. When you execute a SQL query, here’s a summary of
+what happens:
+274
+|
+Chapter 8: Queries, Modeling, and Transformation
+

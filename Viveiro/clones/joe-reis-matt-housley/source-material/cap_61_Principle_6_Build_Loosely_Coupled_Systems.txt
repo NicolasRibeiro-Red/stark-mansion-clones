@@ -1,0 +1,91 @@
+# Principle 6: Build Loosely Coupled Systems
+
+Paginas: 106-107
+
+9 Martin Fowler, “Who Needs an Architect?” IEEE Software, July/August 2003, https://oreil.ly/wAMmZ.
+10 Google Cloud, “DevOps Tech: Architecture,” Cloud Architecture Center, https://oreil.ly/j4MT1.
+Returning to the notion of technical leadership, Martin Fowler describes a specific
+archetype of an ideal software architect, well embodied in his colleague Dave Rice:9
+In many ways, the most important activity of Architectus Oryzus is to mentor the
+development team, to raise their level so they can take on more complex issues.
+Improving the development team’s ability gives an architect much greater leverage than
+being the sole decision-maker and thus running the risk of being an architectural
+bottleneck.
+An ideal data architect manifests similar characteristics. They possess the technical
+skills of a data engineer but no longer practice data engineering day to day; they
+mentor current data engineers, make careful technology choices in consultation with
+their organization, and disseminate expertise through training and leadership. They
+train engineers in best practices and bring the company’s engineering resources
+together to pursue common goals in both technology and business.
+As a data engineer, you should practice architecture leadership and seek mentorship
+from architects. Eventually, you may well occupy the architect role yourself.
+Principle 5: Always Be Architecting
+We borrow this principle directly from Google Cloud’s Five Principles for Cloud-
+Native Architecture. Data architects don’t serve in their role simply to maintain the
+existing state; instead, they constantly design new and exciting things in response
+to changes in business and technology. Per the EABOK, an architect’s job is to
+develop deep knowledge of the baseline architecture (current state), develop a target
+architecture, and map out a sequencing plan to determine priorities and the order of
+architecture changes.
+We add that modern architecture should not be command-and-control or waterfall
+but collaborative and agile. The data architect maintains a target architecture and
+sequencing plans that change over time. The target architecture becomes a moving
+target, adjusted in response to business and technology changes internally and world‐
+wide. The sequencing plan determines immediate priorities for delivery.
+Principle 6: Build Loosely Coupled Systems
+When the architecture of the system is designed to enable teams to test, deploy, and
+change systems without dependencies on other teams, teams require little communica‐
+tion to get work done. In other words, both the architecture and the teams are loosely
+coupled.
+—Google DevOps tech architecture guide10
+Principles of Good Data Architecture
+|
+81
+
+11 “The Bezos API Mandate: Amazon’s Manifesto for Externalization,” Nordic APIs, January 19, 2021,
+https://oreil.ly/vIs8m.
+In 2002, Bezos wrote an email to Amazon employees that became known as the Bezos
+API Mandate:11
+1. All teams will henceforth expose their data and functionality through service
+1.
+interfaces.
+2. Teams must communicate with each other through these interfaces.
+2.
+3. There will be no other form of interprocess communication allowed: no direct
+3.
+linking, no direct reads of another team’s data store, no shared-memory model,
+no back-doors whatsoever. The only communication allowed is via service inter‐
+face calls over the network.
+4. It doesn’t matter what technology they use. HTTP, Corba, Pubsub, custom proto‐
+4.
+cols—doesn’t matter.
+5. All service interfaces, without exception, must be designed from the ground up
+5.
+to be externalizable. That is to say, the team must plan and design to be able to
+expose the interface to developers in the outside world. No exceptions.
+The advent of Bezos’s API Mandate is widely viewed as a watershed moment for
+Amazon. Putting data and services behind APIs enabled the loose coupling and
+eventually resulted in AWS as we know it now. Google’s pursuit of loose coupling
+allowed it to grow its systems to an extraordinary scale.
+For software architecture, a loosely coupled system has the following properties:
+1. Systems are broken into many small components.
+1.
+2. These systems interface with other services through abstraction layers, such as
+2.
+a messaging bus or an API. These abstraction layers hide and protect internal
+details of the service, such as a database backend or internal classes and method
+calls.
+3. As a consequence of property 2, internal changes to a system component don’t
+3.
+require changes in other parts. Details of code updates are hidden behind stable
+APIs. Each piece can evolve and improve separately.
+4. As a consequence of property 3, there is no waterfall, global release cycle for
+4.
+the whole system. Instead, each component is updated separately as changes and
+improvements are made.
+Notice that we are talking about technical systems. We need to think bigger. Let’s
+translate these technical characteristics into organizational characteristics:
+82
+|
+Chapter 3: Designing Good Data Architecture
+

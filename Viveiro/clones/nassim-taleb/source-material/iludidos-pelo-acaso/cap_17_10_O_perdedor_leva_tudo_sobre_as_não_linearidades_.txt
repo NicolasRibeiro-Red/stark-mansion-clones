@@ -1,0 +1,309 @@
+# 10. O perdedor leva tudo — sobre as não linearidades da vida
+
+Paginas: 180-188
+
+10. O perdedor leva tudo — sobre as
+não linearidades da vida
+Aqui, examino o chavão “a vida é injusta”, mas sob um ângulo novo: a
+vida é injusta de maneira não linear. Esse capítulo trata de como uma
+pequena vantagem na vida pode se traduzir em um resultado
+desproporcional ou em absolutamente nenhuma vantagem. Mas uma
+pequena, muito pequena, ajuda do acaso pode levar a uma situação
+invejável.
+O EFEITO DO MONTINHO DE AREIA
+Primeiro, vamos denir não linearidade. Há diversos modos de
+apresentar a questão, mas um dos mais populares na ciência é o
+chamado efeito do montinho de areia, que vou ilustrar como se segue.
+Estou sentado na praia de Copacabana, no Rio de Janeiro, tentando
+não fazer nada que seja extenuante, longe de qualquer coisa para ler
+ou escrever (sem sucesso, é claro, pois escrevo estas linhas
+mentalmente). Estou brincando com objetos de plástico próprios para
+a praia que pedi emprestados a uma criança, tentando construir um
+prédio — modesta e obstinadamente tentando emular a torre de Babel.
+Adiciono areia ao topo de forma contínua, levantando devagar a
+estrutura. Meus parentes babilônios achavam que poderiam atingir o
+céu assim. Eu tenho objetivos mais humildes: testar até que altura
+posso ir antes que a coisa desabe. Continuo adicionando areia,
+testando, querendo saber como a estrutura vai desabar no m. Por
+nunca ter visto adultos construírem castelos de areia, uma criança me
+olha espantada.
+
+Com o tempo — e para o grande prazer da criança espectadora —
+meu castelo desaba, reunindo-se ao restante da areia na praia. Pode-se
+dizer que o último grão de areia foi responsável pela destruição de
+toda a estrutura. O que vemos aqui é um efeito não linear resultante
+de uma força linear exercida sobre um objeto. Uma pequena adição,
+no caso o grão de areia, causou um resultado desproporcional, a saber,
+a destruição da minha torre de Babel, a torre de um iniciante. A
+sabedoria popular absorveu muitos fenômenos semelhantes, como se
+pode ver em expressões tais como “foi a gota d’água”.
+Essa dinâmica não linear tem um nome de livraria: teoria do caos,
+que é um termo mal aplicado, porque isso não tem nada a ver com
+caos. A teoria do caos se preocupa, primordialmente, com funções em
+que
+um
+pequeno
+acréscimo
+pode
+levar
+a
+uma
+resposta
+desproporcional. Os modelos populacionais, por exemplo, podem
+levar a um caminho de crescimento explosivo ou à extinção da espécie
+dependendo de uma pequena diferença na população no ponto de
+partida no tempo. Outra analogia cientíca popular é o tempo, e já se
+mostrou que uma única borboleta batendo asas na Índia pode causar
+um furacão em Nova York. Mas os clássicos também têm o que nos
+oferecer. Pascal (o mesmo da aposta do capítulo 7) disse que, se o
+nariz de Cleópatra fosse um pouquinho menor, o destino do mundo
+teria mudado. Ela tinha feições bonitas, dominadas por um nariz no
+e alongado, o que fez com que Júlio César e seu sucessor, Marco
+Antônio, se interessassem por ela (aqui o esnobe intelectual em mim
+não pode resistir a divergir da sabedoria convencional; Plutarco
+alegava que foi a conversa de Cleópatra, e não sua boa aparência, que
+causou a paixão enlouquecida daqueles homens, e acredito piamente
+nisso).
+Entra o acaso
+Tudo ca mais interessante quando o acaso entra em cena. Imagine
+uma sala cheia de atores à espera de um teste de seleção. O número
+de vencedores será claramente pequeno, e eles serão aqueles
+geralmente tomados pelo público como representativos da prossão,
+como vimos na nossa discussão sobre o viés do sobrevivente. Os
+vencedores morarão em Bel Air, serão pressionados a consumir
+
+artigos de luxo e, devido ao estilo de vida dissoluto e arrítmico, talvez
+ertem com drogas proibidas. Quanto aos outros (a grande maioria),
+podemos imaginar seu destino: uma vida inteira servindo café
+fumegante num Starbucks da vizinhança, lutando contra o relógio
+biológico entre os testes.
+Pode-se argumentar que o ator que conquista o papel principal que
+o catapulta para a fama e para piscinas caras tem qualidades que
+faltam aos outros, certo encanto ou uma característica física especíca
+que é requerida para se fazer carreira. Discordo. É possível que o
+vencedor tenha algumas qualidades de ator, mas todos os outros
+também tinham, ou não estariam ali na sala de espera.
+É um atributo interessante da fama o fato de ter sua própria
+dinâmica. Um ator se torna conhecido de algumas parcelas do público
+por ser conhecido por outra parcela desse mesmo público. A dinâmica
+dessa fama segue uma hélice rotativa, que pode ter começado no teste,
+cujo resultado pode ter se relacionado a um detalhe tolo, ao humor do
+examinador naquele dia. Se o examinador não tivesse se apaixonado,
+um dia antes, por uma pessoa com um sobrenome parecido, o ator
+selecionado desta história, usada como amostra, estaria servindo café
+na outra história que mencionamos.
+Aprendendo datilograa
+Pesquisadores usam frequentemente o exemplo do QWERTY para
+mostrar a malévola dinâmica de ganhar e perder em uma economia, e
+para ilustrar como o resultado, frequentemente, não é o desejado. A
+disposição das letras em uma máquina de escrever é um exemplo do
+sucesso do modelo menos merecedor. Isso porque as máquinas de
+escrever têm a ordem das letras no teclado arrumadas de uma maneira
+que não é a melhor, visando a diminuir a velocidade da digitação em
+vez de tornar essa tarefa mais fácil — de modo a evitar que a ta
+enrolasse, como acontecia. Assim, conforme começamos a construir
+máquinas melhores e processadores de texto computadorizados,
+foram feitas diversas tentativas de racionalizar o teclado dos
+computadores, sem resultado. As pessoas estavam treinadas num
+teclado do tipo QWERTY, com hábitos arraigados demais para mudar.
+
+Assim como um ator é alçado instantaneamente ao estrelato, as
+pessoas aceitam o que outras gostam de fazer. Forçar o processo a
+adotar uma dinâmica racional seria supér uo; não, seria impossível.
+Isso se chama resultado dependente do caminho, e tem frustrado muitas
+tentativas matemáticas de moldar o comportamento.
+A era da informação, homogeneizando nossos gostos, está fazendo
+com que a injustiça se torne até mesmo mais forte — aqueles que
+vencem conquistam quase todos os fregueses. O exemplo mais
+espantoso e o mais espetacular sucesso de quem tem sorte é da
+fabricante de software Microsoft e de seu mal-humorado fundador,
+Bill Gates. Embora seja difícil negar que Gates é um homem com altos
+padrões pessoais, certa losoa de trabalho e inteligência acima da
+média, ele é o melhor? Ele merece o que tem? Claro que não. A
+maioria das pessoas trabalha (como eu) com seu software porque
+outras pessoas também trabalham, um efeito puramente circular (os
+economistas chamam isso de “externalidades em rede”). Ninguém
+nunca proclamou que o produto dele era o melhor. A maioria dos
+rivais de Bill Gates têm um ciúme obsessivo de seu sucesso. Ficam
+loucos pelo fato de ele ter conseguido um resultado tão espetacular
+enquanto muitos deles estão lutando para que suas empresas
+sobrevivam.
+Essas ideias vão contra os modelos clássicos de economia, em que
+os resultados ou vêm de uma razão precisa (não há espaço para
+incerteza) ou o “mocinho” vence (o mocinho é aquele que é mais hábil
+e tem superioridade técnica). Os economistas descobriram os efeitos
+da dependência do caminho no seu ramo de atividade muito
+tardiamente, e aí tentaram, por meio de publicações, entrar de sola no
+assunto que, de outra maneira, continuaria esquecido. Por exemplo,
+Brian Arthur, um economista do Santa Fe Institute preocupado com
+não linearidades, escreveu que os eventos devidos ao acaso, aliados a
+um
+feedback
+positivo
+e
+não
+à
+superioridade tecnológica,
+determinavam a superioridade econômica — e não uma margem de
+denição abstrusa em determinada área de especialização. Enquanto
+os modelos econômicos anteriores excluíam o papel do acaso, Arthur
+explicava como “ordens inesperadas, reuniões oportunistas com
+advogados, modismos gerenciais… ajudariam a determinar quais
+
+passariam a vender primeiro e, com o tempo, que empresas
+dominariam”.
+A MATEMÁTICA NO MUNDO REAL E FORA DELE
+Precisa-se de uma abordagem matemática do problema. Embora
+nos modelos convencionais (tais como o conhecido caminho aleatório
+browniano usado em nanças) a probabilidade de sucesso não mude a
+cada incremento, apenas a riqueza acumulada, Arthur sugere modelos
+como o processo Polya, que é muito difícil de trabalhar
+matematicamente, mas que pode ser compreendido com facilidade
+com a ajuda de um simulador Monte Carlo. O processo Polya pode
+ser apresentado da seguinte forma: suponhamos uma urna contendo
+inicialmente quantidades iguais de bolas pretas e vermelhas. Você tem
+que adivinhar, com antecedência, a cor da bola que vai tirar. Aqui o
+jogo é amarrado: diferentemente de uma urna tradicional, a
+probabilidade de acerto depende dos acertos passados, pois você se
+sai melhor ou pior dependendo do desempenho passado. Assim, a
+probabilidade de vencer aumenta com acertos passados, e a de perder
+aumenta com erros passados. Simulando esse processo, pode-se ver
+uma ampla variação de resultados, com surpreendentes sucessos e
+grande número de fracassos (que eu chamo de obliquidade).
+Compare um processo assim com aqueles de modelo mais
+tradicional, isto é, uma urna sobre a qual o jogador faz conjecturas,
+mas na qual as bolas são substituídas. Digamos que você joga na roleta
+e ganha. Isso aumenta suas chances de ganhar de novo? Não. Mas isso
+acontece no caso do processo Polya. Por que ele é tão difícil de
+trabalhar, sob o ponto de vista matemático? Porque o conceito de
+independência (isto é, quando a próxima retirada não depende dos
+resultados passados) é violado. Independência é uma exigência para se
+trabalhar com a (conhecida) matemática da probabilidade.
+O que deu errado no desenvolvimento da economia como ciência?
+Havia um monte de gente inteligente que se via obrigada a usar a
+matemática apenas para se assegurar de que era rigorosa no modo de
+pensar, de que o que fazia era ciência. Homens muito apressados
+(Leon Walras, Gerard Debreu e Paul Samuelson) decidiram
+
+introduzir as técnicas de modelagem matemática, sem considerar o
+fato de que ou o tipo de matemática que eles estavam usando era
+restritiva demais para a classe de problemas com os quais lidavam ou
+que deveriam perceber que a precisão da linguagem matemática
+poderia levar a acreditar que eles tinham soluções quando não tinham
+(lembre-se de Popper e dos custos de se levar a ciência a sério
+demais). Na verdade, a matemática com a qual lidavam não funcionou
+no mundo real, possivelmente porque eles precisavam de tipos de
+processos mais ricos — e se recusaram a aceitar o fato de que não usar
+qualquer tipo de matemática era, provavelmente, uma alternativa
+melhor.
+Os chamados teóricos da complexidade vieram em socorro. Gerou-
+se grande excitação pelos trabalhos de cientistas que se especializaram
+em métodos quantitativos não lineares — e o Santa Fe Institute, perto
+da cidade de mesmo nome, no Novo México, era a Meca deles. É
+claro que esses cientistas estão trabalhando muito e nos apresentam
+soluções maravilhosas para as ciências físicas e modelos melhores para
+os parentes sociais daquelas (embora nada satisfatório tenha aparecido
+até hoje). Se eles anal de contas não tiverem êxito, será simplesmente
+porque a matemática talvez seja apenas uma ferramenta secundária no
+mundo real. Observe que outra vantagem das simulações Monte Carlo
+é que podemos obter resultados onde a matemática não consegue e
+não pode nos ajudar. Libertando-nos das equações, a máquina Monte
+Carlo também nos liberta das armadilhas de uma matemática inferior.
+Como eu disse no capítulo 4, a matemática é meramente um meio de
+pensar e meditar no nosso mundo do acaso.
+A ciência das redes
+Estudos da dinâmica das redes se multiplicaram recentemente. Eles
+se tornaram populares com o livro O ponto da virada, em que
+Malcolm Gladwell mostra como alguns dos comportamentos de
+variáveis como epidemias se espalham extremamente rápido, acima de
+um nível crítico não especicado. (Como, por exemplo, o uso de tênis
+por crianças do centro ou a difusão de ideias religiosas. As vendas de
+livros sofrem um efeito similar, explodindo depois que cruzam um
+nível signicativo no boca a boca.) Por que algumas ideologias ou
+
+religiões se espalham como fogo enquanto outras logo se extinguem?
+Como os modismos se dão? Como ideias se proliferam? Assim que se
+sai dos modelos convencionais de acaso (a família da curva do sino do
+acaso mapeado), algo signicativo pode acontecer. Por que o site do
+Google tem tantos acessos em comparação com o da Associação
+Nacional de Engenheiros Químicos Aposentados? Quanto mais
+conectada uma rede, maior a probabilidade de alguém deparar com ela
+e mais conectada ela estará, especialmente se não há uma limitação
+signicativa a essa capacidade. Note que às vezes é tolice procurar por
+“pontos críticos” especícos, porque eles podem ser instáveis e
+impossíveis de detectar, a não ser depois que o evento ocorre, como
+em muitos outros casos. Esses “pontos críticos” não são exatamente
+pontos, mas progressões (a chamada lei de potência de Pareto)?
+Embora seja claro que o mundo produz aglomerados, é triste que
+possam ser difíceis demais de prever (fora da física) para que esses
+modelos sejam levados a sério. De novo, o importante é saber da
+existência dessas não linearidades, não tentar criar um modelo para
+elas. O valor do trabalho do grande Benoit Mandelbrot reside em ter
+nos mostrado que existe um tipo “selvagem” de aleatoriedade sobre o
+qual nunca saberemos muito (devido a suas propriedades instáveis).
+Nosso cérebro
+Nosso cérebro não foi feito para não linearidades. As pessoas
+acham que se, por exemplo, duas variáveis estão causalmente ligadas,
+então um acréscimo constante em uma variável sempre deve produzir
+resultado na outra. Nosso aparato emocional é projetado para a
+causalidade linear. Por exemplo, você estuda todos os dias e aprende
+algo proporcional a seus estudos. Se não sentir que está indo para
+algum lugar, suas emoções farão com que se sinta desmoralizado. Mas
+a realidade raras vezes nos dá o privilégio de satisfazer uma progressão
+linear positiva: você pode estudar por um ano e não aprender nada,
+então, a menos que se desanime com a falta e resultado e desista, algo
+vai surgir de repente. Meu colega Mark Spitznagel resume isso da
+seguinte maneira: imagine que você toca piano todos os dias por um
+longo tempo, mal sendo capaz de executar uma musiquinha simples, e
+de repente se vê capaz de tocar Rachmaninov. Devido a essa não
+
+linearidade, as pessoas não compreendem a natureza do evento raro.
+Isso resume por que há rotas não aleatórias para o sucesso, mas muito,
+muito poucas pessoas têm a força mental necessária para segui-las.
+Aqueles que fazem um esforço extra são recompensados. Na minha
+prossão, é possível ter um título nanceiro que se benecie de
+preços de mercado mais baixos, mas que não reaja até certo ponto
+crítico. A maior parte das pessoas desiste antes da recompensa.
+O burro de Buridan, ou o lado bom do acaso
+A não linearidade dos resultados aleatórios é, às vezes, usada como
+uma ferramenta para resolver impasses. Consideremos o problema do
+empurrão não linear. Imagine um burro com fome e sede colocado à
+mesma distância de duas fontes, uma de comida e outra de água. Em
+uma situação assim, ele morreria tanto de fome quanto de sede, pois
+seria incapaz de decidir para onde iria primeiro. Agora injete um
+pouco de acaso no quadro, dando pequenos empurrões aleatórios no
+burro, fazendo com que se aproxime de uma das fontes, não importa
+qual, e portanto o afastando da outra. O impasse seria resolvido
+instantaneamente, e nosso feliz burro caria saciado de comida e
+depois água, ou de água e depois comida.
+Com toda a certeza o leitor já experimentou uma versão do burro
+de Buridan, tirando cara ou coroa para resolver algum tipo de impasse
+de menor importância na vida, em casos em que deixamos o acaso nos
+ajudar no processo de tomada de decisão. Deixamos a deusa Fortuna
+tomar uma decisão e alegremente nos submetemos a ela. Eu, muitas
+vezes, uso o burro de Buridan (sob seu nome matemático) quando
+meu computador congela entre duas alternativas (para ser técnico,
+essas “aleatorizações” são feitas, frequentemente, durante problemas
+de otimização, quando é necessário não perturbar a função).
+Observe que o burro de Buridan recebeu esse nome em
+homenagem ao lósofo do século XIV Jean Buridan. Ele teve uma
+morte interessante: foi jogado no rio Sena amarrado num saco e
+morreu afogado. Essa historieta foi considerada um exemplo de
+sosma por seus contemporâneos, que não perceberam a importância
+da aleatorização — Buridan estava claramente à frente de seu tempo.
+
+DESGRAÇA POUCA É BOBAGEM
+No momento em que escrevo estas linhas, estou abrindo meu fundo
+a investidores e explorando como levantar dinheiro. De repente,
+percebo que a bipolaridade do mundo me atingiu em cheio. Ou tenho
+um sucesso estrondoso, atraindo uma montanha de dinheiro, ou
+fracasso em levantar até mesmo um único centavo. A mesma coisa
+acontece com os livros. Ou todo mundo vai querer publicá-lo ou
+ninguém retornará meus telefonemas (neste último caso, risco os
+nomes da agenda). Devido ao meu profundo e antiquado senso
+mediterrâneo de metrion (medida), isso faz com que eu me sinta
+desconfortável, até mesmo inquieto. Sucesso demais é o inimigo
+(pense em como os ricos e famosos são punidos), fracasso demais é
+desmoralizante. Eu gostaria de ter a opção de não conseguir nem um
+nem outro.
+

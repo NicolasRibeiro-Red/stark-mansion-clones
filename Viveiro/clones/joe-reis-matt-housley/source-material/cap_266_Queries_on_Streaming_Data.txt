@@ -1,0 +1,186 @@
+# Queries on Streaming Data
+
+Paginas: 306-311
+
+3 The authors are aware of an incident involving a new analyst at a large grocery store chain running SELECT *
+on a production database and bringing down a critical inventory database for three days.
+Leverage cached query results
+Let’s say you have an intensive query that you often run on a database that charges
+you for the amount of data you query. Each time a query is run, this costs you money.
+Instead of rerunning the same query on the database repeatedly and incurring mas‐
+sive charges, wouldn’t it be nice if the results of the query were stored and available
+for instant retrieval? Thankfully, many cloud OLAP databases cache query results.
+When a query is initially run, it will retrieve data from various sources, filter and join
+it, and output a result. This initial query—a cold query—is similar to the notion of
+cold data we explored in Chapter 6. For argument’s sake, let’s say this query took 40
+seconds to run. Assuming your database caches query results, rerunning the same
+query might return results in 1 second or less. The results were cached, and the query
+didn’t need to run cold. Whenever possible, leverage query cache results to reduce
+pressure on your database and provide a better user experience for frequently run
+queries. Note also that materialized views provide another form of query caching (see
+“Materialized Views, Federation, and Query Virtualization” on page 323).
+Queries on Streaming Data
+Streaming data is constantly in flight. As you might imagine, querying streaming
+data is different from batch data. To fully take advantage of a data stream, we must
+adapt query patterns that reflect its real-time nature. For example, systems such as
+Kafka and Pulsar make it easier to query streaming data sources. Let’s look at some
+common ways to do this.
+Basic query patterns on streams
+Recall continuous CDC, discussed in Chapter 7. CDC, in this form, essentially sets up
+an analytics database as a fast follower to a production database. One of the longest-
+standing streaming query patterns simply entails querying the analytics database,
+retrieving statistical results and aggregations with a slight lag behind the production
+database.
+The fast-follower approach. How is this a streaming query pattern? Couldn’t we
+accomplish the same thing simply by running our queries on the production data‐
+base? In principle, yes; in practice, no. Production databases generally aren’t equipped
+to handle production workloads and simultaneously run large analytics scans across
+significant quantities of data. Running such queries can slow the production applica‐
+tion or even cause it to crash.3 The basic CDC query pattern allows us to serve
+real-time analytics with a minimal impact on the production system.
+Queries
+|
+281
+
+The fast-follower pattern can utilize a conventional transactional database as the
+follower, but there are significant advantages to using a proper OLAP-oriented system
+(Figure 8-3). Both Druid and BigQuery combine a streaming buffer with long-term
+columnar storage in a setup somewhat similar to the Lambda architecture (see Chap‐
+ter 3). This works extremely well for computing trailing statistics on vast historical
+data with near real-time updates.
+Figure 8-3. CDC with a fast-follower analytics database
+The fast-follower CDC approach has critical limitations. It doesn’t fundamentally
+rethink batch query patterns. You’re still running SELECT queries against the current
+table state, and missing the opportunity to dynamically trigger events off changes in
+the stream.
+The Kappa architecture. Next, recall the Kappa architecture we discussed in Chapter 3.
+The principal idea of this architecture is to handle all data like events and store these
+events as a stream rather than a table (Figure 8-4). When production application
+databases are the source, Kappa architecture stores events from CDC. Event streams
+can also flow directly from an application backend, from a swarm of IoT devices,
+or any system that generates events and can push them over a network. Instead of
+simply treating a streaming storage system as a buffer, Kappa architecture retains
+events in storage during a more extended retention period, and data can be directly
+queried from this storage. The retention period can be pretty long (months or years).
+Note that this is much longer than the retention period used in purely real-time
+oriented systems, usually a week at most.
+Figure 8-4. The Kappa architecture is built around streaming storage and ingest systems
+The “big idea” in Kappa architecture is to treat streaming storage as a real-time trans‐
+port layer and a database for retrieving and querying historical data. This happens
+282
+|
+Chapter 8: Queries, Modeling, and Transformation
+
+either through the direct query capabilities of the streaming storage system or with
+the help of external tools. For example, Kafka KSQL supports aggregation, statistical
+calculations, and even sessionization. If query requirements are more complex or
+data needs to be combined with other data sources, an external tool such as Spark
+reads a time range of data from Kafka and computes the query results. The streaming
+storage system can also feed other applications or a stream processor such as Flink or
+Beam.
+Windows, triggers, emitted statistics, and late-arriving data
+One fundamental limitation of traditional batch queries is that this paradigm gener‐
+ally treats the query engine as an external observer. An actor external to the data
+causes the query to run—perhaps an hourly cron job or a product manager opening a
+dashboard.
+Most widely used streaming systems, on the other hand, support the notion of com‐
+putations triggered directly from the data itself. They might emit mean and median
+statistics every time a certain number of records are collected in the buffer or output
+a summary when a user session closes.
+Windows are an essential feature in streaming queries and processing. Windows are
+small batches that are processed based on dynamic triggers. Windows are generated
+dynamically over time in some ways. Let’s look at some common types of windows:
+session, fixed-time, and sliding. We’ll also look at watermarks.
+Session window. A session window groups events that occur close together, and filters
+out periods of inactivity when no events occur. We might say that a user session
+is any time interval with no inactivity gap of five minutes or more. Our batch
+system collects data by a user ID key, orders events, determines the gaps and session
+boundaries, and calculates statistics for each session. Data engineers often sessionize
+data retrospectively by applying time conditions to user activity on web and desktop
+apps.
+In a streaming session, this process can happen dynamically. Note that session win‐
+dows are per key; in the preceding example, each user gets their own set of windows.
+The system accumulates data per user. If a five-minute gap with no activity occurs,
+the system closes the window, sends its calculations, and flushes the data. If new
+events arrive for the use, the system starts a new session window.
+Session windows may also make a provision for late-arriving data. Allowing data to
+arrive up to five minutes late to account for network conditions and system latency,
+the system will open the window if a late-arriving event indicates activity less than
+five minutes after the last event. We will have more to say about late-arriving data
+throughout this chapter. Figure 8-5 shows three session windows, each separated by
+five minutes of inactivity.
+Queries
+|
+283
+
+Figure 8-5. Session window with a five-minute timeout for inactivity
+Making sessionization dynamic and near real-time fundamentally changes its utility.
+With retrospective sessionization, we could automate specific actions a day or an
+hour after a user session closed (e.g., a follow-up email with a coupon for a product
+viewed by the user). With dynamic sessionization, the user could get an alert in a
+mobile app that is immediately useful based on their activity in the last 15 minutes.
+Fixed-time windows. A fixed-time (aka tumbling) window features fixed time periods
+that run on a fixed schedule and processes all data since the previous window is
+closed. For example, we might close a window every 20 seconds and process all data
+arriving from the previous window to give a mean and median statistic (Figure 8-6).
+Statistics would be emitted as soon as they could be calculated after the window
+closed.
+Figure 8-6. Tumbling/fixed window
+This is similar to traditional batch ETL processing, where we might run a data update
+job every day or every hour. The streaming system allows us to generate windows
+more frequently and deliver results with lower latency. As we’ll repeatedly emphasize,
+batch is a special case of streaming.
+Sliding windows. Events in a sliding window are bucketed into windows of fixed time
+length, where separate windows might overlap. For example, we could generate a new
+60-second window every 30 seconds (Figure 8-7). Just as we did before, we can emit
+mean and median statistics.
+284
+|
+Chapter 8: Queries, Modeling, and Transformation
+
+Figure 8-7. Sliding windows
+The sliding can vary. For example, we might think of the window as truly sliding
+continuously but emitting statistics only when certain conditions (triggers) are met.
+Suppose we used a 30-second continuously sliding window but calculated a statistic
+only when a user clicked a particular banner. This would lead to an extremely high
+rate of output when many users click the banner, and no calculations during a lull.
+Watermarks. We’ve covered various types of windows and their uses. As discussed in
+Chapter 7, data is sometimes ingested out of the order from which it originated. A
+watermark (Figure 8-8) is a threshold used by a window to determine whether data in
+a window is within the established time interval or whether it’s considered late. If data
+arrives that is new to the window but older than the timestamp of the watermark, it is
+considered to be late-arriving data.
+Figure 8-8. Watermark acting as a threshold for late-arriving data
+Queries
+|
+285
+
+Combining streams with other data
+As we’ve mentioned before, we often derive value from data by combining it with
+other data. Streaming data is no different. For instance, multiple streams can be
+combined, or a stream can be combined with batch historical data.
+Conventional table joins. Some tables may be fed by streams (Figure 8-9). The most
+basic approach to this problem is simply joining these two tables in a database. A
+stream can feed one or both of these tables.
+Figure 8-9. Joining two tables fed by streams
+Enrichment. Enrichment means that we join a stream to other data (Figure 8-10).
+Typically, this is done to provide enhanced data into another stream. For example,
+suppose that an online retailer receives an event stream from a partner business
+containing product and user IDs. The retailer wishes to enhance these events with
+product details and demographic information on the users. The retailer feeds these
+events to a serverless function that looks up the product and user in an in-memory
+database (say, a cache), adds the required information to the event, and outputs the
+enhanced events to another stream.
+Figure 8-10. In this example, a stream is enriched with data residing in object storage,
+resulting in a new enriched dataset
+In practice, the enrichment source could originate almost anywhere—a table in a
+cloud data warehouse or RDBMS, or a file in object storage. It’s simply a question of
+reading from the source and storing the requisite enrichment data in an appropriate
+place for retrieval by the stream.
+Stream-to-stream joining. Increasingly, streaming systems support direct stream-to-
+stream joining. Suppose that an online retailer wishes to join its web event data with
+streaming data from an ad platform. The company can feed both streams into Spark,
+286
+|
+Chapter 8: Queries, Modeling, and Transformation
+

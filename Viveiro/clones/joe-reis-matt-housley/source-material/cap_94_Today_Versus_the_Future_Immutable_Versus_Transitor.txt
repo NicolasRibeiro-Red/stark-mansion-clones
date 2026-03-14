@@ -1,0 +1,84 @@
+# Today Versus the Future: Immutable Versus Transitory Technologies
+
+Paginas: 145-146
+
+2 J. R. Storment and Mike Fuller, Cloud FinOps (Sebastopol, CA: O’Reilly, 2019), 6, https://oreil.ly/RvRvX.
+appear at an ever-faster rate. Does the expertise you’ve built up on data stack A
+translate to the next wave? Or are you able to swap out components of data stack
+A and buy yourself some time and options?
+The first step to minimizing opportunity cost is evaluating it with eyes wide open.
+We’ve seen countless data teams get stuck with technologies that seemed good at the
+time and are either not flexible for future growth or simply obsolete. Inflexible data
+technologies are a lot like bear traps. They’re easy to get into and extremely painful to
+escape.
+FinOps
+We already touched on FinOps in “Principle 9: Embrace FinOps” on page 85. As
+we’ve discussed, typical cloud spending is inherently opex: companies pay for services
+to run critical data processes rather than making up-front purchases and clawing
+back value over time. The goal of FinOps is to fully operationalize financial account‐
+ability and business value by applying the DevOps-like practices of monitoring and
+dynamically adjusting systems.
+In this chapter, we want to emphasize one thing about FinOps that is well embodied
+in this quote:2
+If it seems that FinOps is about saving money, then think again. FinOps is about
+making money. Cloud spend can drive more revenue, signal customer base growth,
+enable more product and feature release velocity, or even help shut down a data center.
+In our setting of data engineering, the ability to iterate quickly and scale dynamically
+is invaluable for creating business value. This is one of the major motivations for
+shifting data workloads to the cloud.
+Today Versus the Future: Immutable Versus Transitory
+Technologies
+In an exciting domain like data engineering, it’s all too easy to focus on a rapidly
+evolving future while ignoring the concrete needs of the present. The intention to
+build a better future is noble but often leads to overarchitecting and overengineering.
+Tooling chosen for the future may be stale and out-of-date when this future arrives;
+the future frequently looks little like what we envisioned years before.
+As many life coaches would tell you, focus on the present. You should choose the
+best technology for the moment and near future, but in a way that supports future
+unknowns and evolution. Ask yourself: where are you today, and what are your goals
+120
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+
+for the future? Your answers to these questions should inform your decisions about
+your architecture and thus the technologies used within that architecture. This is
+done by understanding what is likely to change and what tends to stay the same.
+We have two classes of tools to consider: immutable and transitory. Immutable tech‐
+nologies might be components that underpin the cloud or languages and paradigms
+that have stood the test of time. In the cloud, examples of immutable technologies are
+object storage, networking, servers, and security. Object storage such as Amazon S3
+and Azure Blob Storage will be around from today until the end of the decade, and
+probably much longer. Storing your data in object storage is a wise choice. Object
+storage continues to improve in various ways and constantly offers new options, but
+your data will be safe and usable in object storage regardless of the rapid evolution of
+technology as a whole.
+For languages, SQL and bash have been around for many decades, and we don’t see
+them disappearing anytime soon. Immutable technologies benefit from the Lindy
+effect: the longer a technology has been established, the longer it will be used.
+Think of the power grid, relational databases, the C programming language, or the
+x86 processor architecture. We suggest applying the Lindy effect as a litmus test to
+determine whether a technology is potentially immutable.
+Transitory technologies are those that come and go. The typical trajectory begins
+with a lot of hype, followed by meteoric growth in popularity, then a slow descent
+into obscurity. The JavaScript frontend landscape is a classic example. How many
+JavaScript frontend frameworks have come and gone between 2010 and 2020? Back‐
+bone.js, Ember.js, and Knockout were popular in the early 2010s, and React and
+Vue.js have massive mindshare today. What’s the popular frontend JavaScript frame‐
+work three years from now? Who knows.
+New well-funded entrants and open source projects arrive on the data front every
+day. Every vendor will say their product will change the industry and “make the
+world a better place”. Most of these companies and projects don’t get long-term trac‐
+tion and fade slowly into obscurity. Top VCs are making big-money bets, knowing
+that most of their data-tooling investments will fail. If VCs pouring millions (or
+billions) into data-tooling investments can’t get it right, how can you possibly know
+which technologies to invest in for your data architecture? It’s hard. Just consider the
+number of technologies in Matt Turck’s (in)famous depictions of the ML, AI, and
+data (MAD) landscape that we introduced in Chapter 1 (Figure 4-1).
+Even relatively successful technologies often fade into obscurity quickly, after a few
+years of rapid adoption, a victim of their success. For instance, in the early 2010s,
+Hive was met with rapid uptake because it allowed both analysts and engineers to
+query massive datasets without coding complex MapReduce jobs by hand. Inspired
+Today Versus the Future: Immutable Versus Transitory Technologies
+|
+121
+

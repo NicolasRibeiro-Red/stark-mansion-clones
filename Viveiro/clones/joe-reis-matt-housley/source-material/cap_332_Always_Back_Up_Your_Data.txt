@@ -1,0 +1,44 @@
+# Always Back Up Your Data
+
+Paginas: 397-397
+
+We have more to say about active security in “Technology” on page 374.
+The Principle of Least Privilege
+The principle of least privilege means that a person or system should be given only the
+privileges and data they need to complete the task at hand and nothing more. Often,
+we see an antipattern in the cloud: a regular user is given administrative access to
+everything, when that person may need just a handful of IAM roles to do their work.
+Giving someone carte blanche administrative access is a huge mistake and should
+never happen under the principle of least privilege.
+Instead, provide the user (or group they belong to) the IAM roles they need when
+they need them. When these roles are no longer needed, take them away. The same
+rule applies to service accounts. Treat humans and machines the same way: give them
+only the privileges and data they need to do their jobs, and only for the timespan
+when needed.
+Of course, the principle of least privilege is also critical to privacy. Your users and
+customers expect that people will look at their sensitive data only when necessary.
+Make sure that this is the case. Implement column, row, and cell-level access controls
+around sensitive data; consider masking PII and other sensitive data and create views
+that contain only the information the viewer needs to access. Some data must be
+retained but should be accessed only in an emergency. Put this data behind a broken
+glass process: users can access it only after going through an emergency approval
+process to fix a problem, query critical historical information, etc. Access is revoked
+immediately once the work is done.
+Shared Responsibility in the Cloud
+Security is a shared responsibility in the cloud. The cloud vendor is responsible
+for ensuring the physical security of its data center and hardware. At the same
+time, you are responsible for the security of the applications and systems you build
+and maintain in the cloud. Most cloud security breaches continue to be caused by
+end users, not the cloud. Breaches occur because of unintended misconfigurations,
+mistakes, oversights, and sloppiness.
+Always Back Up Your Data
+Data disappears. Sometimes it’s a dead hard drive or server; in other cases, someone
+might accidentally delete a database or an object storage bucket. A bad actor can
+also lock away data. Ransomware attacks are widespread these days. Some insurance
+companies are reducing payouts in the event of an attack, leaving you on the hook
+both to recover your data and pay the bad actor who’s holding it hostage. You
+need to back up your data regularly, both for disaster recovery and continuity of
+372
+|
+Chapter 10: Security and Privacy
+

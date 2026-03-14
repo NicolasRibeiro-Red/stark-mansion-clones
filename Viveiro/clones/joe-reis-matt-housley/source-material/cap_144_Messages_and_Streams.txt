@@ -1,0 +1,47 @@
+# Messages and Streams
+
+Paginas: 188-188
+
+Table 5-1. An insert-only pattern produces multiple versions of a record
+Record ID
+Value
+Timestamp
+1
+40
+2021-09-19T00:10:23+00:00
+1
+51
+2021-09-30T00:12:00+00:00
+In a sense, the insert-only pattern maintains a database log directly in the table itself,
+making it especially useful if the application needs access to history. For example, the
+insert-only pattern would work well for a banking application designed to present
+customer address history.
+A separate analytics insert-only pattern is often used with regular CRUD application
+tables. In the insert-only ETL pattern, data pipelines insert a new record in the target
+analytics table anytime an update occurs in the CRUD table.
+Insert-only has a couple of disadvantages. First, tables can grow quite large, especially
+if data frequently changes, since each change is inserted into the table. Sometimes
+records are purged based on a record sunset date or a maximum number of record
+versions to keep table size reasonable. The second disadvantage is that record lookups
+incur extra overhead because looking up the current state involves running MAX
+(created_timestamp). If hundreds or thousands of records are under a single ID,
+this lookup operation is expensive to run.
+Messages and Streams
+Related to event-driven architecture, two terms that you’ll often see used interchange‐
+ably are message queue and streaming platform, but a subtle but essential difference
+exists between the two. Defining and contrasting these terms is worthwhile since they
+encompass many big ideas related to source systems and practices and technologies
+spanning the entire data engineering lifecycle.
+A message is raw data communicated across two or more systems (Figure 5-4).
+For example, we have System 1 and System 2, where System 1 sends a message to
+System 2. These systems could be different microservices, a server sending a message
+to a serverless function, etc. A message is typically sent through a message queue from
+a publisher to a consumer, and once the message is delivered, it is removed from the
+queue.
+Figure 5-4. A message passed between two systems
+Messages are discrete and singular signals in an event-driven system. For example,
+an IoT device might send a message with the latest temperature reading to a message
+Source Systems: Main Ideas
+|
+163
+

@@ -1,0 +1,151 @@
+# Glossário
+
+Paginas: 413-417
+
+Glossário
+Aleatoriedade como informação incompleta: em termos simples, o que não
+consigo adivinhar é aleatório porque meu conhecimento sobre as causas é
+incompleto, não necessariamente porque o processo tem propriedades
+verdadeiramente imprevisíveis.
+Argumento de regressão estatística (ou o problema da circularidade de
+estatísticas):
+precisamos
+de
+dados
+para
+descobrir
+uma
+distribuição de probabilidades. Como sabemos se temos dados suﬁcientes? A
+partir da distribuição de probabilidades. Se for uma gaussiana, alguns pontos de
+dados serão suﬁcientes. Como sabemos que é uma gaussiana? A partir
+dos dados. Portanto, precisamos que os dados nos digam qual é a distribuição de
+probabilidades que devemos presumir, e precisamos que uma distribuição de
+probabilidades nos diga a quantidade de dados de que precisamos. Isso causa um
+grave argumento de regressão, que até certo ponto é descaradamente contornado
+recorrendo-se à gaussiana e aﬁns.
+Arrogância epistêmica: meça a diferença entre o que alguém realmente sabe e o
+quanto pensa que sabe. Um excesso implicará arrogância, um déﬁcit indicará
+humildade. Um epistemocrata é alguém com humildade epistêmica, que encara
+com grande desconﬁança seu próprio conhecimento.
+Bildungsphilister: um ﬁlisteu com cultura cosmética e não genuína. Nietzsche
+usou esse termo para se referir aos leitores de jornais e amantes de ópera
+propensos a dogmas, gente com exposição cosmética à cultura e com a
+profundidade de um pires. Aqui amplio o termo para o pesquisador que usa
+palavras de efeito em campos não experimentais, carece de imaginação,
+curiosidade, erudição e cultura e está ﬁrmemente centrado em suas ideias, em
+
+sua “disciplina”. Isso o impede de ver os conﬂitos entre suas ideias e a textura do
+mundo.
+Cegueira em relação ao Cisne Negro: a subestimação do papel do Cisne
+Negro, e a ocasional superestimação de um Cisne Negro especíﬁco.
+Cegueira em relação ao futuro: nossa incapacidade natural de levar em
+consideração as propriedades do futuro — como o autismo, que impede que se
+leve em consideração a existência da mente de outras pessoas.
+Cisne Cinzento mandelbrotiano: Cisnes Negros que até certo grau podemos
+levar em consideração — terremotos, livros que se tornam campeões de vendas,
+quebra do mercado de ações —, mas cujas propriedades não é possível decifrar
+por completo e para os quais não se pode produzir cálculos precisos.
+Conhecimento de nerd: a crença de que o que não pode ser platonizado e
+estudado sequer existe ou não vale a pena ser levado em consideração. Existe até
+mesmo uma forma de ceticismo praticada pelo nerd.
+Desdém pelo abstrato: favorecer o pensamento contextualizado em detrimento
+de questões mais abstratas, embora mais relevantes. “A morte de uma criança é
+uma tragédia; a morte de 1 milhão de crianças é uma estatística.”
+Disciplina narrativa: a disciplina que consiste em encaixar no passado uma
+história convincente e agradável aos ouvidos. O oposto da disciplina
+experimental.
+Distorção retrospectiva: examinar eventos passados sem fazer ajustes para levar
+em conta a passagem do tempo. Isso leva à ilusão de previsibilidade posterior.
+Distribuição de probabilidades: o modelo usado para calcular as
+probabilidades de diferentes eventos, como eles são “distribuídos”. Quando
+dizemos que um evento é distribuído de acordo com a curva em forma de sino,
+queremos dizer que a curva em forma de sino gaussiana pode ajudar a fornecer
+probabilidades de várias ocorrências.
+Dobra platônica: o lugar onde nossa representação platônica entra em contato
+com a realidade e é possível ver os efeitos colaterais dos modelos.
+
+Epilogismo: método isento de teorias para a observação da história, que consiste
+no acúmulo de fatos com o mínimo de generalização e tomando ciência dos
+efeitos colaterais de se fazer alegações causais.
+Erro de conﬁrmação (ou conﬁrmação platônica): você procura exemplos que
+conﬁrmam suas crenças, sua construção (ou modelo) — e os encontra.
+Escândalo de previsão: o precário histórico de previsão em algumas entidades
+previsoras (especialmente disciplinas narrativas) combinado a comentários
+verborrágicos e falta de consciência acerca de seu próprio histórico catastróﬁco.
+Estratégia ao estilo de Apeles: uma estratégia para buscar ganhos por meio da
+compilação de acidentes positivos a partir da maximização da exposição a “Cisnes
+Negros bons”.
+Estratégia barbell [barra de haltere]: método que consiste em assumir ao
+mesmo tempo uma postura defensiva e uma atitude excessivamente agressiva,
+protegendo ativos de todas as fontes de incerteza e alocando uma pequena
+parcela deles para estratégias de alto risco.
+Extremistão: a província onde é concebível que o total possa ser impactado por
+uma única observação.
+Falácia da evidência silenciosa: olhando para a história, não vemos a história
+em sua totalidade, apenas as partes mais auspiciosas do processo.
+Falácia de ida e volta: confundir a ausência de evidências de Cisnes Negros (ou
+outra coisa) com a evidência de ausência de Cisnes Negros (ou outra coisa). Afeta
+estatísticos e outras pessoas que, por terem resolvido equações demais, perderam
+parte de sua capacidade de raciocínio.
+Falácia do bilhete de loteria: a ingênua analogia que equipara um investimento
+na reunião de Cisnes Negros positivos ao acúmulo de bilhetes de loteria. Bilhetes
+de loteria não são escaláveis.
+Falácia lúdica (ou incerteza do nerd): a manifestação da falácia platônica no
+estudo da incerteza; basear estudos de probabilidade no estreito mundo dos
+jogos e dados. A aleatoriedade aplatônica tem uma camada adicional de incerteza
+
+referente às regras do jogo na vida real. A curva em forma de sino (gaussiana), ou
+HG (Grande Fraude Intelectual), é a aplicação da falácia lúdica à aleatoriedade.
+Falácia narrativa: nossa necessidade de encaixar uma história ou padrão a uma
+série de fatos conectados ou desconectados. A aplicação estatística é a mineração
+de dados.
+Iludidos pelo acaso: a confusão generalizada entre sorte e determinismo, o que
+leva a uma variedade de superstições com consequências práticas, como a crença
+de que ganhos mais elevados em algumas proﬁssões são gerados por habilidades,
+quando existe neles um signiﬁcativo componente de sorte.
+Incerteza dos iludidos: pessoas que enxergam fontes de incerteza com “visão de
+túnel” ao produzirem na vida real fontes precisas como o princípio da grande
+incerteza, ou questões semelhantes, menos relevantes; preocupar-se com
+partículas subatômicas e ao mesmo tempo esquecer-se de que não somos capazes
+de prever as crises de amanhã.
+Libertário acadêmico: alguém (como eu) que considera que o conhecimento
+está sujeito a regras estritas, mas não à autoridade institucional, pois o interesse
+do conhecimento organizado é a autoperpetuação, não necessariamente a
+verdade (como acontece com os governos). O mundo acadêmico pode sofrer de
+um agudo problema de especialista, produzindo conhecimento cosmético, mas
+falso, em especial nas disciplinas narrativas, e pode ser uma grande fonte de
+Cisnes Negros.
+Louco de Locke: alguém que elabora raciocínios impecáveis e rigorosos a partir
+de premissas erradas — como Paul Samuelson, Robert Merton, o mais jovem, e
+Gerard Debreu —, produzindo, assim, modelos fajutos de incertezas que nos
+tornam vulneráveis aos Cisnes Negros.
+Mediocristão: a província dominada pelos medíocres, com poucos sucessos ou
+fracassos extremos. Nenhuma observação isolada pode afetar de forma
+signiﬁcativa o agregado. A curva em forma de sino é baseada no Mediocristão. Há
+uma diferença qualitativa entre gaussianas e leis escaláveis, assim como entre gás
+e água.
+
+Opacidade epistêmica: a aleatoriedade é o resultado de informações
+incompletas em alguma camada. Em termos funcionais, é indistinguível da
+aleatoriedade “verdadeira” ou “física”.
+Platonicidade: o foco em objetos puros, bem deﬁnidos e facilmente
+discerníveis, como triângulos, ou em noções mais sociais como amizade ou amor,
+ao custo de se ignorarem os objetos de estruturas aparentemente mais confusas e
+menos manejáveis.
+Problema da indução: a extensão lógico-ﬁlosóﬁca do problema do Cisne Negro.
+Problema de engenharia reversa: é mais fácil prever como um cubo de gelo
+derreteria até formar uma poça d’água do que, olhando para uma poça, adivinhar
+a forma do cubo de gelo que a teria gerado. Esse “problema inverso” torna
+suspeitas as disciplinas e explicações narrativas (histórias, por exemplo).
+Problema do “zero à esquerda metido a besta” (ou “problema de
+especialista”): alguns proﬁssionais não têm nenhuma habilidade que os
+diferencie do restante da população, mas, por alguma razão, e contra seu
+histórico empírico, são considerados especialistas: psicólogos clínicos,
+economistas acadêmicos, “especialistas” em risco, estatísticos, analistas políticos,
+“especialistas” ﬁnanceiros, analistas militares, 5>fs de empresas etc. Eles se
+valem de linguagem embelezada, jargão e matemática para enfeitar sua perícia, e
+costumam vestir ternos caros.
+Problema ético do Cisne Negro: devido ao aspecto não repetível do Cisne
+Negro, há uma assimetria entre as recompensas daqueles que previnem e
+daqueles que curam.
+

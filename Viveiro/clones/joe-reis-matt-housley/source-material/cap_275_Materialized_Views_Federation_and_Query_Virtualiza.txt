@@ -1,0 +1,109 @@
+# Materialized Views, Federation, and Query Virtualization
+
+Paginas: 348-350
+
+18 “What Is the Difference Between Apache Spark and Hadoop MapReduce?,” Knowledge Powerhouse YouTube
+video, May 20, 2017, https://oreil.ly/WN0eX.
+simplifies state and workflow management and minimizes memory consumption, but
+it can also drive high-disk bandwidth utilization and increase processing time.
+The MapReduce paradigm was constructed around the idea that magnetic disk
+capacity and bandwidth were so cheap that it made sense to simply throw a massive
+amount of disk at data to realize ultra-fast queries. This worked to an extent; Map‐
+Reduce repeatedly set data processing records during the early days of Hadoop.
+However, we have lived in a post-MapReduce world for quite some time. Post-
+MapReduce processing does not truly discard MapReduce; it still includes the ele‐
+ments of map, shuffle, and reduce, but it relaxes the constraints of MapReduce to
+allow for in-memory caching.18 Recall that RAM is much faster than SSD and HDDs
+in transfer speed and seek time. Persisting even a tiny amount of judiciously chosen
+data in memory can dramatically speed up specific data processing tasks and utterly
+crush the performance of MapReduce.
+For example, Spark, BigQuery, and various other data processing frameworks were
+designed around in-memory processing. These frameworks treat data as a distributed
+set that resides in memory. If data overflows available memory, this causes a spill to
+disk. The disk is treated as a second-class data-storage layer for processing, though it
+is still highly valuable.
+The cloud is one of the drivers for the broader adoption of memory caching; it
+is much more effective to lease memory during a specific processing job than to
+own it 24 hours a day. Advancements in leveraging memory for transformations will
+continue to yield gains for the foreseeable future.
+Materialized Views, Federation, and Query Virtualization
+In this section, we look at several techniques that virtualize query results by present‐
+ing them as table-like objects. These techniques can become part of a transformation
+pipeline or sit right before end-user data consumption.
+Views
+First, let’s review views to set the stage for materialized views. A view is a database
+object that we can select from just like any other table. In practice, a view is just a
+query that references other tables. When we select from a view, that database creates
+a new query that combines the view subquery with our query. The query optimizer
+then optimizes and runs the full query.
+Transformations
+|
+323
+
+Views play a variety of roles in a database. First, views can serve a security role.
+For example, views can select only specific columns and filter rows, thus providing
+restricted data access. Various views can be created for job roles depending on user
+data access.
+Second, a view might be used to provide a current deduplicated picture of data.
+If we’re using an insert-only pattern, a view may be used to return a deduplicated
+version of a table showing only the latest version of each record.
+Third, views can be used to present common data access patterns. Suppose that
+marketing analysts must frequently run a query that joins five tables. We could create
+a view that joins together these five tables into a wide table. Analysts can then write
+queries that filter and aggregate on top of this view.
+Materialized views
+We mentioned materialized views in our earlier discussion of query caching. A
+potential disadvantage of (nonmaterialized) views is that they don’t do any precom‐
+putation. In the example of a view that joins five tables, this join must run every
+time a marketing analyst runs a query on this view, and the join could be extremely
+expensive.
+A materialized view does some or all of the view computation in advance. In our
+example, a materialized view might save the five table join results every time a change
+occurs in the source tables. Then, when a user references the view, they’re querying
+from the prejoined data. A materialized view is a de facto transformation step, but the
+database manages execution for convenience.
+Materialized views may also serve a significant query optimization role depending
+on the database, even for queries that don’t directly reference them. Many query
+optimizers can identify queries that “look like” a materialized view. An analyst may
+run a query that uses a filter that appears in a materialized view. The optimizer will
+rewrite the query to select from the precomputed results.
+Composable materialized views
+In general, materialized views do not allow for composition—that is, a materialized
+view cannot select from another materialized view. However, we’ve recently seen
+the emergence of tools that support this capability. For example, Databricks has intro‐
+duced the notion of live tables. Each table is updated as data arrives from sources.
+Data flows down to subsequent tables asynchronously.
+Federated queries
+Federated queries are a database feature that allows an OLAP database to select from
+an external data source, such as object storage or RDBMS. For example, let’s say
+324
+|
+Chapter 8: Queries, Modeling, and Transformation
+
+you need to combine data across object storage and various tables in MySQL and
+PostgreSQL databases. Your data warehouse can issue a federated query to these
+sources and return the combined results (Figure 8-19).
+Figure 8-19. An OLAP database issues a federated query that gets data from object
+storage, MySQL, and PostgreSQL and returns a query result with the combined data
+As another example, Snowflake supports the notion of external tables defined on
+S3 buckets. An external data location and a file format are defined when creating
+the table, but data is not yet ingested into the table. When the external table is
+queried, Snowflake reads from S3 and processes the data based on the parameters
+set at the time of the table’s creation. We can even join S3 data to internal database
+tables. This makes Snowflake and similar databases more compatible with a data lake
+environment.
+Some OLAP systems can convert federated queries into materialized views. This gives
+us much of the performance of a native table without the need to manually ingest
+data every time the external source changes. The materialized view gets updated
+whenever the external data changes.
+Data virtualization
+Data virtualization is closely related to federated queries, but this typically entails a
+data processing and query system that doesn’t store data internally. Right now, Trino
+(e.g., Starburst) and Presto are examples par excellence. Any query/processing engine
+that supports external tables can serve as a data virtualization engine. The most
+significant considerations with data virtualization are supported external sources and
+performance.
+Transformations
+|
+325
+

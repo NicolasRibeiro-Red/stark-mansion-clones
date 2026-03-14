@@ -1,0 +1,28 @@
+# Additional Resources
+
+Paginas: 403-403
+
+Why is this important? Every technology contributor develops a domain of technical
+expertise. Even if your company employs an army of security researchers, data engi‐
+neers will become intimately familiar with specific data systems and cloud services
+in their purview. Experts in a particular technology are well positioned to identify
+security holes in this technology.
+Encourage every data engineer to be actively involved in security. When they identify
+potential security risks in their systems, they should think through mitigations and
+take an active role in deploying these.
+Conclusion
+Security needs to be a habit of mind and action; treat data like your wallet or
+smartphone. Although you won’t likely be in charge of security for your company,
+knowing basic security practices and keeping security top of mind will help reduce
+the risk of data security breaches at your organization.
+Additional Resources
+• Building Secure and Reliable Systems by Heather Adkins et al. (O’Reilly)
+•
+• Open Web Application Security Project (OWASP) publications
+•
+• Practical Cloud Security by Chris Dotson (O’Reilly)
+•
+378
+|
+Chapter 10: Security and Privacy
+

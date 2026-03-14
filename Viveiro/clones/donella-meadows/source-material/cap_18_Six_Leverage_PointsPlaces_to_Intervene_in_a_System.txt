@@ -1,0 +1,695 @@
+# Six: Leverage Points—Places to Intervene in a System
+
+Paginas: 142-159
+
+
+— SIX —
+Leverage Points— Places to
+Intervene in a System
+IBM … announced 25,000 new job cuts and a large reduction in
+spending on research.… Spending on development research is to be
+lowered by $1 billion next year.… Chairman John K. Akers … said
+IBM was still a world and industry leader in research but felt it
+could do better by “shifting to areas for growth,” meaning services,
+which need less capital but also return less profit in the long run.
+—Lawrence Malkin, International Herald Tribune, 19921
+So, how do we change the structure of systems to produce more of what we
+want and less of that which is undesirable? After years of working with
+corporations on their systems problems, MIT’s Jay Forrester likes to say that the
+average manager can define the current problem very cogently, identify the
+system structure that leads to the problem, and guess with great accuracy where
+to look for leverage points—places in the system where a small change could
+lead to a large shift in behavior.
+This idea of leverage points is not unique to systems analysis—it’s embedded
+in legend: the silver bullet; the trimtab; the miracle cure; the secret passage; the
+magic password; the single hero who turns the tide of history; the nearly
+effortless way to cut through or leap over huge obstacles. We not only want to
+believe that there are leverage points, we want to know where they are and how
+to get our hands on them. Leverage points are points of power.
+But Forrester goes on to point out that although people deeply involved in a
+system often know intuitively where to find leverage points, more often than not
+they push the change in the wrong direction.
+The classic example of that backward intuition was my own introduction to
+systems analysis, the World model. Asked by the Club of Rome—an
+international group of businessmen, statesmen, and scientists—to show how
+major global problems of poverty and hunger, environmental destruction,
+
+resource depletion, urban deterioration, and unemployment are related and how
+they might be solved, Forrester made a computer model and came out with a
+clear leverage point: growth.2 Not only population growth, but economic
+growth. Growth has costs as well as benefits, and we typically don’t count the
+costs—among which are poverty and hunger, environmental destruction, and so
+on—the whole list of problems we are trying to solve with growth! What is
+needed is much slower growth, very different kinds of growth, and in some
+cases no growth or negative growth.
+The world’s leaders are correctly fixated on economic growth as the answer to
+virtually all problems, but they’re pushing with all their might in the wrong
+direction.
+Another of Forrester’s classics was his study of urban dynamics, published in
+1969, which demonstrated that subsidized low-income housing is a leverage
+point.3 The less of it there is, the better off the city is—even the low-income
+folks in the city. This model came out at a time when national policy dictated
+massive low-income housing projects, and Forrester was derided. Since then,
+many of those projects have been torn down in city after city.
+Counterintuitive—that’s Forrester’s word to describe complex systems.
+Leverage points frequently are not intuitive. Or if they are, we too often use
+them backward, systematically worsening whatever problems we are trying to
+solve.
+I have come up with no quick or easy formulas for finding leverage points in
+complex and dynamic systems. Give me a few months or years and I’ll figure it
+out. And I know from bitter experience that, because they are so
+counterintuitive, when I do discover a system’s leverage points, hardly anybody
+will believe me. Very frustrating—especially for those of us who yearn not just
+to understand complex systems, but to make the world work better.
+It was in just such a moment of frustration that I proposed a list of places to
+intervene in a system during a meeting on the implications of global-trade
+regimes. I offer this list to you with much humility and wanting to leave room
+for its evolution. What bubbled up in me that day was distilled from decades of
+rigorous analysis of many different kinds of systems done by many smart
+people. But complex systems are, well, complex. It’s dangerous to generalize
+about them. What you read here is still a work in progress; it’s not a recipe for
+finding leverage points. Rather, it’s an invitation to think more broadly about
+system change.
+As systems become complex, their behavior can become surprising. Think
+about your checking account. You write checks and make deposits. A little
+interest keeps flowing in (if you have a large enough balance) and bank fees
+flow out even if you have no money in the account, thereby creating an
+accumulation of debt. Now attach your account to a thousand others and let the
+
+bank create loans as a function of your combined and fluctuating deposits, link a
+thousand of those banks into a federal reserve system—and you begin to see
+how simple stocks and flows, plumbed together, create systems way too
+complicated and dynamically complex to figure out easily.
+That’s why leverage points are often not intuitive. And that’s enough systems
+theory to proceed to the list.
+12. Numbers—Constants and parameters such as subsidies, taxes,
+standards
+Think about the basic stock-and-flow bathtub from Chapter One. The size of the
+flows is a matter of numbers and how quickly those numbers can be changed.
+Maybe the faucet turns hard, so it takes a while to get the water flowing or to
+turn it off. Maybe the drain is blocked and can allow only a small flow, no
+matter how open it is. Maybe the faucet can deliver with the force of a fire hose.
+Some of these kinds of parameters are physically locked in and unchangeable,
+but many can be varied and so are popular intervention points.
+Consider the national debt. It may seem like a strange stock; it is a money
+hole. The rate at which the hole deepens is called the annual deficit. Income
+from taxes shrinks the hole, government expenditures expand it. Congress and
+the president spend most of their time arguing about the many, many parameters
+that increase (spending) and decrease (taxing) the size or depth of the hole.
+Since those flows are connected to us, the voters, these are politically charged
+parameters. But, despite all the fireworks, and no matter which party is in
+charge, the money hole has been deepening for years now, just at different rates.
+To adjust the dirtiness of the air we breathe, the government sets parameters
+called ambient-air-quality standards. To ensure some standing stock of forest (or
+some flow of money to logging companies), it sets allowed annual cuts.
+Corporations adjust parameters such as wage rates and product prices, with an
+eye on the level in their profit bathtub—the bottom line.
+The amount of land we set aside for conservation each year. The minimum
+wage. How much we spend on AIDS research or Stealth bombers. The service
+charge the bank extracts from your account. All of these are parameters,
+adjustments to faucets. So, by the way, is firing people and getting new ones,
+including politicians. Putting different hands on the faucets may change the rate
+at which the faucets turn, but if they’re the same old faucets, plumbed into the
+same old system, turned according to the same old information and goals and
+rules, the system behavior isn’t going to change much. Electing Bill Clinton was
+definitely different from electing the elder George Bush, but not all that
+different, given that every president is plugged into the same political system.
+
+(Changing the way money flows in that system would make much more of a
+difference—but I’m getting ahead of myself on this list.)
+Numbers, the sizes of flows, are dead last on my list of powerful
+interventions. Diddling with the details, arranging the deck chairs on the Titanic.
+Probably 90—no 95, no 99 percent—of our attention goes to parameters, but
+there’s not a lot of leverage in them.
+It’s not that parameters aren’t important—they can be, especially in the short
+term and to the individual who’s standing directly in the flow. People care
+deeply about such variables as taxes and the minimum wage, and so fight fierce
+battles over them. But changing these variables rarely changes the behavior of
+the national economy system. If the system is chronically stagnant, parameter
+changes rarely kick-start it. If it’s wildly variable, they usually don’t stabilize it.
+If it’s growing out of control, they don’t slow it down.
+Whatever cap we put on campaign contributions, it doesn’t clean up politics.
+The Fed’s fiddling with the interest rate hasn’t made business cycles go away.
+(We always forget that during upturns, and are shocked, shocked by the
+downturns.) After decades of the strictest air pollution standards in the world,
+Los Angeles air is less dirty, but it isn’t clean. Spending more on police doesn’t
+make crime go away.
+Since I’m about to get into some examples where parameters are leverage
+points, let me stick in a big caveat here. Parameters become leverage points
+when they go into ranges that kick off one of the items higher on this list.
+Interest rates, for example, or birth rates, control the gains around reinforcing
+feedback loops. System goals are parameters that can make big differences.
+These kinds of critical numbers are not nearly as common as people seem to
+think they are. Most systems have evolved or are designed to stay far out of
+range of critical parameters. Mostly, the numbers are not worth the sweat put
+into them.
+Here’s a story a friend sent me over the Internet to makes that point:
+When I became a landlord, I spent a lot of time and energy trying to
+figure out what would be a “fair” rent to charge.
+I tried to consider all the variables, including the relative incomes
+of my tenants, my own income and cash-flow needs, which
+expenses were for upkeep and which were capital expenses, the
+equity versus the interest portion of the mortgage payments, how
+much my labor on the house was worth, etc.
+I got absolutely nowhere. Finally I went to someone who
+specializes in giving money advice. She said: “You’re acting as
+though there is a fine line at which the rent is fair, and at any point
+above that point the tenant is being screwed and at any point below
+
+that you are being screwed. In fact, there is a large gray area in
+which both you and the tenant are getting a good, or at least a fair,
+deal. Stop worrying and get on with your life.”4
+11. Buffers—The sizes of stabilizing stocks relative to their flows
+Consider a huge bathtub with slow in-and outflows. Now think about a small
+one with very fast flows. That’s the difference between a lake and a river. You
+hear about catastrophic river floods much more often than catastrophic lake
+floods, because stocks that are big, relative to their flows, are more stable than
+small ones. In chemistry and other fields, a big, stabilizing stock is known as a
+buffer.
+The stabilizing power of buffers is why you keep money in the bank rather
+than living from the flow of change through your pocket. It’s why stores hold
+inventory instead of calling for new stock just as customers carry the old stock
+out the door. It’s why we need to maintain more than the minimum breeding
+population of an endangered species. Soils in the eastern United States are more
+sensitive to acid rain than soils in the west, because they haven’t got big buffers
+of calcium to neutralize acid.
+You can often stabilize a system by increasing the capacity of a buffer.5 But if
+a buffer is too big, the system gets inflexible. It reacts too slowly. And big
+buffers of some sorts, such as water reservoirs or inventories, cost a lot to build
+or maintain. Businesses invented just-in-time inventories, because occasional
+vulnerability to fluctuations or screw-ups is cheaper (for them, anyway) than
+certain, constant inventory costs—and because small-to-vanishing inventories
+allow more flexible response to shifting demand.
+There’s leverage, sometimes magical, in changing the size of buffers. But
+buffers are usually physical entities, not easy to change. The acid absorption
+capacity of eastern soils is not a leverage point for alleviating acid rain damage.
+The storage capacity of a dam is literally cast in concrete. So I haven’t put
+buffers very high on the list of leverage points.
+10. Stock-and-Flow Structures—Physical systems and their nodes
+of intersection
+The plumbing structure, the stocks and flows and their physical arrangement,
+can have an enormous effect on how the system operates. When the Hungarian
+road system was laid out so all traffic from one side of the nation to the other
+had to pass through central Budapest, that determined a lot about air pollution
+
+and commuting delays that are not easily fixed by pollution control devices,
+traffic lights, or speed limits.
+The only way to fix a system that is laid out poorly is to rebuild it, if you can.
+Amory Lovins and his team at Rocky Mountain Institute have done wonders on
+energy conservation by simply straightening out bent pipes and enlarging ones
+that are too small. If we did similar energy retrofits on all the buildings in the
+United States, we could shut down many of our electric power plants.
+But often physical rebuilding is the slowest and most expensive kind of
+change to make in a system. Some stock-and-flow structures are just plain
+unchangeable. The baby-boom swell in the U.S. population first caused pressure
+on the elementary school system, then high schools, then colleges, then jobs and
+housing, and now we’re supporting its retirement. There’s not much we can do
+about it, because five-year-olds become six-year-olds, and sixty-four-year-olds
+become sixty-five-year-olds predictably and unstoppably. The same can be said
+for the lifetime of destructive CFC molecules in the ozone layer, for the rate at
+which contaminants get washed out of aquifers, for the fact that an inefficient
+car fleet takes ten to twenty years to turn over.
+Physical structure is crucial in a system, but is rarely a leverage point, because
+changing it is rarely quick or simple. The leverage point is in proper design in
+the first place. After the structure is built, the leverage is in understanding its
+limitations and bottlenecks, using it with maximum efficiency, and refraining
+from fluctuations or expansions that strain its capacity.
+9. Delays—The lengths of time relative to the rates of system
+changes
+Delays in feedback loops are critical determinants of system behavior. They are
+common causes of oscillations. If you’re trying to adjust a stock (your store
+inventory) to meet your goal, but you receive only delayed information about
+what the state of the stock is, you will overshoot and undershoot your goal. The
+same is true if your information is timely, but your response isn’t. For example,
+it takes several years to build an electric power plant that will likely last thirty
+years. Those delays make it impossible to build exactly the right number of
+power plants to supply rapidly changing demand for electricity. Even with
+immense effort at forecasting, almost every electricity industry in the world
+experiences long oscillations between overcapacity and undercapacity. A system
+just can’t respond to short-term changes when it has long-term delays. That’s
+why a massive central-planning system, such as the Soviet Union or General
+Motors, necessarily functions poorly.
+Because we know they’re important, we see delays wherever we look. For
+example, the delay between the time when a pollutant is dumped on the land and
+
+when it trickles down to the groundwater; or the delay between the birth of a
+child and the time when that child is ready to have a child; or the delay between
+the first successful test of a new technology and the time when that technology
+is installed throughout the economy; or the time it takes for a price to adjust to a
+supply-demand imbalance.
+A delay in a feedback process is critical relative to rates of change in the
+stocks that the feedback loop is trying to control. Delays that are too short cause
+overreaction, “chasing your tail,” oscillations amplified by the jumpiness of the
+response. Delays that are too long cause damped, sustained, or exploding
+oscillations, depending on how much too long. Overlong delays in a system with
+a threshold, a danger point, a range past which irreversible damage can occur,
+cause overshoot and collapse.
+I would list delay length as a high leverage point, except for the fact that
+delays are not often easily changeable. Things take as long as they take. You
+can’t do a lot about the construction time of a major piece of capital, or the
+maturation time of a child, or the growth rate of a forest. It’s usually easier to
+slow down the change rate, so that inevitable feedback delays won’t cause so
+much trouble. That’s why growth rates are higher up on the leverage-point list
+than delay times.
+And that’s why slowing economic growth is a greater leverage point in
+Forrester’s World model than faster technological development or freer market
+prices. Those are attempts to speed up the rate of adjustment. But the world’s
+physical capital stock, its factories and boilers, the concrete manifestations of its
+working technologies, can change only so fast, even in the face of new prices or
+new ideas—and prices and ideas don’t change instantly either, not through a
+whole global culture. There’s more leverage in slowing the system down so
+technologies and prices can keep up with it, than there is in wishing the delays
+would go away.
+But if there is a delay in your system that can be changed, changing it can
+have big effects. Watch out! Be sure you change it in the right direction! (For
+example, the great push to reduce information and money-transfer delays in
+financial markets is just asking for wild gyrations.)
+8. Balancing Feedback Loops—The strength of the feedbacks
+relative to the impacts they are trying to correct
+Now we’re beginning to move from the physical part of the system to the
+information and control parts, where more leverage can be found.
+Balancing feedback loops are ubiquitous in systems. Nature evolves them and
+humans invent them as controls to keep important stocks within safe bounds. A
+thermostat loop is the classic example. Its purpose is to keep the system stock
+
+called “temperature of the room” fairly constant near a desired level. Any
+balancing feedback loop needs a goal (the thermostat setting), a monitoring and
+signaling device to detect deviation from the goal (the thermostat), and a
+response mechanism (the furnace and/or air conditioner, fans, pumps, pipes,
+fuel, etc.).
+A complex system usually has numerous balancing feedback loops it can
+bring into play, so it can self-correct under different conditions and impacts.
+Some of those loops may be inactive much of the time—like the emergency
+cooling system in a nuclear power plant, or your ability to sweat or shiver to
+maintain your body temperature—but their presence is critical to the long-term
+welfare of the system.
+One of the big mistakes we make is to strip away these “emergency” response
+mechanisms because they aren’t often used and they appear to be costly. In the
+short term, we see no effect from doing this. In the long term, we drastically
+narrow the range of conditions over which the system can survive. One of the
+most heartbreaking ways we do this is in encroaching on the habitats of
+endangered species. Another is in encroaching on our own time for personal
+rest, recreation, socialization, and meditation.
+The strength of a balancing loop—its ability to keep its appointed stock at or
+near its goal—depends on the combination of all its parameters and links—the
+accuracy and rapidity of monitoring, the quickness and power of response, the
+directness and size of corrective flows. Sometimes there are leverage points
+here.
+Take markets, for example, the balancing feedback systems that are all but
+worshipped by many economists. They can indeed be marvels of self-correction,
+as prices vary to moderate supply and demand and keep them in balance. Price
+is the central piece of information signaling both producers and consumers. The
+more the price is kept clear, unambiguous, timely, and truthful, the more
+smoothly markets will operate. Prices that reflect full costs will tell consumers
+how much they can actually afford and will reward efficient producers.
+Companies and governments are fatally attracted to the price leverage point, but
+too often determinedly push it in the wrong direction with subsidies, taxes, and
+other forms of confusion.
+These modifications weaken the feedback power of market signals by twisting
+information in their favor. The real leverage here is to keep them from doing it.
+Hence, the necessity of antitrust laws, truth-in-advertising laws, attempts to
+internalize costs (such as pollution fees), the removal of perverse subsidies, and
+other ways of leveling market playing fields.
+Strengthening and clarifying market signals, such as full-cost accounting,
+don’t get far these days, because of the weakening of another set of balancing
+feedback loops—those of democracy. This great system was invented to put
+
+self-correcting feedback between the people and their government. The people,
+informed about what their elected representatives do, respond by voting those
+representatives in or out of office. The process depends on the free, full,
+unbiased flow of information back and forth between electorate and leaders.
+Billions of dollars are spent to limit and bias and dominate that flow of clear
+information. Give the people who want to distort market-price signals the power
+to influence government leaders, allow the distributors of information to be self-
+interested partners, and none of the necessary balancing feedbacks work well.
+Both market and democracy erode.
+The strength of a balancing feedback loop is important relative to the impact it
+is designed to correct. If the impact increases in strength, the feedbacks have to
+be strengthened too. A thermostat system may work fine on a cold winter day—
+but open all the windows and its corrective power is no match for the
+temperature change imposed on the system. Democracy works better without
+the brainwashing power of centralized mass communications. Traditional
+controls on fishing were sufficient until sonar spotting and drift nets and other
+technologies made it possible for a few actors to catch the last fish. The power
+of big industry calls for the power of big government to hold it in check; a
+global economy makes global regulations necessary.
+Examples of strengthening balancing feedback controls to improve a system’s
+self-correcting abilities include:
+preventive medicine, exercise, and good nutrition to bolster the
+body’s ability to fight disease,
+integrated pest management to encourage natural predators of
+crop pests,
+the Freedom of Information Act to reduce government secrecy,
+monitoring systems to report on environmental damage,
+protection for whistleblowers, and
+impact fees, pollution taxes, and performance bonds to recapture
+the externalized public costs of private benefits.
+7. Reinforcing Feedback Loops—The strength of the gain of driving
+loops
+A balancing feedback loop is self-correcting; a reinforcing feedback loop is self-
+reinforcing. The more it works, the more it gains power to work some more,
+driving system behavior in one direction. The more people catch the flu, the
+more they infect other people. The more babies are born, the more people grow
+up to have babies. The more money you have in the bank, the more interest you
+earn, the more money you have in the bank. The more the soil erodes, the less
+
+vegetation it can support, the fewer roots and leaves to soften rain and runoff,
+the more soil erodes. The more high-energy neutrons in the critical mass, the
+more they knock into nuclei and generate more high-energy neutrons, leading to
+a nuclear explosion or meltdown.
+Reinforcing feedback loops are sources of growth, explosion, erosion, and
+collapse in systems. A system with an unchecked reinforcing loop ultimately
+will destroy itself. That’s why there are so few of them. Usually a balancing
+loop will kick in sooner or later. The epidemic will run out of infectible people
+—or people will take increasingly stronger steps to avoid being infected. The
+death rate will rise to equal the birth rate—or people will see the consequences
+of unchecked population growth and have fewer babies. The soil will erode
+away to bedrock, and after a million years the bedrock will crumble into new
+soil—or people will stop overgrazing, put up check dams, plant trees, and stop
+the erosion.
+In all those examples, the first outcome is what will happen if the reinforcing
+loop runs its course, the second is what will happen if there’s an intervention to
+reduce its self-multiplying power. Reducing the gain around a reinforcing loop
+—slowing the growth—is usually a more powerful leverage point in systems
+than strengthening balancing loops, and far more preferable than letting the
+reinforcing loop run.
+Population and economic growth rates in the World model are leverage points,
+because slowing them gives the many balancing loops, through technology and
+markets and other forms of adaptation (all of which have limits and delays),
+time to function. It’s the same as slowing the car when you’re driving too fast,
+rather than calling for more responsive brakes or technical advances in steering.
+There are many reinforcing feedback loops in society that reward the winners
+of a competition with the resources to win even bigger next time—the “success
+to the successful” trap. Rich people collect interest; poor people pay it. Rich
+people pay accountants and lean on politicians to reduce their taxes; poor people
+can’t. Rich people give their kids inheritances and good educations. Antipoverty
+programs are weak balancing loops that try to counter these strong reinforcing
+ones. It would be much more effective to weaken the reinforcing loops. That’s
+what progressive income tax, inheritance tax, and universal high-quality public
+education programs are meant to do. If the wealthy can influence government to
+weaken, rather than strengthen, those measures, then the government itself shifts
+from a balancing structure to one that reinforces success to the successful!
+Look for leverage points around birth rates, interest rates, erosion rates,
+“success to the successful” loops, any place where the more you have of
+something, the more you have the possibility of having more.
+
+6. Information Flows—The structure of who does and does not have
+access to information
+In Chapter Four, we examined the story of the electric meter in a Dutch housing
+development—in some of the houses the meter was installed in the basement; in
+others it was installed in the front hall. With no other differences in the houses,
+electricity consumption was 30 percent lower in the houses where the meter was
+in the highly visible location in the front hall.
+I love that story because it’s an example of a high leverage point in the
+information structure of the system. It’s not a parameter adjustment, not a
+strengthening or weakening of an existing feedback loop. It’s a new loop,
+delivering feedback to a place where it wasn’t going before.
+Missing information flows is one of the most common causes of system
+malfunction. Adding or restoring information can be a powerful intervention,
+usually much easier and cheaper than rebuilding physical infrastructure. The
+tragedy of the commons that is crashing the world’s commercial fisheries occurs
+because there is little feedback from the state of the fish population to the
+decision to invest in fishing vessels. Contrary to economic opinion, the price of
+fish doesn’t provide that feedback. As the fish get more scarce they become
+more expensive, and it becomes all the more profitable to go out and catch the
+last few. That’s a perverse feedback, a reinforcing loop that leads to collapse. It
+is not price information but population information that is needed.
+It’s important that the missing feedback be restored to the right place and in
+compelling form. To take another tragedy of the commons example, it’s not
+enough to inform all the users of an aquifer that the groundwater level is
+dropping. That could initiate a race to the bottom. It would be more effective to
+set the cost of water to rise steeply as the pumping rate begins to exceed the
+recharge rate.
+Other examples of compelling feedback are not hard to find. Suppose
+taxpayers got to specify on their return forms what government services their tax
+payments must be spent on. (Radical democracy!) Suppose any town or
+company that puts a water intake pipe in a river had to put it immediately
+downstream from its own wastewater outflow pipe. Suppose any public or
+private official who made the decision to invest in a nuclear power plant got the
+waste from that facility stored on his or her lawn. Suppose (this is an old one)
+the politicians who declare war were required to spend that war in the front
+lines.
+There is a systematic tendency on the part of human beings to avoid
+accountability for their own decisions. That’s why there are so many missing
+feedback loops—and why this kind of leverage point is so often popular with
+the masses, unpopular with the powers that be, and effective, if you can get the
+
+powers that be to permit it to happen (or go around them and make it happen
+anyway).
+5. Rules—Incentives, punishments, constraints
+The rules of the system define its scope, its boundaries, its degrees of freedom.
+Thou shalt not kill. Everyone has the right of free speech. Contracts are to be
+honored. The president serves four-year terms and cannot serve more than two
+of them. Nine people on a team, you have to touch every base, three strikes and
+you’re out. If you get caught robbing a bank, you go to jail.
+Mikhail Gorbachev came to power in the Soviet Union and opened
+information flows (glasnost) and changed the economic rules (perestroika), and
+the Soviet Union saw tremendous change.
+Constitutions are the strongest examples of social rules. Physical laws such as
+the second law of thermodynamics are absolute rules, whether we understand
+them or not or like them or not. Laws, punishments, incentives, and informal
+social agreements are progressively weaker rules.
+To demonstrate the power of rules, I like to ask my students to imagine
+different ones for a college. Suppose the students graded the teachers, or each
+other. Suppose there were no degrees: You come to college when you want to
+learn something, and you leave when you’ve learned it. Suppose tenure were
+awarded to professors according to their ability to solve real-world problems,
+rather than to publish academic papers. Suppose a class got graded as a group,
+instead of as individuals.
+As we try to imagine restructured rules and what our behavior would be under
+them, we come to understand the power of rules. They are high leverage points.
+Power over the rules is real power. That’s why lobbyists congregate when
+Congress writes laws, and why the Supreme Court, which interprets and
+delineates the Constitution—the rules for writing the rules—has even more
+power than Congress. If you want to understand the deepest malfunctions of
+systems, pay attention to the rules and to who has power over them.
+That’s why my systems intuition was sending off alarm bells as the new world
+trade system was explained to me. It is a system with rules designed by
+corporations, run by corporations, for the benefit of corporations. Its rules
+exclude almost any feedback from any other sector of society. Most of its
+meetings are closed even to the press (no information flow, no feedback). It
+forces nations into reinforcing loops “racing to the bottom,” competing with
+each other to weaken environmental and social safeguards in order to attract
+corporate investment. It’s a recipe for unleashing “success to the successful”
+loops, until they generate enormous accumulations of power and huge
+centralized planning systems that will destroy themselves.
+
+4. Self-Organization—The power to add, change, or evolve system
+structure
+The most stunning thing living systems and some social systems can do is to
+change themselves utterly by creating whole new structures and behaviors. In
+biological systems that power is called evolution. In human economies it’s
+called technical advance or social revolution. In systems lingo it’s called self-
+organization.
+Self-organization means changing any aspect of a system lower on this list—
+adding completely new physical structures, such as brains or wings or
+computers—adding new balancing or reinforcing loops, or new rules. The
+ability to self-organize is the strongest form of system resilience. A system that
+can evolve can survive almost any change, by changing itself. The human
+immune system has the power to develop new responses to some kinds of
+insults it has never before encountered. The human brain can take in new
+information and pop out completely new thoughts.
+The power of self-organization seems so wondrous that we tend to regard it as
+mysterious, miraculous, heaven sent. Economists often model technology as
+magic—coming from nowhere, costing nothing, increasing the productivity of
+an economy by some steady percent each year. For centuries people have
+regarded the spectacular variety of nature with the same awe. Only a divine
+creator could bring forth such a creation.
+Further investigation of self-organizing systems reveals that the divine creator,
+if there is one, does not have to produce evolutionary miracles. He, she, or it just
+has to write marvelously clever rules for self-organization. These rules basically
+govern how, where, and what the system can add onto or subtract from itself
+under what conditions. As hundreds of self-organizing computer models have
+demonstrated, complex and delightful patterns can evolve from quite simple sets
+of rules. The genetic code within the DNA that is the basis of all biological
+evolution contains just four different letters, combined into words of three letters
+each. That pattern, and the rules for replicating and rearranging it, has been
+constant for something like three billion years, during which it has spewed out
+an unimaginable variety of failed and successful self-evolved creatures.
+Self-organization is basically a matter of an evolutionary raw material—a
+highly variable stock of information from which to select possible patterns—and
+a means for experimentation, for selecting and testing new patterns. For
+biological evolution, the raw material is DNA, one source of variety is
+spontaneous mutation, and the testing mechanism is a changing environment in
+which some individuals do not survive to reproduce. For technology, the raw
+material is the body of understanding science has accumulated and stored in
+libraries and in the brains of its practitioners. The source of variety is human
+
+creativity (whatever that is) and the selection mechanism can be whatever the
+market will reward, or whatever governments and foundations will fund, or
+whatever meets human needs.
+When you understand the power of system self-organization, you begin to
+understand why biologists worship biodiversity even more than economists
+worship technology. The wildly varied stock of DNA, evolved and accumulated
+over billions of years, is the source of evolutionary potential, just as science
+libraries and labs and universities where scientists are trained are the source of
+technological potential. Allowing species to go extinct is a systems crime, just as
+randomly eliminating all copies of particular science journals or particular kinds
+of scientists would be.
+The same could be said of human cultures, of course, which are the store of
+behavioral repertoires, accumulated over not billions, but hundreds of thousands
+of years. They are a stock out of which social evolution can arise. Unfortunately,
+people appreciate the precious evolutionary potential of cultures even less than
+they understand the preciousness of every genetic variation in the world’s
+ground squirrels. I guess that’s because one aspect of almost every culture is the
+belief in the utter superiority of that culture.
+Insistence on a single culture shuts down learning and cuts back resilience.
+Any system, biological, economic, or social, that gets so encrusted that it cannot
+self-evolve, a system that systematically scorns experimentation and wipes out
+the raw material of innovation, is doomed over the long term on this highly
+variable planet.
+The intervention point here is obvious, but unpopular. Encouraging variability
+and experimentation and diversity means “losing control.” Let a thousand
+flowers bloom and anything could happen! Who wants that? Let’s play it safe
+and push this lever in the wrong direction by wiping out biological, cultural,
+social, and market diversity!
+3. Goals—The purpose or function of the system
+Right there, the diversity-destroying consequence of the push for control
+demonstrates why the goal of a system is a leverage point superior to the self-
+organizing ability of a system. If the goal is to bring more and more of the world
+under the control of one particular central planning system (the empire of
+Genghis Khan, the Church, the People’s Republic of China, Wal-Mart, Disney),
+then everything further down the list, physical stocks and flows, feedback loops,
+information flows, even self-organizing behavior, will be twisted to conform to
+that goal.
+That’s why I can’t get into arguments about whether genetic engineering is a
+“good” or a “bad” thing. Like all technologies, it depends on who is wielding it,
+
+with what goal. The only thing one can say is that if corporations wield it for the
+purpose of generating marketable products, that is a very different goal, a very
+different selection mechanism, a very different direction for evolution than
+anything the planet has seen so far.
+As my little single-loop examples have shown, most balancing feedback loops
+within systems have their own goals—to keep the bathwater at the right level, to
+keep the room temperature comfortable, to keep inventories stocked at sufficient
+levels, to keep enough water behind the dam. Those goals are important
+leverage points for pieces of systems, and most people realize that. If you want
+the room warmer, you know the thermostat setting is the place to intervene. But
+there are larger, less obvious, higher-leverage goals, those of the entire system.
+Even people within systems don’t often recognize what whole-system goal
+they are serving. “To make profits,” most corporations would say, but that’s just
+a rule, a necessary condition to stay in the game. What is the point of the game?
+To grow, to increase market share, to bring the world (customers, suppliers,
+regulators) more and more under the control of the corporation, so that its
+operations becomes ever more shielded from uncertainty. John Kenneth
+Galbraith recognized that corporate goal—to engulf everything—long ago.6 It’s
+the goal of a cancer too. Actually it’s the goal of every living population—and
+only a bad one when it isn’t balanced by higher-level balancing feedback loops
+that never let an upstart power-loop-driven entity control the world. The goal of
+keeping the market competitive has to trump the goal of each individual
+corporation to eliminate its competitors, just as in ecosystems, the goal of
+keeping populations in balance and evolving has to trump the goal of each
+population to reproduce without limit.
+I said a while back that changing the players in the system is a low-level
+intervention, as long as the players fit into the same old system. The exception
+to that rule is at the top, where a single player can have the power to change the
+system’s goal. I have watched in wonder as—only very occasionally—a new
+leader in an organization, from Dartmouth College to Nazi Germany, comes in,
+enunciates a new goal, and swings hundreds or thousands or millions of
+perfectly intelligent, rational people off in a new direction.
+That’s what Ronald Reagan did, and we watched it happen. Not long before
+he came to office, a president could say “Ask not what government can do for
+you, ask what you can do for the government,” and no one even laughed.
+Reagan said over and over, the goal is not to get the people to help the
+government and not to get government to help the people, but to get government
+off our backs. One can argue, and I would, that larger system changes and the
+rise of corporate power over government let him get away with that. But the
+thoroughness with which the public discourse in the United States and even the
+world has been changed since Reagan is testimony to the high leverage of
+
+articulating, meaning, repeating, standing up for, insisting upon, new system
+goals.
+2. Paradigms—The mind-set out of which the system—its goals,
+structure, rules, delays, parameters—arises
+Another of Jay Forrester’s famous systems sayings goes: It doesn’t matter how
+the tax law of a country is written. There is a shared idea in the minds of the
+society about what a “fair” distribution of the tax load is. Whatever the laws say,
+by fair means or foul, by complications, cheating, exemptions or deductions, by
+constant sniping at the rules, actual tax payments will push right up against the
+accepted idea of “fairness.”
+The shared idea in the minds of society, the great big unstated assumptions,
+constitute that society’s paradigm, or deepest set of beliefs about how the world
+works. These beliefs are unstated because it is unnecessary to state them—
+everyone already knows them. Money measures something real and has real
+meaning; therefore, people who are paid less are literally worth less. Growth is
+good. Nature is a stock of resources to be converted to human purposes.
+Evolution stopped with the emergence of Homo sapiens. One can “own” land.
+Those are just a few of the paradigmatic assumptions of our current culture, all
+of which have utterly dumbfounded other cultures, who thought them not the
+least bit obvious.
+Paradigms are the sources of systems. From them, from shared social
+agreements about the nature of reality, come system goals and information
+flows, feedbacks, stocks, flows, and everything else about systems. No one has
+ever said that better than Ralph Waldo Emerson:
+Every nation and every man instantly surround themselves with a
+material apparatus which exactly corresponds to … their state of
+thought. Observe how every truth and every error, each a thought of
+some man’s mind, clothes itself with societies, houses, cities,
+language, ceremonies, newspapers. Observe the ideas of the present
+day … see how timber, brick, lime, and stone have flown into
+convenient shape, obedient to the master idea reigning in the minds
+of many persons.… It follows, of course, that the least enlargement
+of ideas … would cause the most striking changes of external
+things.7
+The ancient Egyptians built pyramids because they believed in an afterlife. We
+build skyscrapers because we believe that space in downtown cities is
+enormously valuable. Whether it was Copernicus and Kepler showing that the
+earth is not the center of the universe, or Einstein hypothesizing that matter and
+
+energy are interchangeable, or Adam Smith postulating that the selfish actions of
+individual players in markets wonderfully accumulate to the common good,
+people who have managed to intervene in systems at the level of paradigm have
+hit a leverage point that totally transforms systems.
+You could say paradigms are harder to change than anything else about a
+system, and therefore this item should be lowest on the list, not second-to-
+highest. But there’s nothing physical or expensive or even slow in the process of
+paradigm change. In a single individual it can happen in a millisecond. All it
+takes is a click in the mind, a falling of scales from the eyes, a new way of
+seeing. Whole societies are another matter—they resist challenges to their
+paradigms harder than they resist anything else.
+So how do you change paradigms? Thomas Kuhn, who wrote the seminal
+book about the great paradigm shifts of science, has a lot to say about that.8 You
+keep pointing at the anomalies and failures in the old paradigm. You keep
+speaking and acting, loudly and with assurance, from the new one. You insert
+people with the new paradigm in places of public visibility and power. You don’t
+waste time with reactionaries; rather, you work with active change agents and
+with the vast middle ground of people who are open-minded.
+Systems modelers say that we change paradigms by building a model of the
+system, which takes us outside the system and forces us to see it whole. I say
+that because my own paradigms have been changed that way.
+1. Transcending Paradigms
+There is yet one leverage point that is even higher than changing a paradigm.
+That is to keep oneself unattached in the arena of paradigms, to stay flexible, to
+realize that no paradigm is “true,” that every one, including the one that sweetly
+shapes your own worldview, is a tremendously limited understanding of an
+immense and amazing universe that is far beyond human comprehension. It is to
+“get” at a gut level the paradigm that there are paradigms, and to see that that
+itself is a paradigm, and to regard that whole realization as devastatingly funny.
+It is to let go into not-knowing, into what the Buddhists call enlightenment.
+People who cling to paradigms (which means just about all of us) take one
+look at the spacious possibility that everything they think is guaranteed to be
+nonsense and pedal rapidly in the opposite direction. Surely there is no power,
+no control, no understanding, not even a reason for being, much less acting,
+embodied in the notion that there is no certainty in any worldview. But, in fact,
+everyone who has managed to entertain that idea, for a moment or for a lifetime,
+has found it to be the basis for radical empowerment. If no paradigm is right,
+you can choose whatever one will help to achieve your purpose. If you have no
+idea where to get a purpose, you can listen to the universe.
+
+It is in this space of mastery over paradigms that people throw off addictions,
+live in constant joy, bring down empires, get locked up or burned at the stake or
+crucified or shot, and have impacts that last for millennia.
+There is so much that could be said to qualify this list of places to intervene in a
+system. It is a tentative list and its order is slithery. There are exceptions to every
+item that can move it up or down the order of leverage. Having had the list
+percolating in my subconscious for years has not transformed me into
+Superwoman. The higher the leverage point, the more the system will resist
+changing it—that’s why societies often rub out truly enlightened beings.
+Magical leverage points are not easily accessible, even if we know where they
+are and which direction to push on them. There are no cheap tickets to mastery.
+You have to work hard at it, whether that means rigorously analyzing a system
+or rigorously casting off your own paradigms and throwing yourself into the
+humility of not-knowing. In the end, it seems that mastery has less to do with
+pushing leverage points than it does with strategically, profoundly, madly, letting
+go and dancing with the system.
+

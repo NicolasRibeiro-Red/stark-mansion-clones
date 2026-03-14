@@ -1,0 +1,928 @@
+# Prólogo, Parte 2: Um breve passeio pela simetria
+
+Paginas: 20-45
+
+Prólogo, Parte 2
+Um breve passeio pela simetria
+Metaespecialistas julgados por metametaespecialistas — Prostitutas, não prostitutas
+e amadoras — Os franceses são obcecados por Hamurabi — Dumas é sempre
+exceção
+I. DE HAMURABI A KANT
+Até a recente intelectualização da vida, a simetria ao estilo-de-quem-arrisca-a-
+própria-pele tinha sido implicitamente considerada a principal regra para a
+sociedade organizada, até mesmo para qualquer forma de vida coletiva na qual
+um indivíduo encontra ou lida com outro mais de uma vez. A regra teve inclusive
+que preceder o assentamento humano, uma vez que prevalece em uma forma
+bastante sofisticada no reino animal. Ou, em outras palavras, teve de prevalecer,
+caso contrário a vida teria sido extinta — a transferência de risco destrói os
+sistemas. E a própria ideia de lei, divina ou terrena, reside em corrigir
+desequilíbrios e remediar tais assimetrias.
+Vamos fazer um apanhado sucinto de Hamurabi até Kant e mostrar que as
+regras foram sendo refinadas junto com a civilização.
+Hamurabi em Paris
+O Código de Hamurabi foi entalhado em uma estela de basalto há cerca de
+3800 anos, posicionada em um lugar público de destaque na Babilônia, de modo
+que toda pessoa alfabetizada pudesse ler as decisões legais nela inscritas ou, em
+vez disso, lê-las para outros que não soubessem ler. Esse compêndio de
+precedentes legais contém 282 leis e é considerado o primeiro conjunto ou
+codificação existente de normas e regras escritas. O código tem um tema central:
+estabelece simetrias entre as pessoas em uma transação comercial, para que
+ninguém possa transferir riscos de cauda ocultos, ou riscos ao estilo Bob Rubin.
+
+Sim, o negócio de Bob Rubin tem 3800 anos de idade, é tão antigo quanto a
+civilização, assim como as regras para impedi-lo.
+O que é uma cauda? Por ora, consideremos que seja um evento extremo
+altamente improvável. É chamado de “cauda” porque, em gráficos de fre quências
+em curva, localiza-se na extrema esquerda ou direita (sendo altamente
+improvável), e, por alguma razão além do meu entendimento imediato, as pessoas
+começaram a chamar isso de “cauda” e o termo pegou.
+A injunção mais conhecida de Hamurabi é a seguinte: “Se um construtor edifica
+uma casa mas não reforça seu trabalho e a casa que ele construiu desaba e causa a
+morte do proprietário, esse construtor deverá ser condenado à morte”.
+Pois, como acontece com os traders, o melhor lugar para esconder riscos é “nos
+cantos”, enterrando vulnerabilidades em eventos raros que somente o arquiteto
+(ou o trader) é capaz de detectar — a ideia é estar longe no tempo e no espaço
+quando as falências começarem a acontecer. Como um antigo banqueiro inglês
+alcoólatra e de rosto inchado me contou quando me formei na faculdade,
+oferecendo-me de forma espontânea um conselho profissional: “Só concedo
+empréstimos de longo prazo. Quando eles vencerem, quero estar a uma longa
+distância”. Ele trabalhava para bancos internacionais e sobreviveu executando seu
+truque, mudando-se de país a cada cinco anos, e, pelo que lembro, também
+trocava de esposa a cada dez anos e de banco a cada doze. Mas nunca teve de ir
+muito longe para se esconder, tampouco foi obrigado a se refugiar nas
+profundezas subterrâneas: até recentemente ninguém exigia reembolso1 (ou seja,
+ninguém reivindicava) dos bônus de banqueiros quando alguma coisa dava
+errado. E, o que não é nem um pouco inesperado, foram os suíços que
+começaram a pôr em prática esses mecanismos de recuperação, em 2008.
+A famosa lex talionis, a Lei de Talião, “olho por olho”, vem do Código de
+Hamurabi. É um princípio metafórico, não literal: na verdade ninguém precisa
+arrancar o olho do outro, e a regra é muito mais flexível do que parece à primeira
+vista. Pois, em uma famosa discussão talmúdica (no Bava Kamma), um rabino
+argumenta que, se a lei fosse seguida à risca, a pessoa de um único olho pagaria
+apenas metade da punição caso cegasse uma pessoa de dois olhos, e o cego sairia
+impune. E se uma pessoa insignificante matar um herói? Do mesmo modo,
+ninguém precisa amputar a perna de um médico imprudente que cortou a perna
+errada do paciente: o sistema de responsabilidade civil, por meio dos tribunais, e
+não da regulamentação, graças aos esforços de Ralph Nader2, imporá alguma
+penalidade que proteja os consumidores e os cidadãos de instituições poderosas.
+
+Claramente, o sistema legal pode produzir alguns irritantes (particularmente com
+atos ilícitos civis) e tem sua classe de praticantes de rent-seeking, mas é muito
+melhor reclamarmos de advogados do que reclamar sobre não ter advogados.
+Em termos mais práticos, alguns economistas têm tentado me culpar por querer
+reverter a proteção de falência oferecida nos tempos modernos; alguns chegaram
+inclusive a me acusar de querer trazer de volta a guilhotina para os banqueiros.
+Eu não sou tão literal assim: é apenas uma questão de infligir alguma penalidade,
+apenas o suficiente para tornar menos atraente o negócio de Bob Rubin e
+proteger o público.
+Agora, por alguma razão que me escapa, uma dessas coisas estranhas que só se
+vê na França, o Código de Hamurabi, cunhado num bloco de pedra cinza-escura,
+reside no Museu do Louvre em Paris. E os franceses, que normalmente sabem
+um bocado sobre coisas acerca das quais nós não sabemos muito, parecem não
+saber nada a respeito; a impressão é a de que apenas os turistas coreanos com
+bastões de selfie ouviram falar do lugar.
+Na minha penúltima peregrinação a Paris, acabei dando uma palestra para
+financistas franceses numa sala de conferências no prédio do museu, ocasião em
+que discorri sobre as ideias deste livro e a noção de arriscar a própria pele. Falei
+logo depois do homem que, apesar da aparência (e da personalidade) bastante
+semelhante às das estátuas mesopotâmicas, simboliza a ausência de dar a cara a
+tapa: Ben Bernanke, ex-presidente do Federal Reserve (FED), o banco central dos
+Estados Unidos. Para minha tristeza, quando questionei a plateia, evidenciando a
+ironia da situação, ou seja, que quase quatro milênios atrás éramos um tanto mais
+sofisticados a respeito dessas coisas, e que o monumento estava a noventa metros
+de onde eu proferia minha palestra, ninguém na sala, apesar da alta cultura dos
+financistas franceses, entendeu do que eu estava falando. Ninguém fazia ideia de
+quem era Hamurabi além de algum figurão da geopolítica da Mesopotâmia,
+tampouco suspeitava de sua conexão com os conceitos de arriscar a própria pele
+e da responsabilidade dos banqueiros.
+A Tabela 1 mostra a progressão das regras de simetria desde Hamurabi, então
+vamos subir a escada.
+Tabela 1 • Evolução da simetria moral
+Fonte: TALEB e SANDIS, 2016
+
+HAMURAB
+I/ LEI DE
+TALIÃO
+15ª LEI DA
+SANTIDAD
+E DE
+JUSTIÇA
+REGR
+A DE
+PRAT
+A
+REGRA DE
+OURO
+FÓRMULA DA LEI
+UNIVERSAL
+“Olho por
+olho,
+dente por
+dente.”
+(Hamurab
+i, Êxodo
+21:24)
+“Amarás
+o teu
+próximo
+como a ti
+mesmo.”
+(Levítico
+19:18)
+“Em tudo,
+façam aos
+outros o que
+querem que
+eles façam a
+vocês.”
+(Mateus
+7:12)
+“Age somente,
+segundo uma
+máxima tal, que
+possas querer ao
+mesmo tempo que
+se torne lei
+universal.” (Kant,
+1785: 4:421)
+A prata supera o ouro
+Examinemos rapidamente as regras à direita de Hamurabi. Levítico é um
+abrandamento do princípio de Hamurabi. A Regra de Ouro (ou Regra Áurea) é
+uma máxima moral que diz: Trate os outros como gostaria de ser tratado. Mais
+vigorosa, a Regra de Prata diz: Não trate os outros da forma como não gostaria de
+ser tratado. Mais vigorosa? Como? Por que a Regra de Prata é mais vigorosa?
+Para começo de conversa, ela instrui cada um a cuidar da própria vida e não
+decidir o que é “bom” para os outros. Sabemos com muito mais clareza o que é
+ruim do que o que é bom. A Regra de Prata pode ser vista como a Regra de Ouro
+Negativa, e como aprendo a cada três semanas com meu barbeiro calabrês (e que
+é falante do dialeto calabrês), a via negativa (agir por meio da eliminação) é mais
+poderosa e menos propensa a erros do que a via positiva (agir por adição3).
+Agora, uma palavra sobre os “outros” na parte “tratar os outros”. “Você” pode
+designar um indivíduo, uma equipe de basquete ou a Associação de Barbeiros
+Falantes de Calabrês, e o mesmo vale para “outros”. A ideia é fractal, no sentido
+de que funciona em todas as escalas: seres humanos, tribos, sociedades, grupos
+sociais, países etc., pressupondo-se que cada um é uma unidade autônoma
+separada e, como tal, pode lidar com outros equivalentes. Assim como os
+indivíduos devem tratar os outros da maneira pela qual gostariam de ser tratados
+(ou evitar serem maltratados), as famílias como unidade deveriam tratar outras
+
+famílias da mesma maneira. E, algo que torna ainda mais repugnantes os
+intervencionistas do prólogo (parte 1), os países deveriam agir da mesma forma.
+Pois Isócrates, o sábio orador ateniense, nos avisou já no século V a.C. que as
+nações deveriam tratar outras nações de acordo com a Regra de Prata. Ele
+escreveu: “Trata os Estados mais fracos da mesma forma que gostarias que os
+Estados mais fortes tratassem a ti”.
+Ninguém personifica a noção de simetria melhor que Isócrates, que viveu mais
+de um século e fez contribuições significativas quando já era nonagenário. Saiu-
+se inclusive com uma rara versão dinâmica da Regra de Ouro: “Age em relação a
+teus pais como gostarias que teus filhos agissem em relação a ti”. Tivemos que
+esperar até que o excelente treinador de beisebol Yogi Berra formulasse outra
+regra tão dinâmica para as relações simétricas: “Eu vou ao funeral das outras
+pessoas porque quero que elas venham ao meu”.
+Mais eficaz, é claro, é a direção inversa, uma pessoa tratar os filhos da mesma
+forma que desejava ter sido tratado pelos pais.4
+A própria ideia por trás da Primeira Emenda da Constituição dos Estados
+Unidos é estabelecer uma simetria similar à Regra de Prata: você pode praticar
+sua liberdade de religião, desde que me permita praticar a minha; você tem o
+direito de me contradizer, contanto que eu tenha o direito de contradizê-lo.
+Efetivamente, não existe democracia sem essa simetria incondicional nos direitos
+de um indivíduo de se expressar, e a grande ameaça é a bola de neve nas
+tentativas de limitar a liberdade de expressão com base no argumento de que
+certas opiniões e pensamentos podem ferir os sentimentos de algumas pessoas.
+Tais restrições não provêm necessariamente do Estado, mas, em vez disso, do
+poderoso establishment de uma monocultura intelectual por meio de uma
+hiperativa polícia do pensamento na mídia e na vida cultural.
+Deixa o universalismo pra lá
+Ao aplicar a simetria às relações entre o indivíduo e o coletivo, obtemos a
+virtude, a virtude clássica, que agora é chamada de “ética da virtude”. Mas há o
+passo seguinte: lá na ponta direita da Tabela 1 está o imperativo categórico de
+Immanuel Kant, que eu resumo assim: Aja como se a sua ação pudesse ser
+generalizada para o comportamento de todos em todos os lugares, sob todas as
+condições. O texto original é mais desafiador: “Age somente, segundo uma
+máxima tal, que possas querer ao mesmo tempo que se torne lei universal”, Kant
+escreveu naquilo que é conhecido como a primeira formulação. E “Age de tal
+
+modo que possas usar a humanidade, tanto em tua pessoa como na pessoa de
+qualquer outro, sempre como um fim ao mesmo tempo e nunca apenas como um
+meio”, naquela que é conhecida como a segunda formulação.
+Formulação blá-blá-blá, deixa Kant pra lá: é complicado demais, e as coisas que
+ficam complicadas são um problema. Por isso, vamos ignorar o enfoque drástico
+de Kant por um motivo principal:
+O comportamento universal é excelente no papel, porém desastroso na prática.
+Por quê? Como insistiremos ad nauseam neste livro, somos animais locais e
+práticos, sensíveis à escala. O pequeno não é o grande; o tangível não é o
+abstrato; o emocional não é o lógico. Assim como argumentamos que o micro
+funciona melhor que o macro, é melhor evitar generalizações desnecessárias ao
+cumprimentar seu manobrista de estacionamento. Devemos nos concentrar no
+nosso ambiente imediato; precisamos de regras práticas e simples. Pior ainda: o
+geral e o abstrato tendem a atrair psicopatas pretensiosos e hipócritas
+semelhantes aos intervencionistas da parte 1 do prólogo.
+Em outras palavras, Kant não entendia a noção de escala — contudo, muitos de
+nós são vítimas do universalismo de Kant (como vimos, a modernidade prefere o
+abstrato em detrimento do particular; os guerreiros da justiça social foram
+acusados de “tratar as pessoas como categorias, não indivíduos”). Poucos, fora da
+religião, realmente compreenderam a noção de escala antes do formidável
+pensador político Elinor Ostrom, sobre quem falo um pouco no capítulo 1.
+Na verdade, a mensagem principal deste livro é o perigo do universalismo
+levado ao pé da letra — combinando o micro e o macro. Do mesmo modo, a
+questão fundamental da ideia de A lógica do Cisne Negro era a platonificação,
+perdendo elementos centrais, mas ocultos, de uma coisa no processo de
+transformá-la em um constructo abstrato, por conseguinte causando um colapso.
+II. DE KANT A TONY GORDO
+Voltemos ao presente, ao presente (altamente) transacional. Em Nova Jersey, a
+simetria pode significar simplesmente, nos termos de Tony Gordo: não sacaneie
+ninguém nem aceite que alguém sacaneie você. O enfoque mais prático dele é:
+Seja agradável com todas as pessoas que você conhecer. Mas se alguém tentar
+exercer poder sobre você, exerça poder sobre ele.
+
+Quem é Tony Gordo? É um personagem no meu projeto Incerto que, em
+conduta, comportamento, escolhas sob incerteza, conversação, estilo de vida,
+tamanho da cintura e hábitos alimentares, seria exatamente o oposto do
+palestrante de economia ou do analista do Departamento de Estado. Ele também
+é calmo e imperturbável, a menos que alguém encha muito o saco dele. Tony
+enriqueceu ajudando pessoas que ele chama genericamente de “otários” a se
+desprender do dinheiro delas (ou, como quase sempre acontece, do capital dos
+clientes delas, já que essas pessoas muitas vezes jogam com o dinheiro dos
+outros).
+Acontece que essa coisa de simetria conecta-se diretamente à minha própria
+profissão: trader negociador de opções e derivativos. Em uma opção, uma pessoa
+(o comprador da opção) contratualmente tem a vantagem (ganhos futuros), o
+outro (o vendedor) tem a desvantagem da responsabilidade pelo passivo (perdas
+futuras), por um preço pré-acordado. Funciona como em um contrato de seguro,
+em que o risco é transferido por uma taxa. Qualquer ruptura significativa de tal
+simetria — com a transferência de dívidas e compromissos — leva
+inevitavelmente a uma situação devastadora, como vimos com a crise econômica
+de 2008.
+Essa coisa de simetria também diz respeito ao alinhamento de interesses em
+uma transação. Vamos relembrar os argumentos anteriores: se os lucros dos
+banqueiros se acumulam, ao passo que suas perdas são de alguma forma
+silenciosamente transferidas para a sociedade (os especialistas em gramática da
+língua espanhola, os professores-assistentes do ensino fundamental…), há um
+problema crucial no qual os riscos ocultos vão continuar aumentando até a
+erupção final. As normas e regulamentos, embora pareçam uma bênção no papel,
+quando muito exacerbam o problema, à medida que facilitam a ocultação dos
+riscos.
+O que nos leva ao que é conhecido como o problema da agência.
+Vigarista, tolo, ou ambos
+Uma extensão prática da Regra de Prata (à guisa de lembrete, é aquela que diz:
+Não faça aos outros o que não gostaria que fizessem a você):
+Evite ouvir conselhos de alguém cujo ganha-pão seja dar conselhos, a menos que
+haja uma penalidade para esses conselhos.
+
+Lembre-se de que o comentário anterior sobre como “eu confio em você”
+abarca tanto ética quanto conhecimento. Em questões de incerteza há sempre um
+elemento de tolos e de vigaristas de aleatoriedade; o primeiro padece de falta de
+compreensão, o segundo tem incentivos distorcidos. Um, o tolo, corre riscos que
+não compreende, confundindo sua própria sorte com capacidade e habilidades; o
+outro, o vigarista, transfere riscos para outros. Os economistas, quando falam
+sobre arriscar a própria pele, só estão interessados no segundo tipo.
+Vamos elucidar a ideia de agência, bem conhecida e estudada por companhias
+de seguros. Em termos simples, você sabe muito mais sobre sua saúde do que
+qualquer seguradora. Então você tem um incentivo para contratar uma apólice de
+seguro quando detecta uma doença antes de qualquer pessoa saber sobre ela. Ao
+firmar um contrato de seguro quando é mais conveniente, não quando você está
+saudável, você acaba custando ao sistema mais do que você coloca nele, causando
+um aumento nos prêmios pagos por todo tipo de pessoas inocentes (incluindo,
+novamente, os especialistas em gramática da língua espanhola). As seguradoras
+possuem filtros, como franquias elevadas e outros métodos, para eliminar tais
+desequilíbrios.
+O problema da agência (ou problema do principal-agente) também se manifesta
+no desalinhamento de interesses nas transações: a parte fornecedora em uma
+transação imediata não tem seus interesses alinhados com a sua — e por isso
+pode esconder coisas de você.
+Mas a falta de incentivo não é suficiente: o tolo é uma coisa real. Algumas
+pessoas não conhecem seus próprios interesses — basta pensar nos viciados,
+workaholics, gente presa em relacionamentos abusivos, pessoas que apoiam um
+governo paternalista, a imprensa, críticos de livros ou burocratas respeitáveis,
+todos os que, por algum motivo misterioso, agem contra seu próprio interesse.
+Então, há esta outra instância em que a filtragem desempenha um papel: os tolos
+da aleatoriedade são expurgados pela realidade de modo que param de prejudicar
+os outros. Lembre-se de que é na base da evolução que os sistemas se aprimoram
+por meio da eliminação.
+Há uma outra questão: talvez não saibamos de antemão se uma ação é tola, mas
+a realidade sabe.
+Opacidade causal e preferências reveladas5
+Vamos agora levar a dimensão epistemológica de arriscar a própria pele a um
+nível ainda mais elevado. Arriscar a própria pele tem a ver com o mundo real, não
+
+com aparências. De acordo com o lema de Tony Gordo:
+Você não quer ganhar uma discussão. Você quer ganhar.
+Na verdade, é preciso ganhar tudo aquilo que se deseja, seja o que for: dinheiro,
+território, o coração de uma especialista em gramática ou um carro conversível
+(rosa-shocking). Pois concentrar-se apenas em palavras coloca a pessoa numa
+ladeira muito perigosa, já que
+Somos muito melhores em fazer do que em entender.
+Há uma diferença entre um charlatão e um membro genuinamente qualificado
+da sociedade, digamos que seja a mesma diferença entre um “cientista” político
+especialista em macrobaboseira e um encanador, ou entre um jornalista e um
+mafioso. O fazedor vence fazendo, não convencendo. Áreas inteiras de
+conhecimento (economia e outras ciências sociais, por exemplo) tornam-se
+charlatanescas devido à ausência do fator “arriscar a própria pele” conectando-as
+de volta ao mundo real (enquanto os participantes discutem sobre “ciência”). O
+capítulo 9 mostra como tais campos de atuação desenvolverão rituais elaborados,
+títulos, protocolos e formalidades para esconder esse déficit.
+Você pode não saber para onde está indo conscientemente, mas sabe isso fazendo.
+Até mesmo a economia é baseada na noção de “preferências reveladas”. O que
+as pessoas “pensam” não é relevante — queremos evitar entrar na disciplina
+piegas, molenga, redundante e tautológica que é a psicologia. As “explicações” das
+pessoas para o que elas fazem são apenas palavras, histórias que contam a si
+mesmas, e não tema de uma ciência genuína. O que elas fazem, por outro lado, é
+tangível e mensurável, e é isso que devemos enfocar. Esse axioma, talvez até
+mesmo princípio, é muito poderoso, mas não é levado muito a sério por
+pesquisadores. Quem melhor compreende o conceito de revelação de
+preferências é uma noiva: um diamante, particularmente quando é oneroso para o
+comprador, é um compromisso muito mais convincente (e muito menos
+reversível) do que uma promessa verbal.
+Quanto à previsão, deixa isso pra lá:
+A previsão (em palavras) não tem relação com a especulação (em ações).
+Conheço pessoalmente péssimos prognosticadores que ganham rios de
+dinheiro, e “bons” prognosticadores que são pobres. Porque o que importa na
+vida não é com que frequência uma pessoa está “certa” sobre os resultados, mas
+
+quanto ela ganha quando está certa. Estar errado, quando não custa caro, não
+conta — de forma semelhante aos mecanismos de pesquisa por tentativa e erro.
+As exposições na vida real, fora dos jogos, são sempre complicadas demais para
+serem reduzidas a um “evento” bem definido e fácil de descrever em palavras. Os
+resultados na vida real não têm nada a ver com uma partida de beisebol, reduzida
+a um resultado binário de ganhar ou perder, vitória ou derrota. Muitas exposições
+são altamente não lineares: pode ser benéfico estar exposto à chuva, mas não a
+enchentes. O argumento exato é explicado nas obras técnicas deste autor. Por
+ora, fiquemos com a noção de que a previsão, especialmente quando feita com
+“ciência”, é muitas vezes o último refúgio do charlatão, e tem sido assim desde a
+aurora dos tempos.
+Além disso, há algo na matemática chamado problema inverso, que é
+solucionado por — e apenas por — quem arrisca a própria pele. Por enquanto
+simplificarei da seguinte forma: é mais difícil para nós fazermos engenharia
+reversa do que engenharia propriamente dita; vemos o resultado de forças
+evolutivas, mas não somos capazes de reproduzi-las devido à sua opacidade
+causal. Só podemos executar esses processos para a frente. A própria operação
+do Tempo (em maiúscula) e sua irreversibilidade requer a filtragem do “arriscar a
+própria pele”.
+Arriscar a própria pele ajuda a resolver o problema do Cisne Negro e outros
+eventos de incerteza ao nível individual e coletivo: aquilo que sobreviveu revelou
+sua robustez aos eventos do Cisne Negro, e excluir o risco interrompe tais
+mecanismos de seleção. Sem que se arrisque a própria pele, não se consegue
+obter a Inteligência do Tempo (uma manifestação do efeito Lindy, ao qual dediquei
+um capítulo inteiro, e pelo qual 1) o tempo elimina o frágil e mantém o robusto e
+2) a expectativa de vida do não frágil se estende com o tempo). As ideias,
+indiretamente, também arriscam a própria pele, e as populações que as nutrem
+também.
+Sob essa ótica — a da opacidade (causal) e revelação de preferências —, a
+Inteligência do Tempo — quando associada à ideia de arriscar a própria pele —
+ajuda até mesmo a definir a racionalidade, além de ser a única definição que
+encontrei que não desmorona sob o escrutínio lógico. Uma prática pode parecer
+irracional para um observador excessivamente intelectualizado e ingênuo (mas
+pontual) que trabalha no Ministério do Planejamento francês, porque os
+humanos não são inteligentes o suficiente para compreendê-la — mas ela vem
+funcionando há muito tempo. Ela é racional? Não temos fundamento para
+rejeitá-la. Mas sabemos o que é absolutamente irracional: o que ameaça a
+
+sobrevivência do coletivo primeiro, e a do indivíduo depois. E, de um ponto de
+vista estatístico, ir contra a natureza (e sua importância estatística) é irracional.
+Apesar da gritaria financiada por fabricantes de pesticidas e outras empresas de
+tecnologia, não existe uma definição rigorosa de racionalidade que torne racional
+a rejeição do “natural”; pelo contrário. Por definição, o que funciona não pode
+ser irracional; praticamente toda pessoa que conheço que tenha fracassado
+cronicamente nos negócios compartilha desse bloqueio mental: a incapacidade de
+perceber que se algo estúpido funciona (e faz dinheiro), não pode ser estúpido.
+Um sistema com requisitos de arriscar-a-própria-pele mantém-se coeso por
+meio da noção de um sacrifício a fim de proteger o coletivo (ou entidades no
+topo da hierarquia que precisam sobreviver). “A sobrevivência dá as cartas e o
+papo furado cai fora.” Ou como diria Tony Gordo: “A sobrevivência fala mais alto
+e o papo furado vaza”.6 Em outras palavras:
+Racional é o que permite que o coletivo — as entidades destinadas a existir por
+um longo tempo — sobreviva.
+Não é o que se chama de “racional” em algum nada rigoroso livro de psicologia
+ou ciências sociais.7 Nesse sentido, ao contrário do que os psicólogos e
+psicologuinhos dirão, alguma “superestimação” do risco de cauda não é irracional
+por nenhuma métrica, já que é mais do que necessário para a sobrevivência.
+Existem alguns riscos que simplesmente não podemos nos dar ao luxo de correr.
+E existem aqueles (do tipo que os acadêmicos evitam) que não podemos nos dar
+ao luxo de não correr. Essa dimensão, que leva o nome de “ergódica”, é
+desenvolvida no capítulo 19.
+Arriscando a própria pele, mas não o tempo todo
+Arriscar a própria pele é uma necessidade, mas não vamos nos deixar levar pela
+tentação de aplicar isso a tudo o que estiver à vista e em todos os detalhes,
+particularmente quando há consequências. Há uma diferença entre o
+intervencionista da parte 2 do prólogo fazendo declarações que causam a morte
+de milhares de pessoas no exterior e uma opinião inofensiva que uma pessoa
+expressa em uma conversa ou a afirmação de uma vidente usada como terapia em
+vez de uma tomada de decisão. Nossa mensagem concentra-se naqueles que são
+profissionalmente enviesados, e que causam danos sem serem responsabilizados
+por isso, pela própria estrutura de sua ocupação.
+
+Pois a pessoa profissionalmente assimétrica é rara, e assim tem sido no decorrer
+da história, até mesmo no presente. Ela causa um bocado de problemas, mas é
+rara. Pois a maioria das pessoas com quem nos deparamos na vida real —
+padeiros, sapateiros, encanadores, motoristas de táxi, contadores, consultores
+tributários, lixeiros, assistentes de dentistas, operadores de lava-jato (sem contar
+os especialistas em gramática da língua espanhola) — pagam um preço por seus
+erros.
+III. MODERNISMO
+Ainda que se ajuste a antigas e clássicas noções de justiça, este livro, fiando-se
+nos mesmos argumentos de assimetria, vai na contramão de um século e meio de
+pensamento modernista — algo que chamaremos aqui de intelectualismo. O
+intelectualismo é a crença de que se pode separar uma ação dos resultados de tal
+ação, de que se pode separar a teoria da prática, e de que sempre se pode
+consertar um sistema complexo por enfoques hierárquicos, isto é, de uma
+maneira (cerimonial) de cima para baixo.
+O intelectualismo tem um irmão: o cientificismo, uma interpretação ingênua da
+ciência como complicação e não da ciência como um processo e um
+empreendimento céticos. Usar a matemática quando ela não é necessária não é
+ciência, mas cientificismo. Substituir a sua mão, que funciona perfeitamente
+bem, por algo mais tecnológico, uma mão artificial, por exemplo, não é científico.
+Substituir os processos “naturais”, ou seja, processos muito antigos, que
+sobreviveram a trilhões de estressores de alta dimensão, por algo em um
+periódico “avaliado por pares” e que talvez não sobreviva à reprodução ou ao
+escrutínio estatístico não é nem ciência nem boa prática. No momento em que
+este texto ganhou vida, a ciência foi encampada por vendedores e fornecedores
+que a usam para comercializar produtos (como margarina ou organismos
+geneticamente modificados) e, ironicamente, o empreendimento cético está
+sendo usado para silenciar os céticos.
+O desrespeito pelas verdades insípidas complicadas e verbalisticamente
+derivadas sempre esteve presente na história intelectual, mas é provável que você
+não perceba isso na seção de ciência do jornal ou no professor da faculdade: o
+questionamento de ordem superior requer mais confiança intelectual, uma
+compreensão mais profunda da significação estatística, e um nível mais elevado
+de rigor e capacidade intelectual — ou, melhor ainda, experimente vender tapetes
+ou especiarias em um souk, um bazar tradicional nos países árabes. Assim, este
+
+livro dá continuidade a uma longa tradição de investigação-cética-com-soluções-
+práticas — os leitores do projeto Incerto talvez estejam familiarizados com as
+escolas de céticos (tema também abordado em A lógica do Cisne Negro), em
+particular a diatribe de vinte e dois séculos atrás de Sexto Empírico Contra os
+Professores.
+A regra é:
+Aqueles que falam deveriam fazer e somente aqueles que fazem deveriam falar,
+isentando-se em alguma medida atividades autônomas como matemática, filosofia
+rigorosa, poesia e arte, que não fazem declarações explícitas de adequação à
+realidade. Como afirma Ariel Rubinstein, o grande teórico dos jogos: faça suas
+teorias ou representações matemáticas, não diga às pessoas no mundo real como
+aplicá-las. Deixe que aqueles que arriscam a própria pele escolham o que elas
+precisam.
+Eis um efeito colateral mais prático do modernismo: à medida que as coisas se
+tornam mais tecnológicas, há uma separação cada vez maior entre o criador e o
+usuário.
+Como jogar luz sobre um palestrante
+Aqueles que dão palestras para plateias numerosas observam que eles — e
+outros palestrantes — ficam desconfortáveis no palco. O motivo, demorei uma
+década para descobrir, é que a luz dos holofotes irradia diretamente nos nossos
+olhos e dificulta a concentração. (É assim que costumavam ser conduzidos
+interrogatórios policiais: jogue luz sobre o suspeito e é só esperar ele dar com a
+língua nos dentes). Mas, durante a apresentação, os palestrantes não conseguem
+identificar qual é o problema, então atribuem a perda de concentração
+simplesmente ao fato de estar no palco. Por isso a prática continua. Por quê?
+Porque quem dá palestras para plateias numerosas não trabalha com iluminação,
+e os engenheiros de iluminação não dão palestras para plateias numerosas.
+Outro pequeno exemplo de progresso de cima para baixo: a Metro North, a
+ferrovia entre a cidade de Nova York e os subúrbios ao norte, renovou seus trens
+em uma reformulação total. Os trens parecem mais modernos, mais elegantes,
+têm cores mais vivas e incluem até mesmo comodidades para os passageiros,
+como tomadas de alimentação para o computador (as quais ninguém usa). Mas,
+no canto, junto à parede, costumava haver uma borda plana onde se podia apoiar
+o copo de café: é difícil ler um livro segurando seu café. O designer (que ou não
+
+conduz trens ou não viaja de trem, mas certamente não toma café enquanto lê),
+julgando tratar-se de uma melhoria estética, fez a borda ligeiramente inclinada, de
+modo que agora é impossível colocar o copo sobre ela.
+Isso explica os mais severos problemas do paisagismo e da arquitetura: os
+arquitetos de hoje em dia concebem projetos de construção para impressionar
+outros arquitetos, e como resultado acabamos com estruturas estranhas —
+irreversíveis — que não satisfazem as necessidades de seus moradores; isso exige
+tempo e um bocado de improvisação progressista. Caso contrário algum
+especialista sentado no Ministério do Planejamento Urbano, alguém que não
+mora na comunidade, produzirá o equivalente da borda inclinada — como uma
+melhoria, só que em uma escala muito maior.
+A especialização, continuarei insistindo, vem com efeitos colaterais, um dos
+quais é a separação entre o trabalho e os frutos do trabalho.
+Simplicidade
+Agora, arriscar a própria pele traz simplicidade — a irresistível simplicidade das
+coisas feitas do jeito certo. As pessoas que veem soluções complicadas não têm
+um incentivo para implementar soluções simplificadas. Como vimos, um sistema
+burocratizado ficará ainda mais complicado a partir da ação de pessoas que
+vendem soluções complicadas porque é isso que a sua posição e o seu
+treinamento as estimulam a fazer.
+Tudo que é projetado por pessoas que não arriscam a própria pele tende a ficar
+cada dia mais complicado (antes de seu colapso final).
+Não há absolutamente nenhum benefício para que alguém nessa posição
+proponha algo simples: quando uma pessoa é recompensada por percepção, não
+por resultados, ela precisa mostrar sofisticação. Qualquer um que já tenha
+submetido um artigo “acadêmico” a um periódico sabe que tornar o texto mais
+complicado que o necessário em geral aumenta a probabilidade de aceitação.
+Além disso, há efeitos colaterais para problemas que crescem de forma não linear
+com tais complicações ramificadas. Pior:
+As pessoas que não arriscam a própria pele não entendem a simplicidade.
+Se não arriscar a própria pele eu fico burro
+
+Voltemos ao pathemata mathemata (“norteie seu aprendizado por meio da dor”)
+e examinemos seu inverso: aprender por meio de fortes emoções e prazer. As
+pessoas têm dois cérebros: um quando arriscam a própria pele, outro quando não
+o fazem. Arriscar a própria pele pode tornar tarefas enfadonhas menos
+enfadonhas. Quando você arrisca a própria pele, tarefas entediantes como
+verificar a segurança de uma aeronave porque você pode ser obrigado a ser um
+dos passageiros deixa de ser entediante. Se você é investidor em uma empresa,
+fazer coisas ultramegachatas, como ler as notas de rodapé de um demonstrativo
+financeiro (onde está a informação de verdade), torna-se uma coisa, bem, quase
+não tão chata.
+Mas há uma dimensão ainda mais essencial. Muitos viciados, que normalmente
+têm um intelecto medíocre e a agilidade mental de uma couve-flor — ou de um
+especialista em política externa —, são capazes de arquitetar os truques mais
+engenhosos para conseguir drogas. Quando passam por um tratamento de
+reabilitação, muitas vezes são informados de que, se investissem metade da
+energia mental que desperdiçam tentando obter drogas em ganhar dinheiro, é
+certo que se tornariam milionários. Mas, em vão. Sem o vício, seus poderes
+milagrosos desaparecem. Era como uma poção mágica que conferia poderes
+extraordinários àqueles que a procuravam, mas não aos que a bebiam.
+Uma confissão: quando não arrisco minha própria pele, geralmente sou burro.
+O meu conhecimento de questões técnicas, como risco e probabilidade, não veio
+inicialmente de livros. Não veio de filosofia e de interesse científico. Nem sequer
+veio da curiosidade. Veio das fortes emoções e do jorro hormonal que uma
+pessoa sente quando se arrisca no mercado financeiro. Nunca pensei que a
+matemática fosse algo interessante até que, quando estava na Wharton, um amigo
+me contou sobre as opções financeiras que descrevi anteriormente (e sua
+generalização, derivativos complexos). Decidi de imediato construir uma carreira
+em cima disso. Era uma combinação de negociação financeira e complicadas
+probabilidades. O campo era novo e desconhecido. Instintivamente sabia que
+havia erros nas teorias que usavam a curva convencional e ignoravam o impacto
+das caudas (eventos extremos). Tinha a intuição de que os acadêmicos não
+entendiam patavina sobre riscos. Então, para encontrar erros na estimativa desses
+valores probabilísticos, tive que estudar probabilidade, que de forma misteriosa e
+instantânea tornou-se divertida, até mesmo cativante.
+Quando havia risco em jogo, de repente um segundo cérebro dentro de mim se
+manifestava, e as probabilidades de sequências intrincadas tornavam-se facílimas
+de analisar e mapear. Quando há fogo, a pessoa corre mais rápido do que em
+
+qualquer competição. Para quem esquia encosta abaixo, alguns movimentos se
+tornam fáceis e sem esforço. Quando não havia ação de verdade, eu ficava burro
+de novo. Além disso, a matemática que nós, traders, usamos ajustava-se ao nosso
+problema como uma luva, ao contrário dos acadêmicos, que têm uma teoria e
+saem à procura de alguma aplicação — em alguns casos tínhamos que inventar
+modelos a partir do nada e não podíamos nos dar ao luxo de usar as equações
+erradas. Aplicar matemática a problemas práticos era uma história totalmente
+diferente; significava ter uma compreensão profunda do problema antes de
+escrever as equações.
+Mas se você for capaz de reunir força física suficiente para erguer um carro e
+salvar uma criança, acima das suas capacidades atuais, o vigor adquirido
+perdurará depois que as coisas se acalmarem. Então, ao contrário do viciado que
+perde sua desenvoltura, o que você aprende com a intensidade e o foco que
+demonstrou quando sob a influência do risco permanece com você. Pode até
+perder a astúcia, mas ninguém pode tirar o que você aprendeu. Essa é a principal
+razão pela qual agora estou combatendo o sistema educacional convencional,
+feito por babacas para babacas. Muitas crianças aprenderiam a amar a matemática
+se tivessem alguma dose de investimento na ciência dos números e, o mais
+importante, desenvolveriam um instinto para detectar o mau uso da matemática.
+Regulamentações versus sistemas jurídicos
+Existem duas maneiras de salvaguardar os cidadãos dos predadores de grande
+porte (digamos, por exemplo, grandes e poderosas corporações). A primeira é
+promulgar regulamentos e normas — mas esses, além de restringir as liberdades
+individuais, levam a outra predação, desta vez pelo Estado, seus agentes e seus
+comparsas. De modo mais decisivo, as pessoas com bons advogados podem
+manipular a seu favor as regras e normas (ou, como veremos, podem deixar bem
+claro que contratam os antigos formuladores das regras e pagam em demasia por
+eles, o que sinaliza um potencial suborno para aqueles atualmente no poder). E é
+claro que os regulamentos, uma vez em vigor, permanecem em vigor, e, mesmo
+quando se mostram absurdos, os políticos têm medo de revogá-los, sob a pressão
+dos que deles se beneficiam. Dado que os regulamentos são cumulativos, logo
+acabamos enredados em regras complicadas que sufocam o empreendedorismo.
+E sufocam também a vida.
+Pois sempre há parasitas que se beneficiam da regulamentação, situações em
+que o empresário ou empresária usa o governo para obter lucros, muitas vezes
+
+por meio de normas protetivas e franquias. O mecanismo é chamado de
+reaquisição regulatória, pois cancela o efeito de um regulamento.
+A outra solução é arriscar a pele em transações, sob a forma de
+responsabilidade legal, e a possibilidade de uma ação judicial eficiente. O mundo
+anglo-saxão tradicionalmente tinha predileção pelo enfoque legal em vez da
+postura regulatória: se você me prejudicar, eu posso te processar. Isso resultou no
+direito comum bastante sofisticado, adaptativo e equilibrado, construído de baixo
+para cima, por meio de tentativa e erro. Quando as pessoas negociam, quase
+sempre preferem chegar a um acordo (como parte do contrato) em algum local da
+Comunidade das Nações (ou outrora de jugo britânico), como um fórum em caso
+de disputa: Hong Kong e Cingapura são os favoritos na Ásia; Londres e Nova
+York no Ocidente. O direito comum trata do espírito, ao passo que a
+regulamentação, devido a sua rigidez, gira em torno das letras.
+Se uma grande corporação poluir seu bairro, você pode se juntar a seus vizinhos
+e meter um processo goela abaixo daquela desgraçada. Algum advogado
+ganancioso preparará a papelada. Os inimigos da corporação terão prazer em
+ajudar. E os custos potenciais do acordo teriam capacidade de dissuasão
+suficiente para fazer com que a corporação se comportasse.
+Isso não significa que a regulamentação jamais seja necessária. Alguns efeitos
+sistêmicos podem exigir regulação (por exemplo, riscos de cauda ocultos de
+ruínas ambientais que aparecem tarde demais). Se você não pode efetivamente
+processar, regulamente.8
+Ora, mesmo que os regulamentos acarretassem uma pequena compensação
+líquida para a sociedade, eu ainda preferiria ser o mais livre possível, mas assumir
+minha responsabilidade civil, enfrentar meu destino e pagar a penalidade se
+prejudico outras pessoas. Essa atitude se chama libertarianismo deôntico (o
+deôntico vem de “deveres”): ao regulamentar, você está privando as pes soas da
+liberdade. Alguns de nós acreditam que a liberdade é o primeiro bem essencial
+de um indivíduo. Isso inclui a liberdade de cometer erros (aqueles que só
+prejudicam você); é sagrado a ponto de que nunca deve ser negociado em troca
+de benefícios econômicos ou de outro tipo.
+IV. SE DEDICAR DE CORPO E ALMA
+Por fim, e de maneira primordial, arriscar a própria pele tem a ver com honra,
+com um compromisso existencial, e assumir riscos (uma certa classe de riscos)
+
+como uma separação entre homem e máquina e (alguns talvez odeiem isto) uma
+categorização de humanos.
+Se você não corre riscos por sua opinião, você não é nada.
+E continuarei afirmando que não tenho outra definição de sucesso a não ser
+levar uma vida honrosa. E que é desonroso deixar outros morrerem em seu lugar.
+A honra implica que existem algumas ações que você jamais faria,
+independentemente das recompensas materiais. A honra não aceita nenhuma
+barganha faustiana, então não venderia o próprio corpo por quinhentos dólares;
+nem faria isso por 1 milhão, ou por 1 bilhão, ou por 1 trilhão. E tampouco se trata
+apenas de uma via negativa; a honra também significa que existem coisas que
+você faria incondicionalmente, a despeito das consequências. Pense nos duelos,
+que nos privaram do grande poeta russo Púchkin, do matemático francês Évariste
+Galois e, é claro, muitos mais, em tenra idade (no caso de Galois, muito tenra —
+ele morreu aos vinte anos): as pessoas expunham-se a riscos reais de morte
+apenas para defender sua reputação. Viver como um covarde simplesmente não
+era uma opção, e a morte era muito mais preferível, mesmo no caso de Galois,
+que ainda na adolescência inventou um novo e importante ramo da matemática.9
+Ao despedir-se do filho que rumava para a batalha, uma mãe espartana lhe dizia:
+“Volte com seu escudo ou sobre ele”, o que significava que o rapaz deveria
+retornar empunhando seu escudo ou não retornar vivo (o costume era carregar os
+guerreiros mortos sobre o próprio escudo); apenas os covardes abandonam seus
+escudos para correr mais rápido.
+Se quiser refletir sobre como a modernidade destruiu alguns dos alicerces dos
+valores humanos, faça a comparação entre as incondicionais mencionadas e as
+concessões modernistas: pessoas que, digamos, trabalham para lobbies nojentos
+(representando os interesses, por exemplo, da Arábia Saudita em Washington) ou
+que deliberadamente fazem o costumeiro jogo acadêmico antiético, e que
+aprenderam a conviver com si mesmos lançando mão de argumentos como
+“Tenho que pagar a educação dos meus filhos”. Pessoas que não são moralmente
+independentes tendem a ajustar a ética a sua profissão (com um mínimo de
+retórica e distorção de fatos) em vez de encontrar uma profissão que se adapte a
+sua ética.
+Agora, há uma outra dimensão de honra: envolver-se em ações que vão além de
+meramente se colocar em risco pelos outros; arriscar a própria pele pela de
+outras pessoas; sacrificar algo importante pelo bem coletivo.
+
+No entanto, há atividades nas quais uma pessoa é imbuída de um sentimento de
+orgulho e honra sem sacrifícios em grande escala: atividades artesanais.
+Artesãos
+Qualquer coisa que você fizer para otimizar seu trabalho, pegar atalhos,
+contornar regras ou extrair mais “eficiência” do trabalho (e da sua vida) acabará,
+no fim das contas, levando você a sentir aversão a ele.
+Os artesãos se dedicam de corpo e alma.
+Primo, os artesãos fazem as coisas por razões existenciais primeiro, financeiras e
+comerciais depois. A tomada de decisões de um artesão nunca é totalmente
+financeira, mas continua a ser financeira. Secundo, os artífices têm algum tipo de
+“arte” em sua profissão; eles mantêm distância da maior parte dos aspectos da
+industrialização; combinam arte e negócio. Tertio, os artesãos injetam um pouco
+da própria alma em seu trabalho: não venderiam uma peça defeituosa ou mesmo
+de qualidade duvidosa, porque isso fere seu orgulho. Por fim, eles têm tabus
+sagrados, coisas que jamais fariam mesmo que aumentassem significativamente
+sua lucratividade.
+Compendiaria res improbitas, virtusque tarda — a vilania pega a estrada curta; a
+virtude, a mais longa. Em outras palavras, pegar atalhos é desonesto.
+Permita-me ilustrar com minha própria profissão. É fácil ver que um escritor é
+efetivamente um artesão: os lucros com as vendas de livros não são a motivação
+principal, apenas um alvo secundário (mesmo assim). Você preserva alguma
+santidade do produto com fortes proibições. Por exemplo, no início dos anos
+2000, a escritora Fay Weldon foi paga pela joalheria Bulgari para anunciar a
+marca, tecendo recomendações dos excelentes produtos no enredo de um
+romance de sua autoria. Foi um rebuliço; disseminou-se um generalizado
+sentimento de repulsa por parte da comunidade literária.
+Também me lembro de que na década de 1980 algumas pessoas tentaram
+distribuir livros de graça, mas com propaganda no meio do texto, como nas
+revistas. O projeto fracassou.
+Também não industrializamos a escrita. O leitor ficaria decepcionado se eu
+contratasse um grupo de escritores para “ajudar”, já que assim seria mais
+eficiente. Alguns autores, como Jerzy Kosinski, tentaram escrever livros
+subcontratando mão de obra para redigir algumas partes, e caíram no completo
+ostracismo após serem descobertos. São poucos os escritores que terceirizam a
+
+escrita e viram seu trabalho sobreviver. Mas há exceções, como Alexandre Dumas
+père, que, reza a lenda, gerenciava uma oficina de escritores de aluguel (45 deles),
+o que lhe permitiu aumentar sua produção para 150 romances, com a piada que
+ele leu apenas alguns dos próprios livros. Mas, em geral, a produção não é
+dimensionável ou mensurável (mesmo que as vendas de um livro o sejam).
+Dumas talvez seja a exceção que confirma a regra.
+Agora, algo bastante prático. Um dos melhores conselhos que já recebi foi a
+recomendação de um empresário mais velho, um empreendedor muito bem-
+sucedido (e feliz), Yossi Vardi, de não ter assistentes. A mera presença de um
+assistente suspende nossa filtragem natural — e a ausência de um nos força a
+fazer apenas as coisas de que gostamos e, de forma progressiva, assumir as rédeas
+da nossa própria vida e conduzi-la dessa forma (por “assistente” aqui excluo
+alguém contratado para uma tarefa específica, como corrigir provas e trabalhos
+de alunos, ajudar na contabilidade ou regar plantas; apenas um anjo da guarda
+que supervisiona todas as suas atividades). Este é um enfoque de via negativa:
+você quer o máximo de tempo livre, não estar em atividade máxima, e você
+mesmo pode avaliar seu próprio “sucesso” de acordo com essa métrica. Caso
+contrário, acaba auxiliando seus assistentes, ou sendo forçado a “explicar” como
+fazer as coisas, o que exige mais esforço mental do que fazer a coisa em si. A bem
+da verdade, para além da minha vida como escritor e pesquisador, o conselho
+provou ser de grande valia financeira, pois sou mais livre, mais ágil e tenho um
+padrão de referência bastante elevado para fazer algo, enquanto meus pares têm
+seus dias preenchidos com “reuniões” desnecessárias e correspondência banal.
+Ter um assistente (exceto para o estritamente necessário) o impede de se dedicar
+de corpo e alma.
+Pense no efeito de usar um tradutor portátil na sua viagem ao México, no lugar
+de adquirir um robusto vocabulário em espanhol por meio do contato direto com
+os moradores locais. A assistência afasta você da autenticidade.
+Acadêmicos podem ser artesãos. Mesmo os economistas que, compreendendo
+mal Adam Smith, afirmam que os humanos estão aqui para “buscar a
+maximização” de seus rendimentos, expressam essas ideias de graça, e ficam se
+gabando por não estarem interessados em uma vil busca de lucro comercial, sem
+ver a contradição.
+Uma advertência aos empresários
+
+Os empresários são heróis em nossa sociedade. Eles fracassam por nós. Mas,
+devido ao financiamento e aos atuais mecanismos de capital de risco, muitas
+pessoas confundidas com empreendedores não arriscam a própria pele, no
+sentido de que seu objetivo é lucrar uma bolada vendendo a outrem a empresa
+que eles ajudaram a criar ou “abrindo o capital” e tornando-se uma empresa de
+capital aberto ou sociedade anônima, pela venda de ações na bolsa. O verdadeiro
+valor da empresa, o que ela faz e a sua sobrevivência a longo prazo não é lá muito
+relevante. Trata-se de um puro esquema de financiamento, e excluiremos essa
+classe de pessoas da nossa categoria de “empreendedores” que assumem riscos
+(essa forma de empreendedorismo é o equivalente a trazer ao mundo crianças
+bonitas e comercializáveis com o único objetivo de vendê-las quando
+completarem quatro anos de idade). Esse tipo de pessoa pode ser identificada
+facilmente por sua capacidade de escrever um plano de negócios convincente.
+As empresas além da etapa do empreendedorismo começam a apodrecer. Uma
+das razões pelas quais as corporações têm a mesma taxa de mortalidade de
+pacientes com câncer é a atribuição de tarefas por um tempo predeterminado.
+Tão logo você mude de atribuição — ou, melhor, de empresa —, agora você pode
+dizer acerca dos profundos riscos ao estilo de Bob Rubin que vêm à tona: “Não é
+mais problema meu”. O mesmo acontece quando você se vende; então, lembre-se
+disto:
+A habilidade de criar coisas do zero diverge da capacidade de vender coisas.
+“Arrogante” serve
+Produtos ou empresas que levam o nome do dono transmitem mensagens muito
+valiosas. Eles gritam que têm algo a perder. O epônimo indica tanto um
+comprometimento com a empresa como a confiança no produto. Um amigo meu,
+Paul Wilmott, muitas vezes é chamado de egomaníaco por ter seu nome
+estampado em um periódico técnico de finanças matemáticas (Wil-mott), que no
+momento da elaboração deste livro é, sem dúvida, o melhor. “Egomaníaco” é bom
+para o produto. Mas se você não conseguir “egomaníaco”, “arrogante” serve.
+Cidadania de Plaisance
+Muitas pessoas endinheiradas que vêm viver nos Estados Unidos evitam tornar-
+se cidadãos embora morem aqui indefinidamente. Elas têm a opção de obter uma
+
+autorização de residência permanente, pois é um direito, não uma obrigação, já
+que podem revogá-la com um procedimento simples. Você lhes pergunta por que
+não prestam o juramento na frente de um juiz e depois oferecem um coquetel em
+algum clube de campo à beira-mar. A resposta típica é: impostos. A partir do
+momento em que a pessoa se torna um cidadão dos EUA passa a ter de pagar
+impostos sobre a renda que arrecada em âmbito mundial, mesmo que more no
+exterior. E isso não é facilmente reversível, então ela perde a opcionalidade. Mas
+outros países ocidentais, a exemplo da França e do Reino Unido, permitem a seus
+cidadãos consideráveis isenções caso residam em algum paraíso fiscal. Isso
+incentiva um conjunto de pessoas a “comprar” uma cidadania via investimentos e
+residência por um período mínimo, pegar o passaporte e então ir viver em algum
+lugar livre de impostos.
+Um país não deveria tolerar esses “amigos da onça”, os amigos só para as horas
+boas. Há algo de ofensivo em obter uma nacionalidade sem arriscar a própria
+pele, apenas para poder viajar e atravessar fronteiras sem a desvantagem que vem
+com o passaporte.
+Meus pais são cidadãos franceses, o que teria facilitado minha naturalização
+algumas décadas atrás. Mas não me parecia a coisa certa; para ser franco, achava
+até meio ofensivo. E a menos que eu desenvolvesse um vínculo emocional com a
+França arriscando a minha própria pele, eu não poderia fazer isso. Teria me
+causado uma sensação de falsidade ver meu rosto barbudo em um passaporte
+francês. O único passaporte que eu teria cogitado é o grego (ou cipriota), pois
+sinto profundos laços ancestrais e socioculturais com o mundo helenístico.
+Mas vim para os Estados Unidos, abracei o lugar e tomei o passaporte como um
+compromisso: ele se tornou minha identidade, boa ou ruim, com ou sem
+impostos. Muitas pessoas zombaram da minha decisão, já que a maior parte da
+minha renda vem do exterior e, se eu residisse no Chipre ou em Malta, ganharia
+muito mais dinheiro. Se eu quiser diminuir o valor dos impostos que eu pago, e
+eu quero, tenho a obrigação de lutar por essa redução tributária, tanto para mim
+quanto para o coletivo, os outros contribuintes, e não fugir.
+Arriscar a própria pele.
+Heróis não eram ratos de biblioteca
+Se você quiser estudar valores clássicos como coragem ou aprender sobre o
+estoicismo, não procure necessariamente os classicistas. Ninguém segue a
+carreira acadêmica sem motivo. Leia os textos em primeira mão: Sêneca, César
+
+ou Marco Aurélio, quando possível. Ou leia críticos sobre os clássicos que
+tenham sido, eles próprios, realizadores, a exemplo de Montaigne — pessoas que,
+em algum momento, arriscaram a própria pele antes de se aposentarem para
+escrever livros. Evite o intermediário, sempre que possível. Ou deixe os textos
+pra lá, simplesmente envolva-se em atos de coragem.
+Pois estudar a coragem em livros didáticos não torna você mais corajoso, assim
+como comer bife não transforma você em boi ou vaca.
+Por algum misterioso mecanismo mental, as pessoas não conseguem perceber
+que o mais importante que aprendemos com um professor é como ser um
+professor — e o mais importante que aprendemos, digamos, com um coach ou
+um palestrante motivacional é como se tornar um coach ou um palestrante
+motivacional. Então lembre-se de que os heróis da história não eram classicistas
+nem ratos de biblioteca, gente que vive perigosamente apenas dentro de seus
+textos. Eles eram pessoas de ação, dotadas do espírito de quem assume riscos.
+Para entrar na psique dessas figuras, você precisará de alguém que não seja um
+professor ensinando estoicismo.10 Quase sempre esses caras não entendem (na
+verdade, nunca entendem). Na minha experiência, baseada em uma série de
+discussões pessoais, muitos desses “classicistas” que sabem em detalhes íntimos o
+que pessoas de coragem como Alexandre, Cleópatra, César, Aníbal, Juliano,
+Leônidas e Zenóbia comiam no café da manhã, são incapazes de produzir um
+dado sequer que tenha valor intelectual. É por isso que o ambiente acadêmico (e
+o jornalismo) são fundamentalmente o refúgio dos tagarelas estocastofóbicos?
+Ou seja, o voyeur que quer assistir, mas não correr riscos? Parece que sim. O
+capítulo mais importante do livro, e convenientemente o último, “A lógica de
+correr riscos”, mostra como alguns elementos essenciais do risco, embora óbvios
+para os praticantes, podem ter passado despercebidos pelos teóricos por mais de
+dois séculos!
+Se dedicar de corpo e alma e protecionismo (sem exageros)
+Vamos agora aplicar esses conceitos aos tempos modernos. Lembra-se da
+história dos arquitetos que não têm os interesses reais dos usuários em mente?
+Isso se estende a efeitos sistêmicos mais gerais, tais como o protecionismo e o
+globalismo. Visto dessa forma, o surgimento de alguma dose de protecionismo
+pode ter um forte fundamento lógico — e econômico.
+Vou ignorar o argumento de que a globalização leva a uma cacofonia ao estilo
+Torre de Babel, devido ao desequilíbrio na proporção ruído-sinal. O ponto aqui é
+
+que cada trabalhador, cada pessoa que faz alguma coisa, tem em si um artesão.
+Pois, ao contrário do que os lobistas pagos pelas grandes corporações
+internacionais estão tentando nos fazer acreditar, esse protecionismo nem de
+perto entra em conflito com o pensamento econômico, conhecido como economia
+neoclássica. Não é inconsistente com os axiomas matemáticos da tomada de
+decisões econômica, com base nos quais a economia estabelece seus alicerces,
+comportar-se de forma a não maximizar o resultado líquido expresso
+estritamente em dólares, à custa de outras coisas. Como já disse neste mesmo
+capítulo, não é irracional, de acordo com a teoria econômica, deixar de ganhar
+algum dinheiro em função da sua preferência pessoal; a noção de incentivos, de
+resto limitada a ganhos financeiros, não é capaz de explicar a própria existência
+de instituições acadêmicas de economia que promovam a ideia do interesse
+próprio.11
+Talvez estivéssemos em uma situação melhor, num sentido contábil
+minuciosamente definido (no agregado), se exportássemos empregos. Mas talvez
+não seja isso o que as pessoas realmente querem. Escrevo porque é o meu
+propósito fazê-lo, assim como uma faca corta porque essa é sua missão — a arête
+de Aristóteles —, e terceirizar minha pesquisa e minha escrita, subcontratando
+alguém da China ou da Tunísia, (talvez) aumentasse minha produtividade, mas
+me privaria de minha identidade.
+Assim, pode ser que as pessoas queiram fazer coisas. Simplesmente porque
+sentem que é parte de sua identidade. Um sapateiro no condado de Westchester
+quer ser um sapateiro, usufruir dos frutos de seu trabalho e do orgulho de ver
+suas mercadorias nas lojas, mesmo que sua assim chamada condição “econômica”
+possa se beneficiar caso ele mude para outra profissão e deixe uma fábrica
+chinesa fabricar seus sapatos. Mesmo que um novo sistema nesses moldes lhe
+permita comprar aparelhos de TV de tela plana, mais camisas de algodão e
+bicicletas mais baratas, falta algo. É cruel ludibriar as pessoas a sair de sua
+profissão. Elas querem se dedicar de corpo e alma.
+Nesse sentido, a descentralização e fragmentação, além de estabilizar o sistema,
+melhora a conexão das pessoas com seu trabalho.
+A pele reina
+Vamos fechar com um relato histórico.
+Alguns podem muito bem perguntar: a lei é ótima, mas o que se faz com um
+juiz corrupto ou incompetente? Talvez ele cometa erros e saia impune. Ele pode
+
+ser o elo fraco. Não exatamente, ou pelo menos não historicamente. Certa vez
+um amigo me mostrou uma pintura holandesa que representava o Julgamento de
+Cambises. A cena é inspirada pela história relatada por Heródoto a respeito do
+corrupto juiz persa Sisamnés. Ele foi esfolado vivo por ordem do rei Cambises,
+como punição por violar as leis. A cena da pintura a óleo mostra o filho de
+Sisamnés aplicando a justiça sentado na cadeira do pai, estofada com a pele do
+mesmo, à guisa de um lembrete de que a justiça demanda, literalmente, que se
+arrisque a própria pele.
+1. No original, o autor utiliza a expressão “claw back”, ou cláusula de reversão, conceito relacionado à
+recuperação de fundos por meio de taxação ou penalidade; no Direito do Trabalho, por exemplo, clawback
+clauses ou clawback provisions são mecanismos de reembolso e cláusulas de regresso, que consistem em
+previsões contratuais que obrigam altos executivos a, quando em sua gestão for caracterizada fraude,
+imprudência grave na condução dos negócios ou pedido de demissão para trabalhar em empresa
+concorrente, restituir ao empregador os bônus que recebeu antecipadamente. (N. T.)
+2. Nascido em 1934, Nader é um advogado e político norte-americano diplomado pelas universidades
+Harvard e Princeton. Célebre por suas campanhas a favor dos direitos dos consumidores nos anos 1960, nas
+últimas décadas ele promoveu a discussão de temas como os direitos dos consumidores, feminismo,
+humanismo, ecologia e governança democrática. Ferrenho crítico da política internacional dos EUA, seu
+ativismo foi de grande importância na criação de ONGs norte-americanas. (N. T.)
+3. “Não façais aos outros aquilo que não quereis que vos façam” (Isócrates; Hilel, o Ancião; Mahabharata).
+“O que é odioso para ti, não o faças ao teu próximo: esta é a lei toda, o resto é o comentário; agora vai e
+aprende.” O rabino Hilel, o Ancião, baseado em Levítico 19:18. “Não faças aos demais aquilo que, se a ti for
+feito, te causará dor. Esta é a essência da moralidade.”
+4. Um posicionamento contra a violação da simetria aparece na Parábola do Servo Inclemente no Novo
+Testamento (Mateus 18:23-35). Um servo que tem sua enorme dívida perdoada por um credor compassivo
+posteriormente pune outro servo que lhe devia uma quantia muito menor. A maioria dos comentaristas
+parece não perceber que a verdadeira mensagem é a simetria (dinâmica), não o perdão.
+5. Esta seção é técnica e pode ser pulada na primeira leitura.
+6. No original o autor escreve “Survival talks and BS walks”, explorando trocadilhos com duas típicas
+expressões idiomáticas: walk the talk (“colocar as palavras para andar” significa realizar o discurso, ou,
+simplificando, “falar a verdade”) e talk the talk (“ser coerente com o próprio discurso”, “faça o que você diz”).
+Se uma pessoa talk the talk but does not walk the walk, quer dizer que não dá conta do recado, não cumpre o
+prometido e não pratica ações e atitudes em consonância com tudo aquilo que diz, isto é, não leva em conta
+que “um exemplo vale mais do que mil palavras”. (N. T.)
+7. Na verdade, aqueles que formalizaram a teoria da racionalidade, como o matemático e o teórico dos jogos
+Ken Binmore, sobre quem falaremos em breve, insistem que nunca houve qualquer teoria rigorosa e
+consistente de “racionalidade” que coloque as pessoas em uma camisa de força. Nem na economia
+neoclássica ortodoxa você encontrará essas afirmações. Grande parte do que lemos sobre o “racional” na
+literatura verbalística não parece ter qualquer rigor.
+8. O Ralph Nader a quem dedico este livro é o Ralph Nader que ajudou a implementar o mecanismo legal
+que protege consumidores e cidadãos de predadores; um pouco menos o Ralph Nader que de vez em
+quando vem a público exigindo a imposição de regulamentação.
+9. Na verdade, há um argumento a favor de duelos: eles impedem que conflitos envolvam grupos mais
+amplos de pessoas, isto é, as guerras, ao restringir o problema àqueles que arriscam diretamente a própria
+pele.
+
+10. Minha compreensão de Sêneca, que expressei em Antifrágil, gira em torno da assimetria (e
+opcionalidade), tanto financeira como emocional. Como alguém que assume riscos, consigo entender algo
+que é impossível de transmitir aos classicistas, o que torna frustrante ler análises de Sêneca em que o
+essencial está ausente.
+11. Por um longo tempo, alguns cantões suíços — democraticamente — proibiram a venda de imóveis a
+estrangeiros, a fim de evitar o incômodo dos playboys e socialites que não arriscavam a própria pele no país
+e davam altos lances para adquirir propriedades, prejudicando novos e jovens compradores que, sem poder
+de compra, eram alijados do mercado. Isso é uma tolice do ponto de vista econômico? De forma alguma,
+embora alguns donos de construtoras e corretoras de imóveis discordem veementemente.
+

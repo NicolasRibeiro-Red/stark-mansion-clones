@@ -1,0 +1,173 @@
+# 16. SUBTRAIR: Produza mais removendo obstáculos
+
+Paginas: 143-147
+
+CAPÍTULO 16
+SUBTRAIR
+Produza mais removendo obstáculos
+PARA OBTER CONHECIMENTO, ACRESCENTE COISAS TODO DIA.
+PARA OBTER SABEDORIA, SUBTRAIA.
+— Lao-Tsé
+Na parábola administrativa A meta, Alex Rogo é um personagem fictício
+sobrecarregado pela responsabilidade de reverter em três meses a situação de uma
+fábrica em queda de produção.1 A princípio, ele não vê como isso será possível.
+Depois, é orientado por um professor que lhe diz que haverá um progresso incrível
+em pouco tempo caso ele encontre as “restrições” da fábrica. As restrições seriam os
+obstáculos que retardam o sistema como um todo. Mesmo que tudo o mais seja
+aprimorado, o orientador afirma que, se não atacar as restrições, a fábrica não terá
+melhoras concretas.
+Enquanto tenta absorver o ensinamento, Alex vai fazer uma trilha com o filho e
+alguns amigos. Como chefe escoteiro, é responsabilidade dele levar todos os meninos
+até o acampamento antes do pôr do sol. Mas fazer um grupo de garotos manter o
+ritmo é mais difícil do que parece, e logo Alex esbarra num problema: alguns
+escoteiros andam bem depressa e outros, muito devagar. Um menino específico,
+Herbie, é o mais lento de todos. O resultado é que a distância entre os que andam
+depressa na frente da fila e Herbie, o atrasado, chega a alguns quilômetros.
+A princípio, Alex tenta resolver o problema fazendo o pelotão da frente parar e
+esperar que os outros o alcancem. Isso mantém o grupo unido por algum tempo,
+mas assim que todos voltam a caminhar a mesma lacuna começa a se formar outra
+vez.
+Então Alex decide tentar outra tática. Ele põe Herbie na frente do grupo e
+organiza todos os outros meninos por ordem de velocidade: do mais lento ao mais
+rápido. Parece ilógico deixar a pessoa mais veloz no fim da fila, mas isso faz com
+que os garotos comecem a se deslocar como um único grupo. Cada um consegue
+acompanhar o que está na frente. O lado bom é que agora ele consegue ficar de olho
+no grupo inteiro de uma vez, e todos chegarão ao acampamento sãos e salvos e ao
+mesmo tempo. O lado ruim é que o grupo inteiro se desloca no ritmo de Herbie, e
+com isso chegará muito tarde. O que fazer?
+A resposta, como Alex descobre, é fazer o máximo para facilitar a vida de
+
+Herbie. Se Herbie, na frente da fila, andar um metro a mais por hora o grupo inteiro
+chegará muito mais depressa. Para Alex, essa é uma ideia fascinante. Qualquer
+melhora de Herbie, por menor que seja, irá imediatamente aumentar o ritmo da
+equipe inteira. Então, ele reduz o peso da mochila de Herbie (tira de lá a comida e os
+suprimentos que trouxe consigo) e o distribui pelo restante dos meninos. De fato, na
+mesma hora isso melhora a velocidade do grupo todo. E eles chegam ao
+acampamento em boa hora.
+Alex então tem um insight e vê que essa abordagem também pode ser aplicada à
+fábrica que precisa melhorar. Em vez de aprimorar cada aspecto das instalações, ele
+precisa identificar o “Herbie”: a parte do processo que é mais lenta em relação a todas
+as outras. Ele faz isso descobrindo qual máquina tem a maior fila de matéria-prima
+à espera e dá um jeito de aumentar sua eficiência. Por sua vez, isso melhora a
+eficiência do próximo “caminhante lento” e assim por diante, até que a produtividade
+da fábrica inteira começa a crescer.
+A pergunta é: qual é o “caminhante mais lento” de seu trabalho ou de sua vida?
+Qual é o obstáculo que o impede de alcançar o que é importante? Ao identificar e
+remover sistematicamente essa “restrição”, você conseguirá reduzir de forma
+significativa o atrito que o impede de executar o essencial.
+Mas não se pode fazer isso de maneira aleatória. Apenas encontrar algo a
+consertar aqui e ali pode provocar, no máximo, melhorias localizadas a curto prazo;
+na pior das hipóteses, você desperdiçará tempo e esforço aprimorando o que não tem
+importância. Se quiser realmente aperfeiçoar o funcionamento total do sistema – seja
+ele um processo de fabricação, uma prática do departamento ou uma rotina da vida
+cotidiana –, será preciso identificar o “caminhante mais lento”.
+O não essencialista aborda a execução de modo reativo e aleatório. Como vive
+tentando contornar as crises em vez de prevê-las, ele é forçado a aplicar soluções
+rápidas e fáceis – o equivalente a enfiar o dedo no furo do vazamento da represa e
+torcer para a coisa toda não se romper. Como acha que pode resolver na marra,
+acaba aplicando cada vez mais pressão, o que muitas vezes só aumenta o atrito e a
+frustração. Em algumas situações, quanto mais forçamos alguém, com mais força
+ele resiste.
+Os essencialistas não recorrem a paliativos. Em vez de procurar os obstáculos
+mais óbvios ou imediatos, buscam os que retardam o avanço. Perguntam: “O que
+está nos impedindo de obter o que é essencial?” Enquanto o não essencialista se ocupa
+em aplicar cada vez mais pressão e empilhar soluções, o essencialista faz um único
+investimento em remover obstáculos. Essa abordagem vai além da simples solução
+de problemas; é um método de redução do esforço para maximizar o resultado.
+
+Não
+essencialista
+Essencialista
+Empilha
+soluções
+rápidas
+Faz mais
+Remove
+obstáculos
+ao progresso
+Produz mais
+Produza mais eliminando mais
+Aristóteles falava de três tipos de trabalho, enquanto no mundo moderno tendemos a
+enfatizar apenas dois. O primeiro é o trabalho teórico, cuja meta final é a verdade. O
+segundo é o trabalho prático, cujo objetivo é a ação. Mas há um terceiro: o trabalho
+poiético.2 O filósofo Martin Heidegger descreveu poiesis como um “trazer à frente”.3
+Esse terceiro tipo de trabalho é o jeito essencialista de abordar a execução:
+O essencialista
+produz mais
+– traz mais
+à frente –
+removendo mais
+em vez de
+fazendo mais.
+Muitas vezes não dedicamos tempo a realmente pensar sobre as iniciativas que
+produzirão ou não resultados. Mas, mesmo quando dedicamos, é mais fácil pensar
+na execução em termos de adição do que em subtração. Quando queremos vender
+mais produtos, contratamos mais vendedores. Se queremos fabricar mais
+
+mercadorias, intensificamos a produção. É claro que há indícios que comprovam
+que essa abordagem funciona em certa medida. No entanto, há outro jeito de pensar
+a melhoria do resultado. Em vez de se concentrar no esforço e nos recursos que é
+preciso adicionar, o essencialista se concentra nas restrições ou nos obstáculos que
+devem ser removidos. Quer saber como?
+1. TENHA CLAREZA DO OBJETIVO ESSENCIAL
+Não podemos saber quais obstáculos remover sem termos clareza do resultado
+desejado. Se não soubermos o que realmente tentamos obter, qualquer mudança será
+arbitrária. Digamos que a sua meta seja fazer um esboço de um relatório de 15
+páginas, anexá-lo a um e-mail e mandá-lo para o cliente às 14 horas de quinta-
+feira. Observação: esse é um resultado deliberadamente preciso.
+2. IDENTIFIQUE O “CAMINHANTE MAIS LENTO”
+Em vez de mergulhar logo no projeto, pare por alguns minutos para refletir.
+Pergunte-se: “Quais são os obstáculos no meu caminho até o resultado?” e “O que
+me impede de concluir o projeto?”. Faça uma lista desses entraves. Talvez eles
+incluam: falta de informações, baixo nível de energia, obsessão pela perfeição. No
+topo da lista inclua a resposta à questão: “Qual é o obstáculo que, se removido, fará
+quase todos os outros desaparecerem?”
+Para identificar o “caminhante mais lento”, é importante não esquecer que até
+atividades “produtivas” – como pesquisar, pedir informações por e-mail ou
+reescrever o relatório para que fique perfeito logo de primeira – podem ser
+obstáculos. Lembre-se: a meta desejada é terminar o esboço do relatório. Qualquer
+coisa que atrase a execução dessa meta tem que ser questionada.
+É comum haver múltiplos obstáculos no caminho de todo objetivo essencial. No
+entanto, a qualquer momento, há apenas uma prioridade, e remover obstáculos
+arbitrários pode não fazer efeito nenhum se o obstáculo primário não se mexer. No
+nosso exemplo, se a dificuldade de pôr as palavras no papel é o seu obstáculo
+primário, você pode contratar alguém para fazer pesquisas e nem assim chegar mais
+perto de redigir o relatório. Portanto, do mesmo modo que Alex conserta primeiro a
+máquina menos eficiente, depois a segunda e assim por diante, em vez de tentar
+consertá-las todas ao mesmo tempo, devemos realizar a remoção dos obstáculos um
+a um.
+3. REMOVA O OBSTÁCULO
+Digamos que seu “caminhante mais lento” seja a obsessão por fazer um relatório
+perfeito. Talvez você tenha dezenas de ideias para melhorar o relatório, mas neste
+caso o objetivo essencial é enviar o esboço. Portanto, para remover o obstáculo é
+preciso substituir a ideia “Isso tem que ficar perfeito, senão…” por “Concluído é
+melhor do que perfeito”. Permita-se não caprichar tanto no primeiro esboço. Com a
+
+remoção do obstáculo primário, fica mais fácil lidar com todos os outros aspectos do
+serviço.
+O “caminhante mais lento” pode até ser outra pessoa – o chefe que não autoriza o
+projeto, o departamento financeiro que não aprova o orçamento ou o cliente que não
+assina o contrato. Para reduzir o atrito com os outros, aplique a abordagem “com
+mel se pegam mais moscas”. Mande um e-mail para a pessoa, mas, em vez de
+perguntar se ela fez o serviço para você (pois obviamente não fez), vá conversar com
+ela. Pergunte: “Que obstáculos ou gargalos estão impedindo que você termine X e
+como posso ajudar a removê-los?” Em vez de importuná-la, ofereça ajuda com
+sinceridade. Você terá uma resposta mais cordial do que se apenas enviasse e-mails
+com mais cobranças.
+Quando nossos filhos eram bem pequenos e eu fazia pós-graduação, minha
+mulher se sentia pressionada pelas demandas envolvidas em cuidar das crianças o
+dia todo, todos os dias, e não sabia como resolver isso. Depois que aplicamos os
+passos descritos anteriormente, percebemos que o obstáculo primário que a impedia
+de dar a máxima contribuição à vida de nossos filhos era a falta de tempo para
+planejar, pensar e se preparar; afinal de contas, com três crianças pequenas era quase
+impossível ter tempo livre, sem interrupções. Então trabalhamos para fazer um
+planejamento. Abri mão de muitas atividades extracurriculares para estar em casa à
+noite e contratamos uma pessoa para cuidar das crianças algumas horas por
+semana. Como resultado, conseguimos estar mais profundamente envolvidos e
+presentes no tempo que passávamos com nossos filhos. Ou seja: na verdade ambos
+acabamos fazendo menos, porém melhor.
+Remover obstáculos não precisa ser difícil nem exigir um esforço sobre-humano. Em
+vez disso, pode-se começar em pequena escala. É como deslocar um pedregulho no
+alto de um morro. Primeiro é preciso só um empurrãozinho; depois, o impulso
+aumentará naturalmente.
+

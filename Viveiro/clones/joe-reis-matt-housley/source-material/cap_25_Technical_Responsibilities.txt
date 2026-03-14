@@ -1,0 +1,95 @@
+# Technical Responsibilities
+
+Paginas: 44-45
+
+control costs, and continuously learn will set you apart from the data engineers who
+rely solely on their technical abilities to carry their career.
+Technical Responsibilities
+You must understand how to build architectures that optimize performance and cost
+at a high level, using prepackaged or homegrown components. Ultimately, architec‐
+tures and constituent technologies are building blocks to serve the data engineering
+lifecycle. Recall the stages of the data engineering lifecycle:
+• Generation
+•
+• Storage
+•
+• Ingestion
+•
+• Transformation
+•
+• Serving
+•
+The undercurrents of the data engineering lifecycle are the following:
+• Security
+•
+• Data management
+•
+• DataOps
+•
+• Data architecture
+•
+• Orchestration
+•
+• Software engineering
+•
+Zooming in a bit, we discuss some of the tactical data and technology skills you’ll
+need as a data engineer in this section; we discuss these in more detail in subsequent
+chapters.
+People often ask, should a data engineer know how to code? Short answer: yes. A data
+engineer should have production-grade software engineering chops. We note that the
+nature of software development projects undertaken by data engineers has changed
+fundamentally in the last few years. Fully managed services now replace a great deal
+of low-level programming effort previously expected of engineers, who now use man‐
+aged open source, and simple plug-and-play software-as-a-service (SaaS) offerings.
+For example, data engineers now focus on high-level abstractions or writing pipelines
+as code within an orchestration framework.
+Even in a more abstract world, software engineering best practices provide a competi‐
+tive advantage, and data engineers who can dive into the deep architectural details of
+a codebase give their companies an edge when specific technical needs arise. In short,
+a data engineer who can’t write production-grade code will be severely hindered, and
+Data Engineering Skills and Activities
+|
+19
+
+we don’t see this changing anytime soon. Data engineers remain software engineers,
+in addition to their many other roles.
+What languages should a data engineer know? We divide data engineering program‐
+ming languages into primary and secondary categories. At the time of this writing,
+the primary languages of data engineering are SQL, Python, a Java Virtual Machine
+(JVM) language (usually Java or Scala), and bash:
+SQL
+The most common interface for databases and data lakes. After briefly being
+sidelined by the need to write custom MapReduce code for big data processing,
+SQL (in various forms) has reemerged as the lingua franca of data.
+Python
+The bridge language between data engineering and data science. A growing
+number of data engineering tools are written in Python or have Python APIs.
+It’s known as “the second-best language at everything.” Python underlies popular
+data tools such as pandas, NumPy, Airflow, sci-kit learn, TensorFlow, PyTorch,
+and PySpark. Python is the glue between underlying components and is fre‐
+quently a first-class API language for interfacing with a framework.
+JVM languages such as Java and Scala
+Prevalent for Apache open source projects such as Spark, Hive, and Druid.
+The JVM is generally more performant than Python and may provide access to
+lower-level features than a Python API (for example, this is the case for Apache
+Spark and Beam). Understanding Java or Scala will be beneficial if you’re using a
+popular open source data framework.
+bash
+The command-line interface for Linux operating systems. Knowing bash com‐
+mands and being comfortable using CLIs will significantly improve your pro‐
+ductivity and workflow when you need to script or perform OS operations.
+Even today, data engineers frequently use command-line tools like awk or sed
+to process files in a data pipeline or call bash commands from orchestration
+frameworks. If you’re using Windows, feel free to substitute PowerShell for bash.
+The Unreasonable Effectiveness of SQL
+The advent of MapReduce and the big data era relegated SQL to passé status. Since
+then, various developments have dramatically enhanced the utility of SQL in the data
+engineering lifecycle. Spark SQL, Google BigQuery, Snowflake, Hive, and many other
+data tools can process massive amounts of data by using declarative, set-theoretic
+SQL semantics. SQL is also supported by many streaming frameworks, such as
+Apache Flink, Beam, and Kafka. We believe that competent data engineers should be
+highly proficient in SQL.
+20
+|
+Chapter 1: Data Engineering Described
+

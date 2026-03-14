@@ -1,0 +1,81 @@
+# Change Data Capture
+
+Paginas: 277-278
+
+be sent over the wire, and columns from columnar databases must be reserialized as
+rows.
+As discussed in “File-Based Export and Ingestion” on page 246, many databases now
+support native file export that bypasses JDBC/ODBC and exports data directly in
+formats such as Parquet, ORC, and Avro. Alternatively, many cloud data warehouses
+provide direct REST APIs.
+JDBC connections should generally be integrated with other ingestion technologies.
+For example, we commonly use a reader process to connect to a database with JDBC,
+write the extracted data into multiple objects, and then orchestrate ingestion into
+a downstream system (see Figure 7-13). The reader process can run in a wholly
+ephemeral cloud instance or in an orchestration system.
+Figure 7-13. An ingestion process reads from a source database using JDBC, and then
+writes objects into object storage. A target database (not shown) can be triggered to
+ingest the data with an API call from an orchestration system.
+Change Data Capture
+Change data capture (CDC), introduced in Chapter 2, is the process of ingesting
+changes from a source database system. For example, we might have a source Post‐
+greSQL system that supports an application and periodically or continuously ingests
+table changes for analytics.
+Note that our discussion here is by no means exhaustive. We introduce you to com‐
+mon patterns but suggest that you read the documentation on a particular database to
+handle the details of CDC strategies.
+Batch-oriented CDC
+If the database table in question has an updated_at field containing the last time a
+record was written or updated, we can query the table to find all updated rows since
+a specified time. We set the filter timestamp based on when we last captured changed
+rows from the tables. This process allows us to pull changes and differentially update
+a target table.
+This form of batch-oriented CDC has a key limitation: while we can easily determine
+which rows have changed since a point in time, we don’t necessarily obtain all
+changes that were applied to these rows. Consider the example of running batch CDC
+on a bank account table every 24 hours. This operational table shows the current
+252
+|
+Chapter 7: Ingestion
+
+account balance for each account. When money is moved in and out of accounts, the
+banking application runs a transaction to update the balance.
+When we run a query to return all rows in the account table that changed in the last
+24 hours, we’ll see records for each account that recorded a transaction. Suppose that
+a certain customer withdrew money five times using a debit card in the last 24 hours.
+Our query will return only the last account balance recorded in the 24 hour period;
+other records over the period won’t appear. This issue can be mitigated by utilizing
+an insert-only schema, where each account transaction is recorded as a new record in
+the table (see “Insert-Only” on page 162).
+Continuous CDC
+Continuous CDC captures all table history and can support near real-time data inges‐
+tion, either for real-time database replication or to feed real-time streaming analytics.
+Rather than running periodic queries to get a batch of table changes, continuous
+CDC treats each write to the database as an event.
+We can capture an event stream for continuous CDC in a couple of ways. One
+of the most common approaches with a transactional database such as PostgreSQL
+is log-based CDC. The database binary log records every change to the database
+sequentially (see “Database Logs” on page 161). A CDC tool can read this log and
+send the events to a target, such as the Apache Kafka Debezium streaming platform.
+Some databases support a simplified, managed CDC paradigm. For instance, many
+cloud-hosted databases can be configured to directly trigger a serverless function
+or write to an event stream every time a change happens in the database. This com‐
+pletely frees engineers from worrying about the details of how events are captured in
+the database and forwarded.
+CDC and database replication
+CDC can be used to replicate between databases: events are buffered into a stream
+and asynchronously written into a second database. However, many databases natively
+support a tightly coupled version of replication (synchronous replication) that keeps
+the replica fully in sync with the primary database. Synchronous replication typi‐
+cally requires that the primary database and the replica are of the same type (e.g.,
+PostgreSQL to PostgreSQL). The advantage of synchronous replication is that the
+secondary database can offload work from the primary database by acting as a read
+replica; read queries can be redirected to the replica. The query will return the same
+results that would be returned from the primary database.
+Read replicas are often used in batch data ingestion patterns to allow large scans
+to run without overloading the primary production database. In addition, an applica‐
+tion can be configured to fail over to the replica if the primary database becomes
+Ways to Ingest Data
+|
+253
+

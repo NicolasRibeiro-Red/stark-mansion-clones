@@ -1,0 +1,365 @@
+# 13. Carnéades chega a Roma: sobre probabilidade e ceticismo
+
+Paginas: 237-246
+
+13. Carnéades chega a Roma: sobre
+probabilidade e ceticismo
+Peça a um matemático para denir probabilidade; provavelmente ele
+vai lhe mostrar como calculá-la. Como vimos no capítulo 3,
+probabilidade não é uma questão de chances, mas da crença na
+existência de um resultado, uma causa ou um motivo alternativo.
+Lembre-se de que a matemática é uma ferramenta de re exão, não de
+cálculo. Aqui, de novo, vamos voltar aos antigos à procura de
+orientação, pois as probabilidades nunca foram consideradas nada
+além de uma subjetiva e  uida medida de crenças por eles.
+CARNÉADES CHEGA A ROMA
+Por volta de 155 a.C., chegou a Roma o lósofo grego pós-clássico
+Carnéades de Cirene, como um dos três embaixadores atenienses que
+pretendiam implorar um favor político ao Senado romano. Havia sido
+aplicada uma multa contra os cidadãos de sua cidade, e eles queriam
+convencer Roma de que a punição era injusta. Carnéades representava
+a Academia, a mesma instituição de discussões ao ar livre onde, três
+séculos antes, Sócrates levara seus interlocutores a assassiná-lo
+somente para se livrar de seus argumentos. A instituição chamava-se
+agora Nova Academia. Não era menos argumentativa e tinha a
+reputação de ser o ninho de ceticismo do mundo antigo.
+No dia previsto para o discurso, que era aguardado com ansiedade,
+Carnéades se levantou e fez uma arenga, com brilhante argumentação,
+elogiando a justiça e defendendo que ela deveria ser uma de nossas
+principais motivações. O público romano cou fascinado, e não
+apenas pelo carisma do orador; a força dos argumentos, a eloquência
+
+do pensamento, a pureza da linguagem e a energia do grego haviam
+tocado a todos. Mas não era aquilo que ele queria enfatizar.
+No dia seguinte, Carnéades voltou, levantou-se e estabeleceu a
+doutrina da incerteza do conhecimento do modo mais convincente
+possível. Como? Lançando-se à contradição e à refutação com
+argumentos não menos fortes do que os que havia usado de maneira
+tão convincente na véspera. Ele conseguiu persuadir aquele mesmo
+público, e no mesmo lugar, que o papel da justiça, na lista das
+motivações dos empreendimentos humanos, não deveria ser tão
+grande.
+Agora, a má notícia. Catão, o Velho, estava no público, e não tinha
+se tornado mais tolerante do que havia sido quando ocupara o cargo
+de censor. Enraivecido, ele persuadiu o Senado a mandar os três
+embaixadores fazerem as malas, sob o risco de seu espírito
+argumentativo conspurcar o espírito da juventude da República e
+enfraquecer a cultura militar. (No seu tempo como censor, Catão
+tinha banido todos os teóricos gregos, proibindo-os de xar residência
+em Roma. Ele era uma pessoa prática demais para aceitar as expansões
+introspectivas daqueles lósofos.)
+Carnéades não foi o primeiro cético dos tempos clássicos nem foi o
+primeiro a nos ensinar o verdadeiro conceito da probabilidade. Mas
+esse incidente continua sendo o mais espetacular em termos do
+impacto que exerceu sobre gerações de teóricos e pensadores.
+Carnéades não era simplesmente um cético; era um dialético, alguém
+que nunca se comprometia com qualquer premissa em que se
+baseavam seus argumentos ou qualquer conclusão que extraía deles.
+Lutou toda a vida contra o dogma arrogante e a crença em uma só
+verdade. Poucos pensadores de crédito rivalizam com ele no seu
+rigoroso ceticismo (uma classe que incluiria o lósofo medieval árabe
+Al-Ghazali, Hume e Kant, embora somente Popper tenha elevado o
+ceticismo à altura de uma metodologia cientíca de abrangência total).
+Como o principal ensinamento dos céticos era que nada podia ser
+armado com certeza, era possível tirar conclusões com diversos graus
+de probabilidade, que forneceriam uma orientação para a conduta.
+Recuando ainda mais no tempo à procura dos primeiros usos do
+pensamento probabilístico na história, vemos que eles remontam à
+
+Sicília grega do século VI a.C. Lá, o conceito de probabilidade foi
+empregado em um arcabouço legal pelos primeiros teóricos, que,
+quando defendiam uma causa, precisavam mostrar a existência de uma
+dúvida no que tocava à certeza da acusação. O primeiro retórico
+conhecido foi um siracusano chamado Korax, que ensinava as pessoas
+a argumentar a partir de probabilidades. No cerne de seu método
+estava a ideia do mais provável. Por exemplo, a propriedade de um
+terreno, na ausência de mais informações e de provas físicas, deveria
+ser da pessoa cujo nome fosse mais reconhecido como tendo ligação
+com ele. Um de seus alunos indiretos, Górgias, levou seus métodos de
+argumentação
+para
+Atenas,
+onde
+eles
+oresceram.
+É
+o
+estabelecimento de noções como o mais provável que nos ensina a ver
+as possíveis contingências como eventos distintos e separáveis, com
+probabilidades ligadas a cada um deles.
+Probabilidade, a lha do ceticismo
+Até que a bacia do Mediterrâneo se visse dominada pelo
+monoteísmo, que levou à crença da singularidade da verdade (mais
+tarde sobrepujada por episódios de comunismo), o ceticismo tinha
+prevalecido entre os principais pensadores — e certamente permeava
+o mundo. Os romanos não possuíam uma religião per se; eram
+extremamente tolerantes em aceitar uma verdade dada e tinham uma
+coleção de diversas superstições  exíveis e sincréticas. Recorri ao
+campo da teologia apenas para dizer que tivemos que esperar uns
+doze séculos para que o mundo ocidental se visse de novo exposto ao
+pensamento crítico. Na verdade, por alguma estranha razão, durante a
+Idade Média os árabes eram pensadores críticos (no viés de sua
+tradição losóca pós-clássica) quando o pensamento cristão era
+dogmático; depois da Renascença, os papéis se inverteram,
+misteriosamente.
+Um dos autores da Antiguidade que nos fornece provas desse
+pensamento é o alegre Cícero. Ele preferia ser guiado pela
+probabilidade a asseverar com certeza — grande esperteza, dizem
+alguns, porque isso lhe permitia contradizer a si próprio. Talvez tenha
+sido essa a razão pela qual nós, que aprendemos com Popper a fazer
+
+uma
+autocrítica,
+respeitamos
+Cícero
+mais
+do
+que
+seus
+contemporâneos, pois ele não se apegava teimosamente a uma opinião
+pelo simples fato de tê-la abraçado no passado. Na verdade, o
+professor de literatura médio criticaria o pensador por suas
+contradições e mudanças de opinião.
+Foi apenas nos tempos modernos que emergiu o desejo de car
+livre de nossas declarações passadas. Em lugar nenhum isso cou mais
+eloquente do que nas pichações de estudantes em Paris. O movimento
+de estudantes que ocorreu na França em 1968, com a juventude
+sufocada, sem dúvida, pelo peso de anos tendo que parecer inteligente
+e coerente, produziu, entre outras joias, o seguinte clamor: “Exigimos
+o direito de nos contradizer!”.
+AS OPINIÕES DE MONSIEUR DE NORPOIS
+A época moderna nos dá um testemunho deprimente. A
+autocontradição é considerada algo culturalmente vergonhoso, que
+pode se provar desastroso para a ciência. O romance de Marcel
+Proust, Em busca do tempo perdido, descreve um diplomata
+semiaposentado, o marquês de Norpois, que, como todos os
+diplomatas antes do advento do fax, era um socialite que gastava um
+tempo considerável nos salões. O narrador do romance vê Monsieur
+de Norpois contradizendo-se abertamente em certo assunto (alguma
+escaramuça pré-guerra entre França e Alemanha). Quando cobrado
+quanto à sua posição anterior, Monsieur de Norpois parece não se
+lembrar dela. Proust o critica acerbamente:
+Monsieur de Norpois não estava mentindo. Ele apenas não se lembrava. Nos esquecemos
+com bastante rapidez daquilo em que não pensamos anteriormente com profundidade, do
+que nos foi ditado por imitação, pelas paixões que nos cercam. Essas coisas mudam, e com
+elas também mudam nossas lembranças. Até mesmo mais do que diplomatas, os políticos
+não se lembram de opiniões que defenderam em certo ponto de sua vida, e suas pequenas
+mentiras são mais atribuíveis a um excesso de ambição do que à falta de memória.
+Monsieur de Norpois é levado a se envergonhar do fato de que
+havia expressado uma opinião diferente. Proust não levou em
+consideração que o diplomata poderia ter mudado de opinião. Espera-
+
+se que sejamos éis às nossas opiniões. De outra forma, tornamo-nos
+traidores.
+Bem, eu acho que Monsieur de Norpois deveria ser trader. Um dos
+melhores que encontrei na minha vida, Nigel Babbage, tem a notável
+qualidade de ser completamente livre de qualquer dependência do
+caminho trilhado no que se refere a suas convicções. Ele não mostra
+qualquer embaraço em comprar determinada moeda por puro
+impulso, quando apenas horas antes poderia ter emitido uma forte
+opinião quanto à fraqueza futura dela. O que o fez mudar de opinião?
+Ele não se sente obrigado a explicá-lo.
+A pessoa pública mais visivelmente dotada desse atributo é George
+Soros. Uma de suas forças é que ele revê sua opinião com muita
+rapidez, sem o menor embaraço. A historieta a seguir ilustra a
+capacidade de Soros de reverter sua opinião num relâmpago. O
+corretor playboy francês Jean-Manuel Rozan discute o seguinte
+episódio em sua “autobiograa” (disfarçada de romance, a m de
+evitar ações judiciais). O protagonista (Rozan) costumava jogar tênis
+nos Hamptons, Long Island, com Georgi Saulos, “um velho com
+sotaque engraçado”, e às vezes entrava em discussões sobre o mercado,
+não sabendo, inicialmente, como Saulos era importante e in uente.
+Um m de semana, Saulos mostrou, na discussão, uma grande
+inclinação a achar que o mercado estava para venda, com uma série de
+complicados argumentos que o narrador não pôde acompanhar, pois
+estava, obviamente, desligado do mercado. Poucos dias depois, o
+mercado reagiu violentamente, atingindo altas recordes. O
+protagonista, preocupado com Saulos, perguntou-lhe, no encontro de
+tênis subsequente, se ele tinha se dado mal. “Arrebentamos”, disse
+Saulos. “Mudei de ideia. Compramos e fomos em frente toda vida.”
+Foi essa mesma característica que, alguns anos mais tarde, atingiu
+Rozan negativamente e quase lhe custou a carreira. Soros deu a ele, no
+nal da década de 1980, 20 milhões de dólares (soma considerável, na
+época) para que especulasse, o que lhe permitiu começar uma
+empresa de trading (eu mesmo quase fui atraído para o
+empreendimento). Poucos dias depois, quando Soros estava em Paris,
+eles discutiram os mercados na hora do almoço. Rozan viu que Soros
+parecia mais distante. Sem dar explicações, Soros retirou seu dinheiro
+
+integralmente. O que diferencia verdadeiros especuladores, como
+Soros, do restante é que suas atividades estão despidas da
+dependência do caminho. São totalmente independentes de suas
+ações passadas. Cada dia começa com o quadro todo branco.
+Dependência das crenças em relação ao caminho percorrido
+Há um teste simples para se denir dependência das crenças em
+relação ao caminho percorrido. Digamos que você possui um quadro
+que comprou por 20 mil dólares e, devido às condições róseas do
+mercado de arte, a pintura agora vale 40 mil. Se não possuísse esse
+quadro, optaria por adquiri-lo pelo preço atual? Se a resposta for não,
+então se pode dizer que você é casado com sua posição. Não há razão
+para manter um quadro que não compraria pelo preço atual do
+mercado — seria apenas um investimento emocional. Muita gente ca
+casado com suas ideias até a sepultura. Diz-se que as crenças são
+dependentes do caminho se a sequência de ideias é tal que a história
+passada prevalece.
+Há motivos para se acreditar que, devido a objetivos evolutivos,
+podemos ser programados para estabelecer uma lealdade a ideias nas
+quais investimos tempo. Pense nas consequências de ser um bom
+trader em outras áreas, tendo de decidir, toda manhã às oito, se você
+vai manter sua esposa ou se não é melhor separar-se dela e procurar
+um investimento emocional melhor em outro lugar. Ou pense num
+político que é tão racional que, durante a campanha, muda de opinião
+sobre determinado assunto por causa de novas evidências e troca de
+partido abruptamente. Isso tornaria investidores racionais, que
+avaliam as negociações de maneira adequada, um fenômeno genético
+— talvez uma mutação rara. Pesquisadores médicos descobriram que o
+comportamento puramente racional por parte de humanos é um sinal
+de um defeito na amígdala, e que o sujeito é, literalmente, um
+psicopata. Será que Soros tem um defeito genético que o torna
+racional quando se trata de tomar decisões?
+Essa característica de ausência de casamento com ideias é, na
+realidade, uma coisa rara entre os humanos. Exatamente como
+fazemos com as crianças, apoiando-as até que sejam capazes de
+propagar nossos genes, porque zemos nelas um forte investimento
+
+em alimento e tempo, o mesmo acontece em relação às ideias. Um
+acadêmico que cou famoso por esposar uma opinião não vai, com
+toda a certeza, emitir qualquer declaração que possa tirar o valor de
+seu trabalho anterior, matando assim anos de investimento. Pessoas
+que mudam de partido tornam-se traidoras, renegadas, ou pior,
+apóstatas (aqueles que abandonavam sua religião eram punidos com a
+morte).
+CALCULAR EM VEZ DE PENSAR
+Tenho outra história de probabilidade a contar além daquela
+envolvendo Carnéades e Cícero. A probabilidade entrou na
+matemática com a teoria dos jogos e cou lá como mero artifício
+computacional. Recentemente, apareceu toda uma indústria de
+“medidores de riscos”, especializados na aplicação dos métodos
+probabilísticos a m de calcular os riscos nas ciências sociais. É claro
+que as chances nos jogos, onde as regras são denidas clara e
+explicitamente, podem ser calculadas, de modo que os riscos também
+podem ser medidos. Contudo, isso não acontece no mundo real, uma
+vez que não fomos brindados com regras claras. O jogo não é um
+baralho (nem mesmo sabemos quantos naipes há). Mas, de alguma
+forma, as pessoas “medem” os riscos, particularmente se são pagas
+para fazer isso. Já discuti o problema da indução de Hume e a
+ocorrência dos cisnes negros. Agora vou apresentar os criminosos
+cientícos.
+Lembre-se de que há muito venho combatendo o charlatanismo de
+proeminentes economistas nanceiros. As teses são as seguintes.
+Certo Harry Markowitz recebeu algo chamado Prêmio de Ciências
+Econômicas em Memória de Alfred Nobel (o qual não é nem mesmo
+o Prêmio Nobel, só é concedido pelo Banco Central da Suécia em
+homenagem a Alfred Nobel, embora não tivesse gurado em seu
+testamento). Por qual feito? Ter criado um complicado método de
+calcular o risco futuro a partir da incerteza futura; em outras palavras,
+se os mercados tivessem regras claramente denidas, do tipo que se
+encontra no manual do jogo de Banco Imobiliário. Bem, eu expliquei a
+tese a um motorista de táxi, que riu do fato de alguém ter pensado que
+
+havia um meio cientíco de compreender os mercados e prever suas
+características. De alguma forma, quando nos envolvemos com a
+economia nanceira, devido à cultura da área, temos a tendência a
+esquecer esses fatos básicos (devido à pressão para publicar e manter
+sua posição entre os outros acadêmicos).
+Um resultado imediato da teoria do dr. Markowitz foi o quase
+colapso do sistema nanceiro no verão de 1998 (como vimos nos
+capítulos 1 e 5) pelo Long Term Capital Management (LTCM), um
+fundo baseado em Greenwich, Connecticut, que tinha como diretores
+dois colegas do dr. Markowitz, também “Nobels”: os drs. Robert
+Merton (aquele que no capítulo 3 estraçalhou Shiller) e Myron
+Scholes. De alguma forma, eles pensaram que poderiam medir os
+riscos “cienticamente”. Não zeram qualquer previsão, no caso do
+LTCM, da possibilidade de não compreenderem os mercados e de seus
+métodos estarem errados. Essa hipótese não foi levada em
+consideração. Acontece que eu me especializei em lucrar com os
+cisnes negros e as rupturas do sistema, e a apostar contra economistas
+nanceiros. De repente, comecei a ser irritantemente respeitado pelos
+bajuladores, com cheques vindos dos lucros no mercado. Os drs.
+Merton e Scholes ajudaram a colocar este humilde autor no mapa, e
+despertaram o interesse por suas ideias. O fato de que esses
+“cientistas” pronunciaram as perdas catastrócas como eventos “dez
+sigma” revela um problema da régua de Wittgenstein: alguém que diz
+que isso é um dez sigma ou (a) sabe quase à perfeição do que está
+falando (a primeira suposição é de que tem uma possibilidade em
+vários trilhões de não ser qualicado). Conhece suas probabilidades, e
+se trata de um evento que acontece uma vez a cada inúmeras vezes a
+história do universo ou (b) apenas não sabe do que está falando
+quando discute probabilidade (com alto grau de certeza), e se trata de
+um evento que tem uma probabilidade mais alta que uma a cada
+inúmeras vezes a história do universo. Vou deixar que o leitor escolha
+entre essas duas interpretações mutuamente exclusivas qual é mais
+plausível.
+Note que as conclusões também re etem no comitê do Nobel, que
+santicou as ideias dos cavalheiros envolvidos. Eles cometeram um
+
+erro ou esses eventos foram incomuns? O comitê do Nobel é
+composto de juízes infalíveis? Onde está Charles Sanders Peirce para
+falar conosco sobre infalibilidade papal? Onde está Karl Popper para
+nos alertar contra levar a ciência — e as instituições cientícas — a
+sério demais? Em algumas décadas, olharemos para o comitê do
+Nobel com o mesmo sorriso desdenhoso de quando olhávamos para as
+respeitadas instituições “cientícas” da Idade Média que promoviam
+(contra todas as evidências observadas) a ideia de que o coração era a
+fonte de calor do corpo? Erramos algumas coisas no passado e rimos
+das instituições que nos antecederam; é hora de perceber que
+devemos parar de consagrar as atuais.
+Pode-se pensar que, quando cientistas cometem um engano, eles
+desenvolvem uma nova ciência que incorpora o que foi aprendido com
+o fato. Quando os acadêmicos explodiram no trading, poderia se
+esperar que eles incorporassem essa informação em suas teorias e
+zessem alguma declaração heroica, dizendo que estavam errados, mas
+que aprenderam algo sobre o mundo real. Nada disso. Em vez disso,
+eles se queixaram do comportamento de seus colegas no mercado, que
+tinham caído em cima deles como urubus, exacerbando a queda.
+Aceitar o que havia acontecido, como deveria ter sido feito, invalidaria
+as ideias que haviam construído durante toda uma carreira acadêmica.
+Todos os diretores que se envolveram numa discussão sobre o
+ocorrido participaram de uma farsa cientíca, apresentando
+explicações ad hoc e pondo a culpa num evento raro (problema da
+indução: como eles sabiam que era um evento raro?). Gastaram
+energia se defendendo, em vez de tentar ganhar uns trocados com o
+aprendido. De novo, eu os comparo a Soros, que sai por aí dizendo a
+quem tem paciência de ouvir que ele é falível. A lição que aprendi
+com Soros foi de iniciar toda reunião convencendo a todos de que eu
+e minha equipe somos um bando de idiotas que não sabem nada e têm
+tendência a errar, mas com o raro privilégio de sabê-lo.
+O comportamento dos cientistas enquanto encaram a refutação de
+suas ideias foi estudado em profundidade como parte do assim
+chamado viés da atribuição. Você atribui seus sucessos a suas
+habilidades e seus fracassos ao acaso. Isso explica por que cientistas
+atribuem seus fracassos ao evento raro “dez sigma”, indicativo da ideia
+
+de que estavam certos, mas tiveram a sorte trabalhando contra eles.
+Por quê? É uma heurística humana que nos faz acreditar de verdade
+nisso de modo a não matar nossa autoestima e fazer com que sigamos
+em frente apesar das adversidades.
+Sabemos dessa diferença entre desempenho e autoavaliação desde
+1954, quando o estudo de Meehl com especialistas comparando suas
+supostas habilidades e suas estatísticas saiu. Ele mostrou uma
+discrepância substancial entre o registro objetivo de sucesso de um
+indivíduo em tarefas de previsão e a crença sincera dele na qualidade
+de seu desempenho. O viés da atribuição tem outro efeito: dá às
+pessoas a ilusão de serem melhores no que fazem, o que explica a
+descoberta de que de 80% a 90% das pessoas acredita que estão
+acima da média (e da mediana) em muitas coisas.
+DE FUNERAL A FUNERAL
+Vou concluir com uma triste observação sobre pesquisadores das
+ciências humanas. As pessoas confundem ciência com cientistas. A
+ciência é grande, mas os cientistas, individualmente, são perigosos.
+Eles são humanos, e são prejudicados pelas predisposições que os
+humanos têm. Talvez até mais, porque a maioria dos cientistas é
+cabeça-dura, de outra forma não teria a paciência e a energia de
+realizar as tarefas hercúleas que lhe são exigidas, como passar dezoito
+horas por dia aperfeiçoando sua tese de doutorado.
+Um cientista pode ser forçado a agir como um advogado de terceira
+classe em vez de como um pesquisador da verdade. Uma tese de
+doutorado é “defendida” por quem aspira ao título de doutor; seria
+uma situação rara ver o estudante mudar de ideia depois de receber
+razões convincentes. Mas a ciência é melhor que os cientistas. Diz-se
+que ela progride de funeral a funeral. Depois do colapso do LTCM,
+surgirá um novo economista nanceiro que integrará aquele
+conhecimento à sua ciência. Ele sofrerá a resistência dos mais antigos,
+mas, de novo, eles estarão muito mais perto da data de seu próprio
+funeral do que ele.
+

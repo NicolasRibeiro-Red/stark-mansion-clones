@@ -1,0 +1,16 @@
+# Chapter 7. Ingestion
+
+Paginas: 258-258
+
+CHAPTER 7
+Ingestion
+You’ve learned about the various source systems you’ll likely encounter as a data
+engineer and about ways to store data. Let’s now turn our attention to the patterns
+and choices that apply to ingesting data from various source systems. In this chapter,
+we discuss data ingestion (see Figure 7-1), the key engineering considerations for the
+ingestion phase, the major patterns for batch and streaming ingestion, technologies
+you’ll encounter, whom you’ll work with as you develop your data ingestion pipeline,
+and how the undercurrents feature in the ingestion phase.
+Figure 7-1. To begin processing data, we must ingest it
+233
+

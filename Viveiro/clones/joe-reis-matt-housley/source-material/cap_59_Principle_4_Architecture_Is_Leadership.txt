@@ -1,0 +1,41 @@
+# Principle 4: Architecture Is Leadership
+
+Paginas: 105-105
+
+Principle 3: Architect for Scalability
+Scalability in data systems encompasses two main capabilities. First, scalable systems
+can scale up to handle significant quantities of data. We might need to spin up a
+large cluster to train a model on a petabyte of customer data or scale out a streaming
+ingestion system to handle a transient load spike. Our ability to scale up allows us to
+handle extreme loads temporarily. Second, scalable systems can scale down. Once the
+load spike ebbs, we should automatically remove capacity to cut costs. (This is related
+to principle 9.) An elastic system can scale dynamically in response to load, ideally in
+an automated fashion.
+Some scalable systems can also scale to zero: they shut down completely when not in
+use. Once the large model-training job completes, we can delete the cluster. Many ser‐
+verless systems (e.g., serverless functions and serverless online analytical processing,
+or OLAP, databases) can automatically scale to zero.
+Note that deploying inappropriate scaling strategies can result in overcomplicated
+systems and high costs. A straightforward relational database with one failover node
+may be appropriate for an application instead of a complex cluster arrangement.
+Measure your current load, approximate load spikes, and estimate load over the next
+several years to determine if your database architecture is appropriate. If your startup
+grows much faster than anticipated, this growth should also lead to more available
+resources to rearchitect for scalability.
+Principle 4: Architecture Is Leadership
+Data architects are responsible for technology decisions and architecture descrip‐
+tions and disseminating these choices through effective leadership and training.
+Data architects should be highly technically competent but delegate most individual
+contributor work to others. Strong leadership skills combined with high technical
+competence are rare and extremely valuable. The best data architects take this duality
+seriously.
+Note that leadership does not imply a command-and-control approach to technology.
+It was not uncommon in the past for architects to choose one proprietary database
+technology and force every team to house their data there. We oppose this approach
+because it can significantly hinder current data projects. Cloud environments allow
+architects to balance common component choices with flexibility that enables inno‐
+vation within projects.
+80
+|
+Chapter 3: Designing Good Data Architecture
+

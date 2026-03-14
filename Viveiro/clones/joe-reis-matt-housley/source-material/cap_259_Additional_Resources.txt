@@ -1,0 +1,29 @@
+# Additional Resources
+
+Paginas: 294-295
+
+the minutiae of ingestion may feel tedious, but the exciting data applications (e.g.,
+analytics and ML) cannot happen without it.
+As we’ve emphasized, we’re also in the midst of a sea change, moving from batch
+toward streaming data pipelines. This is an opportunity for data engineers to discover
+interesting applications for streaming data, communicate these to the business, and
+deploy exciting new technologies.
+Additional Resources
+• Airbyte’s “Connections and Sync Modes” web page
+•
+• Chapter 6, “Batch Is a Special Case of Streaming,” in Introduction to Apache Flink
+•
+by Ellen Friedman and Kostas Tzoumas (O’Reilly)
+• “The Dataflow Model: A Practical Approach to Balancing Correctness, Latency,
+•
+and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing” by Tyler
+Akidau et al.
+• Google Cloud’s “Streaming Pipelines” web page
+•
+• Microsoft’s “Snapshot Window (Azure Stream Analytics)” documentation
+•
+Additional Resources
+|
+269
+
+

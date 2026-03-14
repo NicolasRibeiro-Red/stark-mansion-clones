@@ -1,0 +1,42 @@
+# Principle 8: Prioritize Security
+
+Paginas: 109-109
+
+13 Tom Grey, “5 Principles for Cloud-Native Architecture—What It Is and How to Master It,” Google Cloud
+blog, June 19, 2019, https://oreil.ly/4NkGf.
+14 Amazon Web Services, “Security in AWS WAF,” AWS WAF documentation, https://oreil.ly/rEFoU.
+Principle 8: Prioritize Security
+Every data engineer must assume responsibility for the security of the systems
+they build and maintain. We focus now on two main ideas: zero-trust security
+and the shared responsibility security model. These align closely to a cloud-native
+architecture.
+Hardened-perimeter and zero-trust security models
+To define zero-trust security, it’s helpful to start by understanding the traditional
+hard-perimeter security model and its limitations, as detailed in Google Cloud’s Five
+Principles:13
+Traditional architectures place a lot of faith in perimeter security, crudely a hard‐
+ened network perimeter with “trusted things” inside and “untrusted things” outside.
+Unfortunately, this approach has always been vulnerable to insider attacks, as well as
+external threats such as spear phishing.
+The 1996 film Mission Impossible presents a perfect example of the hard-perimeter
+security model and its limitations. In the movie, the CIA hosts highly sensitive data
+on a storage system inside a room with extremely tight physical security. Ethan Hunt
+infiltrates CIA headquarters and exploits a human target to gain physical access to the
+storage system. Once inside the secure room, he can exfiltrate data with relative ease.
+For at least a decade, alarming media reports have made us aware of the growing
+menace of security breaches that exploit human targets inside hardened organiza‐
+tional security perimeters. Even as employees work on highly secure corporate
+networks, they remain connected to the outside world through email and mobile
+devices. External threats effectively become internal threats.
+In a cloud-native environment, the notion of a hardened perimeter erodes further. All
+assets are connected to the outside world to some degree. While virtual private cloud
+(VPC) networks can be defined with no external connectivity, the API control plane
+that engineers use to define these networks still faces the internet.
+The shared responsibility model
+Amazon emphasizes the shared responsibility model, which divides security into the
+security of the cloud and security in the cloud. AWS is responsible for the security of
+the cloud:14
+84
+|
+Chapter 3: Designing Good Data Architecture
+

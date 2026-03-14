@@ -1,0 +1,241 @@
+13. Ensinando os pássaros a voar
+Enfim, a roda — O pensamento do proto-Tony Gordo — O problema fundamental é que os pássaros raramente escrevem mais do que os ornitólogos — Combinando burrice com sabedoria, e não o contrário
+Pense na história da mala com rodinhas.
+Em quase todas as minhas viagens, carrego uma grande mala com rodinhas, praticamente lotada de livros. Ela é pesada (os livros que me interessam quando viajo calham de ser sempre de capa dura).
+Em junho de 2012, eu estava empurrando essa mala genérica, pesada e atulhada de livros pela área externa do terminal internacional do Aeroporto
+JFK
+e, ao olhar para as rodinhas na parte inferior da mala e para a alça de metal que ajuda a puxá-la, de súbito lembrei-me dos dias em que tinha de arrastar a minha bagagem abarrotada de livros ao longo do mesmo terminal, com paradas regulares para descansar e deixar que o ácido láctico jorrasse para fora dos meus braços doloridos. Eu não podia me dar ao luxo de pagar um carregador e,
+mesmo que tivesse o dinheiro para fazer isso, não me sentiria confortável. Fazia três décadas que eu passava pelo mesmo terminal, carregando malas com e sem rodinhas, e o contraste era espantoso. Surpreendeu-me a nossa carência de imaginação: colocávamos nossas malas em cima de um carrinho com rodas, mas ninguém tinha pensado em acoplar rodinhas sob a própria mala.
+Você consegue imaginar que se passaram quase 6 mil anos entre a invenção da roda (pelos mesopotâmios, é o que se supõe) e essa brilhante implementação (obra de algum fabricante de malas em um enfadonho subúrbio industrial)? E bilhões de horas gastas por viajantes como eu, arrastando penosamente sua bagagem através de corredores repletos de agentes alfandegários mal-educados.
+Pior, isso aconteceu cerca de três décadas depois de mandarmos um homem à Lua. Pense em toda a sofisticação usada para enviar uma pessoa ao espaço sideral, e o impacto totalmente insignificante disso na minha vida, e compare com o ácido láctico em meus braços, a dor na minha coluna lombar, as palmas de minhas mãos esfoladas e a sensação de impotência diante de um corredor comprido. De fato, embora extremamente importante, estamos falando de algo trivial: uma tecnologia muito simples.
+Mas a tecnologia só é trivial em retrospectiva, não em termos prospectivos. Todas aquelas mentes brilhantes, seus cabelos desgrenhados e suas roupas amarrotadas, que frequentam conferências em lugares remotos para discutir Gödel, modelos picaretas, a hipótese de Riemann, quarks e quejandos, tiveram de carregar suas malas por longos terminais de aeroporto, sem cogitar em utilizar seu cérebro para solucionar um insignificante problema de
+transporte. (Dissemos que a sociedade intelectual premia as derivações “difíceis”, em comparação com a prática, em que inexiste qualquer penalidade para a simplicidade.) E, ainda que essas mentes brilhantes tivessem devotado seus cérebros supostamente superdesenvolvidos a um problema tão óbvio e trivial, é muito provável que não chegassem a lugar algum.
+Isso nos diz algo sobre o modo como mapeamos o futuro. Nós, humanos, carecemos de imaginação a ponto de nem sequer sabermos como serão as coisas importantes de amanhã. Usamos a aleatoriedade para nos alimentar com doses de descobertas — razão pela qual a antifragilidade é necessária.
+A história da roda é em si ainda mais humilhante do que a da mala: continuam fazendo questão de nos lembrar de que os mesoamericanos não inventaram a roda. Eles a inventaram, sim. Eles tinham rodas. Mas eram rodinhas minúsculas que estavam em pequenos brinquedos feitos de madeira para as crianças. Foi exatamente como a história da mala: os maias e os zapotecas não deram o salto para a aplicação prática. Eles empregaram enormes quantidades de trabalho humano, milho e ácido láctico para deslocar gigantescas placas de pedra até os espaços planos, ideais para carrinhos de mão e carroças, onde construíram suas pirâmides. Eles também transportavam os blocos de pedra sobre toras de madeira. Enquanto isso, seus filhos pequenos rolavam seus brinquedos nos pisos de estuque (ou pode ser que nem mesmo fizessem isso, pois talvez os brinquedos fossem utilizados estritamente para propósitos mortuários).
+A mesma história vale para o motor a vapor: os gregos tinham uma versão operacional dele, por diversão, é claro: a eolípila, uma turbina que girava quando
+aquecida, conforme descrita por Heron de Alexandria. Mas foi preciso haver a Revolução Industrial para que descobríssemos essa descoberta anterior.
+Assim como os grandes gênios inventam seus predecessores, as inovações práticas criam sua ascendência teórica.
+Há algo furtivo no processo de descoberta e implementação
+—
+algo que as pessoas, geralmente, chamam de evolução. Somos controlados por pequenas (ou grandes) mudanças acidentais, mais acidentais do que admitimos. Nós contamos vantagem, mas nossa imaginação é escassa, exceção feita a alguns visionários que parecem reconhecer a opcionalidade das coisas. Precisamos de alguma aleatoriedade para nos ajudar — com uma dose dupla de antifragilidade. Pois a aleatoriedade desempenha um papel significativo em dois níveis: invenção e implementação. O primeiro não chega a ser tão surpreendente, embora minimizemos o papel do acaso, em especial com relação a nossas próprias descobertas.
+Mas precisei de uma vida inteira para entender o segundo ponto crucial: a implementação não provém, necessariamente, da invenção. Ela requer também a sorte e as circunstâncias propícias. A história da medicina está apinhada da estranha sequência da descoberta de uma cura, seguida, muito mais tarde, da implementação
+—
+como se as duas fossem empreendimentos completamente separados, a implementação sendo mais difícil, muito mais difícil do que a descoberta. A simples apresentação de algo ao mercado exige lutar contra um acúmulo de negativistas e pessimistas, administradores,
+zeros à esquerda metidos a besta, formalistas, montanhas de detalhes que convidam a pessoa a se deixar subjugar, e de tempos em tempos seu próprio ânimo esmorece. Em outras palavras, identificar a opção (mais uma vez, há a cegueira às opções). Aqui, é de sabedoria que você necessita para perceber o que tem em mãos.
+O inventado pela metade.
+Pois há uma categoria de coisas que podemos chamar de inventadas pela metade, e promover a transformação do inventado pela metade em inventado é, não raro, a verdadeira inovação. Às vezes, precisamos de um visionário para descobrir o que fazer com uma descoberta, uma visão que ele, e só ele, consegue ter. Tome-se, por exemplo, o mouse do computador, ou o que chamamos de interface gráfica: foi preciso que Steve Jobs o colocasse sobre nossa mesa, e, em seguida, no nosso laptop
+—
+somente ele teve uma visão da dialética entre as imagens e os humanos
+—
+, mais tarde adicionando sons, para formar uma trialética. As coisas, como se diz, que estão “olhando para nós”.
+Além disso, as mais simples “tecnologias”, ou talvez nem cheguem a ser tecnologias, mas ferramentas, a exemplo da roda, são as que parecem governar o mundo. Apesar do exagero ao redor, o que chamamos de tecnologia tem um índice de mortalidade muito alto, o que mostrarei no capítulo 20. Basta ter em mente que, de todos os meios de transporte engendrados nos últimos 3 mil anos ou mais desde as armas de ataque dos hicsos e os esboços de Heron de Alexandria, o transporte individual limita-se, hoje, a bicicletas e carros (e a algumas variantes entre os dois). Mesmo assim, as tecnologias parecem retroceder e avançar, com o que é mais natural e menos frágil suplantando o tecnológico. A roda, nascida no Oriente Médio, parece ter desaparecido
+depois que a invasão árabe apresentou ao Levante um uso mais genérico do camelo e os moradores constataram que o camelo era mais robusto
+—
+portanto, mais eficiente a longo prazo — do que a frágil tecnologia da roda. Ademais, uma vez que uma pessoa poderia controlar seis camelos, mas apenas uma carroça, o afastamento da tecnologia mostrou-se mais sensato do ponto de vista econômico.
+Outra vez, menos é mais
+A história da mala me veio à mente quando percebi, fitando uma xícara de café feita de porcelana, que existia uma definição simples de fragilidade, e, portanto, uma heurística de teste direta e prática: quanto mais simples e mais óbvia a descoberta, menos aparelhados estamos para entendê-la por métodos complexos. O mais importante é que aquilo que é significativo só pode ser revelado por meio da prática. Quantas dessas heurísticas simples, trivialmente simples, estão, neste exato momento, olhando para nós e rindo da nossa cara?
+A história da roda ilustra também o ponto central deste capítulo: tanto os governos quanto as universidades fazem pouco, muito pouco em prol da inovação e da descoberta, precisamente porque, além de seu racionalismo ofuscante, procuram o complicado, o sensacionalista, o digno de nota, o narrado, o cientificista e o grandioso, raramente a rodinha na mala. A simplicidade, percebi, não rende medalhas.
+Cuidado com as lacunas
+Como vimos nas histórias de Tales e da roda, a antifragilidade (graças aos efeitos de assimetria de
+tentativa e erro) suplanta a inteligência. Mas é necessário haver
+alguma
+inteligência. Com base em nossa discussão sobre a racionalidade, constatamos que precisamos da capacidade de aceitar que aquilo que temos em nossas mãos é melhor do que o que tínhamos antes
+—
+em outras palavras, reconhecer a existência da opção (ou “exercer a opção”, como dizem as pessoas no mundo dos negócios, ou seja, tirar proveito de uma alternativa valiosa que é superior àquela que a precede, com certo ganho por ter trocado uma pela outra, a única parte do processo em que se exige a racionalidade). E, com base na história da tecnologia, essa habilidade de usar a opção que nos é dada pela antifragilidade não é garantida: as coisas podem estar na nossa cara há muito tempo. Vimos a lacuna entre a roda e sua utilização. Os pesquisadores médicos chamam esse intervalo de “lacuna translacional”, o intervalo de tempo entre a descoberta formal e a primeira implementação, que, devido ao excesso de ruído e aos interesses acadêmicos, está se prolongando nos tempos modernos, conforme foi mostrado por Contopoulos-Ioannidis e seus colegas.
+O historiador David Wooton relata uma lacuna de dois séculos entre a descoberta dos germes e a aceitação dos germes como uma causa de doenças, um hiato de trinta anos entre a teoria dos germes da putrefação e o desenvolvimento da antissepsia, e um atraso de sessenta entre a antissepsia e a terapia à base de medicamentos.
+Mas as coisas podem piorar. Na idade das trevas da medicina, os médicos costumavam confiar na ingênua ideia racionalista de um equilíbrio de humores no corpo, e se supunha que algum tipo de desequilíbrio era o causador das doenças, o que levou a uma série de tratamentos tidos como necessários para restaurar a
+estabilidade original. Em seu livro sobre humores, Noga Arikha mostra que depois de o mecanismo de circulação do sangue ter sido demonstrado por William Harvey, na década de 1620, esperava-se que tais teorias e práticas a elas associadas desaparecessem. Entretanto, as pessoas continuaram a se referir ao espírito e aos humores, e os médicos continuaram a receitar, por muitos séculos mais, flebotomias (incisões e sangrias), enemas (prefiro não explicar) e cataplasmas (aplicação de uma papa feita de pedaços úmidos de pão ou de cereal sobre alguma parte do corpo dolorida ou inflamada). Isso continuou inclusive depois de Pasteur ter demonstrado que os germes eram a causa daquelas doenças infecciosas.
+Ora, por ser um empirista cético, não considero que resistir às novas tecnologias seja,
+necessariamente
+, irracional: esperar que o tempo coloque em operação seu teste pode ser uma estratégia válida, se alguém alegar que temos uma visão incompleta das coisas. É nisso que consiste o gerenciamento naturalista de riscos. No entanto, é categoricamente irracional aferrar-se a uma tecnologia antiga que nada tem de naturalista mas é, a olhos vistos, danosa, ou quando a mudança para uma nova tecnologia (como as rodinhas da mala) é, obviamente, livre de possíveis efeitos colaterais que não existiam na tecnologia anterior. E resistir à eliminação da antiga tecnologia é uma atitude francamente incompetente e criminosa (continuo afirmando que a eliminação de algo inatural não acarreta efeitos colaterais no longo prazo; é tipicamente livre de iatrogenia).
+Em outras palavras, não dou crédito intelectual nenhum à resistência à implementação dessas descobertas, tampouco a explico por meio de alguma sabedoria oculta ou por uma atitude de gerenciamento
+de riscos: isso é, sem dúvida, um equívoco. É reflexo da crônica falta de heroísmo e da covardia por parte dos profissionais: poucos querem colocar em risco seu emprego e sua reputação em nome de mudanças.
+A busca e como os erros podem ser investimentos
+A tentativa e erro tem um valor primordial que as pessoas não conseguem entender: ela não é de fato aleatória; antes, graças à opcionalidade, exige alguma racionalidade. É preciso ser inteligente para reconhecer o resultado favorável e saber o que descartar.
+E é preciso ser racional para não fazer da tentativa e erro algo completamente aleatório. Se você se esqueceu de onde guardou a carteira e a está procurando na sala de estar, em um modelo de tentativa e erro, você exerce a racionalidade evitando procurar duas vezes no mesmo lugar a carteira perdida. Em muitas buscas, toda tentativa e todo fracasso fornecem informações adicionais, uma mais valiosa do que a anterior
+—
+se você sabe o que não funciona, ou o lugar onde a carteira não está. A cada tentativa a pessoa fica mais próxima de algo, presumindo um ambiente em que ela sabe exatamente o que está procurando. Podemos, a partir da tentativa que não rende resultado positivo, descobrir progressivamente
+para onde
+ir.
+Posso ilustrar melhor com o modus operandi de Greg Stemm, que se especializou em retirar do fundo do mar navios naufragados e há muito dados como desaparecidos. Em 2007, ele chamou sua (até então) maior descoberta de “Cisne Negro”, em referência à ideia de procurar por algo que pagasse extremamente bem. O achado foi bastante considerável, um tesouro com
+metais preciosos que hoje vale 1 bilhão de dólares. O Cisne Negro de Stemm é uma fragata espanhola chamada
+Nuestra Señora de las Mercedes
+, que havia sido afundada pelos britânicos ao largo da costa sul de Portugal em 1804. Stemm provou ser um típico caçador de Cisnes Negros positivos e alguém que pode ilustrar que esse tipo de busca é uma forma altamente controlada de aleatoriedade.
+Eu o conheci e compartilhei ideias com ele: a maioria de seus investidores (assim como os meus à época, pois eu ainda estava envolvido naquele ramo de negócios) não estava programada para entender que, para um caçador de tesouros, um trimestre “ruim” (significando gastos para financiar as buscas, mas sem nenhuma descoberta) não era indicativo de aperto, como ocorreria com um negócio de fluxo de caixa constante, a exemplo de um dentista ou uma prostituta. Por alguma dependência mental do domínio, as pessoas podem gastar dinheiro em, digamos, móveis de escritório, e não chamar isso de “prejuízo”, mas, em vez disso, um investimento, e ainda assim tratariam o custo da busca como “perda”.
+Stemm utiliza o seguinte método: ele realiza uma abrangente análise da área geral onde o navio pode estar. Esses dados são sintetizados em um mapa elaborado com quadrantes de probabilidade. Define então uma área de busca, tendo em mente que é preciso ter certeza de que o navio naufragado não está em uma área específica, antes de se deslocar para uma área de menor probabilidade. Parece aleatório, mas não é. É o equivalente a procurar um tesouro em sua casa: cada busca tem, gradualmente, maior probabilidade de produzir um resultado, mas somente se você puder ter certeza de que a área que você vasculhou não é aquela onde está o tesouro.
+Pode ser que alguns leitores não se empolguem muito com a moral da caça a navios naufragados, e talvez considerem que esses tesouros são propriedade nacional, e não privada. Por isso, vamos mudar de domínio. O método que Stemm utiliza aplica-se à exploração de petróleo e gás, em especial no fundo de oceanos inexplorados, com uma diferença: no caso dos despojos de um naufrágio, as vantagens estarão limitadas ao valor do tesouro, enquanto nos campos de petróleo e de outros recursos naturais elas são praticamente ilimitadas (ou têm um limite muito alto).
+Por fim, lembre-se da minha discussão sobre a perfuração aleatória no capítulo 6 e sobre como ela parecia superior a técnicas mais direcionadas. Esse método de pesquisa norteado pela opcionalidade não é desarrazoadamente aleatório. Graças à opcionalidade, ele se torna uma aleatoriedade domesticada, cujo cultivo é proveitoso.
+Destruições criativas e não criativas
+Uma pessoa que apreendeu uma versão (parcial) do argumento de que tentativa e erro generalizada inclui, bem,
+erros
+, mas sem ter tido uma compreensão mais aprofundada da assimetria (ou do que, desde o capítulo 12, estamos chamando de opcionalidade), é o economista Joseph Schumpeter. Ele percebeu que algumas coisas precisam se quebrar para que o sistema se aperfeiçoe
+—
+o que é denominado de
+destruição criativa —
+, uma noção desenvolvida, entre muitos outros, pelo filósofo Karl Marx, e um conceito descoberto, como mostraremos no capítulo 17, por Nietzsche. Mas uma leitura de Schumpeter mostra que ele não pensava em incerteza
+e opacidade; ele estava completamente inebriado pelo intervencionismo, sob a ilusão de que os governos poderiam inovar por decreto, algo que vamos contradizer daqui a poucas páginas. Ele tampouco compreendeu a noção da disposição em camadas de tensões evolutivas. E, de modo ainda mais decisivo, tanto ele quanto seus detratores (os economistas de Harvard, que julgavam que ele não sabia matemática) não perceberam a noção de antifragilidade como efeito da assimetria (opcionalidade), portanto, da pedra filosofal
+—
+sobre a qual falaremos mais tarde
+—
+como o agente de crescimento. Ou seja, desperdiçaram metade da vida.
+O DEPARTAMENTO SOVIÉTICO DE ORNITOLOGIA DE HARVARD
+Ora, uma vez que uma fatia muito grande do conhecimento tecnológico prático provém da antifragilidade, da opcionalidade, de tentativa e erro, algumas pessoas e instituições querem esconder esse fato de nós (e delas próprias) ou, pelo menos, minimizar o papel dele.
+Vamos refletir sobre dois tipos de conhecimento. O primeiro não é exatamente o “conhecimento”; seu feitio ambíguo nos impede de associá-lo às estritas definições de conhecimento. É uma maneira de fazer coisas que não somos capazes de expressar em linguagem clara e direta
+—
+às vezes chamada de
+apofática —
+, mas que fazemos mesmo assim, e fazemos bem. O segundo tipo é mais parecido com o que chamamos de “conhecimento”; é o que se adquire na escola, que pode ser avaliado por meio de notas e pontuações, pode ser codificado, é explicável, academizável, racionalizável, formalizável, teorizável,
+codificável, sovietizável, burocratizável, harvardizável, provável etc.
+O erro do racionalismo ingênuo leva à superestimação do papel e da necessidade do segundo tipo, o conhecimento acadêmico, nos assuntos humanos — e ao aviltamento do tipo não codificável, mais complexo, intuitivo ou baseado na experiência.
+Não existe prova contra a afirmação de que o papel que esse conhecimento explicável desempenha na vida é tão pequeno que não chega a ser nem sequer engraçado.
+Somos muito propensos a acreditar que as habilidades e as ideias que efetivamente adquirimos por meio de
+ação
+antifrágil, ou que vieram naturalmente a nós (de nosso instinto biológico inato), provêm de livros, ideias e raciocínio. Isso nos torna cegos; é possível que exista em nosso cérebro alguma coisa que faz com que fiquemos encantados com esse aspecto. Vejamos como.
+Recentemente, procurei por definições de tecnologia. A maioria dos textos a define como
+a aplicação de conhecimento científico a projetos práticos —
+o que nos leva a acreditar em um fluxo de conhecimento que se estende, principalmente (e até mesmo exclusivamente), da “ciência” grandiosa (organizada em torno de um grupo sacerdotal de pessoas com títulos antes do nome) à humilde prática (exercida por pessoas não iniciadas, sem dotes e capacidade intelectuais para pertencer ao grupo sacerdotal).
+Dessa forma, em seu conjunto, o conhecimento é apresentado como uma derivação, da seguinte maneira: a pesquisa básica produz o conhecimento científico, que por sua vez gera tecnologias, que por sua vez levam a aplicações práticas, que por sua vez resultam em crescimento econômico e outros assuntos aparentemente
+interessantes. A compensação pelo “investimento” em pesquisa básica será parcialmente direcionada a mais investimentos em pesquisa básica, e os cidadãos vão prosperar e desfrutar dos benefícios dessa riqueza derivada do conhecimento, com carros Volvo, férias em estações de esqui, culinária mediterrânea e longas caminhadas de verão em parques cuidados com esmero.
+Esse é o chamado modelo linear baconiano, em homenagem ao filósofo da ciência Francis Bacon; estou adaptando a representação desse modelo feita pelo cientista Terence Kealey (que como bioquímico é um cientista com atuação prática, e não um historiador da ciência), como se segue:
+mundo acadêmico
+→
+ciência e tecnologia aplicada
+→
+prática
+Ainda que esse modelo seja válido em algumas instâncias muito restritas (mas bastante propagandeadas) — por exemplo, a construção da bomba atômica —, o exato inverso parece ter embasamento na maioria dos domínios que examinei. Ou, pelo menos, esse modelo não tem a garantia de ser verdadeiro e, o que é espantoso, não há nenhuma evidência rigorosa de que seja verdadeiro. Talvez o mundo acadêmico ajude a ciência e a tecnologia, o que, por sua vez, ajuda a prática, mas de formas involuntárias, não teleológicas, como veremos mais adiante (em outras palavras, é a
+pesquisa dirigida
+que pode muito bem ser uma ilusão).
+Vamos voltar à metáfora das aves. Pense no seguinte evento: um grupo de pessoas hieráticas (de Harvard ou de algum lugar do mesmo naipe) faz uma palestra para ensinar aos pássaros a voar. Imagine homens carecas,
+na faixa dos sessenta anos, vestidos com túnicas pretas, celebrando uma cerimônia em que usam um registro da língua inglesa repleto de jargões e de quebra com um par de equações aqui e ali. O pássaro voa. Que confirmação maravilhosa! Os homens saem correndo para o departamento de ornitologia a fim de escrever livros, artigos e relatórios, afirmando que a ave lhes obedeceu, uma impecável inferência causal. O Departamento de Ornitologia de Harvard é, agora, indispensável para o voo dos pássaros. A instituição receberá do governo verbas de pesquisa por sua contribuição.
+matemática
+→
+tecnologias para a navegação ornitológica e o bater de asas
+→
+pássaros
+(
+ingratos
+)
+voam
+Acontece, também, que os pássaros não escrevem artigos e livros, talvez porque sejam apenas aves, então nunca vamos conhecer sua versão da história. Enquanto isso, os sacerdotes continuam disseminando sua explicação à nova geração de seres humanos, que desconhecem por completo as condições do mundo anteriores à era das palestras de Harvard. Ninguém discute a possibilidade de que os pássaros não precisam de aulas — e ninguém recebe incentivo para investigar o número de pássaros que voam sem essa ajuda do formidável establishment científico.
+A questão é que o que acabei de escrever parece ridículo, mas uma mudança de domínio faz com que pareça razoável. É evidente que nunca pensamos que é graças aos ornitólogos que os pássaros aprendem a voar — e, se algumas pessoas de fato sustentam essa crença, teriam dificuldade para convencer os pássaros. Mas por
+que é que, quando antropomorfizamos e substituímos “pássaros” por “homens”, a ideia de que as pessoas aprendem a fazer coisas graças a aulas e palestras se torna plausível? Quando se trata da agência humana, os assuntos subitamente tornam-se confusos para nós.
+Assim, a ilusão cresce cada vez mais, com financiamentos governamentais, dinheiro de impostos, burocracias inchadas (e que se autoalimentam) em Washington dedicadas a ajudar os pássaros a voar melhor. Ocorrem problemas quando as pessoas começam a cortar esse tipo de financiamento
+—
+com uma enxurrada de acusações de que não ajudar as aves a voar significa matá-las.
+Um ditado iídiche afirma: “Se o aluno é inteligente, o professor é quem leva o crédito”. Essas ilusões de contribuição resultam em grande medida de falácias de confirmação: além do triste fato de que a história pertence àqueles que são capazes de escrever sobre ela (sejam vencedores ou perdedores), um segundo viés aparece, já que aqueles que escrevem os relatos podem apresentar fatos confirmatórios (o que funcionou), mas não uma visão completa do que funcionou e do que deu errado. Por exemplo, pesquisas dirigidas diriam a você o que funcionou a partir dos financiamentos (a exemplo dos medicamentos contra aids, ou alguns fármacos sintéticos modernos), e não o que falhou
+—
+assim, talvez você fique com a impressão de que isso tem melhor desempenho do que a aleatoriedade.
+E, é claro, a iatrogenia nunca faz parte da narrativa. Ninguém nunca nos diz se a educação nos prejudica em alguns aspectos.
+Assim, ficamos cegos à possibilidade do processo alternativo ou ao papel desse processo, em um circuito fechado:
+experimentações e improvisos aleatórios
+(
+antifrágeis
+)
+→
+heurística
+(
+tecnologia
+)
+→
+prática e modelo de mestre-aprendiz
+→
+experimentações e improvisos aleatórios
+(
+antifrágeis
+)
+→
+heurística
+(
+tecnologia
+)
+→
+prática e modelo de mestre-aprendiz…
+Em paralelo ao círculo anterior,
+prática
+→
+teorias acadêmicas
+→
+teorias acadêmicas
+→
+teorias acadêmicas
+→
+teorias acadêmicas…
+(
+é claro, com algumas exceções, alguns vazamentos acidentais, embora estes de fato sejam raros, alvo de divulgações exageradas e grosseiramente generalizados
+)
+.
+Ora, o fato essencial é que é possível detectar a fraude do assim chamado modelo baconiano observando minuciosamente os eventos na época anterior às aulas e palestras de Harvard sobre voos e examinando os pássaros. Foi o que descobri de maneira acidental (a bem da verdade, de maneira acidental) em minha própria carreira como profissional com atuação prática convertido em pesquisador da volatilidade, graças a alguma afortunada reviravolta. Mas, antes disso, permita-me explicar os epifenômenos e o vetor da educação.
+EPIFENÔMENOS
+A ilusão soviética de Harvard (ensinar os pássaros a voar e acreditar que a palestra é a causa dessas
+maravilhosas habilidades) pertence a uma classe de ilusões causais chamadas
+epifenômenos
+. O que são essas ilusões? Quando uma pessoa passa algum tempo na ponte de comando de um navio ou na cabine do timoneiro com uma imensa bússola na sua frente, facilmente desenvolve a impressão de que é a bússola que está dirigindo o navio, em vez de apenas refletir a direção da embarcação.
+O efeito de ensinar os pássaros a voar é um exemplo de crença epifenomênica: vemos um elevado grau de pesquisa acadêmica em países ricos e desenvolvidos, o que nos leva a pensar, de forma acrítica, que a pesquisa é o que gera a riqueza. Em um epifenômeno, não se costuma observar A sem observar ao mesmo tempo B, então é justo pensar que A causa B, ou que B causa A, dependendo da conjuntura cultural ou do que parece plausível para os jornalistas locais.
+Raramente temos a ilusão de que, dado o fato de que muitos meninos têm cabelo curto, o gênero é determinado pelo uso de cabelo curto ou que usar uma gravata faz com que uma pessoa se torne um homem de negócios. Mas é fácil render-se a outros epifenômenos, principalmente para quem está imerso em uma cultura norteada pelo noticiário.
+E pode-se facilmente perceber a armadilha de fazer com que esses epifenômenos fomentem a ação, para, depois, justificá-la de forma retroativa. Um ditador — tal qual um governo
+—
+se sentirá indispensável, pois a alternativa não é facilmente visível, ou foi ocultada por grupos de interesses específicos. O Federal Reserve, por exemplo, pode fazer estragos na economia e, ainda assim, sentir-se convencido de sua eficácia. As pessoas têm medo das alternativas.
+A ganância como causa
+Sempre que ocorre uma crise econômica, a ganância é apontada como a causa, o que nos deixa com a impressão de que, se pudéssemos chegar à raiz da ganância e extirpá-la da vida, as crises seriam eliminadas. Além disso, tendemos a acreditar que a ganância é uma novidade, uma vez que essas desvairadas crises econômicas são algo novo. Isto é um epifenômeno: a ganância é muito mais antiga do que a fragilidade sistêmica. Já existia desde tempos ancestrais, até onde é possível escarafunchar os anais da história. Pela menção de Virgílio à
+ganância de ouro
+e pela expressão
+radix malorum est cupiditas
+[A ganância é a raiz de todo o mal] (a partir da versão latina do Novo Testamento),
+1
+ambas proferidas há mais de vinte séculos, sabemos que os mesmos problemas relativos à ganância foram propostos ao longo do tempo, sem nenhuma cura, é claro, apesar da variedade de sistemas políticos que desenvolvemos desde então. O romance de Trollope,
+The Way We Live Now
+[O modo como vivemos agora], publicado quase um século e meio atrás, mostra exatamente a mesma reclamação sobre um ressurgimento de impostores e manipuladores da cobiça que ouvi em 1988, com lamentações sobre a “década da ganância”, ou em 2008, com as provocações contra a “ganância do capitalismo”. Com espantosa regularidade, a ganância é vista como algo (a) novo e (b) suscetível de ser curado. Um enfoque à moda da cama de Procusto; não podemos mudar os seres humanos com a mesma facilidade com que podemos construir sistemas à prova de ganância, e ninguém pensa em soluções simples.
+2
+Da mesma maneira, a “falta de vigilância” é invariavelmente apontada como a causa de um erro (conforme veremos na história da Société Générale, no Livro
+V
+, as causas foram o tamanho e a fragilidade). Mas a falta de vigilância não é a causa da morte de um chefão da máfia; a causa da morte é fazer inimigos, e a cura é fazer amigos.
+Desmistificando os epifenômenos
+Podemos tentar encontrar epifenômenos no discurso cultural e na consciência observando a sequência dos eventos e verificando se um sempre precede o outro. Esse método foi refinado pelo falecido Clive Granger (um refinado cavalheiro), ganhador de um merecido Nobel em Economia — o prêmio do Banco da Suécia (Sveriges Riksbank) em homenagem a Alfred Nobel que já foi dado a inúmeros fragilistas. É a única técnica rigorosamente científica que filósofos da ciência podem usar para estabelecer a causalidade, uma vez que agora eles conseguem extrair, se não medir, a assim chamada “causa Granger”, examinando as sequências. Em situações epifenomênicas, você acaba vendo A e B juntos. Porém, se refinar sua análise levando em conta a sequência, consequentemente introduzindo uma dimensão de tempo
+—
+o que ocorre primeiro, A ou B?
+—
+, e analisar as evidências, então descobrirá se A realmente causa B.
+Além disso, Granger teve a grande ideia de estudar as diferenças, isto é,
+mudanças
+em A e
+B
+, e não apenas os níveis de A e B. Embora eu não acredite que o método de Granger me leve a acreditar com convicção que “A causa B”, pode me ajudar a desmistificar a falsa causalidade, permitindo-me dizer que “a afirmação de que B causa
+A está errada” ou que a sequência fornece provas insuficientes.
+A grande diferença entre teoria e prática está, precisamente, na detecção da sequência de eventos e na retenção da sequência na memória. Se a vida só pode ser compreendida olhando-se para trás, mas só pode ser vivida olhando-se para a frente, como Kierkegaard observou, então os livros exacerbam esse efeito
+—
+nossas próprias lembranças, nosso aprendizado e nosso instinto têm sequências inerentes. Alguém que observa certos eventos hoje
+sem tê-los vivido
+estaria inclinado a desenvolver ilusões de causalidade, principalmente por ficar confuso pela sequência de eventos. Na vida real, apesar de todos os vieses, não temos o mesmo número de assincronias que aparecem para o estudante de história. História asquerosa, cheia de mentiras, cheia de vieses!
+Um exemplo de artifício para desmistificar a causalidade: ainda não morri, mas já estou vendo deturpações sobre a minha obra. Os autores teorizam sobre uma suposta linhagem das minhas ideias, como se as pessoas lessem livros e depois desenvolvessem ideias, sem se perguntar se talvez não seja exatamente o contrário; as pessoas procuram os livros que corroboram sua programação mental. Dessa forma, um jornalista (Anatole Kaletsky) viu uma influência de Benoît Mandelbrot em meu livro
+Iludidos pelo acaso
+, publicado originalmente em 2001, quando eu nem sequer sabia quem era Mandelbrot. É simples: o jornalista notou semelhanças de pensamento em um tipo de domínio, levou em conta a diferença de idade e fez a falsa inferência, sem nem pensar. Ele não refletiu que pessoas que compartilham das mesmas ideias estão inclinadas a se aproximar, e que essa semelhança intelectual causou a
+aproximação, e não o contrário. Isso me faz desconfiar das relações mestre-aluno sobre as quais lemos na história da cultura: quase todas as pessoas que foram chamadas de meus alunos foram meus alunos porque partilhávamos da mesma disposição mental.
+Escolha seletiva (ou a falácia de confirmação)
+Pense nos panfletos turísticos utilizados pelos países para fazer propaganda de seus produtos: você pode ter certeza de que as imagens apresentadas terão um aspecto muitíssimo melhor do que qualquer coisa que você encontrará pessoalmente no local. E o viés, a diferença (à qual os seres humanos se ajustam, graças ao bom senso), pode ser medido como o
+país mostrado no panfleto turístico
+menos
+o país visto a olho nu
+. Essa diferença pode ser pequena ou grande. Também fazemos esse tipo de correção com os produtos comerciais, sem confiar demais na publicidade.
+Mas não fazemos ajustes sobre as diferenças na ciência, na medicina e na matemática, pelas mesmas razões por que não prestamos atenção na iatrogenia. Somos fanáticos pela sofisticação.
+Na pesquisa institucional, é possível que um indivíduo relate, de forma seletiva, fatos que confirmam sua própria história, sem revelar fatos que a invalidem ou que não se apliquem a ela
+—
+de modo que a percepção pública da ciência é influenciada a acreditar na necessidade dos métodos harvardizados altamente conceitualizados, precisos e depurados. E a pesquisa estatística tende a ser descaracterizada por essa unilateralidade. Outra razão pela qual se deve confiar mais no desconfirmatório do que no confirmatório.
+O mundo acadêmico está bem equipado para nos dizer o que fez por nós, não o que não fez
+—
+portanto, o quanto seus métodos são indispensáveis. Isso abrange muitas coisas na vida. Os
+traders
+falam sobre seus êxitos, e, assim, quem ouve é levado a acreditar que eles são inteligentes — deixando de lado seus fracassos ocultos. Quanto à ciência acadêmica: alguns anos atrás, o grande matemático anglo-libanês Michael Atiyah, famoso por seu papel no desenvolvimento da teoria das cordas, veio a Nova York a fim de arrecadar fundos para um centro de pesquisa de matemática sediado no Líbano. Em seu discurso, ele enumerou aplicações nas quais a matemática mostrava-se útil para a sociedade e para a vida moderna — por exemplo, na sinalização de trânsito. Muito bem. Mas e quanto às áreas em que a matemática nos levou a desastres (por exemplo, economia ou as finanças, onde causou a explosão do sistema)? E quanto às áreas fora do alcance da matemática? Pensei, naquele mesmo momento, em um projeto diferente: um catálogo listando onde a matemática não consegue produzir resultados, portanto provoca danos.
+A escolha seletiva tem opcionalidade: a pessoa que conta a história (e a publica) tem a vantagem de ser capaz de apresentar os exemplos positivos e ignorar por completo o resto
+—
+e quanto mais volatilidade e dispersão, mais cor-de-rosa será a melhor das histórias (e mais sombria será a pior das histórias). Alguém com opcionalidade
+—
+o direito de selecionar e escolher sua história
+—
+está apenas informando o que se ajusta a seu propósito. A pessoa seleciona as vantagens de sua história e esconde as desvantagens, de modo que somente o que é sensacional parece ter importância.
+O mundo real depende da inteligência da antifragilidade, mas universidade nenhuma engoliria isso
+—
+assim como os intervencionistas não aceitam que as coisas possam melhorar sem a sua intervenção. Vamos voltar à ideia de que as universidades geram riqueza e aumento do conhecimento útil na sociedade. Existe uma ilusão de causalidade aqui; é hora de mandá-la pelos ares.
+1
+. A fonte original a que o autor se refere é 1 Timóteo 6:10: “Porque o amor do dinheiro é raiz de todos os males; e alguns, nessa cobiça, se desviaram da fé e a si mesmos se atormentaram com muitas dores”. Tradução de João Ferreira Almeida, revista e atualizada. (N. T.)
+2
+. A democracia é epifenomênica? Em teoria, a democracia funciona por causa dessa santificada tomada de decisões racional por parte dos eleitores. Mas considere que a democracia pode ser algo completamente acidental para alguma outra coisa, o efeito colateral de pessoas que gostam de ir às urnas por motivos completamente obscuros, assim como as pessoas gostam de se expressar pelo mero gosto de se expressar (certa vez, apresentei essa questão em uma conferência de ciências políticas, e a única resposta que obtive foram caras de paisagem de nerds, nem mesmo um sorriso).

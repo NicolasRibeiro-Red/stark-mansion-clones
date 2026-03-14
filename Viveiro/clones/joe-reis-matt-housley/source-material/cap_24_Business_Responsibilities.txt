@@ -1,0 +1,45 @@
+# Business Responsibilities
+
+Paginas: 43-43
+
+Zooming out, a data engineer must also understand the requirements of data con‐
+sumers (data analysts and data scientists) and the broader implications of data across
+the organization. Data engineering is a holistic practice; the best data engineers view
+their responsibilities through business and technical lenses.
+Business Responsibilities
+The macro responsibilities we list in this section aren’t exclusive to data engineers but
+are crucial for anyone working in a data or technology field. Because a simple Google
+search will yield tons of resources to learn about these areas, we will simply list them
+for brevity:
+Know how to communicate with nontechnical and technical people.
+Communication is key, and you need to be able to establish rapport and trust
+with people across the organization. We suggest paying close attention to organi‐
+zational hierarchies, who reports to whom, how people interact, and which silos
+exist. These observations will be invaluable to your success.
+Understand how to scope and gather business and product requirements.
+You need to know what to build and ensure that your stakeholders agree with
+your assessment. In addition, develop a sense of how data and technology deci‐
+sions impact the business.
+Understand the cultural foundations of Agile, DevOps, and DataOps.
+Many technologists mistakenly believe these practices are solved through tech‐
+nology. We feel this is dangerously wrong. Agile, DevOps, and DataOps are
+fundamentally cultural, requiring buy-in across the organization.
+Control costs.
+You’ll be successful when you can keep costs low while providing outsized value.
+Know how to optimize for time to value, the total cost of ownership, and oppor‐
+tunity cost. Learn to monitor costs to avoid surprises.
+Learn continuously.
+The data field feels like it’s changing at light speed. People who succeed in it are
+great at picking up new things while sharpening their fundamental knowledge.
+They’re also good at filtering, determining which new developments are most
+relevant to their work, which are still immature, and which are just fads. Stay
+abreast of the field and learn how to learn.
+A successful data engineer always zooms out to understand the big picture and
+how to achieve outsized value for the business. Communication is vital, both for
+technical and nontechnical people. We often see data teams succeed based on their
+communication with other stakeholders; success or failure is rarely a technology
+issue. Knowing how to navigate an organization, scope and gather requirements,
+18
+|
+Chapter 1: Data Engineering Described
+

@@ -1,0 +1,45 @@
+# Software Engineering
+
+Paginas: 389-389
+
+their data flows, but it can increase the burden of cross-team coordination. Instead
+of simply managing flows within a single system, directly triggering the completion
+of DAGs or tasks belonging to other teams, teams must pass messages or queries
+between systems.
+A centralized approach means that work is easier to coordinate, but significant
+gatekeeping must also exist to protect a single production asset. For example, a poorly
+written DAG can bring Airflow to a halt. The centralized approach would mean
+bringing down data processes and serving across the whole organization. Centralized
+orchestration management requires high standards, automated testing of DAGs, and
+gatekeeping.
+If orchestration is centralized, who will own it? When a company has a DataOps
+team, orchestration usually lands here. Often, a team involved in serving is a natural
+fit because it has a fairly holistic view of all data engineering lifecycle stages. This
+could be the DBAs, analytics engineers, data engineers, or ML engineers. ML engi‐
+neers coordinate complex model-training processes but may or may not want to add
+the operational complexity of managing orchestration to an already crowded docket
+of responsibilities.
+Software Engineering
+Compared to a few years ago, serving data has become simpler. The need to write
+code has been drastically simplified. Data has also become more code-first, with the
+proliferation of open source frameworks focused on simplifying the serving of data.
+Many ways exist to serve data to end users, and a data engineer’s focus should be on
+knowing how these systems work and how data is delivered.
+Despite the simplicity of serving data, if code is involved, a data engineer should
+still understand how the main serving interfaces work. For example, a data engineer
+may need to translate the code a data scientist is running locally on a notebook and
+convert it into a report or a basic ML model to operate.
+Another area where data engineers will be useful is understanding the impact of how
+code and queries will perform against the storage systems. Analysts can generate
+SQL in various programmatic ways, including LookML, Jinja via dbt, various object-
+relational mapping (ORM) tools, and metrics layers. When these programmatic
+layers compile to SQL, how will this SQL perform? A data engineer can suggest
+optimizations where the SQL code might not perform as well as handwritten SQL.
+The rise of analytics and ML IaC means the role of writing code is moving toward
+building the systems that support data scientists and analysts. Data engineers might
+be responsible for setting up the CI/CD pipelines and building processes for their
+data team. They would also do well to train and support their data team in using
+364
+|
+Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
+

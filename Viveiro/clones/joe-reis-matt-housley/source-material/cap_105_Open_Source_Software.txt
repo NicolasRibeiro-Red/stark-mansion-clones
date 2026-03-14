@@ -1,0 +1,167 @@
+# Open Source Software
+
+Paginas: 158-161
+
+better solution than something already available? Either decision comes down to
+TCO, TOCO, and whether the solution provides a competitive advantage to your
+organization.
+If you’ve caught on to a theme in the book so far, it’s that we suggest investing in
+building and customizing when doing so will provide a competitive advantage for your
+business. Otherwise, stand on the shoulders of giants and use what’s already available
+in the market. Given the number of open source and paid services—both of which
+may have communities of volunteers or highly paid teams of amazing engineers—
+you’re foolish to build everything yourself.
+As we often ask, “When you need new tires for your car, do you get the raw materials,
+create the tires from scratch, and install them yourself?” Like most people, you’re
+probably buying tires and having someone install them. The same argument applies
+to build versus buy. We’ve seen teams that have built their databases from scratch. A
+simple open source RDBMS would have served their needs much better upon closer
+inspection. Imagine the amount of time and money invested in this homegrown
+database. Talk about low ROI for TCO and opportunity cost.
+This is where the distinction between the type A and type B data engineer comes
+in handy. As we pointed out earlier, type A and type B roles are often embodied in
+the same engineer, especially in a small organization. Whenever possible, lean toward
+type A behavior; avoid undifferentiated heavy lifting and embrace abstraction. Use
+open source frameworks, or if this is too much trouble, look at buying a suitable
+managed or proprietary solution. Plenty of great modular services are available to
+choose from in either case.
+The shifting reality of how companies adopt software is worth mentioning. Whereas
+in the past, IT used to make most of the software purchase and adoption decisions
+in a top-down manner, these days, the trend is for bottom-up software adoption in
+a company, driven by developers, data engineers, data scientists, and other technical
+roles. Technology adoption within companies is becoming an organic, continuous
+process.
+Let’s look at some options for open source and proprietary solutions.
+Open Source Software
+Open source software (OSS) is a software distribution model in which software, and
+the underlying codebase, is made available for general use, typically under specific
+licensing terms. Often OSS is created and maintained by a distributed team of
+collaborators. OSS is free to use, change, and distribute most of the time, but with
+specific caveats. For example, many licenses require that the source code of open
+source–derived software be included when the software is distributed.
+Build Versus Buy
+|
+133
+
+The motivations for creating and maintaining OSS vary. Sometimes OSS is organic,
+springing from the mind of an individual or a small team that creates a novel solution
+and chooses to release it into the wild for public use. Other times, a company may
+make a specific tool or technology available to the public under an OSS license.
+OSS has two main flavors: community managed and commercial OSS.
+Community-managed OSS
+OSS projects succeed with a strong community and vibrant user base. Community-
+managed OSS is a prevalent path for OSS projects. The community opens up high
+rates of innovations and contributions from developers worldwide with popular OSS
+projects.
+The following are factors to consider with a community-managed OSS project:
+Mindshare
+Avoid adopting OSS projects that don’t have traction and popularity. Look at the
+number of GitHub stars, forks, and commit volume and recency. Another thing
+to pay attention to is community activity on related chat groups and forums.
+Does the project have a strong sense of community? A strong community creates
+a virtuous cycle of strong adoption. It also means that you’ll have an easier
+time getting technical assistance and finding talent qualified to work with the
+framework.
+Maturity
+How long has the project been around, how active is it today, and how usable are
+people finding it in production? A project’s maturity indicates that people find it
+useful and are willing to incorporate it into their production workflows.
+Troubleshooting
+How will you have to handle problems if they arise? Are you on your own to
+troubleshoot issues, or can the community help you solve your problem?
+Project management
+Look at Git issues and the way they’re addressed. Are they addressed quickly? If
+so, what’s the process to submit an issue and get it resolved?
+Team
+Is a company sponsoring the OSS project? Who are the core contributors?
+Developer relations and community management
+What is the project doing to encourage uptake and adoption? Is there a vibrant
+chat community (e.g., in Slack) that provides encouragement and support?
+134
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+
+Contributing
+Does the project encourage and accept pull requests? What are the process and
+timelines for pull requests to be accepted and included in main codebase?
+Roadmap
+Is there a project roadmap? If so, is it clear and transparent?
+Self-hosting and maintenance
+Do you have the resources to host and maintain the OSS solution? If so, what’s
+the TCO and TOCO versus buying a managed service from the OSS vendor?
+Giving back to the community
+If you like the project and are actively using it, consider investing in it. You can
+contribute to the codebase, help fix issues, and give advice in the community
+forums and chats. If the project allows donations, consider making one. Many
+OSS projects are essentially community-service projects, and the maintainers
+often have full-time jobs in addition to helping with the OSS project. Sadly, it’s
+often a labor of love that doesn’t afford the maintainer a living wage. If you can
+afford to donate, please do so.
+Commercial OSS
+Sometimes OSS has some drawbacks. Namely, you have to host and maintain the
+solution in your environment. This may be trivial or extremely complicated and
+cumbersome, depending on the OSS application. Commercial vendors try to solve
+this management headache by hosting and managing the OSS solution for you, typi‐
+cally as a cloud SaaS offering. Examples of such vendors include Databricks (Spark),
+Confluent (Kafka), DBT Labs (dbt), and there are many, many others.
+This model is called commercial OSS (COSS). Typically, a vendor will offer the “core”
+of the OSS for free while charging for enhancements, curated code distributions, or
+fully managed services.
+A vendor is often affiliated with the community OSS project. As an OSS project
+becomes more popular, the maintainers may create a separate business for a managed
+version of the OSS. This typically becomes a cloud SaaS platform built around a
+managed version of the open source code. This is a widespread trend: an OSS project
+becomes popular, an affiliated company raises truckloads of venture capital (VC)
+money to commercialize the OSS project, and the company scales as a fast-moving
+rocket ship.
+At this point, the data engineer has two options. You can continue using the
+community-managed OSS version, which you need to continue maintaining on your
+own (updates, server/container maintenance, pull requests for bug fixes, etc.). Or, you
+can pay the vendor and let it take care of the administrative management of the COSS
+product.
+Build Versus Buy
+|
+135
+
+The following are factors to consider with a commercial OSS project:
+Value
+Is the vendor offering a better value than if you managed the OSS technology
+yourself? Some vendors will add many bells and whistles to their managed
+offerings that aren’t available in the community OSS version. Are these additions
+compelling to you?
+Delivery model
+How do you access the service? Is the product available via download, API, or
+web/mobile UI? Be sure you can easily access the initial version and subsequent
+releases.
+Support
+Support cannot be understated, and it’s often opaque to the buyer. What is the
+support model for the product, and is there an extra cost for support? Frequently,
+vendors will sell support for an additional fee. Be sure you clearly understand
+the costs of obtaining support. Also, understand what is covered in support,
+and what is not covered. Anything that’s not covered by support will be your
+responsibility to own and manage.
+Releases and bug fixes
+Is the vendor transparent about the release schedule, improvements, and bug
+fixes? Are these updates easily available to you?
+Sales cycle and pricing
+Often a vendor will offer on-demand pricing, especially for a SaaS product,
+and offer you a discount if you commit to an extended agreement. Be sure to
+understand the trade-offs of paying as you go versus paying up front. Is it worth
+paying a lump sum, or is your money better spent elsewhere?
+Company finances
+Is the company viable? If the company has raised VC funds, you can check their
+funding on sites like Crunchbase. How much runway does the company have,
+and will it still be in business in a couple of years?
+Logos versus revenue
+Is the company focused on growing the number of customers (logos), or is it
+trying to grow revenue? You may be surprised by the number of companies
+primarily concerned with growing their customer count, GitHub stars, or Slack
+channel membership without the revenue to establish sound finances.
+Community support
+Is the company truly supporting the community version of the OSS project? How
+much is the company contributing to the community OSS codebase? Controver‐
+sies have arisen with certain vendors co-opting OSS projects and subsequently
+136
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+

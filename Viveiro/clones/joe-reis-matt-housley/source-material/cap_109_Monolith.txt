@@ -1,0 +1,43 @@
+# Monolith
+
+Paginas: 164-164
+
+Don’t treat internal operational overhead as a sunk cost. There’s excellent value
+in upskilling your existing data team to build sophisticated systems on managed
+platforms rather than babysitting on-premises servers. In addition, think about how
+a company makes money, especially its sales and customer experience teams, which
+will generally indicate how you’re treated during the sales cycle and when you’re a
+paying customer.
+Finally, who is responsible for the budget at your company? How does this person
+decide the projects and technologies that get funded? Before making the business case
+for COSS or managed services, does it make sense to try to use OSS first? The last
+thing you want is for your technology choice to be stuck in limbo while waiting for
+budget approval. As the old saying goes, time kills deals. In your case, more time spent
+in limbo means a higher likelihood your budget approval will die. Know beforehand
+who controls the budget and what will successfully get approved.
+Monolith Versus Modular
+Monoliths versus modular systems is another longtime debate in the software archi‐
+tecture space. Monolithic systems are self-contained, often performing multiple func‐
+tions under a single system. The monolith camp favors the simplicity of having
+everything in one place. It’s easier to reason about a single entity, and you can
+move faster because there are fewer moving parts. The modular camp leans toward
+decoupled, best-of-breed technologies performing tasks at which they are uniquely
+great. Especially given the rate of change in products in the data world, the argument
+is you should aim for interoperability among an ever-changing array of solutions.
+What approach should you take in your data engineering stack? Let’s explore the
+trade-offs.
+Monolith
+The monolith (Figure 4-4) has been a technology mainstay for decades. The old days
+of waterfall meant that software releases were huge, tightly coupled, and moved at
+a slow cadence. Large teams worked together to deliver a single working codebase.
+Monolithic data systems continue to this day, with older software vendors such as
+Informatica and open source frameworks such as Spark.
+The pros of the monolith are it’s easy to reason about, and it requires a lower
+cognitive burden and context switching since everything is self-contained. Instead of
+dealing with dozens of technologies, you deal with “one” technology and typically
+one principal programming language. Monoliths are an excellent option if you want
+simplicity in reasoning about your architecture and processes.
+Monolith Versus Modular
+|
+139
+

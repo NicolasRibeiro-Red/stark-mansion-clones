@@ -1,0 +1,45 @@
+# Self-Service or Not?
+
+Paginas: 366-366
+
+3 Clayton M. Christensen et al., “Know Your Customers’ ‘Jobs to Be Done,’” Harvard Business Review, Septem‐
+ber 2016, https://oreil.ly/3uU4j.
+When creating a data product, it’s useful to think of the “jobs to be done.”3 A user
+“hires” a product for a “job to be done.” This means you need to know what the user
+wants—i.e., their motivation for “hiring” your product. A classic engineering mistake
+is simply building without understanding the requirements, needs of the end user,
+or product/market fit. This disaster happens when you build data products nobody
+wants to use.
+A good data product has positive feedback loops. More usage of a data product
+generates more useful data, which is used to improve the data product. Rinse and
+repeat.
+When building a data product, keep these considerations in mind:
+• When someone uses the data product, what do they hope to accomplish? All
+•
+too often, data products are made without a clear understanding of the outcome
+expected by the user.
+• Will the data product serve internal or external users? In Chapter 2, we discussed
+•
+internal- and external-facing data engineering. When creating a data product,
+knowing whether your customer is internal or external facing will impact the way
+data is served.
+• What are the outcomes and ROI of the data product you’re building?
+•
+Building data products that people will use and love is critical. Nothing will ruin the
+adoption of a data product more than unwanted utility and loss of trust in the data
+outputs. Pay attention to the adoption and usage of data products, and be willing to
+adjust to make users happy.
+Self-Service or Not?
+How will users interface with your data product? Will a business director request a
+report from the data team, or can this director simply build the report? Self-service
+data products—giving the user the ability to build data products on their own—have
+been a common aspiration of data users for many years. What’s better than just giving
+the end user the ability to directly create reports, analyses, and ML models?
+Today, self-service BI and data science is still mostly aspirational. While we occasion‐
+ally see companies successfully doing self-service with data, this is rare. Most of
+the time, attempts at self-service data begin with great intentions but ultimately fail;
+self-service data is tough to implement in practice. Thus, the analyst or data scientist
+General Considerations for Serving Data
+|
+341
+

@@ -1,0 +1,37 @@
+# Data Modeling
+
+Paginas: 312-312
+
+4 Figure 8-11 and the example it depicts are significantly based on “Introducing Stream—Stream Joins in
+Apache Spark 2.3” by Tathagata Das and Joseph Torres (Databricks Engineering Blog, March 13, 2018).
+but a variety of complications arise. For instance, the streams may have significantly
+different latencies for arrival at the point where the join is handled in the streaming
+system. The ad platform may provide its data with a five-minute delay. In addition,
+certain events may be significantly delayed—for example, a session close event for a
+user, or an event that happens on the phone offline and shows up in the stream only
+after the user is back in mobile network range.
+As such, typical streaming join architectures rely on streaming buffers. The buffer
+retention interval is configurable; a longer retention interval requires more storage
+and other resources. Events get joined with data in the buffer and are eventually
+evicted after the retention interval has passed (Figure 8-11).4
+Figure 8-11. An architecture to join streams buffers each stream and joins events if
+related events are found during the buffer retention interval
+Now that we’ve covered how queries work for batch and streaming data, let’s discuss
+making your data useful by modeling it.
+Data Modeling
+Data modeling is something that we see overlooked disturbingly often. We often see
+data teams jump into building data systems without a game plan to organize their
+data in a way that’s useful for the business. This is a mistake. Well-constructed data
+architectures must reflect the goals and business logic of the organization that relies
+on this data. Data modeling involves deliberately choosing a coherent structure for
+data and is a critical step to make data useful for the business.
+Data modeling has been a practice for decades in one form or another. For example,
+various types of normalization techniques (discussed in “Normalization” on page
+290) have been used to model data since the early days of RDBMSs; data warehousing
+modeling techniques have been around since at least the early 1990s and arguably
+longer. As pendulums in technology often go, data modeling became somewhat
+unfashionable in the early to mid-2010s. The rise of data lake 1.0, NoSQL, and big
+Data Modeling
+|
+287
+

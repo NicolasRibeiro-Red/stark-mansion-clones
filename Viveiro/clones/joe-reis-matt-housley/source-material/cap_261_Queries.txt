@@ -1,0 +1,41 @@
+# Queries
+
+Paginas: 297-297
+
+downstream consumption. Finally, we’ll cover whom you’ll work with and the under‐
+currents as they relate to this chapter.
+A variety of techniques can be used to query, model, and transform data in SQL and
+NoSQL databases. This section focuses on queries made to an OLAP system, such
+as a data warehouse or data lake. Although many languages exist for querying, for
+the sake of convenience and familiarity, throughout most of this chapter, we’ll focus
+heavily on SQL, the most popular and universal query language. Most of the concepts
+for OLAP databases and SQL will translate to other types of databases and query
+languages. This chapter assumes you have an understanding of the SQL language and
+related concepts like primary and foreign keys. If these ideas are unfamiliar to you,
+countless resources are available to help you get started.
+A note on the terms used in this chapter. For convenience, we’ll use the term database
+as a shorthand for a query engine and the storage it’s querying; this could be a
+cloud data warehouse or Apache Spark querying data stored in S3. We assume the
+database has a storage engine that organizes the data under the hood. This extends to
+file-based queries (loading a CSV file into a Python notebook) and queries against file
+formats such as Parquet.
+Also, note that this chapter focuses mainly on the query, modeling patterns, and
+transformations related to structured and semistructured data, which data engineers
+use often. Many of the practices discussed can also be applied to working with
+unstructured data such as images, video, and raw text.
+Before we get into modeling and transforming data, let’s look at queries—what they
+are, how they work, considerations for improving query performance, and queries on
+streaming data.
+Queries
+Queries are a fundamental part of data engineering, data science, and analysis. Before
+you learn about the underlying patterns and technologies for transformations, you
+need to understand what queries are, how they work on various data, and techniques
+for improving query performance.
+This section primarily concerns itself with queries on tabular and semistructured
+data. As a data engineer, you’ll most frequently query and transform these data
+types. Before we get into more complicated topics about queries, data modeling, and
+transformations, let’s start by answering a pretty simple question: what is a query?
+272
+|
+Chapter 8: Queries, Modeling, and Transformation
+

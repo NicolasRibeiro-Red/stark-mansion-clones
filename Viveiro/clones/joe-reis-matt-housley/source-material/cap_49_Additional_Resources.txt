@@ -1,0 +1,60 @@
+# Additional Resources
+
+Paginas: 94-95
+
+• Security
+•
+• Data management
+•
+• DataOps
+•
+• Data architecture
+•
+• Orchestration
+•
+• Software engineering
+•
+A data engineer has several top-level goals across the data lifecycle: produce optimum
+ROI and reduce costs (financial and opportunity), reduce risk (security, data quality),
+and maximize data value and utility.
+The next two chapters discuss how these elements impact good architecture design,
+along with choosing the right technologies. If you feel comfortable with these two
+topics, feel free to skip ahead to Part II, where we cover each of the stages of the data
+engineering lifecycle.
+Additional Resources
+• “A Comparison of Data Processing Frameworks” by Ludovic Santos
+•
+• DAMA International website
+•
+• “The Dataflow Model: A Practical Approach to Balancing Correctness, Latency,
+•
+and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing” by Tyler
+Akidau et al.
+• “Data Processing” Wikipedia page
+•
+• “Data Transformation” Wikipedia page
+•
+• “Democratizing Data at Airbnb” by Chris Williams et al.
+•
+• “Five Steps to Begin Collecting the Value of Your Data” Lean-Data web page
+•
+• “Getting Started with DevOps Automation” by Jared Murrell
+•
+• “Incident Management in the Age of DevOps” Atlassian web page
+•
+• “An Introduction to Dagster: The Orchestrator for the Full Data Lifecycle” video
+•
+by Nick Schrock
+• “Is DevOps Related to DataOps?” by Carol Jang and Jove Kuang
+•
+• “The Seven Stages of Effective Incident Response” Atlassian web page
+•
+• “Staying Ahead of Debt” by Etai Mizrahi
+•
+• “What Is Metadata” by Michelle Knight
+•
+Additional Resources
+|
+69
+
+

@@ -1,0 +1,712 @@
+# One: The Basics
+
+Paginas: 20-41
+
+
+— ONE —
+The Basics
+I have yet to see any problem, however complicated, which, when
+looked at in the right way, did not become still more complicated.
+—POUL ANDERSON1
+More Than the Sum of Its Parts
+A system isn’t just any old collection of things. A system* is an interconnected
+set of elements that is coherently organized in a way that achieves something. If
+you look at that definition closely for a minute, you can see that a system must
+consist of three kinds of things: elements, interconnections, and a function or
+purpose.
+For example, the elements of your digestive system include teeth, enzymes,
+stomach, and intestines. They are interrelated through the physical flow of food,
+and through an elegant set of regulating chemical signals. The function of this
+system is to break down food into its basic nutrients and to transfer those
+nutrients into the bloodstream (another system), while discarding unusable
+wastes.
+A football team is a system with elements such as players, coach, field, and
+ball. Its interconnections are the rules of the game, the coach’s strategy, the
+players’ communications, and the laws of physics that govern the motions of
+ball and players. The purpose of the team is to win games, or have fun, or get
+exercise, or make millions of dollars, or all of the above.
+A school is a system. So is a city, and a factory, and a corporation, and a
+national economy. An animal is a system. A tree is a system, and a forest is a
+larger system that encompasses subsystems of trees and animals. The earth is a
+system. So is the solar system; so is a galaxy. Systems can be embedded in
+systems, which are embedded in yet other systems.
+Is there anything that is not a system? Yes—a conglomeration without any
+particular interconnections or function. Sand scattered on a road by
+happenstance is not, itself, a system. You can add sand or take away sand and
+
+you still have just sand on the road. Arbitrarily add or take away football
+players, or pieces of your digestive system, and you quickly no longer have the
+same system.
+When a living creature dies, it loses its “system-ness.” The multiple
+interrelations that held it together no longer function, and it dissipates, although
+its material remains part of a larger food-web system. Some people say that an
+old city neighborhood where people know each other and communicate
+regularly is a social system, and that a new apartment block full of strangers is
+not—not until new relationships arise and a system forms.
+A system is more than the sum of its
+parts. It may exhibit adaptive, dynamic,
+goal-seeking,
+self-preserving,
+and
+sometimes evolutionary behavior.
+You can see from these examples that there is an integrity or wholeness about
+a system and an active set of mechanisms to maintain that integrity. Systems can
+change, adapt, respond to events, seek goals, mend injuries, and attend to their
+own survival in lifelike ways, although they may contain or consist of nonliving
+things. Systems can be self-organizing, and often are self-repairing over at least
+some range of disruptions. They are resilient, and many of them are
+evolutionary. Out of one system other completely new, never-before-imagined
+systems can arise.
+Look Beyond the Players to the Rules of the Game
+You think that because you understand “one” that you must
+therefore understand “two” because one and one make two. But you
+forget that you must also understand “and.”
+—Sufi teaching story
+The elements of a system are often the easiest parts to notice, because many of
+them are visible, tangible things. The elements that make up a tree are roots,
+trunk, branches, and leaves. If you look more closely, you see specialized cells:
+vessels carrying fluids up and down, chloroplasts, and so on. The system called
+a university is made up of buildings, students, professors, administrators,
+libraries, books, computers—and I could go on and say what all those things are
+made up of. Elements do not have to be physical things. Intangibles are also
+elements of a system. In a university, school pride and academic prowess are
+two intangibles that can be very important elements of the system. Once you
+start listing the elements of a system, there is almost no end to the process. You
+
+can divide elements into sub-elements and then sub-sub-elements. Pretty soon
+you lose sight of the system. As the saying goes, you can’t see the forest for the
+trees.
+THINK ABOUT THIS
+How to know whether you are looking at a system or just a
+bunch of stuff:
+A) Can you identify parts? … and
+B) Do the parts affect each other? … and
+C) Do the parts together produce an effect that is
+different from the effect of each part on its own? …
+and perhaps
+D) Does the effect, the behavior over time, persist in a
+variety of circumstances?
+Before going too far in that direction, it’s a good idea to stop dissecting out
+elements and to start looking for the interconnections, the relationships that hold
+the elements together.
+The interconnections in the tree system are the physical flows and chemical
+reactions that govern the tree’s metabolic processes—the signals that allow one
+part to respond to what is happening in another part. For example, as the leaves
+lose water on a sunny day, a drop in pressure in the water-carrying vessels
+allows the roots to take in more water. Conversely, if the roots experience dry
+soil, the loss of water pressure signals the leaves to close their pores, so as not to
+lose even more precious water.
+As the days get shorter in the temperate zones, a deciduous tree puts forth
+chemical messages that cause nutrients to migrate out of the leaves into the
+trunk and roots and that weaken the stems, allowing the leaves to fall. There
+even seem to be messages that cause some trees to make repellent chemicals or
+harder cell walls if just one part of the plant is attacked by insects. No one
+understands all the relationships that allow a tree to do what it does. That lack of
+knowledge is not surprising. It’s easier to learn about a system’s elements than
+about its interconnections.
+In the university system, interconnections include the standards for admission,
+the requirements for degrees, the examinations and grades, the budgets and
+money flows, the gossip, and most important, the communication of knowledge
+that is, presumably, the purpose of the whole system.
+
+Many of the interconnections in systems
+operate through the flow of information.
+Information holds systems together and
+plays a great role in determining how they
+operate.
+Some interconnections in systems are actual physical flows, such as the water
+in the tree’s trunk or the students progressing through a university. Many
+interconnections are flows of information—signals that go to decision points or
+action points within a system. These kinds of interconnections are often harder
+to see, but the system reveals them to those who look. Students may use
+informal information about the probability of getting a good grade to decide
+what courses to take. A consumer decides what to buy using information about
+his or her income, savings, credit rating, stock of goods at home, prices, and
+availability of goods for purchase. Governments need information about kinds
+and quantities of water pollution before they can create sensible regulations to
+reduce that pollution. (Note that information about the existence of a problem
+may be necessary but not sufficient to trigger action—information about
+resources, incentives, and consequences is necessary too.)
+If information-based relationships are hard to see, functions or purposes are
+even harder. A system’s function or purpose is not necessarily spoken, written,
+or expressed explicitly, except through the operation of the system. The best
+way to deduce the system’s purpose is to watch for a while to see how the
+system behaves.
+If a frog turns right and catches a fly, and then turns left and catches a fly, and
+then turns around backward and catches a fly, the purpose of the frog has to do
+not with turning left or right or backward but with catching flies. If a
+government proclaims its interest in protecting the environment but allocates
+little money or effort toward that goal, environmental protection is not, in fact,
+the government’s purpose. Purposes are deduced from behavior, not from
+rhetoric or stated goals.
+A NOTE ON LANGUAGE
+The word function is generally used for a nonhuman system,
+the word purpose for a human one, but the distinction is not
+absolute, since so many systems have both human and
+nonhuman elements.
+
+The function of a thermostat-furnace system is to keep a building at a given
+temperature. One function of a plant is to bear seeds and create more plants. One
+purpose of a national economy is, judging from its behavior, to keep growing
+larger. An important function of almost every system is to ensure its own
+perpetuation.
+System purposes need not be human purposes and are not necessarily those
+intended by any single actor within the system. In fact, one of the most
+frustrating aspects of systems is that the purposes of subunits may add up to an
+overall behavior that no one wants. No one intends to produce a society with
+rampant drug addiction and crime, but consider the combined purposes and
+consequent actions of the actors involved:
+desperate people who want quick relief from psychological pain
+farmers, dealers, and bankers who want to earn money
+pushers who are less bound by civil law than are the police who
+oppose them
+governments that make harmful substances illegal and use
+police power to interdict them
+wealthy people living in close proximity to poor people
+nonaddicts who are more interested in protecting themselves
+than in encouraging recovery of addicts
+Altogether, these make up a system from which it is extremely difficult to
+eradicate drug addiction and crime.
+Systems can be nested within systems. Therefore, there can be purposes
+within purposes. The purpose of a university is to discover and preserve
+knowledge and pass it on to new generations. Within the university, the purpose
+of a student may be to get good grades, the purpose of a professor may be to get
+tenure, the purpose of an administrator may be to balance the budget. Any of
+those sub-purposes could come into conflict with the overall purpose—the
+student could cheat, the professor could ignore the students in order to publish
+papers, the administrator could balance the budget by firing professors. Keeping
+sub-purposes and overall system purposes in harmony is an essential function of
+successful systems. I’ll get back to this point later when we come to hierarchies.
+You can understand the relative importance of a system’s elements,
+interconnections, and purposes by imagining them changed one by one.
+Changing elements usually has the least effect on the system. If you change all
+the players on a football team, it is still recognizably a football team. (It may
+play much better or much worse—particular elements in a system can indeed be
+important.) A tree changes its cells constantly, its leaves every year or so, but it
+is still essentially the same tree. Your body replaces most of its cells every few
+weeks, but it goes on being your body. The university has a constant flow of
+
+students and a slower flow of professors and administrators, but it is still a
+university. In fact it is still the same university, distinct in subtle ways from
+others, just as General Motors and the U.S. Congress somehow maintain their
+identities even though all their members change. A system generally goes on
+being itself, changing only slowly if at all, even with complete substitutions of
+its elements—as long as its interconnections and purposes remain intact.
+The least obvious part of the system, its
+function or purpose, is often the most
+crucial determinant of the system’s
+behavior.
+If the interconnections change, the system may be greatly altered. It may even
+become unrecognizable, even though the same players are on the team. Change
+the rules from those of football to those of basketball, and you’ve got, as they
+say, a whole new ball game. If you change the interconnections in the tree—say
+that instead of taking in carbon dioxide and emitting oxygen, it does the reverse
+—it would no longer be a tree. (It would be an animal.) If in a university the
+students graded the professors, or if arguments were won by force instead of
+reason, the place would need a different name. It might be an interesting
+organization, but it would not be a university. Changing interconnections in a
+system can change it dramatically.
+Changes in function or purpose also can be drastic. What if you keep the
+players and the rules but change the purpose—from winning to losing, for
+example? What if the function of a tree were not to survive and reproduce but to
+capture all the nutrients in the soil and grow to unlimited size? People have
+imagined many purposes for a university besides disseminating knowledge—
+making money, indoctrinating people, winning football games. A change in
+purpose changes a system profoundly, even if every element and interconnection
+remains the same.
+To ask whether elements, interconnections, or purposes are most important in
+a system is to ask an unsystemic question. All are essential. All interact. All have
+their roles. But the least obvious part of the system, its function or purpose, is
+often the most crucial determinant of the system’s behavior. Interconnections are
+also critically important. Changing relationships usually changes system
+behavior. The elements, the parts of systems we are most likely to notice, are
+often (not always) least important in defining the unique characteristics of the
+system—unless changing an element also results in changing relationships or
+purpose.
+Changing just one leader at the top—from a Brezhnev to a Gorbachev, or
+from a Carter to a Reagan—may or may not turn an entire nation in a new
+
+direction, though its land, factories, and hundreds of millions of people remain
+exactly the same. A leader can make that land and those factories and people
+play a different game with new rules, or can direct the play toward a new
+purpose.
+And conversely, because land, factories, and people are long-lived, slowly
+changing, physical elements of the system, there is a limit to the rate at which
+any leader can turn the direction of a nation.
+Bathtubs 101—Understanding System Behavior over Time
+Information contained in nature … allows us a partial reconstruction
+of the past.… The development of the meanders in a river, the
+increasing complexity of the earth’s crust … are information-storing
+devices in the same manner that genetic systems are.… Storing
+information means increasing the complexity of the mechanism.
+—Ramon Margalef2
+A stock is the foundation of any system. Stocks are the elements of the system
+that you can see, feel, count, or measure at any given time. A system stock is just
+what it sounds like: a store, a quantity, an accumulation of material or
+information that has built up over time. It may be the water in a bathtub, a
+population, the books in a bookstore, the wood in a tree, the money in a bank,
+your own self-confidence. A stock does not have to be physical. Your reserve of
+good will toward others or your supply of hope that the world can be better are
+both stocks.
+A stock is the memory of the history of
+changing flows within the system.
+Stocks change over time through the actions of a flow. Flows are filling and
+draining, births and deaths, purchases and sales, growth and decay, deposits and
+withdrawals, successes and failures. A stock, then, is the present memory of the
+history of changing flows within the system.
+Figure 1. How to read stock-and-flow diagrams. In this book, stocks are shown as
+boxes, and flows as arrow-headed “pipes” leading into or out of the stocks. The small T
+on each flow signifies a “faucet;” it can be turned higher or lower, on or off. The “clouds”
+
+stand for wherever the flows come from and go to—the sources and sinks that are
+being ignored for the purposes of the present discussion.
+For example, an underground mineral deposit is a stock, out of which comes a
+flow of ore through mining. The inflow of ore into a mineral deposit is minute in
+any time period less than eons. So I have chosen to draw (Figure 2) a simplified
+picture of the system without any inflow. All system diagrams and descriptions
+are simplified versions of the real world.
+Figure 2. A stock of minerals depleted by mining.
+Water in a reservoir behind a dam is a stock, into which flow rain and river
+water, and out of which flows evaporation from the reservoir’s surface as well as
+the water discharged through the dam.
+Figure 3. A stock of water in a reservoir with multiple inflows and outflows.
+The volume of wood in the living trees in a forest is a stock. Its inflow is the
+growth of the trees. Its outflows are the natural deaths of trees and the harvest by
+loggers. The logging harvest flows into another stock, perhaps an inventory of
+lumber at a mill. Wood flows out of the inventory stock as lumber is sold to
+customers.
+Figure 4. A stock of lumber linked to a stock of trees in a forest.
+
+If you understand the dynamics of stocks and flows—their behavior over
+time—you understand a good deal about the behavior of complex systems. And
+if you have had much experience with a bathtub, you understand the dynamics
+of stocks and flows.
+Figure 5. The structure of a bathtub system—one stock with one inflow and one
+outflow.
+Imagine a bathtub filled with water, with its drain plugged up and its faucets
+turned off—an unchanging, undynamic, boring system. Now mentally pull the
+plug. The water runs out, of course. The level of water in the tub goes down
+until the tub is empty.
+Figure 6. Water level in a tub when the plug is pulled.
+A NOTE ON READING GRAPHS OF BEHAVIOR OVER
+TIME
+Systems thinkers use graphs of system behavior to
+understand trends over time, rather than focusing attention
+on individual events. We also use behavior-over-time graphs
+to learn whether the system is approaching a goal or a limit,
+and if so, how quickly.
+The variable on the graph may be a stock or a flow. The
+pattern—the shape of the variable line—is important, as are
+
+the points at which that line changes shape or direction. The
+precise numbers on the axes are often less important.
+The horizontal axis of time allows you to ask questions
+about what came before, and what might happen next. It can
+help you focus on the time horizon appropriate to the
+question or problem you are investigating.
+Now imagine starting again with a full tub, and again open the drain, but this
+time, when the tub is about half empty, turn on the inflow faucet so the rate of
+water flowing in is just equal to that flowing out. What happens? The amount of
+water in the tub stays constant at whatever level it had reached when the inflow
+became equal to the outflow. It is in a state of dynamic equilibrium—its level
+does not change, although water is continuously flowing through it.
+Figure 7. Constant outflow, inflow turned on after 5 minutes, and the resulting changes
+in the stock of water in the tub.
+
+Imagine turning the inflow on somewhat harder while keeping the outflow
+constant. The level of water in the tub slowly rises. If you then turn the inflow
+faucet down again to match the outflow exactly, the water in the tub will stop
+rising. Turn it down some more, and the water level will fall slowly.
+This model of a bathtub is a very simple system with just one stock, one
+inflow, and one outflow. Over the time period of interest (minutes), I have
+assumed that evaporation from the tub is insignificant, so I have not included
+that outflow. All models, whether mental models or mathematical models, are
+simplifications of the real world. You know all the dynamic possibilities of this
+bathtub. From it you can deduce several important principles that extend to
+more complicated systems:
+As long as the sum of all inflows exceeds the sum of all
+outflows, the level of the stock will rise.
+As long as the sum of all outflows exceeds the sum of all
+inflows, the level of the stock will fall.
+If the sum of all outflows equals the sum of all inflows, the
+stock level will not change; it will be held in dynamic
+equilibrium at whatever level it happened to be when the two
+sets of flows became equal.
+The human mind seems to focus more easily on stocks than on flows. On top
+of that, when we do focus on flows, we tend to focus on inflows more easily
+than on outflows. Therefore, we sometimes miss seeing that we can fill a
+bathtub not only by increasing the inflow rate, but also by decreasing the
+outflow rate. Everyone understands that you can prolong the life of an oil-based
+economy by discovering new oil deposits. It seems to be harder to understand
+that the same result can be achieved by burning less oil. A breakthrough in
+energy efficiency is equivalent, in its effect on the stock of available oil, to the
+discovery of a new oil field—although different people profit from it.
+A stock can be increased by decreasing
+its outflow rate as well as by increasing
+its inflow rate. There’s more than one way
+to fill a bathtub!
+Similarly, a company can build up a larger workforce by more hiring, or it can
+do the same thing by reducing the rates of quitting and firing. These two
+strategies may have very different costs. The wealth of a nation can be boosted
+by investment to build up a larger stock of factories and machines. It also can be
+boosted, often more cheaply, by decreasing the rate at which factories and
+machines wear out, break down, or are discarded.
+
+You can adjust the drain or faucet of a bathtub—the flows—abruptly, but it is
+much more difficult to change the level of water—the stock—quickly. Water
+can’t run out the drain instantly, even if you open the drain all the way. The tub
+can’t fill up immediately, even with the inflow faucet on full blast. A stock takes
+time to change, because flows take time to flow. That’s a vital point, a key to
+understanding why systems behave as they do. Stocks usually change slowly.
+They can act as delays, lags, buffers, ballast, and sources of momentum in a
+system. Stocks, especially large ones, respond to change, even sudden change,
+only by gradual filling or emptying.
+Stocks generally change slowly, even when
+the flows into or out of them change
+suddenly. Therefore, stocks act as delays
+or
+buffers
+or
+shock
+absorbers
+in
+systems.
+People often underestimate the inherent momentum of a stock. It takes a long
+time for populations to grow or stop growing, for wood to accumulate in a
+forest, for a reservoir to fill up, for a mine to be depleted. An economy cannot
+build up a large stock of functioning factories and highways and electric plants
+overnight, even if a lot of money is available. Once an economy has a lot of oil-
+burning furnaces and automobile engines, it cannot change quickly to furnaces
+and engines that burn a different fuel, even if the price of oil suddenly changes.
+It has taken decades to accumulate the stratospheric pollutants that destroy the
+earth’s ozone layer; it will take decades for those pollutants to be removed.
+Changes in stocks set the pace of the dynamics of systems. Industrialization
+cannot proceed faster than the rate at which factories and machines can be
+constructed and the rate at which human beings can be educated to run and
+maintain them. Forests can’t grow overnight. Once contaminants have
+accumulated in groundwater, they can be washed out only at the rate of
+groundwater turnover, which may take decades or even centuries.
+The time lags that come from slowly changing stocks can cause problems in
+systems, but they also can be sources of stability. Soil that has accumulated over
+centuries rarely erodes all at once. A population that has learned many skills
+doesn’t forget them immediately. You can pump groundwater faster than the rate
+it recharges for a long time before the aquifer is drawn down far enough to be
+damaged. The time lags imposed by stocks allow room to maneuver, to
+experiment, and to revise policies that aren’t working.
+If you have a sense of the rates of change of stocks, you don’t expect things to
+happen faster than they can happen. You don’t give up too soon. You can use the
+opportunities presented by a system’s momentum to guide it toward a good
+
+outcome—much as a judo expert uses the momentum of an opponent to achieve
+his or her own goals.
+There is one more important principle about the role of stocks in systems, a
+principle that will lead us directly to the concept of feedback. The presence of
+stocks allows inflows and outflows to be independent of each other and
+temporarily out of balance with each other.
+Stocks allow inflows and outflows to be
+decoupled and to be independent and
+temporarily out of balance with each other.
+It would be hard to run an oil company if gasoline had to be produced at the
+refinery at exactly the rate the cars were burning it. It isn’t feasible to harvest a
+forest at the precise rate at which the trees are growing. Gasoline in storage
+tanks and wood in the forest are both stocks that permit life to proceed with
+some certainty, continuity, and predictability, even though flows vary in the
+short term.
+Human beings have invented hundreds of stock-maintaining mechanisms to
+make inflows and outflows independent and stable. Reservoirs enable residents
+and farmers downriver to live without constantly adjusting their lives and work
+to a river’s varying flow, especially its droughts and floods. Banks enable you
+temporarily to earn money at a rate different from how you spend. Inventories of
+products along a chain from distributors to wholesalers to retailers allow
+production to proceed smoothly although customer demand varies, and allow
+customer demand to be filled even though production rates vary.
+Most individual and institutional decisions are designed to regulate the levels
+in stocks. If inventories rise too high, then prices are cut or advertising budgets
+are increased, so that sales will go up and inventories will fall. If the stock of
+food in your kitchen gets low, you go to the store. As the stock of growing grain
+rises or fails to rise in the fields, farmers decide whether to apply water or
+pesticide, grain companies decide how many barges to book for the harvest,
+speculators bid on future values of the harvest, cattle growers build up or cut
+down their herds. Water levels in reservoirs cause all sorts of corrective actions
+if they rise too high or fall too low. The same can be said for the stock of money
+in your wallet, the oil reserves owned by an oil company, the pile of woodchips
+feeding a paper mill, and the concentration of pollutants in a lake.
+People monitor stocks constantly and make decisions and take actions
+designed to raise or lower stocks or to keep them within acceptable ranges.
+Those decisions add up to the ebbs and flows, successes and problems, of all
+sorts of systems. Systems thinkers see the world as a collection of stocks along
+
+with the mechanisms for regulating the levels in the stocks by manipulating
+flows.
+That means system thinkers see the world as a collection of “feedback
+processes.”
+How the System Runs Itself—Feedback
+Systems of information-feedback control are fundamental to all life
+and human endeavor, from the slow pace of biological evolution to
+the launching of the latest space satellite.… Everything we do as
+individuals, as an industry, or as a society is done in the context of
+an information-feedback system.
+—Jay W. Forrester3
+When a stock grows by leaps and bounds or declines swiftly or is held within a
+certain range no matter what else is going on around it, it is likely that there is a
+control mechanism at work. In other words, if you see a behavior that persists
+over time, there is likely a mechanism creating that consistent behavior. That
+mechanism operates through a feedback loop. It is the consistent behavior
+pattern over a long period of time that is the first hint of the existence of a
+feedback loop.
+A feedback loop is formed when changes in a stock affect the flows into or
+out of that same stock. A feedback loop can be quite simple and direct. Think of
+an interest-bearing savings account in a bank. The total amount of money in the
+account (the stock) affects how much money comes into the account as interest.
+That is because the bank has a rule that the account earns a certain percent
+interest each year. The total dollars of interest paid into the account each year
+(the flow in) is not a fixed amount, but varies with the size of the total in the
+account.
+You experience another fairly direct kind of feedback loop when you get your
+bank statement for your checking account each month. As your level of
+available cash in the checking account (a stock) goes down, you may decide to
+work more hours and earn more money. The money entering your bank account
+is a flow that you can adjust in order to increase your stock of cash to a more
+desirable level. If your bank account then grows very large, you may feel free to
+work less (decreasing the inflow). This kind of feedback loop is keeping your
+level of cash available within a range that is acceptable to you. You can see that
+adjusting your earnings is not the only feedback loop that works on your stock
+of cash. You also may be able to adjust the outflow of money from your account,
+for example. You can imagine an outflow-adjusting feedback loop for spending.
+
+Feedback loops can cause stocks to maintain their level within a range or
+grow or decline. In any case, the flows into or out of the stock are adjusted
+because of changes in the size of the stock itself. Whoever or whatever is
+monitoring the stock’s level begins a corrective process, adjusting rates of
+inflow or outflow (or both) and so changing the stock’s level. The stock level
+feeds back through a chain of signals and actions to control itself.
+Figure 8. How to read a stock-and-flow diagram with feedback loops. Each diagram
+distinguishes the stock, the flow that changes the stock, and the information link (shown
+as a thin, curved arrow) that directs the action. It emphasizes that action or change
+always proceeds through adjusting flows.
+Not all systems have feedback loops. Some systems are relatively simple
+open-ended chains of stocks and flows. The chain may be affected by outside
+factors, but the levels of the chain’s stocks don’t affect its flows. However, those
+systems that contain feedback loops are common and may be quite elegant or
+rather surprising, as we shall see.
+A feedback loop is a closed chain of
+causal
+connections
+from
+a
+stock,
+through a set of decisions or rules or
+physical
+laws
+or
+actions
+that
+are
+dependent on the level of the stock, and
+back again through a flow to change the
+stock.
+
+Stabilizing Loops—Balancing Feedback
+One common kind of feedback loop stabilizes the stock level, as in the
+checking-account example. The stock level may not remain completely fixed,
+but it does stay within an acceptable range. What follows are some more
+stabilizing feedback loops that may be familiar to you. These examples start to
+detail some of the steps within a feedback loop.
+Figure 9. Energy level of a coffee drinker.
+If you’re a coffee drinker, when you feel your energy level run low, you may
+grab a cup of hot black stuff to perk you up again. You, as the coffee drinker,
+hold in your mind a desired stock level (energy for work). The purpose of this
+caffeine-delivery system is to keep your actual stock level near or at your
+desired level. (You may have other purposes for drinking coffee as well:
+enjoying the flavor or engaging in a social activity.) It is the gap, the
+discrepancy, between your actual and desired levels of energy for work that
+drives your decisions to adjust your daily caffeine intake.
+Notice that the labels in Figure 9, like all the diagram labels in this book, are
+direction-free. The label says “stored energy in body” not “low energy level,”
+“coffee intake” not “more coffee.” That’s because feedback loops often can
+operate in two directions. In this case, the feedback loop can correct an
+oversupply as well as an undersupply. If you drink too much coffee and find
+yourself bouncing around with extra energy, you’ll lay off the caffeine for a
+while. High energy creates a discrepancy that says “too much,” which then
+causes you to reduce your coffee intake until your energy level settles down.
+The diagram is intended to show that the loop works to drive the stock of energy
+in either direction.
+I could have shown the inflow of energy coming from a cloud, but instead I
+made the system diagram slightly more complicated. Remember—all system
+diagrams are simplifications of the real world. We each choose how much
+
+complexity to look at. In this example, I drew another stock—the stored energy
+in the body that can be activated by the caffeine. I did that to indicate that there
+is more to the system than one simple loop. As every coffee drinker knows,
+caffeine is only a short-term stimulant. It lets you run your motor faster, but it
+doesn’t refill your personal fuel tank. Eventually the caffeine high wears off,
+leaving the body more energy-deficient than it was before. That drop could
+reactivate the feedback loop and generate another trip to the coffee pot. (See the
+discussion of addiction later in this book.) Or it could activate some longer-term
+and healthier feedback responses: Eat some food, take a walk, get some sleep.
+This kind of stabilizing, goal-seeking, regulating loop is called a balancing
+feedback loop, so I put a B inside the loop in the diagram. Balancing feedback
+loops are goal-seeking or stability-seeking. Each tries to keep a stock at a given
+value or within a range of values. A balancing feedback loop opposes whatever
+direction of change is imposed on the system. If you push a stock too far up, a
+balancing loop will try to pull it back down. If you shove it too far down, a
+balancing loop will try to bring it back up.
+Here’s another balancing feedback loop that involves coffee, but one that
+works through physical law rather than human decision. A hot cup of coffee will
+gradually cool down to room temperature. Its rate of cooling depends on the
+difference between the temperature of the coffee and the temperature of the
+room. The greater the difference, the faster the coffee will cool. The loop works
+the other way too—if you make iced coffee on a hot day, it will warm up until it
+has the same temperature as the room. The function of this system is to bring the
+discrepancy between coffee’s temperature and room’s temperature to zero, no
+matter what the direction of the discrepancy.
+Figure 10. A cup of coffee cooling (left) or warming (right).
+Starting with coffee at different temperatures, from just below boiling to just
+above freezing, the graphs in Figure 11 show what will happen to the
+temperature over time (if you don’t drink the coffee). You can see here the
+“homing” behavior of a balancing feedback loop. Whatever the initial value of
+the system stock (coffee temperature in this case), whether it is above or below
+
+the “goal” (room temperature), the feedback loop brings it toward the goal. The
+change is faster at first, and then slower, as the discrepancy between the stock
+and the goal decreases.
+Figure 11. Coffee temperature as it approaches a room temperature of 18°C.
+This behavior pattern—gradual approach to a system-defined goal— also can
+be seen when a radioactive element decays, when a missile finds its target, when
+an asset depreciates, when a reservoir is brought up or down to its desired level,
+when your body adjusts its blood-sugar concentration, when you pull your car to
+a stop at a stoplight. You can think of many more examples. The world is full of
+goal-seeking feedback loops.
+Balancing
+feedback
+loops
+are
+equilibrating or goal-seeking structures
+in systems and are both sources of
+stability and sources of resistance to
+change.
+The presence of a feedback mechanism doesn’t necessarily mean that the
+mechanism works well. The feedback mechanism may not be strong enough to
+bring the stock to the desired level. Feedbacks—the interconnections, the
+information part of the system—can fail for many reasons. Information can
+arrive too late or at the wrong place. It can be unclear or incomplete or hard to
+interpret. The action it triggers may be too weak or delayed or resource-
+constrained or simply ineffective. The goal of the feedback loop may never be
+reached by the actual stock. But in the simple example of a cup of coffee, the
+drink eventually will reach room temperature.
+
+Runaway Loops—Reinforcing Feedback
+I’d need rest to refresh my brain, and to get rest it’s necessary to
+travel, and to travel one must have money, and in order to get money
+you have to work.… I am in a vicious circle … from which it is
+impossible to escape.
+—Honoré Balzac,4 19th century novelist and playwright
+Here we meet a very important feature. It would seem as if this were
+circular reasoning; profits fell because investment fell, and
+investment fell because profits fell.
+—Jan Tinbergen,5 economist
+The second kind of feedback loop is amplifying, reinforcing, self-multiplying,
+snowballing—a vicious or virtuous circle that can cause healthy growth or
+runaway destruction. It is called a reinforcing feedback loop, and will be noted
+with an R in the diagrams. It generates more input to a stock the more that is
+already there (and less input the less that is already there). A reinforcing
+feedback loop enhances whatever direction of change is imposed on it.
+For example:
+When we were kids, the more my brother pushed me, the more I
+pushed him back, so the more he pushed me back, so the more I
+pushed him back.
+The more prices go up, the more wages have to go up if people
+are to maintain their standards of living. The more wages go up,
+the more prices have to go up to maintain profits. This means
+that wages have to go up again, so prices go up again.
+The more rabbits there are, the more rabbit parents there are to
+make baby rabbits. The more baby rabbits there are, the more
+grow up to become rabbit parents, to have even more baby
+rabbits.
+The more soil is eroded from the land, the less plants are able to
+grow, so the fewer roots there are to hold the soil, so the more
+soil is eroded, so less plants can grow.
+The more I practice piano, the more pleasure I get from the
+sound, and so the more I play the piano, which gives me more
+practice.
+Reinforcing loops are found wherever a system element has the ability to
+reproduce itself or to grow as a constant fraction of itself. Those elements
+include populations and economies. Remember the example of the interest-
+bearing bank account? The more money you have in the bank, the more interest
+
+you earn, which is added to the money already in the bank, where it earns even
+more interest.
+Figure 12. Interest-bearing bank account.
+Figure 13 shows how this reinforcing loop multiplies money, starting with
+$100 in the bank, and assuming no deposits and no withdrawals over a period of
+twelve years. The five lines show five different interest rates, from 2 percent to
+10 percent per year.
+Figure 13. Growth in savings with various interest rates.
+This is not simple linear growth. It is not constant over time. The growth of
+the bank account at lower interest rates may look linear in the first few years.
+But, in fact, growth goes faster and faster. The more is there, the more is added.
+This kind of growth is called “exponential.” It’s either good news or bad news,
+depending on what is growing—money in the bank, people with HIV/AIDS,
+pests in a cornfield, a national economy, or weapons in an arms race.
+Reinforcing feedback loops are self-
+enhancing,
+leading
+to
+exponential
+growth or to runaway collapses over
+
+time. They are found whenever a stock has
+the capacity to reinforce or reproduce itself.
+In Figure 14, the more machines and factories (collectively called “capital”)
+you have, the more goods and services (“output”) you can produce. The more
+output you can produce, the more you can invest in new machines and factories.
+The more you make, the more capacity you have to make even more. This
+reinforcing feedback loop is the central engine of growth in an economy.
+Figure 14. Reinvestment in capital.
+By now you may be seeing how basic balancing and reinforcing feedback
+loops are to systems. Sometimes I challenge my students to try to think of any
+human decision that occurs without a feedback loop—that is, a decision that is
+made without regard to any information about the level of the stock it
+influences. Try thinking about that yourself. The more you do, the more you’ll
+begin to see feedback loops everywhere.
+The most common “non-feedback” decisions students suggest are falling in
+love and committing suicide. I’ll leave it to you to decide whether you think
+these are actually decisions made with no feedback involved.
+HINT ON REINFORCING LOOPS AND DOUBLING TIME
+Because we bump into reinforcing loops so often, it is handy
+to know this shortcut: The time it takes for an exponentially
+growing stock to double in size, the “doubling time,” equals
+approximately 70 divided by the growth rate (expressed as a
+percentage).
+Example: If you put $100 in the bank at 7% interest per
+year, you will double your money in 10 years (70 ÷ 7 = 10). If
+
+you get only 5% interest, your money will take 14 years to
+double.
+Watch out! If you see feedback loops everywhere, you’re already in danger of
+becoming a systems thinker! Instead of seeing only how A causes B, you’ll
+begin to wonder how B may also influence A—and how A might reinforce or
+reverse itself. When you hear in the nightly news that the Federal Reserve Bank
+has done something to control the economy, you’ll also see that the economy
+must have done something to affect the Federal Reserve Bank. When someone
+tells you that population growth causes poverty, you’ll ask yourself how poverty
+may cause population growth.
+THINK ABOUT THIS:
+If A causes B, is it possible that B also causes A?
+You’ll be thinking not in terms of a static world, but a dynamic one. You’ll
+stop looking for who’s to blame; instead you’ll start asking, “What’s the
+system?” The concept of feedback opens up the idea that a system can cause its
+own behavior.
+So far, I have limited this discussion to one kind of feedback loop at a time.
+Of course, in real systems feedback loops rarely come singly. They are linked
+together, often in fantastically complex patterns. A single stock is likely to have
+several reinforcing and balancing loops of differing strengths pulling it in
+several directions. A single flow may be adjusted by the contents of three or five
+or twenty stocks. It may fill one stock while it drains another and feeds into
+decisions that alter yet another. The many feedback loops in a system tug against
+each other, trying to make stocks grow, die off, or come into balance with each
+other. As a result, complex systems do much more than stay steady or explode
+exponentially or approach goals smoothly—as we shall see.
+
+* Definitions of words in bold face can be found in the Glossary.
+

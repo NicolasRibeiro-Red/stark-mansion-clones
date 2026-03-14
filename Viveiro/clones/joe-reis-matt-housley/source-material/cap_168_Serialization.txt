@@ -1,0 +1,45 @@
+# Serialization
+
+Paginas: 220-220
+
+Current CPUs virtually always employ the von Neumann architecture, with code and
+data stored together in the same memory space. However, CPUs typically also sup‐
+port the option to disable code execution in specific pages of memory for enhanced
+security. This feature is reminiscent of the Harvard architecture, which separates code
+and data.
+RAM is used in various storage and processing systems and can be used for caching,
+data processing, or indexes. Several databases treat RAM as a primary storage layer,
+allowing ultra-fast read and write performance. In these applications, data engineers
+must always keep in mind the volatility of RAM. Even if data stored in memory is
+replicated across a cluster, a power outage that brings down several nodes could cause
+data loss. Architectures intended to durably store data may use battery backups and
+automatically dump all data to disk in the event of power loss.
+Networking and CPU
+Why are we mentioning networking and CPU as raw ingredients for storing data?
+Increasingly, storage systems are distributed to enhance performance, durability, and
+availability. We mentioned specifically that individual magnetic disks offer relatively
+low-transfer performance, but a cluster of disks parallelizes reads for significant per‐
+formance scaling. While storage standards such as redundant arrays of independent
+disks (RAID) parallelize on a single server, cloud object storage clusters operate at
+a much larger scale, with disks distributed across a network and even multiple data
+centers and availability zones.
+Availability zones are a standard cloud construct consisting of compute environments
+with independent power, water, and other resources. Multizonal storage enhances
+both the availability and durability of data.
+CPUs handle the details of servicing requests, aggregating reads, and distributing
+writes. Storage becomes a web application with an API, backend service components,
+and load balancing. Network device performance and network topology are key
+factors in realizing high performance.
+Data engineers need to understand how networking will affect the systems they
+build and use. Engineers constantly balance the durability and availability achieved
+by spreading out data geographically versus the performance and cost benefits of
+keeping storage in a small geographic area and close to data consumers or writers.
+Appendix B covers cloud networking and major relevant ideas.
+Serialization
+Serialization is another raw storage ingredient and a critical element of database
+design. The decisions around serialization will inform how well queries perform
+across a network, CPU overhead, query latency, and more. Designing a data lake, for
+Raw Ingredients of Data Storage
+|
+195
+

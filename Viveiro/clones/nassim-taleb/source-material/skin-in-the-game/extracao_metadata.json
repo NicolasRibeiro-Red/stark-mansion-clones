@@ -1,0 +1,303 @@
+{
+  "titulo": "Arriscando a própria pele: Assimetrias ocultas no cotidiano",
+  "autor": "Nassim Nicholas Taleb",
+  "total_paginas": 256,
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "Folha de rosto",
+      "paginas": "2-1",
+      "arquivo": "cap_01_Folha_de_rosto.txt"
+    },
+    {
+      "numero": 2,
+      "titulo": "Capa",
+      "paginas": "2-3",
+      "arquivo": "cap_02_Capa.txt"
+    },
+    {
+      "numero": 3,
+      "titulo": "Sumário",
+      "paginas": "4-5",
+      "arquivo": "cap_03_Sumário.txt"
+    },
+    {
+      "numero": 4,
+      "titulo": "Livro I: Introdução",
+      "paginas": "6-10",
+      "arquivo": "cap_04_Livro_I_Introdução.txt"
+    },
+    {
+      "numero": 5,
+      "titulo": "Prólogo, Parte 1: Anteu assassinado",
+      "paginas": "11-19",
+      "arquivo": "cap_05_Prólogo_Parte_1_Anteu_assassinado.txt"
+    },
+    {
+      "numero": 6,
+      "titulo": "Prólogo, Parte 2: Um breve passeio pela simetria",
+      "paginas": "20-45",
+      "arquivo": "cap_06_Prólogo_Parte_2_Um_breve_passeio_pela_simetria.txt"
+    },
+    {
+      "numero": 7,
+      "titulo": "Prólogo, Parte 3: As costelas do projeto Incerto",
+      "paginas": "46-52",
+      "arquivo": "cap_07_Prólogo_Parte_3_As_costelas_do_projeto_Incerto.txt"
+    },
+    {
+      "numero": 8,
+      "titulo": "Apêndice: Assimetria na vida e nas coisas",
+      "paginas": "53-55",
+      "arquivo": "cap_08_Apêndice_Assimetria_na_vida_e_nas_coisas.txt"
+    },
+    {
+      "numero": 9,
+      "titulo": "Livro II: Um primeiro olhar sobre a agência",
+      "paginas": "56-56",
+      "arquivo": "cap_09_Livro_II_Um_primeiro_olhar_sobre_a_agência.txt"
+    },
+    {
+      "numero": 10,
+      "titulo": "1. Por que cada um deve comer as próprias tartarugas: igualdade na incerteza",
+      "paginas": "57-72",
+      "arquivo": "cap_10_1_Por_que_cada_um_deve_comer_as_próprias_tartaruga.txt"
+    },
+    {
+      "numero": 11,
+      "titulo": "Livro III: A maior das assimetrias",
+      "paginas": "73-73",
+      "arquivo": "cap_11_Livro_III_A_maior_das_assimetrias.txt"
+    },
+    {
+      "numero": 12,
+      "titulo": "2. O mais intolerante vence: o domínio da minoria teimosa",
+      "paginas": "74-94",
+      "arquivo": "cap_12_2_O_mais_intolerante_vence_o_domínio_da_minoria_te.txt"
+    },
+    {
+      "numero": 13,
+      "titulo": "Apêndice do livro III: Mais algumas coisas contraintuitivas sobre o coletivo",
+      "paginas": "95-98",
+      "arquivo": "cap_13_Apêndice_do_livro_III_Mais_algumas_coisas_contrain.txt"
+    },
+    {
+      "numero": 14,
+      "titulo": "Livro IV: Lobos entre cães",
+      "paginas": "99-99",
+      "arquivo": "cap_14_Livro_IV_Lobos_entre_cães.txt"
+    },
+    {
+      "numero": 15,
+      "titulo": "3. Como ser dono de outra pessoa legalmente",
+      "paginas": "100-114",
+      "arquivo": "cap_15_3_Como_ser_dono_de_outra_pessoa_legalmente.txt"
+    },
+    {
+      "numero": 16,
+      "titulo": "4. Arriscando a pele dos outros",
+      "paginas": "115-122",
+      "arquivo": "cap_16_4_Arriscando_a_pele_dos_outros.txt"
+    },
+    {
+      "numero": 17,
+      "titulo": "Livro V: Estar vivo significa assumir certos riscos",
+      "paginas": "123-123",
+      "arquivo": "cap_17_Livro_V_Estar_vivo_significa_assumir_certos_riscos.txt"
+    },
+    {
+      "numero": 18,
+      "titulo": "5. A vida na máquina de simulação",
+      "paginas": "124-128",
+      "arquivo": "cap_18_5_A_vida_na_máquina_de_simulação.txt"
+    },
+    {
+      "numero": 19,
+      "titulo": "6. O intelectual porém idiota",
+      "paginas": "129-133",
+      "arquivo": "cap_19_6_O_intelectual_porém_idiota.txt"
+    },
+    {
+      "numero": 20,
+      "titulo": "7. Igualdade e arriscar a própria pele",
+      "paginas": "134-146",
+      "arquivo": "cap_20_7_Igualdade_e_arriscar_a_própria_pele.txt"
+    },
+    {
+      "numero": 21,
+      "titulo": "8. Uma especialista chamada Lindy",
+      "paginas": "147-158",
+      "arquivo": "cap_21_8_Uma_especialista_chamada_Lindy.txt"
+    },
+    {
+      "numero": 22,
+      "titulo": "Livro VI: Agência adentro",
+      "paginas": "159-159",
+      "arquivo": "cap_22_Livro_VI_Agência_adentro.txt"
+    },
+    {
+      "numero": 23,
+      "titulo": "9. Cirurgiões não deveriam ter aparência de cirurgiões",
+      "paginas": "160-172",
+      "arquivo": "cap_23_9_Cirurgiões_não_deveriam_ter_aparência_de_cirurgi.txt"
+    },
+    {
+      "numero": 24,
+      "titulo": "10. Somente os ricos são envenenados: as preferências dos outros",
+      "paginas": "173-177",
+      "arquivo": "cap_24_10_Somente_os_ricos_são_envenenados_as_preferência.txt"
+    },
+    {
+      "numero": 25,
+      "titulo": "11. Facta non Verba (Agir antes de falar)",
+      "paginas": "178-184",
+      "arquivo": "cap_25_11_Facta_non_Verba_Agir_antes_de_falar.txt"
+    },
+    {
+      "numero": 26,
+      "titulo": "12. Os fatos são verdadeiros, a notícia é falsa",
+      "paginas": "185-190",
+      "arquivo": "cap_26_12_Os_fatos_são_verdadeiros_a_notícia_é_falsa.txt"
+    },
+    {
+      "numero": 27,
+      "titulo": "13. A mercantilização da virtude",
+      "paginas": "191-197",
+      "arquivo": "cap_27_13_A_mercantilização_da_virtude.txt"
+    },
+    {
+      "numero": 28,
+      "titulo": "14. Paz, nem tinta nem sangue",
+      "paginas": "198-205",
+      "arquivo": "cap_28_14_Paz_nem_tinta_nem_sangue.txt"
+    },
+    {
+      "numero": 29,
+      "titulo": "Livro VII: Religião, crença e arriscar a própria pele",
+      "paginas": "206-206",
+      "arquivo": "cap_29_Livro_VII_Religião_crença_e_arriscar_a_própria_pel.txt"
+    },
+    {
+      "numero": 30,
+      "titulo": "15. Eles não sabem do que estão falando quando falam de religião",
+      "paginas": "207-211",
+      "arquivo": "cap_30_15_Eles_não_sabem_do_que_estão_falando_quando_fala.txt"
+    },
+    {
+      "numero": 31,
+      "titulo": "16. Não há adoração sem que se arrisque a própria pele",
+      "paginas": "212-215",
+      "arquivo": "cap_31_16_Não_há_adoração_sem_que_se_arrisque_a_própria_p.txt"
+    },
+    {
+      "numero": 32,
+      "titulo": "17. O papa é ateu?",
+      "paginas": "216-218",
+      "arquivo": "cap_32_17_O_papa_é_ateu.txt"
+    },
+    {
+      "numero": 33,
+      "titulo": "Livro VIII: Risco e racionalidade",
+      "paginas": "219-219",
+      "arquivo": "cap_33_Livro_VIII_Risco_e_racionalidade.txt"
+    },
+    {
+      "numero": 34,
+      "titulo": "18. Como ser racional sobre a racionalidade",
+      "paginas": "220-228",
+      "arquivo": "cap_34_18_Como_ser_racional_sobre_a_racionalidade.txt"
+    },
+    {
+      "numero": 35,
+      "titulo": "19. A lógica de correr riscos",
+      "paginas": "229-241",
+      "arquivo": "cap_35_19_A_lógica_de_correr_riscos.txt"
+    },
+    {
+      "numero": 36,
+      "titulo": "Epílogo: O que Lindy me ensinou",
+      "paginas": "242-243",
+      "arquivo": "cap_36_Epílogo_O_que_Lindy_me_ensinou.txt"
+    },
+    {
+      "numero": 37,
+      "titulo": "Agradecimentos",
+      "paginas": "244-244",
+      "arquivo": "cap_37_Agradecimentos.txt"
+    },
+    {
+      "numero": 38,
+      "titulo": "Glossário",
+      "paginas": "245-248",
+      "arquivo": "cap_38_Glossário.txt"
+    },
+    {
+      "numero": 39,
+      "titulo": "Notas",
+      "paginas": "249-251",
+      "arquivo": "cap_39_Notas.txt"
+    },
+    {
+      "numero": 40,
+      "titulo": "Referências bibliográficas",
+      "paginas": "252-254",
+      "arquivo": "cap_40_Referências_bibliográficas.txt"
+    },
+    {
+      "numero": 41,
+      "titulo": "Sobre o autor",
+      "paginas": "255-255",
+      "arquivo": "cap_41_Sobre_o_autor.txt"
+    },
+    {
+      "numero": 42,
+      "titulo": "Créditos",
+      "paginas": "256-256",
+      "arquivo": "cap_42_Créditos.txt"
+    }
+  ],
+  "arquivos": [
+    "cap_01_Folha_de_rosto.txt",
+    "cap_02_Capa.txt",
+    "cap_03_Sumário.txt",
+    "cap_04_Livro_I_Introdução.txt",
+    "cap_05_Prólogo_Parte_1_Anteu_assassinado.txt",
+    "cap_06_Prólogo_Parte_2_Um_breve_passeio_pela_simetria.txt",
+    "cap_07_Prólogo_Parte_3_As_costelas_do_projeto_Incerto.txt",
+    "cap_08_Apêndice_Assimetria_na_vida_e_nas_coisas.txt",
+    "cap_09_Livro_II_Um_primeiro_olhar_sobre_a_agência.txt",
+    "cap_10_1_Por_que_cada_um_deve_comer_as_próprias_tartaruga.txt",
+    "cap_11_Livro_III_A_maior_das_assimetrias.txt",
+    "cap_12_2_O_mais_intolerante_vence_o_domínio_da_minoria_te.txt",
+    "cap_13_Apêndice_do_livro_III_Mais_algumas_coisas_contrain.txt",
+    "cap_14_Livro_IV_Lobos_entre_cães.txt",
+    "cap_15_3_Como_ser_dono_de_outra_pessoa_legalmente.txt",
+    "cap_16_4_Arriscando_a_pele_dos_outros.txt",
+    "cap_17_Livro_V_Estar_vivo_significa_assumir_certos_riscos.txt",
+    "cap_18_5_A_vida_na_máquina_de_simulação.txt",
+    "cap_19_6_O_intelectual_porém_idiota.txt",
+    "cap_20_7_Igualdade_e_arriscar_a_própria_pele.txt",
+    "cap_21_8_Uma_especialista_chamada_Lindy.txt",
+    "cap_22_Livro_VI_Agência_adentro.txt",
+    "cap_23_9_Cirurgiões_não_deveriam_ter_aparência_de_cirurgi.txt",
+    "cap_24_10_Somente_os_ricos_são_envenenados_as_preferência.txt",
+    "cap_25_11_Facta_non_Verba_Agir_antes_de_falar.txt",
+    "cap_26_12_Os_fatos_são_verdadeiros_a_notícia_é_falsa.txt",
+    "cap_27_13_A_mercantilização_da_virtude.txt",
+    "cap_28_14_Paz_nem_tinta_nem_sangue.txt",
+    "cap_29_Livro_VII_Religião_crença_e_arriscar_a_própria_pel.txt",
+    "cap_30_15_Eles_não_sabem_do_que_estão_falando_quando_fala.txt",
+    "cap_31_16_Não_há_adoração_sem_que_se_arrisque_a_própria_p.txt",
+    "cap_32_17_O_papa_é_ateu.txt",
+    "cap_33_Livro_VIII_Risco_e_racionalidade.txt",
+    "cap_34_18_Como_ser_racional_sobre_a_racionalidade.txt",
+    "cap_35_19_A_lógica_de_correr_riscos.txt",
+    "cap_36_Epílogo_O_que_Lindy_me_ensinou.txt",
+    "cap_37_Agradecimentos.txt",
+    "cap_38_Glossário.txt",
+    "cap_39_Notas.txt",
+    "cap_40_Referências_bibliográficas.txt",
+    "cap_41_Sobre_o_autor.txt",
+    "cap_42_Créditos.txt"
+  ]
+}

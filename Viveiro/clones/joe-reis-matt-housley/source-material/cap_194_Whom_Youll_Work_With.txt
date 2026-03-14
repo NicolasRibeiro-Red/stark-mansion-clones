@@ -1,0 +1,31 @@
+# Whom You’ll Work With
+
+Paginas: 252-252
+
+Figure 6-10. In single-tenant storage, each tenant gets their own database
+Separate data storage implies separate and independent schemas, bucket structures,
+and everything related to storage. This means you have the liberty of designing
+each tenant’s storage environment to be uniform or let them evolve however they
+may. Schema variation across customers can be an advantage and a complication;
+as always, consider the trade-offs. If each tenant’s schema isn’t uniform across all
+tenants, this has major consequences if you need to query multiple tenants’ tables to
+create a unified view of all tenant data.
+Multitenant storage allows for the storage of multiple tenants within a single data‐
+base. For example, instead of the single-tenant scenario where customers get their
+own database, multiple customers may reside in the same database schemas or tables
+in a multitenant database. Storing multitenant data means each tenant’s data is stored
+in the same place (Figure 6-11).
+Figure 6-11. In this multitenant storage, four tenants occupy the same database
+You need to be aware of querying both single and multitenant storage, which we
+cover in more detail in Chapter 8.
+Whom You’ll Work With
+Storage is at the heart of data engineering infrastructure. You’ll interact with the
+people who own your IT infrastructure—typically, DevOps, security, and cloud archi‐
+tects. Defining domains of responsibility between data engineering and other teams
+is critical. Do data engineers have the authority to deploy their infrastructure in an
+AWS account, or must another team handle these changes? Work with other teams to
+define streamlined processes so that teams can work together efficiently and quickly.
+Whom You’ll Work With
+|
+227
+

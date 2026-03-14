@@ -1,0 +1,76 @@
+# Application Databases (OLTP Systems)
+
+Paginas: 182-183
+
+In addition, files are a universal medium of data exchange. As much as data engineers
+wish that they could get data programmatically, much of the world still sends and
+receives files. For example, if you’re getting data from a government agency, there’s an
+excellent chance you’ll download the data as an Excel or CSV file or receive the file in
+an email.
+The main types of source file formats you’ll run into as a data engineer—files that
+originate either manually or as an output from a source system process—are Excel,
+CSV, TXT, JSON, and XML. These files have their quirks and can be structured
+(Excel, CSV), semistructured (JSON, XML, CSV), or unstructured (TXT, CSV).
+Although you’ll use certain formats heavily as a data engineer (such as Parquet, ORC,
+and Avro), we’ll cover these later and put the spotlight here on source system files.
+Chapter 6 covers the technical details of files.
+APIs
+Application programming interfaces (APIs) are a standard way of exchanging data
+between systems. In theory, APIs simplify the data ingestion task for data engineers.
+In practice, many APIs still expose a good deal of data complexity for engineers
+to manage. Even with the rise of various services and frameworks, and services
+for automating API data ingestion, data engineers must often invest a good deal of
+energy into maintaining custom API connections. We discuss APIs in greater detail
+later in this chapter.
+Application Databases (OLTP Systems)
+An application database stores the state of an application. A standard example is a
+database that stores account balances for bank accounts. As customer transactions
+and payments happen, the application updates bank account balances.
+Typically, an application database is an online transaction processing (OLTP) system—
+a database that reads and writes individual data records at a high rate. OLTP systems
+are often referred to as transactional databases, but this does not necessarily imply
+that the system in question supports atomic transactions.
+More generally, OLTP databases support low latency and high concurrency. An
+RDBMS database can select or update a row in less than a millisecond (not account‐
+ing for network latency) and handle thousands of reads and writes per second. A
+document database cluster can manage even higher document commit rates at the
+expense of potential inconsistency. Some graph databases can also handle transac‐
+tional use cases.
+Fundamentally, OLTP databases work well as application backends when thousands
+or even millions of users might be interacting with the application simultaneously,
+Source Systems: Main Ideas
+|
+157
+
+updating and writing data concurrently. OLTP systems are less suited to use cases
+driven by analytics at scale, where a single query must scan a vast amount of data.
+ACID
+Support for atomic transactions is one of a critical set of database characteristics
+known together as ACID (as you may recall from Chapter 3, this stands for atomicity,
+consistency, isolation, durability). Consistency means that any database read will return
+the last written version of the retrieved item. Isolation entails that if two updates are
+in flight concurrently for the same thing, the end database state will be consistent
+with the sequential execution of these updates in the order they were submitted.
+Durability indicates that committed data will never be lost, even in the event of power
+loss.
+Note that ACID characteristics are not required to support application backends,
+and relaxing these constraints can be a considerable boon to performance and scale.
+However, ACID characteristics guarantee that the database will maintain a consistent
+picture of the world, dramatically simplifying the app developer’s task.
+All engineers (data or otherwise) must understand operating with and without ACID.
+For instance, to improve performance, some distributed databases use relaxed consis‐
+tency constraints, such as eventual consistency, to improve performance. Understand‐
+ing the consistency model you’re working with helps you prevent disasters.
+Atomic transactions
+An atomic transaction is a set of several changes that are committed as a unit. In
+the example in Figure 5-2, a traditional banking application running on an RDBMS
+executes a SQL statement that checks two account balances, one in Account A (the
+source) and another in Account B (the destination). Money is then moved from
+Account A to Account B if sufficient funds are in Account A. The entire transaction
+should run with updates to both account balances or fail without updating either
+account balance. That is, the whole operation should happen as a transaction.
+Figure 5-2. Example of an atomic transaction: a bank account transfer using OLTP
+158
+|
+Chapter 5: Data Generation in Source Systems
+

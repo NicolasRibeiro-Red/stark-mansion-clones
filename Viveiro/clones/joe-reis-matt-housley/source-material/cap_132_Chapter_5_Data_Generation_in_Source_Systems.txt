@@ -1,0 +1,20 @@
+# Chapter 5. Data Generation in Source Systems
+
+Paginas: 180-180
+
+CHAPTER 5
+Data Generation in Source Systems
+Welcome to the first stage of the data engineering lifecycle: data generation in source
+systems. As we described earlier, the job of a data engineer is to take data from source
+systems, do something with it, and make it helpful in serving downstream use cases.
+But before you get raw data, you must understand where the data exists, how it is
+generated, and its characteristics and quirks.
+This chapter covers some popular operational source system patterns and the signifi‐
+cant types of source systems. Many source systems exist for data generation, and we’re
+not exhaustively covering them all. We’ll consider the data these systems generate and
+things you should consider when working with source systems. We also discuss how
+the undercurrents of data engineering apply to this first phase of the data engineering
+lifecycle (Figure 5-1).
+Figure 5-1. Source systems generate the data for the rest of the data engineering lifecycle
+155
+

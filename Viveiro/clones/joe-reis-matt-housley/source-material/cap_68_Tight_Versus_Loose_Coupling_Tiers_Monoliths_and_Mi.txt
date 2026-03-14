@@ -1,0 +1,134 @@
+# Tight Versus Loose Coupling: Tiers, Monoliths, and Microservices
+
+Paginas: 115-118
+
+Figure 3-4. A simple horizontal distributed system utilizing a leader-follower architec‐
+ture, with one leader node and three worker nodes
+Tight Versus Loose Coupling: Tiers, Monoliths, and Microservices
+When designing a data architecture, you choose how much interdependence you
+want to include within your various domains, services, and resources. On one end
+of the spectrum, you can choose to have extremely centralized dependencies and
+workflows. Every part of a domain and service is vitally dependent upon every other
+domain and service. This pattern is known as tightly coupled.
+On the other end of the spectrum, you have decentralized domains and services that
+do not have strict dependence on each other, in a pattern known as loose coupling.
+In a loosely coupled scenario, it’s easy for decentralized teams to build systems whose
+data may not be usable by their peers. Be sure to assign common standards, owner‐
+ship, responsibility, and accountability to the teams owning their respective domains
+and services. Designing “good” data architecture relies on trade-offs between the tight
+and loose coupling of domains and services.
+It’s worth noting that many of the ideas in this section originate in software develop‐
+ment. We’ll try to retain the context of these big ideas’ original intent and spirit—
+keeping them agnostic of data—while later explaining some differences you should be
+aware of when applying these concepts to data specifically.
+Architecture tiers
+As you develop your architecture, it helps to be aware of architecture tiers. Your
+architecture has layers—data, application, business logic, presentation, and so forth
+—and you need to know how to decouple these layers. Because tight coupling of
+modalities presents obvious vulnerabilities, keep in mind how you structure the
+layers of your architecture to achieve maximum reliability and flexibility. Let’s look at
+single-tier and multitier architecture.
+Single tier. In a single-tier architecture, your database and application are tightly
+coupled, residing on a single server (Figure 3-5). This server could be your laptop
+or a single virtual machine (VM) in the cloud. The tightly coupled nature means if
+90
+|
+Chapter 3: Designing Good Data Architecture
+
+the server, the database, or the application fails, the entire architecture fails. While
+single-tier architectures are good for prototyping and development, they are not
+advised for production environments because of the obvious failure risks.
+Figure 3-5. Single-tier architecture
+Even when single-tier architectures build in redundancy (for example, a failover
+replica), they present significant limitations in other ways. For instance, it is often
+impractical (and not advisable) to run analytics queries against production applica‐
+tion databases. Doing so risks overwhelming the database and causing the application
+to become unavailable. A single-tier architecture is fine for testing systems on a local
+machine but is not advised for production uses.
+Multitier. The challenges of a tightly coupled single-tier architecture are solved by
+decoupling the data and application. A multitier (also known as n-tier) architecture
+is composed of separate layers: data, application, business logic, presentation, etc.
+These layers are bottom-up and hierarchical, meaning the lower layer isn’t necessarily
+dependent on the upper layers; the upper layers depend on the lower layers. The
+notion is to separate data from the application, and application from the presentation.
+A common multitier architecture is a three-tier architecture, a widely used client-
+server design. A three-tier architecture consists of data, application logic, and presen‐
+tation tiers (Figure 3-6). Each tier is isolated from the other, allowing for separation of
+concerns. With a three-tier architecture, you’re free to use whatever technologies you
+prefer within each tier without the need to be monolithically focused.
+Figure 3-6. A three-tier architecture
+Major Architecture Concepts
+|
+91
+
+We’ve seen many single-tier architectures in production. Single-tier architectures
+offer simplicity but also severe limitations. Eventually, an organization or application
+outgrows this arrangement; it works well until it doesn’t. For instance, in a single-tier
+architecture, the data and logic layers share and compete for resources (disk, CPU,
+and memory) in ways that are simply avoided in a multitier architecture. Resources
+are spread across various tiers. Data engineers should use tiers to evaluate their
+layered architecture and the way dependencies are handled. Again, start simple and
+bake in evolution to additional tiers as your architecture becomes more complex.
+In a multitier architecture, you need to consider separating your layers and the
+way resources are shared within layers when working with a distributed system.
+Distributed systems under the hood power many technologies you’ll encounter across
+the data engineering lifecycle. First, think about whether you want resource conten‐
+tion with your nodes. If not, exercise a shared-nothing architecture: a single node
+handles each request, meaning other nodes do not share resources such as memory,
+disk, or CPU with this node or with each other. Data and resources are isolated to the
+node. Alternatively, various nodes can handle multiple requests and share resources
+but at the risk of resource contention. Another consideration is whether nodes should
+share the same disk and memory accessible by all nodes. This is called a shared disk
+architecture and is common when you want shared resources if a random node failure
+occurs.
+Monoliths
+The general notion of a monolith includes as much as possible under one roof; in its
+most extreme version, a monolith consists of a single codebase running on a single
+machine that provides both the application logic and user interface.
+Coupling within monoliths can be viewed in two ways: technical coupling and
+domain coupling. Technical coupling refers to architectural tiers, while domain cou‐
+pling refers to the way domains are coupled together. A monolith has varying degrees
+of coupling among technologies and domains. You could have an application with
+various layers decoupled in a multitier architecture but still share multiple domains.
+Or, you could have a single-tier architecture serving a single domain.
+The tight coupling of a monolith implies a lack of modularity of its components.
+Swapping out or upgrading components in a monolith is often an exercise in trading
+one pain for another. Because of the tightly coupled nature, reusing components
+across the architecture is difficult or impossible. When evaluating how to improve
+a monolithic architecture, it’s often a game of whack-a-mole: one component is
+improved, often at the expense of unknown consequences with other areas of the
+monolith.
+Data teams will often ignore solving the growing complexity of their monolith, letting
+it devolve into a big ball of mud.
+92
+|
+Chapter 3: Designing Good Data Architecture
+
+Chapter 4 provides a more extensive discussion comparing monoliths to distributed
+technologies. We also discuss the distributed monolith, a strange hybrid that emerges
+when engineers build distributed systems with excessive tight coupling.
+Microservices
+Compared with the attributes of a monolith—interwoven services, centralization, and
+tight coupling among services—microservices are the polar opposite. Microservices
+architecture comprises separate, decentralized, and loosely coupled services. Each
+service has a specific function and is decoupled from other services operating within
+its domain. If one service temporarily goes down, it won’t affect the ability of other
+services to continue functioning.
+A question that comes up often is how to convert your monolith into many micro‐
+services (Figure 3-7). This completely depends on how complex your monolith is
+and how much effort it will be to start extracting services out of it. It’s entirely
+possible that your monolith cannot be broken apart, in which case, you’ll want
+to start creating a new parallel architecture that has the services decoupled in a
+microservices-friendly manner. We don’t suggest an entire refactor but instead break
+out services. The monolith didn’t arrive overnight and is a technology issue as an
+organizational one. Be sure you get buy-in from stakeholders of the monolith if you
+plan to break it apart.
+Figure 3-7. An extremely monolithic architecture runs all functionality inside a single
+codebase, potentially colocating a database on the same host server
+If you’d like to learn more about breaking apart a monolith, we suggest reading the
+fantastic, pragmatic guide Software Architecture: The Hard Parts by Neal Ford et al.
+(O’Reilly).
+Major Architecture Concepts
+|
+93
+

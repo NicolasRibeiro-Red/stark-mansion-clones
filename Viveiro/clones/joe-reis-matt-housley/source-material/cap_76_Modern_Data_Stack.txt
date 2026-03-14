@@ -1,0 +1,43 @@
+# Modern Data Stack
+
+Paginas: 128-128
+
+introduced the notion of a data lakehouse. The lakehouse incorporates the controls,
+data management, and data structures found in a data warehouse while still housing
+data in object storage and supporting a variety of query and transformation engines.
+In particular, the data lakehouse supports atomicity, consistency, isolation, and dura‐
+bility (ACID) transactions, a big departure from the original data lake, where you
+simply pour in data and never update or delete it. The term data lakehouse suggests a
+convergence between data lakes and data warehouses.
+The technical architecture of cloud data warehouses has evolved to be very similar to
+a data lake architecture. Cloud data warehouses separate compute from storage, sup‐
+port petabyte-scale queries, store a variety of unstructured data and semistructured
+objects, and integrate with advanced processing technologies such as Spark or Beam.
+We believe that the trend of convergence will only continue. The data lake and the
+data warehouse will still exist as different architectures. In practice, their capabilities
+will converge so that few users will notice a boundary between them in their day-to-
+day work. We now see several vendors offering data platforms that combine data
+lake and data warehouse capabilities. From our perspective, AWS, Azure, Google
+Cloud, Snowflake, and Databricks are class leaders, each offering a constellation of
+tightly integrated tools for working with data, running the gamut from relational to
+completely unstructured. Instead of choosing between a data lake or data warehouse
+architecture, future data engineers will have the option to choose a converged data
+platform based on a variety of factors, including vendor, ecosystem, and relative
+openness.
+Modern Data Stack
+The modern data stack (Figure 3-13) is currently a trendy analytics architecture
+that highlights the type of abstraction we expect to see more widely used over the
+next several years. Whereas past data stacks relied on expensive, monolithic toolsets,
+the main objective of the modern data stack is to use cloud-based, plug-and-play,
+easy-to-use, off-the-shelf components to create a modular and cost-effective data
+architecture. These components include data pipelines, storage, transformation, data
+management/governance, monitoring, visualization, and exploration. The domain is
+still in flux, and the specific tools are changing and evolving rapidly, but the core aim
+will remain the same: to reduce complexity and increase modularization. Note that
+the notion of a modern data stack integrates nicely with the converged data platform
+idea from the previous section.
+Figure 3-13. Basic components of the modern data stack
+Examples and Types of Data Architecture
+|
+103
+

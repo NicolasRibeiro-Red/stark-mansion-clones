@@ -1,0 +1,44 @@
+# What You’ll Learn and How It Will Improve Your Abilities
+
+Paginas: 20-20
+
+Prerequisites
+We assume a good deal of familiarity with the types of data systems found in a
+corporate setting. In addition, we assume that readers have some familiarity with
+SQL and Python (or some other programming language), and experience with cloud
+services.
+Numerous resources are available for aspiring data engineers to practice Python and
+SQL. Free online resources abound (blog posts, tutorial sites, YouTube videos), and
+many new Python books are published every year.
+The cloud provides unprecedented opportunities to get hands-on experience with
+data tools. We suggest that aspiring data engineers set up accounts with cloud services
+such as AWS, Azure, Google Cloud Platform, Snowflake, Databricks, etc. Note that
+many of these platforms have free tier options, but readers should keep a close eye on
+costs and work with small quantities of data and single node clusters as they study.
+Developing familiarity with corporate data systems outside of a corporate environ‐
+ment remains difficult, and this creates certain barriers for aspiring data engineers
+who have yet to land their first data job. This book can help. We suggest that
+data novices read for high-level ideas and then look at materials in the Additional
+Resources section at the end of each chapter. On a second read through, note any
+unfamiliar terms and technologies. You can utilize Google, Wikipedia, blog posts,
+YouTube videos, and vendor sites to become familiar with new terms and fill gaps in
+your understanding.
+What You’ll Learn and How It Will Improve Your Abilities
+This book aims to help you build a solid foundation for solving real-world data
+engineering problems.
+By the end of this book you will understand:
+• How data engineering impacts your current role (data scientist, software engi‐
+•
+neer, or data team lead)
+• How to cut through the marketing hype and choose the right technologies, data
+•
+architecture, and processes
+• How to use the data engineering lifecycle to design and build a robust
+•
+architecture
+• Best practices for each stage of the data lifecycle
+•
+Preface
+|
+xv
+

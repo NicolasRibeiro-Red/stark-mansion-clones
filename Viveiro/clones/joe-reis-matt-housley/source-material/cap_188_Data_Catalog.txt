@@ -1,0 +1,43 @@
+# Data Catalog
+
+Paginas: 243-243
+
+Big Ideas and Trends in Storage
+In this section, we’ll discuss some big ideas in storage—key considerations that you
+need to keep in mind as you build out your storage architecture. Many of these
+considerations are part of larger trends. For example, data catalogs fit under the
+trend toward “enterprisey” data engineering and data management. Separation of
+compute from storage is now largely an accomplished fact in cloud data systems.
+And data sharing is an increasingly important consideration as businesses adopt data
+technology.
+Data Catalog
+A data catalog is a centralized metadata store for all data across an organization.
+Strictly speaking, a data catalog is not a top-level data storage abstraction, but it
+integrates with various systems and abstractions. Data catalogs typically work across
+operational and analytics data sources, integrate data lineage and presentation of data
+relationships, and allow user editing of data descriptions.
+Data catalogs are often used to provide a central place where people can view their
+data, queries, and data storage. As a data engineer, you’ll likely be responsible for
+setting up and maintaining the various data integrations of data pipeline and storage
+systems that will integrate with the data catalog and the integrity of the data catalog
+itself.
+Catalog application integration
+Ideally, data applications are designed to integrate with catalog APIs to handle their
+metadata and updates directly. As catalogs are more widely used in an organization, it
+becomes easier to approach this ideal.
+Automated scanning
+In practice, cataloging systems typically need to rely on an automated scanning layer
+that collects metadata from various systems such as data lakes, data warehouses, and
+operational databases. Data catalogs can collect existing metadata and may also use
+scanning tools to infer metadata such as key relationships or the presence of sensitive
+data.
+Data portal and social layer
+Data catalogs also typically provide a human access layer through a web interface,
+where users can search for data and view data relationships. Data catalogs can be
+enhanced with a social layer offering Wiki functionality. This allows users to provide
+information on their datasets, request information from other users, and post updates
+as they become available.
+218
+|
+Chapter 6: Storage
+

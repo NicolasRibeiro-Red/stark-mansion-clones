@@ -1,0 +1,45 @@
+# Data Sharing
+
+Paginas: 201-201
+
+Webhooks
+Webhooks are a simple event-based data-transmission pattern. The data source can be
+an application backend, a web page, or a mobile app. When specified events happen
+in the source system, this triggers a call to an HTTP endpoint hosted by the data
+consumer. Notice that the connection goes from the source system to the data sink,
+the opposite of typical APIs. For this reason, webhooks are often called reverse APIs.
+The endpoint can do various things with the POST event data, potentially triggering
+a downstream process or storing the data for future use. For analytics purposes, we’re
+interested in collecting these events. Engineers commonly use message queues to
+ingest data at high velocity and volume. We will talk about message queues and event
+streams later in this chapter.
+RPC and gRPC
+A remote procedure call (RPC) is commonly used in distributed computing. It allows
+you to run a procedure on a remote system.
+gRPC is a remote procedure call library developed internally at Google in 2015 and
+later released as an open standard. Its use at Google alone would be enough to merit
+inclusion in our discussion. Many Google services, such as Google Ads and GCP,
+offer gRPC APIs. gRPC is built around the Protocol Buffers open data serialization
+standard, also developed by Google.
+gRPC emphasizes the efficient bidirectional exchange of data over HTTP/2. Efficiency
+refers to aspects such as CPU utilization, power consumption, battery life, and band‐
+width. Like GraphQL, gRPC imposes much more specific technical standards than
+REST, thus allowing the use of common client libraries and allowing engineers to
+develop a skill set that will apply to any gRPC interaction code.
+Data Sharing
+The core concept of cloud data sharing is that a multitenant system supports security
+policies for sharing data among tenants. Concretely, any public cloud object storage
+system with a fine-grained permission system can be a platform for data sharing.
+Popular cloud data-warehouse platforms also support data-sharing capabilities. Of
+course, data can also be shared through download or exchange over email, but a
+multitenant system makes the process much easier.
+Many modern sharing platforms (especially cloud data warehouses) support row,
+column, and sensitive data filtering. Data sharing also streamlines the notion of
+the data marketplace, available on several popular clouds and data platforms. Data
+marketplaces provide a centralized location for data commerce, where data providers
+can advertise their offerings and sell them without worrying about the details of
+managing network access to data systems.
+176
+|
+Chapter 5: Data Generation in Source Systems
+

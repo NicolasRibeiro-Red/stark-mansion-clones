@@ -1,0 +1,158 @@
+# Agradecimentos
+
+Paginas: 408-412
+
+Agradecimentos
+Como eu disse no prefácio, o enorme prazer que tive na escrita deste livro foi
+inesperado, e espero que o leitor tenha sentido o mesmo. Eu gostaria de
+agradecer aos seguintes amigos.
+Acumulei uma enorme dívida de gratidão para com Peter Bevelin, um erudito
+e puro “pensador realizador” dotado de extrema curiosidade, que passa suas
+horas de vigília no encalço de ideias e localizando os artigos que geralmente estou
+procurando; ele esquadrinhou minuciosamente o texto. Yechezkel Zilber, um
+autodidata sedento por ideias baseado em Jerusalém que vê o mundo ab ovo,
+“desde o ovo”, fez perguntas muito difíceis, a ponto de me deixar com vergonha
+da educação formal que recebi e constrangido por não ser um verdadeiro
+autodidata como ele — é graças a pessoas diretas e objetivas que estou
+fundamentando minha ideia do Cisne Negro no libertarismo acadêmico. O
+acadêmico Philip Tetlock, que sabe mais sobre previsão do que qualquer outra
+pessoa desde os tempos de Delfos, leu o manuscrito de cabo a rabo e esmiuçou
+meus argumentos. Phil é tão valioso e meticuloso que foi ainda mais informativo
+com a ausência de comentários do que com seus comentários. Tenho uma grande
+dívida para com Danny Kahneman que, além das longas conversas acerca da
+natureza humana (e notando, horrorizado, que eu me lembrava de quase todos os
+comentários), colocou-me em contato com o Phil Tetlock. Agradeço a Maya Bar
+Hillel por me convidar para falar aos membros da Society of Judgment and
+Decision Making [Sociedade de Julgamento e Tomada de Decisão] em sua
+reunião anual em Toronto, em novembro de 2005 — graças à generosidade dos
+pesquisadores que encontrei por lá, e às estimulantes discussões, voltei trazendo
+na bagagem muito mais do que eu havia levado. Robert Shiller me pediu para
+eliminar alguns comentários “irreverentes”; no entanto, o fato de ele ter criticado
+a agressividade do formato, mas não o conteúdo, foi bastante informativo.
+
+Mariagiovanna Muso foi a primeira a tomar consciência do efeito Cisne Negro
+nas artes e me colocou no caminho certo, apontando as linhas de pesquisa em
+sociologia e antropologia que eu deveria seguir. Tive longos debates com o
+acadêmico literário Mihai Spariosu sobre Platão, Balzac, inteligência ecológica e
+cafés em Bucareste. Didier Sornette, sempre a um telefonema de distância,
+manteve minha caixa de e-mails abastecida com um ﬂuxo constante de artigos
+sobre vários temas pouco alardeados, mas extremamente relevantes, em física
+estatística. Jean-Philippe Bouchaud ofereceu grande ajuda sobre os problemas
+associados à estatística de grandes desvios. Com base nas ideias do capítulo 8,
+Michael Allen escreveu uma monograﬁa para escritores que desejam ser
+publicados — posteriormente reescrevi o capítulo 8 pelos olhos de um escritor
+examinando seu quinhão na vida. Mark Blyth, cujas opiniões valeram como um
+ﬁel da balança para minhas ideias, sempre foi um leitor e conselheiro prestativo.
+Meus amigos na DoD, Andy Marshall e Andrew Mays, forneceram-me ideias e
+perguntas. Paul Solman, uma mente voraz, examinou o manuscrito com rigoroso
+escrutínio. Devo o termo Extremistão a Chris Anderson, que considerou minha
+designação anterior livresca demais. Nigel Harvey me guiou através da literatura
+sobre previsões.
+Minha batelada de perguntas importunou os seguintes cientistas: Terry
+Burnham, Robert Trivers, Robyn Dawes, Peter Ayton, Scott Atran, Dan
+Goldstein, Alexander Reisz, Art De Vany, Raphael Douady, Piotr Zielonka, Gur
+Huberman, Elkhonon Goldberg e Dan Sperber. Ed Thorp, o verdadeiro dono
+vivo da “fórmula de Black-Scholes” foi prestativo; percebi, falando com ele, que
+os economistas ignoram produções intelectuais fora de seu clubinho — mesmo
+que sejam valiosas. Lorenzo Perilli foi extremamente generoso com seus
+comentários acerca de Menódoto e me ajudou a corrigir alguns erros. Duncan
+Watts permitiu que eu apresentasse a parte  deste livro em um seminário de
+sociologia da Universidade Columbia e compilasse toda sorte de comentários.
+David Cowan forneceu o gráﬁco na discussão sobre Poincaré, empalidecendo o
+meu pela comparação. Também me beneﬁciei dos maravilhosos textos curtos de
+James Montier sobre a natureza humana. Bruno Dupire, como sempre,
+proporciona as melhores conversas durante caminhadas.
+Não vale a pena ser o amigo leal de um escritor agressivo e muito apegado a
+seu manuscrito. Coube a Marie-Christine Riachi a ingrata tarefa de ler capítulos
+em ordem inversa; entreguei a ela apenas as partes incompletas e, dentre elas,
+apenas aquelas que (naquele momento) evidentemente careciam de clareza. Jamil
+Baz sempre recebeu o texto completo, mas optava por lê-lo de trás para a frente.
+
+Laurence Zuri leu e comentou cada um dos capítulos. Philip Halperin, que sabe
+mais sobre gerenciamento de riscos do que qualquer outra pessoa (ainda) viva,
+fez comentários e observações maravilhosos. Outras vítimas: Cyrus Pirasteh,
+Bernard Oppetit, Pascal Boulard, Guy Riviere, Joelle Weiss, Didier Javice,
+Andreea Munteanu, Andrei Pokrovsky, Philippe Asseily, Farid Karkaby, George
+Nasr, Alina Stefan, George Martin, Stan Jonas e Flavia Cymbalista. Agradeço
+também a Linda Eckstein e Justin Fox (pelo gráﬁco do mercado), bem como Paul
+Kaju, Martin Pomp e Lea Beresford.
+Recebi comentários úteis do intelectual voraz Paul Solman (que examinou o
+manuscrito com um microscópio). Devo muito a Phil Rosenczweig, Avishai
+Margalit, Peter Forbes, Michael Schrage, Driss Ben Brahim, Vinay Pande, Antony
+Van Couvering, Nicholas Vardy, Brian Hinchclie, Aaron Brown, Espen Haug,
+Neil Chriss, Zvika Aﬁk, Shaiy Pilpel, Paul Kedrosky, Reid Bernstein, Claudia
+Schmid, Jay Leonard, Shellwyn Weston, Tony Glickman, Paul Johnson, Chidem
+Kurdas (e os economistas austríacos da `), Charles Babbitt, além de tantas
+outras pessoas anônimas das quais me esqueci…1
+Ralph Gomory e Jesse Ausubel, da Fundação Sloan, dirigem um programa de
+ﬁnanciamento de pesquisas chamado “O conhecido, o desconhecido e o
+incognoscível”. Eles ofereceram sua ajuda moral e ﬁnanceira para a promoção de
+minhas ideias — aceitei a inestimável opção moral. Agradeço também a meus
+parceiros de negócios, coautores e colegas intelectuais: Espen Haug, Mark
+Spitznagel, Benoît Mandelbrot, Tom Witz, Paul Wilmott, Avital Pilpel e Emanuel
+Derman. Agradeço também a John Brockman e Katinka Matson por tornarem
+este livro possível, e a Max Brockman por seus comentários sobre o esboço do
+projeto. Agradeço a Cindy, Sarah e Alexander pela tolerância. Além disso,
+Alexander ajudou com os gráﬁcos e Sarah trabalhou na bibliograﬁa. Mark
+Fandetti, Mark Horowitz, Bruce Waxman, Spiros Makridakis, Jack Schwagger e
+Elie Ayache ajudaram a consertar os erros tipográﬁcos mais técnicos. Os leitores
+Jonathan Skinner, Harry Thayer e David Evans ajudaram a corrigir erros técnicos
+e factuais. Agradeço a Linda Eckstein e Justin Fox por sugerirem a Mandelbrot e
+a mim o gráﬁco do wp500.
+Tentei dar ao meu editor, Will Murphy, a impressão de ser um autor
+insuportavelmente teimoso, apenas para descobrir que tive a sorte de ele ser um
+editor igualmente teimoso (embora escondesse isso muito bem). Ele me protegeu
+das intromissões de editores padronizadores. Eles têm uma extraordinária
+habilidade de inﬂigir o máximo de estragos quebrando o ritmo interno da prosa
+com o mínimo de mudanças. Além disso, Will M. é um festeiro do melhor tipo.
+
+Também me senti lisonjeado por Daniel Menaker ter se dado ao trabalho de
+editar meu texto. Agradeço ainda a Janet Wygal e Steven Meyers. Os membros da
+equipe da Random House foram afáveis e prestativos — mas nunca se
+acostumaram com meus trotes telefônicos (por exemplo, tentando me passar por
+Bernard-Henri Lévy). Um dos pontos altos da minha carreira de escritor foi um
+longo almoço com William Goodlad, meu editor na Penguin, e Stefan McGrath,
+o diretor-administrativo do grupo. De súbito percebi que não conseguia separar o
+contador de histórias dentro de mim do pensador cientíﬁco; na verdade, a
+história surgiu primeiro na minha mente, e não na forma de uma ilustração do
+conceito concebida a posteriori.
+A parte  deste livro inspirou minhas aulas na Universidade de Massachusetts
+em Amherst. Agradeço a Dean Tom O’Brien por seu apoio e encorajamento. Ele
+adorava me ver dar uma sacudida nos alunos de doutorado doutrinados.
+Agradeço também à minha segunda casa, o Instituto Courant de Ciências
+Matemáticas da Universidade de Nova York, por me permitir lecionar lá durante
+três quartos de década.
+É lamentável que uma pessoa aprenda mais com aqueles de quem discorda —
+algo que Montaigne estimulou meio milênio atrás, mas que raramente é
+praticado. Descobri que isso submete nossos argumentos a um robusto
+amadurecimento, já que sabemos que essas pessoas identiﬁcarão até mesmo a
+mais ínﬁma falha — e obtemos informações sobre os limites das teorias delas,
+bem como sobre as fraquezas de nossas próprias teorias. Tentei ser mais gentil
+com meus detratores do que com meus amigos — sobretudo aqueles que foram (e
+continuaram sendo) civilizados. Assim, ao longo da minha carreira, aprendi
+alguns truques em uma série de debates públicos, troca de correspondências e
+discussões com Robert C. Merton, Steve Ross, Myron Scholes, Philippe Jorion e
+dezenas de outros (embora, a não ser pelas críticas de Elie Ayache, a última vez
+que ouvi um argumento remotamente novo contra minhas ideias tenha sido em
+1994). Esses debates foram valiosos, pois eu estava à procura da extensão dos
+contra-argumentos à minha ideia do Cisne Negro e tentando entender de que
+modo meus detratores pensam — ou aquilo em que não pensaram. Ao longo dos
+anos acabei lendo mais material escrito por aqueles de quem discordo do que por
+aqueles de cujas opiniões compartilho — li mais Samuelson do que Hayek, mais
+Merton (o mais jovem) do que Merton (o mais velho), mais Hegel do que
+Montaigne e mais Descartes do que Sexto. É dever de todo autor representar as
+ideias de seus adversários com a máxima ﬁdelidade possível.
+
+Minha maior realização na vida é ter conseguido fazer amizades, a exemplo de
+Elie Ayache e Jim Gatheral, apesar de algumas discordâncias intelectuais.
+A maior parte deste livro foi escrita durante um período peripatético em que
+me livrei de (quase) todas as obrigações de negócios, rotinas e pressões da vida
+proﬁssional e ﬁz caminhadas urbanas meditativas em várias cidades, onde dei
+uma série de palestras sobre a ideia do Cisne Negro.2 Escrevi principalmente em
+cafés — minha preferência sempre foi por cafés caindo aos pedaços (mas
+elegantes) em bairros comuns, tão despoluídos quanto possível de pessoas do
+mundo dos negócios. Também passei muito tempo no Terminal 4 do Aeroporto
+de Heathrow, em Londres, de tal modo absorto em minha escrita a ponto de
+esquecer minha alergia à presença dos estressados homens de negócios ao meu
+redor.
+

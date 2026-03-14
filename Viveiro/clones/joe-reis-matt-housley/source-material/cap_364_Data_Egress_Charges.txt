@@ -1,0 +1,30 @@
+# Data Egress Charges
+
+Paginas: 424-424
+
+1 Matthew Prince and Nitin Rao, “AWS’s Egregious Egress,” The Cloudflare Blog, July 23, 2021,
+https://oreil.ly/NZqKa.
+APPENDIX B
+Cloud Networking
+This appendix discusses some factors data engineers should consider about network‐
+ing in the cloud. Data engineers frequently encounter networking in their careers and
+often ignore it despite its importance.
+Cloud Network Topology
+A cloud network topology describes how various components in the cloud are
+arranged and connected, such as cloud services, networks, locations (zones, regions),
+and more. Data engineers should always know how cloud network topology will
+affect connectivity across the data systems they build. Microsoft Azure, Google
+Cloud Platform (GCP), and Amazon Web Services (AWS) all use remarkably similar
+resource hierarchies of availability zones and regions. At the time of this writing,
+GCP has added one additional layer, discussed in “GCP-Specific Networking and
+Multiregional Redundancy” on page 401.
+Data Egress Charges
+Chapter 4 discusses cloud economics and how actual provider costs don’t necessarily
+drive cloud pricing. Regarding networking, clouds allow inbound traffic for free
+but charge for outbound traffic to the internet. Outbound traffic is not inherently
+cheaper, but clouds use this method to create a moat around their services and
+increase the stickiness of stored data, a practice that has been widely criticized.1 Note
+that data egress charges can also apply to data passing between availability zones and
+regions within a cloud.
+399
+

@@ -1,0 +1,44 @@
+# Machine Learning
+
+Paginas: 374-374
+
+Performance for embedded analytics encompasses three problems. First, app users
+are not as tolerant of infrequent batch processing as internal company analysts; users
+of a recruiting SaaS platform may expect to see a change in their statistics as soon
+as they upload a new resume. Users want low data latency. Second, users of data
+apps expect fast query performance. When they adjust parameters in an analytics
+dashboard, they want to see refreshed results appear in seconds. Third, data apps
+must often support extremely high query rates across many dashboards and numer‐
+ous customers. High concurrency is critical.
+Google and other early major players in the data apps space developed exotic
+technologies to cope with these challenges. For new startups, the default is to use
+conventional transactional databases for data applications. As their customer bases
+expand, they outgrow their initial architecture. They have access to a new generation
+of databases that combine high performance—fast queries, high concurrency, and
+near real-time updates—with relative ease of use (e.g., SQL-based analytics).
+Machine Learning
+The second major area for serving data is machine learning. ML is increasingly
+common, so we’ll assume you’re at least familiar with the concept. With the rise of
+ML engineering (itself almost a parallel universe to data engineering), you might ask
+yourself where a data engineer fits into the picture.
+Admittedly, the boundary between ML, data science, data engineering, and ML
+engineering is increasingly fuzzy, and this boundary varies dramatically between
+organizations. In some organizations, ML engineers take over data processing for ML
+applications right after data collection or may even form an entirely separate and
+parallel data organization that handles the entire lifecycle for all ML applications.
+Data engineers handle all data processing in other settings and then hand off data to
+ML engineers for model training. Data engineers may even handle some extremely
+ML-specific tasks, such as featurization of data.
+Let’s return to our example of quality for control of running shorts produced by
+an online retailer. Suppose that streaming data has been implemented in the factory
+that makes the raw fabric stock for the shorts. Data scientists discovered that the
+quality of the manufactured fabric is susceptible to characteristics of the input raw
+polyester, temperature, humidity, and various tunable parameters of the loom that
+weaves the fabric. Data scientists develop a basic model to optimize loom parameters.
+ML engineers automate model training and set up a process to automatically tune the
+loom based on input parameters. Data and ML engineers work together to design a
+featurization pipeline, and data engineers implement and maintain the pipeline.
+Machine Learning
+|
+349
+

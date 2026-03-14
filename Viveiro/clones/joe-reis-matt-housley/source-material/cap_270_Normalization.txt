@@ -1,0 +1,303 @@
+# Normalization
+
+Paginas: 315-318
+
+5 For more details on the DRY principle, see The Pragmatic Programmer by David Thomas and Andrew Hunt
+(Addison-Wesley Professional, 2019).
+Another important consideration for data modeling is the grain of the data, which is
+the resolution at which data is stored and queried. The grain is typically at the level
+of a primary key in a table, such as customer ID, order ID, and product ID; it’s often
+accompanied by a date or timestamp for increased fidelity.
+For example, suppose that a company has just begun to deploy BI reporting. The
+company is small enough that the same person is filling the role of data engineer
+and analyst. A request comes in for a report that summarizes daily customer orders.
+Specifically, the report should list all customers who ordered, the number of orders
+they placed that day, and the total amount they spent.
+This report is inherently coarse-grained. It contains no details on spending per order
+or the items in each order. It is tempting for the data engineer/analyst to ingest data
+from the production orders database and boil it down to a reporting table with only
+the basic aggregated data required for the report. However, this would entail starting
+over when a request comes in for a report with finer-grained data aggregation.
+Since the data engineer is actually quite experienced, they elect to create tables with
+detailed data on customer orders, including each order, item, item cost, item IDs,
+etc. Essentially, their tables contain all details on customer orders. The data’s grain
+is at the customer-order level. This customer-order data can be analyzed as is, or
+aggregated for summary statistics on customer order activity.
+In general, you should strive to model your data at the lowest level of grain possible.
+From here, it’s easy to aggregate this highly granular dataset. The reverse isn’t true,
+and it’s generally impossible to restore details that have been aggregated away.
+Normalization
+Normalization is a database data modeling practice that enforces strict control over
+the relationships of tables and columns within a database. The goal of normalization
+is to remove the redundancy of data within a database and ensure referential integrity.
+Basically, it’s don’t repeat yourself (DRY) applied to data in a database.5
+Normalization is typically applied to relational databases containing tables with rows
+and columns (we use the terms column and field interchangeably in this section). It
+was first introduced by relational database pioneer Edgar Codd in the early 1970s.
+290
+|
+Chapter 8: Queries, Modeling, and Transformation
+
+6 E. F. Codd, “Further Normalization of the Data Base Relational Model,” IBM Research Laboratory (1971),
+https://oreil.ly/Muajm.
+Codd outlined four main objectives of normalization:6
+• To free the collection of relations from undesirable insertion, update, and dele‐
+•
+tion dependencies
+• To reduce the need for restructuring the collection of relations, as new types of
+•
+data are introduced, and thus increase the lifespan of application programs
+• To make the relational model more informative to users
+•
+• To make the collection of relations neutral to the query statistics, where these
+•
+statistics are liable to change as time goes by
+Codd introduced the idea of normal forms. The normal forms are sequential, with
+each form incorporating the conditions of prior forms. We describe Codd’s first three
+normal forms here:
+Denormalized
+No normalization. Nested and redundant data is allowed.
+First normal form (1NF)
+Each column is unique and has a single value. The table has a unique primary
+key.
+Second normal form (2NF)
+The requirements of 1NF, plus partial dependencies are removed.
+Third normal form (3NF)
+The requirements of 2NF, plus each table contains only relevant fields related to
+its primary key and has no transitive dependencies.
+It’s worth spending a moment to unpack a couple of terms we just threw at you. A
+unique primary key is a single field or set of multiple fields that uniquely determines
+rows in the table. Each key value occurs at most once; otherwise, a value would map
+to multiple rows in the table. Thus, every other value in a row is dependent on (can
+be determined from) the key. A partial dependency occurs when a subset of fields in
+a composite key can be used to determine a nonkey column of the table. A transitive
+dependency occurs when a nonkey field depends on another nonkey field.
+Let’s look at stages of normalization—from denormalized to 3NF—using an ecom‐
+merce example of customer orders (Table 8-1). We’ll provide concrete explanations of
+each of the concepts introduced in the previous paragraph.
+Data Modeling
+|
+291
+
+Table 8-1. OrderDetail
+OrderID
+OrderItems
+CustomerID
+CustomerName
+OrderDate
+100
+[{
+"sku": 1,
+"price": 50,
+"quantity": 1,
+"name:": "Thingamajig"
+}, {
+"sku": 2,
+"price": 25,
+"quantity": 2,
+"name:": "Whatchamacallit"
+}]
+5
+Joe Reis
+2022-03-01
+First, this denormalized OrderDetail table contains five fields. The primary key is
+OrderID. Notice that the OrderItems field contains a nested object with two SKUs
+along with their price, quantity, and name.
+To convert this data to 1NF, let’s move OrderItems into four fields (Table 8-2). Now
+we have an OrderDetail table in which fields do not contain repeats or nested data.
+Table 8-2. OrderDetail without repeats or nested data
+OrderID
+Sku
+Price
+Quantity
+ProductName
+CustomerID
+CustomerName
+OrderDate
+100
+1
+50
+1
+Thingamajig
+5
+Joe Reis
+2022-03-01
+100
+2
+25
+2
+Whatchamacallit
+5
+Joe Reis
+2022-03-01
+The problem is that now we don’t have a unique primary key. That is, 100 occurs in
+the OrderID column in two different rows. To get a better grasp of the situation, let’s
+look at a larger sample from our table (Table 8-3).
+Table 8-3. OrderDetail with a larger sample
+OrderID
+Sku
+Price
+Quantity
+ProductName
+CustomerID
+CustomerName
+OrderDate
+100
+1
+50
+1
+Thingamajig
+5
+Joe Reis
+2022-03-01
+100
+2
+25
+2
+Whatchamacallit
+5
+Joe Reis
+2022-03-01
+101
+3
+75
+1
+Whozeewhatzit
+7
+Matt Housley
+2022-03-01
+102
+1
+50
+1
+Thingamajig
+7
+Matt Housley
+2022-03-01
+To create a unique primary (composite) key, let’s number the lines in each order by
+adding a column called LineItemNumber (Table 8-4).
+292
+|
+Chapter 8: Queries, Modeling, and Transformation
+
+Table 8-4. OrderDetail with LineItemNumber column
+Order
+ID
+LineItem
+Number
+Sku
+Price
+Quantity
+Product
+Name
+Customer
+ID
+Customer
+Name
+OrderDate
+100
+1
+1
+50
+1
+Thingama
+jig
+5
+Joe Reis
+2022-03-01
+100
+2
+2
+25
+2
+Whatchama
+callit
+5
+Joe Reis
+2022-03-01
+101
+1
+3
+75
+1
+Whozee
+whatzit
+7
+Matt
+Housley
+2022-03-01
+102
+1
+1
+50
+1
+Thingama
+jig
+7
+Matt
+Housley
+2022-03-01
+The composite key (OrderID, LineItemNumber) is now a unique primary key.
+To reach 2NF, we need to ensure that no partial dependencies exist. A partial depend‐
+ency is a nonkey column that is fully determined by a subset of the columns in
+the unique primary (composite) key; partial dependencies can occur only when the
+primary key is composite. In our case, the last three columns are determined by
+order number. To fix this problem, let’s split OrderDetail into two tables: Orders and
+OrderLineItem (Tables 8-5 and 8-6).
+Table 8-5. Orders
+OrderID
+CustomerID
+CustomerName
+OrderDate
+100
+5
+Joe Reis
+2022-03-01
+101
+7
+Matt Housley
+2022-03-01
+102
+7
+Matt Housley
+2022-03-01
+Table 8-6. OrderLineItem
+OrderID
+LineItemNumber
+Sku
+Price
+Quantity
+ProductName
+100
+1
+1
+50
+1
+Thingamajig
+100
+2
+2
+25
+2
+Whatchamacallit
+101
+1
+3
+75
+1
+Whozeewhatzit
+102
+1
+1
+50
+1
+Thingamajig
+The composite key (OrderID, LineItemNumber) is a unique primary key for Order
+LineItem, while OrderID is a primary key for Orders.
+Notice that Sku determines ProductName in OrderLineItem. That is, Sku depends on
+the composite key, and ProductName depends on Sku. This is a transitive dependency.
+Let’s break OrderLineItem into OrderLineItem and Skus (Tables 8-7 and 8-8).
+Data Modeling
+|
+293
+

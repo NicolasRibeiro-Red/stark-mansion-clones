@@ -1,0 +1,45 @@
+# Software Engineering
+
+Paginas: 358-358
+
+Data Architecture
+The general rules of good data architecture in Chapter 3 apply to the transformation
+stage. Build robust systems that can process and transform data without imploding.
+Your choices for ingestion and storage will directly impact your general architecture’s
+ability to perform reliable queries and transformations. If the ingestion and storage
+are appropriate to your query and transformation patterns, you should be in a great
+place. On the other hand, if your queries and transformations don’t work well with
+your upstream systems, you’re in for a world of pain.
+For example, we often see data teams using the wrong data pipelines and databases
+for the job. A data team might connect a real-time data pipeline to an RDBMS or
+Elasticsearch and use this as their data warehouse. These systems are not optimized
+for high-volume aggregated OLAP queries and will implode under this workload.
+This data team clearly didn’t understand how their architectural choices would
+impact query performance. Take the time to understand the trade-offs inherent
+in your architecture choices; be clear about how your data model will work with
+ingestion and storage systems and how queries will perform.
+Orchestration
+Data teams often manage their transformation pipelines using simple time-based
+schedules—e.g., cron jobs. This works reasonably well at first but turns into a night‐
+mare as workflows grow more complicated. Use orchestration to manage complex
+pipelines using a dependency-based approach. Orchestration is also the glue that
+allows us to assemble pipelines that span multiple systems.
+Software Engineering
+When writing transformation code, you can use many languages—such as SQL,
+Python, and JVM-based languages—platforms ranging from data warehouses to dis‐
+tributed computing clusters, and everything in between. Each language and platform
+has its strengths and quirks, so you should know the best practices of your tools. For
+example, you might write data transformations in Python, powered by a distributed
+system such as Spark or Dask. When running a data transformation, are you using a
+UDF when a native function might work much better? We’ve seen cases where poorly
+written, sluggish UDFs were replaced by a built-in SQL command, with instant and
+dramatic improvement in performance.
+The rise of analytics engineering brings software engineering practices to end users,
+with the notion of analytics as code. Analytics engineering transformation tools like
+dbt have exploded in popularity, giving analysts and data scientists the ability to write
+in-database transformations using SQL, without the direct intervention of a DBA or
+a data engineer. In this case, the data engineer is responsible for setting up the code
+Undercurrents
+|
+333
+

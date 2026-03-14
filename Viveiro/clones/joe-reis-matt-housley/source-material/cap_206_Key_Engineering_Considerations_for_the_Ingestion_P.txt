@@ -1,0 +1,52 @@
+# Key Engineering Considerations for the Ingestion Phase
+
+Paginas: 260-260
+
+A data pipeline is the combination of architecture, systems, and processes that move
+data through the stages of the data engineering lifecycle.
+Our definition is deliberately fluid—and intentionally vague—to allow data engineers
+to plug in whatever they need to accomplish the task at hand. A data pipeline could
+be a traditional ETL system, where data is ingested from an on-premises transactional
+system, passed through a monolithic processor, and written into a data warehouse. Or
+it could be a cloud-based data pipeline that pulls data from 100 sources, combines it
+into 20 wide tables, trains five other ML models, deploys them into production, and
+monitors ongoing performance. A data pipeline should be flexible enough to fit any
+needs along the data engineering lifecycle.
+Let’s keep this notion of data pipelines in mind as we proceed through this chapter.
+Key Engineering Considerations for the Ingestion Phase
+When preparing to architect or build an ingestion system, here are some primary
+considerations and questions to ask yourself related to data ingestion:
+• What’s the use case for the data I’m ingesting?
+•
+• Can I reuse this data and avoid ingesting multiple versions of the same dataset?
+•
+• Where is the data going? What’s the destination?
+•
+• How often should the data be updated from the source?
+•
+• What is the expected data volume?
+•
+• What format is the data in? Can downstream storage and transformation accept
+•
+this format?
+• Is the source data in good shape for immediate downstream use? That is, is the
+•
+data of good quality? What post-processing is required to serve it? What are
+data-quality risks (e.g., could bot traffic to a website contaminate the data)?
+• Does the data require in-flight processing for downstream ingestion if the data is
+•
+from a streaming source?
+These questions undercut batch and streaming ingestion and apply to the underlying
+architecture you’ll create, build, and maintain. Regardless of how often the data
+is ingested, you’ll want to consider these factors when designing your ingestion
+architecture:
+• Bounded versus unbounded
+•
+• Frequency
+•
+• Synchronous versus asynchronous
+•
+Key Engineering Considerations for the Ingestion Phase
+|
+235
+

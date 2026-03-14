@@ -1,0 +1,45 @@
+# DataOps
+
+Paginas: 357-357
+
+Finally, what impact does regulatory compliance have on your data model and trans‐
+formations? Are sensitive fields data masked or obfuscated if necessary? Do you have
+the ability to delete data in response to deletion requests? Does your data lineage
+tracking allow you to see data derived from deleted data and rerun transformations to
+remove data downstream of raw sources?
+DataOps
+With queries and transformations, DataOps has two areas of concern: data and
+systems. You need to monitor and be alerted for changes or anomalies in these
+areas. The field of data observability is exploding right now, with a big focus on
+data reliability. There’s even a recent job title called data reliability engineer. This
+section emphasizes data observability and data health, which focuses on the query
+and transformation stage.
+Let’s start with the data side of DataOps. When you query data, are the inputs and
+outputs correct? How do you know? If this query is saved to a table, is the schema
+correct? How about the shape of the data and related statistics such as min/max
+values, null counts, and more? You should run data-quality tests on the input datasets
+and the transformed dataset, which will ensure that the data meets the expectations of
+upstream and downstream users. If there’s a data-quality issue in the transformation,
+you should have the ability to flag this issue, roll back the changes, and investigate the
+root cause.
+Now let’s look at the Ops part of DataOps. How are the systems performing? Monitor
+metrics such as query queue length, query concurrency, memory usage, storage
+utilization, network latency, and disk I/O. Use metric data to spot bottlenecks and
+poor-performing queries that might be candidates for refactoring and tuning. If the
+query is perfectly fine, you’ll have a good idea of where to tune the database itself
+(for instance, by clustering a table for faster lookup performance). Or, you may need
+to upgrade the database’s compute resources. Today’s cloud and SaaS databases give
+you a ton of flexibility for quickly upgrading (and downgrading) your system. Take
+a data-driven approach and use your observability metrics to pinpoint whether you
+have a query or a systems-related issue.
+The shift toward SaaS-based analytical databases changes the cost profile of data
+consumption. In the days of on-premises data warehouses, the system and licenses
+were purchased up front, with no additional usage cost. Whereas traditional data
+engineers would focus on performance optimization to squeeze the maximum utility
+out of their expensive purchases, data engineers working with cloud data warehouses
+that charge on a consumption basis need to focus on cost management and cost
+optimization. This is the practice of FinOps (see Chapter 4).
+332
+|
+Chapter 8: Queries, Modeling, and Transformation
+

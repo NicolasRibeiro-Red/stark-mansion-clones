@@ -1,0 +1,121 @@
+# 6. Refinamento intelectual
+
+Paginas: 209-211
+
+Talvez não tenhamos consciência desse fenômeno, mas padecemos das formas e
+convenções que entorpecem nossa cultura. Esse problema, porém, cria ótimas oportunidades
+para os tipos criativos, como a demonstrada pelo exemplo de Martha Graham. O processo
+avança da seguinte maneira: você começa olhando para dentro. Descobre em seu interior
+algo a expressar que se destaca pela singularidade e que reٽete suas inclinações. É preciso se
+certiټcar de que não se trata de algo detonado por alguma tendência ou modismo, mas que
+vem de dentro de si mesmo e se manifesta com intensidade. Talvez seja um som que não se
+ouve na música em geral, ou uma história que ninguém conta ou um gênero literário que
+não se encaixa nas categorias convencionais. E até pode ser uma nova maneira de fazer
+negócios. Deixe que a ideia, o som ou a imagem criem raízes em seu interior. Depois que
+intuir a possibilidade de uma nova linguagem ou de uma nova forma de fazer as coisas, é
+preciso tomar a decisão consciente de combater as convenções que já estariam mortas e que,
+portanto, devem ser descartadas. Martha Graham não criou sua obra a partir do nada; o
+trabalho que desenvolveu correspondia ao que o balé e a dança moderna da época não lhe
+estavam oferecendo. Ela partiu das convenções e as virou de ponta-cabeça. A adoção dessa
+estratégia conferirá ao seu trabalho uma espécie de ponto de referência reverso e uma nova
+maneira de moldá-lo.
+Como Martha Graham, não se deve confundir inovação com espontaneidade sem controle.
+Nada se torna mais repetitivo e enfadonho tão rápido quanto a expressão sem raízes na
+realidade e na disciplina. É preciso fortalecer sua nova ideia com todo o conhecimento que
+você adquiriu em seu campo de atuação, mas com o propósito de reformá-lo, como Martha
+agiu com o método Denishawn. No fundo, o que se está fazendo é criar algum espaço em
+uma cultura congestionada, reivindicando para si um espaço aberto em que ټnalmente seja
+possível plantar algo novo. As pessoas anseiam pelo novo, pelo que expressa o espírito da
+época de modo original. Ao criar algo inédito, também se cria o próprio público, e alcança-se
+a posição máxima de poder na cultura.
+6. Refinamento intelectual
+Yoky Matsuoka (ver Capítulo 1) sempre teve a sensação de ser diferente dos outros. Não
+pela aparência física nem pelas roupas, mas, sim, por seus interesses. Durante a adolescência,
+vivida no Japão do começo da década de 1980, deveria se concentrar em algo que viria a ser
+sua carreira. No entanto, à medida que amadurecia, seus interesses apenas se ampliavam.
+Gostava de física e matemática, mas também era atraída por biologia e ټsiologia. Era atleta
+talentosa, promissora como tenista proټssional, até que uma lesão a afastou das competições.
+Acima de tudo, adorava trabalhar com as mãos e mexer em máquinas.
+Para seu alívio, ao iniciar os estudos de graduação na Universidade da Califórnia, em
+Berkeley, deparou com um tema que parecia abrir todos os tipos de questões que saciariam
+sua ânsia por uma ampla gama de conhecimentos – a robótica, uma tecnologia relativamente
+nova na época. Depois de se formar, ansiosa por explorar o assunto com mais profundidade,
+
+entrou no programa de mestrado em robótica do MIT. Parte de seu trabalho no
+departamento era ajudar no projeto de construção de um robô em grande escala, e logo
+optou por trabalhar exclusivamente com o desenho das mãos da máquina. Ela sempre fora
+fascinada pela complexidade e pela habilidade das mãos humanas. Com a chance de
+combinar tantos de seus interesses (matemática, ټsiologia e trabalhos manuais), parecia que
+encontrara enfim seu nicho.
+Ao começar o trabalho com as mãos, porém, mais uma vez se deu conta de como era
+diferente em sua maneira de pensar. Os outros alunos do departamento, na maioria homens,
+tendiam a reduzir tudo a questões de engenharia – como dotar o robô de tantas opções
+mecânicas quanto possível, para que ele pudesse se movimentar e agir de maneira
+razoavelmente humana. Pensavam no robô basicamente como uma máquina. Sua construção
+exigia resolver uma série de questões técnicas e criar uma espécie de computador móvel,
+capaz de imitar alguns padrões de pensamento básicos.
+A abordagem de Yoky era muito diferente. Ela queria criar algo o mais natural e
+anatomicamente correto possível. Esse seria o verdadeiro futuro da robótica, e realizar esse
+objetivo signiټcava se envolver em questões que se situavam em um nível muito mais
+elevado – o que transmite vida a alguma coisa e lhe confere complexidade organizacional?
+Para ela, era tão importante estudar evolução, ټsiologia humana e neurociência quanto
+mergulhar na engenharia. Talvez aquilo complicasse seu plano de carreira, mas ela seguiria
+suas próprias inclinações e veria para onde a levariam.
+Ao prosseguir com o projeto, Yoky tomou uma decisão-chave: começaria construindo um
+modelo de mão robótica que replicasse ao máximo a mão humana. No esforço para executar
+essa enorme tarefa, seria forçada a compreender o efetivo funcionamento de cada parte. Por
+exemplo, ao tentar recriar os vários ossos da mão, deparou com diversas saliências e
+reentrâncias que eram aparentemente irrelevantes. Os ossos e as articulações do dedo
+indicador, por exemplo, têm uma saliência que o torna maior em um lado. Ao estudar esse
+detalhe, descobriu sua função – dar-nos a capacidade de agarrar objetos no centro da mão
+com mais força. Parecia estranho que essa saliência tivesse sido desenvolvida pela evolução
+especiټcamente com esse propósito. Era provável que fosse alguma mutação que acabou
+sendo parte de nosso aprimoramento, na medida em que a mão se tornava cada vez mais
+importante para o progresso humano.
+Prosseguindo na mesma linha, passou a se concentrar na palma da mão robótica, o que
+concluíra ser, de muitas maneiras, o aspecto principal do projeto. Para a maioria dos
+engenheiros, a mão robótica devia ser projetada para produzir o máximo de força e de
+maneabilidade. Para isso, embutiam nela diversos mecanismos, mas, para fazê-la funcionar,
+também precisavam comprimir numerosos motores e cabos no lugar mais conveniente, a
+palma, tornando-a completamente rígida. Depois de projetar mãos dessa forma, passavam a
+bola para os engenheiros de soware, que tentavam resolver o problema da maneabilidade.
+No entanto, em consequência da rigidez da palma, o polegar nunca era capaz de tocar o
+
+mindinho, e os engenheiros sempre acabavam aceitando a mesma mão robótica altamente
+limitada.
+Yoky partiu do outro extremo. O objetivo dela era descobrir os fatores que contribuíam
+para a destreza das mãos, e não havia dúvida de que um dos requisitos críticos era a palma
+curva e ٽexível. Raciocinando nesse nível mais elevado, era evidente que os motores e cabos
+deveriam ser colocados em outro lugar. Em vez de entulhar toda a mão com esses
+mecanismos, para que tudo pudesse se movimentar ela concluiu que o mais importante
+componente da mão era o polegar, a chave de nossa capacidade de agarrar objetos. Era onde
+poria mais força.
+E prosseguiu nesse caminho, descobrindo cada vez mais detalhes que contribuíam para a
+maravilhosa mecânica da mão humana. Enquanto trabalhava dessa maneira peculiar, outros
+engenheiros debochavam dela e de sua estranha abordagem biológica. Que desperdício de
+tempo, diziam-lhe. No ټnal, porém, o que ela chamara de banco de testes anatomicamente
+correto logo se tornou o modelo para a indústria, revelando toda uma gama de
+possibilidades para próteses de mãos, validando sua abordagem e rendendo-lhe fama e
+reconhecimento pelas habilidades em engenharia.
+Isso foi, no entanto, apenas o começo de seu esforço para compreender a natureza orgânica
+da mão e, por ټm, para literalmente recriá-la. Depois do mestrado em robótica, voltou ao
+MIT para um ph.D. em neurociência. Hoje, com seu conhecimento profundo dos sinais
+nervosos que tornam a conexão entre mão e cérebro tão singular, ela persegue o objetivo de
+criar uma prótese de mão capaz de efetivamente conectar-se com o cérebro, funcionando e
+transmitindo sensações como se fosse real. Para tanto, continua a trabalhar com conceitos
+sofisticados, como a influência da conexão entre mão e cérebro sobre nossa forma de pensar.
+No laboratório, ela realizou testes para ver como as pessoas manipulam objetos ambíguos
+com os olhos fechados, estudando como os exploram com as mãos e registrando os
+neurossinais complexos que são gerados no processo. Yoky se pergunta se não poderia haver
+alguma ligação entre esse tipo de especulação manual e os processos de pensamento abstrato
+(talvez envolvendo sinais nervosos semelhantes), como quando deparamos com um
+problema que parece de difícil solução. O propósito dela é embutir essas sensações
+exploratórias na mão protética. Em outros experimentos, nos quais os indivíduos
+movimentam mãos em contexto de realidade virtual, ela descobriu que quanto mais as
+pessoas são induzidas a sentir aquela mão como parte de seus corpos, mais alto é o grau de
+controle que exercem sobre o órgão. Embora sua execução prática ainda esteja anos à frente,
+o projeto da mão protética conectada ao cérebro terá consequências tecnológicas muito além
+da robótica.
+Em muitos campos de atuação, constatamos e diagnosticamos a mesma doença mental, que
+denominaremos prisão técnica e que signiټca o seguinte: para aprender uma disciplina ou
+

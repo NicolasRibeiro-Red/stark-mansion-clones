@@ -1,0 +1,36 @@
+Livro V
+O não linear e o não linear
+1
+Hora de mais um breve relato autobiográfico. Como Charles Darwin escreveu em uma seção histórica de seu
+A origem das espécies
+, apresentando um esboço sobre a evolução da opinião: “Espero que me perdoem por entrar em pormenores pessoais, pois apenas os divulgo para demonstrar que minha decisão não foi apressada”. Pois não é exatamente verdade que não existe uma palavra, um conceito e uma aplicação precisos para a antifragilidade. Meus colegas e eu tínhamos um sem saber. E eu já chegara a ele havia muito, muito tempo. Afinal, vinha pensando sobre o mesmo problema durante quase toda a vida, em parte conscientemente, em parte sem ter ciência disso. O Livro
+V
+examina com cuidado essa trajetória e a ideia surgida a partir dela.
+SOBRE A IMPORTÂNCIA DOS SÓTÃOS
+Em meados da década de 1990, discretamente joguei minha gravata na lata de lixo da esquina da rua 45 com a Park Avenue, em Nova York. Decidi tirar uma folga de
+alguns anos e me tranquei no sótão, tentando expressar o que estava saindo do meu interior, tentando articular o que chamei de “não linearidades ocultas” e seus efeitos.
+O que eu tinha era não exatamente uma ideia, mas, antes, um método, pois a ideia central mais profunda ainda se esquivava de mim. Contudo, utilizando esse método, produzi uma discussão de cerca de seiscentas páginas sobre o gerenciamento de efeitos não lineares, com gráficos e tabelas. Lembre-se de que afirmei, no prólogo, que “não linearidade” significa que a resposta não é uma linha reta. Mas eu estava indo mais longe e examinando a ligação com a volatilidade, algo que em breve deverá ficar claro. E investiguei mais a fundo a volatilidade da volatilidade e esses efeitos de ordem superior.
+O livro resultante dessa solitária investigação no sótão, enfim intitulado
+Dynamic Hedging
+[Cobertura de risco dinâmica], era sobre as “técnicas para gerenciar e lidar com exposições de derivativos complexos não lineares”. Era um documento técnico que estava completamente ab ovo (no início), e à medida que eu avançava sabia instintivamente que a questão tinha muito mais importância do que os limitados casos que eu estava usando na minha profissão; eu sabia que minha atuação profissional era a plataforma perfeita para começar a pensar sobre essas questões, mas eu era preguiçoso demais e convencional demais para me aventurar a ir mais longe. O livro continuou sendo, com grande margem de diferença sobre os demais, minha obra favorita (antes deste), e me lembro com carinho dos dois rigorosos invernos de Nova York, no silêncio quase completo do sótão, com o efeito luminoso do sol reluzindo sobre a neve
+e aquecendo tanto o recinto quanto o projeto. Passei anos a fio sem pensar em outra coisa.
+Nesse episódio aprendi também algo bastante divertido. Meu livro foi equivocadamente submetido a quatro pareceristas, todos eles economistas financeiros acadêmicos, em vez de “
+quants
+” (analistas quantitativos que trabalham em finanças usando modelos matemáticos). A pessoa incumbida de apresentar o livro à apreciação não tinha plena ciência da diferença. De maneira interessante, os quatro acadêmicos rejeitaram meu livro, por quatro conjuntos de razões completamente diferentes entre si, sem que houvesse absolutamente nenhuma interseção entre seus argumentos. Nós, profissionais com atuação prática e
+quants
+, não nos abalamos muito com observações de acadêmicos — seria como prostitutas escutando avaliações técnicas de freiras. O que me impressionou foi que, estivesse eu errado, todos eles teriam alegado exatamente a mesma razão para a rejeição. Isso é antifragilidade. Depois, é claro, tendo o editor percebido o erro, o livro foi submetido a avaliadores quantitativos e viu a luz do dia.
+2
+A cama de Procusto na vida consiste, precisamente, em simplificar o não linear e torná-lo linear — a simplificação que distorce.
+Depois, meu interesse pela não linearidade das exposições sumiu à medida que comecei a lidar com outras questões relacionadas à incerteza, que me pareciam mais intelectuais e filosóficas, por exemplo a natureza da aleatoriedade — em vez de como as coisas reagem a eventos aleatórios. Talvez isso se devesse ao fato de que me mudei de casa e já não tinha aquele sótão.
+Mas alguns eventos levaram-me de volta para uma segunda fase de intensa reclusão.
+Após a crise do fim da primeira década dos anos 2000, passei por um episódio infernal, ao ter de lidar com a imprensa. De repente, eu me vi desintelectualizado, corrompido, arrancado de meu hábitat, transformado em uma commodity pública. Eu não tinha percebido que para os membros da mídia e do público é difícil aceitar que o trabalho de um estudioso é ignorar as atualidades, escrever livros (e não e-mails) e não proferir palestras enquanto dança em um palco; que ele tem outras coisas a fazer, como ler na cama pela manhã, escrever em uma escrivaninha de frente para uma janela, fazer longas caminhadas (lentamente), tomar café expresso (pela manhã), chá de camomila (à tarde), vinho libanês (à noite) e vinhos Muscat (após o jantar), fazer mais longas caminhadas (lentamente), debater com amigos e familiares (mas nunca de manhã) e ler (de novo) na cama antes de dormir, e não ficar reescrevendo seu livro e suas ideias em benefício de desconhecidos e dos membros da filial da Rede de Contatos Internacional, que não o leram.
+Então, optei por me retirar da vida pública. Quando consegui retomar o controle do meu cronograma e do meu cérebro, recuperar-me das feridas no fundo da minha alma, aprender a usar filtros de e-mail e a função autoexcluir e reiniciar minha vida, a Dona Fortuna trouxe-me duas ideias, fazendo com que eu me sentisse idiota — pois me dei conta de que elas estavam dentro de mim o tempo todo.
+É evidente que as ferramentas para análise de efeitos não lineares são até certo ponto universais. A parte triste é que, até aquele dia de minha nova vida nova de viajante solitário e adepto do chá de camomila, quando olhava para uma xícara de porcelana eu não percebia que tudo ao meu redor que era não linear poderia ser submetido
+às mesmas técnicas de detecção, como as que haviam me ocorrido em meu episódio de reclusão anterior.
+O que descobri está descrito nos dois capítulos seguintes.
+1
+. O leitor leigo pode pular o Livro
+V
+sem prejuízo algum: a definição de antifragilidade, a partir da assimetria de Sêneca, é suficiente para uma leitura literária do restante do livro. Aqui, o que se tem é uma reformulação mais técnica.
+2
+. Um teste semelhante: quando um grupo de pessoas escreve que “Não há nada novo aqui”, e cada uma delas cita um originador diferente da ideia, pode-se afirmar, com segurança, que há algo efetivamente novo.

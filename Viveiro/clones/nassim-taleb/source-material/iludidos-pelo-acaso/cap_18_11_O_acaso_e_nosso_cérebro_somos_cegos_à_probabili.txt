@@ -1,0 +1,1214 @@
+# 11. O acaso e nosso cérebro: somos cegos à probabilidade
+
+Paginas: 189-223
+
+11. O acaso e nosso cérebro: somos
+cegos à probabilidade
+PARIS OU BAHAMAS?
+Você tem duas opções para suas férias em março. A primeira é voar
+para Paris, a segunda é ir para o Caribe. Você é indiferente quanto às
+duas opções; sua esposa acatará a decisão seja qual for. Duas imagens
+distintas ocorrem a você quando pensa nas possibilidades. Na
+primeira, você se vê no Musée d’Orsay, de pé diante de um quadro de
+Pissaro que mostra um céu enevoado — o céu cinzento do inverno
+parisiense. Você carrega um guarda-chuva. Na segunda imagem, está
+deitado numa toalha, com uma pilha de livros de seus autores
+favoritos perto de você (Tom Clancy e Ammianus Marcellinus), e um
+garçom solícito lhe serve um daiquiri de banana. Você sabe que as
+duas situações são mutuamente exclusivas (você só pode ir a um lugar
+de cada vez), mas exaustivas (há uma probabilidade de 100% de que
+você estará em uma das duas). São equiprováveis, com 50% de
+probabilidade cada uma, na sua opinião.
+Você tem grande prazer em pensar nas férias; isso o motiva e torna
+a longa jornada casa/trabalho de todos os dias suportável. Contudo, o
+modo apropriado de se visualizar, de acordo com o comportamento
+racional sob uma situação de incerteza, é de 50% num dos lugares e
+50% no outro — o que, matematicamente, se chama de combinação
+linear de duas situações. Será que seu cérebro pode lidar com isso?
+Até que ponto seria desejável poder ter os pés nas águas caribenhas e
+a cabeça exposta à chuva parisiense? Nosso cérebro só pode lidar
+adequadamente com uma situação de cada vez — a menos que você
+tenha problemas de personalidade de natureza profundamente
+
+patológica. Agora, tente imaginar uma combinação de 85% para 15%.
+Alguma sorte?
+Consideremos uma aposta que você faz com um colega, no valor de
+mil dólares, que, na sua opinião, é bem justa. Amanhã à noite você
+terá zero ou 2 mil no seu bolso, com 50% de probabilidade para cada
+um. Em termos puramente matemáticos, o valor justo para uma aposta
+é a combinação linear das situações, aqui chamada de expectativa
+matemática, isto é, as probabilidades de cada resultado multiplicadas
+pelos valores em dólares que estão em jogo (50% multiplicados por 0
+e 50% multiplicados por 2000 dólares = 1000 dólares). Você
+consegue imaginar (isto é, visualizar, não calcular matematicamente) o
+valor sendo mil dólares? Podemos conjurar um, e apenas um, estado
+em cada momento dado, ou seja, zero ou 2 mil. Deixados por contra
+própria, tendemos a apostar de maneira irracional, já que um dos
+estados domina a imagem — o medo de terminar sem nada ou a
+animação de ganhar mil dólares.
+ALGUMAS CONSIDERAÇÕES ARQUITETÔNICAS
+É hora de revelar o segredo de Nero: um cisne negro. Na época, ele
+tinha 35 anos. Embora os prédios de Nova York projetados antes da
+guerra possam ter uma fachada agradável, sua arquitetura, vista da
+parte de trás, oferece um agudo contraste, pelo fato de ser totalmente
+insípida. O consultório do médico tinha uma janela que dava para o
+pátio de uma dessas ruas transversais do Upper East Side, e Nero
+sempre se lembrará como aquela vista era insípida em comparação
+com a fachada mesmo se viver mais meio século. Ele sempre se
+recordará da vista do pátio feio, pintado de rosa, através das
+deprimentes vidraças, e do diploma de médico na parede, que ele leu
+uma dezena de vezes enquanto esperava o médico entrar na sala (uma
+eternidade, de modo que Nero suspeitava que havia algo errado). A
+notícia foi então dada (com a voz grave): “Tenho aqui… recebi o laudo
+patológico… não é tão grave quanto parece… é… câncer”. A declaração
+fez com que o corpo de Nero fosse percorrido por uma descarga
+elétrica, do alto da medula até os joelhos. Ele tentou gritar “O quê?”,
+mas nenhum som saiu de sua boca. O que o amedrontou mais não foi
+
+a notícia, mas a visão do médico. De certa forma, a notícia atingiu seu
+corpo antes de chegar à mente. Havia muito medo nos olhos do
+homem, e Nero suspeitou imediatamente que a notícia era pior do
+que ele dizia que era (e estava certo).
+Na noite do diagnóstico, Nero cou sentado em uma biblioteca
+médica, molhado até a alma depois de ter cado andando durante
+horas na chuva sem perceber e formando uma poça d’água à sua volta
+(uma funcionária gritou com ele, mas Nero não conseguia se
+concentrar no que ela lhe dizia, de modo que a mulher deu de ombros
+e se afastou). Mais tarde, Nero leu: “taxa de sobrevivência de cinco
+anos de 72%, ajustada atuarialmente”. Aquilo signicava que 72
+pessoas em cem conseguiam. São necessários de três a cinco anos sem
+o corpo apresentar manifestações clínicas da doença para que o
+paciente seja dado como curado (mais perto de três, na idade dele).
+Nero então sentiu bem lá no íntimo a certeza de que ia conseguir.
+Bem, o leitor poderia estar pensando sobre a diferença matemática
+entre uma chance de 28% de morte e uma chance de 72% de
+sobrevivência nos próximos cinco anos. É claro que não há nenhuma,
+mas não somos feitos para a matemática. Na mente de Nero, uma
+chance de 28% de morte trazia a imagem dele morto e pensamentos
+dos penosos detalhes de seu funeral. Uma chance de 72% de
+sobrevivência o deixava alegre; sua mente já via um Nero curado
+esquiando nos Alpes. Em nenhum ponto de sua provação, Nero
+pensou em si mesmo como 72% vivo e 28% morto.
+Assim como Nero não pode “pensar” em termos tão complicados,
+os consumidores consideram que um hambúrguer 75% livre de
+gorduras é diferente de um com 25% de gordura. O mesmo acontece
+na estatística. Mesmo especialistas tendem a fazer inferências rápido
+demais a partir de dados ao aceitar ou rejeitar as coisas. Pense no
+dentista cujo bem-estar emocional depende do desempenho recente
+em seu portfólio. Por quê? Porque, como veremos, o comportamento
+determinado por regras não exige nuances. Ou você mata seu vizinho
+ou não mata. Sentimentos intermediários (que levaria, vamos dizer, a
+matá-lo pela metade) são inúteis ou simplesmente perigosos quando
+se faz as coisas. O aparato emocional que nos coloca em ação não
+compreende tais nuances — não é eciente para compreender as
+
+coisas. O restante deste capítulo vai ilustrar rapidamente algumas
+manifestações de tal cegueira, com uma exposição supercial da
+pesquisa na área (apenas no que se relaciona com os assuntos deste
+livro).
+CUIDADO COM O FILÓSOFO BUROCRATA
+Por um longo tempo, tínhamos especicações de produto erradas
+ao pensar em nós mesmos. Os humanos acreditavam que tinham sido
+dotados de uma bela máquina para pensar e compreender as coisas.
+No entanto, entre nossas especicações de fábrica estão a falta de
+conhecimento das verdadeiras especicações de fábrica (por que
+complicar as coisas?). O problema de pensar é que faz com que se
+desenvolvam ilusões. E pensar pode ser um desperdício de energia.
+Quem precisa disso?
+Imagine que você está diante de um funcionário do governo em um
+país socialista onde pessoas respeitáveis ganham a vida como
+burocratas. Você está lá para que ele carimbe alguns documentos que
+permitam exportar chocolates deliciosos para a região de Nova Jersey,
+cuja população você acredita que vai adorá-los. Qual você acha que é a
+função dele? Você pensa por um minuto que se importa com a teoria
+econômica geral por trás da transação? O trabalho do funcionário é
+apenas vericar se você tem as doze assinaturas dos departamentos
+certos, então carimbar seus documentos e deixar que vá embora.
+Considerações gerais sobre crescimento econômico ou balança
+comercial não lhe interessam. Na verdade, você tem sorte que ele não
+passe seu tempo re etindo sobre tais assuntos. Considere o tempo
+que o procedimento demoraria se o funcionário tivesse que resolver as
+equações da balança comercial. Ele só tem um livro de regras e, em
+sua carreira de quarenta ou quarenta e cinco anos, só vai carimbar
+documentos, ser ligeiramente grosseiro e ir para casa beber cerveja
+não pasteurizada e ver futebol na TV. Se você lhe desse o livro de Paul
+Krugman sobre economia internacional, ele ia vendê-lo no mercado
+negro ou dá-lo para o sobrinho.
+Regras têm seu valor, claro. Nós as seguimos não só porque são
+melhores, mas porque são úteis e nos economizam tempo e esforço.
+
+Aqueles que ao ver um tigre começam a teorizar quanto a que
+categoria taxonômica pertence podem acabar sendo comidos por ele.
+Os que apenas fogem à sua mera visão e não são detidos por nenhuma
+re exão podem acabar deixando o animal para trás ou mesmo um
+primo, que acabará sendo comido por ele em seu lugar.
+Satiscing
+É fato que nosso cérebro não seria capaz de operar sem esses
+atalhos. O primeiro pensador a concluir isso foi Herbert Simon, uma
+pessoa interessante na história intelectual. Ele começou como
+cientista político (mas era um pensador formal, e não da variedade
+literária de cientistas políticos que escrevem sobre o Afeganistão na
+Foreign AÁairs); foi um pioneiro da inteligência articial, ensinou
+ciências da computação e psicologia, fez pesquisas na área da ciência
+cognitiva, da losoa e da matemática aplicada, e recebeu o Prêmio de
+Ciências Econômicas em Memória de Alfred Nobel. Ele sugeriu que,
+se fôssemos otimizar cada passo da vida, isso nos custaria uma
+quantidade innita de tempo e energia. Portanto, deve haver em nós
+um processo de aproximação que para em algum lugar. Fica claro que
+suas ideias vieram da ciência computacional — ele passou a carreira
+inteira na Universidade Carnegie-Mellon, em Pittsburgh, de grande
+reputação na área. Ele criou o termo em inglês “satiscing” (mistura
+de “satisfy”, satisfazer, e “suÄce”, suciente), com a ideia de que
+paramos quando chegamos a uma solução perto de satisfatória. De
+outra maneira, levaríamos uma eternidade para chegar a uma
+conclusão ou fazer qualquer coisa, por menor que fossem. Somos,
+portanto, racionais, mas de maneira limitada (o termo mais usado é
+“limitação da racionalidade”). Simon acreditava que nosso cérebro era
+uma grande máquina de otimização que tinha regras embutidas de
+modo a parar em algum ponto.
+Talvez nem tanto. Pode não ser apenas uma aproximação grosseira.
+Para dois (a princípio) pesquisadores israelenses da natureza humana,
+como nos comportamos parecia ser um processo completamente
+diferente da máquina de otimização apresentada por Simon. Os dois
+caram investigando isso em Jerusalém, observando aspectos de seu
+próprio pensamento, compararam com modelos racionais e notaram
+
+diferenças qualitativas. Sempre que ambos pareciam cometer o
+mesmo erro de raciocínio, faziam testes empíricos com sujeitos,
+principalmente
+estudantes,
+e
+obtinham
+resultados
+muito
+surpreendentes sobre a relação entre pensamento e racionalidade. É a
+suas descobertas que nos voltamos a seguir.
+FALHO, NÃO SÓ IMPERFEITO
+Kahneman e Tversky
+Quem exerceu a maior in uência sobre o pensamento econômico
+nos últimos dois séculos? Não, não foi John Maynard Keynes, nem
+Alfred Marshall, nem Paul Samuelson e certamente não foi Milton
+Friedman. A resposta são dois não economistas: Daniel Kahneman e
+Amos Tversky, os israelenses introspectivos. Sua especialidade era
+descobrir áreas onde seres humanos não eram dotados de pensamento
+probabilístico
+e
+comportamento
+favorável
+na
+incerteza.
+Estranhamente, economistas estudaram a incerteza por um longo
+período sem descobrir muita coisa — no máximo, pensavam que
+sabiam de algo e foram iludidos. Além de algumas mentes penetrantes
+como Keynes, Knight e Shackle, os economistas nem chegaram à
+conclusão de que não sabiam nada sobre incerteza — e a discussão
+sobre risco de seus ídolos mostra que eles não sabiam o quanto não
+sabiam. Psicólogos, no entanto, olharam para o problema e obtiveram
+sólidos resultados. Note que, diferentemente dos economistas, eles
+conduziram experiências, experiências verdadeiramente controladas
+de natureza repetível, que poderiam ser feitas amanhã em Ulan Bator,
+na Mongólia, se necessário. Economistas convencionais não têm esse
+tipo de luxo ao observar o passado e fazer longos comentários de
+ordem matemática, então questionar uns aos outros a respeito.
+Kahneman e Tversky tomaram uma direção completamente
+diferente daquela de Simon e começaram a descobrir regras nos
+humanos que não os tornavam racionais — mas as coisas foram além
+do atalho. Para eles, essas regras, que são chamadas de heurísticas, não
+são apenas a simplicação de modelos racionais, mas diferiam em
+metodologia e categoria. Eles as chamaram de heurísticas “rápidas e
+
+sujas”. Há uma parte suja: os atalhos vêm com efeitos colaterais, as
+tendências cuja maior parte discuti previamente neste livro (como a
+inabilidade de aceitar qualquer coisa abstrata como risco). Isso deu
+início a uma tradição de pesquisa empírica chamada “heurísticas e
+vieses”, que tentou catalogá-los — impressionante por causa de seu
+empiricismo e do aspecto experimental dos métodos usados.
+Desde os resultados de Kahneman e Tversky, uma disciplina inteira
+chamada “nanças e economia comportamentais”  oresceu. Está em
+aberta contradição com a economia ortodoxa considerada neoclássica
+ensinada nas escolas de administração e economia sob os nomes
+normativos de mercados ecientes, expectativas racionais e ans.
+Nesse ponto, vale a pena fazer uma pausa para discutir a distinção
+entre ciência normativa e positiva. Uma ciência normativa (claramente
+um conceito autocontraditório) oferece ensinamentos prescritivos; ela
+estuda como as coisas deveriam ser. Alguns economistas, como
+aqueles que seguem a religião do mercado eciente, acreditam que
+nossos estudos deveriam ser baseados na hipótese de que os humanos
+são racionais e agem racionalmente porque é a melhor coisa para eles
+(porque isso é matematicamente “favorável”). O oposto disso é uma
+ciência positiva, baseada em como se espera que as pessoas se
+comportem de fato. Apesar da inveja que os economistas sentem dos
+físicos, a física é uma ciência inerentemente positiva, enquanto a
+economia, em particular a microeconomia e a economia nanceira, é
+predominantemente normativa. A economia normativa é como uma
+religião sem a parte estética.
+Note que o aspecto experimental da pesquisa implica que Daniel
+Kahneman e o economista experimental de rabo de cavalo Vernon
+Smith foram os primeiros cientistas de verdade a se curvar diante do
+rei sueco para receber o prêmio da área da economia, algo que deve
+dar credibilidade à academia do Nobel, particularmente se, como
+muitos fazem, considerarmos Daniel Kahneman muito mais sério que
+uma coleção de suecos de aparência séria (e muito humana, portanto
+falível). Há outra pista da rmeza cientíca dessa pesquisa: ela é
+facilmente lida por alguém de fora da psicologia, diferentemente dos
+trabalhos das áreas da economia e da nança convencionais, que
+mesmo as pessoas do campo têm diculdade de compreender (uma
+
+vez que as discussões são dominadas por jargões e altamente
+matemáticas, para dar a ilusão de ciência). Um leitor motivado pode
+se concentrar nos quatro volumes que reúnem a maior parte dos
+trabalhos sobre heurísticas e vieses.
+Naquela época, economistas não estavam interessados em ouvir
+essas histórias sobre irracionalidade: o homo economicus é um conceito
+normativo. Enquanto poderiam facilmente comprar o argumento
+“Simon” de que não somos perfeitamente racionais e de que a vida
+implica aproximações, em particular quando não há coisa o bastante
+em jogo, eles não estavam dispostos a aceitar que as pessoas eram
+falhas, mais que imperfeitas. Mas elas são. Kahneman e Tversky
+mostraram que os vieses não desaparecem quando há incentivos, o
+que signica que não são necessariamente econômicos. Eram uma
+forma diferente de raciocínio, em que o raciocínio probabilístico se
+mostrava fraco.
+ONDE ESTÁ NAPOLEÃO QUANDO SE PRECISA DELE?
+Se sua mente opera em séries de regras diferentes e desconectadas,
+elas podem não ser necessariamente consistentes umas com as outras,
+e se ainda puderem fazer o trabalho localmente, não necessariamente
+podem fazê-lo globalmente. Imagine que estão guardadas como uma
+espécie de livro de regras. Sua reação vai depender de em que página
+o livro abre em determinado momento. Ilustrarei isso com outro
+exemplo socialista.
+Depois do colapso da União Soviética, executivos ocidentais
+envolvidos com o que se tornou a Rússia descobriram um fato
+irritante (ou interessante) sobre seu sistema legal, que tinha regras em
+con ito e contradição. Só dependia do capítulo em que se procurava.
+Não sei se os russos pretendiam que fosse uma pegadinha (anal, eles
+tinham vivido longos e tristes anos de opressão), mas a confusão levou
+a situações em que era preciso violar uma lei para respeitar outra.
+Devo dizer que conversas com advogados são muito maçantes; falar
+com um advogado tedioso com um inglês ruim, sotaque forte e bafo
+de vodca pode exigir um belo esforço — de modo que você acaba
+desistindo. Esse estranho sistema legal veio do desenvolvimento de
+
+regras por meio de funções denidas em trechos: acrescenta-se uma
+lei aqui e ali sem que haja um sistema central que se consulte a cada
+vez para garantir a compatibilidade de todas as partes do todo.
+Napoleão enfrentou uma situação parecida na França e a resolveu
+criando um código de lei de cima para baixo que pretendia ter
+completa consistência lógica. O problema no caso dos humanos não é
+tanto que nenhum Napoleão apareceu até agora para dinamitar a
+antiga estrutura e remodelar nossa mente como um grande programa
+central, e sim que nossa mente é muito mais complicada que um
+sistema de leis, e a exigência de eciência é muito maior.
+Considere que nosso cérebro reage de maneira diferente à mesma
+situação dependendo do capítulo em que se abre. A falta de um
+sistema de processamento central faz com que tomemos decisões que
+podem ser con itantes entre si. Você pode preferir maçã a laranja,
+laranja a pera, mas pera a maçã — depende de como as escolhas lhe
+são apresentadas. O fato de que sua mente não pode reter e usar tudo
+o que você sabe de uma vez só é a causa de tais vieses. Um aspecto
+central da heurística é que ela é cega ao raciocínio.
+“Sou tão bom quanto minha última transação” e outras heurísticas
+Há inúmeros catálogos diferentes dessas heurísticas na literatura
+(muitos deles sobrepostos); o objetivo desta discussão é, mais do que
+listá-las, apresentar a intuição por trás de sua formação. Por um longo
+tempo, os traders se mantiveram totalmente ignorantes da pesquisa
+comportamental, e observaram situações em que, com estranha
+regularidade, havia uma lacuna entre o raciocínio probabilístico
+simples e a percepção que as pessoas tinham das coisas. Demos a eles
+nomes como “Sou tão bom quanto minha última transação”, “frase de
+efeito”, heurística “quarterback um dia depois do jogo” e “era óbvio
+depois que aconteceu”. Era ao mesmo tempo um restabelecimento do
+orgulho dos traders e uma decepção descobrir que essas denições já
+existiam na literatura heurística, como “ancoragem”, “heurística
+afetiva” e “viés retrospectivo” (o que nos faz pensar que o trading é
+uma verdadeira pesquisa cientíca experimental). A correspondência
+entre os dois mundos é mostrada no Quadro 11.1.
+
+Quadro 11.1
+Nome trader
+Nome aprendido
+Descrição
+“Sou tão bom quanto minha
+última transação”
+Teoria do prospecto
+Ver as diferenças, não o
+absoluto, e voltar a um
+especíco ponto de
+referência
+“Frase de efeito” ou
+“Extinção dos medos”
+Heurística afetiva, teoria do
+risco como sensação
+As pessoas reagem a riscos
+concretos e visíveis, não aos
+abstratos
+“Era tão óbvio” ou
+“Quarterback um dia depois
+do jogo”
+Viés retrospectivo
+As coisas parecem ser
+previsíveis depois do fato
+“Você estava errado”
+Crença na lei dos pequenos
+números
+Falácias indutivas; chegar a
+conclusões gerais rápido
+demais
+Sabedoria do
+Brooklyn/inteligência MIT
+Dois sistemas de raciocínio
+A parte do cérebro
+trabalhando não é
+exatamente o raciocínio
+“Isso nunca vai acontecer”
+Superconança
+Assumir riscos por
+subestimar as probabilidades
+Começo com a heurística “Sou tão bom quanto minha última
+transação (ou o viés da perda de perspectiva) — quando o cronômetro
+volta para o zero e você começa um novo dia ou mês, seja seu
+contador que faz isso ou sua mente. Essa é a distorção mais
+signicativa e aquela que acarreta mais consequências. Para ser capaz
+de posicionar as coisas no contexto geral, você não tem tudo o que
+sabe na cabeça o tempo todo, então recupera o conhecimento
+necessário em determinado momento de modo fragmentado,
+colocando esses pedaços de conhecimento recuperados no contexto
+local. Isso signica que você tem um ponto de referência arbitrário e
+reage a diferenças em relação a tal ponto, esquecendo que está vendo
+apenas diferenças daquela perspectiva em particular do contexto local,
+não em absoluto.
+Há uma máxima bem conhecida entre os traders que diz que a vida
+é incremental. Imagine que, como investidor, você examina seu
+desempenho tal qual o dentista do capítulo 3, em intervalos
+determinados. De quanto em quanto tempo você faz isso? A cada
+
+mês, dia, hora? É possível ter um bom mês e um dia ruim. Que
+período deveria prevalecer?
+Quando você aposta, diz “Meu patrimônio líquido será de 99 mil
+ou 101 500 dólares depois da aposta”, ou “Vou perder mil ou ganhar
+1500 dólares”? Sua atitude em relação aos riscos e às recompensas da
+aposta varia quer você olhe para seu patrimônio líquido ou para
+mudanças nele. Mas na vida real você será colocado em situações em
+que só vai olhar para as mudanças. O fato de que as perdas têm mais
+impacto que os ganhos, e um impacto diferente, torna seu
+desempenho acumulado, ou seja, a riqueza total, menos relevante que
+a última alteração nela.
+Essa dependência do status local em detrimento do global (unida ao
+fato de que o efeito das perdas é mais forte que o dos ganhos) tem um
+impacto na sua percepção de bem-estar. Vamos dizer que você tenha
+um lucro inesperado de 1 milhão. No mês seguinte, você perde 300
+mil. Você se ajustou a determinada riqueza (a menos que fosse muito
+pobre), então a perda seguinte o fere emocionalmente, algo que não
+teria acontecido se você recebesse 700 mil dólares de uma vez, ou
+melhor, duas vezes 350 mil dólares. Além disso, é mais fácil para o
+seu cérebro detectar diferenças que absolutos, de modo que as noções
+de riqueza ou pobreza (acima de um nível mínimo) são sempre
+comparativas (pense em Marc e Janet). Agora, quando algo é em
+comparação com outra coisa, essa outra coisa pode ser manipulada.
+Psicólogos chamam esse efeito de comparação com dada referência de
+ancoragem. Se levássemos isso ao limite lógico perceberíamos que, por
+causa dessa reprogramação, a riqueza em si não faz ninguém feliz
+(acima, é claro, de um nível de subsistência); mas mudanças positivas
+na riqueza podem fazer, principalmente se vierem de maneira
+“estável”. Falaremos mais a respeito disso depois.
+Outros aspectos da ancoragem. Como você pode usar duas âncoras
+diferentes na mesma situação, o modo como age depende de muito
+pouco. Quando se pede a uma pessoa que estime um número, ela o
+faz em relação a um número que tem mente ou acabou de ouvir, de
+modo que “grande” ou “pequeno” se tornam comparativos. Kahneman
+e Tversky pediram a sujeitos que estimassem a proporção de países
+africanos nas Nações Unidas depois de fazer com que escolhessem
+
+conscientemente um número entre zero e cem (eles sabiam que era
+um número aleatório). As pessoas deram chutes relacionados ao
+primeiro número, que usaram como âncora. Aqueles que escolheram
+um número alto chutaram um número alto, e aqueles que escolheram
+um baixo chutaram um baixo. Esta manhã, contribuindo para as
+anedotas empíricas, perguntei ao concierge do hotel quanto tempo eu
+levaria para chegar ao aeroporto. “Quarenta minutos?”, perguntei.
+“Cerca de 35”, ele respondeu. Então perguntei à recepcionista se a
+viagem levava vinte minutos. “Não, uns 25”, ela respondeu.
+Cronometrei a viagem: levava 31 minutos.
+Essa ancoragem em um número é a razão pela qual as pessoas não
+reagem à sua riqueza total acumulada, mas às diferenças em qualquer
+valor que estejam ancoradas no momento. Esse é o principal con ito
+com a teoria econômica, já que de acordo com os economistas alguém
+com 1 milhão no banco estaria mais satisfeito que alguém com meio
+milhão. Mas vimos John chegar a 1 milhão depois ter 10 milhões; ele
+estava mais feliz quando tinha apenas meio milhão (tendo começado
+do zero) do que quando o deixamos no capítulo 1. Lembre-se também
+do dentista cujas emoções dependem da frequência com que verica
+seus investimentos.
+Diploma de biscoito da sorte
+Eu costumava frequentar uma academia no meio do dia e conversar
+com um homem interessante da Europa Oriental, que tinha dois
+ph.D., um em física (em estatística) e outro em nanças. Ele
+trabalhava para uma corretora e era obcecado pelo aspecto anedótico
+dos mercados. Uma vez, esse homem me perguntou obstinadamente o
+que eu achava que aconteceria no mercado de ações naquele dia. Dei a
+ele uma resposta social como “Não sei, talvez caia”, provavelmente
+oposta à que eu daria se tivesse me perguntado uma hora antes. Na
+manhã seguinte, ele pareceu muito alarmado ao me ver. Começou a
+discutir minha credibilidade e a perguntar como eu podia ter errado
+tanto em minha “previsão”, considerando que o mercado havia subido.
+O homem fora capaz de tirar conclusões sobre minha habilidade de
+fazer previsões e minha “credibilidade” a partir de uma única
+observação. Se eu ligasse para ele e dissesse, disfarçando a voz: “Alô,
+
+aqui é o dr. Talebski, da Academia de Lodz. Tenho um problema
+interessante”, então apresentasse a questão como um quebra-cabeça
+estatístico, ele riria de mim. “Dr. Talebski, o senhor tirou seu diploma
+de um biscoito da sorte?” Por que isso?
+Há dois problemas. Primeiro: ele não usou seu cérebro estatístico
+ao fazer a inferência, mas outra área do órgão. Segundo: cometeu o
+erro de exagerar a importância de amostras pequenas (nesse caso, uma
+única observação, o pior erro de inferência que uma pessoa pode
+cometer). Matemáticos tendem a cometer erros matemáticos notórios
+fora de seu hábitat teórico. Quando Tversky e Kahneman usaram
+psicólogos matemáticos como amostra, alguns deles autores de livros
+de referência de estatística, caram intrigados com seus erros. “Os
+sujeitos conaram demais no resultado de amostras pequenas e seu
+julgamento estatístico mostrou pouca sensibilidade ao tamanho da
+amostra.” O que surpreende é não só que deveriam saber melhor, mas
+que “sabiam melhor”. No entanto…
+Em seguida, listo mais algumas heurísticas. (1) A heurística da
+disponibilidade, que vimos no capítulo 3 com o terremoto na
+Califórnia sendo considerado mais provável que a mesma catástrofe
+em todo o país, ou morte em decorrência de terrorismo sendo
+considerada mais provável que a morte de qualquer tipo (incluindo
+terrorismo). Isso corresponde à prática de estimar a frequência de um
+evento de acordo com a facilidade com que instâncias do evento
+podem ser relembradas. (2) A heurística da representatividade: medir a
+probabilidade de que uma pessoa pertença a um grupo social em
+particular avaliando quão similares são as características dela com a de
+um membro “típico” do grupo. Considera-se mais provável que uma
+estudante de losoa feminista seja uma caixa de banco feminista que
+apenas uma caixa de banco. Isso é conhecido como “problema Linda”
+(porque o nome da feminista era Linda) e fez muita tinta acadêmica
+ser gasta (algumas pessoas envolvidas no “debate sobre a
+racionalidade” acreditam que Kahneman e Tversky impõem demandas
+altamente normativas em nós, humanos). (3) A heurística da
+simulação: a facilidade de desfazer um evento mentalmente —
+substituindo-o pelo cenário alternativo. Isso corresponde ao
+pensamento contrafactual. Imagine o que poderia acontecer se você
+
+não tivesse perdido o trem (ou quão rico estaria hoje se tivesse
+liquidado seu portfólio na alta da bolha da Nasdaq). (4) Discutimos
+no capítulo 4 a heurística do afeto: as emoções despertadas pelos
+eventos determinam a probabilidade deles em sua mente.
+Dois sistemas de raciocínio
+Pesquisas posteriores renam o problema da seguinte maneira: há
+dois modos possíveis de raciocinar, e a heurística é parte de um deles,
+enquanto a razão é parte do outro. Recorde o colega do capítulo 2 que
+usava uma parte do cérebro diferente daquela que usava na vida real.
+Você nunca se perguntou por que uma pessoa que sabe muito de física
+não consegue aplicar as leis básicas dessa ciência para dirigir bem?
+Pesquisadores dividiram as atividades de nossa mente em duas partes
+polarizadas: sistema 1 e sistema 2.
+O sistema 1 não envolve esforço, é automático, associativo, veloz,
+um processo paralelo, opaco (ou seja, não temos consciência de usá-
+lo), emocional, concreto, especíco, social e personalizado.
+O sistema 2 envolve esforço, é controlado, dedutivo, lento, seriado,
+autoconsciente,
+neutro,
+abstrato,
+determinado,
+insocial
+e
+despersonalizado.
+Sempre acreditei que traders de opções e agentes de liquidez
+prossionais, ao praticar seu jogo probabilístico, construíam uma
+máquina probabilística inata muito mais desenvolvida que a do resto
+da população — inclusive que a dos probabilistas. Encontrei
+conrmação disso no fato de que pesquisadores da tradição das
+heurísticas e dos vieses acreditam que o sistema 1 pode ser impactado
+pela experiência e integrar elementos do sistema 2. Por exemplo,
+quando se aprende a jogar xadrez, o sistema 2 é usado. Depois de um
+tempo, a coisa se torna intuitiva e a pessoa é capaz de avaliar a força
+relativa do oponente só de olhar para o tabuleiro.
+Em seguida, apresento o ponto de vista da psicologia evolutiva.
+POR QUE NÃO NOS CASAMOS NO PRIMEIRO ENCONTRO
+Outro ramo de pesquisa, chamado de psicologia evolutiva,
+desenvolve uma abordagem completamente diferente para o mesmo
+
+problema. Ela opera em paralelo, criando debates acadêmicos
+amargos, mas não muito preocupantes. Esses psicólogos evolutivos
+concordam com a escola Kahneman-Tversky em que as pessoas têm
+diculdades com o raciocínio probabilístico padrão. No entanto,
+acreditam que a razão reside no modo como as coisas nos são
+apresentadas no ambiente atual. Para eles, somos otimizados para
+determinado raciocínio probabilístico, mas em um ambiente diferente
+daquele que predomina hoje. A armação “Nosso cérebro foi moldado
+para a aptidão, não para a verdade”, feita pelo cientista e intelectual
+Steven Pinker, porta-voz daquela escola, resume tudo. Eles
+concordam que o cérebro não foi feito para compreender as coisas,
+mas para pensar que elas não têm viés, ou só têm porque não o
+usamos no hábitat certo.
+Estranhamente, a escola de pesquisadores Kahneman-Tversky não
+sofreu nenhuma resistência digna de nota dos economistas da época (a
+credibilidade geral dos economistas convencionais sempre foi tão
+baixa que quase ninguém na ciência ou no mundo real presta atenção
+a eles). O desao veio por parte dos sociobiólogos, e o centro da
+discórdia residiu em sua crença na teoria evolutiva como espinha
+dorsal da compreensão da natureza humana. Isso motivou uma disputa
+cientíca feroz, mas devo dizer que eles concordavam na parte mais
+signicativa no que diz respeito a este livro: (1) Não pensamos ao fazer
+escolhas; usamos heurísticas; (2) Cometemos erros probabilísticos
+sérios no mundo atual — independentemente da razão. Note que a
+divisão chega até mesmo à nova economia: assim como temos um
+ramo cientíco da economia saindo da tradição de Kahneman e
+Tversky (economia comportamental), há outro ramo cientíco da
+economia saindo da psicologia evolutiva, com a abordagem da
+economia do homem das cavernas sendo seguida por pesquisadores
+como o economista e biólogo Terry Burnham, coautor do bastante
+legível A culpa é da genética.
+Nosso hábitat natural
+Não vou me envolver com muita profundidade em uma teoria
+evolutiva para provar suas razões (apesar de ter passado algum tempo
+em bibliotecas, eu me sinto um verdadeiro amador nesse assunto). É
+
+lógico que o meio ambiente para o qual nossa herança genética foi
+construída não é o que prevalece hoje. Eu não disse a colegas que a
+tomada de decisão deles contém alguns hábitos herdados dos homens
+das cavernas — mas quando os mercados experimentam um súbito
+movimento, sofro um surto de adrenalina como se estivesse vendo um
+leopardo caçando próximo à minha mesa. Alguns de meus colegas, que
+quebram o telefone quando perdem dinheiro, podem estar mais
+próximos de nossa origem comum no que diz respeito à estrutura
+psicológica.
+Isso talvez seja um lugar-comum para quem lê os clássicos gregos e
+latinos, mas nunca deixamos de nos surpreender quando percebemos
+que as pessoas afastadas de nós por algumas dezenas de séculos
+podem exibir sensibilidade e emoções semelhantes. O que costumava
+me surpreender quando criança ao visitar museus era que as estátuas
+dos antigos gregos exibiam traços indistinguíveis dos nossos (apenas
+mais harmoniosos e aristocráticos). Eu estava totalmente errado em
+pensar que 2200 anos era um período longo. Proust escreveu várias
+vezes sobre a surpresa que as pessoas têm quando esbarram com as
+emoções dos heróis de Homero, tão semelhantes às que
+experimentamos hoje. No que diz respeito aos padrões genéticos,
+esses heróis homéricos de trinta séculos atrás têm, com toda a
+probabilidade, exatamente a mesma estrutura genética que o gorducho
+de meia-idade que você vê no estacionamento, carregando as compras
+do mercado. Mais do que isso: na verdade, somos verdadeiramente
+idênticos ao homem que, talvez oitenta séculos atrás, começou a ser
+chamado de “civilizado” naquela estreita faixa de terra que vai do
+sudeste da Síria até o sudoeste da Mesopotâmia.
+Qual é nosso hábitat natural? Por hábitat natural quero dizer o
+meio ambiente no qual nos reproduzimos ao máximo, aquele em que
+passamos o maior número de gerações. O consenso entre os
+antropólogos é de que temos andado por aí como uma espécie
+separada há 130 mil anos, a maior parte dos quais passados na savana
+africana. Mas não é preciso recuar tanto assim na história para chegar
+ao que interessa. Imagine a vida num sítio urbano primitivo, no
+Crescente Fértil, há cerca de 3 mil anos — certamente uma época
+moderna, do ponto de vista genético. A informação era limitada pelos
+
+meios físicos de sua transmissão; não se podia viajar para longe com
+rapidez, portanto a informação vinha de lugares distantes em pacotes
+concisos. Viajar era um problema, assolado por todo tipo de perigo
+físico; você se estabelecia num raio limitado do lugar onde nascia, a
+menos que a fome ou alguma tribo invasora não civilizada expulsasse
+seus parentes e você daquele feliz povoado. O número de pessoas que
+você viria a conhecer durante toda a sua vida seria pequeno. Se fosse
+cometido um crime, seria fácil avaliar evidências de culpa dentro do
+pequeno número de suspeitos. Se você fosse injustamente acusado de
+um crime, argumentaria em termos básicos, apresentando uma prova
+tão simples quanto “eu não estava lá, pois estava rezando no templo de
+Baal, e fui visto ao anoitecer pelo sumo sacerdote”, e acrescentaria que
+Obedshemesh, lho de Sahar, tinha mais probabilidade de ser o
+culpado, porque teria a lucrar com o crime. Sua vida seria simples, e
+seu espaço de probabilidades seria restrito.
+O problema real é que, como já mencionei, um hábitat assim não
+inclui muita informação. Um cálculo eciente das probabilidades não
+se tornou necessário até muito recentemente. Isso explica por que
+tivemos que esperar até o surgimento da literatura sobre o jogo para
+ver o crescimento da matemática das probabilidades. A crença popular
+arma que o pano de fundo da religião do primeiro e do segundo
+milênios bloqueou o desenvolvimento de ferramentas que sugeriam a
+ausência do determinismo e ocasionaram demoras na pesquisa da
+probabilidade. A ideia é duvidosa ao extremo; simplesmente não
+calculávamos as probabilidades porque não ousávamos fazer isso? A
+razão deve ser porque não precisávamos. Grande parte do nosso
+problema vem do fato de que nos desenvolvemos fora de nosso
+hábitat muito mais rápido do que os nossos genes. E é até pior: nossos
+genes não mudaram em absoluto.
+Velozes e frugais
+Teóricos evolutivos concordam que o trabalho cerebral depende de
+como o sujeito é apresentado e a estrutura é oferecida — e podem ser
+contraditórios em seus resultados. Detectamos trapaceiros com uma
+parte diferente do cérebro daquela em que conamos para resolver
+problemas lógicos. As pessoas podem fazer escolhas incoerentes
+
+porque o cérebro trabalha através de pequenos trabalhos parciais. As
+heurísticas que dissemos que eram “rápidas e sujas” para os psicólogos
+são “velozes e frugais” para os psicólogos evolutivos. E não só isso:
+alguns pensadores, como o cientista cognitivo Gerd Gigerenzer,
+parecem defender o lado oposto a Kahneman e Tversky de maneira
+obsessiva; seu trabalho, assim como o de seus associados no ABC
+Group (que estuda comportamento adaptativo e cognição), pretende
+mostrar que somos racionais e que a evolução produz uma forma de
+racionalidade que ele chama de “racionalidade ecológica”. Eles
+acreditam que não apenas somos programados para otimizar o
+comportamento probabilístico em situações como a seleção do
+parceiro (quantas pessoas é preciso conhecer antes de se decidir?) ou
+escolher uma refeição, mas também somos programados para
+selecionar ações e que fazemos isso de maneira adequada se elas nos
+forem apresentadas da maneira correta.
+Na verdade, Gigerenzer concorda que não compreendemos a
+probabilidade (abstrata demais), mas reagimos bastante bem a
+frequências (menos abstratas). De acordo com ele, alguns problemas
+que normalmente nos fariam cometer um erro desaparecem quando
+colocados em termos de porcentagem.
+De acordo com esses pesquisadores, embora possamos gostar de
+pensar em nosso cérebro como um sistema de processamento central,
+com recursos que vão do geral ao particular, a analogia com um
+canivete-suíço (com pequenas ferramentas especícas) parece ser
+adequada. Como? A visão dos psicólogos é construída em torno da
+distinção entre adaptações de domínio especíco e domínio geral.
+Uma adaptação de domínio especíco é algo que deve resolver uma
+tarefa bastante precisa (em oposição às de domínio geral, que devem
+resolver tarefas globais). Embora isso seja fácil de compreender e
+aceitar para as adaptações siológicas (por exemplo, o pescoço de uma
+girafa, que a ajuda a alcançar alimentos, ou a cor de um animal que
+permite que se camu e), as pessoas têm diculdade em entender por
+que isso se aplica à nossa mente da mesma maneira.
+Nosso cérebro funciona por “módulos”. Um aspecto interessante da
+modularidade é que podemos usar módulos diferentes em diferentes
+
+instâncias do mesmo problema, dependendo da estrutura em que nos é
+apresentado — como discutido nas notas desta seção. Um dos
+atributos de um módulo é seu “encapsulamento”, ou seja, como não
+podemos interferir em seu funcionamento, já que não estamos cientes
+de seu uso. O módulo mais impressionante é usado quando tentamos
+descobrir um trapaceiro. Expressa de maneira puramente lógica (mas
+com extrema clareza), determinada questão só é resolvida por 15% das
+pessoas. Mas quando a mesma questão é expressa de modo que seu
+objetivo seja descobrir quem é o trapaceiro, quase todos a resolvem.
+Neurobiólogos também
+Neurobiólogos também têm seu lado nessa história. Eles acreditam
+(de maneira simplicada) que existem três cérebros: o muito antigo, o
+cérebro reptiliano que dita os batimentos cardíacos e que
+compartilhamos com todos os animais; o sistema límbico, centro
+cerebral de emoções que compartilhamos com os mamíferos; e o
+neocórtex, o cérebro cognitivo, que distingue primatas e humanos
+(note que mesmo investidores institucionais parecem ter neocórtex).
+Embora a teoria do cérebro trino envolva simplicação excessiva
+(particularmente quando abordada por jornalistas), parece fornecer
+uma estrutura para a análise das funções cerebrais.
+Embora seja muito difícil descobrir que parte do cérebro faz o que
+exatamente, neurocientistas têm trabalhado em um mapeamento
+ambiental do cérebro, por exemplo ao pegar um paciente cujo cérebro
+está danicado em um único ponto (por um tumor ou uma lesão
+considerados locais) e deduzir por eliminação a função daquela parte
+da anatomia. Outros métodos incluem imagens cerebrais e simulações
+elétricas em áreas especícas. Muitos pesquisadores de fora do ramo
+da neurobiologia, como o lósofo e cientista cognitivo Jerry Fodor
+(pioneiro na noção de modularidade), permanecem céticos quanto à
+qualidade do conhecimento que podemos obter ao examinar as
+propriedades físicas do cérebro, ainda que apenas por causa das
+complicadas interações das partes individuais (com não linearidades
+correspondentes). O matemático e cientista cognitivo David Marr,
+pioneiro no campo do reconhecimento de objetos, observou de
+maneira muito adequada que não se aprende como os pássaros voam
+
+ao estudar suas penas, mas ao estudar sua aerodinâmica. Explicarei a
+ideia geral de dois trabalhos divisores de águas apresentados em livros
+bastante legíveis: O erro de Descartes, de Damásio, e O cérebro
+emocional, de LeDoux.
+O erro de Descartes apresenta uma tese muito simples. Realiza-se
+uma ablação cirúrgica em uma parte do cérebro de alguém (como
+remover um tumor e costurar o tecido ao redor) e o único efeito
+resultante é uma inabilidade de demonstrar emoções (o Q.I. e todas as
+outras faculdades se mantêm). Tratou-se de um experimento
+controlado para separar a inteligência de alguém de suas emoções. O
+resultado é um ser humano puramente racional, livre de sentimentos e
+emoções. Agora vamos ver: Damásio relatou que o ser sem emoções
+era incapaz de tomar a mais simples decisão. Ele não conseguia nem
+sair da cama de manhã, e desperdiçava seus dias pesando suas
+decisões de maneira infrutífera. Chocante! Isso contraria tudo o que
+seria de esperar: é impossível tomar uma decisão sem emoção. A
+matemática dá a mesma resposta: se alguém realizasse uma operação
+de otimização considerando uma grande coleção de variáveis, mesmo
+como um cérebro tão grande como o nosso, levaria muito tempo para
+se decidir quanto à mais simples das tarefas. Portanto, precisamos de
+um atalho; as emoções existem para que não demoremos tanto. Isso
+lembra a você a ideia de Herbert Simon? Parece que são as emoções
+que fazem todo o trabalho. Os psicólogos as chamam de “lubricantes
+da razão”.
+A teoria de Joseph LeDoux sobre o papel das emoções no
+comportamento é ainda mais poderosa, indicando que as emoções
+afetam o pensamento. Ele descobriu que muitas das conexões dos
+sistemas emocionais com os sistemas cognitivos são mais fortes que as
+conexões dos sistemas cognitivos com as dos sistemas emocionais.
+Isso signica que experimentamos emoções (cérebro límbico) e depois
+encontramos uma explicação (neocórtex). Como vimos com a
+descoberta de Claparède, muitas das nossas opiniões e avaliações em
+relação a riscos podem ser simples resultado de emoções.
+Kafka no tribunal
+
+O julgamento de O. J. Simpson nos fornece um exemplo de como a
+sociedade moderna é governada pela probabilidade (devido à explosão
+da informação), embora importantes decisões sejam tomadas sem a
+menor preocupação com as leis probabilísticas. Somos capazes de
+enviar uma espaçonave a Marte, mas incapazes de fazer com que
+julgamentos criminais sejam gerenciados pelas leis básicas da
+probabilidade — embora as provas sejam um conceito probabilístico.
+Lembro-me de ter comprado um livro sobre probabilidade na rede de
+livrarias Borders Books que cava a apenas uma pequena distância do
+tribunal de Los Angeles onde acontecia o “julgamento do século” —
+outro livro que cristalizou o conhecimento quantitativo altamente
+sosticado nesse campo. Como é que tamanha falha no conhecimento
+pôde iludir advogados e jurados a uns poucos quilômetros dali?
+Pessoas que chegam tão perto de cometer crimes quanto podemos
+inferir a partir das leis da probabilidade (isto é, com um grau de
+certeza que excede a sombra de uma dúvida) estão à solta devido à má
+compreensão dos conceitos básicos das probabilidades. Você poderia
+ser condenado por um crime que nunca cometeu devido ao seu pouco
+conhecimento de probabilidade — pois ainda não temos um tribunal
+de justiça que calcule as probabilidades compostas de eventos (a
+probabilidade de dois eventos ocorrerem ao mesmo tempo). Eu estava
+numa sala de corretagem com a televisão ligada quando vi um dos
+advogados argumentando que havia pelo menos quatro pessoas em
+Los Angeles que poderiam ter as mesmas características de DNA que
+O. J. Simpson (ignorando, assim, o conjunto de eventos, o que
+veremos no próximo parágrafo). Desliguei a televisão, desgostoso, o
+que provocou uma ruidosa reclamação uníssona dos traders. Até então
+eu tinha a impressão de que os sosmas haviam sido eliminados dos
+casos legais graças aos altos padrões da Roma republicana. Pior: um
+advogado formado em Harvard usou o argumento capcioso de que
+apenas 10% dos homens que maltratam a esposa chegavam a matá-las,
+o que é uma probabilidade incondicional quanto ao assassinato (não
+vem ao caso se a declaração foi feita devido a uma noção distorcida do
+que é advocacia, por pura malícia ou ignorância). A lei não é devotada
+à verdade? O modo correto de encará-la é determinar a percentagem
+
+de casos em que a mulher foi morta pelo marido e foi espancada por
+ele anteriormente (isto é, 50%) — pois estamos lidando com o que se
+chama de probabilidades condicionais; a probabilidade de que O. J.
+Simpson tenha matado a esposa está condicionada à informação de que
+ela foi morta, e não à probabilidade incondicional de que O. J. Simpson
+a matou. Como podemos esperar que uma pessoa sem treinamento
+compreenda o acaso quando um professor de Harvard, que lida com o
+conceito de provas probabilísticas e dá aulas a respeito faz uma
+declaração tão absurda?
+Mais particularmente, os jurados (e advogados) tendem a cometer
+erros (tendência geral, aliás) quanto à ideia de probabilidade
+composta. Eles não percebem que as provas se acumulam. A
+probabilidade de receber um diagnóstico de câncer no trato
+respiratório e de ser atropelado por um Cadillac cor-de-rosa no
+mesmo ano, supondo que cada uma delas é de 1/100 mil, transforma-
+se em 1/10 bilhões multiplicando-se os dois eventos (obviamente
+independentes). Supondo que O. J. Simpson tivesse 1/500 mil de
+chances de não ser o assassino do ponto de vista da amostra do sangue
+(os advogados usaram o sosma de que havia quatro pessoas com o
+mesmo tipo de sangue naquela região de Los Angeles) e adicionando
+o fato de que ele era o marido da pessoa morta e de que havia outras
+provas, então (devido ao efeito de composição) as chances contra ele
+aumentavam em diversos trilhões de trilhões.
+Pessoas “sosticadas” cometem erros ainda piores. Posso causar
+surpresa ao dizer que a probabilidade de um evento composto é
+menor do que a probabilidade de cada um dos eventos tomado
+separadamente. Recorde a heurística da disponibilidade: com o
+problema Linda, pessoas racionais e educadas consideravam a
+probabilidade de um evento maior do que a de um evento mais amplo
+que o inclui. Fico feliz de ser um trader que tira vantagem das
+tendências das pessoas, mas tenho medo de viver nessa sociedade.
+Um mundo absurdo
+O processo, livro profético de Kafka sobre a odisseia de um homem,
+Joseph K., que é preso por um misterioso e inexplicado motivo,
+acertou na mosca, tendo sido escrito antes que ouvíssemos falar dos
+
+métodos “cientícos” dos regimes totalitários. A obra prevê um futuro
+amedrontador para a humanidade, que se vê enredada em burocracias
+absurdas e autoalimentadas, com regras de geração espontânea sujeitas
+à sua lógica interna. O livro deu origem a toda uma literatura do
+absurdo, que segue a ideia de que o mundo pode ser incompatível
+com os humanos. Certos advogados me apavoram. Depois de ouvir as
+declarações durante o julgamento de O. J. Simpson (e seu efeito),
+quei verdadeiramente amedrontado com a possibilidade de ser preso
+por alguma razão que não faça sentido probabilístico e ter que lutar
+com um falastrão perante um júri que não sabe nada do acaso.
+Armei que uma simples avaliação provavelmente bastaria numa
+sociedade primitiva. É fácil para uma sociedade viver sem matemática
+— como é fácil para traders negociar sem métodos quantitativos —
+quando o espaço de possíveis resultados é unidimensional. Isso
+signica que só temos que olhar para uma única variável, e não para
+um conjunto de eventos isolados. O preço de um título imobiliário é
+unidimensional, enquanto um conjunto de preços de diversos títulos é
+multidimensional e exige modelagem matemática — não podemos ver
+facilmente, a olho nu, o conjunto de possíveis resultados da carteira,
+nem mesmo podemos representá-los num gráco, pois nosso mundo
+físico é limitado à representação de apenas três dimensões. Vamos
+discutir, mais adiante, por que corremos o risco de ter modelos ruins
+(e reconhecidamente temos) ou de cometer o erro de fechar os olhos à
+ignorância — indecisos entre o Caríbdis do advogado que não sabe
+matemática e a Cila do matemático, que faz mau uso da matemática
+porque não tem sensibilidade para escolher o modelo adequado. Em
+outras palavras, oscilamos entre o erro de ouvir tolices de um
+advogado falastrão, que recusa a ciência, e o erro de aplicar teorias
+falhas de algum economista, que leva sua ciência seriamente demais. A
+beleza da ciência é que ela permite os dois tipos de erro. Felizmente,
+há um caminho intermediário — mas, infelizmente, ele raras vezes é
+trilhado.
+Exemplos de predisposição na compreensão da probabilidade
+Na literatura sobre comportamento, encontrei pelo menos quarenta
+exemplos terríveis dessas fortes tendências. Abaixo é apresentada a
+
+descrição de um teste bem conhecido e bastante embaraçoso para a
+comunidade médica. Eu o tomei emprestado do excelente livro
+Aleatoriedade, de Deborah Bennett.
+Um teste de uma doença apresenta uma taxa de 5% de falsos positivos. A doença atinge
+1/1000 da população. As pessoas são submetidas ao teste aleatoriamente, independente
+de haver ou não suspeita de ter a doença. O teste de um paciente dá positivo. Qual é a
+probabilidade de que ele tenha sido atingido pela doença?
+A maioria dos médicos respondeu 95%, simplesmente levando em
+conta o fato de que o teste tem uma taxa de precisão de 95%. A
+resposta certa é a probabilidade condicional de que o paciente esteja
+doente, e o teste dá isso — perto de 2%. Menos de um em cinco
+prossionais conseguiu acertar.
+Vou simplicar a resposta. Pressuponha que não haja negativas
+falsas. Considere que de mil pacientes a quem foi administrado o teste
+a expectativa é de que um tenha a doença. Dos remanescentes 999
+pacientes sadios, o teste identicará cerca de cinquenta com a doença
+(ele tem precisão de 95%). A resposta correta deveria ser que — com
+uma seleção aleatória — a probabilidade de alguém que tivesse
+apresentado um teste positivo sofrer da doença é a relação seguinte:
+Número de pessoas afetadas
+Número de verdadeiros e falsos positivos
+No caso, 1/51.
+Pense no número de vezes que você tomou um remédio com efeitos
+colaterais indesejáveis para determinada doença que lhe disseram que
+tinha, quando talvez houvesse apenas 2% de probabilidade de tê-la de
+fato!
+Somos cegos às opções
+Como trader de opções, noto que as pessoas têm uma inclinação a
+subestimar suas opções, pois em geral são incapazes de avaliar
+mentalmente de maneira correta os instrumentos que produzem um
+resultado incerto, até mesmo quando têm plena consciência da
+matemática. Agentes reguladores reforçam essa ignorância explicando
+
+às pessoas que as opções são um ativo decadente ou debilitado. As
+opções out-of-the-money (OTM) tendem a decair, perdendo o ganho
+entre duas datas.
+Em seguida, darei uma explicação sucinta (mas suciente) do que
+signica uma opção. Digamos que uma ação é negociada por cem
+dólares e que alguém me dá o direito (mas não a obrigação) de
+comprá-la a 110 dólares daqui a um mês. Isso é chamado de uma
+opção de compra. Só faz sentido exercer esse direito (de comprá-la)
+pedindo ao vendedor da opção que me entregue a ação a 110 dólares
+se ela estiver sendo negociada a um preço mais alto do que 110 dentro
+de um mês. Se a ação estiver a 120 dólares, minha opção valerá dez
+dólares, pois poderei comprá-la a 110 e vendê-la ao mercado a 120,
+embolsando a diferença. Mas isso não tem uma probabilidade muito
+alta de acontecer. É uma opção OTM, em que não ganho nada se
+exercê-la de imediato.
+Consideremos que eu compre uma opção por um dólar. Qual é
+minha expectativa quanto ao valor dela daqui a um mês? A maioria
+das pessoas pensaria que é zero, mas isso não é verdade. A opção tem
+uma alta probabilidade, digamos de 90%, de valer zero ao expirar o
+prazo, mas talvez 10% de probabilidade de valer uma média de dez
+dólares. Assim, vendendo-me a opção por um dólar o vendedor não
+garante lucro fácil. Se, em vez disso, os vendedores tivessem
+comprado a ação eles próprios a cem dólares e esperado um mês,
+poderiam tê-la vendido a mim por 120. Portanto, ganhar um dólar
+agora dicilmente pode ser considerado dinheiro sem custo. Da
+mesma forma, comprar a ação não é desperdiçar dinheiro. Até mesmo
+prossionais podem se enganar. Como? Eles confundem valor
+esperado com cenário mais provável (aqui o valor esperado é um
+dólar, e o cenário mais provável é que a opção esteja valendo zero).
+Mentalmente, superestimam a situação mais provável, isto é, que o
+mercado não suba nada. A opção é simplesmente a média ponderada
+das possíveis situações que o ativo pode tomar.
+Há outro tipo de satisfação dada pelo vendedor de opções. É o
+retorno constante e o sentimento de recompensa constante que os
+psicólogos chamam de “ uxo”. É muito prazeroso ir trabalhar de
+
+manhã com a expectativa de ganhar um pouquinho de dinheiro. Exige
+certa força de caráter aceitar a expectativa de perder centavos numa
+base constante, até mesmo se a estratégia tende a ser lucrativa no
+longo prazo. Observei que muito poucos traders de opções podem
+manter uma posição que chamo de “volatilidade longa”, isto é, em que
+provavelmente perderá uma pequena quantia de dinheiro quando do
+vencimento, mas na qual se espera ganhar dinheiro no longo prazo,
+devido a saltos ocasionais do mercado. Descobri que há muito poucas
+pessoas que aceitam perder um dólar na maioria dos vencimentos e
+ganhar dez dólares de vez em quando, até mesmo se o jogo for
+equilibrado (isto é, se zessem dez dólares mais do que 9,1% das
+vezes).
+Divido a comunidade de traders de opções em duas categorias:
+compradores premium e vendedores premium. Os primeiros (também
+chamados de vendedores de opções) vendem opções, e em geral
+ganham dinheiro constantemente, como John nos capítulos 1 e 5.
+Compradores de opções fazem o oposto. Dizem que comem como
+galinhas e vão ao banheiro como elefantes. Para minha tristeza, a
+maioria dos traders de opções que tenho encontrado na vida são
+vendedores premium — quando eles explodem, geralmente é com
+dinheiro dos outros.
+Como é que prossionais aparentemente conhecedores da
+matemática (simples) podem se ver em tal situação? Como
+previamente discutido, nossas ações não são ditadas pelas partes do
+nosso cérebro que comandam a racionalidade. Pensamos com nossas
+emoções e não há meio de fugir disso. Pelo mesmo motivo, pessoas
+que são racionais em certos aspectos podem fumar ou se envolver em
+brigas que não lhes trazem benefícios imediatos, da mesma forma que
+pessoas vendem opções até mesmo quando sabem que não é uma
+coisa boa a fazer. Mas pode car ainda pior. Há uma categoria de
+gente, em geral acadêmicos, que, em vez de adaptar suas ações ao
+cérebro, adapta o cérebro a suas ações. Eles vão atrás da história e
+falsicam as estatísticas para justicar suas ações. No meu ramo de
+negócio, enganam a si mesmos com argumentos estatísticos que
+justiquem a venda de opções.
+
+O que é menos desagradável: perder cem vezes um dólar ou perder
+uma vez cem? Claramente o segundo, porque nossa sensibilidade à
+perda diminui. Então uma política de negócio que rende um dólar por
+dia por um longo tempo e depois perde tudo é na verdade mais
+agradável do ponto de vista hedônico, ainda que não faça sentido
+economicamente. Assim, há incentivo para inventar uma história
+sobre a probabilidade de eventos e seguir com tal estratégia.
+Além disso, há o risco “fator ignorância”. Cientistas zeram testes
+com pessoas quanto ao que mencionei no prólogo como risco
+assumido não por coragem, mas por ter sido subestimado. Foi pedido
+aos sujeitos que previssem uma variedade de preços de títulos no
+futuro, com um limite superior e outro inferior, de modo que 98%
+dos títulos terminassem dentro de tal faixa. É claro que as violações
+aos limites foram bastante grandes, de até 30%.
+Tais violações vêm de um problema muito mais sério: as pessoas
+superestimam seu conhecimento e subestimam a probabilidade de
+estarem erradas.
+Um exemplo para ilustrar a cegueira diante das opções. O que tem
+mais valor: (a) um contrato que paga a você 1 milhão de dólares se o
+mercado cair 10% em qualquer dia no próximo ano ou (b) um
+contrato que paga 1 milhão se o mercado cair 10% em qualquer dia no
+próximo ano devido a um ato terrorista? A maior parte das pessoas
+escolherá (b).
+PROBABILIDADES E MÍDIA (MAIS JORNALISTAS)
+Um jornalista é treinado em métodos para se expressar, e não para
+investigar a fundo as coisas — o processo de seleção favorece os mais
+comunicativos, não necessariamente os que têm mais conhecimento.
+Meus amigos médicos reclamam que muitos jornalistas que cobrem
+sua área não compreendem nada de medicina e biologia, muitas vezes
+cometendo erros de natureza básica. Não posso conrmar essas
+alegações, sendo eu próprio mero amador (embora, ocasionalmente,
+um leitor voraz) no que diz respeito à pesquisa médica, mas tenho
+observado que jornalistas quase sempre compreendem mal as
+probabilidades usadas nas comunicações sobre pesquisa médica. O
+
+que mais confundem é a diferença entre ausência de provas e prova de
+ausência, problema semelhante ao que vimos no capítulo 9. Como?
+Testo determinada quimioterapia, digamos  uorouracil, para câncer
+do trato respiratório superior e descubro que a droga é melhor que
+um placebo, mas apenas marginalmente: (além de outras modalidades)
+ela melhora a sobrevida de 21/100 para 24/100. Dado o tamanho da
+amostra, talvez eu não que conante que os 3% pontos adicionais de
+sobrevida venham do remédio; pode ser algo atribuído inteiramente
+ao acaso. Eu escreveria um trabalho descrevendo meus resultados e
+dizendo que não há provas de melhora na sobrevida (até então) com o
+uso desse remédio, fazendo-se necessárias mais pesquisas. Um
+jornalista médico pega a notícia e declara que o professor N. N. Taleb
+encontrou provas de que o  uorouracil não ajuda em tal caso, o que é
+inteiramente oposto às minhas intenções. Um médico ingênuo, que
+ca mais inquieto com as probabilidades do que até o mais treinado
+dos jornalistas, pega isso e cria um bloqueio mental contra a
+medicação, até mesmo quando um pesquisador nalmente encontra
+provas de que a droga confere clara vantagem no que diz respeito à
+sobrevida.
+CNBC na hora do almoço
+O advento do canal de televisão CNBC, dedicado a assuntos
+nanceiros, trouxe uma série de benefícios para a comunidade
+nanceira, mas fez também com que um conjunto de prossionais
+extrovertidos e prolixos em teorias passassem a emiti-las nos poucos
+minutos que a televisão lhes dá. Vê-se com frequência pessoas
+respeitáveis fazendo declarações ridículas (mas que soam bem) sobre
+as propriedades do mercado de ações. Incluem-se declarações que
+agrantemente violam as leis da probabilidade. Num verão em que
+frequentei com assiduidade a academia de ginástica, muitas vezes ouvi
+declarações do tipo “o mercado real está hoje 10% afastado do pico,
+enquanto a ação média está perto de 40% do pico”, o que pretende ser
+um indicativo de problemas ou anomalias profundas — um arauto dos
+bear market.
+
+Não há incompatibilidade entre o fato de que a ação média está
+40% abaixo do pico, enquanto a média de todas as ações (isto é, o
+mercado) está 10% abaixo de seu próprio pico. Deve-se ter em mente
+que as ações não atingem o pico todas ao mesmo tempo. Dado ao fato
+de que não guardam uma correlação de 100%, a ação A poderia atingir
+sua máxima em janeiro, enquanto a ação B poderia ter atingido sua
+máxima em abril, mas a média das duas ações, A e B, poderia atingir
+seu máximo ao mesmo tempo em fevereiro. Além do mais, no caso de
+ações de correlação negativa, se a ação A está no máximo quando a
+ação B está no mínimo, então ambas poderiam estar 40% abaixo de
+seu máximo quando o mercado de ações estivesse atingindo o pico!
+Por uma lei da probabilidade chamada de “distribuição do máximo das
+variáveis aleatórias”, o máximo de uma média é, necessariamente,
+menos volátil do que a média de um máximo.
+Você deveria estar morto a essa hora
+Isso nos traz à mente outra violação da probabilidade por
+especialistas nanceiros televisivos do horário nobre, que podem ser
+selecionados por sua aparência, seu carisma e por seus dotes de
+apresentador, mas certamente não por sua mente incisiva. Por
+exemplo, uma falácia que tenho visto ser cometida comumente por
+uma proeminente guru nanceira da TV é: “O americano médio tem
+expectativa de vida de 73 anos. Portanto, se você tem 68, a expectativa
+é de que viva mais cinco anos, e deve se programar de acordo com
+isso”. Ela continua dando receitas precisas de como uma pessoa deve
+investir para um horizonte de cinco anos. E se você tem oitenta? Sua
+expectativa de vida é de menos sete anos? O que esses jornalistas
+confundem é expectativa de vida condicional e incondicional. Ao
+nascer, sua expectativa de vida incondicional pode ser de 73 anos.
+Mas, conforme você vai cando mais velho e não morre, sua
+expectativa de vida cresce com você. Por quê? Porque as outras
+pessoas, ao morrer, tiraram seu lugar das estatísticas, pois expectativa
+signica “média”. Portanto, se você tem 73 anos e goza de boa saúde,
+pode ainda ter uma expectativa de nove anos, digamos. Então a
+expectativa mudaria, e aos 82 você teria ainda mais cinco anos, desde
+
+que continuasse vivo, é claro. Até mesmo alguém com cem anos de
+idade tem uma expectativa de vida condicional. Essa declaração,
+quando se pensa nela, não é muito diferente de: “Nossa operação tem
+uma taxa de mortalidade de 1%. Até agora operamos 99 pacientes
+com grande sucesso; você é o centésimo, de forma que tem uma
+probabilidade de 100% de morrer na mesa de operação”.
+Os planejadores nanceiros da TV podem confundir umas poucas
+pessoas. Isso não causa muito mal. O que é muito mais preocupante é
+o fornecimento de informação de não prossionais a prossionais; é
+para os jornalistas que nos voltamos em seguida.
+As explicações da Bloomberg
+Na minha mesa de trabalho tenho uma máquina chamada de
+Bloomberg (do lendário Michael Bloomberg). Ela opera como um
+serviço de e-mail seguro, uma ferramenta de recuperação de dados
+históricos, um sistema de grácos, um auxílio analítico valioso e, não
+menos importante, uma tela em que vejo o preço dos títulos e moedas.
+Estou tão acostumado com isso que não consigo trabalhar sem ela,
+como se eu me sentisse isolado do restante do mundo se não fosse
+pela máquina. Eu a uso para entrar em contato com meus amigos,
+conrmar meus compromissos e resolver algumas das divertidas
+discussões que dão colorido à vida. De alguma forma, os traders que
+não têm um endereço Bloomberg não existem para nós (eles têm que
+recorrer à internet mais plebeia). Mas há um aspecto da Bloomberg
+que eu dispensaria: os comentários jornalísticos. Por quê? Porque eles
+se lançam a explicar coisas e a perpetuar a confusão coluna da
+direita/coluna da esquerda de maneira mais séria. A Bloomberg não é
+a única culpada; mas não tenho lido as seções de negócios dos jornais
+nesta última década, porque prero ler prosa de verdade no lugar.
+Enquanto escrevo estas linhas, vejo as seguintes manchetes na
+máquina:
+O índice Dow está 1,03 acima nas taxas de juros mais baixas
+O dólar caiu 0,12 iene no superávit mais alto japonês
+
+E por aí vai, na página inteira. Se traduzi a coisa direito, o jornalista
+alega estar fornecendo uma explicação de algo que vem a ser ruído
+perfeito. Um deslocamento de 1,03 do Dow, a 11 mil pontos,
+representa menos de 0,01% de deslocamento. Um movimento assim
+não merece explicação. Não há nada que uma pessoa possa tentar
+explicar; não há razão para citá-lo. Mas, assim como os professores
+aprendizes de literatura comparada, os jornalistas pagos para fornecer
+explicações vão, com presteza e alegria, fornecê-las. A única solução
+seria Michael Bloomberg parar de pagar seus jornalistas para fornecer
+comentários.
+Signicação: como eu decido se algo é ou não perfeito ruído?
+Tomemos uma analogia simples. Se você entra numa corrida de
+mountain bike pela Sibéria com um amigo e, um mês depois, o vence
+por um único segundo, é claro que não pode se gabar de ser mais
+rápido do que ele. Você foi ajudado por alguma coisa, ou pode ter sido
+apenas obra do acaso, nada mais. Aquele segundo não é, por si
+mesmo, signicativo o bastante para alguém tirar conclusões. Eu não
+escreveria no meu diário, antes de dormir: O ciclista A é melhor do que
+o ciclista B porque o primeiro come espinafre, enquanto o segundo tem
+uma dieta rica em pasta de soja. Estou tirando essa conclusão porque ele
+me venceu por 1,3 segundo em uma corrida de 4900 quilômetros. Se a
+diferença fosse de uma semana, aí eu poderia começar a analisar se a
+pasta de soja é o motivo ou se há outros fatores.
+Causalidade: há outro problema; até mesmo supondo que haja
+signicação estatística, tem-se que aceitar uma causa e um efeito, ou
+seja, o evento no mercado pode ser relacionado à causa apresentada.
+Post hoc ergo propter hoc (esta é a razão por ter vindo depois).
+Digamos que no hospital A nascem 52% de meninos e no hospital B,
+no mesmo ano, nascem apenas 48%; você acreditaria que teve um
+menino porque fez o parto no hospital A?
+A causalidade pode ser bastante complexa. É muito difícil isolar
+uma única causa quando há muitas adjacentes. Isso é chamado de
+análise multivariável. Por exemplo, se o mercado de ações pode reagir
+às taxas de juros domésticas dos Estados Unidos, ao valor do dólar em
+relação ao iene, ao dólar em relação às moedas europeias, aos
+mercados de ações europeus, à balança de pagamentos americana, à
+
+in ação nos Estados Unidos e a outra dezena de fatores importantes,
+então os jornalistas precisam olhar para todos esses fatores, olhar para
+seu efeito histórico tanto isolada quanto conjuntamente, olhar para a
+estabilidade dessa in uência, e então, depois de consultar a estatística
+resultante do teste, isolar o fator, se for possível. Finalmente, é preciso
+dar um nível de conança ao próprio fator; se ele for menos do que
+90%, a história morre. Posso entender por que Hume era
+extremamente obcecado por causalidade e não podia aceitar uma
+inferência assim em lugar algum.
+Tenho um truque para saber se está ocorrendo alguma coisa real no
+mundo. Ajustei meu monitor Bloomberg para que ele mostre as
+mudanças de valor absoluto e percentual de todos os preços do
+mundo: moedas, ações, taxas de juros e commodities. Com o costume
+de olhar para a mesma disposição de dados durante anos, pois
+mantenho as moedas no canto esquerdo superior e os diversos
+mercados de ações à direita, consegui estabelecer um modo intuitivo
+de saber se está acontecendo alguma coisa séria. O truque é olhar
+apenas para as grandes alterações de percentuais. A menos que algo se
+movimente mais que o percentual diário costumeiro, o evento é
+considerado ruído. Mudanças de percentual têm o tamanho das
+manchetes. Além disso, a interpretação não é linear; uma mudança de
+2% não é um evento duas vezes mais signicativo do que uma
+mudança de 1%, e sim algo cerca de quatro vezes maior. A manchete
+do Dow mudando 1,3 ponto na minha tela hoje tem uma signicação
+um milhão de vezes menor do que teria a forte queda de 7%, em
+outubro de 1997. As pessoas me perguntam: por que tenho que
+aprender um pouco de estatística? A resposta é: gente demais lê as
+explicações. Não podemos, instintivamente, compreender o aspecto
+não linear da probabilidade.
+Filtrando métodos
+Os engenheiros têm métodos para excluir o ruído do sinal nos
+dados. Será que alguma vez já ocorreu a você, enquanto fala com seu
+primo na Austrália ou no Polo Sul, que a estática na linha telefônica
+poderia ser isolada da voz da pessoa com quem está falando? O
+método é considerar que, quando uma mudança de amplitude é
+
+pequena, é mais provável que seja ruído — com essa probabilidade
+sendo um sinal que cresce exponencialmente quando a magnitude
+cresce. Esse método é chamado de alisamento do núcleo, e aparece
+nas guras 11.1 e 11.2. Contudo, nosso sistema auditivo é incapaz de
+realizar essa função sozinho. De maneira parecida, nosso cérebro não
+pode ver a diferença entre uma mudança signicativa de preço e mero
+ruído, em particular quando a mudança vem acompanhada de ruído
+jornalístico não alisado.
+Figura 11.1 Dados não )ltrados contendo sinal e ruído
+
+Figura 11.2 Mesmos dados com o ruído removido
+Não compreendemos os níveis de conança
+Os prossionais esquecem a seguinte realidade: a estimativa ou a
+previsão não interessam tanto quanto o grau de conança na opinião.
+Considere que você vai sair para uma viagem numa manhã de outono
+e precisa ter uma ideia das condições climáticas antes de fazer as
+malas. Se espera uma temperatura de 16°C, com variação de mais ou
+menos 6°C (digamos, no Arizona), não levaria roupas próprias para a
+neve nem um ventilador elétrico portátil. Agora, e se você está indo
+para Chicago, onde lhe dizem que a temperatura, embora seja de
+16°C, variará em cerca de 16°C? Você teria que colocar na mala
+roupas de verão e de inverno. Aqui a expectativa da temperatura tem
+pouca importância no que diz respeito à escolha das roupas: é a
+variação que interessa. Sua mala vai ser bem diferente agora, quando
+lhe dizem que a variabilidade está em torno de 16°C. Mas vamos levar
+a discussão um pouco adiante: e se você estivesse indo para um
+planeta onde a expectativa também ca em torno de 16°C, mas a
+variação é de 240°C? Que tipo de roupa você levaria?
+Dá para ver que a minha atividade no mercado depende muito
+menos de para onde acho que o mercado está indo do que do grau de
+
+erro que me permito cometer em torno de um nível de conança
+assim.
+Uma admissão
+Vamos fechar este capítulo com a seguinte informação: eu me
+considero tão propenso a cometer tolices quanto qualquer outra
+pessoa que conheço, apesar da minha prossão e do tempo que gastei
+para me tornar um especialista no assunto. Contudo, aqui está a
+exceção: sei que sou muito, muito fraco a esse respeito. Minha
+humanidade tentará me derrotar, portanto tenho de manter a guarda.
+Nasci para ser iludido pelo acaso. Isso será explorado na Parte III.
+

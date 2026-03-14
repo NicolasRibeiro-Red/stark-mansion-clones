@@ -1,0 +1,45 @@
+# Streaming Storage
+
+Paginas: 237-237
+
+instruct other nodes to replicate these file blocks so that they again reach the correct
+replication factor. Thus, the probability of losing data is very low, barring a correlated
+failure (e.g., an asteroid hitting the data center).
+Hadoop is not simply a storage system. Hadoop combines compute resources with
+storage nodes to allow in-place data processing. This was originally achieved using
+the MapReduce programming model, which we discuss in Chapter 8.
+Hadoop is dead. Long live Hadoop!
+We often see claims that Hadoop is dead. This is only partially true. Hadoop is
+no longer a hot, bleeding-edge technology. Many Hadoop ecosystem tools such as
+Apache Pig are now on life support and primarily used to run legacy jobs. The pure
+MapReduce programming model has fallen by the wayside. HDFS remains widely
+used in various applications and organizations.
+Hadoop still appears in many legacy installations. Many organizations that adopted
+Hadoop during the peak of the big data craze have no immediate plans to migrate to
+newer technologies. This is a good choice for companies that run massive (thousand-
+node) Hadoop clusters and have the resources to maintain on-premises systems
+effectively. Smaller companies may want to reconsider the cost overhead and scale
+limitations of running a small Hadoop cluster against migrating to cloud solutions.
+In addition, HDFS is a key ingredient of many current big data engines, such as
+Amazon EMR. In fact, Apache Spark is still commonly run on HDFS clusters. We
+discuss this in more detail in “Separation of Compute from Storage” on page 220.
+Streaming Storage
+Streaming data has different storage requirements than nonstreaming data. In the
+case of message queues, stored data is temporal and expected to disappear after a
+certain duration. However, distributed, scalable streaming frameworks like Apache
+Kafka now allow extremely long-duration streaming data retention. Kafka supports
+indefinite data retention by pushing old, infrequently accessed messages down to
+object storage. Kafka competitors (including Amazon Kinesis, Apache Pulsar, and
+Google Cloud Pub/Sub) also support long data retention.
+Closely related to data retention in these systems is the notion of replay. Replay
+allows a streaming system to return a range of historical stored data. Replay is the
+standard data-retrieval mechanism for streaming storage systems. Replay can be used
+to run batch queries over a time range or to reprocess data in a streaming pipeline.
+Chapter 7 covers replay in more depth.
+Other storage engines have emerged for real-time analytics applications. In some
+sense, transactional databases emerged as the first real-time query engines; data
+becomes visible to queries as soon as it is written. However, these databases have
+212
+|
+Chapter 6: Storage
+

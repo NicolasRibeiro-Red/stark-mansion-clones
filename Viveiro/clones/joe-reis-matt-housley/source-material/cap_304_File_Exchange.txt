@@ -1,0 +1,44 @@
+# File Exchange
+
+Paginas: 376-376
+
+• Know the difference between the applications of batch and streaming data in
+•
+training ML models. For example, batch data often fits well with offline model
+training, while streaming data works with online training.
+• What are data cascades, and how might they impact ML models?
+•
+• Are results returned in real time or in batch? For example, a batch speech
+•
+transcription model might process speech samples and return text in batch after
+an API call. A product recommendation model might need to operate in real
+time as the customer interacts with an online retail site.
+• The use of structured versus unstructured data. We might cluster tabular (struc‐
+•
+tured) customer data or recognize images (unstructured) by using a neural net.
+ML is a vast subject area, and this book won’t teach you these topics, or even
+ML generalities. If you’d like to learn more about ML, we suggest reading Hands
+on Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron
+(O’Reilly); countless other ML courses and books are available online. Because the
+books and online courses evolve so rapidly, do your research on what seems like a
+good fit for you.
+Ways to Serve Data for Analytics and ML
+As with analytics, data engineers provide data scientists and ML engineers with the
+data they need to do their jobs. We have placed serving for ML alongside analytics
+because the pipelines and processes are extremely similar. There are many ways to
+serve data for analytics and ML. Some common ways to serve this data include files,
+databases, query engines, and data sharing. Let’s briefly look at each.
+File Exchange
+File exchange is ubiquitous in data serving. We process data and generate files to pass
+to data consumers.
+Keep in mind that a file might be used for many purposes. A data scientist might
+load a text file (unstructured data) of customer messages to analyze the sentiments
+of customer complaints. A business unit might receive invoice data from a partner
+company as a collection of CSVs (structured data), and an analyst must perform
+some statistical analysis on these files. Or, a data vendor might provide an online
+retailer with images of products on a competitor’s website (unstructured data) for
+automated classification using computer vision.
+Ways to Serve Data for Analytics and ML
+|
+351
+

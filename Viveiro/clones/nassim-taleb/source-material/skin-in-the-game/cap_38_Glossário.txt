@@ -1,0 +1,122 @@
+# Glossário
+
+Paginas: 245-248
+
+Glossário
+Rent-seeking: tentar usar regulamentações protetivas ou “direitos” para obter
+renda sem acrescentar coisa alguma à atividade econômica, sem aumentar a
+riqueza dos outros. Como Tony Gordo definiria, é como ser forçado a pagar pela
+proteção da máfia sem obter os benefícios econômicos de tal proteção.
+Revelação de preferências: a teoria, originada com Paul Samuelson (inicialmente
+no contexto da escolha de bens públicos), de que agentes não têm acesso total ao
+raciocínio por trás de suas ações; as ações são observáveis, ao passo que o
+pensamento não é, o que impede que o último seja usado para investigações
+científicas rigorosas. Em economia, os experimentos requerem um gasto real por
+parte do agente. A síntese de Tony Gordo é “papo furado é sempre conversa
+fiada”.
+Captura regulatória: situações em que as regulamentações acabam sendo
+“manipuladas” por um agente, muitas vezes em divergência em relação à intenção
+original da regulamentação. Alguns burocratas e pessoas de negócios talvez
+devam parte de sua renda a regulamentações e franquias protetivas, e fazem
+lobby por elas. Observe que as regulamentações são mais fáceis de implantar do
+que corrigir e remover.
+Cientificismo: a crença de que a ciência parece… ciência, com excessiva ên fase
+nos aspectos cosméticos, e não em sua maquinaria cética. Prevalece em domínios
+com administradores que avaliam contribuições de acordo com as métricas.
+Também predomina em domínios deixados para as pessoas que falam sobre
+ciência sem “fazer”, como jornalistas e professores.
+Racionalismo ingênuo: crença de que temos acesso ao que faz o mundo funcionar
+e de que aquilo que não entendemos não existe.
+Intelectual Porém Idiota: um idiota.
+
+Pseudorracionalismo: 1) focar a racionalidade de uma crença em vez de suas
+consequências, 2) o uso de modelos probabilísticos ruins para reprovar e
+depreciar ingenuamente a “irracionalidade” das pessoas quando elas se
+empenham em determinada classe de ações.
+Problema de agência: desalinhamento de interesse entre o agente e o diretor, ou
+entre o vendedor de carros e você (o proprietário em potencial), ou entre o
+médico e o paciente.
+Negócio de Bob Rubin: pagamento em um domínio distorcido em que os
+benefícios são visíveis (e recompensados com alguma compensação) e o prejuízo
+é raro (e impune devido a não precisar arriscar a própria pele). Pode ser
+generalizado para a política, qualquer coisa em que a penalidade seja fraca e as
+vítimas sejam abstratas e distribuídas (por exemplo, contribuintes ou acionistas).
+Intervencionista: alguém que causa fragilidade porque acha que entende o que
+está acontecendo. Não está exposto ao filtro e à disciplina garantidos a quem
+arrisca a própria pele. Além disso, geralmente é desprovido de senso de humor.
+Falácia da madeira verde: confundir a fonte de conhecimento importante ou, até
+mesmo, necessário — a cor da madeira — com outra, menos visível desde o
+exterior, menos maleável e manejável. Como os teóricos atribuem pesos errôneos
+ao que é preciso saber em determinado ramo de atividade ou, em termos mais
+genéricos, quantas coisas a que chamamos de “conhecimentos relevantes” não são
+tão relevantes assim.
+Efeito de ensinar os pássaros a voar: inverter o vetor do conhecimento para a
+leitura da academia → prática ou educação → riqueza, de modo a fazer parecer
+que a tecnologia deve mais à ciência institucional do que de fato deve. Ver
+Antifrágil.
+Efeito Lindy: quando uma tecnologia, ideia, corporação ou qualquer coisa não
+perecível tem um aumento na expectativa de vida a cada dia sobrevivido adicional
+— ao contrário de itens perecíveis (como humanos, gatos, cães, teo rias
+econômicas e tomates). Assim, um livro que foi publicado há cem anos e ainda
+está disponível provavelmente permanecerá em circulação mais cem anos —
+contanto que suas vendas permaneçam relevantes.
+Ergodicidade: em nosso contexto aqui, a ergodicidade ocorre quando um grupo
+de jogadores tem as mesmas propriedades estatísticas (particularmente
+
+expectativa) de um único jogador ao longo do tempo. As probabilidades de
+conjunto são semelhantes às probabilidades de tempo. A ausência de
+ergodicidade torna as propriedades de risco não diretamente transferíveis da
+probabilidade observada para a compensação de uma estratégia sujeita à ruína (ou
+qualquer barreira absorvente ou hora de parar) — em outras palavras, não é
+probabilisticamente sustentável.
+Mediocristão: um processo dominado pela mediocridade, com poucos sucessos
+ou fracassos extremos (digamos, por exemplo, a renda de um dentista). Nenhuma
+observação única é capaz de afetar significativamente o agregado. Também
+chamado de “cauda curta”, ou membro da família gaussiana de distribuições.
+Extremistão: um processo em que o total pode ser compreensivelmente
+impactado por uma única observação (digamos, por exemplo, a renda de um
+escritor). Também chamado de “cauda longa”. Inclui a família de distribuições
+fractais, ou da lei de potência.
+Regra da minoria: uma assimetria pela qual o comportamento do total é ditado
+pelas preferências de uma minoria. Os fumantes podem estar em áreas livres de
+fumo, mas os não fumantes não podem estar nas áreas reservadas para fumantes,
+então os não fumantes prevalecerão, não porque são inicialmente uma maioria,
+mas porque são assimétricos. O autor defende que línguas, ética e (algumas)
+religiões se disseminam pelo domínio das minorias.
+Via negativa: em teologia e filosofia, o foco naquilo que algo não é, uma definição
+indireta, considerada menos propensa a falácias do que a via positiva. Na ação, é
+uma receita para o que evitar, o que não fazer — a subtração, e não a adição,
+funciona melhor em domínios com efeitos colaterais multiplicativos e
+imprevisíveis. Na medicina, impedir alguém de fumar tem menos efeitos adversos
+do que dar comprimidos e tratamentos.
+Escalabilidade: as qualidades das entidades mudam, muitas vezes abruptamente,
+quando ficam menores ou maiores: cidades são diferentes de grandes estados,
+continentes são muito diferentes de ilhas. O comportamento coletivo se altera
+quando o tamanho dos grupos aumenta, um argumento para o localismo e contra
+o globalismo irrestrito.
+Monocultura intelectual: jornalistas, acadêmicos e outros escravizados que não
+arriscam a própria pele em determinado assunto ou ramo do conhecimento
+
+convergem para um modo “bem-pensante” que pode ser manipulado e muitas
+vezes resiste ao respaldo empírico. A razão é que a penalidade da divergência é
+frequentemente penalizada com rótulos como “putinista”, “assassino de bebês” ou
+“racista” (crianças são sempre usadas por charlatães como um argumento
+sensacionalista). Isso é semelhante ao modo como a diversidade ecológica
+diminui quando uma ilha aumenta de tamanho (ver A lógica do Cisne Negro).
+Mercantilização da virtude: a degradação da virtude quando é usada como uma
+estratégia de marketing. Classicamente, a virtude precisa ser mantida em âmbito
+particular, o que entra em conflito com as mensagens modernas do estilo “salvem
+o meio ambiente”. Os mercadores da virtude são quase sempre hipócritas. Além
+disso, a virtude desprovida de coragem, sacrifício e riscos nunca é virtude. A
+mercantilização da virtude é semelhante à simonia, que na Idade Média permitia a
+uma pessoa de posses comprar posições eclesiásticas ou indulgências, expurgar
+seus pecados por meio de pagamento.
+Regra de Ouro (simetria): Trate os outros da mesma maneira que você gostaria de
+ser tratado.
+Regra de Prata (via negativa da Regra de Ouro): Não faça aos outros o que você
+não gostaria que fizessem a você. Note a diferença com relação à Regra de Ouro,
+uma vez que a de prata impede que os intrometidos tentem conduzir a sua vida.
+Princípio da caridade: Exercer simetria em debates intelectuais; representar o
+argumento do oponente recorrendo à mesma precisão com que você gostaria que
+o seu fosse representado. O oposto do “homem de palha”.
+

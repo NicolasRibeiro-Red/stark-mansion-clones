@@ -1,0 +1,886 @@
+# 3. Uma reflexão matemática sobre a história
+
+Paginas: 64-88
+
+3. Uma reexão matemática sobre a
+história
+A MATEMÁTICA DO EUROPLAYBOY
+O estereótipo de um matemático puro é representado por um homem
+anêmico, de barba desalinhada e unhas sujas e compridas, trabalhando
+em silêncio numa mesa espartana mas desorganizada. Com seus
+ombros magros e uma pança, ele ca sentado numa sala encardida,
+totalmente absorvido na tarefa, indiferente à sujeira do ambiente. Foi
+criado num regime comunista e fala inglês com um sotaque da Europa
+Oriental. Quando come, migalhas se acumulam na barba. Conforme o
+tempo passa, ele ca mais e mais absorto em seu objeto de trabalho,
+teoremas puros, chegando a níveis cada vez mais altos de abstração. O
+público americano foi exposto a um desses personagens com o
+Unabomber, o matemático barbudo e recluso que morava em uma
+barraca e matava pessoas que promoviam a tecnologia moderna.
+Nenhum jornalista foi capaz de chegar perto de descrever o assunto
+da tese dele, “Limites complexos”, por não ter um equivalente
+inteligível — um número complexo é um número completamente
+abstrato e imaginário que inclui a raiz quadrada de −1, algo que não
+possui análogo fora do mundo da matemática.
+O nome Monte Carlo traz à mente a imagem de um homem urbano
+bronzeado do tipo europlayboy entrando em um cassino em meio à
+brisa mediterrânea. Ele sabe esquiar e jogar tênis, mas também se
+garante no xadrez e no bridge. Tem um carro esportivo cinza, usa
+ternos italianos feitos sob medida e bem passados, e fala com cuidado
+e suavidade sobre assuntos mundanos e reais, que um jornalista
+poderia facilmente descrever ao público em frases curtas. Dentro do
+cassino, ele conta as cartas com astúcia, calcula as probabilidades e
+
+aposta de maneira estudada, sua mente produzindo cálculos precisos
+da aposta perfeita. Poderia ser o irmão perdido e mais esperto de
+James Bond.
+Quando penso no método de Monte Carlo, penso alegremente em
+uma combinação de ambas as coisas: o realismo do homem de Monte
+Carlo, sem a supercialidade, misturado com a intuição do
+matemático, sem a abstração excessiva. De fato, esse ramo da
+matemática tem imenso uso prático — não apresenta a mesma aridez
+associada à matemática em geral. Fiquei viciado nisso no minuto em
+que me tornei um trader. Moldou meu pensamento na maior parte
+dos temas relacionados ao acaso. A maior parte dos exemplos usados
+neste livro foi criada com meu gerador Monte Carlo, que apresentarei
+neste capítulo. No entanto, é muito mais um modo de pensar que um
+método computacional. A matemática é principalmente uma
+ferramenta re exiva, e não computacional.
+As ferramentas
+A ideia de histórias alternativas discutida no capítulo anterior pode
+ser ampliada consideravelmente e submetida a todo tipo de
+renamento técnico. Isso nos leva às ferramentas usadas na minha
+prossão para brincar com a incerteza. Vou esboçá-las a seguir. O
+método Monte Carlo, em resumo, consiste em criar história articial
+usando os seguintes conceitos:
+Primeiro, consideremos o caminho da amostragem. As histórias
+invisíveis têm um nome cientíco, caminhos de amostragem
+alternativos, emprestado da matemática das probabilidades, da área
+denominada de processos estocásticos. O conceito de caminho, em
+oposição a resultado, indica que não se trata de mera análise de
+cenários, do estilo MBA, mas do exame de uma sequência de cenários
+no decorrer do tempo. Não estamos preocupados apenas com o local
+aonde o pássaro vai chegar amanhã à noite, mas com todos os diversos
+lugares que ele poderia visitar durante a viagem. Não estamos
+preocupados com qual seria o patrimônio do investidor em um ano,
+digamos, mas com as emoções e agonias que ele pode experimentar
+durante aquele período. A palavra “amostragem” enfatiza que estamos
+
+vendo apenas uma realização entre uma coleção de realizações
+possíveis. Bem, um caminho de amostragem pode ser tanto
+determinístico quanto aleatório, o que nos leva à distinção que se
+segue.
+Um caminho de amostragem aleatório, também chamado percurso
+aleatório, é o nome matemático para uma sucessão de eventos
+históricos virtuais começando em determinada data e terminando em
+outra, os quais são submetidos a um nível variável de incerteza.
+Entretanto, a palavra “aleatório” não deve ser tomada erradamente por
+equiprovável (isto é, tendo a mesma probabilidade). Alguns resultados
+terão uma probabilidade mais alta que outros. Um exemplo de
+caminho de amostragem aleatório pode ser a temperatura do corpo do
+seu primo explorador durante o último surto de febre tifoide medida
+de hora em hora, do início ao m do episódio. Também pode ser uma
+simulação de preço das ações de sua empresa favorita de tecnologia,
+medido diariamente quando do fechamento do mercado durante,
+digamos, um ano. Começando com cem dólares, num contexto esse
+preço pode terminar a vinte dólares, depois de passar por um pico de
+220; em outro, ele pode terminar a 145, depois de desabar até dez.
+Outro exemplo é a evolução de sua riqueza durante uma noite no
+cassino. Você começa com mil dólares no bolso e vai medindo quanto
+tem de quinze em quinze minutos. Num caminho de amostragem,
+você tem 2200 dólares à meia-noite; em outro, mal tem vinte para
+pagar o táxi.
+Processos estocásticos dizem respeito à dinâmica de eventos que
+vão se desenrolando ao longo do tempo. Estocástica é a palavra grega
+elegante para acaso. Esse ramo da probabilidade estuda a evolução de
+eventos aleatórios sucessivos — pode-se chamá-lo de matemática da
+história. A chave desse processo é que ele leva em conta o tempo.
+O que é o gerador Monte Carlo? Imagine que você pode reproduzir
+uma roleta perfeita no seu sótão, sem ter que recorrer a um
+marceneiro. Podem-se elaborar programas de computador que
+simulam praticamente tudo. Eles são até mesmo melhores (e mais
+baratos) do que a roleta feita pelo marceneiro, que pode ter a
+tendência de favorecer um número mais do que os outros devido a
+
+uma pequena inclinação na construção ou no piso do sótão. Essas
+inclinações são chamadas de tendências.
+As simulações Monte Carlo são mais parecidas com um brinquedo
+do que qualquer coisa que já vi na vida adulta. Podem-se gerar
+milhares, talvez milhões, de caminhos de amostragem aleatórios, e
+estudar as características prevalentes em algumas das características
+desses caminhos. O auxílio de um computador é fundamental nesses
+estudos. A glamorosa referência a Monte Carlo indica a metáfora de
+simular eventos aleatórios à feição de um cassino virtual. São
+estabelecidas condições que se acredita que parecem com aquelas que
+prevalecem na realidade e desencadeia-se um conjunto de simulações
+em torno de possíveis eventos. Sem treinamento matemático,
+podemos desencadear uma simulação Monte Carlo de um libanês
+cristão de dezoito anos jogando sucessivamente roleta-russa por dada
+soma e ver quantas dessas tentativas resultam em enriquecimento, ou
+quanto tempo leva, na média, até que o rapaz conste do obituário.
+Podemos mudar o tambor da arma de modo a que contenha
+quinhentos furos, o que fará diminuir a probabilidade de morte, e ver
+os resultados.
+O método de simulação Monte Carlo foi usado pela primeira vez
+no laboratório de física militar em Los Alamos durante a produção da
+bomba atômica. Tornaram-se populares na matemática nanceira na
+década de 1980, particularmente nas teorias do caminho aleatório dos
+preços dos ativos. É preciso dizer que o exemplo da roleta-russa não
+necessita
+de
+todo
+esse
+aparato,
+mas
+muitos
+problemas,
+particularmente os semelhantes a situações da vida real, exigem o
+potencial de um simulador Monte Carlo.
+Matemática Monte Carlo
+Os “verdadeiros” matemáticos não gostam do método Monte Carlo.
+Eles acreditam que esse tipo de método tira a delicadeza e a elegância
+da matemática. Consideram-no “força bruta”. Isso porque podemos
+substituir uma grande parte do conhecimento matemático com um
+simulador Monte Carlo (e outros truques computacionais). Por
+exemplo, alguém sem conhecimento formal de geometria pode
+calcular o misterioso, quase místico, pi. Como? Desenhando um
+
+círculo dentro de um quadrado e “disparando” balas aleatórias dentro
+da gura (como num estande de tiro), especicando probabilidades
+iguais de atingir qualquer ponto do mapa (algo chamado de
+distribuição uniforme). A proporção de acertos dentro do círculo
+dividida pelo número de tiros dentro e fora do círculo nos dará um
+múltiplo do místico pi, com precisão possivelmente innita. É lógico
+que esse não é um meio tão eciente de calcular pi quanto o modo
+analítico, isto é, matemática, mas o método pode dar a alguns usuários
+maior compreensão do assunto do que linhas e linhas de equações. O
+cérebro e a intuição de certas pessoas são orientados de tal modo que
+elas são mais capazes de apreender um ponto dessa maneira (eu me
+incluo entre elas). O computador talvez não seja algo natural para o
+cérebro humano; nem a matemática.
+Não sou um matemático “nativo”, isto é, falo matemática com um
+traço de sotaque estrangeiro. Isso porque não me interessam as
+propriedades matemáticas per se, apenas suas aplicações, enquanto um
+matemático estaria interessado no aperfeiçoamento da ciência
+matemática (por meio de teoremas e provas). Sou incapaz de me
+concentrar na solução de uma única equação, a menos que motivado
+por um problema real (com um mínimo de ganância); assim, a maior
+parte do que eu sei vem de vender e comprar derivativos — o mercado
+de opções me levou a estudar a matemática da probabilidade. Muitos
+jogadores compulsivos, que de outra forma seriam de inteligência
+mediana, adquirem notáveis capacidades para lidar com as cartas
+graças à sua ambição.
+Outra analogia seria a gramática; em geral, a matemática é uma
+gramática tediosa e sem insights. Há aqueles que estão interessados na
+gramática por si só e aqueles interessados em evitar solecismos
+quando redigem documentos. Somos chamados quants — como
+físicos, temos mais interesse no emprego da ferramenta matemática do
+que na ferramenta em si mesma. Os matemáticos nascem, nunca se
+fazem. Físicos e quants também. Não me preocupo com a “elegância” e
+a “qualidade” da matemática que uso, desde que atinja meu objetivo.
+Recorro à máquina Monte Carlo sempre que posso. Ela consegue
+fazer o serviço. É também mais didática e será usada neste livro para
+dar exemplos.
+
+Na verdade, a probabilidade é uma área de investigação de natureza
+introspectiva, pois afeta mais de uma ciência, e particularmente a mãe
+de todas as ciências, que é o conhecimento. É impossível avaliar a
+qualidade do conhecimento que estamos adquirindo sem permitir
+uma parcela de aleatoriedade na maneira como é obtido e sem
+despojar a argumentação da coincidência fortuita que pode ter se
+imiscuído na sua construção. Na ciência, a probabilidade e a
+informação são tratadas exatamente da mesma maneira. Todo grande
+pensador trabalhou com a probabilidade, a maioria deles de modo
+obsessivo. As duas maiores mentes na minha opinião, Einstein e
+Keynes, começaram sua jornada intelectual com ela. Einstein elaborou
+um trabalho fundamental em 1905, como um dos primeiros a
+examinar em termos probabilísticos a sucessão de eventos aleatórios,
+no caso, a evolução de partículas em suspensão num líquido
+estacionário. Sua teoria sobre o movimento browniano pode ser
+considerada a espinha dorsal das teorias de caminho aleatório
+utilizadas na modelagem nanceira. Quanto a Keynes, para a pessoa
+versada em literatura, ele não é o economista político que os
+esquerdistas de paletó xadrez adoram citar, mas o autor do magistral,
+introspectivo e poderoso Tratado sobre a probabilidade. Antes de se
+aventurar no sombrio campo da economia política, Keynes era
+probabilista. Tinha outras qualidades interessantes também (ele se deu
+mal arriscando suas economias no mercado de capitais depois de
+conseguir enorme opulência — a compreensão que as pessoas têm da
+probabilidade não se traduz no seu comportamento).
+O leitor já pode adivinhar que o próximo passo a partir dessa
+introspecção probabilística é mergulhar na losoa, particularmente
+no campo dela que diz respeito ao conhecimento, chamado
+epistemologia, metodologia ou losoa da ciência, e popularizado por
+pessoas como Karl Popper e George Soros. Mas só voltaremos a esse
+assunto ao nal deste livro.
+BRINCADEIRA NO SÓTÃO
+Fazendo história
+
+No início dos anos 1990, como muito dos meus amigos que
+lidavam com nanças quantitativas, quei viciado nas diversas
+máquinas Monte Carlo, que eu mesmo aprendi a construir,
+entusiasmado em sentir que estava gerando história, um demiurgo. É
+estimulante gerar histórias virtuais e observar a dispersão entre os
+diversos resultados. Essa dispersão é indicativa do grau de resistência
+ao acaso. Por isso estou convencido de que tive muita sorte na minha
+escolha de carreira: um dos aspectos atraentes da minha prossão
+como trader de opções quantitativas é que tenho perto de 95% do
+meu dia livre para pensar, ler e pesquisar (ou “re etir” na academia de
+ginástica, nas rampas de esqui, ou, com maior eciência, no banco do
+parque). Também tive o privilégio de “trabalhar” bastante no meu
+sótão, um lugar bem equipado.
+Nosso lucro com a revolução da informática veio da súbita
+disponibilidade de processadores de alta velocidade, capazes de gerar
+1 milhão de caminhos de amostragem aleatórios por minuto. Lembre-
+se de que nunca me considerei melhor do que um entusiasta
+solucionador de equações e raramente fui capaz de proezas nesse
+campo — sendo melhor em montar equações do que em resolvê-las.
+De repente, minha máquina me permitiu solucionar, com um mínimo
+de esforço, as mais intratáveis equações. Poucas soluções caram fora
+do meu alcance.
+Zorglubs enchem o sótão
+Minha máquina Monte Carlo me proporcionou algumas aventuras
+interessantes. Enquanto meus colegas se afogavam em noticiários,
+anúncios do Banco Central, relatórios sobre lucros, previsões
+econômicas, resultados esportivos e política da instituição, comecei a
+brincar com a máquina em áreas limítrofes à minha base de ação, que
+é a probabilidade nanceira. Um campo natural de expansão para o
+amador é a biologia evolutiva — a universalidade de sua mensagem e
+sua aplicação nos mercados era algo atraente. Comecei simulando
+populações de animais de rápida mutação, chamados zorglubs,
+submetidos a mudanças climáticas, e testemunhei as mais inesperadas
+conclusões — alguns dos resultados são repassados no capítulo 5. Meu
+objetivo, como puro amador fugindo do tédio da vida de negócios, era
+
+desenvolver uma intuição para esses eventos — o tipo de intuição que
+amadores constroem partindo da sosticação muito minuciosa do
+pesquisador prossional. Brinquei também com a biologia molecular,
+gerando células cancerosas que surgem de forma aleatória e
+descobrindo certos aspectos surpreendentes de sua evolução.
+Naturalmente, o análogo de fabricar populações de zorglubs era
+simular uma população de vários tipos de traders — “touros idiotas”,
+“ursos impetuosos”, “cautelosos” —sob diferentes regimes de mercado,
+como altas e baixas explosivas, e examinar sua sobrevivência no curto
+e no longo prazo. Dentro dessa estrutura, os “touros idiotas” (traders
+que enriqueceram em um mercado em alta) usariam os procedimentos
+para a compra de mais ativos, jogando os preços ainda mais para cima,
+até seus últimos tostões. Os ursos, contudo, raras vezes “arrebentam”
+na alta, para logo em seguida explodir na baixa. Meus modelos
+mostraram que quase ninguém, na realidade, ganha dinheiro; os ursos
+caíram como moscas na alta e os touros foram dizimados no nal,
+quando os lucros evaporaram ao parar a música. Mas houve uma
+exceção; alguns dos que negociavam opções (eu os chamo de
+compradores de opções) tinham surpreendentemente conservado seu
+poder, e eu quis ser um deles. Por quê? Porque eles podiam comprar
+o seguro contra a explosão, podiam dormir livres de ansiedade à noite
+graças ao conhecimento de que sua carreira não estaria ameaçada
+devido ao resultado de um único dia.
+Se o tom deste livro parece apoiado na cultura do darwinismo e da
+teoria da evolução, isto não se deve a nenhum tipo de ensino formal
+em ciências naturais, mas do modo evolutivo de pensar que me foi
+ensinado pelos simuladores Monte Carlo.
+Tenho que reconhecer que superei em fase de geração caminhos
+aleatórios toda vez que quero explorar uma ideia — mas, devido ao
+hábito de brincar com máquinas Monte Carlo durante anos, não
+consigo mais visualizar um resultado realizado sem referência aos não
+realizados. Chamo isso de “resumir sub-histórias”, expressão que
+peguei emprestada do interessante físico Richard Feynman, que
+aplicou esses métodos para estudar a dinâmica das partículas.
+Usar meu Monte Carlo para fazer e refazer a história me faz
+lembrar dos romances experimentais (os chamados nouveaux romans)
+
+de escritores como Alain Robbe-Grillet, populares nas décadas de
+1960 e 1970. Neles, o mesmo capítulo podia ser escrito e revisto, e o
+escritor mudava o enredo e abria um novo caminho a cada vez. De
+certa forma, o autor estava livre da situação passada que havia ajudado
+a criar e se permitia a indulgência de mudar o enredo retroativamente.
+Desprezando a história
+Mais uma palavra sobre a história sob a perspectiva Monte Carlo. A
+sabedoria das histórias clássicas me estimula a gastar mais tempo na
+companhia dos historiadores clássicos, mesmo que as narrativas, como
+a do alerta de Sólon, tenham se beneciado da pátina do tempo.
+Entretanto, isso vai contra a natureza: aprender com a história não é
+natural para nós, humanos, fato que é plenamente observável nos
+intermináveis ciclos de grandes altas rápidas e quedas abruptas dos
+mercados modernos. Rero-me a historietas, não à teoria da história,
+o historicismo em grande escala, que visa interpretar os eventos com
+teorias baseadas na descoberta de certas leis da evolução da história —
+o tipo de hegelianismo e de historicismo pseudocientíco que leva a
+conclusões como a do m da história (é pseudocientíco porque
+extrai teorias de eventos passados sem aceitar o fato de que essas
+combinações de eventos poderiam ter surgido por obra do acaso; não
+há meios de provar suas assertivas com um experimento controlado).
+Para mim, a história tem utilidade somente no nível de minha
+sensibilidade desejada, afetando o modo pelo qual desejo pensar com
+referência aos eventos passados, sendo capaz de roubar melhor as
+ideias de outros e alavancá-las, corrigir o defeito mental que parece
+bloquear minha capacidade de aprender com os outros. É o respeito
+aos mais velhos que eu gostaria de desenvolver, reforçando a
+deferência que instintivamente sinto por pessoas com cabelo grisalho,
+mas que tem sido erodido na minha vida como trader, em que idade e
+sucesso estão, de certa forma, dissociados. Na verdade, tenho dois
+meios de aprender com a história: o passado, lendo os mais velhos, e o
+futuro, graças ao meu brinquedo Monte Carlo.
+Forno quente
+
+Como mencionei, não é natural, para nós, aprender com a história.
+Temos pistas o bastante para acreditar que nossa estrutura genética
+não favorece o legado da experiência. É lugar-comum dizer que as
+crianças aprendem somente de seus erros; elas só param de querer pôr
+a mão num forno quente quando se queimam; não há alerta de adultos
+que desenvolva nelas a menor forma de cautela. Só que os adultos
+também sofrem da mesma doença. A questão foi examinada pelos
+pioneiros da economia comportamental Daniel Kahneman e Amos
+Tversky com relação às escolhas de tratamentos médicos arriscados —
+eu próprio testemunho isto, pois sou extremamente displicente na
+área da detecção e prevenção (isto é, me recuso a calcular meus riscos
+a partir das probabilidades calculadas para outros, achando que sou
+especial). Contudo, sou extremamente agressivo no tratamento das
+afecções médicas (reajo de maneira excessiva quando me queimo), o
+que não tem coerência com o comportamento racional em face da
+incerteza. Esse desprezo congênito pela experiência dos outros não se
+limita às crianças ou a gente como eu; afeta em grande escala pessoas
+que tomam decisões empresariais e investidores.
+Se você pensa que apenas ler livros de história vai ajudá-lo a
+aprender “com os erros dos outros”, considere a seguinte experiência
+do século XIX. Em um caso notório da psicologia, o médico suíço
+Claparède tinha uma paciente com uma amnésia extremamente
+debilitante. As condições eram tão ruins que ele tinha que se
+apresentar a ela a cada quinze minutos, lembrando-a de quem era. Um
+dia, ele escondeu um alnete na mão antes de apertar a dela. No dia
+seguinte, a paciente rapidamente recolheu a mão quando ele tentou
+cumprimentá-la, mas não o reconheceu. Desde então, muitas
+discussões sobre pacientes com amnésia mostram algum tipo de
+aprendizado sem que a pessoa esteja ciente e sem que isso seja
+guardado na memória consciente. O nome cientíco da distinção
+entre as duas memórias, a consciente e a não consciente, é declarativa
+e não declarativa. Muito da prevenção de riscos que vem da
+experiência é parte da segunda. Se desenvolvi um respeito pela
+história foi apenas me tornando consciente do fato de que não fui
+programado para aprender sobre ela em um texto de referência.
+
+Na verdade, pode ser ainda pior: em alguns aspectos, não
+aprendemos com nossa própria história. Inúmeras linhas de pesquisa
+têm examinado nossa inabilidade de aprender com nossas reações a
+eventos passados. Por exemplo, as pessoas não lembram que suas
+reações emocionais a experiências passadas (positivas ou negativas)
+tiveram vida curta — elas continuam pensando que a compra de um
+objeto vai trazer uma felicidade duradoura ou até mesmo permanente,
+ou que um revés causará um sofrimento profundo e prolongado
+(quando reveses similares no passado não as afetaram por muito
+tempo e a alegria da compra pouco durou).
+Todos os meus colegas que zeram pouco-caso da história
+fracassaram — e ainda estou para encontrar alguém assim que não
+tenha tido um fracasso espetacular. Contudo, o ponto mais
+interessante está nas notáveis similaridades de sua abordagem. Tenho
+observado muitas analogias entre os que fracassaram na crise do
+mercado de ações de 1987, os que tiveram o mesmo m no naufrágio
+do Japão em 1990, os que se arrebentaram na débâcle do mercado de
+títulos de 1994, os que estouraram com a Rússia em 1998 e os que
+foram a pique comprando ações da Nasdaq no ano 2000. Todos
+alegaram que “os tempos são diferentes” ou que “o mercado naquela
+época era diferente”, e ofereceram argumentos intelectuais
+aparentemente bem fundamentados (de natureza econômica) para
+justicar suas alegações. Foram incapazes de aceitar o fato de que a
+experiência dos outros estava ali exposta, a céu aberto, disponível
+livremente para todos, inclusive com livros sobre crises em todas as
+livrarias. Além dos fracassos sistêmicos, generalizados, tenho visto
+centenas de traders forçados a abandonar o negócio depois de
+naufragar de maneira tola, a despeito dos avisos dos veteranos, como a
+criança que põe a mão no forno. Isso lembra minha atitude quanto à
+detecção e prevenção de uma série de doenças às quais estou sujeito.
+Todo mundo acha que é diferente, o que amplica o choque do “por
+que eu?” depois do diagnóstico.
+Habilidades para prever o passado
+Essa questão pode ser discutida sob diferentes pontos de vista. Os
+especialistas chamam o desprezo pela história de determinismo
+
+histórico, caracterizado, em suma, por uma crença segundo a qual
+todos sabemos quando está sendo escrita a história; acreditamos que
+as pessoas que, digamos, assistiram à crise do mercado de ações em
+1929 sabiam, na época, que viviam um evento histórico crucial e que,
+se esse evento se repetisse, elas perceberiam. A vida, para nós,
+assemelha-se a um lme de aventura: sabemos com antecedência que
+algo grande está prestes a acontecer. É difícil imaginar que as pessoas
+que testemunharam a história não soubessem, na época, o quanto
+aquele momento seria importante. Porém todo o respeito que
+devemos ter pela história não se traduz muito bem no tratamento que
+damos ao presente.
+Jean-Patrice, do último capítulo, foi abruptamente substituído por
+um funcionário público bastante interessante que nunca tinha se
+envolvido prossionalmente com o acaso. Ele só tinha estudado no
+tipo certo de lugar onde as pessoas aprendem a escrever relatórios e
+havia ocupado uma posição gerencial em alguma instituição. Como é
+típico com cargos avaliados de maneira subjetiva, ele tentou formar
+uma imagem ruim de seu antecessor: Jean-Patrice foi considerado
+descuidado e pouco prossional. O primeiro ato do funcionário
+público foi fazer uma análise formal das nossas operações; ele
+descobriu que fazíamos operações demais, o que levava a gastos de
+backoÄce muito elevados. Analisou um amplo segmento de operações
+em moeda estrangeira e depois escreveu um relatório explicando que
+cerca de 1% apenas delas geraram lucros signicativos, enquanto o
+resto gerava perdas ou lucros reduzidos. Ele cou chocado que os
+traders não zessem mais operações do tipo lucrativo e menos do tipo
+não lucrativo. Era óbvio para ele que precisávamos seguir suas
+instruções de imediato. Se dobrássemos as operações lucrativas, os
+resultados para a instituição seriam excelentes. Como traders tão bem
+pagos não haviam pensado naquilo antes?
+As coisas parecem óbvias depois que acontecem. O funcionário
+público era um homem muito inteligente, e esse tipo de erro é bem
+mais prevalente do que seria de imaginar. Tem a ver com o modo
+como nossa mente lida com a informação histórica. Quando olhamos
+
+para o passado, ele sempre parece determinístico, já que uma única
+probabilidade ocorreu. Nossa mente interpreta a maior parte dos
+eventos não considerando os precedentes, mas os seguintes. Imagina
+fazer uma prova conhecendo as respostas. Embora saibamos que a
+história segue adiante, é difícil perceber que a vemos em retrospectiva.
+E por que isso? Discutiremos melhor no capítulo 11, mas eis uma
+explicação possível: nossa mente não foi projetada para compreender
+como o mundo trabalha, e sim para escapar de problemas depressa e
+ter lhos. Se fosse feita para que compreendêssemos as coisas, então
+teríamos uma máquina nela capaz de repassar a história como em um
+videocassete, com a cronologia correta, o que nos retardaria tanto que
+teríamos diculdade de funcionar. Os psicólogos chamam essa
+supervalorização do que se sabe no momento de um evento devido a
+informações posteriores o viés retrospectivo, que é o efeito “eu já
+sabia”.
+O funcionário público passou a chamar as operações que não
+geravam lucros de “erros grosseiros”, como os jornalistas julgam
+decisões que acabam custando a um candidato a eleição de “erro”.
+Repetirei isso até car rouco: um erro não é algo que se determina
+depois do fato, mas à luz das informações que se tinha até então.
+Um efeito mais perigoso do viés retrospectivo é que aqueles que
+são muito bons em prever o passado pensarão em si mesmos como
+bons em prever o futuro e se sentirão conantes quanto à sua
+habilidade em fazê-lo. É por isso que acontecimentos como o Onze
+de Setembro nunca nos ensinam que vivemos em um mundo em que
+eventos importantes não são previsíveis — até o colapso das Torres
+Gêmeas parece ter sido previsível na época.
+Meu Sólon
+Tenho outra razão para ser obcecado pelo alerta de Sólon. Retorno
+ao mesmo quinhão de terra do Mediterrâneo oriental onde a história
+aconteceu. Meus ancestrais experimentaram fases de extrema
+opulência e de vergonhosa penúria no decurso de uma única geração,
+com abruptas regressões que pessoas à minha volta — com a memória
+de um progresso constante e linear — não creem possível (pelo menos
+não na época em que escrevo). Os que me cercam, ou tiveram (até
+
+agora) poucos reveses familiares (com exceção da Grande Depressão)
+ou, mais frequentemente, não são imbuídos de um senso histórico
+bastante aguçado para re etir sobre o passado. É como se a alma de
+gente com minha formação, grego-ortodoxa do Mediterrâneo oriental,
+e de cidadãos da Roma oriental tivesse sido gravada com a lembrança
+daquele triste dia de abril, cerca de quinhentos anos atrás, quando
+Constantinopla, invadida pelos turcos, desapareceu da história,
+deixando-nos como súditos perdidos de um império morto, minorias
+muito prósperas em um mundo islâmico — com uma saúde muito
+frágil. Lembro-me vivamente da imagem de meu avô, um homem
+digno, ex-vice-primeiro-ministro e lho de um vice-primeiro-ministro
+(que só vi vestido de terno), residindo num apartamento de aspecto
+deprimente em Atenas, tendo seus bens se dissipado durante a guerra
+civil libanesa. Incidentalmente, tendo experimentado a devastação da
+guerra, acho o empobrecimento indigno muito mais duro do que o
+perigo físico (de certa forma, morrer com toda a dignidade me parece
+muito preferível a viver uma vida de faxineiro, que é uma das razões
+pelas quais detesto os riscos nanceiros muito mais do que os riscos
+físicos). Estou certo de que Creso se preocupava mais com a perda do
+seu reino do que com os perigos que corria sua vida.
+Há um aspecto importante e incomum do pensamento histórico,
+talvez mais aplicável a mercados do que a qualquer outra coisa:
+diferentemente de muitas ciências “exatas”, a história não se presta à
+experimentação. Mas, de certa forma, em geral a história é bastante
+poderosa para nos dar, ao longo do tempo, no médio e no longo
+prazos, a maior parte das situações possíveis, enterrando o bandido.
+Transações ruins acabam pegando você, diz-se frequentemente no
+mercado de capitais. Os matemáticos da probabilidade dão a isso o
+nome elegante de ergodicidade. Signica, grosso modo, que (sob certas
+circunstâncias) caminhos de amostragem aleatórios muito longos
+terminam parecendo uns com os outros. As propriedades de um
+caminho de amostragem muito longo seriam semelhantes às
+propriedades Monte Carlo de uma média de caminhos mais curtos. Se
+tivesse vivido mil anos, o faxineiro do capítulo 1, que ganhou na
+loteria, não poderia esperar ganhar mais loterias. Aqueles que não
+tiveram sorte na vida, a despeito de sua capacidade, subiriam, no nal.
+
+O idiota sortudo poderia ter se beneciado de alguma sorte na vida,
+mas no longo prazo convergiria lentamente para o estado de um idiota
+menos sortudo. Cada um reverteria a seus atributos no longo prazo.
+PENSAMENTO DESTILADO
+Notícia de última hora
+O jornalista, minha bête noire, entrou neste livro com George Will
+lidando com resultados aleatórios. Na próxima etapa mostrarei como
+meu brinquedinho Monte Carlo ensinou-me a apreciar o pensamento
+destilado, expressão que uso para designar o pensamento que se
+baseia nas informações à nossa volta que foram despojadas dos ruídos
+sem sentido que desviam a atenção. Isso porque a diferença entre
+ruído e informação, o tópico deste livro (o ruído tem mais
+aleatoriedade), tem uma analogia: é a diferença entre jornalismo e
+história. Para ser competente, um jornalista deveria encarar os
+assuntos da mesma forma que um historiador, sem enfatizar o valor da
+informação que ele está fornecendo, ao dizer, por exemplo: “Hoje a
+Bolsa subiu, mas essa informação não é tão importante, pois ela
+resulta principalmente do ruído”. No entanto, ele certamente perderia
+seu emprego ao banalizar o valor da informação que tem em mãos.
+Não apenas é difícil para o jornalista pensar mais como um
+historiador, mas o historiador — que tristeza! — está cando mais
+parecido com o jornalista.
+Para uma ideia, idade é beleza (é prematuro discutir a matemática
+dessa tese). A aplicabilidade do alerta de Sólon sobre a vida na
+aleatoriedade, em contraste com a mensagem exatamente oposta que
+nos apresenta a cultura prevalente, afogada pela mídia, reforça meu
+instinto de valorizar o pensamento destilado sobre o pensamento mais
+novo, independente da aparente sosticação do segundo — outra
+razão para acumular respeitáveis volumes na minha mesa de cabeceira
+(confesso que os únicos assuntos sobre os quais leio atualmente na
+imprensa são as bisbilhotices sociais da alta roda, muito mais
+interessantes, encontradas em Tatler, Paris Match e Vanity Fair — além
+da Economist). Além do decoro do pensamento antigo em comparação
+
+com a grossura da tinta fresca, gastei algum tempo redigindo a ideia na
+matemática dos argumentos evolutivos e da probabilidade condicional.
+Isso porque o fato de uma ideia ter sobrevivido tanto tempo,
+atravessando tantos ciclos, é indicativo de sua adequação relativa. O
+ruído, pelo menos algum ruído, foi ltrado. Matematicamente,
+progresso signica que algumas informações novas serão melhores que
+informações passadas, mas não que a média das novas informações
+suplantará a média das informações passadas — o que signica que é
+uma boa escolha, quando em dúvida, rejeitar a nova ideia, a nova
+informação ou o novo método. Clara e chocantemente, sempre. Por
+quê?
+O argumento em favor de “coisas novas” e até mesmo de “coisas
+novíssimas” é o seguinte: olhe para as profundas mudanças que foram
+trazidas pelas novas tecnologias, como o automóvel, o avião, o telefone
+e o computador pessoal. A conclusão mais comum (que prescindiu do
+pensamento probabilístico) seria de que todas as novas tecnologias e
+invenções revolucionariam igualmente nossa vida. Mas nesse ponto a
+resposta não é tão óbvia, se vemos e contamos apenas os vencedores,
+com a exclusão dos perdedores (é como dizer que atores e escritores
+são ricos, ignorando o fato de que atores são, em grande parte, garçons
+— e têm sorte, se comparados aos escritores, que são menos populares
+e vendem batatas fritas no McDonald’s). O jornal de sábado relaciona
+dezenas de novas patentes de itens que podem revolucionar nossa
+vida. As pessoas tendem a concluir que, porque algumas invenções
+revolucionaram nossa vida, as invenções devem ser sancionadas e que
+devemos preferir o novo ao velho. Tenho opinião oposta. O custo da
+perda de uma “coisa novíssima”, como o avião e o automóvel, é
+minúsculo se comparado à toxicidade e a todo o lixo com que
+precisamos conviver para possuir essas joias (pressupondo que
+tenham trazido alguma melhoria para nossa vida, coisa de que
+frequentemente duvido).
+O mesmo argumento se aplica à informação. O problema não é que
+ela seja divergente e geralmente inútil, mas sua toxidade. Vamos
+examinar o valor duvidoso das notícias altamente frequentes, com
+uma discussão mais extensa e mais técnica de ltragem de sinal e de
+frequência de observação. Direi aqui que esse respeito pelo tempo,
+
+que reverenciamos, nos fornece argumentos para descartar qualquer
+comércio com o jornalista tagarela moderno e implica uma exposição
+mínima à mídia como um princípio orientador para alguém envolvido
+no processo de tomada de decisões num cenário de incertezas. Achar
+algo além de ruído na massa de noticiário “urgente” que nos
+bombardeia é como encontrar uma agulha em um palheiro. As pessoas
+não percebem que a mídia é paga para chamar a atenção. Para um
+jornalista, o silêncio raramente sobrepuja a palavra.
+Nas raras ocasiões em que viajei no trem das 6h42 para Nova York,
+observei com espanto as hordas de homens de negócios deprimidos
+(que pareciam preferir estar em outro lugar) diligentemente
+mergulhados na leitura de The Wall Street Journal, avaliando os
+detalhes de companhias que, no momento em que escrevo,
+provavelmente já encerraram suas atividades. Na realidade, é difícil
+perceber se eles pareciam deprimidos porque estavam lendo o jornal,
+se pessoas depressivas são levadas a ler jornal, ou se pessoas que
+vivem fora de seu hábitat genético tanto leem jornal quanto parecem
+sonolentas e deprimidas. Contudo, se no início de minha carreira essa
+atenção geral ao ruído me ofendia intelectualmente, já que eu
+considerava a informação insignicante em termos estatísticos para
+que pudesse chegar a qualquer conclusão de peso, hoje a encaro com
+grande prazer. Fico feliz em presenciar essa onda de decisões idiotas
+pautadas no terror pós-leitura de ordens de investimento — em outras
+palavras, hoje a leitura em massa de tais matérias é, para mim, um
+fator de segurança para que eu continue no meu divertido negócio de
+trader contra os joguetes do acaso. (É preciso um enorme
+investimento em introspecção para aprender que as trinta ou mais
+horas passadas “estudando” o noticiário no mês anterior não ajudaram
+em nenhuma previsão para suas atividades naquele mês e nem ao
+menos tiveram impacto no seu conhecimento atual do mundo. Esse
+problema é similar à nossa diculdade de corrigir erros do passado:
+como uma matrícula na academia feita para satisfazer uma resolução
+de Ano-Novo, muitas vezes as pessoas pensam que certamente será a
+próxima leva de notícias que vai fazer a diferença em sua compreensão
+das coisas.)
+
+Shiller revisitado
+A ideia do valor negativo da informação sobre a sociedade deve-se
+em grande parte a Robert Shiller. Não apenas nos mercados
+nanceiros, mas de modo geral, seu trabalho de 1981 talvez tenha sido
+o primeiro esboço de uma formulação matemática sobre o modo como
+a sociedade lida com a informação. Shiller plantou sua marca com seu
+estudo sobre a volatilidade dos mercados, mostrando que se o preço
+de uma ação é o valor estimado de “algo” (digamos, os  uxos de caixa
+futuros de uma corporação), então os preços de mercado são voláteis
+demais em relação às manifestações tangíveis daquele “algo” (ele usou
+dividendos como proxy). Os preços oscilam mais do que os
+fundamentos que devem re etir; sua reação é visivelmente excessiva,
+tornando-os às vezes altos demais (quando ultrapassam rapidamente
+as boas notícias, ou quando sobem sem motivo aparente) e baixos
+demais em outras ocasiões. A volatilidade diferencial entre preços e
+informação signica que algo na “expectativa racional” não funcionou.
+(Os preços não re etem, racionalmente, o valor no longo prazo dos
+valores mobiliários, deslocando-se rapidamente numa ou noutra
+direção.) Os mercados tinham que estar errados. Shiller então
+proclamou que os mercados não são tão ecientes como estabelecia a
+teoria nanceira (mercados ecientes signicavam, em resumo, que os
+preços deveriam se adaptar a toda informação disponível, de modo a
+ser totalmente imprevisíveis para nós, humanos, e evitar que as
+pessoas obtivessem lucros). Essa conclusão desencadeou apelos das
+ordens religiosas das altas nanças para que fosse destruído o inel
+que cometia tal apostasia. É interessante notar que, por uma estranha
+coincidência, esse mesmo Shiller foi estraçalhado por George Will
+apenas um capítulo atrás.
+A principal crítica contra Shiller veio de Robert C. Merton. Os
+ataques foram puramente no terreno metodológico (a análise de
+Shiller era muito grosseira: seu uso de dividendos no lugar de lucros,
+por exemplo, era um ponto bem fraco). Merton também defendia a
+posição da teoria nanceira ocial, segundo a qual os mercados
+precisavam ser ecientes e não entregariam oportunidades numa
+bandeja de prata. Contudo, o mesmo Robert C. Merton apresentou-
+
+se, mais tarde, como “sócio fundador” de um hedge fund, que
+objetivava tirar vantagem das ineciências do mercado. Embora o
+hedge fund de Merton tenha constituído um enorme fracasso por
+causa do problema do cisne negro (do lado negativo), uma iniciativa
+desse tipo exige, por implicação, que ele concorde com Shiller sobre a
+ineciência do mercado. Em suma, o defensor dos dogmas das
+nanças modernas e dos mercados ecientes montou um fundo que
+se aproveitava das ineciências do mercado! É como se o papa tivesse
+se convertido ao islamismo.
+As coisas não estão melhores hoje. No momento em que escrevo,
+novos fornecedores oferecem todo tipo de atualizações, “notícias de
+última hora” que podem ser enviadas eletronicamente. A taxa de
+informação não destilada em relação à destilada está crescendo,
+saturando os mercados. As mensagens dos mais velhos não precisam
+ser entregues a você como notícias de última hora.
+Isso não signica que todos os jornalistas sejam joguetes dos
+fornecedores de ruído aleatório: há hordas de prossionais
+ponderados (posso citar Anatole Kaletsky, de Londres, e Jim Grant e
+Alan Abelson, de Nova York, como representantes subestimados da
+classe dos jornalistas nanceiros, e Gary Stix no jornalismo cientíco);
+o que acontece é que o jornalismo destrambelhado da grande mídia se
+constitui em um processo de fornecimento de ruído para atrair a
+atenção geral, e não há meio de separar os dois tipos de jornalismo.
+Na verdade, jornalistas inteligentes são com frequência penalizados.
+Assim como o advogado no capítulo 11, que não se preocupa com a
+verdade, e sim com os argumentos que podem fazer um júri mudar de
+opinião e cujos defeitos intelectuais ele próprio conhece intimamente,
+o jornalismo vai para onde pode atrair nossa atenção, com ferroadas
+sonoras apropriadas. Novamente aqui, meus amigos eruditos carão
+pensando por que me exalto ao declarar o óbvio sobre jornalistas: o
+problema com minha prossão é que dependemos deles para obter a
+informação de que precisamos.
+Gerontocracia
+A opção pelo pensamento destilado implica privilegiar velhos
+investidores e traders, isto é, investidores que estão expostos aos
+
+mercados há mais tempo — posição que vai contra a prática
+comumente adotada em Wall Street de dar preferência àqueles que
+têm sido mais lucrativos e preferir os mais jovens sempre que possível.
+Brinquei com simulações Monte Carlo de populações heterogêneas de
+traders sob uma variedade de regimes (com forte semelhança com as
+populações históricas), e encontrei uma signicativa vantagem em
+escolher traders mais velhos, usando, como critério de seleção, seus
+anos de experiência acumulada, em vez do sucesso absoluto (isto é, se
+não fracassaram rotundamente). “Sobrevivência dos mais aptos”, uma
+expressão tão viciada na mídia de investimentos, parece-me não ser
+algo bem compreendido: com uma mudança de regime, como veremos
+no capítulo 5, não ca claro quem na verdade é o mais apto, e aqueles
+que sobreviverão não são, necessariamente, os que dão essa impressão.
+Curiosamente, eles seriam os mais velhos, apenas porque as pessoas
+mais velhas caram mais tempo expostas ao evento raro e podem ser,
+convincentemente, mais resistentes a ele. Achei curioso descobrir um
+argumento evolutivo semelhante na seleção para acasalamento,
+segundo o qual as mulheres preferem (na média) unir-se a homens
+sadios mais velhos em vez de homens sadios mais jovens, todos os
+outros fatores sendo iguais, pois os primeiros fornecem certa
+evidência de que têm melhores genes. Cabelo grisalho indica uma
+capacidade maior de sobreviver — desde que, tendo atingido a fase de
+cabelos grisalhos, tenha maior resistência aos embates da vida.
+Curiosamente, empresas de seguro de vida na Itália renascentista
+chegaram a idêntica conclusão, cobrando o mesmo prêmio de seguro
+para um homem na casa dos vinte anos e outro na casa dos cinquenta,
+sinal de que tinham a mesma expectativa de vida; uma vez cruzada a
+marca dos quarenta anos, um homem já tinha apresentado as poucas
+doenças que poderiam prejudicá-lo. Agora, vamos reformular esses
+argumentos sob o aspecto matemático.
+FILÓSTRATO EM MONTE CARLO: A DIFERENÇA ENTRE RUÍDO E
+INFORMAÇÃO
+O homem sábio presta atenção ao signicado, o tolo apreende
+somente o ruído. O poeta grego moderno K. P. Kavás escreveu em
+
+1915 um poema baseado no adágio de Filóstrato que dizia que os
+deuses percebem coisas no futuro, as pessoas comuns no presente, e
+os sábios aquelas que estão prestes a acontecer. Escreveu Kavás: “Na
+sua intensa meditação, o som oculto das coisas que se aproximam os
+alcança, e eles ouvem respeitosamente enquanto na rua, do lado de
+fora, as pessoas não ouvem absolutamente nada”.
+Pensei muito e durante bastante tempo em como explicar, com o
+mínimo de matemática possível, a diferença entre ruído e signicado,
+e como mostrar por que a escala de tempo é importante na avaliação
+de um evento histórico. O simulador Monte Carlo pode nos fornece
+essa percepção. Começaremos com um exemplo emprestado do
+mundo dos investimentos (isto é, da minha prossão), pois nele a
+ideia pode ser explicada de maneira bastante fácil e aplicada de
+qualquer outra forma.
+Vamos inventar um dentista, alegremente aposentado, vivendo em
+uma agradável cidadezinha ensolarada. Sabemos a priori que ele é um
+excelente investidor e espera obter um retorno de 15% a mais que um
+título de uma Treasury Bill, com uma taxa de erro de 10% (que
+chamamos de volatilidade). Isso signica que, de cem caminhos de
+amostragem, esperamos que perto de 68 deles caiam dentro de uma
+faixa de mais ou menos 10% em torno do lucro, isto é, entre 5% e
+25% (para ser técnico: a distribuição normal com curva em formato
+de sino tem 68% de todas as observações caindo entre –1 e 1 desvios
+padrões). Isso também signica que 95 caminhos de amostragem
+caem entre –5% e 35%.
+Estamos lidando com uma situação bastante otimista, claro. O
+dentista montou uma mesa de operações muito boa no seu sótão,
+esperando passar todos os dias úteis observando o mercado com uma
+xícara de cappuccino descafeinado nas mãos. Tem um temperamento
+aventureiro, de modo que acha que essa atividade é mais interessante
+do que car passando a broca nos dentes de relutantes velhinhas da
+Park Avenue.
+Ele contratou um serviço de internet que lhe fornece
+continuamente os preços, obtidos hoje por uma fração do que ele paga
+pelo café. Põe a relação de sua carteira de ações na planilha que
+mostra e calcula informações sobre vendas, impostos, lucros etc., e
+
+pode assim acompanhar instantaneamente o valor de sua carteira
+especulativa. Estamos vivendo na chamada era da conectividade.
+Um lucro de 15% com 10% de volatilidade (ou incerteza) por ano
+se traduz em uma probabilidade de 93% de ganhar dinheiro em
+determinado ano. Mas, numa escala de tempo reduzido, isso se traduz
+numa probabilidade de 50,02% de ganhar dinheiro em determinado
+segundo, como é mostrado no Quadro 3.1. Com um incremento de
+tempo muito pequeno, a observação revelará quase nada. Contudo, o
+coração do dentista não lhe dirá isso. Sendo emotivo, ele sofre a cada
+perda mostrada em vermelho na tela do computador. Também sente
+um certo prazer quando o desempenho é positivo, mas que não
+equivale à dor que experimenta quando é negativo.
+Quadro 3.1: Probabilidade de ganhar dinheiro em diferentes escalas
+Escala
+Probabilidade
+1 ano
+93%
+1 trimestre
+77%
+1 mês
+67%
+1 dia
+54%
+1 hora
+51,3%
+1 minuto
+50,17%
+1 segundo
+50,02%
+No nal de cada dia o dentista estará emocionalmente esgotado.
+Um exame minuto a minuto de seu desempenho mostrará que cada
+dia (supondo oito horas por dia) terá 241 minutos agradáveis contra
+239 desagradáveis. Isso corresponde a 60 688 e 60 271 por ano,
+respectivamente. Agora, perceba que se o minuto desagradável é mais
+intenso do que o agradável, então o dentista incorre em um grave
+décit quando examinado seu desempenho em alta frequência.
+Consideremos a situação em que o dentista examina sua carteira de
+investimentos apenas quando recebe o extrato mensal da corretora.
+Como 67% de seus meses serão positivos, ele tem apenas quatro
+pontadas de dor por ano e oito experiências prazerosas. Isso acontece
+com o mesmo dentista seguindo a mesma estratégia. Agora
+consideremos o dentista olhando para seu desempenho apenas uma
+
+vez por ano. Nos próximos vinte anos que se espera que ele viva,
+experimentará dezenove surpresas agradáveis para cada uma
+desagradável!
+Essa propriedade escalar do acaso é geralmente mal compreendida
+até mesmo por prossionais. Tenho visto ph.Ds. discutirem sobre um
+desempenho observado numa escala de tempo estreita (sem sentido
+por qualquer outro padrão). Antes de criticar novamente os
+jornalistas, parece apropriado fazer mais observações.
+Visto por outro ângulo, se tomarmos a taxa de ruído em relação ao
+que chamamos de não ruído (isto é, coluna da esquerda/coluna da
+direita), que temos o privilégio aqui de examinar quantitativamente,
+teremos o seguinte: em cada ano observamos aproximadamente 0,7
+parte de ruído para cada desempenho; em uma hora, trinta partes de
+ruído para cada desempenho, e em um segundo, 1796 partes de ruído
+para cada desempenho.
+Umas poucas conclusões:
+1. Num pequeno incremento de tempo, observa-se a variabilidade
+da carteira, não os retornos. Em outras palavras, vê-se a variância
+e pouco mais. Sempre me obrigo a lembrar que o que se observa
+é, na melhor das hipóteses, uma combinação de variância e
+retornos, não apenas retornos (mas minhas emoções não se
+importam com o que digo a mim mesmo).
+2. Nossas emoções não foram projetadas para compreender essa
+questão. O dentista saiu-se melhor quando lidava com extratos
+mensais do que com outros mais frequentes. Talvez tivesse sido
+melhor que se limitasse a extratos anuais. (Se você acha que pode
+controlar suas emoções, pense que algumas pessoas também
+acreditam que podem controlar as batidas do coração ou o
+crescimento dos os de cabelo.)
+3. Quando vejo um investidor acompanhando sua carteira com
+preços on-line no seu telefone celular, eu sorrio.
+Finalmente, devo avisar que não sou imune a esse defeito
+emocional. Contudo, lido com esse problema não acessando nenhuma
+informação, exceto em circunstâncias raras. De novo, prero ler
+
+poesia. Se um evento é bastante importante, acabará encontrando um
+caminho até os meus ouvidos. Voltarei a esse ponto mais tarde.
+A mesma metodologia pode explicar por que o noticiário (em
+grande escala) é cheio de ruído e por que a história (em pequena
+escala) é, em grande parte, desprovida dele (embora repleta de
+problemas de interpretação). Isso explica por que prero não ler o
+jornal (a não ser o obituário), por que nunca bato papo sobre o
+mercado e, quando estou na sala de corretagem, procuro os
+matemáticos e as secretárias, não os traders. Isso explica por que é
+melhor ler a New Yorker às segundas do que o Wall Street Journal toda
+dia de manhã (sem falar no enorme desnível de padrão intelectual
+entre as duas publicações).
+Finalmente, isso explica por que as pessoas que olham o acaso de
+muito perto acabam esgotadas, suas emoções sugadas pela série de
+pontadas de dor que experimentam. Independente do que aleguem,
+uma pontada negativa não é compensada por uma positiva (alguns
+economistas comportamentais estimam que um efeito negativo é 2,5
+vezes maior que um positivo); isso levará a um décit emocional.
+Agora que você sabe que o dentista que verica seu desempenho
+com alta frequência tem maior exposição às pontadas positivas e
+negativas, e que as duas não se cancelam, considere que pessoas de
+avental branco examinaram algumas propriedades assustadoras desse
+tipo de pontada negativa no sistema nervoso (o efeito normalmente
+esperado é alta pressão sanguínea, o não esperado é estresse crônico,
+que leva à perda de memória, perda da plasticidade do cérebro e dano
+cerebral). Até onde sei, não há estudos investigando as propriedades
+exatas do esgotamento do trader, mas a exposição diária a graus tão
+altos de aleatoriedade sem muito controle tem efeitos psicológicos
+(ninguém estudou o efeito de tal exposição ao risco de câncer). O que
+os economistas há muito não entendem sobre pontadas positivas e
+negativas é que tanto sua biologia quanto sua intensidade são
+diferentes. Leve em conta que elas são processadas em distintas partes
+do cérebro — o grau de racionalidade nas decisões tomadas depois de
+um ganho é extremamente diferente daquele depois de uma perda.
+Note também a implicação de que riqueza não importa tanto para o
+bem-estar quanto a rota utilizada para chegar a ela.
+
+Algumas pessoas supostamente sábias e racionais frequentemente
+me culpam por “ignorar” possíveis informações valiosas nos jornais
+diários e por me recusar a desconsiderar os detalhes do ruído como
+“eventos de curto prazo”. Alguns dos meus patrões têm me culpado de
+viver no mesmo planeta que eles.
+Meu problema é que não sou racional e tenho forte inclinação a me
+afogar no acaso e incorrer na tortura emocional. Tenho consciência da
+minha necessidade de ruminar em bancos de parque e cafés, afastado
+das informações, mas só posso fazer isso se co, de certa forma, longe
+das notícias. Minha única vantagem na vida é que conheço algumas
+das minhas fraquezas, principalmente a de não conseguir controlar
+emoções diante do noticiário e de ser incapaz de ver um desempenho
+com a mente clara. O silêncio é muito melhor. Falaremos mais sobre
+isso na Parte III.
+

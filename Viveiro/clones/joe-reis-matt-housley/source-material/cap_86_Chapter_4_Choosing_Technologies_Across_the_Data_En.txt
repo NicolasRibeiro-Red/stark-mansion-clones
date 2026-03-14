@@ -1,0 +1,33 @@
+# Chapter 4. Choosing Technologies Across the Data Engineering Lifecycle
+
+Paginas: 140-140
+
+CHAPTER 4
+Choosing Technologies Across the Data
+Engineering Lifecycle
+Data engineering nowadays suffers from an embarrassment of riches. We have no
+shortage of technologies to solve various types of data problems. Data technologies
+are available as turnkey offerings consumable in almost every way—open source,
+managed open source, proprietary software, proprietary service, and more. However,
+it’s easy to get caught up in chasing bleeding-edge technology while losing sight
+of the core purpose of data engineering: designing robust and reliable systems to
+carry data through the full lifecycle and serve it according to the needs of end users.
+Just as structural engineers carefully choose technologies and materials to realize an
+architect’s vision for a building, data engineers are tasked with making appropriate
+technology choices to shepherd data through the lifecycle to serve data applications
+and users.
+Chapter 3 discussed “good” data architecture and why it matters. We now explain
+how to choose the right technologies to serve this architecture. Data engineers must
+choose good technologies to make the best possible data product. We feel the criteria
+to choose a good data technology is simple: does it add value to a data product and
+the broader business?
+A lot of people confuse architecture and tools. Architecture is strategic; tools are
+tactical. We sometimes hear, “Our data architecture are tools X, Y, and Z.” This is
+the wrong way to think about architecture. Architecture is the high-level design,
+roadmap, and blueprint of data systems that satisfy the strategic aims for the business.
+Architecture is the what, why, and when. Tools are used to make the architecture a
+reality; tools are the how.
+We often see teams going “off the rails” and choosing technologies before map‐
+ping out an architecture. The reasons vary: shiny object syndrome, resume-driven
+115
+

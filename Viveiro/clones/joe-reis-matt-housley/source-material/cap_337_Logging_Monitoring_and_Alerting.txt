@@ -1,0 +1,41 @@
+# Logging, Monitoring, and Alerting
+
+Paginas: 400-400
+
+Encryption
+Encryption is not a magic bullet. It will do little to protect you in the event of a
+human security breach that grants access to credentials. Encryption is a baseline
+requirement for any organization that respects security and privacy. It will protect
+you from basic attacks, such as network traffic interception.
+Let’s look separately at encryption at rest and in transit.
+Encryption at rest
+Be sure your data is encrypted when it is at rest (on a storage device). Your company
+laptops should have full-disk encryption enabled to protect data if a device is stolen.
+Implement server-side encryption for all data stored in servers, filesystems, databases,
+and object storage in the cloud. All data backups for archival purposes should also be
+encrypted. Finally, incorporate application-level encryption where applicable.
+Encryption over the wire
+Encryption over the wire is now the default for current protocols. For instance,
+HTTPS is generally required for modern cloud APIs. Data engineers should always
+be aware of how keys are handled; bad key handling is a significant source of data
+leaks. In addition, HTTPS does nothing to protect data if bucket permissions are left
+open to the public, another cause of several data scandals over the last decade.
+Engineers should also be aware of the security limitations of older protocols. For
+example, FTP is simply not secure on a public network. While this may not appear
+to be a problem when data is already public, FTP is vulnerable to man-in-the-middle
+attacks, whereby an attacker intercepts downloaded data and changes it before it
+arrives at the client. It is best to simply avoid FTP.
+Make sure everything is encrypted over the wire, even with legacy protocols. When in
+doubt, use robust technology with encryption baked in.
+Logging, Monitoring, and Alerting
+Hackers and bad actors typically don’t announce that they’re infiltrating your systems.
+Most companies don’t find out about security incidents until well after the fact. Part
+of DataOps is to observe, detect, and alert on incidents. As a data engineer, you
+should set up automated monitoring, logging, and alerting to be aware of peculiar
+events when they happen in your systems. If possible, set up automatic anomaly
+detection.
+Here are some areas you should monitor:
+Technology
+|
+375
+

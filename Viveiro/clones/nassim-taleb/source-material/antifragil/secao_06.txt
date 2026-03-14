@@ -1,0 +1,142 @@
+3. O gato e a máquina de lavar roupa
+Estresse é conhecimento
+(
+e conhecimento é estresse
+)
+— O orgânico e o mecânico — Sem necessidade de tradução, por enquanto — Despertando o animal em nós, depois de duzentos anos de modernidade
+A ousada conjectura feita aqui é que tudo que contém vida é, até certo ponto, antifrágil (mas não o inverso). Parece que o segredo da vida é a antifragilidade.
+Geralmente, o natural — o biológico — costuma ser antifrágil e frágil, dependendo da fonte (e da gama) de variação. Um corpo humano pode beneficiar-se com os estressores (para ficar mais forte), mas só até certo ponto. Por exemplo, os ossos ficarão mais densos quando for aplicado a eles o estresse episódico, um mecanismo formalizado com o nome de Lei de Wolff, a partir do artigo de um cirurgião alemão publicado em 1892. Mas o mesmo não pode ser dito de uma iguaria, um carro, um objeto inanimado — esses podem ser robustos, mas não podem ser intrinsecamente antifrágeis.
+A matéria inanimada — isto é, não viva —, quando submetida a estresse, costuma sofrer fadiga do material ou quebrar-se. Uma das raras exceções que vi foi no relatório de um experimento de 2011, realizado por Brent Carey, um estudante de pós-graduação, que mostra que um material composto de nanotubos de carbono dispostos de determinada maneira produz uma resposta que se fortalece sozinha inédita em materiais sintéticos, “similar ao autofortalecimento localizado que ocorre em estruturas biológicas”. Isso cruza a fronteira entre a vida e o inanimado, pois pode levar ao desenvolvimento de materiais de suporte de carga adaptáveis.
+Podemos usar a distinção como um marcador entre vivos e não vivos. O fato de o artificial precisar ser antifrágil para que sejamos capazes de usá-lo à guisa de tecido é uma diferença bastante interessante entre o biológico e o sintético. Mais cedo ou mais tarde, sua casa, seu processador de alimentos e sua escrivaninha se desgastam e não têm propriedades de autorreparação. Eles podem parecer melhores com o tempo (quando artesanais), assim como sua calça jeans parecerá mais descolada com o uso, mas no fim das contas o tempo cobrará seu preço, e até o mais sólido dos materiais acabará tendo o mesmo aspecto das ruínas romanas. Sua calça jeans pode parecer melhor e mais descolada quando desgastada, mas o material não ficará mais forte, tampouco se autorreparará. Pense porém em um material que tornasse sua calça jeans mais forte, que a fizesse autorregenerar-se e melhorar com o tempo.
+1
+É verdade que, embora se autorreparem, no fim das contas os humanos se desgastam (com sorte, deixando para trás seus genes, livros ou qualquer outra informação — mas essa é outra discussão). Porém o
+fenômeno do envelhecimento é incompreendido e muitas vezes carregado de predisposições mentais e falhas lógicas. Observamos as pessoas idosas e as vemos envelhecer, então associamos envelhecimento a perda de massa muscular, fraqueza óssea, perda da função mental, apreço por músicas de Frank Sinatra e efeitos degenerativos semelhantes. Mas essas deficiências de autorreparação resultam, em larga medida, de desajustes — ou estressores de menos ou muito pouco tempo de recuperação entre eles —, e desajuste, para este autor, é o descompasso entre o desígnio de um indivíduo e a estrutura da aleatoriedade do ambiente (o que chamo, em termos mais técnicos, de suas “propriedades distributivas ou estatísticas”). O que observamos no “envelhecimento” é uma combinação de desajuste e senescência, e parece que é possível separar os dois — a senescência pode não ser evitável, e não deve ser evitada (isso seria contradizer a lógica da vida, como veremos no próximo capítulo); o desajuste é evitável. Grande parte do envelhecimento resulta de um equívoco com relação ao efeito de conforto — uma doença da civilização: tornar a vida cada vez mais longa, enquanto as pessoas ficam cada vez mais doentes. Em um ambiente natural, as pessoas morrem sem envelhecer — ou depois de um período muito curto de envelhecimento. Por exemplo, alguns marcadores, como a pressão arterial, que tendem a piorar com o tempo no ser humano moderno, não mudam no decorrer da vida de caçadores e coletores, até o derradeiro fim.
+E esse envelhecimento artificial é consequência do interior sufocante da antifragilidade.
+O complexo
+Essa dicotomia orgânico-mecânico é uma boa distinção inicial para a construção de intuições sobre a diferença entre dois tipos de fenômeno, mas podemos fazer melhor. Muitas coisas, tais como a sociedade, as atividades econômicas, os mercados e o comportamento cultural, são, aparentemente, criadas pelo homem, mas crescem por si próprias para chegar a algum tipo de auto-organização. Elas podem não ser estritamente biológicas, mas lembram o biológico, no sentido de que, de certa forma, multiplicam-se e se reproduzem — pense em boatos, ideias, tecnologias e empresas. Eles estão mais próximos do gato do que da máquina de lavar roupa, mas tendem a ser confundidos com máquinas de lavar roupa. Dessa maneira, podemos generalizar nossa distinção para além do biológico/não biológico. Mais eficaz é a distinção entre sistemas complexos e não complexos.
+Engenhocas mecânicas artificiais e de engenharia criadas pelo homem, com respostas simples, são complicadas mas não “complexas”, já que não apresentam interdependências. Você aperta um botão, um interruptor de luz por exemplo, e obtém uma resposta exata, sem ambiguidade possível nas consequências, até mesmo na Rússia. Mas, em sistemas complexos, as interdependências são rigorosas. É preciso pensar em ecologia; se eliminarmos um animal específico, desarranjaremos a cadeia alimentar: seus predadores morrerão de fome e suas presas se multiplicarão sem controle, o que levará a complicações e a uma série de efeitos colaterais em cascata. Os leões eram exterminados por cananeus, fenícios, romanos e, mais tarde, pelos
+habitantes do monte Líbano, o que levou à proliferação de cabras ávidas por raízes de árvores, contribuindo para o desmatamento de áreas de montanha, consequências difíceis de serem previstas. Da mesma forma, se um banco for fechado em Nova York, isso causará efeitos em cascata da Islândia à Mongólia.
+No mundo complexo, a noção de “causa” em si é suspeita; é quase impossível detectar ou não se é de fato definida — outra razão para deixar de lado os jornais, com seu constante fornecimento de causas para as coisas.
+ESTRESSORES SÃO INFORMAÇÃO
+Ora, o xis da questão dos sistemas complexos, aqueles com partes interativas, é que eles transmitem informações para esses componentes por meio de estressores, ou graças a esses estressores: nosso corpo obtém informações sobre o meio ambiente não através de nosso aparato lógico, inteligência e capacidade de raciocinar, computar e calcular, mas por meio do estresse, via hormônios ou outros mensageiros que ainda não descobrimos. Como vimos, seus ossos ficarão mais fortes quando submetidos à gravidade, digamos, após seu (breve) período como funcionário de uma empresa de transporte de pianos. Eles se enfraquecerão depois que você passar as próximas férias de fim de ano em uma estação espacial com gravidade zero ou (e poucas pessoas se dão conta disto) se você passar muito tempo andando de bicicleta. A pele nas palmas de suas mãos ficará calejada se você passar o verão em uma fazenda cooperativa de estilo soviético. Sua pele clareia no inverno e fica bronzeada no verão (especialmente se você tiver origens mediterrâneas, menos se você tem ascendência
+irlandesa ou africana ou de outros lugares com clima mais uniforme ao longo do ano).
+Além disso, os erros e suas consequências são informação; para crianças pequenas, a dor é a única informação de gerenciamento de risco, uma vez que suas faculdades lógicas não estão muito desenvolvidas. Pois os sistemas complexos são, afinal de contas, compostos de informação. E ao nosso redor há muito mais transmissores de informação do que enxergamos à primeira vista. É o que chamaremos de
+opacidade causal
+: é difícil ver a conexão direta entre causa e consequência, o que faz com que muitos métodos convencionais de análise, além da lógica-padrão, se tornem inaplicáveis. Como eu disse, a previsibilidade de eventos específicos é baixa, e é essa opacidade que a torna baixa. Não só isso, mas, por causa das não linearidades, é preciso ter uma visibilidade maior do que com os sistemas regulares — em vez disso, o que temos é a opacidade.
+FIGURA 2.
+Essa imagem ilustra o motivo do meu interesse por ossos. Você encontra situações idênticas de carregamento de água ou de grãos na cabeça em sociedades tradicionais na Índia, na África e nas Américas. Existe até mesmo uma canção de amor levantina sobre uma bela mulher com uma ânfora na cabeça. Os benefícios para a saúde poderiam superar a medicação
+para densidade óssea — mas essas formas de terapia não beneficiariam os lucros da indústria farmacêutica. Crédito: Creative Commons.
+Pensemos novamente nos ossos. Tenho uma queda por ossos, e a ideia que discutirei a seguir fez com que eu me concentrasse em levantar objetos pesados, em vez de usar aparelhos das academias. Essa obsessão pelo esqueleto começou quando me deparei com um artigo de autoria de Gerard Karsenty e colegas publicado na revista
+Nature
+em 2003. Costuma-se pensar que o envelhecimento é que
+causa
+fraqueza óssea (os ossos perdem densidade, tornam-se mais frágeis), como se houvesse uma relação de mão única, possivelmente ocasionada por hormônios (as mulheres começam a ter sintomas de osteoporose após a menopausa). Acontece que, conforme demonstraram Karsenty e outros que desde então se aventuraram nessa linha de pesquisa, o inverso também é, em grande medida, verdadeiro: a perda de densidade óssea e a degradação da saúde dos ossos também
+causam
+envelhecimento, diabetes e, no caso dos homens, perda de fertilidade e da função sexual. Nós simplesmente não podemos, em um sistema complexo, isolar nenhuma relação causal. Ademais, a história dos ossos e o concomitante equívoco de interconexão ilustram como a falta de estresse (aqui, ossos sob uma carga de levantamento de peso) pode causar o envelhecimento, e que privar de estressores os sistemas antifrágeis famintos por estresse produz uma grande quantidade de fragilidade, que transportaremos para os sistemas políticos no Livro
+II
+. O método de exercícios de Lenny, aquele que eu observava e tentava imitar no capítulo anterior, parecia girar em torno tanto de estressar e fortalecer os ossos quanto de fortalecer os músculos
+— ele não sabia muito a respeito do mecanismo, mas havia descoberto, heuristicamente, que o levantamento de pesos beneficiava seu sistema de alguma forma. A senhora na figura 2, graças a uma vida inteira carregando jarros de água na cabeça, tem uma saúde extraordinária e excelente postura.
+Nossas antifragilidades têm condições. A frequência dos estressores tem alguma importância. Os seres humanos tendem a se sair melhor com os estressores agudos do que com os crônicos, em especial quando os primeiros são seguidos de um amplo tempo para a recuperação, o que possibilita aos estressores fazerem seu trabalho como mensageiros. Por exemplo, sofrer um terrível choque ao ver uma cobra saindo do teclado do meu computador ou um vampiro entrando no meu quarto, seguido de um período de reconfortante segurança (com chá de camomila e música barroca) longo o suficiente para que eu consiga recuperar o controle de minhas emoções, seria benéfico para minha saúde, contanto que, é claro, eu seja capaz de derrotar a cobra ou o vampiro após uma luta intensa e, espera-se, heroica, e tirar uma foto ao lado do predador morto. Esse tipo de estressor seria, certamente, melhor do que o estresse moderado mas contínuo de um chefe, de uma hipoteca, de problemas fiscais, da culpa por adiar a entrega da declaração de imposto de renda, da pressão das provas, dos afazeres domésticos, dos e-mails a responder, dos formulários a preencher, dos deslocamentos diários de casa para o trabalho — coisas que fazem a pessoa se sentir presa na própria vida. Em outras palavras, as pressões criadas pela civilização. Na verdade, os neurobiólogos mostram que o primeiro tipo de estressor é necessário e o segundo é prejudicial à saúde da pessoa. Para se ter uma ideia do quanto
+pode ser danoso um estressor de baixo impacto, sem tempo de recuperação, pense no que é conhecido como a tortura da gota chinesa: uma gota de água batendo ininterruptamente no mesmo ponto da cabeça, sem nunca permitir que a pessoa se recupere.
+De fato, Héracles conseguiu controlar a Hidra cauterizando as feridas nos cotos das cabeças que ele tinha acabado de decepar. Dessa maneira, ele impediu o recrescimento das cabeças e o exercício da antifragilidade. Em outras palavras, ele desarticulou a recuperação.
+A tabela 2 mostra a diferença entre os dois tipos. Observe que pode haver etapas intermediárias entre o engendrado e o orgânico, embora as coisas tendam a se agrupar em um bloco ou no outro.
+O leitor pode obter uma noção do principal problema que enfrentamos com as adulterações e as intervenções de cima para baixo de sistemas políticos (ou sistemas complexos similares), tema do Livro
+II.
+O fragilista confunde a economia com a máquina de lavar roupa, que precisa de manutenção mensal, ou interpreta incorretamente as propriedades de seu corpo tomando-as por aquelas de um tocador de
+CD
+s. O próprio Adam Smith fez analogia entre a economia e um relógio de pulso ou de parede que, uma vez acionado, continua trabalhando por conta própria. Mas tenho certeza de que ele não pensava exatamente dessa forma, que ele via a economia como organismos, mas carecia de uma estrutura para expressar esse enfoque. Smith compreendia a opacidade dos sistemas complexos, bem como as interdependências, já que desenvolveu o conceito da “mão invisível”.
+2
+TABELA 2 • O MECÂNICO E O ORGÂNICO (BIOLÓGICO OU NÃO BIOLÓGICO)
+O MECÂNICO, NÃO COMPLEXO
+O ORGÂNICO, COMPLEXO
+Precisa de reparos e manutenção contínuos
+Autorreparação
+Odeia a aleatoriedade
+Adora a aleatoriedade (pequenas variações)
+Não há necessidade de recuperação
+Necessita de recuperação entre os estressores
+Pouca ou nenhuma interdependência
+Alto grau de interdependência
+Estressores causam fadiga do material
+Ausência de estressores causam atrofia
+Envelhece com o uso (desgaste natural)
+Envelhece com a falta de uso*
+Subcompensa com impactos
+Sobrecompensa com impactos
+O tempo traz somente senescência
+O tempo traz envelhecimento e senescência
+Mas, infelizmente, ao contrário de Adam Smith, Platão não compreendeu a opacidade. Promovendo a famosa alegoria do
+navio do Estado
+, ele comparou um Estado a uma embarcação, que, é claro, requer o monitoramento de um capitão. Ele argumenta, em última análise, que os únicos homens aptos a se tornar pilotos desse navio são os reis filósofos, homens benevolentes com poder absoluto, que têm acesso à Forma do Bem. E, vez por outra, ouvem-se clamores de “quem está nos guiando?”, como se o mundo precisasse de alguém para guiá-lo.
+Equilíbrio, de novo não
+Os cientistas sociais usam o termo “equilíbrio” para descrever a igualdade entre forças opostas — a oferta e a demanda, por exemplo —, de modo que pequenas perturbações ou desvios em uma direção, como os de um pêndulo, seriam contrabalançados com um ajuste na direção contrária, o que recolocaria as coisas em um estado de estabilidade. Em suma, acredita-se que este seja o objetivo de uma economia.
+Examinando mais a fundo aquilo com que, segundo o desejo desses cientistas sociais, deveríamos nos envolver, tal meta poderia ser a morte. Pois o teórico da complexidade Stuart Kaufman usa a ideia de equilíbrio para separar os dois mundos diferentes da tabela 2.
+Para o não orgânico, o não complexo, por exemplo, um objeto sobre a mesa, o equilíbrio
+(conforme é tradicionalmente definido)
+acontece em um estado de inércia. Assim, para algo orgânico, o equilíbrio
+(nesse sentido)
+só acontece com a morte
+. Vejamos um exemplo dado por Kaufman: na banheira da sua casa, um redemoinho começa a se formar e vai continuar. Esse tipo de situação está permanentemente “longe do equilíbrio” — e parece que os organismos e os sistemas dinâmicos existem nesse estado.
+3
+Para eles, um estado de normalidade requer certo grau de volatilidade, de aleatoriedade, de contínua troca de informações e de estresse, o que explica os danos a que podem estar sujeitos quando privados de volatilidade.
+CRIMES CONTRA CRIANÇAS
+Não apenas somos avessos a estressores e não
+os compreendemos, como também estamos cometendo crimes contra a vida, os seres vivos, a ciência e a sabedoria, em nome da eliminação da volatilidade e da variação.
+Sinto raiva e frustração quando penso que um em cada dez norte-americanos acima da idade do ensino médio faz uso de algum tipo de antidepressivo — por exemplo, Prozac. De fato, hoje em dia, quando a pessoa passa por alterações de humor, tem de justificar por que
+não está
+usando alguma medicação. Pode haver bons motivos para uma pessoa se medicar, em casos patológicos graves, mas meu humor, minha tristeza, meus ataques de ansiedade são uma segunda fonte de inteligência — talvez até mesmo a primeira. Fico sossegado e perco energia física quando chove, torno-me mais meditativo e tendo a escrever mais e mais lentamente, com os pingos de chuva tamborilando a janela, o que Verlaine chamou de “soluços” (
+sanglots
+) outonais. Em certos dias, entro em estados melancólicos poéticos, o que os lusófonos chamam de
+saudade
+, ou os turcos, de
+hüzün
+(da palavra árabe para tristeza). Em outros, sou mais agressivo, tenho mais energia — e escrevo menos, ando mais, faço outras coisas, discuto com pesquisadores, respondo a e-mails, desenho gráficos em quadros-negros. Deveria eu ser transformado em um vegetal ou em um imbecil feliz?
+Se o Prozac estivesse disponível no século
+XIX
+, o “
+spleen
+” de Baudelaire, os estados de ânimo de Edgar Allan Poe, a poesia de Sylvia Plath (esta já no século
+XX
+), os lamentos de tantos outros poetas, tudo que tivesse alma teria sido silenciado…
+4
+Se as grandes empresas farmacêuticas tivessem a capacidade de eliminar as estações do ano, provavelmente fariam isso — tudo em nome do lucro, é claro.
+Há outro perigo: além de prejudicar as crianças, estamos prejudicando a sociedade e o nosso futuro. As medidas que visam reduzir a variabilidade e as oscilações na vida das crianças também estão reduzindo a variabilidade e as diferenças no âmbito da nossa dita Grande Sociedade Culturalmente Globalizada.
+Punido pela tradução
+Outra característica esquecida dos estressores está na aquisição da linguagem — não conheço ninguém que tenha aprendido sua língua materna em um livro didático, começando com a gramática e, avaliado por provas bi/trimestrais, tenha ajustado sistematicamente as palavras às regras adquiridas. Você aprende melhor um idioma graças à dificuldade da situação, de erro em erro, quando precisa se comunicar em circunstâncias mais ou menos tensas ou exaustivas, particularmente para expressar necessidades urgentes (como as necessidades físicas, aquelas que surgem depois de um jantar em um país de clima tropical).
+As pessoas aprendem novas palavras sem fazer um grande esforço cerebral, mas sim com outro tipo de esforço: comunicar-se, principalmente sendo forçadas a adivinhar o que se passa na mente da outra pessoa — acabando com o medo de cometer erros. Sucesso, riqueza e tecnologia, infelizmente, tornaram muito mais difícil esse modo de aquisição. Há alguns anos, quando eu não despertava o interesse de ninguém, organizadores de conferência estrangeiros não me ofereciam o “assistente de viagem” bajulador, fluente no inglês do Facebook, então eu era forçado a me virar sozinho e, portanto, a aprender o vocabulário apontando o dedo e recorrendo
+ao método de tentativa e erro (exatamente como fazem as crianças) — nenhum dispositivo portátil, nenhum dicionário, nada. Agora sou punido com o privilégio e o conforto — e não consigo resistir ao conforto. A punição vem na forma de uma pessoa, fluente em inglês, que me recebe no aeroporto mostrando um cartaz com meu nome escrito incorretamente, sem estresse, sem ambiguidade e nenhuma exposição ao russo, ao turco, ao croata ou ao polonês fora dos feios (e organizados) manuais escolares. O que é pior, a pessoa é bajuladora; a prolixidade cordial é algo bastante doloroso na condição de jet lag.
+Contudo, a melhor maneira de aprender um idioma talvez seja passar por um episódio de encarceramento em um país estrangeiro. Meu amigo Chad Garcia melhorou seu russo graças a uma estadia involuntária na ala de quarentena de um hospital em Moscou por causa de uma doença imaginária. Foi uma espécie sagaz de sequestro médico, já que, durante a confusão após o fim do regime soviético, os hospitais extorquiam os viajantes com internações forçadas, a menos que eles pagassem vultosas somas em dinheiro para ter seus documentos liberados. Chad, então muito pouco fluente no idioma, foi forçado a ler Tolstói no original e adquiriu um vocabulário e tanto.
+Turistificação
+Meu amigo Chad se beneficiou com o tipo de transtorno que é cada vez menos vigente graças à doença moderna da turistificação. Esse é meu termo para um aspecto da vida moderna que trata os seres humanos como máquinas de lavar roupa, com respostas mecânicas simplificadas — e um detalhado manual do usuário. É a sistemática eliminação da incerteza e da aleatoriedade das coisas,
+tentando tornar os assuntos extremamente previsíveis em seus mais ínfimos detalhes. Tudo isso em nome do conforto, conveniência e eficiência.
+O que um turista é em relação a um aventureiro ou a um flanador, a turistificação é em relação à vida; consiste em transformar as atividades, e não apenas o ato de viajar, no equivalente a um roteiro feito para atores e atrizes. Veremos de que modo a turistificação castra os sistemas e os organismos que gostam da incerteza sugando a sua aleatoriedade até a última gota — ao mesmo tempo que lhes propicia a ilusão de benefícios. Os culpados são o sistema educacional, o planejamento do financiamento de pesquisas científicas teleológicas, o bacharelado francês, os aparelhos das academias etc.
+E a agenda eletrônica.
+Mas a pior turistificação é a vida que nós, modernos, temos de levar em cativeiro, durante nossas horas de lazer: a ópera nas noites de sexta-feira, festas planejadas, risadas programadas. Mais uma vez, a cadeia de ouro.
+Essa atitude “focada nos objetivos” dói profundamente dentro do meu eu existencial.
+A ânsia secreta pelo acaso
+O que nos leva ao aspecto existencial da aleatoriedade. Se você não for uma máquina de lavar roupa ou um relógio cuco — em outras palavras, se você estiver vivo —, algo dentro de você gosta de um pouco de aleatoriedade e desordem.
+Há uma sensação de empolgação associada à aleatoriedade. Gostamos do mundo moderado (e bastante domesticado) dos jogos, seja assistindo a competições esportivas, seja com a tensão em meio aos lances de dados
+em uma visita a Las Vegas. Eu mesmo, enquanto escrevo estas linhas, tento evitar a tirania de um planejamento preciso e explícito extraindo ideias de uma fonte opaca dentro de mim que me traz surpresas. A escrita só vale a pena quando nos proporciona o frêmito do efeito de aventura, e é essa a razão pela qual aprecio a elaboração de livros e tenho aversão à camisa de força das 750 palavras dos artigos de opinião, que, mesmo sem o filistinismo do editor, me faz verter lágrimas de tédio. E, por incível que pareça, aquilo que entedia o autor quando escreve entediará também o leitor.
+Se eu pudesse prever exatamente como seria meu dia, eu me sentiria menos vivo.
+Ademais, essa aleatoriedade é necessária para a vida verdadeira. Considere que toda a riqueza do mundo não é capaz de comprar um líquido mais prazeroso do que a água depois de uma sede intensa. Poucos objetos trazem mais emoção do que uma carteira (ou um laptop) recuperada, que havia sido perdida no trem ou no táxi. Acresce que, em um hábitat ancestral, nós, humanos, fomos instigados por estímulos naturais — medo, fome, desejo — que nos levaram a praticar exercícios físicos e a nos tornar aptos e adaptados ao nosso ambiente. Pense em como é fácil encontrar a força para levantar um carro se debaixo dele houver uma criança chorando, ou correr para salvar sua própria vida se você se deparar com um animal selvagem atravessando a rua. Compare isso com o peso da obrigação de frequentar uma academia às seis da tarde e, lá, sofrer bullying de um personal trainer — a menos, é claro, que você esteja sob o imperativo de ficar com a aparência de um guarda-costas. Pense, também, em como é fácil pular uma refeição quando a aleatoriedade do ambiente nos leva a fazê-lo por causa da
+falta de comida — em comparação à “disciplina” de seguir à risca um plano de dieta de dezoito dias.
+Existe um tipo de pessoa para quem a vida é um projeto. Depois de conversar com gente assim, você passa algumas horas sentindo-se mal; a vida começa a ter gosto de comida insossa. Eu, um ser humano amante de adrenalina, tenho um detector de bobagens que parece combinar com meu detector de tédio, como se estivéssemos equipados com um filtro naturalístico antimonotonia. A vida ancestral não tinha dever de casa, não tinha chefe, não tinha funcionários públicos, não tinha títulos acadêmicos, não tinha conversas com o reitor, não tinha nenhum consultor com
+MBA
+, não tinha listas de procedimentos, não tinha formulário de inscrição, não tinha viagens para Nova Jersey, nenhum purista da correção gramatical, nenhuma conversa com alguém que entediasse você: toda a vida eram estímulos aleatórios, e nada, bom ou ruim, jamais se parecia com trabalho.
+5
+Perigoso, sim, mas chato, nunca.
+Por fim, um ambiente com variabilidade (portanto, aleatoriedade) não nos expõe a lesões por estresse crônico, ao contrário dos sistemas concebidos pelo homem. Se você caminhar sobre um terreno irregular, que não tenha sido construído pelo homem, jamais dará dois passos idênticos — compare isso com a esteira da academia desprovida de aleatoriedade, que oferece exatamente o oposto: forçando você a fazer repetições infinitas do mesmo movimento.
+Grande parte da vida moderna é uma série de lesões por estresse crônico evitáveis.
+A seguir, vamos examinar um artifício da evolução, essa grande especialista em antifragilidade.
+1
+. Outra maneira de entender: máquinas são prejudicadas por estressores de baixo impacto (fadiga do material), organismos são prejudicados pela
+ausência
+de estressores de baixo impacto (hormese).
+2
+. Depois de ler este capítulo, Frano Barović me escreveu: “Máquinas: use-as e perca-as; organismos: use-os ou perca-os”. Observe, também, que tudo que é vivo precisa de estressores, mas nem todas as máquinas precisam ser deixadas em paz — um aspecto do qual trataremos em nossa discussão sobre a têmpera.
+3
+. Essas são as chamadas estruturas dissipativas, baseadas nas obras do físico Ilya Prigogine, que têm um status bastante diferente das estruturas de equilíbrio simples: são formadas e mantidas por meio do efeito de troca de energia e de matéria em permanentes condições de desequilíbrio.
+4
+. Isso não significa que Sylvia Plath não deveria ter sido medicada. A questão é que as patologias devem ser tratadas com medicação quando há risco de suicídio, não de mudanças de humor.
+5
+. Nem Rousseau nem Hobbes. É verdade que a vida, à época, talvez fosse “brutal e breve”, mas é um grave erro lógico apresentar uma compensação, usar os aspectos desagradáveis da humanidade primitiva como um custo necessário para evitar torturas modernas. Não existe razão para não desejar as vantagens de ambas as eras.

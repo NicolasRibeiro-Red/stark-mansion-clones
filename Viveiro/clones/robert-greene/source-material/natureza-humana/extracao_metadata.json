@@ -1,0 +1,170 @@
+{
+  "titulo": "As leis da natureza humana",
+  "autor": "Robert Greene",
+  "total_paginas": 1220,
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "OdinRights",
+      "paginas": "2-10",
+      "arquivo": "cap_01_OdinRights.txt"
+    },
+    {
+      "numero": 2,
+      "titulo": "Introdução",
+      "paginas": "11-32",
+      "arquivo": "cap_02_Introdução.txt"
+    },
+    {
+      "numero": 3,
+      "titulo": "1. Domine o seu lado emocional",
+      "paginas": "33-89",
+      "arquivo": "cap_03_1_Domine_o_seu_lado_emocional.txt"
+    },
+    {
+      "numero": 4,
+      "titulo": "2. Transforme a autoestima em empatia",
+      "paginas": "90-150",
+      "arquivo": "cap_04_2_Transforme_a_autoestima_em_empatia.txt"
+    },
+    {
+      "numero": 5,
+      "titulo": "3. Veja por trás das máscaras das pessoas",
+      "paginas": "151-209",
+      "arquivo": "cap_05_3_Veja_por_trás_das_máscaras_das_pessoas.txt"
+    },
+    {
+      "numero": 6,
+      "titulo": "4. Determine a força de caráter das pessoas",
+      "paginas": "210-266",
+      "arquivo": "cap_06_4_Determine_a_força_de_caráter_das_pessoas.txt"
+    },
+    {
+      "numero": 7,
+      "titulo": "5. Torne-se um objeto inatingível de desejo",
+      "paginas": "267-302",
+      "arquivo": "cap_07_5_Torne-se_um_objeto_inatingível_de_desejo.txt"
+    },
+    {
+      "numero": 8,
+      "titulo": "6. Eleve a sua perspectiva",
+      "paginas": "303-344",
+      "arquivo": "cap_08_6_Eleve_a_sua_perspectiva.txt"
+    },
+    {
+      "numero": 9,
+      "titulo": "7. Diminua a resistência das pessoas confirmando a opinião que elas têm de si mesmas",
+      "paginas": "345-404",
+      "arquivo": "cap_09_7_Diminua_a_resistência_das_pessoas_confirmando_a_.txt"
+    },
+    {
+      "numero": 10,
+      "titulo": "8. Mude as suas circunstâncias mudando de atitude",
+      "paginas": "405-459",
+      "arquivo": "cap_10_8_Mude_as_suas_circunstâncias_mudando_de_atitude.txt"
+    },
+    {
+      "numero": 11,
+      "titulo": "9. Confronte o seu lado sombrio",
+      "paginas": "460-518",
+      "arquivo": "cap_11_9_Confronte_o_seu_lado_sombrio.txt"
+    },
+    {
+      "numero": 12,
+      "titulo": "10. Cuidado com o ego frágil",
+      "paginas": "519-577",
+      "arquivo": "cap_12_10_Cuidado_com_o_ego_frágil.txt"
+    },
+    {
+      "numero": 13,
+      "titulo": "11. Conheça os seus limites",
+      "paginas": "578-634",
+      "arquivo": "cap_13_11_Conheça_os_seus_limites.txt"
+    },
+    {
+      "numero": 14,
+      "titulo": "12. Reconecte-se com o masculino ou o feminino dentro de você",
+      "paginas": "635-704",
+      "arquivo": "cap_14_12_Reconecte-se_com_o_masculino_ou_o_feminino_dent.txt"
+    },
+    {
+      "numero": 15,
+      "titulo": "13. Avance com um senso de propósito",
+      "paginas": "705-772",
+      "arquivo": "cap_15_13_Avance_com_um_senso_de_propósito.txt"
+    },
+    {
+      "numero": 16,
+      "titulo": "14. Resista à pressão descendente do grupo",
+      "paginas": "773-866",
+      "arquivo": "cap_16_14_Resista_à_pressão_descendente_do_grupo.txt"
+    },
+    {
+      "numero": 17,
+      "titulo": "15. Faça-os quererem segui-lo",
+      "paginas": "867-934",
+      "arquivo": "cap_17_15_Faça-os_quererem_segui-lo.txt"
+    },
+    {
+      "numero": 18,
+      "titulo": "16. Veja a hostilidade por trás da fachada amigável",
+      "paginas": "935-1023",
+      "arquivo": "cap_18_16_Veja_a_hostilidade_por_trás_da_fachada_amigável.txt"
+    },
+    {
+      "numero": 19,
+      "titulo": "17. Aproveite o momento histórico",
+      "paginas": "1024-1108",
+      "arquivo": "cap_19_17_Aproveite_o_momento_histórico.txt"
+    },
+    {
+      "numero": 20,
+      "titulo": "18. Medite sobre a nossa mortalidade comum",
+      "paginas": "1109-1157",
+      "arquivo": "cap_20_18_Medite_sobre_a_nossa_mortalidade_comum.txt"
+    },
+    {
+      "numero": 21,
+      "titulo": "Agradecimentos",
+      "paginas": "1158-1159",
+      "arquivo": "cap_21_Agradecimentos.txt"
+    },
+    {
+      "numero": 22,
+      "titulo": "Bibliografia selecionada",
+      "paginas": "1160-1164",
+      "arquivo": "cap_22_Bibliografia_selecionada.txt"
+    },
+    {
+      "numero": 23,
+      "titulo": "Índice remissivo",
+      "paginas": "1165-1220",
+      "arquivo": "cap_23_Índice_remissivo.txt"
+    }
+  ],
+  "arquivos": [
+    "cap_01_OdinRights.txt",
+    "cap_02_Introdução.txt",
+    "cap_03_1_Domine_o_seu_lado_emocional.txt",
+    "cap_04_2_Transforme_a_autoestima_em_empatia.txt",
+    "cap_05_3_Veja_por_trás_das_máscaras_das_pessoas.txt",
+    "cap_06_4_Determine_a_força_de_caráter_das_pessoas.txt",
+    "cap_07_5_Torne-se_um_objeto_inatingível_de_desejo.txt",
+    "cap_08_6_Eleve_a_sua_perspectiva.txt",
+    "cap_09_7_Diminua_a_resistência_das_pessoas_confirmando_a_.txt",
+    "cap_10_8_Mude_as_suas_circunstâncias_mudando_de_atitude.txt",
+    "cap_11_9_Confronte_o_seu_lado_sombrio.txt",
+    "cap_12_10_Cuidado_com_o_ego_frágil.txt",
+    "cap_13_11_Conheça_os_seus_limites.txt",
+    "cap_14_12_Reconecte-se_com_o_masculino_ou_o_feminino_dent.txt",
+    "cap_15_13_Avance_com_um_senso_de_propósito.txt",
+    "cap_16_14_Resista_à_pressão_descendente_do_grupo.txt",
+    "cap_17_15_Faça-os_quererem_segui-lo.txt",
+    "cap_18_16_Veja_a_hostilidade_por_trás_da_fachada_amigável.txt",
+    "cap_19_17_Aproveite_o_momento_histórico.txt",
+    "cap_20_18_Medite_sobre_a_nossa_mortalidade_comum.txt",
+    "cap_21_Agradecimentos.txt",
+    "cap_22_Bibliografia_selecionada.txt",
+    "cap_23_Índice_remissivo.txt"
+  ]
+}

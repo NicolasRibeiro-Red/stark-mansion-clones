@@ -1,0 +1,44 @@
+# Shell
+
+Paginas: 283-283
+
+Major cloud data warehouses are highly optimized for direct file export. For example,
+Snowflake, BigQuery, Redshift, and others support direct export to object storage in
+various formats.
+Practical Issues with Common File Formats
+Engineers should also be aware of the file formats to export. CSV is still ubiquitous
+and highly error prone at the time of this writing. Namely, CSV’s default delimiter is
+also one of the most familiar characters in the English language—the comma! But it
+gets worse.
+CSV is by no means a uniform format. Engineers must stipulate the delimiter, quote
+characters, and escaping to appropriately handle the export of string data. CSV also
+doesn’t natively encode schema information or directly support nested structures.
+CSV file encoding and schema information must be configured in the target system
+to ensure appropriate ingestion. Autodetection is a convenience feature provided in
+many cloud environments but is inappropriate for production ingestion. As a best
+practice, engineers should record CSV encoding and schema details in file metadata.
+More robust and expressive export formats include Parquet, Avro, Arrow, and ORC
+or JSON. These formats natively encode schema information and handle arbitrary
+string data with no particular intervention. Many of them also handle nested data
+structures natively so that JSON fields are stored using internal nested structures
+rather than simple strings. For columnar databases, columnar formats (Parquet,
+Arrow, ORC) allow more efficient data export because columns can be directly
+transcoded between formats. These formats are also generally more optimized for
+query engines. The Arrow file format is designed to map data directly into processing
+engine memory, providing high performance in data lake environments.
+The disadvantage of these newer formats is that many of them are not natively
+supported by source systems. Data engineers are often forced to work with CSV data
+and then build robust exception handling and error detection to ensure data quality
+on ingestion. See Appendix A for a more extensive discussion of file formats.
+Shell
+The shell is an interface by which you may execute commands to ingest data. The
+shell can be used to script workflows for virtually any software tool, and shell script‐
+ing is still used extensively in ingestion processes. A shell script might read data
+from a database, reserialize it into a different file format, upload it to object storage,
+and trigger an ingestion process in a target database. While storing data on a single
+instance or server is not highly scalable, many of our data sources are not particularly
+large, and such approaches work just fine.
+258
+|
+Chapter 7: Ingestion
+

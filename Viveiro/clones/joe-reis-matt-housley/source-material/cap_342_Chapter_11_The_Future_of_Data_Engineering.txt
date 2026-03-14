@@ -1,0 +1,33 @@
+# Chapter 11. The Future of Data Engineering
+
+Paginas: 404-404
+
+CHAPTER 11
+The Future of Data Engineering
+This book grew out of the authors’ recognition that warp speed changes in the field
+have created a significant knowledge gap for existing data engineers, people interested
+in moving into a career in data engineering, technology managers, and executives
+who want to better understand how data engineering fits into their companies.
+When we started thinking about how to organize this book, we got quite a bit of
+pushback from friends who’d ask, “How dare you write about a field that is changing
+so quickly?!” In many ways, they’re right. It certainly feels like the field of data
+engineering—and, really, all things data—is changing daily. Sifting through the noise
+and finding the signal of what’s unlikely to change was among the most challenging
+parts of organizing and writing this book.
+In this book, we focus on big ideas that we feel will be useful for the next several
+years—hence the continuum of the data engineering lifecycle and its undercurrents.
+The order of operations and names of best practices and technologies might change,
+but the primary stages of the lifecycle will likely remain intact for many years to
+come. We’re keenly aware that technology continues to change at an exhausting pace;
+working in the technology sector in our present era can feel like a rollercoaster ride or
+perhaps a hall of mirrors.
+Several years ago, data engineering didn’t even exist as a field or job title. Now you’re
+reading a book called Fundamentals of Data Engineering! You’ve learned all about
+the fundamentals of data engineering—its lifecycle, undercurrents, technologies, and
+best practices. You might be asking yourself, what’s next in data engineering? While
+nobody can predict the future, we have a good perspective on the past, the present,
+and current trends. We’ve been fortunate to watch the genesis and evolution of data
+engineering from a front-row seat. This final chapter presents our thoughts on the
+future, including observations of ongoing developments and wild future speculation.
+379
+

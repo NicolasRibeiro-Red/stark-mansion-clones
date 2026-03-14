@@ -1,0 +1,43 @@
+# The Hadoop Distributed File System
+
+Paginas: 236-236
+
+store. Mounting object storage as a local filesystem works well for files that are
+updated infrequently.
+Cache and Memory-Based Storage Systems
+As discussed in “Raw Ingredients of Data Storage” on page 191, RAM offers excellent
+latency and transfer speeds. However, traditional RAM is extremely vulnerable to
+data loss because a power outage lasting even a second can erase data. RAM-based
+storage systems are generally focused on caching applications, presenting data for
+quick access and high bandwidth. Data should generally be written to a more durable
+medium for retention purposes.
+These ultra-fast cache systems are useful when data engineers need to serve data with
+ultra-fast retrieval latency.
+Example: Memcached and lightweight object caching
+Memcached is a key-value store designed for caching database query results, API
+call responses, and more. Memcached uses simple data structures, supporting either
+string or integer types. Memcached can deliver results with very low latency while
+also taking the load off backend systems.
+Example: Redis, memory caching with optional persistence
+Like Memcached, Redis is a key-value store, but it supports somewhat more com‐
+plex data types (such as lists or sets). Redis also builds in multiple persistence
+mechanisms, including snapshotting and journaling. With a typical configuration,
+Redis writes data roughly every two seconds. Redis is thus suitable for extremely
+high-performance applications but can tolerate a small amount of data loss.
+The Hadoop Distributed File System
+In the recent past, “Hadoop” was virtually synonymous with “big data.” The Hadoop
+Distributed File System is based on Google File System (GFS) and was initially
+engineered to process data with the MapReduce programming model. Hadoop is
+similar to object storage but with a key difference: Hadoop combines compute and
+storage on the same nodes, where object stores typically have limited support for
+internal processing.
+Hadoop breaks large files into blocks, chunks of data less than a few hundred
+megabytes in size. The filesystem is managed by the NameNode, which maintains
+directories, file metadata, and a detailed catalog describing the location of file blocks
+in the cluster. In a typical configuration, each block of data is replicated to three
+nodes. This increases both the durability and availability of data. If a disk or node
+fails, the replication factor for some file blocks will fall below 3. The NameNode will
+Data Storage Systems
+|
+211
+

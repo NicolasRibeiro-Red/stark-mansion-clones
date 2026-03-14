@@ -1,0 +1,35 @@
+# Multicloud
+
+Paginas: 153-153
+
+4 Examples include Google Cloud Anthos and AWS Outposts.
+This pattern of putting analytics in the cloud is beautiful because data flows primarily
+in one direction, minimizing data egress costs (Figure 4-3). That is, on-premises
+applications generate event data that can be pushed to the cloud essentially for free.
+The bulk of data remains in the cloud where it is analyzed, while smaller amounts
+of data are pushed back to on premises for deploying models to applications, reverse
+ETL, etc.
+Figure 4-3. A hybrid cloud data flow model minimizing egress costs
+A new generation of managed hybrid cloud service offerings also allows customers
+to locate cloud-managed servers in their data centers.4 This gives users the ability to
+incorporate the best features in each cloud alongside on-premises infrastructure.
+Multicloud
+Multicloud simply refers to deploying workloads to multiple public clouds. Compa‐
+nies may have several motivations for multicloud deployments. SaaS platforms often
+wish to offer services close to existing customer cloud workloads. Snowflake and
+Databricks provide their SaaS offerings across multiple clouds for this reason. This
+is especially critical for data-intensive applications, where network latency and band‐
+width limitations hamper performance, and data egress costs can be prohibitive.
+Another common motivation for employing a multicloud approach is to take advan‐
+tage of the best services across several clouds. For example, a company might want to
+handle its Google Ads and Analytics data on Google Cloud and deploy Kubernetes
+through GKE. And the company might also adopt Azure specifically for Microsoft
+workloads. Also, the company may like AWS because it has several best-in-class
+services (e.g., AWS Lambda) and enjoys huge mindshare, making it relatively easy
+to hire AWS-proficient engineers. Any mix of various cloud provider services is
+possible. Given the intense competition among the major cloud providers, expect
+them to offer more best-of-breed services, making multicloud more compelling.
+128
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+

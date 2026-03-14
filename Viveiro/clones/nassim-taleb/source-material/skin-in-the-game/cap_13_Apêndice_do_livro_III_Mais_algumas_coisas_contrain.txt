@@ -1,0 +1,106 @@
+# Apêndice do livro III: Mais algumas coisas contraintuitivas sobre o coletivo
+
+Paginas: 95-98
+
+Apêndice do livro III:
+Mais algumas coisas contraintuitivas sobre o coletivo
+Antifrágil era sobre o fracasso da média para representar qualquer coisa na
+presença de não linearidades e assimetrias semelhantes à regra da minoria. Então
+vamos mais além:
+O comportamento médio do participante do mercado não nos permitirá entender
+o comportamento geral do mercado.
+Você pode examinar os mercados como mercados e os indivíduos como
+indivíduos, mas os mercados não são uma soma de indivíduos médios (uma soma
+é uma média multiplicada por uma constante de modo que ambos são igualmente
+afetados). Esses aspectos agora parecem claros graças à nossa discussão sobre a
+renormalização. Mas, para mostrar como as alegações feitas por todo o campo
+das ciências sociais podem desmoronar, dê um passo adiante:
+Os experimentos psicológicos sobre indivíduos mostrando “vieses” não nos
+permitem entender de cara comportamentos coletivos ou agregados, tampouco
+nos esclarecem acerca do comportamento de grupos.
+A natureza humana não é definida fora de transações envolvendo outros seres
+humanos. Lembre-se de que não vivemos sozinhos, mas em bando, e quase nada
+de relevante diz respeito a uma pessoa isolada — que é o que normalmente é feito
+nesse tipo de pesquisa em laboratório.1
+Grupos são unidades por conta própria. Existem diferenças qualitativas entre
+um grupo de dez e um grupo de, digamos, 395 435. Cada um é um animal
+diferente, no sentido literal, tão diferente quanto um livro difere de um prédio
+comercial. Quando nos concentramos em características e atributos comuns,
+ficamos confusos, mas, em certa escala, as coisas tornam-se diferentes.
+Matematicamente diferentes. Quanto maior a dimensão, em outras palavras,
+maior o número de interações possíveis, e mais desproporcionalmente difícil é
+
+discernir o macro do micro, as unidades gerais das unidades simples. Esse
+aumento desproporcional das demandas computacionais é chamado de maldição
+da dimensionalidade (na verdade encontrei situações em que, na presença de
+pequenos erros aleatórios, uma única dimensão adicional pode mais do que
+duplicar algum aspecto da complexidade. Ir de 1000 a 1001 pode fazer com que
+a complexidade seja multiplicada um bilhão de vezes).
+Ou, apesar da enorme empolgação sobre a nossa capacidade de investigar a
+verdadeira natureza do cérebro usando o chamado campo da neurociência:
+Entender como funcionam as subpartes do cérebro (digamos, os neurônios) nunca
+nos permitirá compreender como o cérebro funciona.
+Um grupo de neurônios ou genes, assim como um grupo de pessoas, difere dos
+componentes individuais, porque as interações não são necessariamente lineares.
+Até agora não entendemos merda nenhuma de como funciona o cérebro do
+verme Caenorhabditis elegans, que tem cerca de trezentos neurônios. O C. elegans
+foi a primeira unidade viva a ter seus genes sequenciados. Agora considere que o
+cérebro humano tem por volta de cem bilhões de neurônios, e que ir de 300 a
+301 neurônios, por causa da maldição da dimensionalidade, pode duplicar essa
+complexidade. Portanto, o uso de nunca aqui é apropriado. E se você também
+quiser entender por quê, apesar dos alardeados “avanços” no sequenciamento do
+DNA, somos em grande medida incapazes de obter informações exceto em
+pequenos bolsões isolados para algumas doenças, é a mesma história. Doenças
+monogênicas, aquelas para as quais um único gene desempenha um papel
+importante, são bastante tratáveis, mas qualquer coisa que requeira maior
+dimensionalidade é impossível.
+Entender a constituição genética de uma unidade nunca nos permitirá entender o
+comportamento da unidade em si.
+Um lembrete de que o que estou escrevendo aqui não é uma opinião. É uma
+propriedade matemática direta e de fácil compreensão.
+O enfoque de campo médio é quando se usa a interação média entre, digamos,
+duas pessoas, e se generaliza para o grupo — isso só é possível se não houver
+assimetrias. Por exemplo, Yaneer Bar-Yam aplicou o fracasso do campo médio à
+teoria evolucionista da narrativa do gene egoísta, alardeada por mentes
+jornalísticas agressivas do calibre de Richard Dawkins e Steven Pinker, com mais
+domínio da língua inglesa do que da teoria da probabilidade. Ele mostra que as
+propriedades locais falham e que a suposta matemática usada para provar o gene
+
+egoísta é lamentavelmente ingênua e mal aplicada. Houve uma comoção em torno
+do trabalho de Martin Nowack e seus colegas (incluindo o biólogo E. O. Wilson)
+sobre as gravíssimas falhas na teoria do gene egoísta.2
+A questão é: será que boa parte do que lemos sobre os avanços nas ciências
+comportamentais é besteira? Há grande chance de que sim. Muitas pessoas
+foram acusadas de racismo, segregacionismo e alguma-coisismo sem mérito.
+Usando autômatos celulares, uma técnica similar à renormatização, o falecido
+Thomas Schelling mostrou há algumas décadas como um bairro pode ser
+segregado sem um único segregacionista entre seus habitantes.
+MERCADOS DE INTELIGÊNCIA ZERO
+A estrutura subjacente da realidade é muito mais importante do que os
+participantes, algo que os formuladores de políticas oficiais não conseguem
+entender.
+Sob a estrutura de mercado certa, um conjunto de idiotas produz um mercado
+eficaz.
+Os pesquisadores Dhananjay Gode e Shyam Sunder chegaram a um resultado
+surpreendente em 1993. Ocupe mercados com agentes de inteligência zero, o
+que significa comprar e vender aleatoriamente, sob alguma estrutura tal que um
+processo de leilão adequado combine lances e ofertas de maneira regular. E
+adivinhe? Obtemos a mesma eficiência alocativa como se os participantes do
+mercado fossem inteligentes. Mais uma vez deu-se razão a Friedrich Hayek. No
+entanto, uma das ideias mais citadas na história, a da mão invisível da economia,
+parece ser a menos integrada à psique moderna.
+Além disso:
+Talvez algum comportamento idiossincrático por parte do indivíduo (considerado
+à primeira vista “irracional”) possa ser necessário para o funcionamento eficiente
+no nível coletivo.
+Em termos mais decisivos para a multidão “racionalista”,
+Indivíduos não precisam saber para onde estão indo; os mercados, sim.
+Deixe as pessoas em paz sob uma boa estrutura e elas cuidarão das coisas.
+
+1. O que acabei de dizer explica o fracasso do assim chamado campo da economia comportamental em nos
+dar mais informações, quaisquer que sejam, do que a economia ortodoxa (em si mesma bastante pobre) em
+relação a como investir no mercado (comprar e vender ações), entender a economia ou gerar políticas.
+2. Vale a pena mencionar nomes aqui, já que essas pessoas agiram como cães raivosos contra aqueles que não
+deram importância à teoria do gene egoísta, sem discutir a matemática fornecida (eles não são capazes), mas
+continuaram latindo mesmo assim.
+

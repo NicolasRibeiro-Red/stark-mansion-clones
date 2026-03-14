@@ -1,0 +1,36 @@
+# Additional Resources
+
+Paginas: 256-257
+
+Additional Resources
+• “Column-Oriented DBMS” Wikipedia page
+•
+• “The Design and Implementation of Modern Column-Oriented Database Sys‐
+•
+tems” by Daniel Abadi et al.
+• Designing Data-Intensive Applications by Martin Kleppmann (O’Reilly)
+•
+• “Diving Into Delta Lake: Schema Enforcement and Evolution” by Burak Yavuz
+•
+et al.
+• “Hot Data vs. Cold Data: Why It Matters” by Afzaal Ahmad Zeeshan
+•
+• IDC’s “Data Creation and Replication Will Grow at a Faster Rate than Installed
+•
+Storage Capacity, According to the IDC Global DataSphere and StorageSphere
+Forecasts” press release
+• “Rowise vs. Columnar Database? Theory and in Practice” by Mangat Rai Modi
+•
+• “Snowflake Solution Anti-Patterns: The Probable Data Scientist” by John Aven
+•
+• “What Is a Vector Database?” by Bryan Turriff
+•
+• “What Is Object Storage? A Definition and Overview” by Alex Chan
+•
+• “The What, When, Why, and How of Incremental Loads” by Tim Mitchell
+•
+Additional Resources
+|
+231
+
+

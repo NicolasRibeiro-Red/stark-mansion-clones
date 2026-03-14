@@ -1,0 +1,58 @@
+# Operational Analytics
+
+Paginas: 371-372
+
+frequency. If streaming applications exist for the data, it should be ingested as a
+stream even if some downstream processing and serving steps are handled in batches.
+Of course, data engineers must address various backend technical considerations in
+serving business analytics. Some BI tools store data in an internal storage layer. Other
+tools run queries on your data lake or data warehouse. This is advantageous because
+you can take full advantage of your OLAP database’s power. As we’ve discussed in
+earlier chapters, the downside is cost, access control, and latency.
+Operational Analytics
+If business analytics is about using data to discover actionable insights, then opera‐
+tional analytics uses data to take immediate action:
+Operational analytics versus business analytics =
+immediate action versus actionable insights
+The big difference between operational and business analytics is time. Data used in
+business analytics takes a longer view of the question under consideration. Up-to-the-
+second updates are nice to know but won’t materially impact the quality or outcome.
+Operational analytics is quite the opposite, as real-time updates can be impactful in
+addressing a problem when it occurs.
+An example of operational analytics is real-time application monitoring. Many soft‐
+ware engineering teams want to know how their application is performing; if issues
+arise, they want to be notified immediately. The engineering team might have a
+dashboard (see, e.g., Figure 9-2) that shows the key metrics such as requests per sec‐
+ond, database I/O, or whatever metrics are important. Certain conditions can trigger
+scaling events, adding more capacity if servers are overloaded. If certain thresholds
+are breached, the monitoring system might also send alerts via text message, group
+chat, and email.
+Business and Operational Analytics
+The line between business and operational analytics has begun to blur. As streaming
+and low-latency data become more pervasive, it is only natural to apply operational
+approaches to business analytics problems; in addition to monitoring website per‐
+formance on Black Friday, an online retailer could also analyze and present sales,
+revenue, and the impact of advertising campaigns in real time.
+The data architectures will change to fit into a world where you can have both your
+red hot and warm data in one place. The central question you should always ask
+yourself, and your stakeholders, is this: if you have streaming data, what are you
+346
+|
+Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
+
+going to do with it? What action should you take? Correct action creates impact and
+value. Real-time data without action is an unrelenting distraction.
+In the long term, we predict that streaming will supplant batch. Data products over
+the next 10 years will likely be streaming-first, with the ability to seamlessly blend
+historical data. After real-time collection, data can still be consumed and processed in
+batches as required.
+Figure 9-2. An operational analytics dashboard showing some key metrics from Google
+Compute Engine
+Let’s return once again to our running shorts example. Using analytics to discover
+bad fabric in the supply chain was a huge success; business leaders and data engineers
+want to find more opportunities to utilize data to improve product quality. The data
+engineers suggest deploying real-time analytics at the factory. The plant already uses
+Analytics
+|
+347
+

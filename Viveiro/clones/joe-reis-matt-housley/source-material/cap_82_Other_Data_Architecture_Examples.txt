@@ -1,0 +1,24 @@
+# Other Data Architecture Examples
+
+Paginas: 135-135
+
+Figure 3-18. Simplified example of a data mesh architecture. Source: From Data Mesh,
+by Zhamak Dehghani. Copyright © 2022 Zhamak Dehghani. Published by O’Reilly
+Media, Inc. Used with permission.
+Other Data Architecture Examples
+Data architectures have countless other variations, such as data fabric, data hub,
+scaled architecture, metadata-first architecture, event-driven architecture, live data
+stack (Chapter 11), and many more. And new architectures will continue to emerge
+as practices consolidate and mature, and tooling simplifies and improves. We’ve
+focused on a handful of the most critical data architecture patterns that are extremely
+well established, evolving rapidly, or both.
+As a data engineer, pay attention to how new architectures may help your orga‐
+nization. Stay abreast of new developments by cultivating a high-level awareness
+of the data engineering ecosystem developments. Be open-minded and don’t get
+emotionally attached to one approach. Once you’ve identified potential value, deepen
+your learning and make concrete decisions. When done right, minor tweaks—or
+major overhauls—in your data architecture can positively impact the business.
+110
+|
+Chapter 3: Designing Good Data Architecture
+

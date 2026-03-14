@@ -1,0 +1,820 @@
+# 15. A curva em forma de sino, a grande fraude intelectual
+
+Paginas: 259-284
+
+15. A curva em forma de sino, a grande fraude
+intelectual1
+Não vale uma dose de pastis — O erro de Quételet — O homem comum é um
+monstro — Vamos deiﬁcá-lo — Sim ou não — Um experimento não tão literário
+Esqueça tudo o que você ouviu nas aulas de estatística ou teoria das
+probabilidades na faculdade. Se você nunca cursou essas disciplinas, melhor
+ainda. Vamos começar do início.
+A GAUSSIANA E A MANDELBROTIANA
+Eu estava fazendo uma escala no aeroporto de Frankfurt em dezembro de
+2001, em viagem de Oslo para Zurique.
+Eu tinha tempo para matar, e foi uma grande oportunidade para comprar
+chocolate amargo europeu, especialmente porque consegui me convencer de que
+as calorias consumidas em aeroportos não contam. O caixa me entregou, entre
+outras coisas, uma nota de dez marcos alemães, da qual é possível ver uma
+digitalização (ilegal) logo a seguir. As cédulas de marco alemão seriam retiradas
+de circulação em questão de dias, já que a Europa estava mudando para o euro.
+Eu a guardei como uma lembrança de despedida. Antes da chegada do euro, a
+Europa tinha muitas moedas nacionais, o que era bom para as gráﬁcas
+responsáveis pela impressão de papel-moeda, para os cambistas, e, claro, para os
+operadores de câmbio estrangeiro como este (mais ou menos) humilde autor.
+Enquanto comia meu chocolate amargo europeu e ﬁtava melancolicamente a
+cédula, quase engasguei. De repente percebi, pela primeira vez, que havia algo
+curioso a respeito dela. A nota trazia o retrato de Carl Friedrich Gauss e um
+desenho de sua curva em forma de sino gaussiana.
+
+FIGURA 10. A última cédula de dez marcos alemães, mostrando um retrato de Gauss e, à direita dele, a
+curva em forma de sino do Mediocristão.
+A impressionante ironia aqui é que o último objeto possível que pode ser
+associado à moeda alemã é precisamente essa curva: a cotação do reichsmark
+(nome pelo qual a moeda era chamada anteriormente) em relação ao dólar, que
+era de quatro para um, chegou a 4 trilhões para um no intervalo de alguns anos
+durante a década de 1920, resultado que mostra que a curva em forma de sino
+não faz sentido como uma descrição da aleatoriedade nas ﬂutuações monetárias.
+Tudo de que você precisa para rejeitar a curva em forma de sino é que esse
+movimento ocorra uma vez, e apenas uma vez — pense nas consequências. No
+entanto, ali estava a curva em forma de sino, e ao lado dela Herr Professor Doktor
+Gauss, nem um pouco agradável aos olhos, uma expressão um tanto austera, uma
+pessoa com quem eu certamente não gostaria de passar algum tempo de bobeira
+em um terraço, bebendo pastis e entabulando um bate-papo sem assunto.
+Surpreendentemente, a curva em forma de sino é usada como uma ferramenta
+de medição de risco por aqueles reguladores e banqueiros centrais que vestem
+ternos escuros e falam de modo enfadonho sobre moedas.
+O acréscimo no decréscimo
+O cerne da gaussiana, como eu disse, é que a maioria das observações paira em
+torno do mediano, do medíocre, do que permanece na média; as chances de um
+desvio diminuem cada vez mais rápido (exponencialmente) à medida que nos
+afastamos da média. Se há apenas uma única informação que você deve ter, é
+
+esta: o drástico aumento na velocidade de declínio das probabilidades conforme
+você se afasta do centro, ou da média. A lista a seguir ilustra isso. Estou usando
+um exemplo de uma quantidade gaussiana, como altura, e simpliﬁcando-o um
+pouco para torná-lo mais ilustrativo. Suponha que a altura média (de homens e
+mulheres) seja de 1,67 metro. Considere o que chamo de unidade de desvio aqui
+como dez centímetros. Vejamos os incrementos acima de 1,67 metro e
+consideremos as chances de alguém ter essa altura.2
+10 centímetros mais alto que a média (ou seja, mais alto que 1,77 metro): 1 em
+6,3
+20 centímetros mais alto que a média (ou seja, mais alto que 1,87 metro): 1 em
+44
+30 centímetros mais alto que a média (ou seja, mais alto que 1,97 metro): 1 em
+740
+40 centímetros mais alto que a média (ou seja, mais alto que 2,07 metros): 1 em
+32 000
+50 centímetros mais alto que a média (ou seja, mais alto que 2,17 metros): 1 em 3
+500 000
+60 centímetros mais alto do que a média (ou seja, mais alto que 2,27 metros): 1
+em 1 000 000 000
+70 centímetros mais alto que a média (ou seja, mais alto que 2,37 metros): 1 em
+780 000 000 000
+80 centímetros mais alto que a média (ou seja, mais alto que 2,47 metros): 1 em 1
+600 000 000 000 000
+90 centímetros mais alto do que a média (ou seja, mais alto que 2,57 metros): 1
+em 8 900 000 000 000 000 000
+100 centímetros mais alto que a média (ou seja, mais alto que 2,67 metros): 1 em
+130 000 000 000 000 000 000 000
+… e
+110 centímetros mais alto que a média (ou seja, mais alto que 2,77 metros): 1 em
+36 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+000 000 000 000 000 000 000 000 000 000 000 000 000 000 000.
+Note que, logo depois de, creio eu, 22 desvios, ou 220 centímetros mais alto
+que a média, as probabilidades chegam a um googol, que é dez elevado à
+
+centésima potência, ou seja, o número seguido de cem zeros.
+O objetivo dessa lista é ilustrar a aceleração. Observe a diferença de
+probabilidades entre sessenta e setenta centímetros mais alto que a média: com
+um aumento de meros dez centímetros, passamos de uma pessoa em 1 bilhão
+para uma pessoa em 780 bilhões! Quanto ao salto entre setenta e oitenta
+centímetros: dez centímetros adicionais acima da média, e vamos de uma em 780
+bilhões para uma em 1,6 milhão de bilhões!3
+Esse abrupto declínio nas chances de encontrar algo é o que nos permite
+ignorar os outliers. Apenas uma curva pode fornecer esse declínio, e é a curva em
+forma de sino (e seus irmãos não escaláveis).
+A mandelbrotiana
+Para efeito de comparação, veja as chances de ser rico na Europa. Parta do
+princípio de que a riqueza lá é escalável, isto é, mandelbrotiana. (Não se trata
+aqui de uma descrição precisa da riqueza na Europa; está simpliﬁcada para
+enfatizar a lógica da distribuição escalável.)3
+Distribuição escalável de riqueza
+Pessoas com um patrimônio líquido superior a 1 milhão de euros: 1 em 62,5
+Superior a 2 milhões de euros: 1 em 250
+Superior a 4 milhões de euros: 1 em 1000
+Superior a 8 milhões de euros: 1 em 4000
+Superior a 16 milhões de euros: 1 em 16 000
+Superior a 32 milhões de euros: 1 em 64 000
+Superior a 320 milhões de euros: 1 em 6 400 000
+A velocidade da diminuição aqui permanece constante (ou não decai)! Quando
+você dobra a quantidade de dinheiro, reduz a incidência em um fator de quatro,
+não importa o nível, esteja você em 8 milhões ou 16 milhões. Isso, em poucas
+palavras, ilustra a diferença entre o Mediocristão e o Extremistão.
+Lembre-se da comparação entre o escalável e o não escalável no capítulo 3.
+Escalabilidade signiﬁca que não há vento contrário para reduzir a sua velocidade.
+É obvio que o Extremistão mandelbrotiano pode assumir muitas formas.
+Tenha em mente a riqueza em uma versão extremamente concentrada do
+Extremistão; lá, se você dobrar a riqueza, reduz pela metade a incidência. O
+resultado é quantitativamente diferente do exemplo anterior, mas obedece à
+mesma lógica.
+
+Distribuição fractal de riqueza com grandes desigualdades
+Pessoas com patrimônio líquido superior a 1 milhão de euros: 1 em 63
+Superior a 2 milhões de euros: 1 em 125
+Superior a 4 milhões de euros: 1 em 250
+Superior a 8 milhões de euros: 1 em 500
+Superior a 16 milhões de euros: 1 em 1000
+Superior a 32 milhões de euros: 1 em 2000
+Superior a 320 milhões de euros: 1 em 20 000
+Superior a 640 milhões de euros: 1 em 40 000
+Se a riqueza fosse gaussiana, observaríamos a seguinte divergência a partir de 1
+milhão de euros:
+Distribuição de riqueza presumindo uma lei gaussiana
+Pessoas com patrimônio líquido superior a 1 milhão de euros: 1 em 63
+Superior a 2 milhões de euros: 1 em 127 000
+Superior a 3 milhões de euros: 1 em 14 000 000 000
+Superior a 4 milhões de euros: 1 em 886 000 000 000 000 000
+Superior a 8 milhões de euros: 1 em 16 000 000 000 000 000 000 000
+000 000 000 000
+Superior a 16 milhões de euros: 1 em … nenhum dos meus computadores é capaz
+de dar conta dos cálculos.
+O que quero mostrar com essas listas é a diferença qualitativa nos paradigmas.
+Como aﬁrmei antes, o segundo paradigma é escalável; não tem vento contrário.
+Note que outro termo para o escalável é “leis de potência”.
+Apenas saber que estamos em um ambiente de lei de potência não nos diz
+muita coisa. Por quê? Porque temos que medir os coeﬁcientes na vida real, o que
+é muito mais difícil do que em uma estrutura gaussiana. Só que a gaussiana revela
+suas propriedades muito rapidamente. O método que proponho é uma
+mundividência geral em vez de uma solução precisa.
+Do que se lembrar
+Lembre-se disto: as variações da curva em forma de sino gaussiana enfrentam
+um vento contrário que faz com que as probabilidades caiam cada vez mais
+rápido conforme você se afasta da média, ao passo que as variações “escaláveis”
+
+ou mandelbrotianas não sofrem dessa restrição. Isso é praticamente tudo o que
+você precisa saber.4
+Desigualdade
+Examinemos mais detidamente a natureza da desigualdade. Na estrutura
+gaussiana, a desigualdade diminui à medida que os desvios ﬁcam maiores —
+causados pelo aumento da taxa de diminuição. Não é o que ocorre com o
+escalável: a desigualdade permanece a mesma o tempo todo. A desigualdade entre
+os super-ricos é igual à desigualdade entre os simplesmente ricos — ela não
+desacelera.5
+Tenha em mente o seguinte efeito. Pegue uma amostra aleatória de quaisquer
+duas pessoas da população dos Estados Unidos que ganhem, em conjunto,
+1 milhão de dólares por ano. Qual é a divisão mais provável de suas respectivas
+rendas? No Mediocristão, a combinação mais provável é de 500 mil, ou meio
+milhão, para cada. No Extremistão, seria de 50 mil para uma e 950 mil para a
+outra.
+A situação é ainda mais desigual com relação a vendas de livros. Se eu disser
+que dois autores venderam um total de 1 milhão de exemplares, a combinação
+mais provável é que um deles tenha vendido 993 mil exemplares, e o outro, 7
+mil. Isso é muito mais provável do que cada livro ter vendido 500 mil
+exemplares. Para qualquer montante total grande, a divisão será cada vez mais
+assimétrica.
+Por que é assim? O problema da altura proporciona uma comparação. Se eu
+disser que a altura total de duas pessoas é de 4,26 metros, você identiﬁcaria
+como divisão mais provável atribuir 2,13 metros para cada, e não sessenta
+centímetros e 3,66 metros, respectivamente, nem mesmo 2,43 metros e 1,83
+metro! Pessoas com mais de 2,43 metros são tão raras que essa combinação seria
+impossível.
+O Extremistão e a regra 80/20
+Você já ouviu falar da regra 80/20? É a assinatura comum de uma lei de
+potência — na verdade, foi assim que tudo começou, quando Vilfredo Pareto fez
+a observação de que 80% das terras na Itália pertenciam a 20% das pessoas.
+Alguns usam a regra para sugerir que 80% do trabalho é realizado por 20% das
+pessoas. Ou que 80% do esforço contribui para apenas 20% dos resultados, e
+vice-versa.
+
+No que diz respeito a axiomas, este não foi formulado para impressionar você
+ao máximo: poderia facilmente ser chamado de regra 50/01, ou seja, 50% do
+trabalho é realizado por 1% dos trabalhadores. Essa formulação faz o mundo
+parecer ainda mais injusto, mas as duas fórmulas são idênticas. Como? Bem, se
+houver desigualdade, então aqueles que constituem os 20% na regra 80/20
+também contribuem de forma desigual — apenas alguns deles fornecem a maior
+parte dos resultados. Isso cai para cerca de um a cada cem contribuindo com um
+pouco mais da metade do total.
+A regra 80/20 é apenas metafórica; não é uma regra, muito menos uma lei
+rígida. Nos Estados Unidos, as proporções estão mais para 97/20 (ou seja, 97%
+das vendas de livros são de obras de 20% dos escritores); é pior ainda se você se
+concentrar em não ﬁcção literária (vinte livros entre quase 8 mil representam
+metade das vendas).
+Observe aqui que nem tudo é incerteza. Em algumas situações, é possível ter
+uma concentração do tipo 80/20 com propriedades bastante previsíveis e
+manejáveis, o que permite uma clara tomada de decisões, porque você consegue
+identiﬁcar de antemão onde estão os 20% signiﬁcativos. Essas situações são
+muito fáceis de controlar. Por exemplo, Malcolm Gladwell escreveu em um artigo
+para a revista New Yorker que a maioria dos maus-tratos a prisioneiros é
+atribuível a um pequeno número de guardas cruéis. Se você ﬁltrar esses guardas,
+sua taxa de abusos contra presidiários cai drasticamente. (No setor editorial, por
+outro lado, você não sabe de antemão qual livro será um sucesso de vendas. O
+mesmo vale para guerras, pois não há como saber com antecedência qual conﬂito
+matará uma parte dos residentes do planeta.)
+Grama e árvores
+Aqui resumirei e repetirei os argumentos apresentados anteriormente ao longo
+do livro. Medidas de incerteza baseadas na curva em forma de sino simplesmente
+não levam em consideração a possibilidade e o impacto de saltos ou
+descontinuidades abruptos e, portanto, são inaplicáveis ao Extremistão. Usá-las é
+como enfocar a grama e deixar passar em branco as (gigantescas) árvores. Embora
+desvios grandes e imprevisíveis sejam raros, não podem ser descartados como
+outliers porque, cumulativamente, seu impacto é drástico demais.
+A maneira gaussiana tradicional de ver o mundo começa com o foco no
+normal e, em seguida, lida com as exceções, ou os chamados pontos fora da
+curva, como complementares. Mas há uma segunda maneira, que considera o
+excepcional como um ponto de partida e trata o comum como subordinado.
+
+Enfatizei que existem duas variedades de aleatoriedade, diferentes em termos
+qualitativos, como ar e água. Uma não dá a mínima importância aos extremos; a
+outra é gravemente afetada por eles. Uma não gera Cisnes Negros; a outra sim.
+As técnicas a que recorremos para discutir um gás não podem ser as mesmas que
+usamos para discutir um líquido. E se ﬁzéssemos isso, não chamaríamos a
+abordagem de “uma aproximação”. Um gás não “se aproxima” de um líquido.
+Podemos fazer bom uso da abordagem gaussiana em variáveis para as quais
+exista uma razão racional para a maior não estar muito longe da média. Se há
+gravidade puxando os números para baixo, ou se há limitações impedindo
+observações muito grandes, acabamos no Mediocristão. E se existem forças de
+equilíbrio trazendo as coisas de volta com muita rapidez depois que as condições
+divergem do equilíbrio, então, novamente, pode-se usar a abordagem gaussiana.
+Caso contrário, nem pensar. É por isso que boa parte da economia é baseada na
+noção de equilíbrio: entre outros benefícios, ela permite tratar fenômenos
+econômicos como gaussianos.
+Note que não estou dizendo que o tipo de aleatoriedade do Mediocristão não
+permite alguns extremos. Mas isso nos diz que eles são tão raros que não
+desempenham um papel signiﬁcativo no total. O efeito desses extremos é
+desprezível e diminui à medida que sua população aumenta.
+Para ser um pouco mais técnico aqui, se você tiver um grupo sortido de
+gigantes e anões, isto é, observações separadas entre si por várias ordens de
+magnitude, ainda poderia estar no Mediocristão. Como? Suponha que você tem
+uma amostragem de mil pessoas, com um amplo espectro que vai do anão ao
+gigante. É provável que você veja muitos gigantes em sua amostragem, não um ou
+outro raro gigante ocasional. Sua média não será afetada pelo eventual gigante
+adicional porque a expectativa é que alguns desses gigantes façam parte da sua
+amostragem, e a sua média provavelmente será alta. Em outras palavras, o
+elemento mais alto que você observar na sua amostragem não poderá estar muito
+longe da média. A média sempre conterá ambos os tipos, gigantes e anões, de
+modo que nenhum deles deve ser raro demais — a menos que, muito de vez em
+quando, você obtenha um raríssimo megagigante ou um microanão. Isso seria um
+Mediocristão com uma grande unidade de desvio.
+Observe mais uma vez o seguinte princípio: quanto mais raro o evento, maior
+o erro em nossa estimativa de sua probabilidade — mesmo usando a gaussiana.
+Permita-me mostrar como a curva em forma de sino gaussiana suga a
+aleatoriedade da vida — por isso ela é popular. Gostamos dela porque permite
+certezas! Como? Pelo cálculo de médias, como discutirei a seguir.
+
+Como beber café pode ser seguro
+Lembre-se de que na discussão sobre o Mediocristão no capítulo 3 vimos que
+nenhuma observação isolada terá impacto no total. Essa propriedade será cada
+vez mais signiﬁcativa à medida que sua população aumentar de tamanho. As
+médias se tornarão cada vez mais estáveis, a ponto de todas as amostragens
+parecerem iguais.
+Já tomei muitas xícaras de café na vida (é meu maior vício). Nunca vi uma
+xícara pular a meio metro da minha escrivaninha, tampouco meu café se
+derramou espontaneamente sobre o manuscrito deste livro sem que houvesse
+intervenção (nem mesmo na Rússia). Na verdade, será necessário mais do que um
+leve vício em cafeína para testemunhar um evento desse tipo; exigiria mais vidas
+do que talvez seja concebível — as chances são tão ínﬁmas, uma em tantos zeros,
+que seria tarefa impossível escrever esse número com o tempo que eu tenho.
+No entanto, a realidade física torna possível que minha xícara de café dê um
+salto — é muito improvável, mas possível. Partículas saltam o tempo todo. Como
+é que a xícara de café, ela própria sendo composta de partículas saltitantes, não
+sai pulando por aí? A razão é, simplesmente, a seguinte: para que a xícara desse
+um salto, seria necessário que todas as partículas saltassem na mesma direção, e
+que ﬁzessem isso em sincronia várias vezes seguidas (com um movimento
+simultâneo de compensação da mesa na direção oposta). Todos os vários trilhões
+de partículas na minha xícara de café não vão pular na mesma direção; isso não
+vai acontecer durante o tempo de vida deste universo. Então posso pousar a
+xícara de café com segurança na borda da minha escrivaninha e me preocupar
+com fontes mais sérias de incerteza.
+A segurança da minha xícara de café ilustra o modo como a aleatoriedade da
+gaussiana é controlável pelo cálculo da média. Se minha xícara fosse uma
+partícula grande, ou agisse como uma, então seus saltos seriam um problema.
+Mas minha xícara é a soma de trilhões de partículas muito pequenas.
+Os administradores de cassinos entendem isso bem, e é por isso que (se
+ﬁzerem as coisas direitinho) nunca perdem dinheiro. Eles simplesmente não
+permitem que um jogador faça uma aposta gigantesca, preferindo que muitos
+jogadores façam séries de apostas de tamanho limitado. Os jogadores podem
+apostar um total de 20 milhões de dólares, mas ninguém precisa se preocupar
+com a saúde ﬁnanceira do cassino: as apostas custam, digamos, vinte dólares em
+média; o cassino restringe as apostas ao máximo que garantirá aos proprietários
+do cassino um sono tranquilo. Dessa maneira, as variações nos lucros serão
+
+ridiculamente pequenas, pouco importando o volume total da jogatina. Você não
+verá uma pessoa sair do cassino com 1 bilhão — não durante a existência deste
+universo.
+FIGURA 11. Como funciona a lei dos grandes números. No Mediocristão, à medida que o
+tamanho da amostragem aumenta, a média observada se apresenta com dispersão cada vez menor —
+como você pode ver, a distribuição será cada vez mais estreita. Em poucas palavras, na teoria estatística é
+assim que tudo funciona (ou deveria funcionar). No Mediocristão, a incerteza desaparece na média. Isso
+ilustra a banal “lei dos grandes números”.
+O que acabei de expor é uma aplicação da lei suprema do Mediocristão:
+quando há muitos apostadores, cada apostador isolado terá um impacto diminuto
+sobre o total.
+A consequência disso é que as variações em torno da média da gaussiana,
+também chamadas de “erros”, não chegam a ser preocupantes. São pequenas e se
+dissipam. São ﬂutuações domesticadas em torno da média.
+Amor por certezas
+Se você já assistiu a alguma (chatíssima) aula de estatística na faculdade, não
+entendeu direito o motivo da empolgação do professor e se perguntou o que
+diabos signiﬁcava “desvio-padrão”, não há nada com que se preocupar. A noção
+de desvio-padrão não faz sentido fora do Mediocristão. Claro que teria sido mais
+
+benéﬁco, e com certeza mais divertido, ter se matriculado em aulas de
+neurobiologia da estética ou dança africana pós-colonial, e isso é fácil de ver
+empiricamente.
+Desvios-padrão não existem fora da gaussiana, ou, se existem, não têm
+importância e não explicam muita coisa. Mas ﬁca ainda pior. A família gaussiana
+(que inclui vários amigos e parentes, como a lei de Poisson) é a única classe de
+distribuições que o desvio-padrão (e a média) é capaz de descrever por conta
+própria. Você não precisa de mais nada. A curva em forma de sino satisfaz o
+reducionismo dos iludidos.
+Existem outras noções que signiﬁcam pouco ou nada fora da gaussiana:
+correlação e, pior, regressão. No entanto, elas estão profundamente enraizadas em
+nossos métodos; é difícil ter uma conversa de negócios sem ouvir a palavra
+correlação.
+Para ver como a correlação pode ser desprovida de sentido fora do
+Mediocristão, tome como exemplo uma série histórica envolvendo duas variáveis
+que, de forma evidente, sejam do Extremistão, como o mercado de títulos e
+ações, ou preços de dois ativos, ou duas variáveis como, digamos, mudanças nos
+números das vendas de livros infantis nos Estados Unidos e a produção de
+fertilizantes na China; ou os preços de imóveis na cidade de Nova York e o
+retorno do mercado de ações da Mongólia. Meça a correlação entre os pares de
+variáveis em diferentes subperíodos, digamos, para 1994, 1995, 1996 etc. A
+medição de correlação provavelmente mostrará uma severa instabilidade; vai
+depender do período para o qual foi calculada. Não obstante, as pessoas falam
+sobre a correlação como se fosse algo real, o que a torna tangível e a reveste de
+uma propriedade física, reiﬁcando-a.
+A mesma ilusão de concretude afeta o que chamamos de desvios-“padrão”.
+Selecione qualquer série de preços ou valores históricos. Divida a série em
+subsegmentos e meça seu desvio-“padrão”. Surpreso? Cada amostragem
+produzirá um desvio-“padrão” diferente. Então por que as pessoas falam sobre
+desvios-padrão? Vai saber.
+Note aqui que, assim como acontece com a falácia narrativa, quando você
+analisa os dados anteriores e calcula uma única correlação ou um único desvio-
+padrão, não percebe essa instabilidade.
+Como causar catástrofes
+Se você usar o termo estatisticamente signiﬁcativo, tome cuidado com as
+ilusões de certeza. É muito provável que alguém tenha olhado para os próprios
+
+erros de observação e presumido que eram gaussianos, o que necessita de um
+contexto gaussiano, a saber, o Mediocristão, para ser aceitável.
+A ﬁm de mostrar quão endêmico é o problema do uso equivocado da
+gaussiana e quão perigoso pode ser, pense em um livro (enfadonho) intitulado
+Catastrophe [Catástrofe], do juiz Richard Posner, um escritor prolíﬁco. Posner
+lamenta a incompreensão da aleatoriedade por parte de funcionários públicos e
+recomenda, entre outras coisas, que os formuladores de políticas governamentais
+aprendam estatística… com economistas. O juiz Posner parece estar tentando
+fomentar catástrofes. No entanto, apesar de ser uma daquelas pessoas que
+deveriam passar mais tempo lendo e menos tempo escrevendo, ele talvez seja um
+pensador perspicaz, profundo e original; como muitas pessoas, simplesmente não
+tem noção da distinção entre o Mediocristão e o Extremistão, e acredita que a
+estatística é uma “ciência”, nunca uma fraude. Se você topar com o juiz Posner
+por aí, faça com que ele tome ciência dessas coisas.
+O MONSTRO MEDIANO DE QUÉTELET
+Essa monstruosidade chamada de curva em forma de sino gaussiana não é obra
+de Gauss. Embora tenha trabalhado nisso, ele era um matemático lidando com
+uma questão teórica, não estava fazendo aﬁrmações sobre a estrutura da
+realidade, a exemplo de cientistas de mentalidade estatística. Em Apologia de um
+matemático, G. H. Hardy escreveu:
+A matemática “real” dos matemáticos “reais”, a matemática de Fermat e Euler e Gauss e Abel e Riemann,
+é quase totalmente “inútil” (e isso é verdade tanto para a matemática “aplicada” quanto para a matemática
+“pura”).
+Como já mencionei, a curva em forma de sino foi basicamente a invenção de
+um viciado em jogatina, Abraham de Moivre (1667-1754), refugiado calvinista
+francês que passou grande parte da vida em Londres, ainda que falasse inglês
+com sotaque carregado. Mas é Quételet, não Gauss, que é considerado um dos
+sujeitos mais destrutivos na história do pensamento, como veremos a seguir.
+Adolphe Quételet (1796-1874) introduziu o conceito de um ser humano
+mediano em termos físicos, l’homme moyen ou o “homem médio”. Quételet não
+tinha nada de moyen, era “um homem de grandes paixões criativas, um homem
+criativo e cheio de energia”. Ele escrevia poesia e inclusive foi coautor de uma
+ópera. O problema básico com Quételet era o fato de ser um matemático, não
+
+um cientista empírico, mas ele não sabia disso. Quételet encontrou harmonia na
+curva em forma do sino.
+O problema existe em dois níveis. Primo, Quételet teve uma ideia normativa,
+fazer o mundo caber em sua média, no sentido de que a média, para ele, era o
+“normal”. Seria maravilhoso poder ignorar a contribuição do incomum, o “não
+normal”, o Cisne Negro, ao total. Mas deixemos esse sonho para as utopias.
+Secondo, havia um sério problema empírico correlato. Quételet via curvas em
+forma de sino por toda parte. Estava ofuscado por elas e, repito, aprendi que, tão
+logo você cisma com uma curva em forma de sino, é difícil tirá-la da cabeça. Mais
+tarde, Frank Ysidro Edgeworth se referiria a “Quételesmus” como o grave erro de
+ver curvas em forma de sino em todos os lugares, a mania de aplicar a curva
+gaussiana em todos os domínios.
+A mediocridade de ouro
+Quételet forneceu um produto muito necessário para os apetites ideológicos
+de sua época. Como viveu entre 1796 e 1874, tenha em mente a lista de seus
+contemporâneos: Saint-Simon (1760-1825), Pierre-Joseph Proudhon (1809-
+1865) e Karl Marx (1818-1883), cada um fonte de uma versão diferente do
+socialismo. Naquele momento pós-Iluminismo, todos ansiavam por uma aurea
+mediocritas, o meio-termo de ouro: em riqueza, altura, peso e assim por diante.
+Esse desejo contém algum elemento de pensamento quimérico misturado com
+uma boa dose de harmonia e… platonicidade.
+Sempre me lembro da instrução de meu pai de que in medio stat virtus, “a
+virtude está na moderação”. Bem, por muito tempo esse foi o ideal; a
+mediocridade, tomada nesse sentido, era inclusive considerada de ouro.
+A mediocridade abrangente.
+Mas Quételet levou a ideia a um nível diferente. Compilando estatísticas, ele
+começou a criar padrões de “médias”. O diâmetro do tórax, a altura, o peso de
+bebês ao nascer, pouquíssimas coisas escaparam de seus padrões. Os desvios da
+norma, ele descobriu, tornavam-se exponencialmente mais raros à medida que a
+magnitude do desvio aumentava. Então, tendo concebido essa ideia de
+características físicas de l’homme moyen, Monsieur Quételet voltou suas atenções
+para questões sociais. L’homme moyen tinha seus costumes, seus hábitos de
+consumo, seus métodos.
+Por meio de seu constructo de l’homme moyen physique e l’homme moyen
+moral, o homem médio em termos físicos e morais, Quételet criou um intervalo
+ou faixa de desvios da média que posiciona todas as pessoas à esquerda ou à
+
+direita do centro e, na verdade, pune aquelas que se veem ocupando a extrema
+esquerda ou a extrema direita da curva em forma de sino estatística. Elas se
+tornaram anormais. É óbvio como isso inspirou Marx, que cita Quételet a
+respeito do conceito de indivíduo médio ou normal: “Desvios sociais em termos
+da distribuição de riqueza, por exemplo, devem ser minimizados”, escreveu Marx
+em Das Kapital.
+Há que se dar algum crédito ao establishment cientíﬁco da época de Quételet.
+Eles
+não
+engoliram
+de
+imediato
+seus
+argumentos.
+O
+ﬁlósofo/matemático/economista Augustin Cournot, para começo de conversa,
+não acreditou que fosse possível estabelecer um humano-padrão com base em
+critérios puramente quantitativos. Esse padrão seria dependente do atributo em
+questão. Uma medição realizada em uma província pode ser diferente daquela
+em outra província. Qual das duas deve ser o padrão? L’homme moyen seria um
+monstro, declarou Cournot. A seguir explicarei esse aspecto.
+Partindo do princípio de que há algo de desejável em ser um homem médio,
+ele deve ter uma especialidade não especiﬁcada na qual seria mais talentoso do
+que outras pessoas — não pode ser mediano em tudo. Um pianista seria melhor,
+em média, tocando piano, mas pior do que a norma em, digamos, equitação. Um
+desenhista teria melhores habilidades para traçar desenhos, e assim por diante. A
+noção de um homem considerado médio é diferente daquela de um homem que é
+mediano em tudo o que faz. Na verdade, um humano exatamente médio teria que
+ser metade homem e metade mulher. Quételet não entendeu patavina do ponto
+principal.
+O erro de Deus
+Um aspecto muito mais preocupante da discussão é que, no tempo de
+Quételet, o nome da distribuição gaussiana era la loi des erreurs, a lei dos erros,
+uma vez que uma de suas primeiras aplicações foi a distribuição de erros em
+medições astronômicas. Você está tão preocupado quanto eu? A divergência da
+média (aqui, também do mediano) era tratada precisamente como um erro! Não é
+de admirar que Marx tenha se apaixonado pelas ideias de Quételet.
+Esse conceito decolou muito rápido. O deveria ser foi confundido com é, e
+isso contou com a sanção da ciência. A noção do homem médio está impregnada
+na cultura que assistiu ao nascimento da classe média europeia, a nascente
+cultura pós-napoleônica de comerciantes, cautelosa com relação à riqueza
+excessiva e ao brilhantismo intelectual. Na verdade, presume-se que o sonho de
+uma sociedade com resultados comprimidos corresponda às aspirações de um ser
+
+humano racional diante de uma loteria genética. Se você tivesse que escolher uma
+sociedade onde nascer em sua próxima vida, mas sem poder saber que desfecho o
+esperaria, supõe-se que você não fosse querer se arriscar; você gostaria de
+pertencer a uma sociedade sem resultados divergentes.
+Um efeito divertido da gloriﬁcação da mediocridade foi a criação de um
+partido político na França chamado pujadismo, composto inicialmente de um
+movimento social que visava à defesa dos donos de mercearias. Foi o caloroso
+ajuntamento de gente semifavorecida, esperançosa de ver o resto do universo se
+comprimir ao nível de sua posição social — um caso de revolução não proletária.
+Tinha uma mentalidade de dono de mercearia, incluindo o emprego de
+ferramentas matemáticas. Será que Gauss forneceu a matemática para os
+comerciantes?
+Poincaré vai ao socorro
+O próprio Poincaré desconﬁava bastante da gaussiana. Minha suspeita é que
+ele se sentiu enjoado quando a curva em forma de sino e métodos semelhantes
+para modelar a incerteza lhes foram apresentados. Basta lembrar que a gaussiana
+foi inicialmente criada para medir erros astronômicos, e que as ideias de Poincaré
+de modelar a mecânica celestial estavam repletas de uma sensação de incerteza
+mais profunda.
+Poincaré escreveu que um de seus amigos, um “físico eminente” cujo nome ele
+não cita, queixou-se de que os físicos tendiam a usar a curva de Gauss por
+pensarem que os matemáticos a tomavam como uma necessidade matemática; os
+matemáticos a usavam por acreditarem que os físicos a consideravam um fato
+empírico.
+Eliminando inﬂuências injustas
+Permita-me aﬁrmar aqui que, exceto pela mentalidade de dono de mercearia,
+acredito piamente no valor da posição mediana e da mediocridade — qual
+humanista não quer minimizar a discrepância entre os humanos? Nada é mais
+repugnante do que o irreﬂetido ideal do Übermensch! Meu verdadeiro problema
+é epistemológico. A realidade não é mediocristã, então deveríamos aprender a
+conviver com isso.
+“Os gregos a teriam endeusado”
+A lista de pessoas que andam com a curva em forma de sino enﬁada na cabeça,
+graças à sua pureza platônica, é incrivelmente extensa.
+
+Sir Francis Galton, primo em primeiro grau de Charles Darwin e neto de
+Erasmus Darwin, talvez tenha sido, ao lado de seu primo, um dos últimos
+cavalheiros-cientistas independentes — categoria que incluía também lorde
+Cavendish, lorde Kelvin, Ludwig Wittgenstein (à sua maneira) e, até certo ponto,
+nosso superﬁlósofo Bertrand Russell. Embora John Maynard Keynes não
+pertencesse exatamente a essa categoria, seu pensamento é uma síntese dela.
+Galton viveu na época vitoriana, quando herdeiros e pessoas que não precisavam
+ganhar a vida poderiam, entre outras opções como andar a cavalo ou caçar, se
+tornar pensadores, cientistas ou (no caso daqueles com menos talentos) políticos.
+Há muitas razões para ter saudade dessa época: a autenticidade de alguém que
+fazia ciência em prol da ciência, sem motivações de carreira.
+Infelizmente, fazer ciência por amor ao conhecimento não necessariamente
+signiﬁca que você seguirá na direção certa. Ao descobrir e absorver a distribuição
+“normal”, Galton se apaixonou por ela. Dizem que ele exclamou que, caso a
+tivessem conhecido, os gregos a teriam endeusado. O entusiasmo de Galton pode
+ter contribuído para a prevalência do uso da gaussiana.
+Galton foi abençoado por não ter qualquer bagagem matemática, mas tinha
+uma rara obsessão por medições. Não conhecia a lei dos grandes números, mas a
+redescobriu a partir dos próprios dados. Ele construiu o quincunx (ou tabuleiro
+de Galton), uma espécie de máquina de pinos que demonstra o desenvolvimento
+da curva em forma de sino — sobre a qual falarei mais daqui a alguns parágrafos.
+Verdade seja dita, Galton aplicou a curva em forma de sino a áreas como genética
+e hereditariedade, em que o seu uso foi justiﬁcado. Mas o entusiasmo de Galton
+ajudou a lançar métodos estatísticos incipientes nas questões sociais.
+Apenas “sim/não”, por favor
+Permita-me discutir aqui a extensão do estrago. Se você está lidando com
+inferência qualitativa, como na psicologia ou na medicina, procurando respostas
+do tipo sim/não às quais magnitudes não se aplicam, então pode presumir sem
+grandes problemas que está no Mediocristão. O impacto do improvável não pode
+ser tão grande assim. A pessoa ou tem câncer ou não tem, ou está grávida ou não
+está et cetera. Graus de morte ou de gravidez não são relevantes (a menos que
+você esteja lidando com epidemias). Todavia, se você está lidando com agregados,
+em que as magnitudes são importantes, por exemplo a renda, sua riqueza,
+rendimentos de um portfólio de investimentos ou vendas de livros, então terá um
+problema e obterá a distribuição errada se usar a gaussiana, já que ela não
+pertence a esse lugar. Um único número pode desestruturar todas as suas médias;
+
+uma única perda pode erradicar um século de lucros. Você não pode mais dizer
+“isso é uma exceção”. A aﬁrmação “bem, posso perder dinheiro” não é
+informacional, a menos que você possa acrescentar uma quantidade a essa perda.
+Você pode perder todo o seu patrimônio líquido ou uma fração de sua renda
+diária; há uma diferença.
+Isso explica por que a psicologia empírica e seus insights sobre a natureza
+humana, que apresentei nas primeiras partes deste livro, são robustamente
+resistentes ao erro de usar a curva em forma de sino; também têm sorte, já que a
+maioria de suas variáveis permite a aplicação de estatísticas gaussianas
+convencionais. Ao medirem quantas pessoas em uma amostragem apresentam um
+viés ou cometem um erro, esses estudos geralmente trazem à tona um tipo de
+resultado sim/não. Nenhuma observação, por si só, pode prejudicar as
+descobertas gerais.
+A seguir, farei a uma apresentação sui generis da ideia da curva em forma de
+sino, a partir do zero.
+UM EXPERIMENTO MENTAL (LITERÁRIO) SOBRE A ORIGEM DA CURVA EM FORMA DE
+SINO
+Imagine uma máquina de pinos como a mostrada na ﬁgura 12. Lance 32 bolas,
+presumindo um tabuleiro bem balanceado de modo que a bola tenha
+probabilidades iguais de, ao atingir um dos pinos, cair à direita ou à esquerda por
+qualquer um dos espaços entre eles. O resultado esperado é que muitas bolas
+cairão nas colunas centrais e que o número de bolas vai diminuir à medida que as
+colunas ﬁcam mais distantes do centro.
+Em seguida, imagine um gedanken, um experimento mental. Um homem joga
+uma moeda para o alto e, após cada lance, dá um passo para a esquerda ou para a
+direita, dependendo de a moeda ter dado cara ou coroa. Isso é chamado de
+“passeio aleatório”, mas não necessariamente diz respeito a caminhar. Do mesmo
+modo, você poderia dizer que em vez de dar um passo para a esquerda ou para a
+direita, ganharia ou perderia um dólar a cada lance, mantendo o registro do
+montante cumulativo que você tem no bolso.
+Suponha que eu tenha armado para você um esquema de aposta (legal) em
+que as probabilidades não estão nem a seu favor nem contra você. Jogue uma
+moeda para o alto. Se der cara, você ganha um dólar; se der coroa, você perde um
+dólar.
+
+No primeiro lance, você vai ganhar ou perder.
+No segundo lance, o número de resultados possíveis dobra. Caso 1: ganha,
+ganha. Caso 2: ganha, perde. Caso 3: perde, ganha. Caso 4: perde, perde. Cada
+um desses casos tem probabilidades equivalentes, a combinação de uma única
+vitória e uma única derrota tem uma incidência duas vezes maior porque os casos
+dois e três, ganha-perde e perde-ganha, correspondem ao mesmo resultado. E
+essa é a chave para a gaussiana. Muita coisa no meio se perde — e veremos que há
+um bocado de coisas no meio. Então, se você está jogando a um dólar por lance,
+depois de dois lances você tem 25% de chance de ganhar ou perder dois dólares,
+mas 50% de chance de empatar, ou seja, ﬁcar na mesma.
+FIGURA 12. O quincunx (simpliﬁcado) — uma máquina de pinos. Solte bolas que, ao se
+chocarem contra um dos pinos distribuídos em forma de pirâmide e dispostos em intervalos iguais, caem
+aleatoriamente para a direita ou para a esquerda. A gura acima mostra o cenário hipotético mais
+provável, que se assemelha muito à curva em forma de sino (também conhecida como distribuição
+gaussiana). Cortesia de Alexander Taleb.
+
+Vamos jogar mais uma rodada. Você joga a moeda para cima e o terceiro lance
+dobra novamente o número de casos, de modo que encaramos oito resultados
+possíveis. O caso 1 (que era ganha, ganha no segundo lance) se ramiﬁca em ganha,
+ganha, ganha e ganha, ganha, perde. Adicionamos uma vitória ou uma derrota ao
+ﬁnal de cada um dos resultados anteriores. O caso 2 se ramiﬁca em ganha, perde,
+ganha e ganha, perde, perde. O caso 3 se ramiﬁca em perde, ganha, ganha e
+perde, ganha, perde. O caso 4 se ramiﬁca em perde, perde, ganha e perde, perde,
+perde.
+Agora temos oito casos, todos igualmente prováveis. Observe que você pode
+agrupar novamente os resultados medianos em que uma vitória cancela uma
+perda. (No quincunx de Galton, situações em que a bola cai para a esquerda e
+depois para a direita, ou vice-versa, são dominantes, de forma que você termina
+com uma abundância de bolas no meio.) O líquido, ou cumulativo, é o seguinte:
+1) três vitórias; 2) duas vitórias, uma derrota, líquido de uma vitória; 3) duas
+vitórias, uma derrota, líquido de uma vitória; 4) uma vitória, duas derrotas,
+líquido de uma derrota; 5) duas vitórias, uma derrota, líquido de uma vitória; 6)
+duas derrotas, uma vitória, líquido de uma derrota; 7) duas derrotas, uma vitória,
+líquido de uma derrota; e, ﬁnalmente, 8) três derrotas.
+Dos oito cenários, o caso de três vitórias ocorre uma vez. O caso de três
+derrotas ocorre uma vez. O caso de uma derrota líquida (uma vitória, duas
+derrotas) ocorre três vezes. O caso de uma vitória líquida (uma derrota, duas
+vitórias) ocorre três vezes.
+Joguemos mais uma rodada, a quarta. Haverá dezesseis resultados igualmente
+prováveis. Você terá um caso de quatro vitórias, um caso de quatro derrotas,
+quatro casos de duas vitórias, quatro casos de duas derrotas e seis casos de
+empate ou equilíbrio.
+O quincunx (cujo nome é derivado de quinque, a palavra em latim para “cinco”)
+no exemplo da máquina de pinos mostra a quinta rodada, com 32 possibilidades,
+o que é fácil de acompanhar. Esse era o conceito por trás do quincunx usado por
+Francis Galton. Galton era ao mesmo tempo preguiçoso de menos e um pouco
+inocente demais em matemática; em vez de construir a engenhoca, ele poderia
+ter trabalhado com álgebra mais simples, ou talvez realizado um experimento
+mental como este.
+Vamos continuar jogando. Continue até ter atirado a moeda quarenta vezes.
+Você pode fazer isso em questão de minutos, mas precisaremos de uma
+calculadora para computar o número de resultados, exigentes demais para nosso
+método de pensamento simples. Você terá cerca de 1 099 511 627 776
+
+combinações possíveis — mais de 1 trilhão. Não se dê ao trabalho de fazer os
+cálculos manualmente, é dois multiplicado quarenta vezes por si mesmo, já que
+cada ramiﬁcação dobra a cada circunstância. (Lembre-se de que adicionamos
+uma vitória e uma derrota no ﬁnal das alternativas da terceira rodada para irmos
+para a quarta rodada, dobrando assim o número de alternativas.) Dessas
+combinações, apenas uma será de quarenta caras consecutivas e apenas uma será
+de quarenta coroas consecutivas. O restante ﬂutuará em torno do meio, que aqui
+equivale a zero.
+Já podemos ver que nesse tipo de aleatoriedade os extremos são
+excessivamente raros. Uma combinação em 1 099 511 627 776 equivale a
+quarenta caras, por exemplo, em quarenta lances da moeda. Se você realizar o
+exercício de quarenta lançamentos da moeda uma vez por hora, as chances de
+obter quarenta resultados idênticos consecutivos são tão pequenas que seriam
+necessárias muitíssimas séries de quarenta lances da moeda para que isso
+acontecesse. Supondo que você faça algumas pausas para comer, discutir com
+seus amigos e colegas de quarto, tomar uma cerveja e dormir, a expectativa é que
+você tenha de aguardar cerca de 4 milhões de vidas para obter um resultado de
+quarenta caras consecutivas (ou um resultado de quarenta coroas consecutivas)
+apenas uma vez. E leve em consideração o seguinte. Suponha que você jogue uma
+rodada adicional, para um total de 41; para obter 41 caras seguidas, você levaria 8
+milhões de vidas! Ir de quarenta para 41 reduz as chances pela metade. Trata-se
+de uma característica essencial da estrutura não escalável para a análise de
+aleatoriedade: desvios extremos diminuem em uma taxa crescente. Você pode
+esperar cinquenta caras consecutivas uma vez a cada 4 bilhões de vidas!
+
+FIGURA 13. Número de vitórias nos lances de moedas. Resultado de quarenta lances da moeda.
+Vemos a protocurva em forma de sino surgindo.
+Ainda não estamos em uma perfeita curva de sino gaussiana, mas estamos
+chegando perigosamente perto. Isso ainda é protogaussiano, mas dá para
+entender a essência da coisa. (Na verdade, você nunca encontrará uma gaussiana
+em sua pureza, pois é uma forma platônica — dá para chegar certo, mas não se
+pode alcançá-la.) Todavia, como você pode ver na ﬁgura 13, o conhecido formato
+semelhante a um sino está começando a surgir.
+Como podemos chegar ainda mais perto da perfeita curva em forma de sino
+gaussiana? Reﬁnando o processo de lances da moeda. Podemos jogar a moeda
+para cima quarenta vezes a um dólar por lance ou 4 mil vezes a dez centavos por
+lance e somar os resultados. O risco esperado é quase idêntico em ambas as
+situações — e isso é um truque. A equivalência nos dois conjuntos de lances da
+moeda tem um pequeno empecilho não intuitivo. Multiplicamos o número de
+apostas por cem, mas dividimos o tamanho da aposta por dez — não procure uma
+razão agora, apenas presuma que são “equivalentes”. O risco geral é equivalente,
+mas agora abrimos a possibilidade de ganhar ou perder quatrocentas vezes
+consecutivas. As probabilidades são de cerca de uma para 1 com 120 zeros depois
+dele, ou seja, uma em 1 000 000 000 000 000 000 000 000 000 000 000
+000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+000 000 000 000 000 000 000 000 000 000 000 000 000 000 de
+vezes.
+
+Continuemos o processo por algum tempo. Passamos de quarenta lances da
+moeda a um dólar cada um para 4 mil lances a dez centavos cada um, e depois
+para 400 mil lances a um centavo, chegando cada vez mais perto de uma
+gaussiana. A ﬁgura 14 mostra resultados distribuídos entre –40 e 40, ou seja,
+oitenta pontos de virada. O próximo aumentaria isso para 8 mil pontos.
+FIGURA 14. Uma versão mais abstrata: curva de Platão. Um número innito de lances da
+moeda.
+Vamos em frente. Podemos jogar a moeda para cima 4 mil vezes apostando um
+décimo de um centavo. Que tal 400 mil vezes a um milésimo de um centavo?
+Como uma forma platônica, a curva gaussiana pura é principalmente o que
+acontece quando temos uma inﬁnidade de lances da moeda por rodada, cada
+aposta sendo inﬁnitesimalmente pequena. Não se preocupe em tentar visualizar
+os resultados, tampouco entendê-los. Não podemos mais falar sobre um tamanho
+“inﬁnitesimal” de apostas (pois temos uma inﬁnidade delas, e estamos no que os
+matemáticos chamam de estrutura contínua). A boa notícia é que há um
+substituto.
+Passamos de uma aposta simples para algo totalmente abstrato. Passamos das
+observações para o domínio da matemática. Na matemática, as coisas contêm
+certa pureza.
+Ora, algo completamente abstrato não deveria existir, então, por favor, nem
+tente entender a ﬁgura 14. Apenas esteja ciente de seu uso. Pense nela como um
+termômetro: em tese você não precisa compreender o conceito de temperatura
+para falar sobre calor ou frio. Você só precisa saber a correspondência entre
+
+temperatura e conforto (ou alguma outra consideração empírica). A temperatura
+de quinze graus Celsius corresponde a um clima agradável; já a de 23 graus
+Celsius abaixo de zero não é algo que uma pessoa aguarde com empolgação. Você
+não necessariamente se importa com a efetiva velocidade das colisões entre as
+partículas que explicam de forma mais técnica a temperatura. Graus de calor ou
+frio são, de certa forma, um meio para que sua mente traduza na forma de um
+número alguns fenômenos externos. Da mesma forma, a curva em forma de sino
+gaussiana é deﬁnida de modo que 68,2% das observações ﬁquem a uma distância
+entre –1 e +1 de desvio-padrão da média. Repito: nem tente entender se desvio-
+padrão é o desvio médio — não é, e um grande (muito grande) número de pessoas
+que usam a palavra desvio-padrão não entende esse ponto. O desvio-padrão é
+apenas um número que se usa para dimensionar as coisas, uma questão de mera
+correspondência se os fenômenos fossem gaussianos.
+Esses desvios-padrão são, com frequência, apelidados de “sigma”. As pessoas
+também falam sobre “variância” (mesma coisa: variância é o quadrado do sigma,
+ou seja, do desvio-padrão).
+Observe a simetria da curva. Você obtém os mesmos resultados se o sigma for
+positivo ou negativo. As chances de cair abaixo de –4 sigma são as mesmas de
+exceder 4 sigma, neste caso, de uma em 32 mil vezes.
+Como o leitor pode ver, o ponto principal da curva em forma de sino
+gaussiana é, como venho dizendo, que a maioria das observações paira em torno
+do medíocre, do mediano, ao passo que as chances de um desvio diminuem cada
+vez mais rápido (exponencialmente) à medida que nos afastamos da média. Se
+tiver que reter uma única informação, basta lembrar-se dessa drástica velocidade
+de diminuição das probabilidades à medida que você se afasta da média. Outliers
+são cada vez mais improváveis. Você pode ignorá-las tranquilamente.
+Essa propriedade gera também a lei suprema do Mediocristão: diante da
+escassez de grandes desvios, a contribuição deles para o total será ínﬁma a ponto
+da insigniﬁcância.
+No exemplo da altura que mencionei neste capítulo, usei unidades de desvio
+de dez centímetros, mostrando como a incidência diminuía conforme a altura
+aumentava. Eram desvios de 1 sigma; a tabela de altura também fornece um
+exemplo da operação de “dimensionamento em relação a 1 sigma” usando o sigma
+como unidade de medida.
+Aquelas suposições reconfortantes
+
+Repare nas suposições centrais que ﬁzemos no jogo de cara ou coroa que
+levaram à protogaussiana, ou à aleatoriedade moderada.
+Primeira premissa central: os lances da moeda são independentes entre si. A
+moeda não tem memória. O fato de você ter obtido cara ou coroa no lance
+anterior não muda as chances de você obter cara ou coroa no lance seguinte.
+Você não se torna um lançador de moedas “melhor” com o tempo. Se você
+introduzir a memória, ou habilidade de lançamento da moeda, todo o
+empreendimento gaussiano torna-se instável.
+Lembre-se das nossas discussões sobre ligação preferencial e vantagem
+cumulativa no capítulo 14. Ambas as teorias aﬁrmam que vencer hoje aumenta
+suas probabilidades de vencer no futuro. Portanto, as probabilidades são
+dependentes da história, e a primeira pressuposição central que leva à curva em
+forma de sino gaussiana fracassa na realidade. Nos jogos, é claro, não se espera
+que os ganhos anteriores se traduzam em um aumento da probabilidade de
+ganhos futuros — mas não é assim na vida real, razão pela qual me preocupo com
+o fato de que ensinem probabilidade por meio de jogos. Mas quando vencer leva
+a mais vitórias, é muito mais provável que você veja quarenta vitórias
+consecutivas do que com uma protogaussiana.
+Segunda premissa central: nenhum salto “desenfreado”. O tamanho dos passos
+na construção gradual do passeio aleatório básico é sempre conhecido, a saber,
+um passo de cada vez. Não há incerteza alguma quanto ao tamanho do passo. Não
+encontramos situações nas quais o movimento variou de modo descontrolado.
+Lembre-se de que, se qualquer uma dessas duas premissas centrais não for
+atendida, os seus movimentos (ou lances da moeda) não conduzirão
+cumulativamente à curva em forma de sino. Dependendo do que acontecer,
+podem levar à desvairada aleatoriedade invariante de escala do estilo
+mandelbrotiano.
+“A ubiquidade da gaussiana”
+Um dos problemas que enfrento na vida é que, sempre que digo às pessoas
+que a curva em forma de sino gaussiana não é onipresente na vida real, apenas na
+mente de estatísticos, elas exigem que eu “prove” — o que é fácil fazer, como
+veremos nos próximos dois capítulos, embora ninguém tenha conseguido provar
+o contrário. Toda vez que sugiro um processo que não seja gaussiano, me pedem
+para justiﬁcar minha sugestão e, para além dos fenômenos, “fornecer a teoria por
+trás dele”. Vimos no capítulo 14 os modelos de “ricos ﬁcam mais ricos” que foram
+propostos para justiﬁcar a não utilização de uma gaussiana. Os criadores de
+
+modelos eram forçados a gastar seu tempo escrevendo teorias sobre possíveis
+modelos que geram o escalável — como se precisassem se desculpar por isso.
+Teoria coisa nenhuma! Tenho um problema epistemológico com relação a isso,
+com essa necessidade de justiﬁcar por que o mundo não se encaixa em um
+modelo idealizado, promovido por alguém cego à realidade.
+Em vez de estudar os possíveis modelos que geram aleatoriedade de curva não
+sino, e portanto cometendo os mesmos erros da teorização às cegas, minha
+técnica é fazer o oposto: conhecer a curva em forma de sino com a máxima
+intimidade que me for possível para identiﬁcar onde ela se aplica e é válida e
+onde não. Eu sei onde está o Mediocristão. Para mim, com frequência (ou quase
+sempre) são os usuários da curva em forma de sino que não a compreendem
+direito e têm que justiﬁcá-la, não o contrário.
+Essa onipresença da gaussiana não é uma propriedade do mundo, mas um
+problema em nossa mente, oriundo da maneira como olhamos para ele.
+O próximo capítulo abordará a invariância de escala da natureza e as
+propriedades do fractal. O capítulo seguinte investigará o uso indevido da
+gaussiana na vida socioeconômica e “a necessidade de produzir teorias”.
+Às vezes ﬁco um pouco emotivo, porque passei grande parte da minha vida
+pensando sobre esse problema. Desde que comecei a reﬂetir sobre ele e realizar
+uma variedade de experimentos mentais como ﬁz há pouco, não fui capaz de
+encontrar, nem por decreto, uma única pessoa ao meu redor, no mundo dos
+negócios e da estatística, que fosse intelectualmente consistente no sentido de ao
+mesmo tempo aceitar o Cisne Negro e rejeitar a gaussiana e as ferramentas
+gaussianas. Muitas pessoas aceitaram minha ideia do Cisne Negro, mas não
+conseguiram levá-la à sua conclusão lógica, a saber: não se pode usar uma única
+medida para aleatoriedade chamada de desvio-padrão (e chamá-la de “risco”);
+não se pode esperar uma resposta simples para caracterizar a incerteza. Dar o
+passo além requer coragem, comprometimento, uma capacidade de conectar os
+pontos, um desejo de compreender completamente a aleatoriedade. Também
+signiﬁca não aceitar a sabedoria alheia como verdade sagrada. Então comecei a
+encontrar físicos que rejeitavam as ferramentas gaussianas, mas sucumbiam a
+outro pecado: credulidade em relação a modelos preditivos precisos,
+principalmente elaborações em torno da ligação preferencial do capítulo 14 —
+outra forma de platonicidade. Não consegui encontrar ninguém com
+profundidade cientíﬁca e técnica que olhasse para o mundo da aleatoriedade e
+
+entendesse sua natureza, que visse os cálculos como apoio, não como objetivo
+principal. Levei quase uma década e meia para encontrar esse pensador, o
+homem que acinzentou muitos cisnes: Mandelbrot — o grande Benoît
+Mandelbrot.
+

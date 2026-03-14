@@ -1,0 +1,45 @@
+# Semantic and Metrics Layers
+
+Paginas: 380-380
+
+In our experience, federated queries are ideally suited when you want flexibility in
+analyzing data or the source data needs to be tightly controlled. Federation allows ad
+hoc queries for performing exploratory analysis, blending data from various systems
+without the complexity of setting up data pipelines or ETL. This will allow you to
+determine whether the performance of a federated query is sufficient for ongoing
+purposes or you need to set up ingestion on some or all data sources and centralize
+the data in an OLAP database or data lake.
+Federated queries also provide read-only access to source systems, which is great
+when you don’t want to serve files, database access, or data dumps. The end user
+reads only the version of the data they’re supposed to access and nothing more.
+Query federation is a great option to explore for situations where access and compli‐
+ance are critical.
+Data Sharing
+Chapter 5 includes an extensive discussion of data sharing. Any data exchange
+between organizations or units within a larger organization can be viewed as data
+sharing. Still, we mean specifically sharing through massively multitenant storage
+systems in a cloud environment. Data sharing generally turns data serving into a
+security and access control problem.
+The actual queries are now handled by the data consumers (analysts and data scien‐
+tists) rather than the engineers sourcing the data. Whether serving data in a data
+mesh within an organization, providing data to the public, or serving to partner
+businesses, data sharing is a compelling serving model. Data sharing is increasingly a
+core feature of major data platforms like Snowflake, Redshift, and BigQuery allowing
+companies to share data safely and securely with each other.
+Semantic and Metrics Layers
+When data engineers think about serving, they naturally tend to gravitate toward
+the data processing and storage technologies—i.e., will you use Spark or a cloud
+data warehouse? Is your data stored in object storage or cached in a fleet of SSDs?
+But powerful processing engines that deliver quick query results across vast datasets
+don’t inherently make for quality business analytics. When fed poor-quality data or
+poor-quality queries, powerful query engines quickly return bad results.
+Where data quality focuses on characteristics of the data itself and various techni‐
+ques to filter or improve bad data, query quality is a question of building a query
+with appropriate logic that returns accurate answers to business questions. Writing
+high-quality ETL queries and reporting is time-intensive, detailed work. Various
+tools can help automate this process while facilitating consistency, maintenance, and
+continuous improvement.
+Ways to Serve Data for Analytics and ML
+|
+355
+

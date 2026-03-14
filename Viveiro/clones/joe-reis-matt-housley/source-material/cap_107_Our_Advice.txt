@@ -1,0 +1,45 @@
+# Our Advice
+
+Paginas: 163-163
+
+Documentation and support
+Problems and questions will inevitably arise. Is it clear how to solve your prob‐
+lem, either through documentation or support?
+Pricing
+Is the pricing understandable? Map out low-, medium-, and high-probability
+usage scenarios, with respective costs. Are you able to negotiate a contract, along
+with a discount? Is it worth it? How much flexibility do you lose if you sign a
+contract, both in negotiation and the ability to try new options? Are you able to
+obtain contractual commitments on future pricing?
+Longevity
+Will the company survive long enough for you to get value from its product?
+If the company has raised money, search around for its funding situation. Look
+at user reviews. Ask friends and post questions on social networks about users’
+experiences with the product. Make sure you know what you’re getting into.
+Cloud platform proprietary service offerings
+Cloud vendors develop and sell their proprietary services for storage, databases, and
+more. Many of these solutions are internal tools used by respective sibling companies.
+For example, Amazon created the database DynamoDB to overcome the limitations
+of traditional relational databases and handle the large amounts of user and order
+data as Amazon.com grew into a behemoth. Amazon later offered the DynamoDB
+service solely on AWS; it’s now a top-rated product used by companies of all sizes and
+maturity levels. Cloud vendors will often bundle their products to work well together.
+Each cloud can create stickiness with its user base by creating a strong integrated
+ecosystem.
+The following are factors to consider with a proprietary cloud offering:
+Performance versus price comparisons
+Is the cloud offering substantially better than an independent or OSS version?
+What’s the TCO of choosing a cloud’s offering?
+Purchase considerations
+On-demand pricing can be expensive. Can you lower your cost by purchasing
+reserved capacity or entering into a long-term commitment agreement?
+Our Advice
+Build versus buy comes back to knowing your competitive advantage and where it
+makes sense to invest resources toward customization. In general, we favor OSS and
+COSS by default, which frees you to focus on improving those areas where these
+options are insufficient. Focus on a few areas where building something will add
+significant value or reduce friction substantially.
+138
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+

@@ -1,0 +1,41 @@
+# Conclusion
+
+Paginas: 255-255
+
+Data Architecture
+Chapter 3 covers the basics of data architecture, as storage is the critical underbelly of
+the data engineering lifecycle.
+Consider the following data architecture tips. Design for required reliability and
+durability. Understand the upstream source systems and how that data, once inges‐
+ted, will be stored and accessed. Understand the types of data models and queries that
+will occur downstream.
+If data is expected to grow, can you negotiate storage with your cloud provider? Take
+an active approach to FinOps, and treat it as a central part of architecture conversa‐
+tions. Don’t prematurely optimize, but prepare for scale if business opportunities
+exist in operating on large data volumes.
+Lean toward fully managed systems, and understand provider SLAs. Fully managed
+systems are generally far more robust and scalable than systems you have to babysit.
+Orchestration
+Orchestration is highly entangled with storage. Storage allows data to flow through
+pipelines, and orchestration is the pump. Orchestration also helps engineers cope
+with the complexity of data systems, potentially combining many storage systems and
+query engines.
+Software Engineering
+We can think about software engineering in the context of storage in two ways. First,
+the code you write should perform well with your storage system. Make sure the code
+you write stores the data correctly and doesn’t accidentally cause data, memory leaks,
+or performance issues. Second, define your storage infrastructure as code and use
+ephemeral compute resources when it’s time to process your data. Because storage
+is increasingly distinct from compute, you can automatically spin resources up and
+down while keeping your data in object storage. This keeps your infrastructure clean
+and avoids coupling your storage and query layers.
+Conclusion
+Storage is everywhere and underlays many stages of the data engineering lifecycle. In
+this chapter, you learned about the raw ingredients, types, abstractions, and big ideas
+around storage systems. Gain deep knowledge of the inner workings and limitations
+of the storage systems you’ll use. Know the types of data, activities, and workloads
+appropriate for your storage.
+230
+|
+Chapter 6: Storage
+

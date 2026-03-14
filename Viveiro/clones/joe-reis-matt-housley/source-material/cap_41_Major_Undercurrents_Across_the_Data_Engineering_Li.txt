@@ -1,0 +1,32 @@
+# Major Undercurrents Across the Data Engineering Lifecycle
+
+Paginas: 73-73
+
+Figure 2-6. Reverse ETL
+Marketing analysts might calculate bids in Microsoft Excel by using the data in their
+data warehouse, and then upload these bids to Google Ads. This process was often
+entirely manual and primitive.
+As we’ve written this book, several vendors have embraced the concept of reverse
+ETL and built products around it, such as Hightouch and Census. Reverse ETL
+remains nascent as a practice, but we suspect that it is here to stay.
+Reverse ETL has become especially important as businesses rely increasingly on SaaS
+and external platforms. For example, companies may want to push specific metrics
+from their data warehouse to a customer data platform or CRM system. Advertising
+platforms are another everyday use case, as in the Google Ads example. Expect to
+see more activity in reverse ETL, with an overlap in both data engineering and ML
+engineering.
+The jury is out on whether the term reverse ETL will stick. And the practice may
+evolve. Some engineers claim that we can eliminate reverse ETL by handling data
+transformations in an event stream and sending those events back to source systems
+as needed. Realizing widespread adoption of this pattern across businesses is another
+matter. The gist is that transformed data will need to be returned to source systems
+in some manner, ideally with the correct lineage and business process associated with
+the source system.
+Major Undercurrents Across the Data
+Engineering Lifecycle
+Data engineering is rapidly maturing. Whereas prior cycles of data engineering sim‐
+ply focused on the technology layer, the continued abstraction and simplification
+48
+|
+Chapter 2: The Data Engineering Lifecycle
+

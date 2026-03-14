@@ -1,0 +1,583 @@
+{
+  "titulo": "O ato criativo",
+  "autor": "Rick Rubin",
+  "total_paginas": 294,
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "eLivros",
+      "paginas": "2-8",
+      "arquivo": "cap_01_eLivros.txt"
+    },
+    {
+      "numero": 2,
+      "titulo": "Créditos",
+      "paginas": "9-15",
+      "arquivo": "cap_02_Créditos.txt"
+    },
+    {
+      "numero": 3,
+      "titulo": "Todos são criadores",
+      "paginas": "16-17",
+      "arquivo": "cap_03_Todos_são_criadores.txt"
+    },
+    {
+      "numero": 4,
+      "titulo": "Entrar em sintonia",
+      "paginas": "18-22",
+      "arquivo": "cap_04_Entrar_em_sintonia.txt"
+    },
+    {
+      "numero": 5,
+      "titulo": "A fonte da criatividade",
+      "paginas": "23-25",
+      "arquivo": "cap_05_A_fonte_da_criatividade.txt"
+    },
+    {
+      "numero": 6,
+      "titulo": "Consciência",
+      "paginas": "26-28",
+      "arquivo": "cap_06_Consciência.txt"
+    },
+    {
+      "numero": 7,
+      "titulo": "O vaso e o filtro",
+      "paginas": "29-32",
+      "arquivo": "cap_07_O_vaso_e_o_filtro.txt"
+    },
+    {
+      "numero": 8,
+      "titulo": "O invisível",
+      "paginas": "33-35",
+      "arquivo": "cap_08_O_invisível.txt"
+    },
+    {
+      "numero": 9,
+      "titulo": "Procure pistas",
+      "paginas": "36-39",
+      "arquivo": "cap_09_Procure_pistas.txt"
+    },
+    {
+      "numero": 10,
+      "titulo": "Prática",
+      "paginas": "40-43",
+      "arquivo": "cap_10_Prática.txt"
+    },
+    {
+      "numero": 11,
+      "titulo": "Mergulhar (As grandes obras)",
+      "paginas": "44-45",
+      "arquivo": "cap_11_Mergulhar_As_grandes_obras.txt"
+    },
+    {
+      "numero": 12,
+      "titulo": "A natureza como professora",
+      "paginas": "46-48",
+      "arquivo": "cap_12_A_natureza_como_professora.txt"
+    },
+    {
+      "numero": 13,
+      "titulo": "Nada é estático",
+      "paginas": "49-51",
+      "arquivo": "cap_13_Nada_é_estático.txt"
+    },
+    {
+      "numero": 14,
+      "titulo": "Olhe para dentro",
+      "paginas": "52-53",
+      "arquivo": "cap_14_Olhe_para_dentro.txt"
+    },
+    {
+      "numero": 15,
+      "titulo": "As lembranças e o subconsciente",
+      "paginas": "54-56",
+      "arquivo": "cap_15_As_lembranças_e_o_subconsciente.txt"
+    },
+    {
+      "numero": 16,
+      "titulo": "Está sempre lá",
+      "paginas": "57-57",
+      "arquivo": "cap_16_Está_sempre_lá.txt"
+    },
+    {
+      "numero": 17,
+      "titulo": "Ambiente",
+      "paginas": "58-59",
+      "arquivo": "cap_17_Ambiente.txt"
+    },
+    {
+      "numero": 18,
+      "titulo": "Insegurança",
+      "paginas": "60-62",
+      "arquivo": "cap_18_Insegurança.txt"
+    },
+    {
+      "numero": 19,
+      "titulo": "Invente",
+      "paginas": "63-68",
+      "arquivo": "cap_19_Invente.txt"
+    },
+    {
+      "numero": 20,
+      "titulo": "Distração",
+      "paginas": "69-71",
+      "arquivo": "cap_20_Distração.txt"
+    },
+    {
+      "numero": 21,
+      "titulo": "Colaboração",
+      "paginas": "72-73",
+      "arquivo": "cap_21_Colaboração.txt"
+    },
+    {
+      "numero": 22,
+      "titulo": "Intenção",
+      "paginas": "74-76",
+      "arquivo": "cap_22_Intenção.txt"
+    },
+    {
+      "numero": 23,
+      "titulo": "Regras",
+      "paginas": "77-83",
+      "arquivo": "cap_23_Regras.txt"
+    },
+    {
+      "numero": 24,
+      "titulo": "O oposto é verdadeiro",
+      "paginas": "84-85",
+      "arquivo": "cap_24_O_oposto_é_verdadeiro.txt"
+    },
+    {
+      "numero": 25,
+      "titulo": "Escuta",
+      "paginas": "86-89",
+      "arquivo": "cap_25_Escuta.txt"
+    },
+    {
+      "numero": 26,
+      "titulo": "Paciência",
+      "paginas": "90-92",
+      "arquivo": "cap_26_Paciência.txt"
+    },
+    {
+      "numero": 27,
+      "titulo": "A mente do iniciante",
+      "paginas": "93-99",
+      "arquivo": "cap_27_A_mente_do_iniciante.txt"
+    },
+    {
+      "numero": 28,
+      "titulo": "Inspiração",
+      "paginas": "100-103",
+      "arquivo": "cap_28_Inspiração.txt"
+    },
+    {
+      "numero": 29,
+      "titulo": "Hábitos",
+      "paginas": "104-110",
+      "arquivo": "cap_29_Hábitos.txt"
+    },
+    {
+      "numero": 30,
+      "titulo": "Sementes",
+      "paginas": "111-114",
+      "arquivo": "cap_30_Sementes.txt"
+    },
+    {
+      "numero": 31,
+      "titulo": "Experimentação",
+      "paginas": "115-120",
+      "arquivo": "cap_31_Experimentação.txt"
+    },
+    {
+      "numero": 32,
+      "titulo": "Tente todas as possibilidades",
+      "paginas": "121-124",
+      "arquivo": "cap_32_Tente_todas_as_possibilidades.txt"
+    },
+    {
+      "numero": 33,
+      "titulo": "Construção",
+      "paginas": "125-128",
+      "arquivo": "cap_33_Construção.txt"
+    },
+    {
+      "numero": 34,
+      "titulo": "Ritmo",
+      "paginas": "129-134",
+      "arquivo": "cap_34_Ritmo.txt"
+    },
+    {
+      "numero": 35,
+      "titulo": "Ponto de vista",
+      "paginas": "135-139",
+      "arquivo": "cap_35_Ponto_de_vista.txt"
+    },
+    {
+      "numero": 36,
+      "titulo": "Romper a mesmice",
+      "paginas": "140-146",
+      "arquivo": "cap_36_Romper_a_mesmice.txt"
+    },
+    {
+      "numero": 37,
+      "titulo": "Conclusão",
+      "paginas": "147-153",
+      "arquivo": "cap_37_Conclusão.txt"
+    },
+    {
+      "numero": 38,
+      "titulo": "A mente abundante",
+      "paginas": "154-156",
+      "arquivo": "cap_38_A_mente_abundante.txt"
+    },
+    {
+      "numero": 39,
+      "titulo": "O Experimentador e o Finalizador",
+      "paginas": "157-158",
+      "arquivo": "cap_39_O_Experimentador_e_o_Finalizador.txt"
+    },
+    {
+      "numero": 40,
+      "titulo": "Regras temporárias",
+      "paginas": "159-163",
+      "arquivo": "cap_40_Regras_temporárias.txt"
+    },
+    {
+      "numero": 41,
+      "titulo": "Grandeza",
+      "paginas": "164-165",
+      "arquivo": "cap_41_Grandeza.txt"
+    },
+    {
+      "numero": 42,
+      "titulo": "Sucesso",
+      "paginas": "166-169",
+      "arquivo": "cap_42_Sucesso.txt"
+    },
+    {
+      "numero": 43,
+      "titulo": "Desapego conectado (Possibilidade)",
+      "paginas": "170-171",
+      "arquivo": "cap_43_Desapego_conectado_Possibilidade.txt"
+    },
+    {
+      "numero": 44,
+      "titulo": "Êxtase",
+      "paginas": "172-175",
+      "arquivo": "cap_44_Êxtase.txt"
+    },
+    {
+      "numero": 45,
+      "titulo": "Ponto de referência",
+      "paginas": "176-177",
+      "arquivo": "cap_45_Ponto_de_referência.txt"
+    },
+    {
+      "numero": 46,
+      "titulo": "A não competição",
+      "paginas": "178-180",
+      "arquivo": "cap_46_A_não_competição.txt"
+    },
+    {
+      "numero": 47,
+      "titulo": "Essência",
+      "paginas": "181-184",
+      "arquivo": "cap_47_Essência.txt"
+    },
+    {
+      "numero": 48,
+      "titulo": "Apócrifos",
+      "paginas": "185-188",
+      "arquivo": "cap_48_Apócrifos.txt"
+    },
+    {
+      "numero": 49,
+      "titulo": "Desligar-se (Vozes que enfraquecem)",
+      "paginas": "189-191",
+      "arquivo": "cap_49_Desligar-se_Vozes_que_enfraquecem.txt"
+    },
+    {
+      "numero": 50,
+      "titulo": "Consciência de si",
+      "paginas": "192-194",
+      "arquivo": "cap_50_Consciência_de_si.txt"
+    },
+    {
+      "numero": 51,
+      "titulo": "Bem diante dos olhos",
+      "paginas": "195-197",
+      "arquivo": "cap_51_Bem_diante_dos_olhos.txt"
+    },
+    {
+      "numero": 52,
+      "titulo": "Um sussurro fora de hora",
+      "paginas": "198-199",
+      "arquivo": "cap_52_Um_sussurro_fora_de_hora.txt"
+    },
+    {
+      "numero": 53,
+      "titulo": "Espere uma surpresa",
+      "paginas": "200-202",
+      "arquivo": "cap_53_Espere_uma_surpresa.txt"
+    },
+    {
+      "numero": 54,
+      "titulo": "Grandes expectativas",
+      "paginas": "203-206",
+      "arquivo": "cap_54_Grandes_expectativas.txt"
+    },
+    {
+      "numero": 55,
+      "titulo": "Abertura",
+      "paginas": "207-210",
+      "arquivo": "cap_55_Abertura.txt"
+    },
+    {
+      "numero": 56,
+      "titulo": "Cercar o relâmpago",
+      "paginas": "211-214",
+      "arquivo": "cap_56_Cercar_o_relâmpago.txt"
+    },
+    {
+      "numero": 57,
+      "titulo": "Vinte e quatro horas ininterruptas",
+      "paginas": "215-217",
+      "arquivo": "cap_57_Vinte_e_quatro_horas_ininterruptas.txt"
+    },
+    {
+      "numero": 58,
+      "titulo": "Espontaneidade (Momentos especiais)",
+      "paginas": "218-222",
+      "arquivo": "cap_58_Espontaneidade_Momentos_especiais.txt"
+    },
+    {
+      "numero": 59,
+      "titulo": "Como escolher",
+      "paginas": "223-225",
+      "arquivo": "cap_59_Como_escolher.txt"
+    },
+    {
+      "numero": 60,
+      "titulo": "Tons e graus",
+      "paginas": "226-228",
+      "arquivo": "cap_60_Tons_e_graus.txt"
+    },
+    {
+      "numero": 61,
+      "titulo": "Consequências (Propósito)",
+      "paginas": "229-230",
+      "arquivo": "cap_61_Consequências_Propósito.txt"
+    },
+    {
+      "numero": 62,
+      "titulo": "Liberdade",
+      "paginas": "231-234",
+      "arquivo": "cap_62_Liberdade.txt"
+    },
+    {
+      "numero": 63,
+      "titulo": "O atormentado",
+      "paginas": "235-236",
+      "arquivo": "cap_63_O_atormentado.txt"
+    },
+    {
+      "numero": 64,
+      "titulo": "A superstição que funciona",
+      "paginas": "237-238",
+      "arquivo": "cap_64_A_superstição_que_funciona.txt"
+    },
+    {
+      "numero": 65,
+      "titulo": "Adaptação",
+      "paginas": "239-241",
+      "arquivo": "cap_65_Adaptação.txt"
+    },
+    {
+      "numero": 66,
+      "titulo": "Tradução",
+      "paginas": "242-244",
+      "arquivo": "cap_66_Tradução.txt"
+    },
+    {
+      "numero": 67,
+      "titulo": "Tábula rasa",
+      "paginas": "245-247",
+      "arquivo": "cap_67_Tábula_rasa.txt"
+    },
+    {
+      "numero": 68,
+      "titulo": "Contexto",
+      "paginas": "248-250",
+      "arquivo": "cap_68_Contexto.txt"
+    },
+    {
+      "numero": 69,
+      "titulo": "A energia (Na obra)",
+      "paginas": "251-254",
+      "arquivo": "cap_69_A_energia_Na_obra.txt"
+    },
+    {
+      "numero": 70,
+      "titulo": "Terminar para recomeçar (Regeneração)",
+      "paginas": "255-257",
+      "arquivo": "cap_70_Terminar_para_recomeçar_Regeneração.txt"
+    },
+    {
+      "numero": 71,
+      "titulo": "Brinque",
+      "paginas": "258-261",
+      "arquivo": "cap_71_Brinque.txt"
+    },
+    {
+      "numero": 72,
+      "titulo": "O hábito da arte (Sangha)",
+      "paginas": "262-264",
+      "arquivo": "cap_72_O_hábito_da_arte_Sangha.txt"
+    },
+    {
+      "numero": 73,
+      "titulo": "O prisma do eu",
+      "paginas": "265-267",
+      "arquivo": "cap_73_O_prisma_do_eu.txt"
+    },
+    {
+      "numero": 74,
+      "titulo": "Que assim seja",
+      "paginas": "268-268",
+      "arquivo": "cap_74_Que_assim_seja.txt"
+    },
+    {
+      "numero": 75,
+      "titulo": "Cooperação",
+      "paginas": "269-274",
+      "arquivo": "cap_75_Cooperação.txt"
+    },
+    {
+      "numero": 76,
+      "titulo": "O dilema da sinceridade",
+      "paginas": "275-277",
+      "arquivo": "cap_76_O_dilema_da_sinceridade.txt"
+    },
+    {
+      "numero": 77,
+      "titulo": "O guardião",
+      "paginas": "278-282",
+      "arquivo": "cap_77_O_guardião.txt"
+    },
+    {
+      "numero": 78,
+      "titulo": "Por que fazer arte?",
+      "paginas": "283-285",
+      "arquivo": "cap_78_Por_que_fazer_arte.txt"
+    },
+    {
+      "numero": 79,
+      "titulo": "Harmonia",
+      "paginas": "286-289",
+      "arquivo": "cap_79_Harmonia.txt"
+    },
+    {
+      "numero": 80,
+      "titulo": "O que dizemos a nós mesmos",
+      "paginas": "290-292",
+      "arquivo": "cap_80_O_que_dizemos_a_nós_mesmos.txt"
+    },
+    {
+      "numero": 81,
+      "titulo": "Sobre o autor",
+      "paginas": "293-293",
+      "arquivo": "cap_81_Sobre_o_autor.txt"
+    },
+    {
+      "numero": 82,
+      "titulo": "Sobre a Sextante",
+      "paginas": "294-294",
+      "arquivo": "cap_82_Sobre_a_Sextante.txt"
+    }
+  ],
+  "arquivos": [
+    "cap_01_eLivros.txt",
+    "cap_02_Créditos.txt",
+    "cap_03_Todos_são_criadores.txt",
+    "cap_04_Entrar_em_sintonia.txt",
+    "cap_05_A_fonte_da_criatividade.txt",
+    "cap_06_Consciência.txt",
+    "cap_07_O_vaso_e_o_filtro.txt",
+    "cap_08_O_invisível.txt",
+    "cap_09_Procure_pistas.txt",
+    "cap_10_Prática.txt",
+    "cap_11_Mergulhar_As_grandes_obras.txt",
+    "cap_12_A_natureza_como_professora.txt",
+    "cap_13_Nada_é_estático.txt",
+    "cap_14_Olhe_para_dentro.txt",
+    "cap_15_As_lembranças_e_o_subconsciente.txt",
+    "cap_16_Está_sempre_lá.txt",
+    "cap_17_Ambiente.txt",
+    "cap_18_Insegurança.txt",
+    "cap_19_Invente.txt",
+    "cap_20_Distração.txt",
+    "cap_21_Colaboração.txt",
+    "cap_22_Intenção.txt",
+    "cap_23_Regras.txt",
+    "cap_24_O_oposto_é_verdadeiro.txt",
+    "cap_25_Escuta.txt",
+    "cap_26_Paciência.txt",
+    "cap_27_A_mente_do_iniciante.txt",
+    "cap_28_Inspiração.txt",
+    "cap_29_Hábitos.txt",
+    "cap_30_Sementes.txt",
+    "cap_31_Experimentação.txt",
+    "cap_32_Tente_todas_as_possibilidades.txt",
+    "cap_33_Construção.txt",
+    "cap_34_Ritmo.txt",
+    "cap_35_Ponto_de_vista.txt",
+    "cap_36_Romper_a_mesmice.txt",
+    "cap_37_Conclusão.txt",
+    "cap_38_A_mente_abundante.txt",
+    "cap_39_O_Experimentador_e_o_Finalizador.txt",
+    "cap_40_Regras_temporárias.txt",
+    "cap_41_Grandeza.txt",
+    "cap_42_Sucesso.txt",
+    "cap_43_Desapego_conectado_Possibilidade.txt",
+    "cap_44_Êxtase.txt",
+    "cap_45_Ponto_de_referência.txt",
+    "cap_46_A_não_competição.txt",
+    "cap_47_Essência.txt",
+    "cap_48_Apócrifos.txt",
+    "cap_49_Desligar-se_Vozes_que_enfraquecem.txt",
+    "cap_50_Consciência_de_si.txt",
+    "cap_51_Bem_diante_dos_olhos.txt",
+    "cap_52_Um_sussurro_fora_de_hora.txt",
+    "cap_53_Espere_uma_surpresa.txt",
+    "cap_54_Grandes_expectativas.txt",
+    "cap_55_Abertura.txt",
+    "cap_56_Cercar_o_relâmpago.txt",
+    "cap_57_Vinte_e_quatro_horas_ininterruptas.txt",
+    "cap_58_Espontaneidade_Momentos_especiais.txt",
+    "cap_59_Como_escolher.txt",
+    "cap_60_Tons_e_graus.txt",
+    "cap_61_Consequências_Propósito.txt",
+    "cap_62_Liberdade.txt",
+    "cap_63_O_atormentado.txt",
+    "cap_64_A_superstição_que_funciona.txt",
+    "cap_65_Adaptação.txt",
+    "cap_66_Tradução.txt",
+    "cap_67_Tábula_rasa.txt",
+    "cap_68_Contexto.txt",
+    "cap_69_A_energia_Na_obra.txt",
+    "cap_70_Terminar_para_recomeçar_Regeneração.txt",
+    "cap_71_Brinque.txt",
+    "cap_72_O_hábito_da_arte_Sangha.txt",
+    "cap_73_O_prisma_do_eu.txt",
+    "cap_74_Que_assim_seja.txt",
+    "cap_75_Cooperação.txt",
+    "cap_76_O_dilema_da_sinceridade.txt",
+    "cap_77_O_guardião.txt",
+    "cap_78_Por_que_fazer_arte.txt",
+    "cap_79_Harmonia.txt",
+    "cap_80_O_que_dizemos_a_nós_mesmos.txt",
+    "cap_81_Sobre_o_autor.txt",
+    "cap_82_Sobre_a_Sextante.txt"
+  ]
+}

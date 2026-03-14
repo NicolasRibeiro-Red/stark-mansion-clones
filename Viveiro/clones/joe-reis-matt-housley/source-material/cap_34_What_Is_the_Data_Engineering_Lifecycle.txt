@@ -1,0 +1,35 @@
+# What Is the Data Engineering Lifecycle?
+
+Paginas: 58-58
+
+CHAPTER 2
+The Data Engineering Lifecycle
+The major goal of this book is to encourage you to move beyond viewing data engi‐
+neering as a specific collection of data technologies. The data landscape is undergoing
+an explosion of new data technologies and practices, with ever-increasing levels of
+abstraction and ease of use. Because of increased technical abstraction, data engineers
+will increasingly become data lifecycle engineers, thinking and operating in terms of
+the principles of data lifecycle management.
+In this chapter, you’ll learn about the data engineering lifecycle, which is the central
+theme of this book. The data engineering lifecycle is our framework describing “cra‐
+dle to grave” data engineering. You will also learn about the undercurrents of the data
+engineering lifecycle, which are key foundations that support all data engineering
+efforts.
+What Is the Data Engineering Lifecycle?
+The data engineering lifecycle comprises stages that turn raw data ingredients into a
+useful end product, ready for consumption by analysts, data scientists, ML engineers,
+and others. This chapter introduces the major stages of the data engineering lifecycle,
+focusing on each stage’s core concepts and saving details for later chapters.
+We divide the data engineering lifecycle into five stages (Figure 2-1, top):
+• Generation
+•
+• Storage
+•
+• Ingestion
+•
+• Transformation
+•
+• Serving data
+•
+33
+

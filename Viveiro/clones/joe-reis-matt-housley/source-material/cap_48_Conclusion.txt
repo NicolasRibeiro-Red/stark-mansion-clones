@@ -1,0 +1,45 @@
+# Conclusion
+
+Paginas: 93-93
+
+These practices are a vital part of DevOps, allowing version control and repeatability
+of deployments. Naturally, these capabilities are vital throughout the data engineering
+lifecycle, especially as we adopt DataOps practices.
+Pipelines as code
+Pipelines as code is the core concept of present-day orchestration systems, which
+touch every stage of the data engineering lifecycle. Data engineers use code (typically
+Python) to declare data tasks and dependencies among them. The orchestration
+engine interprets these instructions to run steps using available resources.
+General-purpose problem solving
+In practice, regardless of which high-level tools they adopt, data engineers will run
+into corner cases throughout the data engineering lifecycle that require them to
+solve problems outside the boundaries of their chosen tools and to write custom
+code. When using frameworks like Fivetran, Airbyte, or Matillion, data engineers
+will encounter data sources without existing connectors and need to write something
+custom. They should be proficient in software engineering to understand APIs, pull
+and transform data, handle exceptions, and so forth.
+Conclusion
+Most discussions we’ve seen in the past about data engineering involve technologies
+but miss the bigger picture of data lifecycle management. As technologies become
+more abstract and do more heavy lifting, a data engineer has the opportunity to
+think and act on a higher level. The data engineering lifecycle, supported by its
+undercurrents, is an extremely useful mental model for organizing the work of data
+engineering.
+We break the data engineering lifecycle into the following stages:
+• Generation
+•
+• Storage
+•
+• Ingestion
+•
+• Transformation
+•
+• Serving data
+•
+Several themes cut across the data engineering lifecycle as well. These are the under‐
+currents of the data engineering lifecycle. At a high level, the undercurrents are as
+follows:
+68
+|
+Chapter 2: The Data Engineering Lifecycle
+

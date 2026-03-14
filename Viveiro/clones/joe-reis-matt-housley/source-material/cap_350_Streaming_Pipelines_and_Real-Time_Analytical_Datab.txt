@@ -1,0 +1,35 @@
+# Streaming Pipelines and Real-Time Analytical Databases
+
+Paginas: 411-411
+
+Figure 11-1. In the live data stack, data and intelligence moves in real time between the
+application and supporting systems
+Just as the MDS took advantage of the cloud and brought on-premises data ware‐
+house and pipeline technologies to the masses, the live data stack takes real-time data
+application technologies used at elite tech companies and makes them available to
+companies of all sizes as easy-to-use cloud-based offerings. This will open up a new
+world of possibilities for creating even better user experiences and business value.
+Streaming Pipelines and Real-Time Analytical Databases
+The MDS limits itself to batch techniques that treat data as bounded. In contrast,
+real-time data applications treat data as an unbounded, continuous stream. Streaming
+pipelines and real-time analytical databases are the two core technologies that will
+facilitate the move from the MDS to the live data stack. While these technologies have
+been around for some time, rapidly maturing managed cloud services will see them
+be deployed much more widely.
+Streaming technologies will continue to see extreme growth for the foreseeable
+future. This will happen in conjunction with a clearer focus on the business utility
+of streaming data. Up to the present, streaming systems have frequently been treated
+like an expensive novelty or a dumb pipe for getting data from A to B. In the future,
+streaming will radically transform organizational technology and business processes;
+data architects and engineers will take the lead in these fundamental changes.
+Real-time analytical databases enable both fast ingestion and subsecond queries on
+this data. This data can be enriched or combined with historical datasets. When
+combined with a streaming pipeline and automation, or dashboard that is capable
+of real-time analytics, a whole new level of possibilities opens up. No longer are
+you constrained by slow-running ELT processes, 15-minute updates, or other slow-
+moving parts. Data moves in a continuous flow. As streaming ingestion becomes
+more prevalent, batch ingestion will be less and less common. Why create a batch
+386
+|
+Chapter 11: The Future of Data Engineering
+

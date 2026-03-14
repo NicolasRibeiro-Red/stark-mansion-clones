@@ -1,0 +1,36 @@
+# Chapter 6. Storage
+
+Paginas: 214-215
+
+CHAPTER 6
+Storage
+Storage is the cornerstone of the data engineering lifecycle (Figure 6-1) and underlies
+its major stages—ingestion, transformation, and serving. Data gets stored many times
+as it moves through the lifecycle. To paraphrase an old saying, it’s storage all the
+way down. Whether data is needed seconds, minutes, days, months, or years later, it
+must persist in storage until systems are ready to consume it for further processing
+and transmission. Knowing the use case of the data and the way you will retrieve it
+in the future is the first step to choosing the proper storage solutions for your data
+architecture.
+Figure 6-1. Storage plays a central role in the data engineering lifecycle
+189
+
+We also discussed storage in Chapter 5, but with a difference in focus and domain of
+control. Source systems are generally not maintained or controlled by data engineers.
+The storage that data engineers handle directly, which we’ll focus on in this chapter,
+encompasses the data engineering lifecycle stages of ingesting data from source
+systems to serving data to deliver value with analytics, data science, etc. Many forms
+of storage undercut the entire data engineering lifecycle in some fashion.
+To understand storage, we’re going to start by studying the raw ingredients that
+compose storage systems, including hard drives, solid state drives, and system mem‐
+ory (see Figure 6-2). It’s essential to understand the basic characteristics of physical
+storage technologies to assess the trade-offs inherent in any storage architecture. This
+section also discusses serialization and compression, key software elements of practi‐
+cal storage. (We defer a deeper technical discussion of serialization and compression
+to Appendix A.) We also discuss caching, which is critical in assembling storage
+systems.
+Figure 6-2. Raw ingredients, storage systems, and storage abstractions
+190
+|
+Chapter 6: Storage
+

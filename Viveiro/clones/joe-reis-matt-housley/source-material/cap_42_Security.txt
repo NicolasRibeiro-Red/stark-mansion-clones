@@ -1,0 +1,38 @@
+# Security
+
+Paginas: 74-74
+
+of tools and practices have shifted this focus. Data engineering now encompasses
+far more than tools and technology. The field is now moving up the value chain,
+incorporating traditional enterprise practices such as data management and cost
+optimization and newer practices like DataOps.
+We’ve termed these practices undercurrents—security, data management, DataOps,
+data architecture, orchestration, and software engineering—that support every aspect
+of the data engineering lifecycle (Figure 2-7). In this section, we give a brief overview
+of these undercurrents and their major components, which you’ll see in more detail
+throughout the book.
+Figure 2-7. The major undercurrents of data engineering
+Security
+Security must be top of mind for data engineers, and those who ignore it do so
+at their peril. That’s why security is the first undercurrent. Data engineers must
+understand both data and access security, exercising the principle of least privilege.
+The principle of least privilege means giving a user or system access to only the
+essential data and resources to perform an intended function. A common antipattern
+we see with data engineers with little security experience is to give admin access to all
+users. This is a catastrophe waiting to happen!
+Give users only the access they need to do their jobs today, nothing more. Don’t
+operate from a root shell when you’re just looking for visible files with standard user
+access. When querying tables with a lesser role, don’t use the superuser role in a
+database. Imposing the principle of least privilege on ourselves can prevent accidental
+damage and keep you in a security-first mindset.
+People and organizational structure are always the biggest security vulnerabilities in
+any company. When we hear about major security breaches in the media, it often
+turns out that someone in the company ignored basic precautions, fell victim to a
+phishing attack, or otherwise acted irresponsibly. The first line of defense for data
+security is to create a culture of security that permeates the organization. All individ‐
+uals who have access to data must understand their responsibility in protecting the
+company’s sensitive data and its customers.
+Major Undercurrents Across the Data Engineering Lifecycle
+|
+49
+

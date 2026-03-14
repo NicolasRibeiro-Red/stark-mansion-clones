@@ -1,0 +1,43 @@
+# Serverless
+
+Paginas: 168-168
+
+11 Evan Sangaline, “Running FFmpeg on AWS Lambda for 1.9% the Cost of AWS Elastic Transcoder,” Intoli
+blog, May 2, 2018, https://oreil.ly/myzOv.
+Interoperability
+Architect for sharing and interoperability.
+Avoiding the “bear trap”
+Something that is easy to get into might be painful or impossible to escape.
+Flexibility
+Things are moving so fast in the data space right now. Committing to a monolith
+reduces flexibility and reversible decisions.
+Serverless Versus Servers
+A big trend for cloud providers is serverless, allowing developers and data engineers
+to run applications without managing servers behind the scenes. Serverless provides a
+quick time to value for the right use cases. For other cases, it might not be a good fit.
+Let’s look at how to evaluate whether serverless is right for you.
+Serverless
+Though serverless has been around for quite some time, the serverless trend kicked
+off in full force with AWS Lambda in 2014. With the promise of executing small
+chunks of code on an as-needed basis without having to manage a server, serverless
+exploded in popularity. The main reasons for its popularity are cost and convenience.
+Instead of paying the cost of a server, why not just pay when your code is evoked?
+Serverless has many flavors. Though function as a service (FaaS) is wildly popular,
+serverless systems predate the advent of AWS Lambda. For example, Google Cloud’s
+BigQuery is serverless in that data engineers don’t need to manage backend infra‐
+structure, and the system scales to zero and scales up automatically to handle large
+queries. Just load data into the system and start querying. You pay for the amount
+of data your query consumes and a small cost to store your data. This payment
+model—paying for consumption and storage—is becoming more prevalent.
+When does serverless make sense? As with many other cloud services, it depends;
+and data engineers would do well to understand the details of cloud pricing to
+predict when serverless deployments will become expensive. Looking specifically at
+the case of AWS Lambda, various engineers have found hacks to run batch workloads
+at meager costs.11 On the other hand, serverless functions suffer from an inherent
+overhead inefficiency. Handling one event per function call at a high event rate can be
+catastrophically expensive, especially when simpler approaches like multithreading or
+multiprocessing are great alternatives.
+Serverless Versus Servers
+|
+143
+

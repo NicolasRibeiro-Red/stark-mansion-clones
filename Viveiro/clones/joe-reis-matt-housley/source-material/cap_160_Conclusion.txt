@@ -1,0 +1,43 @@
+# Conclusion
+
+Paginas: 212-212
+
+Software Engineering
+As the data landscape shifts to tools that simplify and automate access to source
+systems, you’ll likely need to write code. Here are a few considerations when writing
+code to access a source system:
+Networking
+Make sure your code will be able to access the network where the source sys‐
+tem resides. Also, always think about secure networking. Are you accessing an
+HTTPS URL over the public internet, SSH, or a VPN?
+Authentication and authorization
+Do you have the proper credentials (tokens, username/passwords) to access the
+source system? Where will you store these credentials so they don’t appear in
+your code or version control? Do you have the correct IAM roles to perform the
+coded tasks?
+Access patterns
+How are you accessing the data? Are you using an API, and how are you
+handling REST/GraphQL requests, response data volumes, and pagination? If
+you’re accessing data via a database driver, is the driver compatible with the
+database you’re accessing? For either access pattern, how are things like retries
+and timeouts handled?
+Orchestration
+Does your code integrate with an orchestration framework, and can it be exe‐
+cuted as an orchestrated workflow?
+Parallelization
+How are you managing and scaling parallel access to source systems?
+Deployment
+How are you handling the deployment of source code changes?
+Conclusion
+Source systems and their data are vital in the data engineering lifecycle. Data engi‐
+neers tend to treat source systems as “someone else’s problem”—do this at your peril!
+Data engineers who abuse source systems may need to look for another job when
+production goes down.
+If there’s a stick, there’s also a carrot. Better collaboration with source system teams
+can lead to higher-quality data, more successful outcomes, and better data products.
+Create a bidirectional flow of communications with your counterparts on these
+teams; set up processes to notify of schema and application changes that affect
+Conclusion
+|
+187
+

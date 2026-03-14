@@ -1,0 +1,39 @@
+# Synchronous Versus Asynchronous Ingestion
+
+Paginas: 263-263
+
+data engineering lifecycle data will be broken into batches. Once data reaches a batch
+process, the batch frequency becomes a bottleneck for all downstream processing.
+In addition, streaming systems are the best fit for many data source types. In IoT
+applications, the typical pattern is for each sensor to write events or measurements
+to streaming systems as they happen. While this data can be written directly into a
+database, a streaming ingestion platform such as Amazon Kinesis or Apache Kafka
+is a better fit for the application. Software applications can adopt similar patterns
+by writing events to a message queue as they happen rather than waiting for an
+extraction process to pull events and state information from a backend database. This
+pattern works exceptionally well for event-driven architectures already exchanging
+messages through queues. And again, streaming architectures generally coexist with
+batch processing.
+Synchronous Versus Asynchronous Ingestion
+With synchronous ingestion, the source, ingestion, and destination have complex
+dependencies and are tightly coupled. As you can see in Figure 7-5, each stage of
+the data engineering lifecycle has processes A, B, and C directly dependent upon one
+another. If process A fails, processes B and C cannot start; if process B fails, process
+C doesn’t start. This type of synchronous workflow is common in older ETL systems,
+where data extracted from a source system must then be transformed before being
+loaded into a data warehouse. Processes downstream of ingestion can’t start until all
+data in the batch has been ingested. If the ingestion or transformation process fails,
+the entire process must be rerun.
+Figure 7-5. A synchronous ingestion process runs as discrete batch steps
+Here’s a mini case study of how not to design your data pipelines. At one company,
+the transformation process itself was a series of dozens of tightly coupled synchro‐
+nous workflows, with the entire process taking over 24 hours to finish. If any step
+of that transformation pipeline failed, the whole transformation process had to be
+restarted from the beginning! In this instance, we saw process after process fail, and
+because of nonexistent or cryptic error messages, fixing the pipeline was a game of
+whack-a-mole that took over a week to diagnose and cure. Meanwhile, the business
+didn’t have updated reports during that time. People weren’t happy.
+238
+|
+Chapter 7: Ingestion
+

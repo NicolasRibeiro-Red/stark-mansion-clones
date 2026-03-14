@@ -1,0 +1,47 @@
+25. Conclusão
+Como sempre, no fim da jornada, enquanto eu fitava o manuscrito completo sobre uma mesa de restaurante, alguém de cultura semita pediu-me que eu me apoiasse em uma perna só e explicasse meu livro. Dessa vez, foi Shaiy Pilpel, probabilista com quem por duas décadas mantive um longo e calmo diálogo, sem um único episódio de conversa fiada. É difícil encontrar pessoas suficientemente inteligentes e confiantes, que gostem de extrair a essência das coisas, em vez de fazer questão de ater-se a ninharias.
+No meu livro anterior, um dos compatriotas dele me fez a mesma pergunta, mas tive de pensar a respeito. Dessa vez, nem sequer precisei fazer esforço.
+Era tão óbvio que o próprio Shaiy sintetizou tudo em um fôlego só. Ele realmente acredita que todas as ideias genuínas podem ser reduzidas a um tema central, o que a grande maioria das pessoas em determinados campos, por força da especialização e em virtude de sua incompetência metida a besta, deixa passar completamente despercebido. Tudo, na lei religiosa, pode ser reduzido aos aperfeiçoamentos, às aplicações e às interpretações da Regra de Ouro: “Não faça aos outros
+o que você não quer que façam a você”. Essa regra da reciprocidade, como vimos, era a lógica por trás do código de Hamurabi. E a Regra de Ouro era uma verdadeira destilação, e não uma cama de Procusto. Um argumento decisivo nunca é um resumo — está mais para um gerador.
+O que Shaiy sintetizou foi:
+Todas as coisas ganham ou perdem com a volatilidade. Fragilidade é aquilo que perde com a volatilidade e a incerteza
+. O vidro sobre a mesa tem baixa volatilidade.
+No romance
+A peste
+, de Albert Camus, um personagem passa parte da vida à procura da frase perfeita para começar um romance. Assim que encontra essa frase, ele escreve o livro inteiro como uma derivação da abertura. Mas o leitor, para compreender e apreciar a primeira frase, terá de ler o livro na íntegra.
+Olhei de relance para o manuscrito com uma sensação de calma euforia. Cada frase do livro foi uma derivação, uma aplicação ou uma interpretação da breve máxima. Alguns detalhes e ampliações podem ser contraintuitivos e minuciosos, particularmente no que diz respeito à tomada de decisões sob a opacidade, mas, no fim, tudo flui a partir dela.
+O leitor é convidado a fazer o mesmo. Olhe ao seu redor, para a sua vida, para os objetos, para os relacionamentos, para as empresas e instituições. Em prol da clareza, você pode
+substituir
+a volatilidade por outros membros do aglomerado da desordem aqui e ali, mas isso nem sequer é necessário — quando formalmente expresso, tudo é o mesmo símbolo. Tempo é volatilidade. A educação, no sentido de formação de caráter, de personalidade e de aquisição de conhecimento verdadeiro, gosta da desordem; a educação e os educadores norteados por
+rótulos abominam a desordem. Algumas coisas se quebram por causa do erro, outras não. Algumas teorias se esfacelam, outras não. A inovação é, precisamente, algo que ganha com a incerteza: e algumas pessoas ficam paradas de braços cruzados à espera da incerteza e usam a incerteza como matéria-prima, exatamente como fizeram nossos ancestrais caçadores.
+Prometeu é desordem alta; Epimeteu é desordem baixa. Podemos dividir as pessoas e a qualidade de suas experiências com base na exposição à desordem e ao seu apetite por ela: hoplitas espartanos contra blogueiros, aventureiros contra editores de texto, comerciantes fenícios contra gramáticos latinos e piratas contra instrutores de tango.
+Acontece que tudo que é não linear é convexo ou côncavo, ou ambos, dependendo da intensidade do estressor. Vimos a ligação entre a convexidade e a predileção pela volatilidade. Então, todas as coisas amam ou odeiam a volatilidade até certo ponto. Todas.
+Podemos detectar o que gosta da volatilidade graças à convexidade ou à aceleração e ordens mais elevadas, uma vez que a convexidade é a resposta por parte daquilo que gosta da desordem. Podemos construir sistemas protegidos contra os eventos Cisne Negro graças à detecção de concavidade. Podemos tomar decisões na área médica compreendendo a convexidade dos danos e da lógica das experimentações da Mãe Natureza, de que lado encontraremos opacidade e qual erro deveríamos correr o risco de cometer. Em grande medida, a ética gira em torno de convexidades e opcionalidade roubadas.
+Em uma linguagem mais técnica, pode ser que nunca cheguemos a conhecer
+x
+, mas podemos brincar com a exposição a
+x
+, submeter as coisas à estratégia
+barbell
+até torná-las inofensivas; podemos controlar uma função de
+x
+,
+f
+(
+x
+), mesmo que
+x
+permaneça vastamente além da nossa compreensão. Podemos continuar alterando
+f
+(
+x
+) até nos sentirmos confortáveis por meio de um mecanismo chamado
+transformação convexa
+, o nome mais pomposo para
+barbell
+.
+Essa breve máxima também diz onde a fragilidade suplanta a verdade, por que mentimos para as crianças e por que nós, seres humanos, colocamos o carro na frente dos bois nesse grande empreendimento chamado modernidade.
+A aleatoriedade distribuída (em oposição à do tipo concentrado) é uma necessidade, não uma opção: tudo que é grande tem baixa volatilidade. E tudo que é rápido também. Grande e rápido são abominações. Os tempos modernos não gostam da volatilidade.
+E a Tríade nos dá alguma pista do que deveria ser feito para vivermos em um mundo que não quer que o compreendamos, um mundo cujo encanto vem de nossa incapacidade de compreendê-lo verdadeiramente.
+O vidro está morto; as coisas vivas têm alta volatilidade. A melhor maneira de você comprovar se está vivo é verificar se gosta de variações. Lembre-se de que a comida não teria sabor se não fosse pela fome; resultados não têm sentido sem o esforço, a alegria sem a tristeza, as convicções sem a incerteza; e uma vida ética deixa de ser ética quando desprovida de riscos pessoais.
+E, mais uma vez, leitor, obrigado por ler meu livro.

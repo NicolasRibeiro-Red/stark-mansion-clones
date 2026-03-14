@@ -1,0 +1,289 @@
+# 13. Automatizar: Faça uma vez e nunca mais
+
+Paginas: 161-168
+
+CAPÍTULO 13
+AUTOMATIZAR
+Faça uma vez e nunca mais
+Quando nossos filhos eram bem pequenos, morávamos ao lado de uma
+família bem parecida com a nossa. O casal tinha dois filhos pequenos,
+como nós na época. Transitávamos pelos mesmos círculos sociais e nos
+víamos todo fim de semana. Até a planta da casa deles era literalmente
+a imagem espelhada da nossa.
+Um dia, o marido me contou que tinha acabado de passar por uma
+cirurgia no joelho. Aparentemente, tudo correra bem durante o
+procedimento, mas a recuperação não avançava como esperado. Em
+vez de diminuir, a dor foi aumentando a cada semana. Finalmente, eles
+descobriram a razão: a equipe cirúrgica esquecera um pequeno
+instrumento dentro do joelho dele.
+Não seria de esperar esse tipo de erro de profissionais de saúde
+altamente treinados. Eles eram formados nas melhores faculdades.
+Tinham muitos anos de experiência. Ainda assim, no meio daquela
+operação complexa, cometeram um erro por descuido, totalmente
+evitável.
+A explicação é simples: eles confiaram na memória. Por
+consequência, pularam um passo essencial do processo. É tentador
+dizer: “Ah, se a equipe médica estivesse pensando…” Mas vejo mais
+como: “Ah, se a equipe médica não precisasse pensar…”
+Alfred North Whitehead, matemático britânico que virou filósofo
+americano, disse: “A civilização avança ampliando o número de
+operações importantes que conseguimos executar sem pensar nelas.”140
+Em outras palavras, o maior número possível de passos e atividades
+
+essenciais deve ser automatizado.
+Listar para não errar
+Em 1935, as fábricas de aviões Boeing, Martin e Douglas competiam
+entre si por um contrato lucrativo para construir bombardeiros de
+longo alcance. A Boeing estava confiante de que ia ganhar. Seu Modelo
+299 era o mais poderoso: tinha quatro motores em vez de dois. Podia
+levar o quíntuplo do número especificado de bombas e sua autonomia
+de voo era o dobro da dos antecessores.
+Tudo mudou depois do fatídico voo de teste. Com cinco tripulantes,
+o Modelo 299 ergueu-se graciosamente da pista antes de estolar a 90
+metros de altura, embicar de repente e cair. Dois tripulantes morreram,
+inclusive o piloto de testes, major Ployer P. Hill.
+A investigação descobriu que o major Hill, piloto do Corpo Aéreo do
+Exército dos Estados Unidos com mais de 17 anos de experiência,
+esquecera de soltar os controles do leme e do profundor. Um erro fatal.
+Mais instrutiva, porém, foi a descoberta de que Hill estava preocupado
+com uma infinidade de procedimentos complexos novos na mesma
+hora em que deveria estar executando essas tarefas essenciais. O
+Exército concluiu que o Modelo 299, o avião tecnologicamente mais
+sofisticado de seu tempo, era complicado demais para uma só pessoa
+pilotar e fechou o contrato com a Douglas.
+No entanto, um grupo de pilotos de testes ainda acreditava que o
+avião da Boeing era superior e daria ao país uma vantagem militar
+considerável. Só era preciso uma ferramenta que permitisse a um único
+piloto controlar a avançada tecnologia aeronáutica.
+Como o Dr. Atul Gawande, cirurgião e escritor de sucesso, explica
+em seu livro Checklist, o descuido trágico do major Hill resultou da
+mesmíssima limitação humana que causa erros cirúrgicos evitáveis.141
+O vasto corpo de conhecimentos que a humanidade adquiriu em
+tantas disciplinas alimentou um extraordinário progresso científico,
+tecnológico e humanista. Mas, como explica Gawande, esse progresso
+tem um lado ruim. O volume e a complexidade estonteantes do saber
+humano excederam a capacidade dos especialistas de gerenciar tanta
+informação. E é exatamente por isso que acontecem acidentes trágicos.
+Os seres humanos têm uma capacidade imensa de armazenar
+lembranças.142 Paul Reber, professor de psicologia da Universidade
+Northwestern, estima que, se o cérebro fosse um gravador digital de
+d
+(
+)
+f
+lh
+d
+
+vídeo (DVR), teria memória suficiente para armazenar 3 milhões de
+horas de programas de TV. Mas a memória RAM para informações que
+podemos
+acessar
+instantaneamente,
+ou
+seja,
+nossa
+memória
+operacional, é muito mais limitada. Isso explica, pelo menos em parte,
+por que pessoas inteligentíssimas ainda esquecem as chaves ou por que
+médicos com imensa expertise ainda se esquecem de remover um
+instrumento de dentro do joelho do paciente. Os limites da memória
+operacional geram erros evitáveis.
+A complexidade extrema só aumenta a carga cognitiva e nos deixa
+muito mais propensos a errar. Portanto, não precisamos de mais
+conhecimento, mas de novas habilidades e estratégias que nos
+permitam aplicar esse conhecimento sem sobrecarregar a memória
+operacional. Ou, como explica Gawande, precisamos de uma estratégia
+que se baseie na experiência e aproveite o conhecimento que as
+pessoas têm mas, de algum modo, também compense nossas
+inevitáveis predisposições humanas. E essa estratégia existe, embora
+pareça quase ridícula em sua simplicidade, talvez até maluca para
+quem passou anos desenvolvendo meticulosamente habilidades e
+tecnologias cada vez mais avançadas.
+Gawande defende que precisamos de uma ferramenta modesta
+porém maravilhosa: o checklist, ou lista de verificação.
+Depois que os pilotos de testes da Boeing implementaram checklists
+e voaram muitas e muitas vezes sem incidentes, escreve Gawande, o
+Corpo Aéreo do Exército encomendou milhares de aviões. Rebatizado
+de B-17, o Modelo 299 despejou mais bombas que todos os outros
+aviões americanos na Segunda Guerra Mundial e ajudou a virar o jogo a
+favor dos Aliados.
+A lista de verificação ajudou os pilotos a lembrar cada um dos passos
+essenciais e usar o mínimo possível de recursos mentais.
+Os checklists não são úteis só em tarefas especializadíssimas, como
+pilotar um avião. Conforme o mundo fica mais complexo, todos
+precisamos de ferramentas que nos ajudem a lembrar o que é
+importante.
+A beleza do checklist é que o raciocínio foi feito com antecedência.
+Foi tirado da equação. Ou melhor, foi embutido na equação. Assim, em
+vez de acertar essas coisas essenciais de vez em quando, acertamos
+todas as vezes.
+Um esquema com dicas e ideias resumidas é uma das ferramentas
+mais eficazes que temos à disposição para automatizar quase tudo o
+que realmente importa. O checklist é um esquema desse tipo. Aqui
+
+estão outros:
+O funcionário usa um aplicativo de agenda para estabelecer as
+prioridades do dia.
+O gerente cria uma pauta para a reunião semanal a fim de
+garantir que abordará os tópicos mais importantes.
+O empresário leva uma apresentação de slides a todas as
+reuniões de vendas para se lembrar dos principais pontos a
+tratar.
+O professor dá aos alunos uma lista de fórmulas e macetes para
+facilitar a memorização da matéria.
+Os pais criam um calendário de tarefas que permite aos filhos
+lembrar suas tarefas diárias.
+É claro que essa só é uma pequena amostra. A ideia dos esquemas ou
+das listas é simplesmente tirar coisas do cérebro para você fazê-las
+automaticamente, sem ter que recorrer à memória.
+Resultados residuais por 100 anos
+Você já se irritou com o processo de decidir aonde ir com a família nas
+férias? São atrações e opções demais, várias opiniões e agendas para
+conciliar. O casal Stephen e Irene Richards teve uma boa ideia para
+contornar isso.143 Eles decidiram automatizar o processo de escolher
+um destino e planejar uma nova viagem todo ano: investiram numa
+pequena casa de campo. Todo verão, seus familiares eram convidados a
+ficar lá o tempo que desejassem.
+Isso se tornou um ritual pelo qual todos esperavam ansiosos e que
+passou a se autoperpetuar. Todo ano os filhos iam para lá. Depois, os
+filhos se casaram e tiveram filhos, e os netos também começaram a ir.
+Os filhos, netos e bisnetos acabaram construindo novas casas de campo
+na região e, assim, a coisa continuou a se expandir.
+Hoje, cinco gerações depois, a família ainda se reúne para jogar,
+nadar e criar lembranças todo ano. Em qualquer dia de verão, 30 a 40
+membros da família estarão lá curtindo a praia do lago.
+Tomar decisões é mentalmente exaustivo. Tomar decisões que
+satisfaçam dezenas de pessoas, cada uma com preferências, restrições e
+prioridades diferentes, é quase impossível. Aquela única decisão
+tomada tantos anos atrás eliminou esse fardo para várias gerações da
+
+família. Ninguém precisa ter o trabalho de coordenar as folgas de todo
+mundo e escolher um destino, reservar hotel e planejar atividades para
+que todos se reúnam. É automático e, comparado a alguns
+planejamentos de férias familiares que já vi, sem esforço.
+Alta tecnologia = baixo esforço
+“Admito que era meio descuidado quando comecei a dirigir”,144 disse,
+envergonhado, Joshua Browder, então com 18 anos, quando lhe
+perguntaram sobre as 10 multas que acumulou em seu primeiro ano ao
+volante. Mas, na opinião dele, a maior parte das infrações ou não
+merecia multa ou resultava de erros dos guardas de trânsito do Reino
+Unido.
+Browder decidiu recorrer das multas. Acontece que o tribunal
+concordou com suas reivindicações e ele começou a ganhar os recursos.
+Pouco depois, ele ajudava quase todo mundo que conhecia a contestar
+multas injustas. O processo de recurso era relativamente padronizado:
+uma simples carta-modelo era o bastante para evitar uma multa injusta.
+Mas, embora navegar pela burocracia fosse simples para ele, o rapaz
+notou que era diferente para idosos e pessoas vulneráveis ou com
+deficiência de sua comunidade. Isso lhe deu uma ideia para fazer o
+bem. Browder, então ainda aluno de Stanford, levou apenas 15 dias para
+criar o DoNotPay, um site (e, mais tarde, um aplicativo) apelidado de
+“primeiro advogado-robô do mundo”, que automatizava o processo de
+recurso.
+Com base no sucesso do conceito, logo Browder acrescentou um
+serviço que examina automaticamente a caixa de entrada de e-mails
+dos usuários atrás de reservas de viagens e os ajuda a aproveitar quedas
+de preço em passagens aéreas e quartos de hotel. Hoje, o aplicativo
+também poupa tempo e dinheiro dos usuários agendando um horário
+no departamento de trânsito, obtendo reembolsos de uma plataforma
+de entrega de comida e cancelando a inscrição em listas de spam.
+Automação é qualquer coisa que cumpra uma função com
+assistência ou esforço humano mínimos. E pode estar em qualquer
+área. Parte dela é tão normal que nem raciocinamos que seja automação
+– pense na máquina de lavar roupa, na lava-louças, na geladeira. Só
+quando essas coisas dão defeito ou quebram é que paramos para refletir
+em todo o tempo e esforço que nos poupam diariamente.
+Outras formas de automação não existem há tanto tempo, mas são
+
+tão conhecidas que nem as notamos mais, como pagamentos por débito
+automático, termostatos programáveis, assistentes virtuais, etc.
+Com o tempo, essas ferramentas estão ficando cada vez mais
+inteligentes. Os assistentes virtuais usam algoritmos de inteligência
+artificial para analisar padrões de compra passados e nos dizer quando
+o xampu ou a pasta de dentes está acabando. O termostato aprende se
+você prefere sua casa mais quente ou mais fria durante o dia e se ajusta
+de acordo com esses dados.
+A tecnologia já está encarregada de muitas tarefas mentais, e essa
+tendência só se acelera. Até os carros autônomos já estão nas ruas.
+Em 2012, os líderes da Expedia, empresa mundial de reservas de
+hospedagem, descobriram que, para cada 100 pessoas que faziam
+reservas em hotéis pelo site, 58 precisavam de mais ajuda e ligavam
+para o serviço de atendimento ao cliente.145 A razão número um para os
+clientes ligarem era pedir que lhes reenviassem seu itinerário. Isso
+chegava a 20 milhões de ligações por ano: quase o equivalente a todos
+os habitantes da Austrália ligando para a empresa todo ano.
+Em vez de continuar respondendo a esses pedidos um por um, a
+Expedia permitiu que os clientes acessassem o itinerário no próprio
+site, por meio de um sistema automatizado de mensagens. Foi
+necessário um investimento modesto de tempo e esforço, mas o
+resultado dessa única ação foi uma redução de 43% nas ligações diárias.
+A economia de tempo e dinheiro dessa única mudança foi tão
+significativa que hoje a empresa opera toda uma série de recursos de
+autosserviço que usam inteligência artificial e aprendizado de máquina
+(machine learning) para atender às necessidades variadas dos clientes.
+Ryan O’Neill, que dirige as operações de experiência do cliente da
+Expedia, espera que 90% a 95% de todas as funções de atendimento
+acabem totalmente automatizadas.
+Como podemos usar a tecnologia para automatizar as coisas que são
+realmente importantes em nosso cotidiano?
+Domínios essenciais
+Automação sem esforço
+Sua saúde
+Agende os exames anuais como um compromisso recorrente
+no mesmo dia todo ano e as consultas ao dentista no mesmo
+dia de seis em seis meses.
+Conﬁgure seu celular para acionar o “modo noturno” ou
+“escuro” (ou “Night Shift”) duas horas antes da hora de
+dormir.
+Seus relacionamentos
+Marque ligações ou reuniões regulares com as pessoas mais
+
+importantes.
+Conﬁgure na agenda lembretes para o aniversário de amigos
+e parentes.
+Encomende com antecedência a entrega de ﬂores ou
+presentes nos principais aniversários ou datas importantes.
+Suas ﬁnanças
+Programe o depósito mensal automático na poupança de um
+percentual de seu pagamento.
+Marque uma reunião semanal para revisar as ﬁnanças com a
+família e reuniões anuais com um consultor ﬁnanceiro.
+Automatize a elaboração do orçamento com um aplicativo
+que registre seus gastos.
+Agende doações mensais ou anuais regulares para as
+instituições de caridade que você apoia.
+Sua casa
+Assine serviços on-line de compra regular de itens básicos.
+Crie um checklist anual de segurança para coisas como
+detetores de fumaça e extintores de incêndio.
+Faça listas de compras recorrentes no aplicativo ou site do
+supermercado.
+Delegue o planejamento das refeições a um aplicativo ou site
+com base em suas metas de saúde.
+Sua carreira
+Agende reuniões recorrentes com um mentor.
+Marque um horário todo trimestre para uma revisão de suas
+metas de carreira.
+Reserve cinco minutos toda manhã para ler um artigo sobre
+um tema importante não relacionado diretamente ao seu
+trabalho.
+Seu lazer
+Reserve uma hora por dia para fazer algo que lhe traz alegria.
+Na teoria, reservar tempo para as coisas importantes parece simples.
+Na prática, é difícil fazer com constância, porque a vida real é cheia de
+surpresas. Mas o esforço que investimos em automatizar nossas tarefas
+banais porém essenciais gera benefícios significativos e que serão
+repetidos mais tarde.
+Neste ponto, é importante fazer uma ressalva: a automação pode
+funcionar a seu favor ou contra você. Se atividades não essenciais forem
+automatizadas, elas também vão continuar acontecendo sem que você
+pense nelas. Um exemplo são as assinaturas que se renovam
+automaticamente. Sempre achamos que vamos nos lembrar de cancelá-
+las, mas nunca fazemos isso e acabamos sendo cobrados durante meses
+
+e até anos sem perceber. Certa vez, notei que pagava 10 vezes mais do
+que a quantia correta por um serviço on-line que eu assinara.
+Considere usar a via da alta tecnologia e do baixo esforço para o
+essencial e a via de baixa tecnologia e muito esforço para o que não for
+essencial.
+

@@ -1,0 +1,111 @@
+# Architecture for IoT
+
+Paginas: 131-133
+
+One of the central problems of managing batch and stream processing is unifying
+multiple code paths. While the Kappa architecture relies on a unified queuing and
+storage layer, one still has to confront using different tools for collecting real-time
+statistics or running batch aggregation jobs. Today, engineers seek to solve this in
+several ways. Google made its mark by developing the Dataflow model and the
+Apache Beam framework that implements this model.
+The core idea in the Dataflow model is to view all data as events, as the aggregation
+is performed over various types of windows. Ongoing real-time event streams are
+unbounded data. Data batches are simply bounded event streams, and the boundaries
+provide a natural window. Engineers can choose from various windows for real-time
+aggregation, such as sliding or tumbling. Real-time and batch processing happens in
+the same system using nearly identical code.
+The philosophy of “batch as a special case of streaming” is now more pervasive.
+Various frameworks such as Flink and Spark have adopted a similar approach.
+Architecture for IoT
+The Internet of Things (IoT) is the distributed collection of devices, aka things—
+computers, sensors, mobile devices, smart home devices, and anything else with an
+internet connection. Rather than generating data from direct human input (think
+data entry from a keyboard), IoT data is generated from devices that collect data
+periodically or continuously from the surrounding environment and transmit it to
+a destination. IoT devices are often low-powered and operate in low-resource/low
+bandwidth environments.
+While the concept of IoT devices dates back at least a few decades, the smartphone
+revolution created a massive IoT swarm virtually overnight. Since then, numerous
+new IoT categories have emerged, such as smart thermostats, car entertainment
+systems, smart TVs, and smart speakers. The IoT has evolved from a futurist fantasy
+to a massive data engineering domain. We expect IoT to become one of the dominant
+ways data is generated and consumed, and this section goes a bit deeper than the
+others you’ve read.
+Having a cursory understanding of IoT architecture will help you understand broader
+data architecture trends. Let’s briefly look at some IoT architecture concepts.
+Devices
+Devices (also known as things) are the physical hardware connected to the internet,
+sensing the environment around them and collecting and transmitting data to a
+downstream destination. These devices might be used in consumer applications like
+a doorbell camera, smartwatch, or thermostat. The device might be an AI-powered
+camera that monitors an assembly line for defective components, a GPS tracker to
+106
+|
+Chapter 3: Designing Good Data Architecture
+
+record vehicle locations, or a Raspberry Pi programmed to download the latest tweets
+and brew your coffee. Any device capable of collecting data from its environment is
+an IoT device.
+Devices should be minimally capable of collecting and transmitting data. However,
+the device might also crunch data or run ML on the data it collects before sending it
+downstream—edge computing and edge machine learning, respectively.
+A data engineer doesn’t necessarily need to know the inner details of IoT devices but
+should know what the device does, the data it collects, any edge computations or
+ML it runs before transmitting the data, and how often it sends data. It also helps
+to know the consequences of a device or internet outage, environmental or other
+external factors affecting data collection, and how these may impact the downstream
+collection of data from the device.
+Interfacing with devices
+A device isn’t beneficial unless you can get its data. This section covers some of the
+key components necessary to interface with IoT devices in the wild.
+IoT gateway. An IoT gateway is a hub for connecting devices and securely routing
+devices to the appropriate destinations on the internet. While you can connect a
+device directly to the internet without an IoT gateway, the gateway allows devices to
+connect using extremely little power. It acts as a way station for data retention and
+manages an internet connection to the final data destination.
+New low-power WiFi standards are designed to make IoT gateways less critical in
+the future, but these are just rolling out now. Typically, a swarm of devices will
+utilize many IoT gateways, one at each physical location where devices are present
+(Figure 3-16).
+Figure 3-16. A device swarm (circles), IoT gateways, and message queue with messages
+(rectangles within the queue)
+Examples and Types of Data Architecture
+|
+107
+
+Ingestion. Ingestion begins with an IoT gateway, as discussed previously. From there,
+events and measurements can flow into an event ingestion architecture.
+Of course, other patterns are possible. For instance, the gateway may accumulate
+data and upload it in batches for later analytics processing. In remote physical envi‐
+ronments, gateways may not have connectivity to a network much of the time. They
+may upload all data only when they are brought into the range of a cellular or WiFi
+network. The point is that the diversity of IoT systems and environments presents
+complications—e.g., late-arriving data, data structure and schema disparities, data
+corruption, and connection disruption—that engineers must account for in their
+architectures and downstream analytics.
+Storage. Storage requirements will depend a great deal on the latency requirement
+for the IoT devices in the system. For example, for remote sensors collecting scientific
+data for analysis at a later time, batch object storage may be perfectly acceptable.
+However, near real-time responses may be expected from a system backend that
+constantly analyzes data in a home monitoring and automation solution. In this case,
+a message queue or time-series database is more appropriate. We discuss storage
+systems in more detail in Chapter 6.
+Serving. Serving patterns are incredibly diverse. In a batch scientific application, data
+might be analyzed using a cloud data warehouse and then served in a report. Data
+will be presented and served in numerous ways in a home-monitoring application.
+Data will be analyzed in the near time using a stream-processing engine or queries
+in a time-series database to look for critical events such as a fire, electrical outage,
+or break-in. Detection of an anomaly will trigger alerts to the homeowner, the fire
+department, or other entity. A batch analytics component also exists—for example, a
+monthly report on the state of the home.
+One significant serving pattern for IoT looks like reverse ETL (Figure 3-17), although
+we tend not to use this term in the IoT context. Think of this scenario: data from
+sensors on manufacturing devices is collected and analyzed. The results of these
+measurements are processed to look for optimizations that will allow equipment to
+operate more efficiently. Data is sent back to reconfigure the devices and optimize
+them.
+Figure 3-17. IoT serving pattern for downstream use cases
+108
+|
+Chapter 3: Designing Good Data Architecture
+

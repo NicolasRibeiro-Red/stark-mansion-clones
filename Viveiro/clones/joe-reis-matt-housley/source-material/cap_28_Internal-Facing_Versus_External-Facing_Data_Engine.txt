@@ -1,0 +1,31 @@
+# Internal-Facing Versus External-Facing Data Engineers
+
+Paginas: 48-48
+
+Internal-Facing Versus External-Facing Data Engineers
+A data engineer serves several end users and faces many internal and external direc‐
+tions (Figure 1-9). Since not all data engineering workloads and responsibilities are
+the same, it’s essential to understand whom the data engineer serves. Depending
+on the end-use cases, a data engineer’s primary responsibilities are external facing,
+internal facing, or a blend of the two.
+Figure 1-9. The directions a data engineer faces
+An external-facing data engineer typically aligns with the users of external-facing
+applications, such as social media apps, Internet of Things (IoT) devices, and ecom‐
+merce platforms. This data engineer architects, builds, and manages the systems that
+collect, store, and process transactional and event data from these applications. The
+systems built by these data engineers have a feedback loop from the application to the
+data pipeline, and then back to the application (Figure 1-10).
+Figure 1-10. External-facing data engineer systems
+External-facing data engineering comes with a unique set of problems. External-
+facing query engines often handle much larger concurrency loads than internal-
+facing systems. Engineers also need to consider putting tight limits on queries that
+users can run to limit the infrastructure impact of any single user. In addition, secu‐
+rity is a much more complex and sensitive problem for external queries, especially
+if the data being queried is multitenant (data from many customers and housed in a
+single table).
+An internal-facing data engineer typically focuses on activities crucial to the needs of
+the business and internal stakeholders (Figure 1-11). Examples include creating and
+Data Engineers Inside an Organization
+|
+23
+

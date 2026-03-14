@@ -1,0 +1,51 @@
+# An Example Security Policy
+
+Paginas: 398-398
+
+business operations, if a version of your data is compromised in a ransomware attack.
+Additionally, test the restoration of your data backups on a regular basis.
+Data backup doesn’t strictly fit under security and privacy practices; it goes under the
+larger heading of disaster prevention, but it’s adjacent to security, especially in the era
+of ransomware attacks.
+An Example Security Policy
+This section presents a sample security policy regarding credentials, devices, and
+sensitive information. Notice that we don’t overcomplicate things; instead, we give
+people a short list of practical actions they can take immediately.
+Example Security Policy
+Protect Your Credentials
+Protect your credentials at all costs. Here are some ground rules for credentials:
+• Use a single-sign-on (SSO) for everything. Avoid passwords whenever possible,
+•
+and use SSO as the default.
+• Use multifactor authentication with SSO.
+•
+• Don’t share passwords or credentials. This includes client passwords and creden‐
+•
+tials. If in doubt, see the person you report to. If that person is in doubt, keep
+digging until you find an answer.
+• Beware of phishing and scam calls. Don’t ever give your passwords out. (Again,
+•
+prioritize SSO.)
+• Disable or delete old credentials. Preferably the latter.
+•
+• Don’t put your credentials in code. Handle secrets as configuration and never
+•
+commit them to version control. Use a secrets manager where possible.
+• Always exercise the principle of least privilege. Never give more access than is
+•
+required to do the job. This applies to all credentials and privileges in the cloud
+and on premises.
+Protect Your Devices
+• Use device management for all devices used by employees. If an employee leaves
+•
+the company or your device gets lost, the device can be remotely wiped.
+• Use multifactor authentication for all devices.
+•
+• Sign in to your device using your company email credentials.
+•
+• All policies covering credentials and behavior apply to your device(s).
+•
+Processes
+|
+373
+

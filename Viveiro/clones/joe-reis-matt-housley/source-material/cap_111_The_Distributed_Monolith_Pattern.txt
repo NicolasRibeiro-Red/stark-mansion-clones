@@ -1,0 +1,4 @@
+# The Distributed Monolith Pattern
+
+Paginas: 167-166
+

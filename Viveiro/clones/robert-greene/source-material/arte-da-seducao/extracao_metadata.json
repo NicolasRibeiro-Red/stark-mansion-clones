@@ -1,0 +1,779 @@
+{
+  "titulo": "A arte da sedução",
+  "autor": "Robert Greene",
+  "total_paginas": 239,
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "dLivros",
+      "paginas": "2-2",
+      "arquivo": "cap_01_dLivros.txt"
+    },
+    {
+      "numero": 2,
+      "titulo": "Folha de Rosto",
+      "paginas": "3-4",
+      "arquivo": "cap_02_Folha_de_Rosto.txt"
+    },
+    {
+      "numero": 3,
+      "titulo": "Sumário",
+      "paginas": "5-9",
+      "arquivo": "cap_03_Sumário.txt"
+    },
+    {
+      "numero": 4,
+      "titulo": "Agradecimentos",
+      "paginas": "10-10",
+      "arquivo": "cap_04_Agradecimentos.txt"
+    },
+    {
+      "numero": 5,
+      "titulo": "Prefácio",
+      "paginas": "11-16",
+      "arquivo": "cap_05_Prefácio.txt"
+    },
+    {
+      "numero": 6,
+      "titulo": "PARTE UM: A personalidade Sedutora",
+      "paginas": "17-19",
+      "arquivo": "cap_06_PARTE_UM_A_personalidade_Sedutora.txt"
+    },
+    {
+      "numero": 7,
+      "titulo": "Sereia",
+      "paginas": "20-20",
+      "arquivo": "cap_07_Sereia.txt"
+    },
+    {
+      "numero": 8,
+      "titulo": "Chaves para a personagem",
+      "paginas": "21-20",
+      "arquivo": "cap_08_Chaves_para_a_personagem.txt"
+    },
+    {
+      "numero": 9,
+      "titulo": "Símbolo",
+      "paginas": "21-26",
+      "arquivo": "cap_09_Símbolo.txt"
+    },
+    {
+      "numero": 10,
+      "titulo": "Libertino",
+      "paginas": "27-27",
+      "arquivo": "cap_10_Libertino.txt"
+    },
+    {
+      "numero": 11,
+      "titulo": "Chaves para a personagem",
+      "paginas": "28-27",
+      "arquivo": "cap_11_Chaves_para_a_personagem.txt"
+    },
+    {
+      "numero": 12,
+      "titulo": "Símbolo",
+      "paginas": "28-31",
+      "arquivo": "cap_12_Símbolo.txt"
+    },
+    {
+      "numero": 13,
+      "titulo": "O Amante Ideal",
+      "paginas": "32-32",
+      "arquivo": "cap_13_O_Amante_Ideal.txt"
+    },
+    {
+      "numero": 14,
+      "titulo": "Chaves para a personagem",
+      "paginas": "33-32",
+      "arquivo": "cap_14_Chaves_para_a_personagem.txt"
+    },
+    {
+      "numero": 15,
+      "titulo": "Símbolo",
+      "paginas": "33-37",
+      "arquivo": "cap_15_Símbolo.txt"
+    },
+    {
+      "numero": 16,
+      "titulo": "Dândi",
+      "paginas": "38-38",
+      "arquivo": "cap_16_Dândi.txt"
+    },
+    {
+      "numero": 17,
+      "titulo": "Chaves para a personagem",
+      "paginas": "39-38",
+      "arquivo": "cap_17_Chaves_para_a_personagem.txt"
+    },
+    {
+      "numero": 18,
+      "titulo": "Símbolo",
+      "paginas": "39-45",
+      "arquivo": "cap_18_Símbolo.txt"
+    },
+    {
+      "numero": 19,
+      "titulo": "Natural",
+      "paginas": "46-46",
+      "arquivo": "cap_19_Natural.txt"
+    },
+    {
+      "numero": 20,
+      "titulo": "Traços psicológicos da pessoa natural",
+      "paginas": "47-46",
+      "arquivo": "cap_20_Traços_psicológicos_da_pessoa_natural.txt"
+    },
+    {
+      "numero": 21,
+      "titulo": "Símbolo",
+      "paginas": "47-51",
+      "arquivo": "cap_21_Símbolo.txt"
+    },
+    {
+      "numero": 22,
+      "titulo": "Coquete",
+      "paginas": "52-52",
+      "arquivo": "cap_22_Coquete.txt"
+    },
+    {
+      "numero": 23,
+      "titulo": "Chaves para a personagem",
+      "paginas": "53-52",
+      "arquivo": "cap_23_Chaves_para_a_personagem.txt"
+    },
+    {
+      "numero": 24,
+      "titulo": "Símbolo",
+      "paginas": "53-56",
+      "arquivo": "cap_24_Símbolo.txt"
+    },
+    {
+      "numero": 25,
+      "titulo": "Encantador",
+      "paginas": "57-57",
+      "arquivo": "cap_25_Encantador.txt"
+    },
+    {
+      "numero": 26,
+      "titulo": "A arte do encanto",
+      "paginas": "58-57",
+      "arquivo": "cap_26_A_arte_do_encanto.txt"
+    },
+    {
+      "numero": 27,
+      "titulo": "Símbolo",
+      "paginas": "58-62",
+      "arquivo": "cap_27_Símbolo.txt"
+    },
+    {
+      "numero": 28,
+      "titulo": "Carismático",
+      "paginas": "63-63",
+      "arquivo": "cap_28_Carismático.txt"
+    },
+    {
+      "numero": 29,
+      "titulo": "Carisma e sedução",
+      "paginas": "64-63",
+      "arquivo": "cap_29_Carisma_e_sedução.txt"
+    },
+    {
+      "numero": 30,
+      "titulo": "Símbolo",
+      "paginas": "64-70",
+      "arquivo": "cap_30_Símbolo.txt"
+    },
+    {
+      "numero": 31,
+      "titulo": "Estrela",
+      "paginas": "71-71",
+      "arquivo": "cap_31_Estrela.txt"
+    },
+    {
+      "numero": 32,
+      "titulo": "Chaves para a personagem",
+      "paginas": "72-71",
+      "arquivo": "cap_32_Chaves_para_a_personagem.txt"
+    },
+    {
+      "numero": 33,
+      "titulo": "Símbolo",
+      "paginas": "72-76",
+      "arquivo": "cap_33_Símbolo.txt"
+    },
+    {
+      "numero": 34,
+      "titulo": "PARTE DOIS: O processo Sedutor",
+      "paginas": "77-79",
+      "arquivo": "cap_34_PARTE_DOIS_O_processo_Sedutor.txt"
+    },
+    {
+      "numero": 35,
+      "titulo": "1. Escolha a vítima certa",
+      "paginas": "80-80",
+      "arquivo": "cap_35_1_Escolha_a_vítima_certa.txt"
+    },
+    {
+      "numero": 36,
+      "titulo": "Chaves para a sedução",
+      "paginas": "81-80",
+      "arquivo": "cap_36_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 37,
+      "titulo": "Símbolo",
+      "paginas": "81-84",
+      "arquivo": "cap_37_Símbolo.txt"
+    },
+    {
+      "numero": 38,
+      "titulo": "2. Crie uma falsa noção de segurança – Aborde indiretamente",
+      "paginas": "85-85",
+      "arquivo": "cap_38_2_Crie_uma_falsa_noção_de_segurança_Aborde_indiret.txt"
+    },
+    {
+      "numero": 39,
+      "titulo": "Chave para a sedução",
+      "paginas": "86-85",
+      "arquivo": "cap_39_Chave_para_a_sedução.txt"
+    },
+    {
+      "numero": 40,
+      "titulo": "Símbolo",
+      "paginas": "86-89",
+      "arquivo": "cap_40_Símbolo.txt"
+    },
+    {
+      "numero": 41,
+      "titulo": "3. Envie sinais ambíguos",
+      "paginas": "90-90",
+      "arquivo": "cap_41_3_Envie_sinais_ambíguos.txt"
+    },
+    {
+      "numero": 42,
+      "titulo": "Chaves para a sedução",
+      "paginas": "91-90",
+      "arquivo": "cap_42_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 43,
+      "titulo": "Símbolo",
+      "paginas": "91-95",
+      "arquivo": "cap_43_Símbolo.txt"
+    },
+    {
+      "numero": 44,
+      "titulo": "4. Aparente ser um objeto se desejo – Crie triângulos",
+      "paginas": "96-96",
+      "arquivo": "cap_44_4_Aparente_ser_um_objeto_se_desejo_Crie_triângulos.txt"
+    },
+    {
+      "numero": 45,
+      "titulo": "Chaves para a sedução",
+      "paginas": "97-96",
+      "arquivo": "cap_45_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 46,
+      "titulo": "Símbolo",
+      "paginas": "97-102",
+      "arquivo": "cap_46_Símbolo.txt"
+    },
+    {
+      "numero": 47,
+      "titulo": "5. Crie uma necessidade – Desperte ansiedade e descontentamento",
+      "paginas": "103-103",
+      "arquivo": "cap_47_5_Crie_uma_necessidade_Desperte_ansiedade_e_descon.txt"
+    },
+    {
+      "numero": 48,
+      "titulo": "Chaves para a sedução",
+      "paginas": "104-103",
+      "arquivo": "cap_48_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 49,
+      "titulo": "Símbolo",
+      "paginas": "104-109",
+      "arquivo": "cap_49_Símbolo.txt"
+    },
+    {
+      "numero": 50,
+      "titulo": "6. Domine a arte da insinuação",
+      "paginas": "110-110",
+      "arquivo": "cap_50_6_Domine_a_arte_da_insinuação.txt"
+    },
+    {
+      "numero": 51,
+      "titulo": "Chaves para a sedução",
+      "paginas": "111-110",
+      "arquivo": "cap_51_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 52,
+      "titulo": "Símbolo",
+      "paginas": "111-114",
+      "arquivo": "cap_52_Símbolo.txt"
+    },
+    {
+      "numero": 53,
+      "titulo": "7. Entre no espírito deles",
+      "paginas": "115-115",
+      "arquivo": "cap_53_7_Entre_no_espírito_deles.txt"
+    },
+    {
+      "numero": 54,
+      "titulo": "Chaves para a sedução",
+      "paginas": "116-115",
+      "arquivo": "cap_54_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 55,
+      "titulo": "Símbolo",
+      "paginas": "116-119",
+      "arquivo": "cap_55_Símbolo.txt"
+    },
+    {
+      "numero": 56,
+      "titulo": "8. Crie tentação",
+      "paginas": "120-120",
+      "arquivo": "cap_56_8_Crie_tentação.txt"
+    },
+    {
+      "numero": 57,
+      "titulo": "Chaves para a sedução",
+      "paginas": "121-120",
+      "arquivo": "cap_57_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 58,
+      "titulo": "Símbolo",
+      "paginas": "121-125",
+      "arquivo": "cap_58_Símbolo.txt"
+    },
+    {
+      "numero": 59,
+      "titulo": "9. Mantenha-os em suspense – O que virá em seguida?",
+      "paginas": "126-126",
+      "arquivo": "cap_59_9_Mantenha-os_em_suspense_O_que_virá_em_seguida.txt"
+    },
+    {
+      "numero": 60,
+      "titulo": "Chaves para a sedução",
+      "paginas": "127-126",
+      "arquivo": "cap_60_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 61,
+      "titulo": "Símbolo",
+      "paginas": "127-130",
+      "arquivo": "cap_61_Símbolo.txt"
+    },
+    {
+      "numero": 62,
+      "titulo": "10. Use o poder demoníaco das palavras para semear confusão",
+      "paginas": "131-131",
+      "arquivo": "cap_62_10_Use_o_poder_demoníaco_das_palavras_para_semear_.txt"
+    },
+    {
+      "numero": 63,
+      "titulo": "Chaves para a sedução",
+      "paginas": "132-131",
+      "arquivo": "cap_63_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 64,
+      "titulo": "Símbolo",
+      "paginas": "132-138",
+      "arquivo": "cap_64_Símbolo.txt"
+    },
+    {
+      "numero": 65,
+      "titulo": "11. Preste atenção aos detalhes",
+      "paginas": "139-139",
+      "arquivo": "cap_65_11_Preste_atenção_aos_detalhes.txt"
+    },
+    {
+      "numero": 66,
+      "titulo": "Chaves para a sedução",
+      "paginas": "140-139",
+      "arquivo": "cap_66_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 67,
+      "titulo": "Símbolo",
+      "paginas": "140-144",
+      "arquivo": "cap_67_Símbolo.txt"
+    },
+    {
+      "numero": 68,
+      "titulo": "12. Poetize a sua presença",
+      "paginas": "145-145",
+      "arquivo": "cap_68_12_Poetize_a_sua_presença.txt"
+    },
+    {
+      "numero": 69,
+      "titulo": "Chaves para a sedução",
+      "paginas": "146-145",
+      "arquivo": "cap_69_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 70,
+      "titulo": "Símbolo",
+      "paginas": "146-149",
+      "arquivo": "cap_70_Símbolo.txt"
+    },
+    {
+      "numero": 71,
+      "titulo": "13. Desarme usando a fraqueza e a vulnerabilidade estratégicas",
+      "paginas": "150-150",
+      "arquivo": "cap_71_13_Desarme_usando_a_fraqueza_e_a_vulnerabilidade_e.txt"
+    },
+    {
+      "numero": 72,
+      "titulo": "Chaves para a sedução",
+      "paginas": "151-150",
+      "arquivo": "cap_72_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 73,
+      "titulo": "Símbolo",
+      "paginas": "151-155",
+      "arquivo": "cap_73_Símbolo.txt"
+    },
+    {
+      "numero": 74,
+      "titulo": "14. Confunda desejo e realidade – Crie a ilusão perfeita",
+      "paginas": "156-156",
+      "arquivo": "cap_74_14_Confunda_desejo_e_realidade_Crie_a_ilusão_perfe.txt"
+    },
+    {
+      "numero": 75,
+      "titulo": "Chaves para a sedução",
+      "paginas": "157-156",
+      "arquivo": "cap_75_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 76,
+      "titulo": "Símbolo",
+      "paginas": "157-161",
+      "arquivo": "cap_76_Símbolo.txt"
+    },
+    {
+      "numero": 77,
+      "titulo": "15. Isole a vítima",
+      "paginas": "162-162",
+      "arquivo": "cap_77_15_Isole_a_vítima.txt"
+    },
+    {
+      "numero": 78,
+      "titulo": "Chaves para a sedução",
+      "paginas": "163-162",
+      "arquivo": "cap_78_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 79,
+      "titulo": "Símbolo",
+      "paginas": "163-167",
+      "arquivo": "cap_79_Símbolo.txt"
+    },
+    {
+      "numero": 80,
+      "titulo": "16. Prove quem você é",
+      "paginas": "168-168",
+      "arquivo": "cap_80_16_Prove_quem_você_é.txt"
+    },
+    {
+      "numero": 81,
+      "titulo": "Evidência sedutora",
+      "paginas": "169-168",
+      "arquivo": "cap_81_Evidência_sedutora.txt"
+    },
+    {
+      "numero": 82,
+      "titulo": "Símbolo",
+      "paginas": "169-173",
+      "arquivo": "cap_82_Símbolo.txt"
+    },
+    {
+      "numero": 83,
+      "titulo": "17. Faça uma regressão",
+      "paginas": "174-174",
+      "arquivo": "cap_83_17_Faça_uma_regressão.txt"
+    },
+    {
+      "numero": 84,
+      "titulo": "A regressão erótica",
+      "paginas": "175-174",
+      "arquivo": "cap_84_A_regressão_erótica.txt"
+    },
+    {
+      "numero": 85,
+      "titulo": "Símbolo",
+      "paginas": "175-180",
+      "arquivo": "cap_85_Símbolo.txt"
+    },
+    {
+      "numero": 86,
+      "titulo": "18. Provoque o que é transgressão e tabu",
+      "paginas": "181-181",
+      "arquivo": "cap_86_18_Provoque_o_que_é_transgressão_e_tabu.txt"
+    },
+    {
+      "numero": 87,
+      "titulo": "Chaves para a sedução",
+      "paginas": "182-181",
+      "arquivo": "cap_87_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 88,
+      "titulo": "Símbolo",
+      "paginas": "182-186",
+      "arquivo": "cap_88_Símbolo.txt"
+    },
+    {
+      "numero": 89,
+      "titulo": "19. Use iscas espirituais",
+      "paginas": "187-187",
+      "arquivo": "cap_89_19_Use_iscas_espirituais.txt"
+    },
+    {
+      "numero": 90,
+      "titulo": "Chaves para a sedução",
+      "paginas": "188-187",
+      "arquivo": "cap_90_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 91,
+      "titulo": "Símbolo",
+      "paginas": "188-192",
+      "arquivo": "cap_91_Símbolo.txt"
+    },
+    {
+      "numero": 92,
+      "titulo": "20. Misture prazer com sofrimento",
+      "paginas": "193-193",
+      "arquivo": "cap_92_20_Misture_prazer_com_sofrimento.txt"
+    },
+    {
+      "numero": 93,
+      "titulo": "Chaves para a sedução",
+      "paginas": "194-193",
+      "arquivo": "cap_93_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 94,
+      "titulo": "Símbolo",
+      "paginas": "194-199",
+      "arquivo": "cap_94_Símbolo.txt"
+    },
+    {
+      "numero": 95,
+      "titulo": "21. Dê a eles espaço para a queda – O perseguidor é perseguido",
+      "paginas": "200-200",
+      "arquivo": "cap_95_21_Dê_a_eles_espaço_para_a_queda_O_perseguidor_é_p.txt"
+    },
+    {
+      "numero": 96,
+      "titulo": "Chaves para a sedução",
+      "paginas": "201-200",
+      "arquivo": "cap_96_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 97,
+      "titulo": "Símbolo",
+      "paginas": "201-207",
+      "arquivo": "cap_97_Símbolo.txt"
+    },
+    {
+      "numero": 98,
+      "titulo": "22. Use iscas físicas",
+      "paginas": "208-208",
+      "arquivo": "cap_98_22_Use_iscas_físicas.txt"
+    },
+    {
+      "numero": 99,
+      "titulo": "Chaves para a sedução",
+      "paginas": "209-208",
+      "arquivo": "cap_99_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 100,
+      "titulo": "Símbolo",
+      "paginas": "209-214",
+      "arquivo": "cap_100_Símbolo.txt"
+    },
+    {
+      "numero": 101,
+      "titulo": "23. Domine a arte do movimento ousado",
+      "paginas": "215-215",
+      "arquivo": "cap_101_23_Domine_a_arte_do_movimento_ousado.txt"
+    },
+    {
+      "numero": 102,
+      "titulo": "Chaves para a sedução",
+      "paginas": "216-215",
+      "arquivo": "cap_102_Chaves_para_a_sedução.txt"
+    },
+    {
+      "numero": 103,
+      "titulo": "Símbolo",
+      "paginas": "216-221",
+      "arquivo": "cap_103_Símbolo.txt"
+    },
+    {
+      "numero": 104,
+      "titulo": "24. Atenção aos efeitos posteriores",
+      "paginas": "222-222",
+      "arquivo": "cap_104_24_Atenção_aos_efeitos_posteriores.txt"
+    },
+    {
+      "numero": 105,
+      "titulo": "Desencanto",
+      "paginas": "223-228",
+      "arquivo": "cap_105_Desencanto.txt"
+    },
+    {
+      "numero": 106,
+      "titulo": "Ressedução",
+      "paginas": "229-228",
+      "arquivo": "cap_106_Ressedução.txt"
+    },
+    {
+      "numero": 107,
+      "titulo": "Símbolo",
+      "paginas": "229-230",
+      "arquivo": "cap_107_Símbolo.txt"
+    },
+    {
+      "numero": 108,
+      "titulo": "Bibliografia",
+      "paginas": "231-235",
+      "arquivo": "cap_108_Bibliografia.txt"
+    },
+    {
+      "numero": 109,
+      "titulo": "Créditos",
+      "paginas": "236-238",
+      "arquivo": "cap_109_Créditos.txt"
+    },
+    {
+      "numero": 110,
+      "titulo": "O Autor",
+      "paginas": "239-239",
+      "arquivo": "cap_110_O_Autor.txt"
+    }
+  ],
+  "arquivos": [
+    "cap_01_dLivros.txt",
+    "cap_02_Folha_de_Rosto.txt",
+    "cap_03_Sumário.txt",
+    "cap_04_Agradecimentos.txt",
+    "cap_05_Prefácio.txt",
+    "cap_06_PARTE_UM_A_personalidade_Sedutora.txt",
+    "cap_07_Sereia.txt",
+    "cap_08_Chaves_para_a_personagem.txt",
+    "cap_09_Símbolo.txt",
+    "cap_10_Libertino.txt",
+    "cap_11_Chaves_para_a_personagem.txt",
+    "cap_12_Símbolo.txt",
+    "cap_13_O_Amante_Ideal.txt",
+    "cap_14_Chaves_para_a_personagem.txt",
+    "cap_15_Símbolo.txt",
+    "cap_16_Dândi.txt",
+    "cap_17_Chaves_para_a_personagem.txt",
+    "cap_18_Símbolo.txt",
+    "cap_19_Natural.txt",
+    "cap_20_Traços_psicológicos_da_pessoa_natural.txt",
+    "cap_21_Símbolo.txt",
+    "cap_22_Coquete.txt",
+    "cap_23_Chaves_para_a_personagem.txt",
+    "cap_24_Símbolo.txt",
+    "cap_25_Encantador.txt",
+    "cap_26_A_arte_do_encanto.txt",
+    "cap_27_Símbolo.txt",
+    "cap_28_Carismático.txt",
+    "cap_29_Carisma_e_sedução.txt",
+    "cap_30_Símbolo.txt",
+    "cap_31_Estrela.txt",
+    "cap_32_Chaves_para_a_personagem.txt",
+    "cap_33_Símbolo.txt",
+    "cap_34_PARTE_DOIS_O_processo_Sedutor.txt",
+    "cap_35_1_Escolha_a_vítima_certa.txt",
+    "cap_36_Chaves_para_a_sedução.txt",
+    "cap_37_Símbolo.txt",
+    "cap_38_2_Crie_uma_falsa_noção_de_segurança_Aborde_indiret.txt",
+    "cap_39_Chave_para_a_sedução.txt",
+    "cap_40_Símbolo.txt",
+    "cap_41_3_Envie_sinais_ambíguos.txt",
+    "cap_42_Chaves_para_a_sedução.txt",
+    "cap_43_Símbolo.txt",
+    "cap_44_4_Aparente_ser_um_objeto_se_desejo_Crie_triângulos.txt",
+    "cap_45_Chaves_para_a_sedução.txt",
+    "cap_46_Símbolo.txt",
+    "cap_47_5_Crie_uma_necessidade_Desperte_ansiedade_e_descon.txt",
+    "cap_48_Chaves_para_a_sedução.txt",
+    "cap_49_Símbolo.txt",
+    "cap_50_6_Domine_a_arte_da_insinuação.txt",
+    "cap_51_Chaves_para_a_sedução.txt",
+    "cap_52_Símbolo.txt",
+    "cap_53_7_Entre_no_espírito_deles.txt",
+    "cap_54_Chaves_para_a_sedução.txt",
+    "cap_55_Símbolo.txt",
+    "cap_56_8_Crie_tentação.txt",
+    "cap_57_Chaves_para_a_sedução.txt",
+    "cap_58_Símbolo.txt",
+    "cap_59_9_Mantenha-os_em_suspense_O_que_virá_em_seguida.txt",
+    "cap_60_Chaves_para_a_sedução.txt",
+    "cap_61_Símbolo.txt",
+    "cap_62_10_Use_o_poder_demoníaco_das_palavras_para_semear_.txt",
+    "cap_63_Chaves_para_a_sedução.txt",
+    "cap_64_Símbolo.txt",
+    "cap_65_11_Preste_atenção_aos_detalhes.txt",
+    "cap_66_Chaves_para_a_sedução.txt",
+    "cap_67_Símbolo.txt",
+    "cap_68_12_Poetize_a_sua_presença.txt",
+    "cap_69_Chaves_para_a_sedução.txt",
+    "cap_70_Símbolo.txt",
+    "cap_71_13_Desarme_usando_a_fraqueza_e_a_vulnerabilidade_e.txt",
+    "cap_72_Chaves_para_a_sedução.txt",
+    "cap_73_Símbolo.txt",
+    "cap_74_14_Confunda_desejo_e_realidade_Crie_a_ilusão_perfe.txt",
+    "cap_75_Chaves_para_a_sedução.txt",
+    "cap_76_Símbolo.txt",
+    "cap_77_15_Isole_a_vítima.txt",
+    "cap_78_Chaves_para_a_sedução.txt",
+    "cap_79_Símbolo.txt",
+    "cap_80_16_Prove_quem_você_é.txt",
+    "cap_81_Evidência_sedutora.txt",
+    "cap_82_Símbolo.txt",
+    "cap_83_17_Faça_uma_regressão.txt",
+    "cap_84_A_regressão_erótica.txt",
+    "cap_85_Símbolo.txt",
+    "cap_86_18_Provoque_o_que_é_transgressão_e_tabu.txt",
+    "cap_87_Chaves_para_a_sedução.txt",
+    "cap_88_Símbolo.txt",
+    "cap_89_19_Use_iscas_espirituais.txt",
+    "cap_90_Chaves_para_a_sedução.txt",
+    "cap_91_Símbolo.txt",
+    "cap_92_20_Misture_prazer_com_sofrimento.txt",
+    "cap_93_Chaves_para_a_sedução.txt",
+    "cap_94_Símbolo.txt",
+    "cap_95_21_Dê_a_eles_espaço_para_a_queda_O_perseguidor_é_p.txt",
+    "cap_96_Chaves_para_a_sedução.txt",
+    "cap_97_Símbolo.txt",
+    "cap_98_22_Use_iscas_físicas.txt",
+    "cap_99_Chaves_para_a_sedução.txt",
+    "cap_100_Símbolo.txt",
+    "cap_101_23_Domine_a_arte_do_movimento_ousado.txt",
+    "cap_102_Chaves_para_a_sedução.txt",
+    "cap_103_Símbolo.txt",
+    "cap_104_24_Atenção_aos_efeitos_posteriores.txt",
+    "cap_105_Desencanto.txt",
+    "cap_106_Ressedução.txt",
+    "cap_107_Símbolo.txt",
+    "cap_108_Bibliografia.txt",
+    "cap_109_Créditos.txt",
+    "cap_110_O_Autor.txt"
+  ]
+}

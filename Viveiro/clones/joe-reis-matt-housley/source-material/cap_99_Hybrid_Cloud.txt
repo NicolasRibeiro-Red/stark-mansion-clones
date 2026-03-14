@@ -1,0 +1,44 @@
+# Hybrid Cloud
+
+Paginas: 152-152
+
+3 This is a major point of emphasis in Storment and Fuller, Cloud FinOps.
+a rude shock. On a direct comparison basis, long-running servers in the cloud are
+significantly more expensive than their on-premises counterparts.
+The key to finding value in the cloud is understanding and optimizing the cloud
+pricing model. Rather than deploying a set of long-running servers capable of han‐
+dling full peak load, use autoscaling to allow workloads to scale down to minimal
+infrastructure when loads are light and up to massive clusters during peak times. To
+realize discounts through more ephemeral, less durable workloads, use reserved or
+spot instances, or use serverless functions in place of servers.
+We often think of this optimization as leading to lower costs, but we should also
+strive to increase business value by exploiting the dynamic nature of the cloud.3
+Data engineers can create new value in the cloud by accomplishing things that were
+impossible in their on-premises environment. For example, it is possible to quickly
+spin up massive compute clusters to run complex transformations at scales that were
+unaffordable for on-premises hardware.
+Data Gravity
+In addition to basic errors such as following on-premises operational practices in
+the cloud, data engineers need to watch out for other aspects of cloud pricing and
+incentives that frequently catch users unawares.
+Vendors want to lock you into their offerings. Getting data onto the platform is cheap
+or free on most cloud platforms, but getting data out can be extremely expensive. Be
+aware of data egress fees and their long-term impacts on your business before getting
+blindsided by a large bill. Data gravity is real: once data lands in a cloud, the cost to
+extract it and migrate processes can be very high.
+Hybrid Cloud
+As more established businesses migrate into the cloud, the hybrid cloud model
+is growing in importance. Virtually no business can migrate all of its workloads
+overnight. The hybrid cloud model assumes that an organization will indefinitely
+maintain some workloads outside the cloud.
+There are many reasons to consider a hybrid cloud model. Organizations may
+believe that they have achieved operational excellence in certain areas, such as their
+application stack and associated hardware. Thus, they may migrate only to specific
+workloads where they see immediate benefits in the cloud environment. For example,
+an on-premises Spark stack is migrated to ephemeral cloud clusters, reducing the
+operational burden of managing software and hardware for the data engineering
+team and allowing rapid scaling for large data jobs.
+Location
+|
+127
+

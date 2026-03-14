@@ -1,0 +1,4 @@
+# Push Versus Pull Versus Poll Patterns
+
+Paginas: 269-268
+

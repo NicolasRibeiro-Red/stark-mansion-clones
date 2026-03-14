@@ -1,0 +1,45 @@
+# The Decline of Complexity and the Rise of Easy-to-Use Data Tools
+
+Paginas: 405-405
+
+The Data Engineering Lifecycle Isn’t Going Away
+While data science has received the bulk of the attention in recent years, data
+engineering is rapidly maturing into a distinct and visible field. It’s one of the fastest-
+growing careers in technology, with no signs of losing momentum. As companies
+realize they first need to build a data foundation before moving to “sexier” things like
+AI and ML, data engineering will continue growing in popularity and importance.
+This progress centers around the data engineering lifecycle.
+Some question whether increasingly simple tools and practices will lead to the dis‐
+appearance of data engineers. This thinking is shallow, lazy, and shortsighted. As
+organizations leverage data in new ways, new foundations, systems, and workflows
+will be needed to address these needs. Data engineers sit at the center of designing,
+architecting, building, and maintaining these systems. If tooling becomes easier to
+use, data engineers will move up the value chain to focus on higher-level work. The
+data engineering lifecycle isn’t going away anytime soon.
+The Decline of Complexity and the Rise
+of Easy-to-Use Data Tools
+Simplified, easy-to-use tools continue to lower the barrier to entry for data engineer‐
+ing. This is a great thing, especially given the shortage of data engineers we’ve dis‐
+cussed. The trend toward simplicity will continue. Data engineering isn’t dependent
+on a particular technology or data size. It’s also not just for large companies. In the
+2000s, deploying “big data” technologies required a large team and deep pockets. The
+ascendance of SaaS-managed services has largely removed the complexity of under‐
+standing the guts of various “big data” systems. Data engineering is now something
+that all companies can do.
+Big data is a victim of its extraordinary success. For example, Google BigQuery, a
+descendant of GFS and MapReduce, can query petabytes of data. Once reserved for
+internal use at Google, this insanely powerful technology is now available to anybody
+with a GCP account. Users simply pay for the data they store and query rather than
+having to build a massive infrastructure stack. Snowflake, Amazon EMR, and many
+other hyper-scalable cloud data solutions compete in the space and offer similar
+capabilities.
+The cloud is responsible for a significant shift in the usage of open source tools.
+Even in the early 2010s, using open source typically entailed downloading the code
+and configuring it yourself. Nowadays, many open source data tools are available
+as managed cloud services that compete directly with proprietary services. Linux is
+available preconfigured and installed on server instances on all major clouds. Server‐
+less platforms like AWS Lambda and Google Cloud Functions allow you to deploy
+380
+|
+Chapter 11: The Future of Data Engineering
+

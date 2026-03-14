@@ -1,0 +1,50 @@
+# Batch Ingestion Considerations
+
+Paginas: 269-270
+
+Push Versus Pull Versus Poll Patterns
+We mentioned push versus pull when we introduced the data engineering lifecycle
+in Chapter 2. A push strategy (Figure 7-7) involves a source system sending data to
+a target, while a pull strategy (Figure 7-8) entails a target reading data directly from
+a source. As we mentioned in that discussion, the lines between these strategies are
+blurry.
+Figure 7-7. Pushing data from source to destination
+Figure 7-8. A destination pulling data from a source
+Another pattern related to pulling is polling for data (Figure 7-9). Polling involves
+periodically checking a data source for any changes. When changes are detected, the
+destination pulls the data as it would in a regular pull situation.
+Figure 7-9. Polling for changes in a source system
+Batch Ingestion Considerations
+Batch ingestion, which involves processing data in bulk, is often a convenient way to
+ingest data. This means that data is ingested by taking a subset of data from a source
+system, based either on a time interval or the size of accumulated data (Figure 7-10).
+244
+|
+Chapter 7: Ingestion
+
+Figure 7-10. Time-interval batch ingestion
+Time-interval batch ingestion is widespread in traditional business ETL for data ware‐
+housing. This pattern is often used to process data once a day, overnight during
+off-hours, to provide daily reporting, but other frequencies can also be used.
+Size-based batch ingestion (Figure 7-11) is quite common when data is moved from
+a streaming-based system into object storage; ultimately, you must cut the data into
+discrete blocks for future processing in a data lake. Some size-based ingestion systems
+can break data into objects based on various criteria, such as the size in bytes of the
+total number of events.
+Figure 7-11. Size-based batch ingestion
+Some commonly used batch ingestion patterns, which we discuss in this section,
+include the following:
+• Snapshot or differential extraction
+•
+• File-based export and ingestion
+•
+• ETL versus ELT
+•
+• Inserts, updates, and batch size
+•
+• Data migration
+•
+Batch Ingestion Considerations
+|
+245
+

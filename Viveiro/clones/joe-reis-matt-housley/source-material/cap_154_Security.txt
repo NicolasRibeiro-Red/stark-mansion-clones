@@ -1,0 +1,47 @@
+# Security
+
+Paginas: 208-208
+
+In addition, consider establishing an SLA with upstream providers. An SLA provides
+expectations of what you can expect from the source systems you rely upon. An
+example of an SLA might be “data from source systems will be reliably available and
+of high quality.” A service-level objective (SLO) measures performance against what
+you’ve agreed to in the SLA. For example, given your example SLA, an SLO might
+be “source systems will have 99% uptime.” If a data contract or SLA/SLO seems too
+formal, at least verbally set expectations for source system guarantees for uptime, data
+quality, and anything else of importance to you. Upstream owners of source systems
+need to understand your requirements so they can provide you with the data you
+need.
+Undercurrents and Their Impact on Source Systems
+Unlike other parts of the data engineering lifecycle, source systems are generally
+outside the control of the data engineer. There’s an implicit assumption (some might
+call it hope) that the stakeholders and owners of the source systems—and the data
+they produce—are following best practices concerning data management, DataOps
+(and DevOps), DODD (mentioned in Chapter 2) data architecture, orchestration,
+and software engineering. The data engineer should get as much upstream support as
+possible to ensure that the undercurrents are applied when data is generated in source
+systems. Doing so will make the rest of the steps in the data engineering lifecycle
+proceed a lot more smoothly.
+How do the undercurrents impact source systems? Let’s have a look.
+Security
+Security is critical, and the last thing you want is to accidentally create a point of
+vulnerability in a source system. Here are some areas to consider:
+• Is the source system architected so data is secure and encrypted, both with data at
+•
+rest and while data is transmitted?
+• Do you have to access the source system over the public internet, or are you
+•
+using a virtual private network (VPN)?
+• Keep passwords, tokens, and credentials to the source system securely locked
+•
+away. For example, if you’re using Secure Shell (SSH) keys, use a key manager to
+protect your keys; the same rule applies to passwords—use a password manager
+or a single sign-on (SSO) provider.
+• Do you trust the source system? Always be sure to trust but verify that the source
+•
+system is legitimate. You don’t want to be on the receiving end of data from a
+malicious actor.
+Undercurrents and Their Impact on Source Systems
+|
+183
+

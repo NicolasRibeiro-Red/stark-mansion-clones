@@ -1,0 +1,44 @@
+# Database Storage Engines
+
+Paginas: 420-420
+
+One obvious headache with this approach is that different programming languages
+serialize data in different ways. To address this issue, the Arrow Project has created
+software libraries for a variety of programming languages (including C, Go, Java,
+JavaScript, MATLAB, Python, R, and Rust) that allow these languages to interoperate
+with Arrow data in memory. In some cases, these libraries use an interface between
+the chosen language and low-level code in another language (e.g., C) to read and
+write from Arrow. This allows high interoperability between languages without extra
+serialization overhead. For example, a Scala program can use the Java library to write
+arrow data and then pass it as a message to a Python program.
+Arrow is seeing rapid uptake with a variety of popular frameworks such as Apache
+Spark. Arrow has also spanned a new data warehouse product; Dremio is a query
+engine and data warehouse built around Arrow serialization to support fast queries.
+Hybrid Serialization
+We use the term hybrid serialization to refer to technologies that combine multiple
+serialization techniques or integrate serialization with additional abstraction layers,
+such as schema management. We cite as examples Apache Hudi and Apache Iceberg.
+Hudi
+Hudi stands for Hadoop Update Delete Incremental. This table management technol‐
+ogy combines multiple serialization techniques to allow columnar database perfor‐
+mance for analytics queries while also supporting atomic, transactional updates. A
+typical Hudi application is a table that is updated from a CDC stream from a transac‐
+tional application database. The stream is captured into a row-oriented serialization
+format, while the bulk of the table is retained in a columnar format. A query runs
+over both columnar and row-oriented files to return results for the current state of
+the table. Periodically, a repacking process runs that combines the row and columnar
+files into updated columnar files to maximize query efficiency.
+Iceberg
+Like Hudi, Iceberg is a table management technology. Iceberg can track all files that
+make up a table. It can also track files in each table snapshot over time, allowing table
+time travel in a data lake environment. Iceberg supports schema evolution and can
+readily manage tables at a petabyte scale.
+Database Storage Engines
+To round out the discussion of serialization, we briefly discuss database storage
+engines. All databases have an underlying storage engine; many don’t expose their
+storage engines as a separate abstraction (for example, BigQuery, Snowflake). Some
+(notably, MySQL) support fully pluggable storage engines. Others (e.g., SQL Server)
+Serialization and Compression Technical Details
+|
+395
+

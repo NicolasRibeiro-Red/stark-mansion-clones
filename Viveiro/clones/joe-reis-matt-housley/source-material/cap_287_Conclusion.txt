@@ -1,0 +1,44 @@
+# Conclusion
+
+Paginas: 359-359
+
+repository and CI/CD pipeline used by the analysts and data scientists. This is a big
+change in the role of a data engineer, who would historically build and manage the
+underlying infrastructure and create the data transformations. As data tools lower
+the barriers to entry and become more democratized across data teams, it will be
+interesting to see how the workflows of data teams change.
+Using a GUI-based low-code tool, you’ll get useful visualizations of the transforma‐
+tion workflow. You still need to understand what’s going on under the hood. These
+GUI-based transformation tools will often generate SQL or some other language
+behind the scenes. While the point of a low-code tool is to alleviate the need to
+be involved in low-level details, understanding the code behind the scenes will help
+with debugging and performance optimization. Blindly assuming that the tool is
+generating performant code is a mistake.
+We suggest that data engineers pay particular attention to software engineering best
+practices at the query and transformation stage. While it’s tempting to simply throw
+more processing resources at a dataset, knowing how to write clean, performant code
+is a much better approach.
+Conclusion
+Transformations sit at the heart of data pipelines. It’s critical to keep in mind the
+purpose of transformations. Ultimately, engineers are not hired to play with the latest
+technological toys but to serve their customers. Transformations are where data adds
+value and ROI to the business.
+Our opinion is that it is possible to adopt exciting transformation technologies and
+serve stakeholders. Chapter 11 talks about the live data stack, essentially reconfigur‐
+ing the data stack around streaming data ingestion and bringing transformation
+workflows closer to the source system applications themselves. Engineering teams
+that think about real-time data as the technology for the sake of technology will
+repeat the mistakes of the big data era. But in reality, the majority of organizations
+that we work with have a business use case that would benefit from streaming data.
+Identifying these use cases and focusing on the value before choosing technologies
+and complex systems is key.
+As we head into the serving stage of the data engineering lifecycle in Chapter 9,
+reflect on technology as a tool for realizing organizational goals. If you’re a working
+data engineer, think about how improvements in transformation systems could help
+you to serve your end customers better. If you’re just embarking on a path toward
+data engineering, think about the kinds of business problems you’re interested in
+solving with technology.
+334
+|
+Chapter 8: Queries, Modeling, and Transformation
+

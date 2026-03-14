@@ -1,0 +1,45 @@
+# Change Data Capture
+
+Paginas: 184-184
+
+OLTP and analytics
+Often, small companies run analytics directly on an OLTP. This pattern works in the
+short term but is ultimately not scalable. At some point, running analytical queries on
+OLTP runs into performance issues due to structural limitations of OLTP or resource
+contention with competing transactional workloads. Data engineers must understand
+the inner workings of OLTP and application backends to set up appropriate integra‐
+tions with analytics systems without degrading production application performance.
+As companies offer more analytics capabilities in SaaS applications, the need for
+hybrid capabilities—quick updates with combined analytics capabilities—has created
+new challenges for data engineers. We’ll use the term data application to refer to
+applications that hybridize transactional and analytics workloads.
+Online Analytical Processing System
+In contrast to an OLTP system, an online analytical processing (OLAP) system is
+built to run large analytics queries and is typically inefficient at handling lookups
+of individual records. For example, modern column databases are optimized to scan
+large volumes of data, dispensing with indexes to improve scalability and scan perfor‐
+mance. Any query typically involves scanning a minimal data block, often 100 MB or
+more in size. Trying to look up thousands of individual items per second in such a
+system will bring it to its knees unless it is combined with a caching layer designed
+for this use case.
+Note that we’re using the term OLAP to refer to any database system that supports
+high-scale interactive analytics queries; we are not limiting ourselves to systems that
+support OLAP cubes (multidimensional arrays of data). The online part of OLAP
+implies that the system constantly listens for incoming queries, making OLAP sys‐
+tems suitable for interactive analytics.
+Although this chapter covers source systems, OLAPs are typically storage and query
+systems for analytics. Why are we talking about them in our chapter on source
+systems? In practical use cases, engineers often need to read data from an OLAP
+system. For example, a data warehouse might serve data used to train an ML model.
+Or, an OLAP system might serve a reverse ETL workflow, where derived data in an
+analytics system is sent back to a source system, such as a CRM, SaaS platform, or
+transactional application.
+Change Data Capture
+Change data capture (CDC) is a method for extracting each change event (insert,
+update, delete) that occurs in a database. CDC is frequently leveraged to replicate
+between databases in near real time or create an event stream for downstream
+processing.
+Source Systems: Main Ideas
+|
+159
+

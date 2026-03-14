@@ -1,0 +1,45 @@
+# Total Cost of Ownership
+
+Paginas: 143-143
+
+tools will integrate with common APIs and services, such as CRMs, accounting
+software, and more.
+Sometimes standards are in place for interoperability. Almost all databases allow
+connections via Java Database Connectivity (JDBC) or Open Database Connectivity
+(ODBC), meaning that you can easily connect to a database by using these standards.
+In other cases, interoperability occurs in the absence of standards. Representational
+state transfer (REST) is not truly a standard for APIs; every REST API has its quirks.
+In these cases, it’s up to the vendor or open source software (OSS) project to ensure
+smooth integration with other technologies and systems.
+Always be aware of how simple it will be to connect your various technologies across
+the data engineering lifecycle. As mentioned in other chapters, we suggest designing
+for modularity and giving yourself the ability to easily swap out technologies as new
+practices and alternatives become available.
+Cost Optimization and Business Value
+In a perfect world, you’d get to experiment with all the latest, coolest technologies
+without considering cost, time investment, or value added to the business. In reality,
+budgets and time are finite, and the cost is a major constraint for choosing the
+right data architectures and technologies. Your organization expects a positive ROI
+from your data projects, so you must understand the basic costs you can control.
+Technology is a major cost driver, so your technology choices and management
+strategies will significantly impact your budget. We look at costs through three main
+lenses: total cost of ownership, opportunity cost, and FinOps.
+Total Cost of Ownership
+Total cost of ownership (TCO) is the total estimated cost of an initiative, including
+the direct and indirect costs of products and services utilized. Direct costs can be
+directly attributed to an initiative. Examples are the salaries of a team working on
+the initiative or the AWS bill for all services consumed. Indirect costs, also known
+as overhead, are independent of the initiative and must be paid regardless of where
+they’re attributed.
+Apart from direct and indirect costs, how something is purchased impacts the way
+costs are accounted for. Expenses fall into two big groups: capital expenses and
+operational expenses.
+Capital expenses, also known as capex, require an up-front investment. Payment is
+required today. Before the cloud existed, companies would typically purchase hard‐
+ware and software up front through large acquisition contracts. In addition, signifi‐
+cant investments were required to host hardware in server rooms, data centers, and
+colocation facilities. These up-front investments—commonly hundreds of thousands
+118
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+

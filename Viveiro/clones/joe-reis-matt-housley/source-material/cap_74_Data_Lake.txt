@@ -1,0 +1,38 @@
+# Data Lake
+
+Paginas: 126-126
+
+So significant is the impact of the new capabilities offered by cloud data warehouses
+that we might consider jettisoning the term data warehouse altogether. Instead, these
+services are evolving into a new data platform with much broader capabilities than
+those offered by a traditional MPP system.
+Data marts
+A data mart is a more refined subset of a warehouse designed to serve analytics and
+reporting, focused on a single suborganization, department, or line of business; every
+department has its own data mart, specific to its needs. This is in contrast to the full
+data warehouse that serves the broader organization or business.
+Data marts exist for two reasons. First, a data mart makes data more easily accessible
+to analysts and report developers. Second, data marts provide an additional stage
+of transformation beyond that provided by the initial ETL or ELT pipelines. This
+can significantly improve performance if reports or analytics queries require complex
+joins and aggregations of data, especially when the raw data is large. Transform
+processes can populate the data mart with joined and aggregated data to improve
+performance for live queries. Figure 3-12 shows the general workflow. We discuss
+data marts, and modeling data for data marts, in Chapter 8.
+Figure 3-12. ETL or ELT plus data marts
+Data Lake
+Among the most popular architectures that appeared during the big data era is the
+data lake. Instead of imposing tight structural limitations on data, why not simply
+dump all of your data—structured and unstructured—into a central location? The
+data lake promised to be a democratizing force, liberating the business to drink from
+a fountain of limitless data. The first-generation data lake, “data lake 1.0,” made solid
+contributions but generally failed to deliver on its promise.
+Data lake 1.0 started with HDFS. As the cloud grew in popularity, these data lakes
+moved to cloud-based object storage, with extremely cheap storage costs and virtually
+limitless storage capacity. Instead of relying on a monolithic data warehouse where
+storage and compute are tightly coupled, the data lake allows an immense amount
+of data of any size and type to be stored. When this data needs to be queried or
+Examples and Types of Data Architecture
+|
+101
+

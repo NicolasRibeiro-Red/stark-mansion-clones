@@ -1,0 +1,43 @@
+# The Data Lakehouse
+
+Paginas: 241-241
+
+3 James Dixon, “Data Lakes Revisited,” James Dixon’s Blog, September 25, 2014, https://oreil.ly/FH25v.
+In practice, cloud data warehouses are often used to organize data into a data lake,
+a storage area for massive amounts of unprocessed raw data, as originally conceived
+by James Dixon.3 Cloud data warehouses can handle massive amounts of raw text
+and complex JSON documents. The limitation is that cloud data warehouses cannot
+handle truly unstructured data, such as images, video, or audio, unlike a true data
+lake. Cloud data warehouses can be coupled with object storage to provide a complete
+data-lake solution.
+The Data Lake
+The data lake was originally conceived as a massive store where data was retained in
+raw, unprocessed form. Initially, data lakes were built primarily on Hadoop systems,
+where cheap storage allowed for retention of massive amounts of data without the
+cost overhead of a proprietary MPP system.
+The last five years have seen two major developments in the evolution of data
+lake storage. First, a major migration toward separation of compute and storage has
+occurred. In practice, this means a move away from Hadoop toward cloud object
+storage for long-term retention of data. Second, data engineers discovered that much
+of the functionality offered by MPP systems (schema management; update, merge
+and delete capabilities) and initially dismissed in the rush to data lakes was, in fact,
+extremely useful. This led to the notion of the data lakehouse.
+The Data Lakehouse
+The data lakehouse is an architecture that combines aspects of the data warehouse
+and the data lake. As it is generally conceived, the lakehouse stores data in object
+storage just like a lake. However, the lakehouse adds to this arrangement features
+designed to streamline data management and create an engineering experience simi‐
+lar to a data warehouse. This means robust table and schema support and features
+for managing incremental updates and deletes. Lakehouses typically also support
+table history and rollback; this is accomplished by retaining old versions of files and
+metadata.
+A lakehouse system is a metadata and file-management layer deployed with data
+management and transformation tools. Databricks has heavily promoted the lake‐
+house concept with Delta Lake, an open source storage management system.
+We would be remiss not to point out that the architecture of the data lakehouse
+is similar to the architecture used by various commercial data platforms, including
+BigQuery and Snowflake. These systems store data in object storage and provide
+216
+|
+Chapter 6: Storage
+

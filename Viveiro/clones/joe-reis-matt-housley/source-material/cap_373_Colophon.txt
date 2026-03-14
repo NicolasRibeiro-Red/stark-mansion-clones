@@ -1,0 +1,46 @@
+# Colophon
+
+Paginas: 444-445
+
+About the Authors
+Joe Reis is a business-minded data nerd who’s worked in the data industry for 20
+years, with responsibilities ranging from statistical modeling, forecasting, machine
+learning, data engineering, data architecture, and almost everything else in between.
+Joe is the CEO and cofounder of Ternary Data, a data engineering and architecture
+consulting firm based in Salt Lake City, Utah. In addition, he volunteers with several
+technology groups and teaches at the University of Utah. In his spare time, Joe likes
+to rock climb, produce electronic music, and take his kids on crazy adventures.
+Matt Housley is a data engineering consultant and cloud specialist. After some early
+programming experience with Logo, Basic, and 6502 assembly, he completed a PhD
+in mathematics at the University of Utah. Matt then began working in data science,
+eventually specializing in cloud-based data engineering. He cofounded Ternary Data
+with Joe Reis, where he leverages his teaching experience to train future data engi‐
+neers and advise teams on robust data architecture. Matt and Joe also pontificate on
+all things data on The Monday Morning Data Chat.
+Colophon
+The animal on the cover of Fundamentals of Data Engineering is the white-eared
+puffbird (Nystalus chacuru).
+So named for the conspicuous patch of white at their ears, as well as for their fluffy
+plumage, these small, rotund birds are found across a wide swath of central South
+America, where they inhabit forest edges and savanna.
+White-eared puffbirds are sit-and-wait hunters, perching in open spaces for long
+periods and feeding opportunistically on insects, lizards, and even small mammals
+that happen to come near. They are most often found alone or in pairs and are
+relatively quiet birds, vocalizing only rarely.
+The International Union for Conservation of Nature has listed the white-eared
+puffbird as being of least concern, due, in part, to their extensive range and stable
+population. Many of the animals on O’Reilly covers are endangered; all of them are
+important to the world.
+The cover illustration is by Karen Montgomery, based on an antique line engraving
+from Shaw’s General Zoology. The cover fonts are Gilroy Semibold and Guardian
+Sans. The text font is Adobe Minion Pro; the heading font is Adobe Myriad Con‐
+densed; and the code font is Dalton Maag’s Ubuntu Mono.
+
+Learn from experts.
+Become one yourself.
+Books | Live online courses
+Instant Answers | Virtual events
+Videos | Interactive learning
+Get started at oreilly.com.
+©2022 O’Reilly Media, Inc. O’Reilly is a registered trademark of O’Reilly Media, Inc. | 175
+

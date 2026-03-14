@@ -1,0 +1,45 @@
+# Solid-State Drive
+
+Paginas: 218-218
+
+commercial drives spinning at 7,200 revolutions per minute (RPM) seek time, and
+rotational latency, leads to over four milliseconds of overall average latency (time to
+access a selected piece of data). A fourth limitation is input/output operations per
+second (IOPS), critical for transactional databases. A magnetic drive ranges from 50
+to 500 IOPS.
+Various tricks can improve latency and transfer speed. Using a higher rotational
+speed can increase transfer rate and decrease rotational latency. Limiting the radius
+of the disk platter or writing data into only a narrow band on the disk reduces seek
+time. However, none of these techniques makes magnetic drives remotely competitive
+with SSDs for random access lookups. SSDs can deliver data with significantly lower
+latency, higher IOPS, and higher transfer speeds, partially because there is no physi‐
+cally rotating disk or magnetic head to wait for.
+As mentioned earlier, magnetic disks are still prized in data centers for their low data-
+storage costs. In addition, magnetic drives can sustain extraordinarily high transfer
+rates through parallelism. This is the critical idea behind cloud object storage: data
+can be distributed across thousands of disks in clusters. Data-transfer rates go up
+dramatically by reading from numerous disks simultaneously, limited primarily by
+network performance rather than disk transfer rate. Thus, network components and
+CPUs are also key raw ingredients in storage systems, and we will return to these
+topics shortly.
+Solid-State Drive
+Solid-state drives (SSDs) store data as charges in flash memory cells. SSDs eliminate
+the mechanical components of magnetic drives; the data is read by purely electronic
+means. SSDs can look up random data in less than 0.1 ms (100 microseconds). In
+addition, SSDs can scale both data-transfer speeds and IOPS by slicing storage into
+partitions with numerous storage controllers running in parallel. Commercial SSDs
+can support transfer speeds of many gigabytes per second and tens of thousands of
+IOPS.
+Because of these exceptional performance characteristics, SSDs have revolutionized
+transactional databases and are the accepted standard for commercial deployments of
+OLTP systems. SSDs allow relational databases such as PostgreSQL, MySQL, and SQL
+Server to handle thousands of transactions per second.
+However, SSDs are not currently the default option for high-scale analytics data
+storage. Again, this comes down to cost. Commercial SSDs typically cost 20–30 cents
+(USD) per gigabyte of capacity, nearly 10 times the cost per capacity of a magnetic
+drive. Thus, object storage on magnetic disks has emerged as the leading option for
+large-scale data storage in data lakes and cloud data warehouses.
+Raw Ingredients of Data Storage
+|
+193
+

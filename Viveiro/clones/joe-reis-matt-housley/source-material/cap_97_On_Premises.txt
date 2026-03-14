@@ -1,0 +1,44 @@
+# On Premises
+
+Paginas: 148-148
+
+“bear traps.” Go into a new technology with eyes wide open, knowing the project
+might get abandoned, the company may not be viable, or the technology simply isn’t a
+good fit any longer.
+Location
+Companies now have numerous options when deciding where to run their technol‐
+ogy stacks. A slow shift toward the cloud culminates in a veritable stampede of
+companies spinning up workloads on AWS, Azure, and Google Cloud Platform
+(GCP). In the last decade, many CTOs have come to view their decisions around
+technology hosting as having existential significance for their organizations. If they
+move too slowly, they risk being left behind by their more agile competition; on the
+other hand, a poorly planned cloud migration could lead to technological failure and
+catastrophic costs.
+Let’s look at the principal places to run your technology stack: on premises, the cloud,
+hybrid cloud, and multicloud.
+On Premises
+While new startups are increasingly born in the cloud, on-premises systems are
+still the default for established companies. Essentially, these companies own their
+hardware, which may live in data centers they own or in leased colocation space.
+In either case, companies are operationally responsible for their hardware and the
+software that runs on it. If hardware fails, they have to repair or replace it. They also
+have to manage upgrade cycles every few years as new, updated hardware is released
+and older hardware ages and becomes less reliable. They must ensure that they have
+enough hardware to handle peaks; for an online retailer, this means hosting enough
+capacity to handle the load spikes of Black Friday. For data engineers in charge of
+on-premises systems, this means buying large-enough systems to allow good perfor‐
+mance for peak load and large jobs without overbuying and overspending.
+On the one hand, established companies have established operational practices that
+have served them well. Suppose a company that relies on information technology has
+been in business for some time. This means it has managed to juggle the cost and
+personnel requirements of running its hardware, managing software environments,
+deploying code from dev teams, and running databases and big data systems.
+On the other hand, established companies see their younger, more agile competition
+scaling rapidly and taking advantage of cloud-managed services. They also see estab‐
+lished competitors making forays into the cloud, allowing them to temporarily scale
+up enormous computing power for massive data jobs or the Black Friday shopping
+spike.
+Location
+|
+123
+

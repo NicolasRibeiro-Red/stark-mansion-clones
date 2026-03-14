@@ -1,0 +1,48 @@
+# Transformation
+
+Paginas: 68-68
+
+Transformation
+After you’ve ingested and stored data, you need to do something with it. The next
+stage of the data engineering lifecycle is transformation, meaning data needs to be
+changed from its original form into something useful for downstream use cases.
+Without proper transformations, data will sit inert, and not be in a useful form for
+reports, analysis, or ML. Typically, the transformation stage is where data begins to
+create value for downstream user consumption.
+Immediately after ingestion, basic transformations map data into correct types
+(changing ingested string data into numeric and date types, for example), putting
+records into standard formats, and removing bad ones. Later stages of transformation
+may transform the data schema and apply normalization. Downstream, we can apply
+large-scale aggregation for reporting or featurize data for ML processes.
+Key considerations for the transformation phase
+When considering data transformations within the data engineering lifecycle, it helps
+to consider the following:
+• What’s the cost and return on investment (ROI) of the transformation? What is
+•
+the associated business value?
+• Is the transformation as simple and self-isolated as possible?
+•
+• What business rules do the transformations support?
+•
+You can transform data in batch or while streaming in flight. As mentioned in
+“Ingestion” on page 39, virtually all data starts life as a continuous stream; batch
+is just a specialized way of processing a data stream. Batch transformations are over‐
+whelmingly popular, but given the growing popularity of stream-processing solutions
+and the general increase in the amount of streaming data, we expect the popularity
+of streaming transformations to continue growing, perhaps entirely replacing batch
+processing in certain domains soon.
+Logically, we treat transformation as a standalone area of the data engineering life‐
+cycle, but the realities of the lifecycle can be much more complicated in practice.
+Transformation is often entangled in other phases of the lifecycle. Typically, data is
+transformed in source systems or in flight during ingestion. For example, a source
+system may add an event timestamp to a record before forwarding it to an ingestion
+process. Or a record within a streaming pipeline may be “enriched” with additional
+fields and calculations before it’s sent to a data warehouse. Transformations are
+ubiquitous in various parts of the lifecycle. Data preparation, data wrangling, and
+cleaning—these transformative tasks add value for end consumers of data.
+Business logic is a major driver of data transformation, often in data modeling. Data
+translates business logic into reusable elements (e.g., a sale means “somebody bought
+What Is the Data Engineering Lifecycle?
+|
+43
+

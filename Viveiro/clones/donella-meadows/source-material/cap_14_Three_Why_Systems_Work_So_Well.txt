@@ -1,0 +1,370 @@
+# Three: Why Systems Work So Well
+
+Paginas: 81-90
+
+
+— THREE —
+Why Systems Work So Well
+If the land mechanism as a whole is good, then every part is good,
+whether we understand it or not. If the biota, in the course of aeons,
+has built something we like but do not understand, then who but a
+fool would discard seemingly useless parts? To keep every cog and
+wheel is the first precaution of intelligent tinkering.
+—Aldo Leopold,1 forester
+Chapter Two introduced simple systems that create their own behavior based on
+their structures. Some are quite elegant—surviving the buffeting of the world—
+and, within limits, regaining their composure and proceeding on about their
+business of maintaining a room’s temperature, depleting an oil field, or bringing
+into balance the size of a fishing fleet with the productivity of a fishery resource.
+If pushed too far, systems may well fall apart or exhibit heretofore unobserved
+behavior. But, by and large, they manage quite well. And that is the beauty of
+systems: They can work so well. When systems work well, we see a kind of
+harmony in their functioning. Think of a community kicking in to high gear to
+respond to a storm. People work long hours to help victims, talents and skills
+emerge; once the emergency is over, life goes back to “normal.”
+Why do systems work so well? Consider the properties of highly functional
+systems—machines or human communities or ecosystems—which are familiar
+to you. Chances are good that you may have observed one of three
+characteristics: resilience, self-organization, or hierarchy.
+Resilience
+Placing a system in a straitjacket of constancy can cause fragility to
+evolve.
+—C. S. Holling,2 ecologist
+
+Resilience has many definitions, depending on the branch of engineering,
+ecology, or system science doing the defining. For our purposes, the normal
+dictionary meaning will do: “the ability to bounce or spring back into shape,
+position, etc., after being pressed or stretched. Elasticity. The ability to recover
+strength, spirits, good humor, or any other aspect quickly.” Resilience is a
+measure of a system’s ability to survive and persist within a variable
+environment. The opposite of resilience is brittleness or rigidity.
+Resilience arises from a rich structure of many feedback loops that can work
+in different ways to restore a system even after a large perturbation. A single
+balancing loop brings a system stock back to its desired state. Resilience is
+provided by several such loops, operating through different mechanisms, at
+different time scales, and with redundancy—one kicking in if another one fails.
+A set of feedback loops that can restore or rebuild feedback loops is resilience
+at a still higher level—meta-resilience, if you will. Even higher meta-meta-
+resilience comes from feedback loops that can learn, create, design, and evolve
+ever more complex restorative structures. Systems that can do this are self-
+organizing, which will be the next surprising system characteristic I come to.
+The human body is an astonishing example of a resilient system. It can fend
+off thousands of different kinds of invaders, it can tolerate wide ranges of
+temperature and wide variations in food supply, it can reallocate blood supply,
+repair rips, gear up or slow down metabolism, and compensate to some extent
+for missing or defective parts. Add to it a self-organizing intelligence that can
+learn, socialize, design technologies, and even transplant body parts, and you
+have a formidably resilient system—although not infinitely so, because, so far at
+least, no human body-plus-intelligence has been resilient enough to keep itself
+or any other body from eventually dying.
+There are always limits to resilience.
+Ecosystems are also remarkably resilient, with multiple species holding each
+other in check, moving around in space, multiplying or declining over time in
+response to weather and the availability of nutrients and the impacts of human
+activities. Populations and ecosystems also have the ability to “learn” and
+evolve through their incredibly rich genetic variability. They can, given enough
+time, come up with whole new systems to take advantage of changing
+opportunities for life support.
+Resilience is not the same thing as being static or constant over time. Resilient
+systems can be very dynamic. Short-term oscillations, or periodic outbreaks, or
+long cycles of succession, climax, and collapse may in fact be the normal
+condition, which resilience acts to restore!
+
+And, conversely, systems that are constant over time can be unresilient. This
+distinction between static stability and resilience is important. Static stability is
+something you can see; it’s measured by variation in the condition of a system
+week by week or year by year. Resilience is something that may be very hard to
+see, unless you exceed its limits, overwhelm and damage the balancing loops,
+and the system structure breaks down. Because resilience may not be obvious
+without a whole-system view, people often sacrifice resilience for stability, or
+for productivity, or for some other more immediately recognizable system
+property.
+Injections of genetically engineered bovine growth hormone
+increase the milk production of a cow without proportionately
+increasing the cow’s food intake. The hormone diverts some of
+the cow’s metabolic energy from other bodily functions to milk
+production. (Cattle breeding over centuries has done much the
+same thing but not to the same degree.) The cost of increased
+production is lowered resilience. The cow is less healthy, less
+long-lived, more dependent on human management.
+Just-in-time deliveries of products to retailers or parts to
+manufacturers have reduced inventory instabilities and brought
+down costs in many industries. The just-in-time model also has
+made the production system more vulnerable, however, to
+perturbations in fuel supply, traffic flow, computer breakdown,
+labor availability, and other possible glitches.
+Hundreds of years of intensive management of the forests of
+Europe gradually have replaced native ecosystems with single-
+age, single-species plantations, often of nonnative trees. These
+forests are designed to yield wood and pulp at a high rate
+indefinitely. However, without multiple species interacting with
+each other and drawing and returning varying combinations of
+nutrients from the soil, these forests have lost their resilience.
+They seem to be especially vulnerable to a new form of insult:
+industrial air pollution.
+Many chronic diseases, such as cancer and heart disease, come from
+breakdown of resilience mechanisms that repair DNA, keep blood vessels
+flexible, or control cell division. Ecological disasters in many places come from
+loss of resilience, as species are removed from ecosystems, soil chemistry and
+biology are disturbed, or toxins build up. Large organizations of all kinds, from
+corporations to governments, lose their resilience simply because the feedback
+mechanisms by which they sense and respond to their environment have to
+
+travel through too many layers of delay and distortion. (More on that in a
+minute, when we come to hierarchies.)
+I think of resilience as a plateau upon which the system can play, performing
+its normal functions in safety. A resilient system has a big plateau, a lot of space
+over which it can wander, with gentle, elastic walls that will bounce it back, if it
+comes near a dangerous edge. As a system loses its resilience, its plateau
+shrinks, and its protective walls become lower and more rigid, until the system
+is operating on a knife-edge, likely to fall off in one direction or another
+whenever it makes a move. Loss of resilience can come as a surprise, because
+the system usually is paying much more attention to its play than to its playing
+space. One day it does something it has done a hundred times before and
+crashes.
+Systems need to be managed not only
+for productivity or stability, they also
+need to be managed for resilience—the
+ability to recover from perturbation, the
+ability to restore or repair themselves.
+Awareness of resilience enables one to see many ways to preserve or enhance
+a system’s own restorative powers. That awareness is behind the encouragement
+of natural ecosystems on farms, so that predators can take on more of the job of
+controlling pests. It is behind “holistic” health care that tries not only to cure
+disease but also to build up a body’s internal resistance. It is behind aid
+programs that do more than give food or money—that try to change the
+circumstances that obstruct peoples’ ability to provide their own food or money.
+Self-Organization
+[Evolution] appears to be not a series of accidents the course of
+which is determined only by the change of environments during
+earth history and the resulting struggle for existence, … but is
+governed by definite laws.… The discovery of these laws constitutes
+one of the most important tasks of the future.
+—Ludwig von Bertalanffy,3 biologist
+The most marvelous characteristic of some complex systems is their ability to
+learn, diversify, complexify, evolve. It is the ability of a single fertilized ovum to
+generate, out of itself, the incredible complexity of a mature frog, or chicken, or
+person. It is the ability of nature to have diversified millions of fantastic species
+out of a puddle of organic chemicals. It is the ability of a society to take the
+
+ideas of burning coal, making steam, pumping water, and specializing labor, and
+develop them eventually into an automobile assembly plant, a city of
+skyscrapers, a worldwide network of communications.
+This capacity of a system to make its own structure more complex is called
+self-organization. You see self-organization in a small, mechanistic way
+whenever you see a snowflake, or ice feathers on a poorly insulated window, or
+a supersaturated solution suddenly forming a garden of crystals. You see self-
+organization in a more profound way whenever a seed sprouts, or a baby learns
+to speak, or a neighborhood decides to come together to oppose a toxic waste
+dump.
+Self-organization is such a common property, particularly of living systems,
+that we take it for granted. If we didn’t, we would be dazzled by the unfolding
+systems of our world. And if we weren’t nearly blind to the property of self-
+organization, we would do better at encouraging, rather than destroying, the
+self-organizing capacities of the systems of which we are a part.
+Like resilience, self-organization is often sacrificed for purposes of short-term
+productivity and stability. Productivity and stability are the usual excuses for
+turning creative human beings into mechanical adjuncts to production processes.
+Or for narrowing the genetic variability of crop plants. Or for establishing
+bureaucracies and theories of knowledge that treat people as if they were only
+numbers.
+Self-organization produces heterogeneity and unpredictability. It is likely to
+come up with whole new structures, whole new ways of doing things. It requires
+freedom and experimentation, and a certain amount of disorder. These
+conditions that encourage self-organization often can be scary for individuals
+and threatening to power structures. As a consequence, education systems may
+restrict the creative powers of children instead of stimulating those powers.
+Economic policies may lean toward supporting established, powerful enterprises
+rather than upstart, new ones. And many governments prefer their people not to
+be too self-organizing.
+Fortunately, self-organization is such a basic property of living systems that
+even the most overbearing power structure can never fully kill it, although in the
+name of law and order, self-organization can be suppressed for long, barren,
+cruel, boring periods.
+Systems theorists used to think that self-organization was such a complex
+property of systems that it could never be understood. Computers were used to
+model mechanistic, “deterministic” systems, not evolutionary ones, because it
+was suspected, without much thought, that evolutionary systems were simply
+not understandable.
+New discoveries, however, suggest that just a few simple organizing
+principles can lead to wildly diverse self-organizing structures. Imagine a
+
+triangle with three equal sides. Add to the middle of each side another
+equilateral triangle, one-third the size of the first one. Add to each of the new
+sides another triangle, one-third smaller. And so on. The result is called a Koch
+snowflake. (See Figure 46.) Its edge has tremendous length—but it can be
+contained within a circle. This structure is one simple example of fractal
+geometry—a realm of mathematics and art populated by elaborate shapes
+formed by relatively simple rules.
+Figure 46. Even a delicate and intricate pattern, such as the Koch snowflake shown
+here, can evolve from a simple set of organizing principles or decision rules.
+Similarly, the delicate, beautiful, intricate structure of a stylized fern can be
+generated by a computer with just a few simple fractal rules. The differentiation
+of a single cell into a human being probably proceeds by some similar set of
+geometric rules, basically simple, but generating utter complexity. (It is because
+of fractal geometry that the average human lung has enough surface area to
+cover a tennis court.)
+Here are some other examples of simple organizing rules that have led to self-
+organizing systems of great complexity:
+All of life, from viruses to redwood trees, from amoebas to
+elephants, is based on the basic organizing rules encapsulated in
+the chemistry of DNA, RNA, and protein molecules.
+The agricultural revolution and all that followed started with the
+simple, shocking ideas that people could stay settled in one
+place, own land, select and cultivate crops.
+“God created the universe with the earth at its center, the land
+with the castle at its center, and humanity with the Church at its
+center”—the organizing principle for the elaborate social and
+physical structures of Europe in the Middle Ages.
+“God and morality are outmoded ideas; people should be
+objective and scientific, should own and multiply the means of
+production, and should treat people and nature as instrumental
+inputs to production”—the organizing principles of the
+Industrial Revolution.
+
+Out of simple rules of self-organization can grow enormous, diversifying
+crystals of technology, physical structures, organizations, and cultures.
+Systems often have the property of self-
+organization—the ability to structure
+themselves, to create new structure, to
+learn, diversify, and complexify. Even
+complex forms of self-organization may
+arise from relatively simple organizing rules
+—or may not.
+Science knows now that self-organizing systems can arise from simple rules.
+Science, itself a self-organizing system, likes to think that all the complexity of
+the world must arise, ultimately, from simple rules. Whether that actually
+happens is something that science does not yet know.
+Hierarchy
+So, naturalists observe, a flea
+Has smaller Fleas that on him prey;
+And these have smaller still to bite ‘em,
+And so proceed ad infinitum.
+—Jonathan Swift,4 18th century poet
+In the process of creating new structures and increasing complexity, one thing
+that a self-organizing system often generates is hierarchy.
+The world, or at least the parts of it humans think they understand, is
+organized in subsystems aggregated into larger subsystems, aggregated into still
+larger subsystems. A cell in your liver is a subsystem of an organ, which is a
+subsystem of you as an organism, and you are a subsystem of a family, an
+athletic team, a musical group, and so forth. These groups are subsystems of a
+town or city, and then a nation, and then the whole global socioeconomic system
+that dwells within the biosphere system. This arrangement of systems and
+subsystems is called a hierarchy.
+Corporate systems, military systems, ecological systems, economic systems,
+living organisms, are arranged in hierarchies. It is no accident that that is so. If
+subsystems can largely take care of themselves, regulate themselves, maintain
+themselves, and yet serve the needs of the larger system, while the larger system
+coordinates and enhances the functioning of the subsystems, a stable, resilient,
+and efficient structure results. It is hard to imagine how any other kind of
+arrangement could have come to be.
+
+INTERLUDE • Why the Universe Is Organized into Hierarchies—a
+Fable
+There once were two watchmakers, named Hora and Tempus. Both of them
+made fine watches, and they both had many customers. People dropped into
+their stores, and their phones rang constantly with new orders. Over the years,
+however, Hora prospered, while Tempus became poorer and poorer. That’s
+because Hora discovered the principle of hierarchy.…
+The watches made by both Hora and Tempus consisted of about one thousand
+parts each. Tempus put his together in such a way that if he had one partly
+assembled and had to put it down—to answer the phone, say—it fell to pieces.
+When he came back to it, Tempus would have to start all over again. The more
+his customers phoned him, the harder it became for him to find enough
+uninterrupted time to finish a watch.
+Hora’s watches were no less complex than those of Tempus, but he put
+together stable subassemblies of about ten elements each. Then he put ten of
+these subassemblies together into a larger assembly; and ten of those assemblies
+constituted the whole watch. Whenever Hora had to put down a partly
+completed watch to answer the phone, he lost only a small part of his work. So
+he made his watches much faster and more efficiently than did Tempus.
+Complex systems can evolve from simple systems only if there are stable
+intermediate forms. The resulting complex forms will naturally be hierarchic.
+That may explain why hierarchies are so common in the systems nature presents
+to us. Among all possible complex forms, hierarchies are the only ones that have
+had the time to evolve.5
+Hierarchies are brilliant systems inventions, not only because they give a
+system stability and resilience, but also because they reduce the amount of
+information that any part of the system has to keep track of.
+In hierarchical systems relationships within each subsystem are denser and
+stronger than relationships between subsystems. Everything is still connected to
+everything else, but not equally strongly. People in the same university
+department talk to each other more than they talk to people in other departments.
+The cells that constitute the liver are in closer communication with each other
+than they are with the cells of the heart. If these differential information links
+within and between each level of the hierarchy are designed right, feedback
+delays are minimized. No level is overwhelmed with information. The system
+works with efficiency and resilience.
+Hierarchical systems are partially decomposable. They can be taken apart and
+the subsystems with their especially dense information links can function, at
+
+least partially, as systems in their own right. When hierarchies break down, they
+usually split along their subsystem boundaries. Much can be learned by taking
+apart systems at different hierarchical levels—cells or organs, for example—and
+studying them separately. Hence, systems thinkers would say, the reductionist
+dissection of regular science teaches us a lot. However, one should not lose sight
+of the important relationships that bind each subsystem to the others and to the
+higher levels of the hierarchy, or one will be in for surprises.
+If you have a liver disease, for example, a doctor usually can treat it without
+paying much attention to your heart or your tonsils (to stay on the same
+hierarchical level) or your personality (to move up a level or two) or the DNA in
+the nuclei of the liver cells (to move down several levels). There are just enough
+exceptions to that rule, however, to reinforce the necessity of stepping back to
+consider the whole hierarchy. Maybe your job exposes you to a chemical that is
+damaging your liver. Maybe the disease originates in a malfunction of the DNA.
+What you need to think about may change over time, as self-organizing
+systems evolve new degrees of hierarchy and integration. The energy systems of
+nations were once almost completely decomposable one from another. That is
+no longer true. People whose thinking has not evolved as fast as the energy
+economy has may be shocked to discover how dependent they have become on
+resources and decisions halfway around the world.
+You can watch self-organizing systems form hierarchies. A self-employed
+person gets too much work and hires some helpers. A small, informal nonprofit
+organization attracts many members and a bigger budget and one day the
+members decide, “Hey, we need someone to organize all this.” A cluster of
+dividing cells differentiates into special functions and generates a branching
+circulatory system to feed all cells, and a branching nervous system to
+coordinate them.
+Hierarchies evolve from the lowest level up—from the pieces to the whole,
+from cell to organ to organism, from individual to team, from actual production
+to management of production. Early farmers decided to come together and form
+cities for self-protection and for making trade more efficient. Life started with
+single-cell bacteria, not with elephants. The original purpose of a hierarchy is
+always to help its originating subsystems do their jobs better. This is something,
+unfortunately, that both the higher and the lower levels of a greatly articulated
+hierarchy easily can forget. Therefore, many systems are not meeting our goals
+because of malfunctioning hierarchies.
+If a team member is more interested in personal glory than in the team
+winning, he or she can cause the team to lose. If a body cell breaks free from its
+hierarchical function and starts multiplying wildly, we call it a cancer. If
+students think their purpose is to maximize personal grades instead of seeking
+knowledge, cheating and other counterproductive behaviors break out. If a
+
+single corporation bribes the government to favor that corporation, the
+advantages of the competitive market and the good of the whole society are
+eroded.
+When a subsystem’s goals dominate at the expense of the total system’s goals,
+the resulting behavior is called suboptimization.
+Just as damaging as suboptimization, of course, is the problem of too much
+central control. If the brain controlled each cell so tightly that the cell could not
+perform its self-maintenance functions, the whole organism could die. If central
+rules and regulations prevent students or faculty from exploring fields of
+knowledge freely, the purpose of the university is not served. The coach of a
+team might interfere with the on-the-spot perceptions of a good player, to the
+detriment of the team. Economic examples of overcontrol from the top, from
+companies to nations, are the causes of some of the great catastrophes of history,
+all of which are by no means behind us.
+To be a highly functional system, hierarchy must balance the welfare,
+freedoms, and responsibilities of the subsystems and total system—there must
+be enough central control to achieve coordination toward the large-system goal,
+and enough autonomy to keep all subsystems flourishing, functioning, and self-
+organizing.
+Hierarchical systems evolve from the
+bottom up. The purpose of the upper
+layers of the hierarchy is to serve the
+purposes of the lower layers.
+Resilience, self-organization, and hierarchy are three of the reasons dynamic
+systems can work so well. Promoting or managing for these properties of a
+system can improve its ability to function well over the long term—to be
+sustainable. But watching how systems behave also can be full of surprises.
+

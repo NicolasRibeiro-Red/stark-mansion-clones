@@ -1,0 +1,45 @@
+# Containers
+
+Paginas: 169-169
+
+As with other areas of ops, it’s critical to monitor and model. Monitor to determine
+cost per event in a real-world environment and maximum length of serverless execu‐
+tion, and model using this cost per event to determine overall costs as event rates
+grow. Modeling should also include worst-case scenarios—what happens if my site
+gets hit by a bot swarm or DDoS attack?
+Containers
+In conjunction with serverless and microservices, containers are one of the most
+powerful trending operational technologies as of this writing. Containers play a role
+in both serverless and microservices.
+Containers are often referred to as lightweight virtual machines. Whereas a traditional
+VM wraps up an entire operating system, a container packages an isolated user
+space (such as a filesystem and a few processes); many such containers can coexist
+on a single host operating system. This provides some of the principal benefits of
+virtualization (i.e., dependency and code isolation) without the overhead of carrying
+around an entire operating system kernel.
+A single hardware node can host numerous containers with fine-grained resource
+allocations. At the time of this writing, containers continue to grow in popularity,
+along with Kubernetes, a container management system. Serverless environments
+typically run on containers behind the scenes. Indeed, Kubernetes is a kind of server‐
+less environment because it allows developers and ops teams to deploy microservices
+without worrying about the details of the machines where they are deployed.
+Containers provide a partial solution to problems of the distributed monolith men‐
+tioned earlier in this chapter. For example, Hadoop now supports containers, allow‐
+ing each job to have its own isolated dependencies.
+Container clusters do not provide the same security and isola‐
+tion that full VMs offer. Container escape—broadly, a class of
+exploits whereby code in a container gains privileges outside the
+container at the OS level—is common enough to be considered a
+risk for multitenancy. While Amazon EC2 is a truly multitenant
+environment with VMs from many customers hosted on the same
+hardware, a Kubernetes cluster should host code only within an
+environment of mutual trust (e.g., inside the walls of a single
+company). In addition, code review processes and vulnerability
+scanning are critical to ensure that a developer doesn’t introduce a
+security hole.
+Various flavors of container platforms add additional serverless features. Container‐
+ized function platforms run containers as ephemeral units triggered by events rather
+144
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+

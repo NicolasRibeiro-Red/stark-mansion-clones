@@ -1,0 +1,87 @@
+# The Cloud-Scale Data OS and Improved Interoperability
+
+Paginas: 406-407
+
+event-driven applications in minutes, using mainstream languages such as Python,
+Java, and Go running atop Linux behind the scenes. Engineers wishing to use Apache
+Airflow can adopt Google’s Cloud Composer or AWS’s managed Airflow service.
+Managed Kubernetes allows us to build highly scalable microservice architectures.
+And so on.
+This fundamentally changes the conversation around open source code. In many
+cases, managed open source is just as easy to use as its proprietary service com‐
+petitors. Companies with highly specialized needs can also deploy managed open
+source, then move to self-managed open source later if they need to customize the
+underlying code.
+Another significant trend is the growth in popularity of off-the-shelf data connectors
+(at the time of this writing, popular ones include Fivetran and Airbyte). Data engi‐
+neers have traditionally spent a lot of time and resources building and maintaining
+plumbing to connect to external data sources. The new generation of managed
+connectors is highly compelling, even for highly technical engineers, as they begin to
+recognize the value of recapturing time and mental bandwidth for other projects. API
+connectors will be an outsourced problem so that data engineers can focus on the
+unique issues that drive their businesses.
+The intersection of red-hot competition in the data-tooling space with a growing
+number of data engineers means data tools will continue decreasing in complexity
+while adding even more functionality and features. This simplification will only grow
+the practice of data engineering, as more and more companies find opportunities to
+discover value in data.
+The Cloud-Scale Data OS and Improved Interoperability
+Let’s briefly review some of the inner workings of (single-device) operating systems,
+then tie this back to data and the cloud. Whether you’re utilizing a smartphone,
+a laptop, an application server, or a smart thermostat, these devices rely on an
+operating system to provide essential services and orchestrate tasks and processes.
+For example, I can see roughly 300 processes running on the MacBook Pro that I’m
+typing on. Among other things, I see services such as WindowServer (responsible for
+providing windows in a graphical interface) and CoreAudio (tasked with providing
+low-level audio capabilities).
+When I run an application on this machine, it doesn’t directly access sound and
+graphics hardware. Instead, it sends commands to operating system services to
+draw windows and play sound. These commands are issued to standard APIs; a
+specification tells software developers how to communicate with operating system
+services. The operating system orchestrates a boot process to provide these services,
+starting each service in the correct order based on dependencies among them; it also
+The Cloud-Scale Data OS and Improved Interoperability
+|
+381
+
+1 Benn Stancil, “The Data OS,” benn.substack, September 3, 2021, https://oreil.ly/HetE9.
+maintains services by monitoring them and restarting them in the correct order in
+case of a failure.
+Now let’s return to data in the cloud. The simplified data services that we’ve men‐
+tioned throughout this book (e.g., Google Cloud BigQuery, Azure Blob Storage,
+Snowflake, and AWS Lambda) resemble operating system services, but at a much
+larger scale, running across many machines rather than a single server.
+Now that these simplified services are available, the next frontier of evolution for this
+notion of a cloud data operating system will happen at a higher level of abstraction.
+Benn Stancil called for the emergence of standardized data APIs for building data
+pipelines and data applications.1 We predict that data engineering will gradually
+coalesce around a handful of data interoperability standards. Object storage in the
+cloud will grow in importance as a batch interface layer between various data services.
+New generation file formats (such as Parquet and Avro) are already taking over
+for the purposes of cloud data interchange, significantly improving on the dreadful
+interoperability of CSV and the poor performance of raw JSON.
+Another critical ingredient of a data API ecosystem is a metadata catalog that
+describes schemas and data hierarchies. Currently, this role is largely filled by the
+legacy Hive Metastore. We expect that new entrants will emerge to take its place.
+Metadata will play a crucial role in data interoperability, both across applications and
+systems and across clouds and networks, driving automation and simplification.
+We will also see significant improvements in the scaffolding that manages cloud
+data services. Apache Airflow has emerged as the first truly cloud-oriented data
+orchestration platform, but we are on the cusp of significant enhancement. Airflow
+will grow in capabilities, building on its massive mindshare. New entrants such as
+Dagster and Prefect will compete by rebuilding orchestration architecture from the
+ground up.
+This next generation of data orchestration platforms will feature enhanced data inte‐
+gration and data awareness. Orchestration platforms will integrate with data catalog‐
+ing and lineage, becoming significantly more data-aware in the process. In addition,
+orchestration platforms will build IaC capabilities (similar to Terraform) and code
+deployment features (like GitHub Actions and Jenkins). This will allow engineers to
+code a pipeline and then pass it to the orchestration platform to automatically build,
+test, deploy, and monitor. Engineers will be able to write infrastructure specifications
+directly into their pipelines; missing infrastructure and services (e.g., Snowflake data‐
+bases, Databricks clusters, and Amazon Kinesis streams) will be deployed the first
+time the pipeline runs.
+382
+|
+Chapter 11: The Future of Data Engineering
+

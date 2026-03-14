@@ -1,0 +1,54 @@
+{
+  "titulo": "Primeiro Milhão - Raiam Santos.pdf",
+  "autor": "",
+  "total_paginas": 165,
+  "chunks_criados": 9,
+  "toc": [],
+  "arquivos": [
+    {
+      "arquivo": "chunk_01_pags_1-20.txt",
+      "paginas": "1-20",
+      "tamanho_chars": 19189
+    },
+    {
+      "arquivo": "chunk_02_pags_21-40.txt",
+      "paginas": "21-40",
+      "tamanho_chars": 21194
+    },
+    {
+      "arquivo": "chunk_03_pags_41-60.txt",
+      "paginas": "41-60",
+      "tamanho_chars": 21698
+    },
+    {
+      "arquivo": "chunk_04_pags_61-80.txt",
+      "paginas": "61-80",
+      "tamanho_chars": 22213
+    },
+    {
+      "arquivo": "chunk_05_pags_81-100.txt",
+      "paginas": "81-100",
+      "tamanho_chars": 22440
+    },
+    {
+      "arquivo": "chunk_06_pags_101-120.txt",
+      "paginas": "101-120",
+      "tamanho_chars": 21193
+    },
+    {
+      "arquivo": "chunk_07_pags_121-140.txt",
+      "paginas": "121-140",
+      "tamanho_chars": 20727
+    },
+    {
+      "arquivo": "chunk_08_pags_141-160.txt",
+      "paginas": "141-160",
+      "tamanho_chars": 23273
+    },
+    {
+      "arquivo": "chunk_09_pags_161-165.txt",
+      "paginas": "161-165",
+      "tamanho_chars": 3595
+    }
+  ]
+}

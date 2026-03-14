@@ -1,0 +1,326 @@
+# Databases
+
+Paginas: 191-198
+
+Databases
+In this section, we’ll look at common source system database technologies that you’ll
+encounter as a data engineer and high-level considerations for working with these
+systems. There are as many types of databases as there are use cases for data.
+Major considerations for understanding database technologies
+Here, we introduce major ideas that occur across a variety of database technologies,
+including those that back software applications and those that support analytics use
+cases:
+Database management system
+A database system used to store and serve data. Abbreviated as DBMS, it consists
+of a storage engine, query optimizer, disaster recovery, and other key compo‐
+nents for managing the database system.
+Lookups
+How does the database find and retrieve data? Indexes can help speed up
+lookups, but not all databases have indexes. Know whether your database uses
+indexes; if so, what are the best patterns for designing and maintaining them?
+Understand how to leverage for efficient extraction. It also helps to have a basic
+knowledge of the major types of indexes, including B-tree and log-structured
+merge-trees (LSM).
+Query optimizer
+Does the database utilize an optimizer? What are its characteristics?
+Scaling and distribution
+Does the database scale with demand? What scaling strategy does it deploy? Does
+it scale horizontally (more database nodes) or vertically (more resources on a
+single machine)?
+Modeling patterns
+What modeling patterns work best with the database (e.g., data normalization or
+wide tables)? (See Chapter 8 for our discussion of data modeling.)
+CRUD
+How is data queried, created, updated, and deleted in the database? Every type of
+database handles CRUD operations differently.
+Consistency
+Is the database fully consistent, or does it support a relaxed consistency model
+(e.g., eventual consistency)? Does the database support optional consistency
+modes for reads and writes (e.g., strongly consistent reads)?
+166
+|
+Chapter 5: Data Generation in Source Systems
+
+We divide databases into relational and nonrelational categories. In truth, the nonre‐
+lational category is far more diverse, but relational databases still occupy significant
+space in application backends.
+Relational databases
+A relational database management system (RDBMS) is one of the most common
+application backends. Relational databases were developed at IBM in the 1970s and
+popularized by Oracle in the 1980s. The growth of the internet saw the rise of the
+LAMP stack (Linux, Apache web server, MySQL, PHP) and an explosion of vendor
+and open source RDBMS options. Even with the rise of NoSQL databases (described
+in the following section), relational databases have remained extremely popular.
+Data is stored in a table of relations (rows), and each relation contains multiple fields
+(columns); see Figure 5-7. Note that we use the terms column and field interchangea‐
+bly throughout this book. Each relation in the table has the same schema (a sequence
+of columns with assigned static types such as string, integer, or float). Rows are
+typically stored as a contiguous sequence of bytes on disk.
+Figure 5-7. RDBMS stores and retrieves data at a row level
+Tables are typically indexed by a primary key, a unique field for each row in the table.
+The indexing strategy for the primary key is closely connected with the layout of the
+table on disk.
+Tables can also have various foreign keys—fields with values connected with the
+values of primary keys in other tables, facilitating joins, and allowing for complex
+schemas that spread data across multiple tables. In particular, it is possible to design
+a normalized schema. Normalization is a strategy for ensuring that data in records is
+not duplicated in multiple places, thus avoiding the need to update states in multiple
+locations at once and preventing inconsistencies (see Chapter 8).
+RDBMS systems are typically ACID compliant. Combining a normalized schema,
+ACID compliance, and support for high transaction rates makes relational database
+systems ideal for storing rapidly changing application states. The challenge for data
+engineers is to determine how to capture state information over time.
+Source System Practical Details
+|
+167
+
+1 Keith D. Foote, “A Brief History of Non-Relational Databases,” Dataversity, June 19, 2018,
+https://oreil.ly/5Ukg2.
+A full discussion of the theory, history, and technology of RDBMS is beyond the
+scope of this book. We encourage you to study RDBMS systems, relational algebra,
+and strategies for normalization because they’re widespread, and you’ll encounter
+them frequently. See “Additional Resources” on page 188 for suggested books.
+Nonrelational databases: NoSQL
+While relational databases are terrific for many use cases, they’re not a one-size-fits-
+all solution. We often see that people start with a relational database under the
+impression it’s a universal appliance and shoehorn in a ton of use cases and work‐
+loads. As data and query requirements morph, the relational database collapses under
+its weight. At that point, you’ll want to use a database that’s appropriate for the
+specific workload under pressure. Enter nonrelational or NoSQL databases. NoSQL,
+which stands for not only SQL, refers to a whole class of databases that abandon the
+relational paradigm.
+On the one hand, dropping relational constraints can improve performance, scala‐
+bility, and schema flexibility. But as always in architecture, trade-offs exist. NoSQL
+databases also typically abandon various RDBMS characteristics, such as strong con‐
+sistency, joins, or a fixed schema.
+A big theme of this book is that data innovation is constant. Let’s take a quick look at
+the history of NoSQL, as it’s helpful to gain a perspective on why and how data inno‐
+vations impact your work as a data engineer. In the early 2000s, tech companies such
+as Google and Amazon began to outgrow their relational databases and pioneered
+new distributed, nonrelational databases to scale their web platforms.
+While the term NoSQL first appeared in 1998, the modern version was coined by Eric
+Evans in the 2000s.1 He tells the story in a 2009 blog post:
+I’ve spent the last couple of days at nosqleast and one of the hot topics here is the
+name “nosql.” Understandably, there are a lot of people who worry that the name is
+Bad, that it sends an inappropriate or inaccurate message. While I make no claims to
+the idea, I do have to accept some blame for what it is now being called. How’s that?
+Johan Oskarsson was organizing the first meetup and asked the question “What’s a
+good name?” on IRC; it was one of three or four suggestions that I spouted off in the
+span of like 45 seconds, without thinking.
+My regret, however, isn’t about what the name says; it’s about what it doesn’t. When
+Johan originally had the idea for the first meetup, he seemed to be thinking Big Data
+and linearly scalable distributed systems, but the name is so vague that it opened the
+door to talk submissions for literally anything that stored data, and wasn’t an RDBMS.
+168
+|
+Chapter 5: Data Generation in Source Systems
+
+NoSQL remains vague in 2022, but it’s been widely adopted to describe a universe of
+“new school” databases, alternatives to relational databases.
+There are numerous flavors of NoSQL database designed for almost any imaginable
+use case. Because there are far too many NoSQL databases to cover exhaustively
+in this section, we consider the following database types: key-value, document,
+wide-column, graph, search, and time series. These databases are all wildly popular
+and enjoy widespread adoption. A data engineer should understand these types of
+databases, including usage considerations, the structure of the data they store, and
+how to leverage each in the data engineering lifecycle.
+Key-value stores. A key-value database is a nonrelational database that retrieves
+records using a key that uniquely identifies each record. This is similar to hash
+map or dictionary data structures presented in many programming languages but
+potentially more scalable. Key-value stores encompass several NoSQL database types
+—for example, document stores and wide column databases (discussed next).
+Different types of key-value databases offer a variety of performance characteristics
+to serve various application needs. For example, in-memory key-value databases are
+popular for caching session data for web and mobile applications, where ultra-fast
+lookup and high concurrency are required. Storage in these systems is typically
+temporary; if the database shuts down, the data disappears. Such caches can reduce
+pressure on the main application database and serve speedy responses.
+Of course, key-value stores can also serve applications requiring high-durability per‐
+sistence. An ecommerce application may need to save and update massive amounts
+of event state changes for a user and their orders. A user logs into the ecommerce
+application, clicks around various screens, adds items to a shopping cart, and then
+checks out. Each event must be durably stored for retrieval. Key-value stores often
+persist data to disk and across multiple nodes to support such use cases.
+Document stores. As mentioned previously, a document store is a specialized key-value
+store. In this context, a document is a nested object; we can usually think of each
+document as a JSON object for practical purposes. Documents are stored in collec‐
+tions and retrieved by key. A collection is roughly equivalent to a table in a relational
+database (see Table 5-2).
+Table 5-2. Comparison of RDBMS and document terminology
+RDBMS Document database
+Table
+Collection
+Row
+Document, items, entity
+Source System Practical Details
+|
+169
+
+One key difference between relational databases and document stores is that the
+latter does not support joins. This means that data cannot be easily normalized, i.e.,
+split across multiple tables. (Applications can still join manually. Code can look up a
+document, extract a property, and then retrieve another document.) Ideally, all related
+data can be stored in the same document.
+In many cases, the same data must be stored in multiple documents spread across
+numerous collections; software engineers must be careful to update a property
+everywhere it is stored. (Many document stores support a notion of transactions
+to facilitate this.)
+Document databases generally embrace all the flexibility of JSON and don’t enforce
+schema or types; this is a blessing and a curse. On the one hand, this allows the
+schema to be highly flexible and expressive. The schema can also evolve as an
+application grows. On the flip side, we’ve seen document databases become absolute
+nightmares to manage and query. If developers are not careful in managing schema
+evolution, data may become inconsistent and bloated over time. Schema evolution
+can also break downstream ingestion and cause headaches for data engineers if it’s
+not communicated in a timely fashion (before deployment).
+The following is an example of data that is stored in a collection called users. The
+collection key is the id. We also have a name (along with first and last as child
+elements) and an array of the user’s favorite bands within each document:
+{
+"users":[
+{
+"id":1234,
+"name":{
+"first":"Joe",
+"last":"Reis"
+},
+"favorite_bands":[
+"AC/DC",
+"Slayer",
+"WuTang Clan",
+"Action Bronson"
+]
+},
+{
+"id":1235,
+"name":{
+"first":"Matt",
+"last":"Housley"
+},
+"favorite_bands":[
+"Dave Matthews Band",
+"Creed",
+"Nickelback"
+170
+|
+Chapter 5: Data Generation in Source Systems
+
+2 Nemil Dalal’s excellent series on the history of MongoDB recounts some harrowing tales of database abuse
+and its consequences for fledgling startups.
+]
+}
+]
+}
+To query the data in this example, you can retrieve records by key. Note that most
+document databases also support the creation of indexes and lookup tables to allow
+retrieval of documents by specific properties. This is often invaluable in application
+development when you need to search for documents in various ways. For example,
+you could set an index on name.
+Another critical technical detail for data engineers is that document stores are
+generally not ACID compliant, unlike relational databases. Technical expertise in
+a particular document store is essential to understanding performance, tuning, con‐
+figuration, related effects on writes, consistency, durability, etc. For example, many
+document stores are eventually consistent. Allowing data distribution across a cluster
+is a boon for scaling and performance but can lead to catastrophes when engineers
+and developers don’t understand the implications.2
+To run analytics on document stores, engineers generally must run a full scan to
+extract all data from a collection or employ a CDC strategy to send events to a target
+stream. The full scan approach can have both performance and cost implications. The
+scan often slows the database as it runs, and many serverless cloud offerings charge a
+significant fee for each full scan. In document databases, it’s often helpful to create an
+index to help speed up queries. We discuss indexes and query patterns in Chapter 8.
+Wide-column. A wide-column database is optimized for storing massive amounts
+of data with high transaction rates and extremely low latency. These databases
+can scale to extremely high write rates and vast amounts of data. Specifically, wide-
+column databases can support petabytes of data, millions of requests per second,
+and sub-10ms latency. These characteristics have made wide-column databases popu‐
+lar in ecommerce, fintech, ad tech, IoT, and real-time personalization applications.
+Data engineers must be aware of the operational characteristics of the wide-column
+databases they work with to set up a suitable configuration, design the schema,
+and choose an appropriate row key to optimize performance and avoid common
+operational issues.
+These databases support rapid scans of massive amounts of data, but they do not sup‐
+port complex queries. They have only a single index (the row key) for lookups. Data
+engineers must generally extract data and send it to a secondary analytics system
+to run complex queries to deal with these limitations. This can be accomplished by
+running large scans for the extraction or employing CDC to capture an event stream.
+Source System Practical Details
+|
+171
+
+3 Martin Kleppmann, Designing Data-Intensive Applications (Sebastopol, CA: O’Reilly, 2017), 49,
+https://oreil.ly/v1NhG.
+4 Aashish Mehra, “Graph Database Market Worth $5.1 Billion by 2026: Exclusive Report by MarketsandMar‐
+kets,” Cision PR Newswire, July 30, 2021, https://oreil.ly/mGVkY.
+Graph databases. Graph databases explicitly store data with a mathematical graph
+structure (as a set of nodes and edges).3 Neo4j has proven extremely popular, while
+Amazon, Oracle, and other vendors offer their graph database products. Roughly
+speaking, graph databases are a good fit when you want to analyze the connectivity
+between elements.
+For example, you could use a document database to store one document for each
+user describing their properties. You could add an array element for connections
+that contains directly connected users’ IDs in a social media context. It’s pretty easy
+to determine the number of direct connections a user has, but suppose you want
+to know how many users can be reached by traversing two direct connections.
+You could answer this question by writing complex code, but each query would
+run slowly and consume significant resources. The document store is simply not
+optimized for this use case.
+Graph databases are designed for precisely this type of query. Their data structures
+allow for queries based on the connectivity between elements; graph databases are
+indicated when we care about understanding complex traversals between elements.
+In the parlance of graphs, we store nodes (users in the preceding example) and
+edges (connections between users). Graph databases support rich data models for
+both nodes and edges. Depending on the underlying graph database engine, graph
+databases utilize specialized query languages such as SPARQL, Resource Description
+Framework (RDF), Graph Query Language (GQL), and Cypher.
+As an example of a graph, consider a network of four users. User 1 follows User 2,
+who follows User 3 and User 4; User 3 also follows User 4 (Figure 5-8).
+Figure 5-8. A social network graph
+We anticipate that graph database applications will grow dramatically outside of tech
+companies; market analyses also predict rapid growth.4 Of course, graph databases
+172
+|
+Chapter 5: Data Generation in Source Systems
+
+are beneficial from an operational perspective and support the kinds of complex
+social relationships critical to modern applications. Graph structures are also fas‐
+cinating from the perspective of data science and ML, potentially revealing deep
+insights into human interactions and behavior.
+This introduces unique challenges for data engineers who may be more accustomed
+to dealing with structured relations, documents, or unstructured data. Engineers
+must choose whether to do the following:
+• Map source system graph data into one of their existing preferred paradigms
+•
+• Analyze graph data within the source system itself
+•
+• Adopt graph-specific analytics tools
+•
+Graph data can be reencoded into rows in a relational database, which may be a suit‐
+able solution depending on the analytics use case. Transactional graph databases are
+also designed for analytics, although large queries may overload production systems.
+Contemporary cloud-based graph databases support read-heavy graph analytics on
+massive quantities of data.
+Search. A search database is a nonrelational database used to search your data’s
+complex and straightforward semantic and structural characteristics. Two prominent
+use cases exist for a search database: text search and log analysis. Let’s cover each of
+these separately.
+Text search involves searching a body of text for keywords or phrases, matching
+on exact, fuzzy, or semantically similar matches. Log analysis is typically used for
+anomaly detection, real-time monitoring, security analytics, and operational analyt‐
+ics. Queries can be optimized and sped up with the use of indexes.
+Depending on the type of company you work at, you may use search databases either
+regularly or not at all. Regardless, it’s good to be aware they exist in case you come
+across them in the wild. Search databases are popular for fast search and retrieval
+and can be found in various applications; an ecommerce site may power its product
+search using a search database. As a data engineer, you might be expected to bring
+data from a search database (such as Elasticsearch, Apache Solr or Lucene, or Algolia)
+into downstream KPI reports or something similar.
+Time series. A time series is a series of values organized by time. For example, stock
+prices might move as trades are executed throughout the day, or a weather sensor
+will take atmospheric temperatures every minute. Any events that are recorded over
+time—either regularly or sporadically—are time-series data. A time-series database is
+optimized for retrieving and statistical processing of time-series data.
+Source System Practical Details
+|
+173
+

@@ -1,0 +1,378 @@
+# Data Management
+
+Paginas: 75-83
+
+Data security is also about timing—providing data access to exactly the people and
+systems that need to access it and only for the duration necessary to perform their
+work. Data should be protected from unwanted visibility, both in flight and at rest, by
+using encryption, tokenization, data masking, obfuscation, and simple, robust access
+controls.
+Data engineers must be competent security administrators, as security falls in their
+domain. A data engineer should understand security best practices for the cloud and
+on prem. Knowledge of user and identity access management (IAM) roles, policies,
+groups, network security, password policies, and encryption are good places to start.
+Throughout the book, we highlight areas where security should be top of mind in the
+data engineering lifecycle. You can also gain more detailed insights into security in
+Chapter 10.
+Data Management
+You probably think that data management sounds very…corporate. “Old school” data
+management practices make their way into data and ML engineering. What’s old
+is new again. Data management has been around for decades but didn’t get a lot
+of traction in data engineering until recently. Data tools are becoming simpler, and
+there is less complexity for data engineers to manage. As a result, the data engineer
+moves up the value chain toward the next rung of best practices. Data best practices
+once reserved for huge companies—data governance, master data management, data-
+quality management, metadata management—are now filtering down to companies
+of all sizes and maturity levels. As we like to say, data engineering is becoming
+“enterprisey.” This is ultimately a great thing!
+The Data Management Association International (DAMA) Data Management Body of
+Knowledge (DMBOK), which we consider to be the definitive book for enterprise data
+management, offers this definition:
+Data management is the development, execution, and supervision of plans, policies,
+programs, and practices that deliver, control, protect, and enhance the value of data
+and information assets throughout their lifecycle.
+That’s a bit lengthy, so let’s look at how it ties to data engineering. Data engineers
+manage the data lifecycle, and data management encompasses the set of best practices
+that data engineers will use to accomplish this task, both technically and strategically.
+Without a framework for managing data, data engineers are simply technicians
+operating in a vacuum. Data engineers need a broader perspective of data’s utility
+across the organization, from the source systems to the C-suite, and everywhere in
+between.
+Why is data management important? Data management demonstrates that data is
+vital to daily operations, just as businesses view financial resources, finished goods,
+50
+|
+Chapter 2: The Data Engineering Lifecycle
+
+1 Evren Eryurek et al., Data Governance: The Definitive Guide (Sebastopol, CA: O’Reilly, 2021), 1,
+https://oreil.ly/LFT4d.
+or real estate as assets. Data management practices form a cohesive framework that
+everyone can adopt to ensure that the organization gets value from data and handles
+it appropriately.
+Data management has quite a few facets, including the following:
+• Data governance, including discoverability and accountability
+•
+• Data modeling and design
+•
+• Data lineage
+•
+• Storage and operations
+•
+• Data integration and interoperability
+•
+• Data lifecycle management
+•
+• Data systems for advanced analytics and ML
+•
+• Ethics and privacy
+•
+While this book is in no way an exhaustive resource on data management, let’s briefly
+cover some salient points from each area as they relate to data engineering.
+Data governance
+According to Data Governance: The Definitive Guide, “Data governance is, first and
+foremost, a data management function to ensure the quality, integrity, security, and
+usability of the data collected by an organization.”1
+We can expand on that definition and say that data governance engages people,
+processes, and technologies to maximize data value across an organization while
+protecting data with appropriate security controls. Effective data governance is devel‐
+oped with intention and supported by the organization. When data governance is
+accidental and haphazard, the side effects can range from untrusted data to security
+breaches and everything in between. Being intentional about data governance will
+maximize the organization’s data capabilities and the value generated from data.
+It will also (hopefully) keep a company out of the headlines for questionable or
+downright reckless data practices.
+Think of the typical example of data governance being done poorly. A business
+analyst gets a request for a report but doesn’t know what data to use to answer the
+question. They may spend hours digging through dozens of tables in a transactional
+database, wildly guessing at which fields might be useful. The analyst compiles a
+“directionally correct” report but isn’t entirely sure that the report’s underlying data is
+Major Undercurrents Across the Data Engineering Lifecycle
+|
+51
+
+2 Eryurek, Data Governance, 5.
+accurate or sound. The recipient of the report also questions the validity of the data.
+The integrity of the analyst—and of all data in the company’s systems—is called into
+question. The company is confused about its performance, making business planning
+impossible.
+Data governance is a foundation for data-driven business practices and a mission-
+critical part of the data engineering lifecycle. When data governance is practiced well,
+people, processes, and technologies align to treat data as a key business driver; if data
+issues occur, they are promptly handled.
+The core categories of data governance are discoverability, security, and accountabil‐
+ity.2 Within these core categories are subcategories, such as data quality, metadata,
+and privacy. Let’s look at each core category in turn.
+Discoverability. In a data-driven company, data must be available and discoverable.
+End users should have quick and reliable access to the data they need to do their jobs.
+They should know where the data comes from, how it relates to other data, and what
+the data means.
+Some key areas of data discoverability include metadata management and master
+data management. Let’s briefly describe these areas.
+Metadata. Metadata is “data about data,” and it underpins every section of the data
+engineering lifecycle. Metadata is exactly the data needed to make data discoverable
+and governable.
+We divide metadata into two major categories: autogenerated and human generated.
+Modern data engineering revolves around automation, but metadata collection is
+often manual and error prone.
+Technology can assist with this process, removing much of the error-prone work of
+manual metadata collection. We’re seeing a proliferation of data catalogs, data-lineage
+tracking systems, and metadata management tools. Tools can crawl databases to look
+for relationships and monitor data pipelines to track where data comes from and
+where it goes. A low-fidelity manual approach uses an internally led effort where
+various stakeholders crowdsource metadata collection within the organization. These
+data management tools are covered in depth throughout the book, as they undercut
+much of the data engineering lifecycle.
+Metadata becomes a byproduct of data and data processes. However, key challenges
+remain. In particular, interoperability and standards are still lacking. Metadata tools
+are only as good as their connectors to data systems and their ability to share
+52
+|
+Chapter 2: The Data Engineering Lifecycle
+
+3 Chris Williams et al., “Democratizing Data at Airbnb,” The Airbnb Tech Blog, May 12, 2017,
+https://oreil.ly/dM332.
+metadata. In addition, automated metadata tools should not entirely take humans out
+of the loop.
+Data has a social element; each organization accumulates social capital and knowl‐
+edge around processes, datasets, and pipelines. Human-oriented metadata systems
+focus on the social aspect of metadata. This is something that Airbnb has emphasized
+in its various blog posts on data tools, particularly its original Dataportal concept.3
+Such tools should provide a place to disclose data owners, data consumers, and
+domain experts. Documentation and internal wiki tools provide a key foundation
+for metadata management, but these tools should also integrate with automated data
+cataloging. For example, data-scanning tools can generate wiki pages with links to
+relevant data objects.
+Once metadata systems and processes exist, data engineers can consume metadata in
+useful ways. Metadata becomes a foundation for designing pipelines and managing
+data throughout the lifecycle.
+DMBOK identifies four main categories of metadata that are useful to data engineers:
+• Business metadata
+•
+• Technical metadata
+•
+• Operational metadata
+•
+• Reference metadata
+•
+Let’s briefly describe each category of metadata.
+Business metadata relates to the way data is used in the business, including business
+and data definitions, data rules and logic, how and where data is used, and the data
+owner(s).
+A data engineer uses business metadata to answer nontechnical questions about who,
+what, where, and how. For example, a data engineer may be tasked with creating a
+data pipeline for customer sales analysis. But what is a customer? Is it someone who’s
+purchased in the last 90 days? Or someone who’s purchased at any time the business
+has been open? A data engineer would use the correct data to refer to business
+metadata (data dictionary or data catalog) to look up how a “customer” is defined.
+Business metadata provides a data engineer with the right context and definitions to
+properly use data.
+Technical metadata describes the data created and used by systems across the data
+engineering lifecycle. It includes the data model and schema, data lineage, field
+Major Undercurrents Across the Data Engineering Lifecycle
+|
+53
+
+mappings, and pipeline workflows. A data engineer uses technical metadata to create,
+connect, and monitor various systems across the data engineering lifecycle.
+Here are some common types of technical metadata that a data engineer will use:
+• Pipeline metadata (often produced in orchestration systems)
+•
+• Data lineage
+•
+• Schema
+•
+Orchestration is a central hub that coordinates workflow across various systems.
+Pipeline metadata captured in orchestration systems provides details of the workflow
+schedule, system and data dependencies, configurations, connection details, and
+much more.
+Data-lineage metadata tracks the origin and changes to data, and its dependencies,
+over time. As data flows through the data engineering lifecycle, it evolves through
+transformations and combinations with other data. Data lineage provides an audit
+trail of data’s evolution as it moves through various systems and workflows.
+Schema metadata describes the structure of data stored in a system such as a database,
+a data warehouse, a data lake, or a filesystem; it is one of the key differentiators
+across different storage systems. Object stores, for example, don’t manage schema
+metadata; instead, this must be managed in a metastore. On the other hand, cloud
+data warehouses manage schema metadata internally.
+These are just a few examples of technical metadata that a data engineer should
+know about. This is not a complete list, and we cover additional aspects of technical
+metadata throughout the book.
+Operational metadata describes the operational results of various systems and
+includes statistics about processes, job IDs, application runtime logs, data used in
+a process, and error logs. A data engineer uses operational metadata to determine
+whether a process succeeded or failed and the data involved in the process.
+Orchestration systems can provide a limited picture of operational metadata, but
+the latter still tends to be scattered across many systems. A need for better-quality
+operational metadata, and better metadata management, is a major motivation for
+next-generation orchestration and metadata management systems.
+Reference metadata is data used to classify other data. This is also referred to as lookup
+data. Standard examples of reference data are internal codes, geographic codes, units
+of measurement, and internal calendar standards. Note that much of reference data
+is fully managed internally, but items such as geographic codes might come from
+standard external references. Reference data is essentially a standard for interpreting
+other data, so if it changes, this change happens slowly over time.
+54
+|
+Chapter 2: The Data Engineering Lifecycle
+
+4 Eryurek, Data Governance, 113.
+Data accountability. Data accountability means assigning an individual to govern a
+portion of data. The responsible person then coordinates the governance activities of
+other stakeholders. Managing data quality is tough if no one is accountable for the
+data in question.
+Note that people accountable for data need not be data engineers. The accountable
+person might be a software engineer or product manager, or serve in another role.
+In addition, the responsible person generally doesn’t have all the resources necessary
+to maintain data quality. Instead, they coordinate with all people who touch the data,
+including data engineers.
+Data accountability can happen at various levels; accountability can happen at the
+level of a table or a log stream but could be as fine-grained as a single field entity
+that occurs across many tables. An individual may be accountable for managing a
+customer ID across many systems. For enterprise data management, a data domain
+is the set of all possible values that can occur for a given field type, such as in
+this ID example. This may seem excessively bureaucratic and meticulous, but it can
+significantly affect data quality.
+Data quality.
+Can I trust this data?
+—Everyone in the business
+Data quality is the optimization of data toward the desired state and orbits the
+question, “What do you get compared with what you expect?” Data should conform
+to the expectations in the business metadata. Does the data match the definition
+agreed upon by the business?
+A data engineer ensures data quality across the entire data engineering lifecycle. This
+involves performing data-quality tests, and ensuring data conformance to schema
+expectations, data completeness, and precision.
+According to Data Governance: The Definitive Guide, data quality is defined by three
+main characteristics:4
+Accuracy
+Is the collected data factually correct? Are there duplicate values? Are the
+numeric values accurate?
+Completeness
+Are the records complete? Do all required fields contain valid values?
+Major Undercurrents Across the Data Engineering Lifecycle
+|
+55
+
+5 Tyler Akidau et al., “The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost
+in Massive-Scale, Unbounded, Out-of-Order Data Processing,” Proceedings of the VLDB Endowment 8 (2015):
+1792–1803, https://oreil.ly/Z6XYy.
+Timeliness
+Are records available in a timely fashion?
+Each of these characteristics is quite nuanced. For example, how do we think about
+bots and web scrapers when dealing with web event data? If we intend to analyze
+the customer journey, we must have a process that lets us separate humans from
+machine-generated traffic. Any bot-generated events misclassified as human present
+data accuracy issues, and vice versa.
+A variety of interesting problems arise concerning completeness and timeliness. In
+the Google paper introducing the Dataflow model, the authors give the example of an
+offline video platform that displays ads.5 The platform downloads video and ads while
+a connection is present, allows the user to watch these while offline, and then uploads
+ad view data once a connection is present again. This data may arrive late, well after
+the ads are watched. How does the platform handle billing for the ads?
+Fundamentally, this problem can’t be solved by purely technical means. Rather, engi‐
+neers will need to determine their standards for late-arriving data and enforce these
+uniformly, possibly with the help of various technology tools.
+Master Data Management
+Master data is data about business entities such as employees, customers, products,
+and locations. As organizations grow larger and more complex through organic
+growth and acquisitions, and collaborate with other businesses, maintaining a consis‐
+tent picture of entities and identities becomes more and more challenging.
+Master data management (MDM) is the practice of building consistent entity defi‐
+nitions known as golden records. Golden records harmonize entity data across an
+organization and with its partners. MDM is a business operations process facilitated
+by building and deploying technology tools. For example, an MDM team might
+determine a standard format for addresses, and then work with data engineers to
+build an API to return consistent addresses and a system that uses address data to
+match customer records across company divisions.
+MDM reaches across the full data cycle into operational databases. It may fall directly
+under the purview of data engineering but is often the assigned responsibility of a
+dedicated team that works across the organization. Even if they don’t own MDM, data
+engineers must always be aware of it, as they might collaborate on MDM initiatives.
+56
+|
+Chapter 2: The Data Engineering Lifecycle
+
+Data quality sits across the boundary of human and technology problems. Data
+engineers need robust processes to collect actionable human feedback on data quality
+and use technology tools to detect quality issues preemptively before downstream
+users ever see them. We cover these collection processes in the appropriate chapters
+throughout this book.
+Data modeling and design
+To derive business insights from data, through business analytics and data science,
+the data must be in a usable form. The process for converting data into a usable
+form is known as data modeling and design. Whereas we traditionally think of data
+modeling as a problem for database administrators (DBAs) and ETL developers,
+data modeling can happen almost anywhere in an organization. Firmware engineers
+develop the data format of a record for an IoT device, or web application developers
+design the JSON response to an API call or a MySQL table schema—these are all
+instances of data modeling and design.
+Data modeling has become more challenging because of the variety of new data
+sources and use cases. For instance, strict normalization doesn’t work well with event
+data. Fortunately, a new generation of data tools increases the flexibility of data
+models, while retaining logical separations of measures, dimensions, attributes, and
+hierarchies. Cloud data warehouses support the ingestion of enormous quantities of
+denormalized and semistructured data, while still supporting common data modeling
+patterns, such as Kimball, Inmon, and Data Vault. Data processing frameworks
+such as Spark can ingest a whole spectrum of data, from flat structured relational
+records to raw unstructured text. We discuss these data modeling and transformation
+patterns in greater detail in Chapter 8.
+With the wide variety of data that engineers must cope with, there is a temptation
+to throw up our hands and give up on data modeling. This is a terrible idea with
+harrowing consequences, made evident when people murmur of the write once, read
+never (WORN) access pattern or refer to a data swamp. Data engineers need to
+understand modeling best practices as well as develop the flexibility to apply the
+appropriate level and type of modeling to the data source and use case.
+Data lineage
+As data moves through its lifecycle, how do you know what system affected the data
+or what the data is composed of as it gets passed around and transformed? Data
+lineage describes the recording of an audit trail of data through its lifecycle, tracking
+both the systems that process the data and the upstream data it depends on.
+Data lineage helps with error tracking, accountability, and debugging of data and
+the systems that process it. It has the obvious benefit of giving an audit trail for the
+data lifecycle and helps with compliance. For example, if a user would like their data
+Major Undercurrents Across the Data Engineering Lifecycle
+|
+57
+
+deleted from your systems, having lineage for that data lets you know where that data
+is stored and its dependencies.
+Data lineage has been around for a long time in larger companies with strict compli‐
+ance standards. However, it’s now being more widely adopted in smaller companies
+as data management becomes mainstream. We also note that Andy Petrella’s con‐
+cept of Data Observability Driven Development (DODD) is closely related to data
+lineage. DODD observes data all along its lineage. This process is applied during
+development, testing, and finally production to deliver quality and conformity to
+expectations.
+Data integration and interoperability
+Data integration and interoperability is the process of integrating data across tools and
+processes. As we move away from a single-stack approach to analytics and toward a
+heterogeneous cloud environment in which various tools process data on demand,
+integration and interoperability occupy an ever-widening swath of the data engineer’s
+job.
+Increasingly, integration happens through general-purpose APIs rather than custom
+database connections. For example, a data pipeline might pull data from the Sales‐
+force API, store it to Amazon S3, call the Snowflake API to load it into a table, call the
+API again to run a query, and then export the results to S3 where Spark can consume
+them.
+All of this activity can be managed with relatively simple Python code that talks to
+data systems rather than handling data directly. While the complexity of interacting
+with data systems has decreased, the number of systems and the complexity of pipe‐
+lines has dramatically increased. Engineers starting from scratch quickly outgrow the
+capabilities of bespoke scripting and stumble into the need for orchestration. Orches‐
+tration is one of our undercurrents, and we discuss it in detail in “Orchestration” on
+page 64.
+Data lifecycle management
+The advent of data lakes encouraged organizations to ignore data archival and
+destruction. Why discard data when you can simply add more storage ad infinitum?
+Two changes have encouraged engineers to pay more attention to what happens at the
+end of the data engineering lifecycle.
+First, data is increasingly stored in the cloud. This means we have pay-as-you-go
+storage costs instead of large up-front capital expenditures for an on-premises data
+lake. When every byte shows up on a monthly AWS statement, CFOs see opportuni‐
+ties for savings. Cloud environments make data archival a relatively straightforward
+process. Major cloud vendors offer archival-specific object storage classes that allow
+long-term data retention at an extremely low cost, assuming very infrequent access
+58
+|
+Chapter 2: The Data Engineering Lifecycle
+

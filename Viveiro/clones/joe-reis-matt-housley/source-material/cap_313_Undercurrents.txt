@@ -1,0 +1,46 @@
+# Undercurrents
+
+Paginas: 385-385
+
+We do have a few words of warning regarding reverse ETL. Reverse ETL inherently
+creates feedback loops. For example, imagine that we download Google Ads data,
+use a model to compute new bids, load the bids back into Google Ads, and start the
+process again. Suppose that because of an error in your bid model, the bids trend
+ever higher, and your ads get more and more clicks. You can quickly waste massive
+amounts of money! Be careful, and build in monitoring and guardrails.
+Whom You’ll Work With
+As we’ve discussed, in the serving stage, a data engineer will interface with a lot of
+stakeholders. These include (but aren’t limited to) the following:
+• Data analysts
+•
+• Data scientists
+•
+• MLOps/ML engineers
+•
+• The business—nondata or nontechnical stakeholders, managers, and executives
+•
+As a reminder, the data engineer operates in a support role for these stakeholders
+and is not necessarily responsible for the end uses of data. For example, a data
+engineer supplies the data for a report that analysts interpret, but the data engineer
+isn’t responsible for these interpretations. Instead, the data engineer is responsible for
+producing the highest-quality data products possible.
+A data engineer should be aware of feedback loops between the data engineering
+lifecycle and the broader use of data once it’s in the hands of stakeholders. Data is
+rarely static, and the outside world will influence the data that is ingested and served
+and reingested and re-served.
+A big consideration for data engineers in the serving stage of the lifecycle is the
+separation of duties and concerns. If you’re at an early-stage company, the data
+engineer may also be an ML engineer or data scientist; this is not sustainable. As the
+company grows, you need to establish a clear division of duties with other data team
+members.
+Adopting a data mesh dramatically reorganizes team responsibilities, and every
+domain team takes on aspects of serving. For a data mesh to be successful, each
+team must work effectively on its data-serving responsibilities, and teams must also
+effectively collaborate to ensure organizational success.
+Undercurrents
+The undercurrents come to finality with serving. Remember that the data engineering
+lifecycle is just that—a lifecycle. What goes around comes around. We see many
+360
+|
+Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
+

@@ -1,0 +1,45 @@
+# Stream-to-Batch Storage Architecture
+
+Paginas: 242-242
+
+automated metadata management, table history, and update/delete capabilities. The
+complexities of managing underlying files and storage are fully hidden from the user.
+The key advantage of the data lakehouse over proprietary tools is interoperability.
+It’s much easier to exchange data between tools when stored in an open file format.
+Reserializing data from a proprietary database format incurs overhead in processing,
+time, and cost. In a data lakehouse architecture, various tools can connect to the
+metadata layer and read data directly from object storage.
+It is important to emphasize that much of the data in a data lakehouse may not have a
+table structure imposed. We can impose data warehouse features where we need them
+in a lakehouse, leaving other data in a raw or even unstructured format.
+The data lakehouse technology is evolving rapidly. A variety of new competitors to
+Delta Lake have emerged, including Apache Hudi and Apache Iceberg. See Appen‐
+dix A for more details.
+Data Platforms
+Increasingly, vendors are styling their products as data platforms. These vendors
+have created their ecosystems of interoperable tools with tight integration into the
+core data storage layer. In evaluating platforms, engineers must ensure that the
+tools offered meet their needs. Tools not directly provided in the platform can still
+interoperate, with extra data overhead for data interchange. Platforms also emphasize
+close integration with object storage for unstructured use cases, as mentioned in our
+discussion of cloud data warehouses.
+At this point, the notion of the data platform frankly has yet to be fully fleshed out.
+However, the race is on to create a walled garden of data tools, both simplifying the
+work of data engineering and generating significant vendor lock-in.
+Stream-to-Batch Storage Architecture
+The stream-to-batch storage architecture has many similarities to the Lambda archi‐
+tecture, though some might quibble over the technical details. Essentially, data
+flowing through a topic in the streaming storage system is written out to multiple
+consumers.
+Some of these consumers might be real-time processing systems that generate statis‐
+tics on the stream. In addition, a batch storage consumer writes data for long-term
+retention and batch queries. The batch consumer could be AWS Kinesis Firehose,
+which can generate S3 objects based on configurable triggers (e.g., time and batch
+size). Systems such as BigQuery ingest streaming data into a streaming buffer. This
+streaming buffer is automatically reserialized into columnar object storage. The query
+engine supports seamless querying of both the streaming buffer and the object data to
+provide users a current, nearly real-time view of the table.
+Data Engineering Storage Abstractions
+|
+217
+

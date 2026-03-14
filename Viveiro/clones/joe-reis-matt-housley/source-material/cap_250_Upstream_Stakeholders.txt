@@ -1,0 +1,42 @@
+# Upstream Stakeholders
+
+Paginas: 287-287
+
+the internet between clouds, data egress fees make this a costly proposition. Physical
+transfer appliances are a cheaper alternative when the data volumes are significant.
+Remember that transfer appliances and data migration services are one-time data
+ingestion events and are not suggested for ongoing workloads. Suppose you have
+workloads requiring constant data movement in either a hybrid or multicloud sce‐
+nario. In that case, your data sizes are presumably batching or streaming much
+smaller data sizes on an ongoing basis.
+Data Sharing
+Data sharing is growing as a popular option for consuming data (see Chapters 5
+and 6). Data providers will offer datasets to third-party subscribers, either for free or
+at a cost. These datasets are often shared in a read-only fashion, meaning you can
+integrate these datasets with your own data (and other third-party datasets), but you
+do not own the shared dataset. In the strict sense, this isn’t ingestion, where you get
+physical possession of the dataset. If the data provider decides to remove your access
+to a dataset, you’ll no longer have access to it.
+Many cloud platforms offer data sharing, allowing you to share your data and
+consume data from various providers. Some of these platforms also provide data
+marketplaces where companies and organizations can offer their data for sale.
+Whom You’ll Work With
+Data ingestion sits at several organizational boundaries. In developing and managing
+data ingestion pipelines, data engineers will work with both people and systems
+sitting upstream (data producers) and downstream (data consumers).
+Upstream Stakeholders
+A significant disconnect often exists between those responsible for generating data
+—typically, software engineers—and the data engineers who will prepare this data
+for analytics and data science. Software engineers and data engineers usually sit in
+separate organizational silos; if they think about data engineers, they typically see
+them simply as downstream consumers of the data exhaust from their application,
+not as stakeholders.
+We see this current state of affairs as a problem and a significant opportunity. Data
+engineers can improve the quality of their data by inviting software engineers to be
+stakeholders in data engineering outcomes. The vast majority of software engineers
+are well aware of the value of analytics and data science but don’t necessarily have
+aligned incentives to contribute to data engineering efforts directly.
+262
+|
+Chapter 7: Ingestion
+

@@ -1,0 +1,40 @@
+# Data Management
+
+Paginas: 253-253
+
+The division of responsibilities for data storage will depend significantly on the
+maturity of the organization involved. The data engineer will likely manage the
+storage systems and workflow if the company is early in its data maturity. If the
+company is later in its data maturity, the data engineer will probably manage a section
+of the storage system. This data engineer will also likely interact with engineers on
+either side of storage—ingestion and transformation.
+The data engineer needs to ensure that the storage systems used by downstream users
+are securely available, contain high-quality data, have ample storage capacity, and
+perform when queries and transformations are run.
+Undercurrents
+The undercurrents for storage are significant because storage is a critical hub for all
+stages of the data engineering lifecycle. Unlike other undercurrents for which data
+might be in motion (ingestion) or queried and transformed, the undercurrents for
+storage differ because storage is so ubiquitous.
+Security
+While engineers often view security as an impediment to their work, they should
+embrace the idea that security is a key enabler. Robust security at rest and in motion
+with fine-grained data access control allows data to be shared and consumed more
+widely within a business. The value of data goes up significantly when this is possible.
+As always, exercise the principle of least privilege. Don’t give full database access
+to anyone unless required. This means most data engineers don’t need full database
+access in practice. Also, pay attention to the column, row, and cell-level access con‐
+trols in your database. Give users only the information they need and no more.
+Data Management
+Data management is critical as we read and write data with storage systems.
+Data catalogs and metadata management
+Data is enhanced by robust metadata. Cataloging enables data scientists, analysts,
+and ML engineers by enabling data discovery. Data lineage accelerates the time to
+track down data problems and allows consumers to locate upstream raw sources.
+As you build out your storage systems, invest in your metadata. Integration of a
+data dictionary with these other tools allows users to share and record institutional
+knowledge robustly.
+228
+|
+Chapter 6: Storage
+

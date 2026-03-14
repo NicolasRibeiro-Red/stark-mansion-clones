@@ -1,0 +1,44 @@
+# DataOps
+
+Paginas: 387-387
+
+data products aren’t used, ask the users if they’re still needed. If not, kill off the data
+product. This means one less security vulnerability floating around.
+Finally, you should view access control and security not as impediments to serving
+but as key enablers. We’re aware of many instances where complex, advanced data
+systems were built, potentially having a significant impact on a company. Because
+security was not implemented correctly, few people were allowed to access the data,
+so it languished. Fine-grained, robust access control means that more interesting data
+analytics and ML can be done while still protecting the business and its customers.
+Data Management
+You’ve been incorporating data management along the data engineering lifecycle,
+and the impact of your efforts will soon become apparent as people use your data
+products. At the serving stage, you’re mainly concerned with ensuring that people can
+access high-quality and trustworthy data.
+As we mentioned at the beginning of this chapter, trust is perhaps the most critical
+variable in data serving. If people trust their data, they will use it; untrusted data
+will go unused. Be sure to make data trust and data improvement an active process
+by providing feedback loops. As users interact with data, they can report problems
+and request improvements. Actively communicate back to your users as changes are
+made.
+What data do people need to do their jobs? Especially with regulatory and compli‐
+ance concerns weighing on data teams, giving people access to the raw data—even
+with limited fields and rows—poses a problem of tracing data back to an entity, such
+as a person or a group of people. Thankfully, advancements in data obfuscation allow
+you to serve synthetic, scrambled, or anonymized data to end users. These “fake”
+datasets should sufficiently allow an analyst or data scientist to get the necessary
+signal from the data, but in a way that makes identifying protected information
+difficult. Though this isn’t a perfect process—with enough effort, many datasets can
+be de-anonymized or reverse-engineered—it at least reduces the risk of data leakage.
+Also, incorporate semantic and metrics layers into your serving layer, alongside
+rigorous data modeling that properly expresses business logic and definitions. This
+provides a single source of truth, whether for analytics, ML, reverse ETL, or other
+serving uses.
+DataOps
+The steps you take in data management—data quality, governance, and security—are
+monitored in DataOps. Essentially, DataOps operationalizes data management. The
+following are some things to monitor:
+362
+|
+Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
+

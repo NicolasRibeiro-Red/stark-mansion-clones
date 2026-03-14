@@ -1,0 +1,36 @@
+# Source System Practical Details
+
+Paginas: 190-190
+
+Figure 5-6. Event, ingestion, process, and processing time
+Event time indicates when an event is generated in a source system, including the
+timestamp of the original event itself. An undetermined time lag will occur upon
+event creation, before the event is ingested and processed downstream. Always
+include timestamps for each phase through which an event travels. Log events as
+they occur and at each stage of time—when they’re created, ingested, and processed.
+Use these timestamp logs to accurately track the movement of your data through your
+data pipelines.
+After data is created, it is ingested somewhere. Ingestion time indicates when an event
+is ingested from source systems into a message queue, cache, memory, object storage,
+a database, or any place else that data is stored (see Chapter 6). After ingestion, data
+may be processed immediately; or within minutes, hours, or days; or simply persist in
+storage indefinitely.
+Process time occurs after ingestion time, when the data is processed (typically, a
+transformation). Processing time is how long the data took to process, measured in
+seconds, minutes, hours, etc.
+You’ll want to record these various times, preferably in an automated way. Set up
+monitoring along your data workflows to capture when events occur, when they’re
+ingested and processed, and how long it took to process events.
+Source System Practical Details
+This section discusses the practical details of interacting with modern source systems.
+We’ll dig into the details of commonly encountered databases, APIs, and other
+aspects. This information will have a shorter shelf life than the main ideas discussed
+previously; popular API frameworks, databases, and other details will continue to
+change rapidly.
+Nevertheless, these details are critical knowledge for working data engineers. We
+suggest that you study this information as baseline knowledge but read extensively to
+stay abreast of ongoing developments.
+Source System Practical Details
+|
+165
+

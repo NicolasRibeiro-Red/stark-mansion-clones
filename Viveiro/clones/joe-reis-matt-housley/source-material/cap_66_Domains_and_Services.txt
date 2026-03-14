@@ -1,0 +1,44 @@
+# Domains and Services
+
+Paginas: 112-112
+
+18 “FinOps Foundation Soars to 300 Members and Introduces New Partner Tiers for Cloud Service Providers
+and Vendors,” Business Wire, June 17, 2019, https://oreil.ly/XcwYO.
+19 Eric Evans, Domain-Driven Design Reference: Definitions and Pattern Summaries (March 2015),
+https://oreil.ly/pQ9oq.
+As of this writing, FinOps is a recently formalized practice. The FinOps Foundation
+was started only in 2019.18 However, we highly recommend you start thinking about
+FinOps early, before you encounter high cloud bills. Start your journey with the
+FinOps Foundation and O’Reilly’s Cloud FinOps. We also suggest that data engineers
+involve themselves in the community process of creating FinOps practices for data
+engineering— in such a new practice area, a good deal of territory is yet to be mapped
+out.
+Now that you have a high-level understanding of good data architecture principles,
+let’s dive a bit deeper into the major concepts you’ll need to design and build good
+data architecture.
+Major Architecture Concepts
+If you follow the current trends in data, it seems like new types of data tools and
+architectures are arriving on the scene every week. Amidst this flurry of activity, we
+must not lose sight of the main goal of all of these architectures: to take data and
+transform it into something useful for downstream consumption.
+Domains and Services
+Domain: A sphere of knowledge, influence, or activity. The subject area to which the
+user applies a program is the domain of the software.
+—Eric Evans19
+Before diving into the components of the architecture, let’s briefly cover two terms
+you’ll see come up very often: domain and services. A domain is the real-world
+subject area for which you’re architecting. A service is a set of functionality whose
+goal is to accomplish a task. For example, you might have a sales order-processing
+service whose task is to process orders as they are created. The sales order-processing
+service’s only job is to process orders; it doesn’t provide other functionality, such as
+inventory management or updating user profiles.
+A domain can contain multiple services. For example, you might have a sales domain
+with three services: orders, invoicing, and products. Each service has particular tasks
+that support the sales domain. Other domains may also share services (Figure 3-3).
+In this case, the accounting domain is responsible for basic accounting functions:
+invoicing, payroll, and accounts receivable (AR). Notice the accounting domain
+shares the invoice service with the sales domain since a sale generates an invoice,
+Major Architecture Concepts
+|
+87
+

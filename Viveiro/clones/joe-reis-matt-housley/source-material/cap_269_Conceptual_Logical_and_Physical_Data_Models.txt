@@ -1,0 +1,40 @@
+# Conceptual, Logical, and Physical Data Models
+
+Paginas: 314-314
+
+Our discussion focuses mainly on batch data modeling since that’s where most
+data modeling techniques arose. We will also look at some approaches to modeling
+streaming data and general considerations for modeling.
+Conceptual, Logical, and Physical Data Models
+When modeling data, the idea is to move from abstract modeling concepts to con‐
+crete implementation. Along this continuum (Figure 8-12), three main data models
+are conceptual, logical, and physical. These models form the basis for the various
+modeling techniques we describe in this chapter:
+Conceptual
+Contains business logic and rules and describes the system’s data, such as sche‐
+mas, tables, and fields (names and types). When creating a conceptual model,
+it’s often helpful to visualize it in an entity-relationship (ER) diagram, which
+is a standard tool for visualizing the relationships among various entities in
+your data (orders, customers, products, etc.). For example, an ER diagram might
+encode the connections among customer ID, customer name, customer address,
+and customer orders. Visualizing entity relationships is highly recommended for
+designing a coherent conceptual data model.
+Logical
+Details how the conceptual model will be implemented in practice by adding
+significantly more detail. For example, we would add information on the types of
+customer ID, customer names, and custom addresses. In addition, we would map
+out primary and foreign keys.
+Physical
+Defines how the logical model will be implemented in a database system. We
+would add specific databases, schemas, and tables to our logical model, including
+configuration details.
+Figure 8-12. The continuum of data models: conceptual, logical, and physical
+Successful data modeling involves business stakeholders at the inception of the pro‐
+cess. Engineers need to obtain definitions and business goals for the data. Modeling
+data should be a full-contact sport whose goal is to provide the business with quality
+data for actionable insights and intelligent automation. This is a practice that every‐
+one must continuously participate in.
+Data Modeling
+|
+289
+

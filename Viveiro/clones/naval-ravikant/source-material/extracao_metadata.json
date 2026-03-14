@@ -1,0 +1,64 @@
+{
+  "titulo": "Microsoft Word - Navalmanack - Arquivo Fonte",
+  "autor": "Guilherme",
+  "total_paginas": 210,
+  "chunks_criados": 11,
+  "toc": [],
+  "arquivos": [
+    {
+      "arquivo": "chunk_01_pags_1-20.txt",
+      "paginas": "1-20",
+      "tamanho_chars": 709
+    },
+    {
+      "arquivo": "chunk_02_pags_21-40.txt",
+      "paginas": "21-40",
+      "tamanho_chars": 687
+    },
+    {
+      "arquivo": "chunk_03_pags_41-60.txt",
+      "paginas": "41-60",
+      "tamanho_chars": 559
+    },
+    {
+      "arquivo": "chunk_04_pags_61-80.txt",
+      "paginas": "61-80",
+      "tamanho_chars": 471
+    },
+    {
+      "arquivo": "chunk_05_pags_81-100.txt",
+      "paginas": "81-100",
+      "tamanho_chars": 488
+    },
+    {
+      "arquivo": "chunk_06_pags_101-120.txt",
+      "paginas": "101-120",
+      "tamanho_chars": 556
+    },
+    {
+      "arquivo": "chunk_07_pags_121-140.txt",
+      "paginas": "121-140",
+      "tamanho_chars": 556
+    },
+    {
+      "arquivo": "chunk_08_pags_141-160.txt",
+      "paginas": "141-160",
+      "tamanho_chars": 565
+    },
+    {
+      "arquivo": "chunk_09_pags_161-180.txt",
+      "paginas": "161-180",
+      "tamanho_chars": 612
+    },
+    {
+      "arquivo": "chunk_10_pags_181-200.txt",
+      "paginas": "181-200",
+      "tamanho_chars": 742
+    },
+    {
+      "arquivo": "chunk_11_pags_201-210.txt",
+      "paginas": "201-210",
+      "tamanho_chars": 394
+    }
+  ]
+}

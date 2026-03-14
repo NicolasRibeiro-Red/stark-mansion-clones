@@ -1,0 +1,40 @@
+# A Note from the Author
+
+Paginas: 8-8
+
+
+A NOTE FROM THE AUTHOR
+This book has been distilled out of the wisdom of thirty years of systems
+modeling and teaching carried out by dozens of creative people, most of them
+originally based at or influenced by the MIT System Dynamics group. Foremost
+among them is Jay Forrester, the founder of the group. My particular teachers
+(and students who have become my teachers) have been, in addition to Jay: Ed
+Roberts, Jack Pugh, Dennis Meadows, Hartmut Bossel, Barry Richmond, Peter
+Senge, John Sterman, and Peter Allen, but I have drawn here from the language,
+ideas, examples, quotes, books, and lore of a large intellectual community. I
+express my admiration and gratitude to all its members.
+I also have drawn from thinkers in a variety of disciplines, who, as far as I
+know, never used a computer to simulate a system, but who are natural systems
+thinkers. They include Gregory Bateson, Kenneth Boulding, Herman Daly,
+Albert Einstein, Garrett Hardin, Václav Havel, Lewis Mumford, Gunnar
+Myrdal, E.F. Schumacher, a number of modern corporate executives, and many
+anonymous sources of ancient wisdom, from Native Americans to the Sufis of
+the Middle East. Strange bedfellows, but systems thinking transcends disciplines
+and cultures and, when it is done right, it overarches history as well.
+Having spoken of transcendence, I need to acknowledge factionalism as well.
+Systems analysts use overarching concepts, but they have entirely human
+personalities, which means that they have formed many fractious schools of
+systems thought. I have used the language and symbols of system dynamics
+here, the school in which I was taught. And I present only the core of systems
+theory here, not the leading edge. I don’t deal with the most abstract theories
+and am interested in analysis only when I can see how it helps solve real
+problems. When the abstract end of systems theory does that, which I believe it
+will some day, another book will have to be written.
+Therefore, you should be warned that this book, like all books, is biased and
+incomplete. There is much, much more to systems thinking than is presented
+here, for you to discover if you are interested. One of my purposes is to make
+you interested. Another of my purposes, the main one, is to give you a basic
+ability to understand and to deal with complex systems, even if your formal
+systems training begins and ends with this book.
+—DONELLA MEADOWS, 1993
+

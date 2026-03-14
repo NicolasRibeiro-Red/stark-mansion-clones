@@ -1,0 +1,541 @@
+Apêndice I
+Um passeio gráfico pelo livro
+Para as pessoas não literatas, que gostam de ver as coisas em forma de gráficos, em vez de palavras, e apenas para elas.
+NÃO LINEARIDADE E MENOS É MAIS (+ CAMA DE PROCUSTO)
+FIGURA 19.
+Este gráfico explica tanto a resposta não linear quanto a ideia de “menos é mais”. À medida que
+a dose aumenta para além de determinado ponto, os benefícios se invertem. Vimos que tudo que é não linear é ou convexo, ou côncavo ou, como neste gráfico, misto. O gráfico mostra também como, sob não linearidades, as reduções fracassam: a cama de Procusto das frases “bom para você” ou “ruim para você” é gravemente distorcida.
+O gráfico mostra também por que as heurísticas derivadas de experimentações e improvisos são importantes, pois não nos levam à zona de perigo — palavras e narrativas fazem isso. Constate como a zona do “mais é mais” é convexa, significando benefícios iniciais acelerados
+(
+em árabe levantino, a zona além da saturação tem um nome:
+“mais disso é o mesmo que menos disso”
+)
+.
+Por fim, o gráfico mostra por que a “sofisticação” competitiva
+(
+ou melhor, a complexidade mascarada de sofisticação
+)
+é prejudicial, comparada ao anseio que o profissional com atuação prática sente pela simplicidade total.
+Teorema da transferência de fragilidade:
+Note que, pelo teorema de transferência de fragilidade,
+EXPOSIÇÃO CONVEXA [AO LONGO DE ALGUMA VARIAÇÃO]
+↔
+GOSTA DA VOLATILIDADE [ATÉ CERTO PONTO]
+(volatilidade e outros membros do aglomerado da desordem), e
+EXPOSIÇÃO CÔNCAVA
+↔
+NÃO GOSTA DA VOLATILIDADE
+MAPEAMENTO DE FRAGILIDADES
+No espaço de séries temporais
+FIGURA 20.
+Variações frágeis no decorrer do tempo, dois tipos de fragilidade
+. Uma série representativa. O eixo horizontal mostra o tempo; o vertical mostra as variações. Isso pode ser aplicado a qualquer coisa: um indicador de saúde, alterações na riqueza, a felicidade do indivíduo etc. Podemos ver pequenos benefícios
+(
+ou nenhum benefício
+)
+e variações na maior parte do tempo, e, vez por outra, significativos resultados adversos. Pode ser que a incerteza afete as coisas de modo muito agressivo. Note que o prejuízo pode ocorrer a qualquer momento, excedendo os ganhos cumulativos prévios. O tipo 2
+(
+à esquerda
+)
+e o tipo 1
+(
+à direita
+)
+diferem no sentido de que o tipo 2 não sofre consideráveis efeitos positivos ocasionados pela incerteza, ao passo que o tipo 1 sente esses efeitos.
+FIGURA 21.
+O apenas robusto
+(
+mas não antifrágil
+) (
+à esquerda
+)
+: passa por pouca ou nenhuma variação ao longo do tempo. Nunca grandes variações. O sistema
+antifrágil
+(
+à direita
+)
+: a incerteza beneficia muito mais do que prejudica — exatamente o oposto do primeiro gráfico na figura 20.
+Observado em probabilidades
+FIGURA 22.
+O eixo horizontal representa os resultados; o vertical, suas probabilidades
+(
+isto é, sua frequência
+)
+.
+O robusto:
+pequenos resultados positivos e negativos.
+O frágil
+(
+tipo 1
+, muito raro
+)
+: pode ensejar tanto amplos resultados positivos quanto consideráveis resultados negativos. E por que é raro? A simetria é muitíssimo rara empiricamente, embora todas as distribuições estatísticas tendam a simplificar por meio do uso dela.
+O frágil
+(
+tipo 2
+)
+: vemos enormes e improváveis desvantagens
+(
+muitas vezes, ocultas e ignoradas
+)
+e vantagens pequenas. Há a possibilidade de um resultado duramente desfavorável
+(
+à esquerda
+)
+, muito mais do que um extremamente favorável, pois o lado esquerdo é mais grosso do que o lado direito.
+O antifrágil
+: vantagens significativas, desvantagens pequenas. Resultados favoráveis expressivos são possíveis, resultados desfavoráveis abundantes são menos prováveis
+(
+se não impossíveis
+)
+. A “cauda” direita, para resultados favoráveis, é maior do que a esquerda.
+TABELA 9 • OS QUATRO DIFERENTES TIPOS DE COMPENSAÇÕES
+Cauda esquerda da distribuição
+Cauda direita da distribuição
+Condição
+Fina
+Grossa
+Antifrágil
+Grossa
+Grossa
+Frágil (tipo 1) [muito rara]
+Grossa
+Fina
+Frágil (tipo 2)
+Fina
+Fina
+Robusta
+A fragilidade tem uma cauda esquerda e, o que é decisivo, é, portanto, sensível a perturbações no lado esquerdo da distribuição de probabilidade.
+FIGURA 23.
+Definição de fragilidade
+(
+gráfico à esquerda
+)
+: a fragilidade é a área sombreada, o aumento na massa da cauda esquerda abaixo de certo nível K da variável alvo, em resposta a qualquer alteração no parâmetro da variável original — principalmente, a
+“volatilidade”, ou algo que seja um pouco mais ajustado. Incluímos todas essas alterações em s
+–
+, sobre a qual falarei mais adiante, na seção de notas
+(
+onde consegui jogar as equações
+)
+.
+Para uma
+definição de antifragilidade
+(
+gráfico à direita
+)
+, que não é exatamente simétrica, a mesma imagem espelhada da cauda direita, mais a robustez na cauda esquerda. O parâmetro afetado é s
++
+.
+É fundamental que, embora não sejamos capazes de especificar com precisão a distribuição de probabilidade, podemos investigar a resposta por meio de heurísticas graças ao “teorema de transferência”, em Taleb e Douady
+(
+2012
+)
+. Em outras palavras, não precisamos entender a futura probabilidade dos eventos, mas podemos calcular a fragilidade desses eventos.
+TRANSFORMAÇÃO DE
+BARBELL
+EM SÉRIES TEMPORAIS
+FIGURA 24.
+A estratégia
+barbell
+, observada no espaço de séries temporais. Reduzindo as compensações, mas mantendo as vantagens.
+BARRAS DE HALTERE (TRANSFORMAÇÕES CONVEXAS) E SUAS PROPRIEDADES NO ESPAÇO DA PROBABILIDADE
+Uma expressão gráfica da ideia da estratégia
+barbell
+.
+FIGURA 25.
+Caso 1, o
+caso simétrico
+. Injetar incerteza no sistema faz com que passemos de uma curva em forma de sino — a primeira, com uma fileira restrita de resultados possíveis — para a segunda, de menor pico, porém mais distribuída. Assim, causa um aumento de surpresas tanto positivas quanto negativas, de Cisnes Negros tanto positivos quanto negativos.
+FIGURA 26.
+Caso 2
+(
+à esquerda
+)
+:
+Frágil.
+Ganhos limitados, perdas mais significativas. O aumento da incerteza no sistema causa um acréscimo, principalmente
+(
+e, algumas vezes, apenas
+)
+dos resultados negativos, somente Cisnes Negros negativos. Caso 3
+(
+à direita
+)
+:
+Antifrágil.
+Aumentar a aleatoriedade e a incerteza no sistema aumenta a probabilidade de resultados muito favoráveis e, consequentemente, aumenta a compensação esperada. O gráfico mostra como a descoberta é, matematicamente, idêntica a um antiatraso de avião.
+VERSÃO TÉCNICA DO “NÃO É A MESMA COISA”, DE TONY GORDO, OU A FUSÃO DE EVENTOS E EXPOSIÇÃO A EVENTOS
+Esta nota explicará também a “transformação convexa”.
+F
+(
+x
+) é a
+exposição
+à variável
+x
+. De forma equivalente,
+f
+(
+x
+) pode ser chamada de “compensação de
+x
+”, “exposição a
+x
+”, e, até mesmo, “utilidade da compensação de
+x
+”, em que introduzimos em
+f
+uma função de utilidade.
+x
+pode ser qualquer coisa.
+Exemplo:
+x
+é a intensidade de um terremoto em determinada escala em alguma área específica,
+f
+(
+x
+) é o número de pessoas que morrem em decorrência disso. Podemos facilmente ver que
+f
+(
+x
+) pode vir a ser mais previsível do que
+x
+(se forçarmos as pessoas a se manterem longe de uma área específica ou a seguirem alguns padrões etc.).
+Exemplo:
+x
+é o número de metros da minha queda até o chão quando alguém me empurra da altura
+x
+,
+f
+(
+x
+) é uma medida da minha condição física resultante dos efeitos da queda. Claramente não posso prever
+x
+(quem vai me empurrar, sem dúvida
+f
+(
+x
+)).
+Exemplo:
+x
+é o número de carros em Nova York ao meio-dia de amanhã,
+f
+(
+x
+) é o tempo de viagem do ponto
+A
+ao ponto
+B
+para determinado agente. Pode se tornar
+f
+(
+x
+) mais previsível do que
+x
+(usar o metrô, ou, melhor ainda, ir a pé).
+Algumas pessoas falam sobre
+f
+(
+x
+) pensando que estão falando sobre
+x
+. Esse é o problema da
+fusão do evento
+e da
+exposição ao evento
+. Esse erro, presente em Aristóteles, é praticamente onipresente na filosofia da probabilidade (digamos, em Hacking).
+Um indivíduo pode tornar-se antifrágil a
+x
+sem compreender
+x
+, por meio da convexidade de
+f
+(
+x
+).
+A resposta para a pergunta “o que fazer em um mundo que não compreendemos?” é, simplesmente, esforçar-se para aprimorar os estados indesejáveis de
+f
+(
+x
+).
+Quase sempre, é mais fácil modificar
+f
+(
+x
+) do que buscar um melhor conhecimento de
+x
+(em outras palavras, robustificação, em vez de previsão Cisnes Negros).
+Exemplo:
+se eu comprar um seguro no mercado — aqui,
+x
+— e ele cair mais de 20%,
+f
+(
+x
+) será independente da parte de distribuição de probabilidade de
+x
+que está abaixo de 20% e é impermeável às mudanças em seu parâmetro de escala (esse é um exemplo de
+barbell
+).
+FIGURA 27.
+Transformação convexa ( f (
+x)
+é uma função convexa de (
+x)
+.
+A diferença entre
+x
+e a exposição a
+x
+. Não há risco de desvantagem no segundo gráfico. O
+fundamental é modificar
+f
+(
+x
+), a fim de fazer com que o conhecimento das propriedades de
+x
+no lado esquerdo da distribuição seja o mais irrelevante possível. Essa operação é chamada de transformação convexa, apelidada aqui de “
+barbell
+”.
+Falácia da madeira verde:
+quando se confunde
+f
+(
+x
+) com outra função
+g
+(
+x
+), que tem diferentes não linearidades.
+Em termos mais técnicos:
+se algo ou alguém é antifrágil a
+x
+, então a variância (ou a volatilidade, ou outras medidas de variação) de
+x
+beneficiam
+f
+(
+x
+), uma vez que a média das distribuições que são enviesadas depende da variância, e quando elas estão inclinadas para a direita, sua expectativa aumenta com a variância (a lognormal, por exemplo, tem por média um termo que inclui +½ o
+2
+).
+Ademais, a distribuição de probabilidade de
+f
+(
+x
+) é acentuadamente diferente da de x, em especial na presença de não linearidades.
+Quando
+f
+(
+x
+) é convexa (côncava) monotonicamente,
+f
+(
+x
+) inclina-se para a direita (ou esquerda).
+Quando
+f
+(
+x
+) está aumentando e é convexa do lado esquerdo, e depois côncava do lado direito, a distribuição de probabilidade de
+f
+(
+x
+) apresenta uma cauda mais curta do que a cauda de
+x
+. Por exemplo, na teoria da perspectiva de Kahneman-Tversky, a chamada utilidade das alterações na riqueza é mais “robusta” do que a riqueza em si.
+Por que a compensação é mais importante do que a probabilidade (técnico):
+em que
+p
+(
+x
+) é a densidade, a expectativa, ou seja,
+∫f
+(
+x
+)
+p
+(
+x
+)
+dx
+, dependerá cada vez mais de
+f
+do que de
+p
+, e quanto mais não linear for
+f
+, mais ela dependerá de
+f
+, e não de
+p
+.
+O QUARTO QUADRANTE (TALEB, 2009)
+A ideia é que eventos de cauda não são calculáveis (em domínios de cauda grossa), mas podemos avaliar nossa exposição ao problema. Supondo que
+f
+(
+x
+) é uma função crescente, a tabela 10 conecta a ideia à noção do Quarto Quadrante.
+TABELA 10
+DISTRIBUIÇÃO DE CAUDA FINA PARA X
+DISTRIBUIÇÃO DE CAUDA GROSSA PARA X
+“Atenuação” de
+f
+(
+x
+), eliminando os resultados extremos, isto é, convexos-côncavos
+Resultado muito robusto
+Resultado consideravelmente robusto
+f
+(
+x
+) côncavo-convexo, exacerba resultados remotos
+Resultado robusto (mais ou menos)
+QUARTO QUADRANTE
+frágil (se
+f
+(
+x
+) é côncavo) ou antifrágil
+CONVEXIDADES LOCAIS E GLOBAIS (TÉCNICO)
+Nada é ilimitado na natureza — a morte é um resultado máximo para uma unidade. Assim, as coisas acabam sendo convexas de um lado e côncavas do outro.
+Com efeito, em algum momento ocorre um dano máximo em tudo que é biológico. Vamos revisitar a figura côncava da pedra e das pedrinhas do capítulo 18: expandindo a amplitude, vemos que a limitação dos danos traz convexidades em algum lugar. A concavidade era dominante, mas local. A figura 28 examina a continuação da história da pedra e das pedrinhas.
+FIGURA 28.
+O gráfico à esquerda mostra uma amplitude maior na história da pedra e das pedrinhas do capítulo 18. Em algum momento, o côncavo torna-se convexo quando atingimos o dano máximo. O gráfico à direita mostra forte antifragilidade, sem nenhum limite superior conhecido
+(
+levando ao Extremistão
+)
+. Essas compensações estão disponíveis somente em variáveis econômicas, digamos, nas vendas de livros, ou em assuntos irrestritos ou praticamente irrestritos. Sou incapaz de encontrar esse efeito na natureza.
+FIGURA 29.
+Antifragilidade fraca (
+Mediocristão)
+, com um máximo limitado.
+Típica na natureza.
+NÃO LINEARIDADES ANÔMALAS (BASTANTE TÉCNICO)
+Os dois tipos de não linearidades seguintes raramente são observados fora das variáveis econômicas; eles
+estão especificamente limitados àquelas causadas por derivativos.
+FIGURA 30.
+O gráfico à esquerda mostra uma função convexo-côncava crescente, o oposto das limitadas funções de resposta à dose que observamos na natureza. Isso leva ao tipo 2, frágil
+(
+caudas muito, muito grossas
+)
+. O gráfico à direita mostra a mais perigosa de todas: a pseudoconvexidade. Antifragilidade local, fragilidade global.
+NÃO LINEARIDADES MÉDICAS E SUA CORRESPONDÊNCIA EM PROBABILIDADE (CAPÍTULOS 21 + 22)
+FIGURA 31.
+Iatrogenia médica:
+caso de pequenos benefícios e prejuízos consideráveis, ao estilo Cisne Negro, observados no espaço da probabilidade. A iatrogenia ocorre quando temos pequenos ganhos identificáveis
+(
+por exemplo, acabar com um desconforto leve ou uma infecção de pequena gravidade
+)
+e a exposição a Cisnes Negros, com vastos efeitos colaterais invisíveis e protelados
+(
+digamos, a morte
+)
+. Esses benefícios côncavos na medicina são como vender uma opção financeira
+(
+muitos riscos
+)
+em contraste com minúsculos ganhos imediatos, enquanto se alega a “evidência de nenhum dano”.
+Em suma, para uma pessoa saudável, há uma pequena probabilidade de resultados desastrosos
+(
+descartados por serem invisíveis e não serem levados em conta
+)
+e uma alta probabilidade de benefícios modestos.
+FIGURA 32.
+Não linearidades na biologia.
+A forma convexa-côncava surge necessariamente de qualquer coisa em progressão
+(
+invariável, ou seja, que nunca
+decresce
+)
+e limitada, com valores máximos e mínimos, isto é, que não alcança o infinito em nenhum dos lados. Em níveis baixos, a resposta à dose é convexa
+(
+gradualmente mais e mais eficaz
+).
+Doses extras tendem a tornar-se cada vez mais ineficazes ou podem levar a causar danos. O mesmo pode ser aplicado a qualquer coisa consumida com excessiva regularidade. Esse tipo de gráfico necessariamente aplica-se a qualquer situação restrita em ambos os lados, com um mínimo e um máximo conhecidos
+(
+saturação
+)
+, o que inclui a felicidade.
+Por exemplo, quando se leva em conta que existe um nível máximo de felicidade e de infelicidade, então a forma geral dessa curva com convexidade à esquerda e concavidade à direita tem de ser válida para a felicidade
+(
+substitua “dose” por “riqueza” e “resposta” por “felicidade”
+)
+. A teoria da perspectiva de Kahneman-Tversky simula uma forma semelhante para a “utilidade” de alterações na riqueza, que eles descobriram empiricamente.
+FIGURA 33.
+Lembre-se do exemplo da hipertensão. No eixo vertical, temos os benefícios de um tratamento;
+no horizontal, a gravidade do estado de saúde. A seta aponta para o nível no qual os ganhos probabilísticos equivalem ao dano probabilístico. A iatrogenia desaparece de modo não linear, como uma função da gravidade da doença. Isso implica que, quando o paciente está muito debilitado, a distribuição desloca-se para o antifrágil
+(
+cauda mais longa à direita
+)
+, os benefícios consideráveis do tratamento sobrepujando a possível iatrogenia, pouco a perder.
+Note que, se aumentarmos o tratamento, atingiremos a concavidade do máximo de benefícios, uma zona que este gráfico não cobre — em termos gerais, ele ficaria parecido com o gráfico anterior.
+FIGURA 34.
+O gráfico à esquerda mostra a hormese para um organismo
+(
+similar à figura 19
+)
+: podemos ver um estágio de benefícios à medida que a dose aumenta
+(
+inicialmente convexo
+)
+, desacelerando e passando para um estágio de danos, conforme aumentamos um pouco mais a dose
+(
+inicialmente côncavo
+)
+; depois, vemos as coisas diminuindo até se estabilizarem no nível de danos máximos
+(
+além de certo ponto, o organismo morre, de modo que, na biologia, existe o pior cenário possível, restrito e conhecido
+)
+. À direita, um gráfico incorreto de hormese em livros didáticos de medicina, mostrando concavidade inicial, com um início que parece linear ou ligeiramente côncavo.
+O PROBLEMA DO PERU ÀS AVESSAS
+FIGURA 35.
+Antifrágil, Problema do peru às avessas:
+o evento raro não observado é positivo. Quando analisamos uma série temporal positivamente enviesada
+(
+antifrágil
+)
+e fazemos inferências sobre o não observado, deixamos de perceber as coisas boas e subestimamos os benefícios
+(
+o erro de Pisano, 2006a, 2006b
+)
+. À direita, o outro problema de Harvard, o de Froot
+(
+2001
+)
+. A área preenchida corresponde ao que tendemos a não observar em amostras pequenas, devido à insuficiência de indícios. Curiosamente, a área sombreada aumenta com o erro do modelo. As seções mais técnicas chamam esta zona de
+ω
+B
+(
+peru
+)
+e de
+ω
+C
+(
+peru às avessas
+)
+.
+DIFERENÇA ENTRE ESTIMATIVAS PONTUAIS E DISTRIBUIÇÕES
+Vamos aplicar essa análise ao modo como os planejadores cometem os erros que cometem, e por que os déficits tendem a ser piores do que o previsto:
+FIGURA 36.
+A disparidade entre previsões e realidade:
+a distribuição de probabilidade de resultados dos custos de projetos na mente dos planejadores
+(
+à esquerda
+)
+e na realidade
+(
+à direita
+)
+. No primeiro gráfico, eles presumem que os custos serão ao mesmo tempo baixos e indubitáveis. O gráfico à direita mostra que os resultados são piores e mais distribuídos, particularmente com possibilidade mais alta de resultados desfavoráveis. Note que a fragilidade se avoluma devido ao aumento da cauda esquerda.
+Essa incompreensão do efeito da incerteza aplica-se aos déficits governamentais, planejamentos que tenham componentes de tecnologia da informação, tempo de viagem
+(
+em menor grau
+)
+e muitos mais. Usaremos o mesmo gráfico para mostrar o erro do modelo a partir da subestimação da fragilidade, presumindo que um parâmetro é constante quando é aleatório. É isso que fustiga a economia norteada pela burocracia
+(
+discussão seguinte
+)
+.

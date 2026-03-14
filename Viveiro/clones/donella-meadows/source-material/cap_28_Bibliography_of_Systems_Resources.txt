@@ -1,0 +1,78 @@
+# Bibliography of Systems Resources
+
+Paginas: 202-204
+
+
+Bibliography of Systems Resources
+In addition to the works cited in the Notes, the items listed here are jumping off
+points—places to start your search for more ways to see and learn about
+systems. The fields of systems thinking and system dynamics are now extensive,
+reaching into many disciplines. For more resources, see also www
+.ThinkingInSystems.org
+Systems Thinking and Modeling
+
+Books
+Bossel, Hartmut. Systems and Models: Complexity, Dynamics, Evolution,
+Sustainability. (Norderstedt, Germany: Books on Demand, 2007). A
+comprehensive textbook presenting the fundamental concepts and approaches
+for understanding and modeling the complex systems shaping the dynamics of
+our world, with a large bibliography on systems.
+Bossel, Hartmut. System Zoo Simulation Models. Vol. 1: Elementary Systems,
+Physics, Engineering; Vol. 2: Climate, Ecosystems, Resources; Vol. 3:
+Economy, Society, Development. (Norderstedt, Germany: Books on Demand,
+2007). A collection of more than 100 simulation models of dynamic systems
+from all fields of science, with full documentation of models, results,
+exercises, and free simulation model download.
+Forrester,
+Jay.
+Principles
+of
+Systems.
+(Cambridge,
+MA:
+Pegasus
+Communications, 1990). First published in 1968, this is the original
+introductory text on system dynamics.
+Laszlo, Ervin. A Systems View of the World. (Cresskill, NJ: Hampton Press,
+1996).
+Richardson, George P. Feedback Thought in Social Science and Systems Theory.
+(Philadelphia: University of Pennsylvania Press, 1991). The long, varied, and
+fascinating history of feedback concepts in social theory.
+Sweeney, Linda B. and Dennis Meadows. The Systems Thinking Playbook.
+(2001). A collection of 30 short gaming exercises that illustrate lessons about
+systems thinking and mental models.
+Organizations, Websites, Periodicals, and Software
+Creative Learning Exchange—an organization devoted to developing “systems
+citizens” in K–12 education. Publisher of The CLE Newsletter and books for
+teachers and students. www.clexchange.org
+isee systems, inc.—Developer of STELLA and iThink software for modeling
+dynamic systems. www.iseesystems.com
+Pegasus Communications—Publisher of two newsletters, The Systems Thinker
+and Leverage Points, as well as many books and other resources on systems
+thinking. www.pegasuscom.com
+System Dynamics Society—an international forum for researchers, educators,
+consultants, and practitioners dedicated to the development and use of
+systems thinking and system dynamics around the world. The Systems
+Dynamics Review is the official journal of the System Dynamics Society.
+www.systemdynamics.org
+Ventana Systems, Inc.—Developer of Vensim software for modeling dynamic
+systems. vensim.com
+
+Systems Thinking and Business
+Senge, Peter. The Fifth Discipline: The Art and Practice of the Learning
+Organization. (New York: Doubleday, 1990). Systems thinking in a business
+environment, and also the broader philosophical tools that arise from and
+complement systems thinking, such as mental-model flexibility and visioning.
+Sherwood, Dennis. Seeing the Forest for the Trees: A Manager’s Guide to
+Applying Systems Thinking. (London: Nicholas Brealey Publishing, 2002).
+Sterman, John D. Business Dynamics: Systems Thinking and Modeling for a
+Complex World. (Boston: Irwin McGraw Hill, 2000).
+Systems Thinking and Environment
+Ford, Andrew. Modeling the Environment. (Washington, DC: Island Press,
+1999.)
+Systems Thinking, Society, and Social Change
+Macy, Joanna. Mutual Causality in Buddhism and General Systems Theory.
+(Albany, NY: Stat University of New York Press, 1991).
+Meadows, Donella H. The Global Citizen. (Washington, DC: Island Press,
+1991).
+

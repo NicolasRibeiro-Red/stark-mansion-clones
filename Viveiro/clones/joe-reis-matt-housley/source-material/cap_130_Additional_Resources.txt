@@ -1,0 +1,63 @@
+# Additional Resources
+
+Paginas: 176-177
+
+lacks support for many data-native constructs, such as schema management, lineage,
+and cataloging; and it is challenging to develop and test Airflow workflows.
+We do not attempt an exhaustive discussion of Airflow alternatives here but just
+mention a couple of the key orchestration contenders at the time of writing. Prefect
+and Dagster aim to solve some of the problems discussed previously by rethinking
+components of the Airflow architecture. Will there be other orchestration frame‐
+works and technologies not discussed here? Plan on it.
+We highly recommend that anyone choosing an orchestration technology study the
+options discussed here. They should also acquaint themselves with activity in the
+space, as new developments will certainly occur by the time you read this.
+Software Engineering
+As a data engineer, you should strive for simplification and abstraction across the
+data stack. Buy or use prebuilt open source solutions whenever possible. Eliminating
+undifferentiated heavy lifting should be your big goal. Focus your resources—custom
+coding and tooling—on areas that give you a solid competitive advantage. For exam‐
+ple, is hand-coding a database connection between your production database and
+your cloud data warehouse a competitive advantage for you? Probably not. This is
+very much a solved problem. Pick an off-the-shelf solution (open source or managed
+SaaS) instead. The world doesn’t need the millionth +1 database-to-cloud data ware‐
+house connector.
+On the other hand, why do customers buy from you? Your business likely has
+something special about the way it does things. Maybe it’s a particular algorithm that
+powers your fintech platform. By abstracting away a lot of the redundant workflows
+and processes, you can continue chipping away, refining, and customizing the things
+that move the needle for the business.
+Conclusion
+Choosing the right technologies is no easy task, especially when new technologies
+and patterns emerge daily. Today is possibly the most confusing time in history for
+evaluating and selecting technologies. Choosing technologies is a balance of use case,
+cost, build versus buy, and modularization. Always approach technology the same
+way as architecture: assess trade-offs and aim for reversible decisions.
+Additional Resources
+• Cloud FinOps by J. R. Storment and Mike Fuller (O’Reilly)
+•
+• “Cloud Infrastructure: The Definitive Guide for Beginners” by Matthew Smith
+•
+Conclusion
+|
+151
+
+• “The Cost of Cloud, a Trillion Dollar Paradox” by Sarah Wang and Martin
+•
+Casado
+• FinOps Foundation’s “What Is FinOps” web page
+•
+• “Red Hot: The 2021 Machine Learning, AI and Data (MAD) Landscape” by Matt
+•
+Turck
+• Ternary Data’s “What’s Next for Analytical Databases? w/ Jordan Tigani (Mother‐
+•
+Duck)” video
+• “The Unfulfilled Promise of Serverless” by Corey Quinn
+•
+• “What Is the Modern Data Stack?” by Charles Wang
+•
+152
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+

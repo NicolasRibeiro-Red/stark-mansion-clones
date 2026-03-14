@@ -1,0 +1,331 @@
+{
+  "titulo": "A lógica do Cisne Negro",
+  "autor": "Nassim Nicholas Taleb & Renato Marques de Oliveira",
+  "total_paginas": 533,
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "Folha de rosto",
+      "paginas": "2-1",
+      "arquivo": "cap_01_Folha_de_rosto.txt"
+    },
+    {
+      "numero": 2,
+      "titulo": "Capa",
+      "paginas": "2-2",
+      "arquivo": "cap_02_Capa.txt"
+    },
+    {
+      "numero": 3,
+      "titulo": "Sumário",
+      "paginas": "3-4",
+      "arquivo": "cap_03_Sumário.txt"
+    },
+    {
+      "numero": 4,
+      "titulo": "Dedicatória",
+      "paginas": "5-5",
+      "arquivo": "cap_04_Dedicatória.txt"
+    },
+    {
+      "numero": 5,
+      "titulo": "Nota à segunda edição",
+      "paginas": "6-6",
+      "arquivo": "cap_05_Nota_à_segunda_edição.txt"
+    },
+    {
+      "numero": 6,
+      "titulo": "Prólogo",
+      "paginas": "7-19",
+      "arquivo": "cap_06_Prólogo.txt"
+    },
+    {
+      "numero": 7,
+      "titulo": "Parte I: A antibiblioteca de Umberto Eco, ou como buscamos validação",
+      "paginas": "20-21",
+      "arquivo": "cap_07_Parte_I_A_antibiblioteca_de_Umberto_Eco_ou_como_bu.txt"
+    },
+    {
+      "numero": 8,
+      "titulo": "1. A aprendizagem de um cético empírico",
+      "paginas": "22-41",
+      "arquivo": "cap_08_1_A_aprendizagem_de_um_cético_empírico.txt"
+    },
+    {
+      "numero": 9,
+      "titulo": "2. O Cisne Negro de Ievguênia",
+      "paginas": "42-44",
+      "arquivo": "cap_09_2_O_Cisne_Negro_de_Ievguênia.txt"
+    },
+    {
+      "numero": 10,
+      "titulo": "3. O especulador e a prostituta",
+      "paginas": "45-57",
+      "arquivo": "cap_10_3_O_especulador_e_a_prostituta.txt"
+    },
+    {
+      "numero": 11,
+      "titulo": "4. 1001 dias, ou como não ser um otário",
+      "paginas": "58-70",
+      "arquivo": "cap_11_4_1001_dias_ou_como_não_ser_um_otário.txt"
+    },
+    {
+      "numero": 12,
+      "titulo": "5. Confirmação uma ova!",
+      "paginas": "71-82",
+      "arquivo": "cap_12_5_Confirmação_uma_ova.txt"
+    },
+    {
+      "numero": 13,
+      "titulo": "6. A falácia narrativa",
+      "paginas": "83-107",
+      "arquivo": "cap_13_6_A_falácia_narrativa.txt"
+    },
+    {
+      "numero": 14,
+      "titulo": "7. Viver na antessala da esperança",
+      "paginas": "108-123",
+      "arquivo": "cap_14_7_Viver_na_antessala_da_esperança.txt"
+    },
+    {
+      "numero": 15,
+      "titulo": "8. A sorte inflável de Giacomo Casanova: O problema da evidência silenciosa",
+      "paginas": "124-146",
+      "arquivo": "cap_15_8_A_sorte_inflável_de_Giacomo_Casanova_O_problema_.txt"
+    },
+    {
+      "numero": 16,
+      "titulo": "9. A falácia lúdica, ou a incerteza do nerd",
+      "paginas": "147-159",
+      "arquivo": "cap_16_9_A_falácia_lúdica_ou_a_incerteza_do_nerd.txt"
+    },
+    {
+      "numero": 17,
+      "titulo": "Parte II: Somos simplesmente incapazes de prever",
+      "paginas": "160-161",
+      "arquivo": "cap_17_Parte_II_Somos_simplesmente_incapazes_de_prever.txt"
+    },
+    {
+      "numero": 18,
+      "titulo": "10. O escândalo de previsão",
+      "paginas": "162-192",
+      "arquivo": "cap_18_10_O_escândalo_de_previsão.txt"
+    },
+    {
+      "numero": 19,
+      "titulo": "11. Como procurar cocô de passarinho",
+      "paginas": "193-221",
+      "arquivo": "cap_19_11_Como_procurar_cocô_de_passarinho.txt"
+    },
+    {
+      "numero": 20,
+      "titulo": "12. Epistemocracia, um sonho",
+      "paginas": "222-232",
+      "arquivo": "cap_20_12_Epistemocracia_um_sonho.txt"
+    },
+    {
+      "numero": 21,
+      "titulo": "13. Apeles, o pintor, ou o que fazer quando não se consegue prever?",
+      "paginas": "233-243",
+      "arquivo": "cap_21_13_Apeles_o_pintor_ou_o_que_fazer_quando_não_se_co.txt"
+    },
+    {
+      "numero": 22,
+      "titulo": "Parte III: Aqueles Cisnes Cinzentos do Extremistão",
+      "paginas": "244-244",
+      "arquivo": "cap_22_Parte_III_Aqueles_Cisnes_Cinzentos_do_Extremistão.txt"
+    },
+    {
+      "numero": 23,
+      "titulo": "14. Do Mediocristão ao Extremistão, e de volta",
+      "paginas": "245-258",
+      "arquivo": "cap_23_14_Do_Mediocristão_ao_Extremistão_e_de_volta.txt"
+    },
+    {
+      "numero": 24,
+      "titulo": "15. A curva em forma de sino, a grande fraude intelectual",
+      "paginas": "259-284",
+      "arquivo": "cap_24_15_A_curva_em_forma_de_sino_a_grande_fraude_intele.txt"
+    },
+    {
+      "numero": 25,
+      "titulo": "16. A estética da aleatoriedade",
+      "paginas": "285-306",
+      "arquivo": "cap_25_16_A_estética_da_aleatoriedade.txt"
+    },
+    {
+      "numero": 26,
+      "titulo": "17. Os loucos de Locke, ou a curva em forma de sino nos lugares errados",
+      "paginas": "307-318",
+      "arquivo": "cap_26_17_Os_loucos_de_Locke_ou_a_curva_em_forma_de_sino_.txt"
+    },
+    {
+      "numero": 27,
+      "titulo": "18. A incerteza dos fajutos",
+      "paginas": "319-325",
+      "arquivo": "cap_27_18_A_incerteza_dos_fajutos.txt"
+    },
+    {
+      "numero": 28,
+      "titulo": "Parte IV: O fim",
+      "paginas": "326-326",
+      "arquivo": "cap_28_Parte_IV_O_fim.txt"
+    },
+    {
+      "numero": 29,
+      "titulo": "19. Meio a meio, ou como ficar quite com o Cisne Negro",
+      "paginas": "327-330",
+      "arquivo": "cap_29_19_Meio_a_meio_ou_como_ficar_quite_com_o_Cisne_Neg.txt"
+    },
+    {
+      "numero": 30,
+      "titulo": "Epílogo: Os Cisnes Brancos de Ievguênia",
+      "paginas": "331-332",
+      "arquivo": "cap_30_Epílogo_Os_Cisnes_Brancos_de_Ievguênia.txt"
+    },
+    {
+      "numero": 31,
+      "titulo": "Ensaio pós-escrito: Sobre a robustez e a fragilidade, reflexões filosóficas e empíricas mais aprofundadas",
+      "paginas": "333-333",
+      "arquivo": "cap_31_Ensaio_pós-escrito_Sobre_a_robustez_e_a_fragilidad.txt"
+    },
+    {
+      "numero": 32,
+      "titulo": "1. Aprendendo com a Mãe Natureza, a mais velha e mais sábia",
+      "paginas": "334-351",
+      "arquivo": "cap_32_1_Aprendendo_com_a_Mãe_Natureza_a_mais_velha_e_mai.txt"
+    },
+    {
+      "numero": 33,
+      "titulo": "2. Por que faço tantas caminhadas, ou como os sistemas se tornam frágeis",
+      "paginas": "352-357",
+      "arquivo": "cap_33_2_Por_que_faço_tantas_caminhadas_ou_como_os_sistem.txt"
+    },
+    {
+      "numero": 34,
+      "titulo": "3. Margaritas ante porcos",
+      "paginas": "358-366",
+      "arquivo": "cap_34_3_Margaritas_ante_porcos.txt"
+    },
+    {
+      "numero": 35,
+      "titulo": "4. Asperger e o Cisne Negro ontológico",
+      "paginas": "367-374",
+      "arquivo": "cap_35_4_Asperger_e_o_Cisne_Negro_ontológico.txt"
+    },
+    {
+      "numero": 36,
+      "titulo": "5. (Talvez) O problema mais útil na história da filosofia moderna",
+      "paginas": "375-388",
+      "arquivo": "cap_36_5_Talvez_O_problema_mais_útil_na_história_da_filos.txt"
+    },
+    {
+      "numero": 37,
+      "titulo": "6. O Quarto Quadrante, a solução para aquele que é o mais útil dos problemas",
+      "paginas": "389-393",
+      "arquivo": "cap_37_6_O_Quarto_Quadrante_a_solução_para_aquele_que_é_o.txt"
+    },
+    {
+      "numero": 38,
+      "titulo": "7. O que fazer com o Quarto Quadrante",
+      "paginas": "394-400",
+      "arquivo": "cap_38_7_O_que_fazer_com_o_Quarto_Quadrante.txt"
+    },
+    {
+      "numero": 39,
+      "titulo": "8. Os dez princípios para uma sociedade robusta diante do Cisne Negro",
+      "paginas": "401-404",
+      "arquivo": "cap_39_8_Os_dez_princípios_para_uma_sociedade_robusta_dia.txt"
+    },
+    {
+      "numero": 40,
+      "titulo": "9. Amor fati: Como se tornar indestrutível",
+      "paginas": "405-407",
+      "arquivo": "cap_40_9_Amor_fati_Como_se_tornar_indestrutível.txt"
+    },
+    {
+      "numero": 41,
+      "titulo": "Agradecimentos",
+      "paginas": "408-412",
+      "arquivo": "cap_41_Agradecimentos.txt"
+    },
+    {
+      "numero": 42,
+      "titulo": "Glossário",
+      "paginas": "413-417",
+      "arquivo": "cap_42_Glossário.txt"
+    },
+    {
+      "numero": 43,
+      "titulo": "Notas adicionais, comentários técnicos, referências e recomendações de leitura",
+      "paginas": "418-471",
+      "arquivo": "cap_43_Notas_adicionais_comentários_técnicos_referências_.txt"
+    },
+    {
+      "numero": 44,
+      "titulo": "Referências bibliográficas",
+      "paginas": "472-529",
+      "arquivo": "cap_44_Referências_bibliográficas.txt"
+    },
+    {
+      "numero": 45,
+      "titulo": "Sobre o autor",
+      "paginas": "530-530",
+      "arquivo": "cap_45_Sobre_o_autor.txt"
+    },
+    {
+      "numero": 46,
+      "titulo": "Créditos",
+      "paginas": "531-533",
+      "arquivo": "cap_46_Créditos.txt"
+    }
+  ],
+  "arquivos": [
+    "cap_01_Folha_de_rosto.txt",
+    "cap_02_Capa.txt",
+    "cap_03_Sumário.txt",
+    "cap_04_Dedicatória.txt",
+    "cap_05_Nota_à_segunda_edição.txt",
+    "cap_06_Prólogo.txt",
+    "cap_07_Parte_I_A_antibiblioteca_de_Umberto_Eco_ou_como_bu.txt",
+    "cap_08_1_A_aprendizagem_de_um_cético_empírico.txt",
+    "cap_09_2_O_Cisne_Negro_de_Ievguênia.txt",
+    "cap_10_3_O_especulador_e_a_prostituta.txt",
+    "cap_11_4_1001_dias_ou_como_não_ser_um_otário.txt",
+    "cap_12_5_Confirmação_uma_ova.txt",
+    "cap_13_6_A_falácia_narrativa.txt",
+    "cap_14_7_Viver_na_antessala_da_esperança.txt",
+    "cap_15_8_A_sorte_inflável_de_Giacomo_Casanova_O_problema_.txt",
+    "cap_16_9_A_falácia_lúdica_ou_a_incerteza_do_nerd.txt",
+    "cap_17_Parte_II_Somos_simplesmente_incapazes_de_prever.txt",
+    "cap_18_10_O_escândalo_de_previsão.txt",
+    "cap_19_11_Como_procurar_cocô_de_passarinho.txt",
+    "cap_20_12_Epistemocracia_um_sonho.txt",
+    "cap_21_13_Apeles_o_pintor_ou_o_que_fazer_quando_não_se_co.txt",
+    "cap_22_Parte_III_Aqueles_Cisnes_Cinzentos_do_Extremistão.txt",
+    "cap_23_14_Do_Mediocristão_ao_Extremistão_e_de_volta.txt",
+    "cap_24_15_A_curva_em_forma_de_sino_a_grande_fraude_intele.txt",
+    "cap_25_16_A_estética_da_aleatoriedade.txt",
+    "cap_26_17_Os_loucos_de_Locke_ou_a_curva_em_forma_de_sino_.txt",
+    "cap_27_18_A_incerteza_dos_fajutos.txt",
+    "cap_28_Parte_IV_O_fim.txt",
+    "cap_29_19_Meio_a_meio_ou_como_ficar_quite_com_o_Cisne_Neg.txt",
+    "cap_30_Epílogo_Os_Cisnes_Brancos_de_Ievguênia.txt",
+    "cap_31_Ensaio_pós-escrito_Sobre_a_robustez_e_a_fragilidad.txt",
+    "cap_32_1_Aprendendo_com_a_Mãe_Natureza_a_mais_velha_e_mai.txt",
+    "cap_33_2_Por_que_faço_tantas_caminhadas_ou_como_os_sistem.txt",
+    "cap_34_3_Margaritas_ante_porcos.txt",
+    "cap_35_4_Asperger_e_o_Cisne_Negro_ontológico.txt",
+    "cap_36_5_Talvez_O_problema_mais_útil_na_história_da_filos.txt",
+    "cap_37_6_O_Quarto_Quadrante_a_solução_para_aquele_que_é_o.txt",
+    "cap_38_7_O_que_fazer_com_o_Quarto_Quadrante.txt",
+    "cap_39_8_Os_dez_princípios_para_uma_sociedade_robusta_dia.txt",
+    "cap_40_9_Amor_fati_Como_se_tornar_indestrutível.txt",
+    "cap_41_Agradecimentos.txt",
+    "cap_42_Glossário.txt",
+    "cap_43_Notas_adicionais_comentários_técnicos_referências_.txt",
+    "cap_44_Referências_bibliográficas.txt",
+    "cap_45_Sobre_o_autor.txt",
+    "cap_46_Créditos.txt"
+  ]
+}

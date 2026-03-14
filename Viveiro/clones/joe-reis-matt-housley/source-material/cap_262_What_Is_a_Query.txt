@@ -1,0 +1,42 @@
+# What Is a Query?
+
+Paginas: 298-298
+
+What Is a Query?
+We often run into people who know how to write SQL but are unfamiliar with how
+a query works under the hood. Some of this introductory material on queries will be
+familiar to experienced data engineers; feel free to skip ahead if this applies to you.
+A query allows you to retrieve and act on data. Recall our conversation in Chapter 5
+about CRUD. When a query retrieves data, it is issuing a request to read a pattern of
+records. This is the R (read) in CRUD. You might issue a query that gets all records
+from a table foo, such as SELECT * FROM foo. Or, you might apply a predicate
+(logical condition) to filter your data by retrieving only records where the id is 1,
+using the SQL query SELECT * FROM foo WHERE id=1.
+Many databases allow you to create, update, and delete data. These are the CUD in
+CRUD; your query will either create, mutate, or destroy existing records. Let’s review
+some other common acronyms you’ll run into when working with query languages.
+Data definition language
+At a high level, you first need to create the database objects before adding data. You’ll
+use data definition language (DDL) commands to perform operations on database
+objects, such as the database itself, schemas, tables, or users; DDL defines the state of
+objects in your database.
+Data engineers use common SQL DDL expressions: CREATE, DROP, and UPDATE. For
+example, you can create a database by using the DDL expression CREATE DATABASE
+bar. After that, you can also create new tables (CREATE table bar_table) or delete a
+table (DROP table bar_table).
+Data manipulation language
+After using DDL to define database objects, you need to add and alter data within
+these objects, which is the primary purpose of data manipulation language (DML).
+Some common DML commands you’ll use as a data engineer are as follows:
+SELECT
+INSERT
+UPDATE
+DELETE
+COPY
+MERGE
+For example, you can INSERT new records into a database table, UPDATE existing ones,
+and SELECT specific records.
+Queries
+|
+273
+

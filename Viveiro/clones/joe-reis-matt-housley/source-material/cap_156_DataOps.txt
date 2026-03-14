@@ -1,0 +1,44 @@
+# DataOps
+
+Paginas: 209-209
+
+Data Management
+Data management of source systems is challenging for data engineers. In most cases,
+you will have only peripheral control—if any control at all—over source systems and
+the data they produce. To the extent possible, you should understand the way data
+is managed in source systems since this will directly influence how you ingest, store,
+and transform the data.
+Here are some areas to consider:
+Data governance
+Are upstream data and systems governed in a reliable, easy-to-understand fash‐
+ion? Who manages the data?
+Data quality
+How do you ensure data quality and integrity in upstream systems? Work with
+source system teams to set expectations on data and communication.
+Schema
+Expect that upstream schemas will change. Where possible, collaborate with
+source system teams to be notified of looming schema changes.
+Master data management
+Is the creation of upstream records controlled by a master data management
+practice or system?
+Privacy and ethics
+Do you have access to raw data, or will the data be obfuscated? What are the
+implications of the source data? How long is it retained? Does it shift locations
+based on retention policies?
+Regulatory
+Based upon regulations, are you supposed to access the data?
+DataOps
+Operational excellence—DevOps, DataOps, MLOps, XOps—should extend up and
+down the entire stack and support the data engineering and lifecycle. While this is
+ideal, it’s often not fully realized.
+Because you’re working with stakeholders who control both the source systems and
+the data they produce, you need to ensure that you can observe and monitor the
+uptime and usage of the source systems and respond when incidents occur. For
+example, when the application database you depend on for CDC exceeds its I/O
+capacity and needs to be rescaled, how will that affect your ability to receive data from
+this system? Will you be able to access the data, or will it be unavailable until the
+database is rescaled? How will this affect reports? In another example, if the software
+184
+|
+Chapter 5: Data Generation in Source Systems
+

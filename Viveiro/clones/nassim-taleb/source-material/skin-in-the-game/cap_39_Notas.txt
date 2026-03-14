@@ -1,0 +1,75 @@
+# Notas
+
+Paginas: 249-251
+
+Notas
+As notas aqui são organizadas por temas e não em ordem sequencial.
+Ética: Taleb e Sandis (2013), Sandis e Taleb (2015). Ver também Nagel (1970), Ross (1939); para a filosofia
+de ação, Sandis (2010, 2012). Ética política: Thompson (1983). Incerteza e ética: Altham (1984),
+Williams (1993), Zimmerman (2008). Geral: Blackburn (2001), Broad (1930). Escalar a mesma
+montanha por lados diferentes: Parfit (2011). Ética e conhecimento: Pritchard (2002), Rescher (2009).
+Embora eu me incline para a ética da virtude, a virtude por si mesma, por razões existenciais, meu
+coautor Constantine Sandis e eu descobrimos, graças a On What Matters, de Derek Parfit (2011), que
+considera que todos eles estão escalando diferentes lados da mesma montanha, que arriscar a própria pele
+cai no ponto de convergência de três sistemas éticos principais: imperativos kantianos, consequencialismo
+e virtude clássica.
+Principal agente e risco moral na economia: Ross (1973), Pratt et al. (1985), Stiglitz (1988), Tirole (1988),
+Hölmstrom (1979), Grossman e Hart (1983).
+Tomada de decisão islâmica sob incerteza: manuscrito inédito de Farid Karkabi, Karkabi (2017), Wardé
+(2010). Al gurm fil jurm é o principal conceito.
+Olho por olho não literal: A discussão em aramaico de que quando um homem pequeno machuca um homem
+grande não há equivalência é uma tradução incorreta. Gadol se refere a “herói” e não “grande”, e Qatan diz
+respeito a “insignificante” em vez de “pequeno”.
+Racionalidade: Binmore (2008) e comunicação privada com K. Binmore e G. Gigerenzer no festschrift deste
+último no teatro Bielefeld em 2017.
+Cristãos e pagãos: Wilkens (2003), Fox (2006), entre muitos. Ver Read e Taleb (2014).
+Juliano: Amiano Marcelino, História, v. I e II, Clássicos Loeb, Harvard University Press. Ver também
+Downey (1939, 1959).
+Ostrom: Ostrom (1986, 2015). Além disso, discussão no podcast Econtalk com Peter Boetke e Russell
+Roberts. Disponível em: <econtalk.org/archives/2009/11/boettke_on_elin.html>. Acesso em: 26 jun.
+2018.
+
+Assimetria e Escalabilidade: Antifrágil.
+Gene egoísta: Wilson e Wilson (2007), Nowak et al. (2010). Declaração de Pinker sobre o debate entre
+Nowak, Wilson et al., e outros que apoiam o enfoque do “gene egoísta”, deixando de perceber a
+escalabilidade, entre outras coisas. Disponível em: <edge.org/conversation/steven_pinker-the-false-allure-
+of-group-selection>. Acesso em: 26 jun. 2018. Bar-Yam e Sayama (2006).
+Cercas fazem bons vizinhos: Rutherford et al. (2014).
+Sacrifício: Halbertal (1980).
+Desigualdade dinâmica: Lamont (2009), Rank e Hirshl (2014, 2015). Também Mark Rank, “From Rags to
+Riches to Rags”, The New York Times, 18 abr. 2014.
+Ergodicidade e apostas: Peters e Gell-Mann (2016), Peters (2011).
+Desigualdade: Piketty (2015). Desapropriação já em Piketty (1995).
+Cômputo errôneo da desigualdade: Taleb e Douady (2015), Fontanari et al. (2017).
+Tributação por igualdade incompatível com caudas longas: Tal imposto, que significa punir o gerador de
+riqueza, é popular, mas absurdo e certamente suicida: uma vez que a recompensa é severamente reduzida
+no lado positivo, seria uma loucura correr riscos com apostas de pequena probabilidade, com ganhos de
+20 (depois de impostos) em vez de 100, e em seguida desembolsar todas as economias progressivamente
+em imposto sobre grandes fortunas. A estratégia ideal seria, então, tornar-se um acadêmico ou funcionário
+público ao estilo francês, os antigeradores de riqueza. Para ver o problema transversal em termos
+temporais: compare alguém com renda irregular, digamos um empreendedor que ganha 4,5 milhões de
+dólares a cada vinte anos, a um professor de economia que ganha o mesmo total no período (225 mil
+dólares anuais em renda financiada pelo contribuinte). O empreendedor com a mesmíssima renda acaba
+pagando 75% em impostos, mais o imposto sobre a fortuna sobre o resto, ao passo que o acadêmico com
+estabilidade no emprego e praticante do rent-seeking, que não contribui para a formação de riqueza, paga
+apenas 30%.
+Aposta de Kelly: Thorp (2006), McLean et al. (2011).
+Satisficing: É errado pensar que os axiomas necessariamente levam alguém a “maximizar” a renda sem
+qualquer restrição (economistas acadêmicos usaram a matemática ingênua em seu pensamento e
+programas de otimização). É perfeitamente compatível “satisfazer” a riqueza deles, isto é, ter como meta
+uma renda satisfatória, além de maximizar sua aptidão para a tarefa, ou o orgulho emocional que eles
+podem ter ao ver os frutos de seu árduo trabalho. Ou não “maximizar” explicitamente nada, apenas fazer
+as coisas porque é isso que nos torna humanos.
+Violência: Pinker (2011), Cirillo e Taleb (2016, 2018).
+
+Renormalização: Galam (2008, 2012). Grupo de renormalização em Binney et al. (1992).
+Sangue espesso: Margalit (2002).
+Racionalidade limitada: Gigerenzer e Brighton (2009), Gigerenzer (2010).
+Efeito Lindy: Eliazar (2017), Mandelbrot (1982, 1997); ver também Antifrágil.
+Periandro de Corinto: em Early Greek Philosophy and Early Ionian Thinkers, Part 1.
+Genes e regra da minoria: Lazaridis (2017), Zalloua, discussões privadas. As línguas se movem muito mais
+rapidamente que os genes. Os norte-europeus ficam surpresos ao ouvir que (1) os gregos antigos e
+modernos podem na verdade ser o mesmo povo, (2) “povos semíticos” como os fenícios são
+geneticamente mais próximos dos “indo-europeus” do que dos “semitas”, embora linguisticamente
+distantes.
+

@@ -1,0 +1,1775 @@
+# Notas adicionais, comentários técnicos, referências e recomendações de leitura
+
+Paginas: 418-471
+
+Notas adicionais, comentários técnicos, referências e
+recomendações de leitura
+Separei os tópicos por temas; assim, referências gerais serão encontradas
+principalmente no capítulo em que ocorrem pela primeira vez. Preﬁro usar uma
+sequência lógica aqui em vez de me limitar à divisão por capítulos.
+PRÓLOGO E CAPÍTULO 1
+Curva em forma de sino: quando escrevo curva em forma de sino, reﬁro-me à
+curva em forma sino gaussiana, também conhecida como distribuição normal.
+Todas as curvas parecem ter formato de sino, portanto se trata de um apelido.
+Além disso, quando escrevo a bacia gaussiana, quero dizer todas as
+distribuições que são semelhantes e para as quais o improvável é irrelevante e
+de baixo impacto (em termos mais técnicos, não escalável — todos os
+momentos são ﬁnitos). Note que a representação da curva em forma de
+histograma mascara a contribuição do evento remoto, uma vez que esse evento
+será um ponto na extrema direita ou na extrema esquerda em relação ao
+centro.
+Diamantes: ver Eco (2002).
+Platonicidade: estou simplesmente me referindo ao risco de se usar uma forma
+errada — não que as formas não existam. Não sou contra essencialismos;
+amiúde, sou cético quanto à nossa engenharia reversa e à identiﬁcação da
+forma correta. É um problema inverso!
+
+Empirista: se digo que sou um empirista, ou ﬁlósofo empírico, é só porque
+desconﬁo de generalizações conﬁrmatórias e teorizações apressadas. Não
+confunda isso com a tradição empirista britânica. Além do mais, muitos
+estatísticos, como veremos na Competição Makridakis, deﬁnem a si mesmos
+como pesquisadores “empíricos”, mas na verdade são o oposto — ajustam as
+teorias ao passado.
+Menção a Cristo: ver A guerra dos judeus, de Flávio Josefo.
+Primeira Guerra Mundial e previsão: Ferguson (2006b).
+Viés retrospectivo (distorção retrospectiva): ver Fischho (1982b).
+Rupturas históricas: Braudel (1985), p. 169, cita uma passagem pouco
+conhecida de Gautier. Ele escreve: “‘Esta longa história’, escreveu Emile-Félix
+Gautier, ‘durou uma dúzia de séculos, mais do que toda a história da França.
+Ao se encontrar a primeira espada árabe, a língua e o pensamento gregos, toda
+aquela herança se desfez em fumaça, como se nunca tivesse acontecido’”. Para
+discussões sobre descontinuidade, ver também Gurvitch (1957), Braudel
+(1953), Harris (2004).
+As religiões se espalham como best-sellers: Veyne (1971). Ver também Veyne
+(2005).
+Aglomerados de opiniões políticas: Pinker (2002).
+Categorias: Rosh (1973, 1978). Ver também Kant e o ornitorrinco, de Umberto
+Eco.
+Historiograﬁa e ﬁlosoﬁa da história: Bloch (1953), Carr (1961), Gaddis
+(2002), Braudel (1969, 1990), Bourdé e Martin (1989), Certeau (1975), o
+Muqaddamat de Ibn Khaldoun ilustram a busca pela causação, que vemos já
+presente em Heródoto. Para ﬁlosoﬁa da história, Aron (1961), Fukuyama
+(1992). Para visões pós-modernas, ver Jenkins (1991). Mostro na parte 
+como os historiógrafos desconhecem a diferença epistemológica entre
+processos forward (progressivo, de avanço, para a frente) e backward
+(regressivo, de retrocesso, para trás), ou seja, entre a projeção e a engenharia
+reversa.
+
+Informação e mercados: ver Shiller (1981, 1989), DeLong et al. (1991) e Cutler
+et al. (1989). A maior parte dos movimentos do mercado não tem uma “razão”,
+apenas uma explicação inventada.
+De valor descritivo para as quebras: ver Galbraith (1997), Shiller (2000) e
+Kindleberger (2001).
+CAPÍTULO 3
+Filmes: ver De Vany (2002). Ver também Salganik et al. (2006) para o contágio
+na compra de música.
+Religião e domínios de contágio: ver Boyer (2001).
+Sabedoria (loucura) das multidões: coletivamente, podemos nos tornar mais
+sábios ou bem mais tolos. Podemos ter intuições coletivas sobre questões
+relacionadas ao Mediocristão, como o peso de um boi (ver Surowiecki, 2004),
+mas minha conjectura é que fracassamos na hora de fazer previsões mais
+complicadas (variáveis econômicas para as quais as multidões incorrem em
+patologias — duas cabeças são piores do que uma). Para erros de decisão e
+grupos, ver Sniezek e Buckley (1993). Clássico: A história das ilusões e
+loucuras das massas: As armadilhas dos Cisnes Negros, de Charles Mackay.
+Intensiﬁcação na gravidade dos eventos: Zajdenweber (2000).
+Vida moderna: o romancista do século  Émile Zola deu boas-vindas, na
+virada para o século , ao advento do mercado cultural, do qual ele pareceu
+ser um dos primeiros beneﬁciários. Zola previu que a capacidade dos
+escritores e artistas de tirar proveito do sistema comercial os libertaria dos
+caprichos de mecenas. Infelizmente, isso foi acompanhado por uma
+concentração mais severa — pouquíssimas pessoas foram beneﬁciadas pelo
+sistema. Lahire (2006) mostra como a maioria dos escritores, ao longo da
+história, passou fome. É extraordinário que tenhamos uma profusão de dados
+da França sobre a tradição literária.
+CAPÍTULO 4
+
+Titanic: a citação é da apresentação de Dave Ingram no Simpósio de
+Gerenciamento de Riscos em Iniciativas, realizado em Chicago, em 2 de maio de
+2005. Para mais informações sobre o Y~5_, ver Lowenstein (2000), Dunbar
+(1999).
+Exposição de Hume: Hume (1748, 2000).
+Sexto Empírico: “É fácil, creio, rejeitar o método da indução (επαγωγη). Pois,
+como por meio dele desejam tornar universais convincentes com base em
+pormenores, eles o farão examinando todos os detalhes ou alguns deles.
+Todavia, se investigarem alguns poucos, a indução não terá ﬁrmeza, visto que
+alguns dos dados omitidos na indução deverão ser contrários ao universal; e,
+se investigarem todos, trabalharão em uma tarefa impossível, uma vez que as
+particularidades e inﬁnitos são indeterminados. Destarte, resulta que em
+qualquer um dos casos, penso, essa indução é trôpega.” Hipotiposes pirrônicas,
+Livro , p. 204.
+Bayle: o Dictionnaire historique et critique [Dicionário histórico e crítico] é
+extenso (doze volumes, perto de 6 mil páginas) e pesado (dezoito quilos), mas
+foi um best-seller intelectual em sua época, antes de ser suplantado pelos
+philosophes. Pode ser baixado no site da Bibliothèque Nationale francesa em
+<www.bn.fr>.
+A inspiração de Hume em Bayle: ver Popkin (1951, 1955). Qualquer leitura do
+bispo Huet (mais adiante) revelaria as semelhanças com Hume.
+Pensadores pré-Bayle: Dissertation sur la recherche de la vérité,1 Simon Foucher,
+por volta de 1673. É uma delícia de ler. Faz a tradição da heurística e dos
+vieses parecer a continuação da atmosfera de revolução pré-cientíﬁca e pré-
+Iluminismo.
+Bispo Huet e o problema da indução: “As coisas não podem ser conhecidas
+com uma certeza perfeita porque suas causas são inﬁnitas”, escreveu Pierre-
+Daniel Huet em seu Traité Philosophique de la Faiblesse de l’Esprit Humain.2
+Huet, ex-bispo de Avranches, escreveu o texto sob o nome de Théocrite de
+Pluvignac, Seigneur de la Roche, Gentilhomme de Périgord. O capítulo
+contém outra apresentação exata do que mais tarde se tornou conhecido como
+o “problema de Hume”. Isso foi em 1690, quando o futuro David Home
+
+(posteriormente Hume) ainda demoraria 22 anos para nascer, portanto era
+impossível que tivesse exercido qualquer inﬂuência no Monseigneur Huet.
+Obra de Brochard: encontrei pela primeira vez uma menção à obra de Brochard
+(1888) em Ecce Homo, de Nietzsche, em um comentário no qual ele também
+descreve os céticos como gente que vai direto ao ponto: “Um excelente estudo
+de Victor Brochard, Os céticos gregos, no qual minha laertiana também é
+empregada. Os céticos! O único tipo honroso entre a vasta e ambígua multidão
+de ﬁlósofos!”. Mais uma curiosidade: Brochard deu aulas para Proust (ver
+Kristeva, 1998).
+Brochard parece ter entendido o problema de Popper (algumas décadas
+antes do nascimento de Popper). Ele apresenta as noções do empirismo
+negativo de Menódoto de Nicomédia em termos semelhantes ao que
+chamaríamos hoje de empirismo “popperiano”. Eu me pergunto se Popper
+sabia alguma coisa sobre Menódoto. Ele não parece citá-lo em lugar nenhum.
+Brochard publicou sua tese de doutorado, Sobre o erro, em 1878 na
+Universidade de Paris, a propósito do erro — maravilhosamente moderna.
+Epilogismo: sabemos muito pouco sobre Menódoto, exceto por ataques a suas
+crenças por parte de seu detrator Galeno na versão latina sobrevivente do
+Esboço de empirismo (Subﬁguratio empirica), difícil de traduzir:
+Memoriam et sensum et vocans epilogismum hoc tertium, multotiens autem et
+preter memoriam nihil aliud ponens quam epilogismum. (Além da percepção e
+da recordação, o terceiro método é o epilogismum sensum, uma vez que o
+praticante tem, além da memória, somente sentidos de epilogismo; correção
+de Perilli).
+Mas há esperança. Perilli (2004) informa que, de acordo com carta do
+tradutor Is-haq Bin Hunain, pode haver uma “transcrição” em árabe da obra
+de Menódoto em algum lugar, a ser encontrada por algum estudioso.
+Pascal: ele também tinha uma ideia do problema de conﬁrmação e da assimetria
+da inferência. No seu Prefácio ao Traité du vide, Pascal escreve (e eu traduzo):
+Ao aﬁrmarem que a natureza não admitia o vácuo, só pretenderam falar sobre a natureza no estado em
+que a conheciam; pois, para aﬁrmá-lo de modo geral, não bastaria tê-la visto constantemente nem em
+cem encontros, nem em mil, nem em qualquer outro número, por maior que fosse; pois, se restasse um
+só caso a examinar, esse único seria suﬁciente para impedir a deﬁnição geral; e se um só fosse contrário,
+um único […]3
+
+Biógrafo de Hume: Mossner (1970). Para uma história do ceticismo, as
+palestras de Victor Cousin, Leçons d’histoire de la philosophie à la Sorbonne
+[Aulas de história da ﬁlosoﬁa na Sorbonne] (1828) e Les Philosophes classiques
+[Os ﬁlósofos clássicos do século , na França] de Hippolyte Taine, 9ª edição
+(1868, 1905). Popkin (2003) é uma explicação moderna. Ver também
+Heckman (2003) e Bevan (1913). Não vi nada na ﬁlosoﬁa moderna de
+probabilidade que a vincule à investigação cética.
+Sexto: ver Popkin (2003), Sexto, House (1980), Bayle, Huet, Annas e Barnes
+(1985), e a introdução de Julia Anna e Barnes em Sexto Empírico (2000).
+Favier (1906) é difícil de encontrar; o único exemplar que localizei, graças aos
+esforços de Gur Huberman, estava carcomido — parecia não ter sido
+consultado nos últimos cem anos.
+Menódoto de Nicomédia e o casamento entre o empirismo e ceticismo: de
+acordo com Brochard (1887), Menódoto é responsável pela mistura de
+empirismo e pirronismo. Ver também Favier (1906). Ver o ceticismo sobre
+essa ideia em Dye (2004) e Perilli (2004).
+Função, não estrutura; tripé empírico: existem três fontes, e apenas três, nas
+quais a experiência pode se ﬁar: observação, história (isto é, a observação
+registrada) e o julgamento por analogia.
+Algazel: ver seu Tahafut al falasifah, que é refutado por Averróis, também
+conhecido como Ibn-Rushd, em Tahafut Attahafut.
+Céticos religiosos: Há também uma tradição judaica medieval, com o poeta
+arabófono Yehuda Halevi. Ver Floridi (2002).
+Algazel e a causa máxima/imediata: “[…] a determinação feita por eles, a partir
+unicamente da observação, da natureza da necessária relação entre a causa e o
+efeito, como se não fosse possível testemunhar o efeito sem a causa atribuída
+da causa sem o mesmo efeito.” (Tahafut)
+No cerne da ideia de Algazel está a noção de que, se a pessoa bebe porque
+está com sede, a sede não deve ser vista como uma causa direta. Pode ser que
+haja um desígnio mais amplo em ação; na verdade, ele existe, mas só pode ser
+entendido por aqueles que estejam familiarizados com o pensamento
+evolutivo. Ver Tinbergen (1963, 1968) para uma explicação moderna da
+
+causação imediata. De certa forma, Algazel baseia-se em Aristóteles para
+atacá-lo. Em seu livro Physica [Física], Aristóteles4 já havia visto a distinção
+entre as diferentes camadas de causalidade (formal, eﬁciente, ﬁnal e material).
+Discussões modernas sobre causação: ver Reichenbach (1938), Granger
+(1999) e Pearl (2000).
+Crianças e indução natural: ver Gelman e Coley (1990), Gelman e Hirschfeld
+(1999) e Sloman (1993).
+Indução natural: ver Hespos (2006), Clark e Boyer (2006), Inagaki e Hatano
+(2006), Reboul (2006). Ver o resumo dos trabalhos anteriores em Plotkin
+(1998).
+CAPÍTULOS 5-7
+“Economistas”: por “economistas” reﬁro-me à maioria dos membros da corrente
+econômica neoclássica dominante e ao establishment ﬁnanceiro convencional
+das universidades — não aos grupos marginais, como as escolas austríacas ou
+pós-keynesianas.
+Números pequenos: Tversky e Kahneman (1971), Rabin (2000).
+Especiﬁcidade de domínio: Williams e Connolly (2006). Podemos ver isso no
+Teste de Seleção de Wason (1960, 1968), geralmente interpretado com
+exagero. Ver também Shaklee e Fischho (1982), Barron Beaty e Hearshly
+(1988). “They Knew Better” [Eles tinham conhecimento de causa] de
+Kahneman em Gilovich et al. (2002).
+Updike: o comentário é de Jaynes (1976).
+Especialização hemisférica do cérebro: Gazzaniga e LeDoux (1978),
+Gazzaniga et al. (2005). Além disso, Wolford, Miller e Gazzaniga (2000)
+mostram correspondência de probabilidade pelo cérebro esquerdo. Quando se
+fornece ao cérebro, digamos, uma alavanca que produza bens desejáveis em
+60% das vezes, e outra alavanca que o faça em 40%, o cérebro direito
+empurrará corretamente a primeira alavanca como a linha de ação ideal. Se,
+por outro lado, fornecermos ao cérebro esquerdo as mesmas opções, ele
+
+empurrará a primeira alavanca em 60% das vezes, e a outra em 40% — uma
+recusa em aceitar a aleatoriedade. Goldberg (2005) argumenta que a
+especialidade segue linhas diferentes: danos ao cérebro esquerdo não
+acarretam efeitos graves em crianças, ao contrário das lesões no cérebro
+direito, ao passo que com os idosos se veriﬁca o contrário. Pela indicação do
+trabalho de Snyder, agradeço a Elkhonon Goldberg; Snyder (2001). O
+experimento é de Snyder et al. (2003).
+Seleção de meias e explicação do retroﬁt: o experimento das meias é
+apresentado em Carter (1999); o artigo original parece ser de Nisbett e
+Wilson (1977). Ver também Montier (2007).
+Astebro: Astebro (2003). Ver “Searching for the Invisible Man” [Em busca do
+homem invisível], The Economist, 9 de março de 2006. Para ver como o
+excesso de conﬁança dos empreendedores pode explicar a alta taxa de
+insucesso, ver Camerer (1995).
+Dopamina: Brugger e Graves (1997), entre muitos outros artigos. Ver também
+Mohr et al. (2003) sobre assimetria dopamínica.
+Entropia e informação: estou evitando de propósito a noção de entropia
+porque a forma como ela é convencionalmente formulada a torna mal
+adaptada ao tipo de aleatoriedade que vivenciamos na vida real. A entropia de
+Tsallis funciona melhor com caudas gordas.
+Notas sobre Georges Perec: Eco (1994).
+Narratividade e ilusão de compreensão: Wilson, Gilbert e Centerbar (2003):
+“A teoria do desamparo demonstrou que se as pessoas sentem que não são
+capazes de controlar ou prever o ambiente que as cerca, correm o risco de
+graves déﬁcits motivacionais e cognitivos, como depressão”. Para a escrita de
+um diário, ver Wilson (2002) ou Wegner (2002).
+Exemplo de E. M. Forster: referência em Margalit (2002).
+Caráter nacional: Terracciano et al. (2005) e Robins (2005) para a extensão
+das variações individuais. A ilusão do traço de nacionalidade, que geralmente
+chamo de “heurística de nacionalidade”, conecta-se ao efeito halo: ver
+
+Rosenzweig (2006) e Cialdini (2001). Ver Anderson (1983) para a ontologia
+de nacionalidade.
+Viés de consistência: o que os psicólogos chamam de viés de consistência é o
+efeito de revisar as lembranças de modo que façam sentido em relação a
+informações subsequentes. Ver Schacter (2001).
+A memória é diferente do armazenamento em um computador: Rose
+(2003), Nader e LeDoux (1999).
+O mito da memória reprimida: Loftus e Ketcham (2004).
+Jogadores de xadrez e desconﬁrmação: Cowley e Byrne (2004).
+O problema de Quine: Davidson (1983) argumenta a favor do ceticismo local,
+mas contra o ceticismo total.
+Narratividade: note que minha discussão não é existencial, mas apenas prática,
+então minha ideia é olhar para a narratividade como uma compressão
+informacional, sem o envolvimento de nada mais do ponto de vista ﬁlosóﬁco
+(como se uma individualidade é sequencial ou não). Existe uma literatura
+sobre o “eu narrativo” — Bruner (2002) ou se essa identidade é necessária —
+ver Strawson (1994) e seu ataque em Strawson (2004). O debate:
+Schechtman (1997), Taylor (1999), Phelan (2005). Uma síntese em Turner
+(1996).
+“Pós-modernistas” e a desejabilidade das narrativas: Ver McCloskey (1990)
+e Frankfurter e McGoun (1996).
+Narratividade de ditos e provérbios: há muito tempo os psicólogos examinam
+a credulidade das pessoas em contextos sociais diante de provérbios que soam
+bem. Por exemplo, desde 1960 são realizados experimentos em que os
+pesquisadores perguntam às pessoas se elas acreditam que determinado
+provérbio esteja correto, enquanto se apresenta a outro grupo o signiﬁcado
+oposto. Para uma apresentação dos resultados hilários, ver Myers (2002).
+Ciência como uma narrativa: de fato, os artigos cientíﬁcos podem fazer
+sucesso pelo mesmo viés de narratividade que “faz uma história”. Você precisa
+
+chamar atenção. Bushman e Wells (2001).
+Descobrindo probabilidades: Barron e Erev (2003) mostram como as
+probabilidades são subestimadas quando não são apresentadas de forma
+explícita. Também comunicação pessoal com Barron.
+Risco e probabilidade: ver Slovic, Fischho e Lichtenstein (1976), Slovic et al.
+(1977) e Slovic (1987). Para o risco como análise e risco como teoria do
+sentimento, ver Slovic et al. (2002, 2003) e Taleb (2004c). Ver Bar-Hillel e
+Wagenaar (1991).
+Ligação entre falácia narrativa e conhecimento clínico: Dawes (1999) tem
+uma mensagem para os economistas: veja aqui o trabalho dele sobre
+entrevistas e a preparação de uma narrativa. Ver também Dawes (2001) sobre
+o efeito retrospectivo.
+Dois sistemas de raciocínio: ver Sloman (1996, 2002) e o resumo em
+Kahneman e Frederick (2002). O discurso-palestra de Kahneman na
+solenidade de aceitação do Nobel resume tudo; pode ser encontrado em
+<www.nobel.se>. Ver também Stanovich e West (2000).
+Risco e emoções: devido ao crescente interesse pelo emocional no
+comportamento, vem aumentando cada vez mais a produção de literatura
+referente ao papel das emoções tanto na exposição a riscos quanto na
+prevenção de riscos: a teoria do “risco como sentimento”. Ver Loewenstein et
+al. (2001) e Slovic et al. (2003a). Para uma pesquisa, ver Slovic et al. (2003b)
+e ver também Slovic (1987). Para uma discussão sobre a “heurística da
+emoção”, ver Finucane et al. (2000). Para modularidade, ver Bates (1994).
+Emoções e cognição: para o efeito das emoções sobre a cognição, ver LeDoux
+(2002). Para risco, ver Bechara et al. (1994).
+Heurística de disponibilidade (a facilidade com que as coisas vêm à mente):
+Ver Tversky e Kahneman (1973).
+Incidência real de catástrofes: para uma discussão esclarecedora, ver Albouy
+(2002), Zajdenweber (2000) ou Sunstein (2002).
+
+Exploração que os terroristas fazem do sensacional: ver o ensaio em Taleb
+(2004c).
+Livros gerais sobre psicologia da tomada de decisões (heurísticas e vieses):
+Baron (2000) é simplesmente o mais completo sobre o tema. Kunda (1999) é
+um resumo do ponto de vista da psicologia social (infelizmente, o autor teve
+morte prematura); mais curto: Plous (1993). Também Dawes (1988) e Dawes
+(2001). Note que uma porção substancial dos artigos originais está,
+felizmente, compilada em Kahneman et al. (1982), Kahneman e Tversky
+(2000), Gilovich et al. (2002) e Slovic (2001a e 2001b). Ver também Myers
+(2002) para uma hipótese sobre a intuição e Gigerenzer et al. (2000) para
+uma apresentação ecológica do tema. A explicação mais abrangente em
+economia e ﬁnanças é Montier (2007), onde suas belas sínteses, que me
+alimentaram nos últimos quatro anos, estão compiladas — não sendo um
+acadêmico, ele vai direto ao ponto. Ver também Camerer, Loewenstein e
+Rabin (2004) para uma seleção de artigos técnicos. Um recomendadíssimo
+artigo de revisão sobre conhecimento clínico “de especialista” é Dawes (2001).
+Psicologia mais geral das apresentações de decisões: Klein (1998) propõe
+um modelo de intuição alternativo. Ver Cialdini (2001) para manipulação
+social. Uma obra mais especializada, Camerer (2003) enfoca a teoria dos
+jogos.
+Ensaios de revisão geral e livros abrangentes sobre ciência cognitiva: Newell
+e Simon (1972), Varela (1988), Fodor (1983), Marr (1982), Eysenck e Keane
+(2000), Lako e Johnson (1980). A MIT Encyclopedia of Cognitive Science
+[Enciclopédia de ciência cognitiva do _~] tem artigos de revisão escritos
+pelos pensadores mais importantes.
+Teoria evolutiva e domínios de adaptação: ver o original Wilson (2000),
+Kreps e Davies (1993) e Burnham (1997, 2003). Muito agradável de ler:
+Burnham e Phelan (2000). A compilação da obra de Robert Trivers está em
+Trivers (2002). Ver também Wrangham (1999) sobre guerras.
+Política: “The Political Brain: A Recent Brain-imaging Study Shows That Our
+Political Predilections Are a Product of Unconscious Conﬁrmation Bias” [O
+cérebro político: Um estudo recente de imageamento cerebral mostra que
+nossas predileções políticas são um produto do viés de conﬁrmação
+
+inconsciente], de Michael Shermer, Scientiﬁc American, 26 de setembro de
+2006.
+Neurobiologia da tomada de decisões: para uma compreensão geral de nosso
+conhecimento sobre a arquitetura do cérebro: Gazzaniga et al. (2002).
+Gazzaniga (2005) fornece sínteses literárias de alguns dos tópicos. Mais
+popular: Carter (1999). Também recomendado: Ratey (2001), Ramachandran
+(2003), Ramachandran e Blakeslee (1998), Carter (1999, 2002), Conlan
+(1999), o muito agradável Lewis, Amini e Lannon (2000) e Goleman (1995).
+Ver Glimcher (2002) para probabilidade e o cérebro. Para o cérebro
+emocional, os três livros de Damásio (1994, 2000, 2003), além de LeDoux
+(1998) e do mais detalhado LeDoux (2002), são os clássicos. Ver também o
+mais curto Evans (2002). Para o papel da visão na estética, mas também na
+interpretação, Zeki (1999).
+Obras gerais sobre a memória: em psicologia, Schacter (2001) é uma obra de
+revisão dos vieses de memória com ligações para os efeitos retrospectivos. Em
+neurobiologia, ver Rose (2003) e Squire e Kandel (2000). Um livro didático
+geral sobre memória (em psicologia empírica) é Baddeley (1997).
+Colônias intelectuais e vida social: ver em Collins (1998) a explicação sobre as
+“linhagens” de ﬁlósofos (embora a meu juízo ele não tivesse uma consciência
+tão plena do problema de Casanova para levar em consideração o viés que faz
+com que a obra de ﬁlósofos individuais tenha menos probabilidade de
+sobreviver). Para uma ilustração da agressividade dos grupos, ver Uglow
+(2003).
+Obra de Hyman Minsky: Minsky (1982).
+Assimetria: a teoria da perspectiva (Kahneman e Tversky [1979] e Tversky e
+Kahneman [1992]) explica a assimetria entre eventos aleatórios bons e ruins,
+mas também mostra que o domínio negativo é convexo, ao passo que o
+domínio positivo é côncavo, o que signiﬁca que uma perda de cem é menos
+dolorosa do que cem perdas de uma, mas um ganho de cem também é muito
+menos prazeroso do que cem ganhos de um.
+Correlatos neurais da assimetria: ver a obra de Davidson em Goleman (2003),
+Lane et al. (1997) e Gehring e Willoughby (2002). Com sua teoria do “ﬂow”
+
+(ﬂuxo), Csikszentmihalyi (1993, 1998) explica ainda mais a atratividade de
+recompensas constantes.
+Recompensas adiadas e seus correlatos neurais: McLure et al. (2004) mostra
+a ativação no córtex cerebral quando se toma a decisão de adiar a recompensa,
+fornecendo um insight sobre os impulsos límbicos por trás do imediatismo e
+da atividade cortical no adiamento. Ver também Loewenstein et al. (1992),
+Elster (1998), Berridge (2005). Para a neurologia das preferências em
+macacos-prego, Chen et al. (2005).
+Sangrar ou explodir: Gladwell (2002) e Taleb (2004c). O porquê de o
+sangramento ser doloroso pode ser explicado pelo estresse enfadonho;
+Sapolsky et al. (2003) e Sapolsky (1998). Para saber como as empresas
+gostam de retornos constantes, Degeorge e Zeckhauser (1999). Poética da
+esperança: Mihailescu (2006).
+Descontinuidades e saltos: segundo a classiﬁcação de René Thom, constituem
+sete classes; Thom (1980).
+Evolução e pequenas probabilidades: tenha em mente também o pensamento
+evolutivo ingênuo postulando a “idealidade” da seleção. O fundador da
+sociobiologia, o formidável E. O. Wilson, não concorda com essa idealidade
+quando se trata de eventos raros. Em Wilson (2002), ele escreve:
+É evidente que o cérebro humano evoluiu para se comprometer emocionalmente apenas com um
+pequeno naco de geograﬁa, um grupo limitado de parentes e duas ou três gerações no futuro. Não olhar
+nem muito adiante nem longe demais é elementar no sentido darwiniano. Temos uma propensão inata a
+ignorar qualquer possibilidade distante que ainda não requeira exame. Segundo dizem as pessoas, isso é
+apenas senso comum. Por que elas pensam dessa maneira míope?
+A razão é simples: trata-se de uma parte inerente de nossa herança paleolítica. Durante centenas de
+milênios, aqueles que trabalharam para obter ganhos a curto prazo dentro de um pequeno círculo de
+parentes e amigos viveram mais tempo e deixaram uma prole mais numerosa — mesmo quando os
+esforços coletivos levaram à ruína sua supremacia territorial e ﬁzeram desmoronar os impérios a seu
+redor. A visão de longo prazo que poderia ter salvado seus descendentes distantes exigia visão e
+altruísmo amplos, difíceis de organizar instintivamente.
+Ver também Miller (2000): “A evolução não tem previsão. Carece da visão de
+longo prazo da gestão de empresas farmacêuticas. Uma espécie não pode levantar
+capital de risco para pagar suas contas enquanto sua equipe de pesquisa […] isso
+torna difícil explicar as inovações”.
+
+Observe que nenhum dos autores levou em consideração meu argumento
+sobre a idade.
+CAPÍTULO 8
+A evidência silenciosa recebe o nome de classe de referência errada no
+abominável campo da ﬁlosoﬁa da probabilidade, viés antrópico na física e viés de
+sobrevivência na estatística (os economistas apresentam o interessante atributo de
+a terem redescoberto algumas vezes enquanto eram severamente ludibriados por
+ela).
+Conﬁrmação: Bacon aﬁrma em Of Truth [Da verdade]: “Nenhum prazer é
+comparável ao de nos conservarmos nas alturas da verdade (uma colina que
+não se deixa comandar, e onde o ar está sempre límpido e sereno), e ver os
+erros, e devaneios, brumas e tempestades no vale abaixo”. Isso mostra
+facilmente como grandes intenções podem levar à falácia conﬁrmatória.
+Bacon não entendeu os empiristas: ele estava procurando o meio-termo de
+ouro. Novamente, Da verdade:
+Existem três fontes de erros e três tipos de falsas ﬁlosoﬁas: a sofística, a empírica e a supersticiosa […].
+Aristóteles propicia o mais conspícuo exemplo da primeira, pois sua lógica corrompeu a ﬁlosoﬁa natural
+— assim ele formou o mundo com base nas categorias. […] Não cabe mais insistir que Aristóteles, em
+seus livros sobre animais, problemas e em outros tratados, frequentemente recorre a experimentos. Pois
+Aristóteles decidia de antemão, concluía sem antes consultar devidamente a experiência como base para
+estabelecer suas resoluções e seus axiomas. […] A escola empírica de ﬁlosoﬁa engendra dogmas mais
+disformes e monstruosos que a escola sofística ou racional. Suas teorias não estão alicerçadas em noções
+vulgares (que, embora superﬁciais, são por assim dizer universais e se referem a tendências gerais), mas
+na estreiteza de alguns poucos e obscuros experimentos.
+O equívoco de concepção de Bacon pode ser o motivo pelo qual demoramos
+um pouco para entender que trataram a história (e experimentos) como mera e
+vaga “orientação”, ou seja, epilogia.
+Publicação no mundo editorial: Allen (2005), Klebano (2002), Epstein
+(2001), de Bellaigue (2004) e Blake (1999). Para uma lista engraçada de
+rejeições, ver Bernard (2002) e White (1982). As memórias de Michael
+Korda, Korda (2000), adicionam algum colorido ao negócio. Esses livros são
+de anedotário, mas veremos mais tarde que livros seguem íngremes estruturas
+invariantes de escala com a implicação de um grave papel para a aleatoriedade.
+
+Viés antrópico: ver o maravilhoso e exaustivo debate em Bostrom (2002). Em
+física, ver Barrow e Tipler (1986) e Rees (2004). Sornette (2004) tem a
+derivação de sobrevivência de Gott como uma lei de potência. Em ﬁnanças,
+Sullivan et al. (1999) discutem o viés de sobrevivência. Ver também Taleb
+(2004a). Estudos que ignoram o viés e asseveram conclusões inadequadas:
+Stanley e Danko (1996) e o mais abobado Stanley (2000).
+Manuscritos e os fenícios: para sobrevivência e ciência, ver Cisne (2005).
+Observe que o artigo leva em consideração a sobrevivência física (como
+fóssil), não cultural, o que implica um viés de seleção. Cortesia de Peter
+Bevelin.
+Lei da eponímia de Stigler: Stigler (2002).
+Estatísticas de livros franceses: Lire, abril de 2005.
+Por que a dispersão é importante: em termos mais técnicos, a distribuição do
+extremo (ou seja, o máximo ou mínimo) de uma variável aleatória depende
+mais da variância do processo do que de sua média. É mais provável que uma
+pessoa cujo peso tende a oscilar lhe mostre uma fotograﬁa de si mesma em
+que está muito magra do que outra pessoa cujo peso é, em média, mais baixo,
+mas permanece constante. A média (leia-se “habilidades”) às vezes
+desempenha um papel muito, muito pequeno.
+Registro fóssil: agradeço ao leitor Frederick Colbourne por seus comentários
+sobre o tema. A literatura chama isso de “atração do que é recente”, mas,
+devido a divergências, tem diﬁculdade em estimar seus efeitos. Ver Jablonski
+et al. (2003).
+Conhecimento público desconhecido: eis outra manifestação da evidência
+silenciosa: você pode de fato fazer trabalho de laboratório sentado em uma
+poltrona, simplesmente emendando aqui e ali pedaços de pesquisas realizadas
+por pessoas que trabalham distantes umas das outras e deixam as conexões
+passar despercebidas. Usando a análise bibliográﬁca, é possível encontrar elos
+entre informações publicadas que não eram conhecidas previamente pelos
+pesquisadores. “Descobri” a validação da poltrona em Fuller (2005). Para
+outras descobertas interessantes, ver Spasser (1997) e Swanson (1986a,
+1986b, 1987).
+
+Crime: a deﬁnição de “crime” econômico é algo que vem em retrospecto. As
+regulações, uma vez promulgadas, não funcionam de maneira retrospectiva;
+são muitas as atividades que causam excesso e que nunca são sancionadas (por
+exemplo, suborno).
+Bastiat: ver Bastiat (1862-4).
+Casanova: agradeço ao leitor Milo Jones por me apontar o número exato de
+volumes. Ver Masters (1969).
+Problema do ponto de referência: levar em consideração informações
+preliminares requer uma forma de pensar em termos condicionais com a qual,
+estranhamente, muitos cientistas (sobretudo os melhores) são incapazes de
+lidar. A diferença entre as duas probabilidades é chamada, simplesmente, de
+probabilidade condicional. Estamos computando a probabilidade de
+sobreviver condicionada a fazermos parte da própria amostragem.
+Simpliﬁcando, não é possível calcular probabilidades se a sua sobrevivência faz
+parte da condição de realização do processo.
+Pestes: ver McNeill (1976).
+CAPÍTULO 9
+Inteligência e Nobel: Simonton (1999). Se as pontuações dos testes de r têm
+alguma correlação com o sucesso subsequente, é muito fraca.
+“Incerteza”: Knight (1923). Minha deﬁnição desse risco (Taleb, 2007c) é que se
+trata de uma situação normativa, em que podemos ter certeza sobre
+probabilidades, ou seja, sem metaprobabilidades. Considerando que
+aleatoriedade e risco resultam da opacidade epistêmica, da diﬁculdade de ver
+as causas, então necessariamente a distinção é uma bobagem. Qualquer leitor
+de Cícero reconheceria isso como a probabilidade dele; ver a opacidade
+epistêmica em seu De Divinatione [Sobre a adivinhação], Liber primus [Livro
+primeiro], Y, 127:
+Qui enim teneat causas rerum futurarum, idem necesse est omnia teneat quae futura sint. Quod cum nemo
+facere nisi deus possit, relinquendum est homini, ut signis quibusdam consequentia declarantibus futura
+praesentiat.
+
+“Pois o que compreende as causas saberá todas as coisas que acontecerão no futuro, exceto que ninguém
+pode fazer isso a não ser Deus […]”
+Filosoﬁa e epistemologia da probabilidade: Laplace. Tratado, Keynes (1920),
+de Finetti (1931), Kyburg (1983), Levi (1970), Ayer, Hacking (1990, 2001),
+Gillies (2000), von Mises (1928), von Plato (1994), Carnap (1950), Cohen
+(1989), Popper (1971), Eatwell et al. (1987) e Gigerenzer et al. (1989).
+História do conhecimento e dos métodos estatísticos: não encontrei
+nenhuma obra inteligente na história da estatística, isto é, nenhuma que não
+seja vítima da falácia lúdica ou do gaussianismo. Para uma explicação
+convencional, ver Bernstein (1996) e David (1962).
+Livros gerais sobre probabilidade e teoria da informação: Cover e Thomas
+(1991); menos técnico, mas excelente, Bayer (2003). Para uma visão
+probabilística da teoria da informação: o póstumo Jaynes (2003) é o único
+livro de matemática além da obra de Finetti que posso recomendar ao leitor
+em geral, devido à sua abordagem bayesiana e alergia ao formalismo do idiot
+savant, o sábio idiota.
+Pôquer: escapa da falácia lúdica; ver Taleb (2006a).
+Abordagem normativa de Platão para a mão esquerda e direita: Ver
+McManus (2002).
+O bildungsphilister de Nietzsche: ver Van Tongeren (2002) e Hicks
+e Rosenberg (2003). Observe que, por causa do viés de conﬁrmação, os
+acadêmicos dirão que os intelectuais “carecem de rigor” e darão exemplos
+daqueles que não têm rigor, e não daqueles que têm.
+Livros de economia que tratam da incerteza: Carter et al. (1962), Shackle
+(1961-1973), Hayek (1994). Hirshleifer e Riley (1992) inserem a incerteza na
+economia neoclássica.
+Incomputabilidade: para terremotos, ver Freedman e Stark (2003) (cortesia de
+Gur Huberman).
+Mundo acadêmico e ﬁlistinismo: existe uma falácia de ida e volta; se o mundo
+acadêmico signiﬁca rigor (o que duvido, já que o que vi ser chamado de
+
+“revisão por pares” é muitas vezes uma farsa grotesca), o não acadêmico não
+implica falta de rigor. Por que duvido do “rigor”? Por meio do viés de
+conﬁrmação, os acadêmicos mostram as contribuições que eles mesmos dão;
+contudo, apesar do elevado número de acadêmicos trabalhando com aﬁnco,
+uma fração relativamente minúscula de nossos resultados vem deles. Um
+número desproporcionalmente alto de contribuições provém de pesquisadores
+autônomos chamados, com desdém, de amadores: Darwin, Freud, Marx,
+Mandelbrot, até mesmo o Einstein dos primeiros anos de carreira. A
+inﬂuência por parte de um acadêmico geralmente é acidental. Isso ocorreu
+inclusive na Idade Média e no Renascimento, ver Le Go (1985). Além disso,
+os grandes nomes do Iluminismo (Voltaire, Rousseau, d’Holbach, Diderot,
+Montesquieu) eram ﬁguras não acadêmicas em uma época em que o mundo
+acadêmico era grande.
+CAPÍTULO 10
+Excesso de conﬁança: Albert e Raia (1982) (embora aparentemente o artigo
+tenha deﬁnhado durante uma década antes da publicação formal).
+Lichtenstein e Fischho (1977) mostraram que o excesso de conﬁança pode
+ser inﬂuenciado pela diﬁculdade do item; ela normalmente diminui e se
+transforma em falta de conﬁança em itens fáceis (compare com Armelius
+[1979]). Muitos artigos desde então tentaram identiﬁcar as condições de
+falhas de calibração ou erros de robustez (sejam treinamento de tarefas,
+aspectos ecológicos do domínio, nível educacional ou nacionalidade): Dawes
+(1980), Koriat, Lichtenstein e Fischho (1980), Mayseless e Kruglanski
+(1987), Dunning et al. (1990), Ayton e McClelland (1997), Gervais e Odean
+(1999), Grin e Varey (1996), Juslin (1991, 1993, 1994), Juslin e Olsson
+(1997), Kadane e Lichtenstein (1982), May (1986), McClelland e Bolger
+(1994), Pfeifer (1994), Russo e Schoernaker (1992), Klayman et al. (1999).
+Note a diminuição (inesperada) do excesso de conﬁança nas decisões em
+grupo: ver Sniezek e Henry (1989) — e soluções em Plous (1995). Suspeito
+aqui da distinção Mediocristão/Extremistão e da desigualdade das variáveis.
+Infelizmente, não encontrei nenhum artigo que ﬁzesse essa distinção. Também
+há soluções em Stoll (1996), Arkes et al. (1987). Para excesso de conﬁança em
+ﬁnanças, ver Thorley (1999) e Barber e Odean (1999). Para efeitos
+entrecruzados, Yates et al. (1996, 1998), Angele et al. (1982). Para excesso de
+
+conﬁança e falta de conﬁança simultâneos, ver Erev, Wallsten e Budescu
+(1994).
+Frequência versus probabilidade — o problema ecológico: Horage e
+Gigerenzer (1998) acreditam que o excesso de conﬁança é menos signiﬁcativo
+quando o problema é expresso na forma de frequências em vez de
+probabilidades. De fato, tem havido um debate sobre a diferença entre
+“ecologia” e laboratório; ver Gigerenzer et al. (2000), Gigerenzer e Richter
+(1990), e Gigerenzer (1991). Somos “rápidos e frugais” (Gigerenzer e
+Goldstein [1996]). No que diz respeito ao Cisne Negro, esses problemas de
+ecologia não surgem: não vivemos em um ambiente no qual somos abastecidos
+com frequências ou, em termos mais gerais, para o qual estejamos aptos. Ainda
+na ecologia, Spariosu (2004) para o aspecto lúdico, Cosmides e Tooby
+(1990). Leary (1987) para as ideias brunswikianas, bem como Brunswik
+(1952).
+Falta de consciência da ignorância: “Em suma, o mesmo conhecimento que
+está na base da capacidade de produzir julgamentos corretos é também o
+conhecimento que fundamenta a capacidade de reconhecer juízos corretos.
+Carecer da primeira é ser deﬁciente na segunda.” De Kruger e Dunning
+(1999).
+Problema de especialista em isolamento: a meu ver o problema de especialista
+é indistinguível dos efeitos Mateus e das caudas gordas do Extremistão, mas
+não encontrei essa ligação nas literaturas da sociologia e da psicologia.
+Conhecimento clínico e seus problemas: ver Meehl (1954) e Dawes, Faust e
+Meehl (1989). Mais divertido é o ensaio “Why I Do Not Attend Case
+Conferences” [Por que não participo de conferências consultivas], em Meehl
+(1973). Ver também Wagenaar e Keren (1985, 1986).
+Analistas ﬁnanceiros, arrebanhamento e previsão: ver Guedj e Bouchaud
+(2006), Abarbanell e Bernard (1992), Chen et al. (2002), De Bondt e Thaler
+(1990), Easterwood e Nutt (1999), Friesen e Weller (2002), Foster (1977),
+Hong e Kubik (2003), Jacob et al. (1999), Lim (2001), Liu (1998), Maines e
+Hand (1996), Mendenhall (1991), Mikhail et al. (1997, 1999), Zitzewitz
+(2001) e El-Galfy e Forbes (2005). Para comparação com meteorologistas
+(desfavorável): Tyszka e Zielonka (2002).
+
+Economistas e previsões: Tetlock (2005), Makridakis e Hibon (2000),
+Makridakis et al. (1982), Makridakis et al. (1993), Gripaios (1994),
+Armstrong (1978, 1981); e refutações de McNees (1978), Tashman (2000),
+Blake et al. (1986), Onkal et al. (2003), Gillespie (1979), Baron (2004),
+Batchelor (1990, 2001), Dominitz e Grether (1999). Lamont (2002) busca
+fatores relativos à reputação: previsores estabelecidos pioram à medida que
+produzem previsões mais radicais para chamar atenção — o que é consistente
+com o efeito ouriço de Tetlock. Ahiya e Doi (2001) procuram comportamento
+de rebanho no Japão. Ver McNees (1995), Remus et al. (1997), O’Neill e
+Desai (2005), Bewley e Fiebig (2002), Angner (2006), Bénassy-Quéré
+(2002); Brender e Pisani (2001) examinam o consenso de Bloomberg; De
+Bondt e Kappler (2004) aﬁrmam ter evidências de persistência fraca em 52
+anos de dados, mas vi os slides em uma apresentação, nunca o artigo, que
+depois de dois anos talvez não se materialize mais. Excesso de conﬁança,
+Braun e Yaniv (1992). Ver Hahn (1993) para uma discussão intelectual geral.
+Mais geral, Clemen (1986, 1989). Para a teoria dos jogos, Green (2005).
+Muitos operadores, como James Montier, e muitos jornais e revistas, como The Economist, realizam
+ocasionais testes de previsão. Cumulativamente, eles devem ser levados a sério, pois abrangem mais
+variáveis.
+Cultura popular: em 1931, Edward Angly expôs as previsões feitas pelo
+presidente Hoover em um livro intitulado Oh Yeah? [Ah, é?]. Outro livro
+hilário é Cerf e Navasky (1998), de onde, aliás, tirei a história da estimativa do
+preço do petróleo pré-1973.
+Efeitos da informação: o artigo mais importante é Bruner e Potter (1964).
+Agradeço a Danny Kahneman pelas discussões e por me indicar esse artigo.
+Ver também Montier (2007), Oskamp (1965) e Benartzi (2001). Esses vieses
+tornam-se informações ambíguas (Grin e Tversky [1992]). Para ver como
+elas deixam de desaparecer com a destreza e o treinamento, Kahneman e
+Tversky (1982) e Tversky e Kahneman (1982). Ver Kunda (1990) para saber
+como as informações consistentes com a preferência são aceitas de olhos
+fechados, sem questionamento, ao passo que informações inconsistentes com
+as preferências são processadas de forma crítica.
+Falácia de planejamento: Kahneman e Tversky (1979) e Buehler, Grin e Ross
+(2002). A falácia de planejamento mostra um viés consistente na capacidade
+
+de planejamento das pessoas, mesmo em questões de natureza repetível —
+embora seja mais exagerada em eventos não repetíveis.
+Guerras: Trivers (2002).
+Existem incentivos no adiamento?: Flyvbjerg et al. (2002).
+Oskamp: Oskamp (1965) e Montier (2007).
+Características da tarefa e efeito na tomada de decisões: Shanteau (1992).
+Epistēmē versus Technē: essa distinção remonta a Aristóteles, mas ela ressurge
+e depois arrefece — mais recentemente, repetiu-se em explicações como o
+conhecimento tácito em “saber como”. Ver Ryle (1949), Polanyi (1958/1974) e
+Mokyr (2002).
+Catarina, a Grande: o número de amantes vem de Rounding (2006).
+Expectativa de vida: <www.annuityadvantage.com/lifeexpectancy.htm>. Para
+projetos, usei uma probabilidade de excedência com um expoente de lei de
+potência de 3/2f=Kx3/2. Assim, a expectativa condicional de x, sabendo que x
+excede a:
+CAPÍTULOS 11-13
+Serendipidade: Ver Koestler (1959) e Rees (2004). Rees também tem ideias
+poderosas sobre previsão. Ver também os comentários de Popper em Popper
+(2002), além de Waller (2002a), Merton e Barber (2004), Cannon (1940) e
+Mach (1896) (citado em Simonton [1999]). Ver Simonton (2004) para uma
+síntese. Para serendipidade na medicina e na anestesiologia, ver Vale et al.
+(2005).
+“Homem
+do
+Renascimento”:
+ver
+<www.bell-
+labs.com/project/feature/archives/cosmology/>.
+
+Laser: como de costume, há controvérsias sobre quem “inventou” a tecnologia.
+Após uma descoberta bem-sucedida, os precursores são rapidamente
+encontrados, devido à distorção retrospectiva. Charles Townsend ganhou o
+prêmio Nobel, mas foi processado por seu aluno Gordon Gould, que aﬁrmou
+ter sido ele quem realizou o trabalho propriamente dito (ver The Economist, 9
+de junho de 2005).
+Darwin/ Wallace: Quammen (2006).
+Ataque de Popper ao historicismo: ver Popper (2002). Note que estou
+reinterpretando a ideia de Popper de uma maneira moderna aqui, usando
+minhas próprias experiências e conhecimentos, e não fazendo comentários
+acerca de comentários sobre a obra de Popper — com a consequente falta de
+ﬁdelidade à mensagem dele. Em outras palavras, estes não são diretamente os
+argumentos de Popper, mas em grande medida os meus argumentos,
+formulados de acordo com uma estrutura popperiana. A expectativa
+condicional de uma expectativa incondicional é uma expectativa incondicional.
+Previsão para o futuro cem anos antes: Bellamy (1891) ilustra nossas
+projeções mentais do futuro. No entanto, algumas histórias podem ser
+exageradas: “Outro mito de patente patentemente falso! Será mesmo que certa
+feita um oﬁcial de patentes se demitiu do cargo por julgar que já não restava
+mais nada a se inventar? Tão logo esses mitos começam, ganham vida própria”.
+Skeptical Inquirer, maio-junho de 2003.
+Observação de Peirce: Olsson (2006), Peirce (1955).
+Prever e explicar: Ver Thom (1993).
+Poincaré: o problema dos três corpos pode ser encontrado em Barrow-Green
+(1996), Rollet (2005) e Galison (2003). Sobre Einstein, Pais (1982).
+Revelações mais recentes em Hladik (2004).
+Bolas de bilhar: Berry (1978) e Pisarenko e Sornette (2004).
+Discussão muito geral sobre “complexidade”: Benkirane (2002), Scheps
+(1996) e Ruelle (1991). Para limites, Barrow (1998).
+
+Hayek: ver <www.nobel.se>. Ver Hayek (1945, 1994). É fato que mecanismos
+não se corrigem a partir das reclamações de pessoas inﬂuentes, mas ou pela
+mortalidade dos operadores ou por algo ainda mais grave, ao irem à falência?
+Infelizmente, por causa do contágio, parece haver pouca lógica com relação ao
+modo como as coisas melhoram; a sorte desempenha um papel importante na
+forma como as ciências humanas evoluem. Ver Ormerod (2006) para efeitos
+de rede em “intelectuais e socialismo” e a distribuição da lei de potência na
+inﬂuência devido ao aspecto livre de escalas das conexões — e as
+arbitrariedades relevantes. Hayek parece ter sido um prisioneiro da antiga
+diferenciação de Weber entre Natur-Wissenschaften [ciências da natureza] e
+Geistes Wissenschaften [ciências do espírito] — mas, felizmente, Popper não
+foi.
+Insularidade de economistas: Pieters e Baumgartner (2002). Uma vantagem
+da insularidade dos economistas é que eles podem me insultar o quanto
+quiserem sem qualquer consequência: parece que apenas os economistas leem
+outros economistas (de modo que possam escrever artigos para outros
+economistas lerem). Para um caso mais geral, ver Wallerstein (1999). Note
+que Braudel combatia a “história econômica”. Era história.
+Economia como religião: Nelson (2001) e Keen (2001). Para metodologia, ver
+Blaug (1992). Para sumos sacerdotes e ﬁlósofos humildes, ver Boettke, Coyne
+e Leeson (2006). Observe que as obras de Gary Becker e dos platônicos da
+Escola de Chicago são desﬁguradas pelo viés de conﬁrmação: Becker é rápido
+em mostrar situações em que as pessoas são movidas por incentivos
+econômicos, mas não mostra os casos (muitíssimo mais numerosos) em que as
+pessoas não se importam com esses incentivos materialistas.
+O livro mais inteligente que já li sobre economia é Gave et al. (2005), pois
+transcende as categorias construídas no discurso econômico acadêmico (um dos
+autores é o jornalista Anatole Kaletsky).
+Teoria geral: esse fato não intimidou “teóricos gerais”. Um ﬁgurão da variedade
+platoniﬁcante me explicou durante uma longa viagem de avião de Genebra a
+Nova York que as ideias de Kahneman e seus colegas devem ser rejeitadas
+porque não nos permitem desenvolver uma teoria do equilíbrio geral,
+produzindo “preferências inconsistentes com o tempo”. Por um minuto pensei
+que ele estivesse brincando: ele culpava as ideias dos psicólogos e a
+
+incoerência humana por interferirem em sua capacidade de construir seu
+modelo platônico.
+Samuelson: para sua otimização, consulte Samuelson (1983). Ver também
+Stiglitz (1994).
+O dogma de Platão sobre a simetria do corpo: “Ateniense anônimo a Clínias:
+que as mãos direita e esquerda devam ser, por natureza, diferentemente
+adequadas para nossos vários usos delas; considerando-se que nenhuma
+diferença se veriﬁca no uso dos pés e membros inferiores; mas no uso das
+mãos estamos, por assim dizer, mutilados pela loucura de amas e mães; pois
+embora nossos vários membros sejam por natureza equilibrados, criamos uma
+diferença neles por força de maus hábitos”, em As leis de Platão.5 Ver
+McManus (2002).
+Empresas farmacêuticas: algumas empresas desse setor, disseram-me, são
+dirigidas por pessoas da área comercial que dizem aos pesquisadores onde há
+uma “necessidade de mercado” e lhes pedem que “inventem” fármacos e curas
+para suprir essa necessidade — o que está de acordo com os métodos dos
+perigosamente enganosos analistas de títulos de Wall Street. Eles formulam
+projeções como se soubessem o que vão encontrar.
+Modelos de retorno sobre inovações: Sornette e Zajdenweber (1999) e
+Silverberg e Verspagen (2005).
+Evolução em uma rédea curta: Dennet (2003) e Stanovich e West (2000).
+Montaigne: não obtemos muito das biograﬁas de um ensaísta pessoal; algumas
+informações em Frame (1965) e Zweig (1960).
+Projetibilidade e o paradoxo verdazul: ver Goodman (1955). Ver também
+aplicação (ou talvez aplicação incorreta) em King e Zheng (2005).
+Construcionismo: ver Berger e Luckmann (1966) e Hacking (1999).
+Certiﬁcação versus habilidades ou conhecimentos verdadeiros: ver Donhardt
+(2004). Há também uma proteção de franquia. A matemática pode não ser
+uma ferramenta tão necessária para a economia, exceto para proteger a
+
+franquia desses economistas que sabem matemática. Na época do meu pai, o
+processo de seleção para os mandarins era feito usando as habilidades deles
+em latim (ou grego). Dessa forma, a classe dos alunos preparados para chegar
+ao topo era fundamentada nos clássicos e sabia alguns temas interessantes.
+Eles também recebiam formação pautada na visão extremamente probabilística
+que Cícero tinha das coisas — e eram selecionados com base na erudição, o
+que carrega pequenos efeitos colaterais. No mínimo, permite que você lide
+com questões confusas. Minha geração foi selecionada segundo o critério de
+habilidades matemáticas. A pessoa conseguia ser aprovada com base em uma
+mentalidade de engenharia; isso produzia mandarins de mentalidade
+matemática, altamente estruturada e lógica, e que, consequentemente,
+selecionariam seus pares com base nesses mesmos critérios. Então, os artigos
+em economia e as ciências sociais gravitaram em direção ao extremamente
+matemático e protegeram sua franquia construindo elevadas barreiras
+matemáticas para obstruir a entrada. Também era possível afugentar o público
+em geral, que é incapaz de colocar o trabalho deles em xeque. Outro efeito
+dessa proteção de franquia é que ela pode ter ajudado a colocar “no topo”
+aqueles pesquisadores “idiotas sábios”, que careciam de erudição e por isso
+eram insulares, provincianos e fechados para as outras disciplinas.
+Liberdade e determinismo: uma ideia especulativa em Penrose (1989), na qual
+apenas os efeitos quânticos (com a indeterminância percebida lá) podem
+justiﬁcar a consciência.
+Projetibilidade: unicidade presumindo mínimos quadrados ou desvio absoluto
+médio (_):).
+Teoria do caos e a confusão backward/forward: o ﬁlme Happenstance,
+também conhecido como Le Battement d’ailes du papillon/The Beating of a
+Butterﬂy’s Wings?/O bater de asas de borboleta, dirigido por Laurent Firode
+(2000).
+Autismo e percepção de aleatoriedade: ver Williams et al. (2002).
+Erros de previsão e de previsão equivocada em estados hedônicos: Wilson,
+Meyers e Gilbert (2001), Wilson, Gilbert e Centerbar (2003) e Wilson et al.
+(2005). Eles chamam isso de “evanescência emocional”.
+
+Previsão e consciência: ver a ideia de “aboutness” (atinência)6 em Dennett
+(1995, 2003) e Humphrey (1992). No entanto, Gilbert (2006) acredita que
+não somos o único animal que faz previsões — o que acabou se revelando uma
+crença errada. Suddendorf (2006) e Dally, Emery e Clayton (2006) mostram
+que os animais também preveem!
+Comentário de Russell sobre a aposta de Pascal: Ayer (1988) informa isso
+como uma comunicação privada.
+História: Carr (1961), Hexter (1979) e Gaddis (2002). Mas tenho problemas
+com os historiadores em geral, porque volta e meia eles confundem os
+processos forward (progressivo, de avanço, para a frente) e backward
+(regressivo, de retrocesso, para trás). O livro Ubiquity, de Mark Buchanan e a
+bastante confusa discussão de Niall Ferguson na Nature. Nenhum deles parece
+perceber o problema de calibração com as leis de potência. Ver também
+Ferguson, O horror da guerra, para avaliar a extensão dos problemas
+forward/backward.
+Para a tendência nomológica tradicional, ou seja, a tentativa de ir além da
+causa no sentido de uma teoria geral, ver Muqaddamah de Ibn Khaldoun. Ver
+também Filosoﬁa da história, de Hegel.7
+Emoção e cognição: Zajonc (1980, 1984).
+Seguro contra catástrofes: Froot (2001) aﬁrma que seguros contra eventos
+remotos são superfaturados. Não se sabe ao certo como ele determinou isso
+(talvez recorrendo a alguma modernização ou a um processo autossustentável
+para alavancar a si próprio), mas as empresas de resseguros não têm ganhado
+um centavo sequer vendendo seguros “superfaturados”.
+Pós-modernistas: os pós-modernistas não parecem estar cientes das diferenças
+entre narrativa e previsão.
+Sorte e serendipidade na medicina: Vale et al. (2005). Em história, ver
+Cooper (2004). Ver também Rué (1977). Mais geral, ver Roberts (1989).
+Previsão afetiva: Ver Gilbert (1991), Gilbert et al. (1993) e Montier (2007).
+CAPÍTULOS 14-17
+
+Esta seção também servirá a outro propósito. Sempre que falo sobre o Cisne
+Negro, as pessoas tendem a me contar relatos anedóticos. Mas essas historietas
+são apenas corroborativas: é necessário mostrar que, no agregado, o mundo é
+dominado por eventos Cisne Negro. Para mim, a rejeição da aleatoriedade não
+escalável é suﬁciente para estabelecer o papel e a importância de Cisnes Negros.
+Efeitos Mateus: ver Merton (1968, 1973a, 1988). Marcial, em seus Epigramas:
+“Semper pauper eris, si pauper es, Aemiliane. / Dantur opes nullis (nunc) nisi
+divitibus.” (Epigr.  81).8 Ver também Zuckerman (1997, 1998).
+Vantagem cumulativa e suas consequências na justiça social: revisão em
+DiPrete et al. (2006). Ver também Brookes-Gun e Duncan (1994),
+Broughton e Mills (1980), Dannefer (2003), Donhardt (2004), Hannon
+(2003) e Huber (1998). Para saber como isso pode explicar a precocidade,
+ver Elman e O’Rand (2004).
+Concentração e justiça nas carreiras intelectuais: Cole e Cole (1973), Cole
+(1970), Conley (1999), Faia (1975), Seglen (1992), Redner (1998), Lotka
+(1926), Fox e Kochanowski (2004) e Huber (2002).
+“O vencedor leva tudo”: Rosen (1981), Frank (1994), Frank e Cook (1995) e
+Attewell (2001).
+Artes: Bourdieu (1996), Taleb (2004e).
+Guerras: a guerra está concentrada à maneira do Extremistão; Lewis Fry
+Richardson observou no século passado a irregularidade na distribuição de
+vítimas fatais (Richardson [1960]).
+Guerras modernas: Arkush e Allen (2006). No estudo dos maoris, o padrão de
+luta com clavas foi sustentável por muitos séculos — ferramentas modernas
+causam entre 20 mil e 50 mil mortes por ano. Simplesmente não somos feitos
+para guerra técnica. Para um relato anedótico e causativo da história de uma
+guerra, ver Ferguson (2006).
+w&p 500: Ver Rosenzweig (2006).
+A cauda longa: Anderson (2006).
+
+Diversidade cognitiva: ver Page (2007). Para o efeito da internet nas escolas,
+ver Han et al. (2006).
+Cascatas: ver Schelling (1971, 1978) e Watts (2002). Para cascatas de
+informação na economia, ver Bikhchandani, Hirshleifer e Welch (1992) e
+Shiller (1995). Ver também Surowiecki (2004).
+Justiça: para alguns pesquisadores, como Frank (1999), o sucesso arbitrário e
+aleatório de outros não é diferente da poluição, o que gera a necessidade de
+promulgação de um imposto. De Vany, Taleb e Spitznagel (2004) propõem
+uma solução baseada no mercado para o problema de alocação através do
+processo de autosseguro voluntário e produtos derivativos. Shiller (2003)
+propõe seguros de ponta a ponta.
+A matemática do apego preferencial: esse argumento envolveu Mandelbrot em
+uma briga com o cientista cognitivo Herbert Simon, que formalizou as ideias
+de Zipf em um artigo de 1955 (Simon [1955]), que então se tornou conhecido
+como o modelo Zipf-Simon. Ei, você precisa deixar que as pessoas caiam em
+descrédito!
+Concentração: Price (1970). “Derivação de Zipf”, de Simon (1955).
+Bibliometria mais geral, ver Price (1976) e Glänzel (2003).
+Destruição criativa, revisitada: ver Schumpeter (1942).
+Redes: Barabási e Albert (1999), Albert e Barabási (2000), Strogatz (2001,
+2003), Callaway et al. (2000), Newman et al. (2000), Newman, Watts e
+Strogatz (2000), Newman (2001), Watts e Strogatz (1998), Watts (2002,
+2003) e Amaral et al. (2000). Supostamente, começou com Milgram (1967).
+Ver também Barbour e Reinert (2000), Barthélémy e Amaral (1999). Ver
+Boots e Sasaki (1999) para infecções. Para extensões, ver Bhalla e Iyengar
+(1999). Resiliência, Cohen et al. (2000), Barabási e Bonabeau (2003),
+Barabási (2002) e Banavar et al. (2000). Leis de potência e a web, Adamic e
+Huberman (1999) e Adamic (1999). Estatísticas da internet: Huberman
+(2001), Willinger et al. (2004), e Faloutsos, Faloutsos e Faloutsos (1999).
+Para :`), ver Vogelstein et al. (2000).
+Criticalidade auto-organizada: Bak (1996).
+
+Pioneiros das caudas gordas: para riqueza, Pareto (1896), Yule (1925-1944).
+Menos pioneiro, Zipf (1932-1949). Para linguística, ver Mandelbrot (1952).
+Pareto: Ver Bouvier (1999).
+Endógeno versus exógeno: Sornette et al. (2004).
+Obra de Sperber: Sperber (1996a, 1996b, 1997).
+Regressão: se você ouvir a expressão regressão de mínimo quadrado, deve
+desconﬁar das aﬁrmações que estão sendo feitas. Na medida em que ela
+pressupõe que os seus erros desaparecem de forma muito rápida, subestima o
+erro total possível e, portanto, superestima o conhecimento que se pode
+derivar dos dados.
+A noção de limite central: muito mal compreendida: leva muito tempo para se
+atingir o limite central — então, como não vivemos na assíntota, temos
+problemas. Todas as muitas variáveis aleatórias (como começamos no exemplo
+do capítulo 16 com +1 ou –1, o que é chamado de empate de Bernouilli)
+somadas (somamos as vitórias das quarenta jogadas), tornam-se gaussianas. A
+soma é a chave aqui, uma vez que estamos levando em consideração os
+resultados da soma dos quarenta passos, que é onde a gaussiana, de acordo
+com a primeira e a segunda suposições centrais, torna-se o que é chamado de
+“distribuição”. (Uma distribuição informa como os resultados provavelmente
+serão espalhados, ou distribuídos.) No entanto, podem chegar lá em
+velocidades diferentes. Isto é o teorema do limite central: se adicionarmos
+variáveis aleatórias provenientes desses saltos domesticados individuais, o
+resultado será a gaussiana.
+Onde o limite central não funciona? Se você não tiver essas pressuposições
+centrais, mas tiver saltos de tamanhos aleatórios, então não obterá a gaussiana.
+Além disso, às vezes convergimos muito lentamente para a gaussiana. Para pré-
+assíntotas e escalabilidade, Mandelbrot e Taleb (2007a), Bouchaud e Potters
+(2003). Para o problema de trabalhar fora das assíntotas, Taleb (2007).
+Aurea mediocritas: perspectiva histórica, em Naya e Pouey-Mounou (2005)
+apropriadamente chamada de Éloge de la médiocrité [Elogio da mediocridade].
+Reiﬁcação (hipostatização): Lukacz, em Bewes (2002).
+
+Catástrofes: Posner (2004).
+Concentração e vida econômica moderna: Zajdenweber (2000).
+Escolhas da estrutura da sociedade e resultados compactados: o artigo
+clássico é Rawls (1971), embora Frohlich, Oppenheimer e Eavy (1987a,
+1987b), bem como Lissowski, Tyszka e Okrasa (1991), contradigam a noção
+da desejabilidade do véu de Rawl (ainda que por meio de experimento). Para
+os tipos de ambientes pobres, as pessoas preferem a renda média máxima
+sujeita a uma restrição de piso em alguma forma de igualdade, para os ricos,
+preferem a desigualdade.
+Contágio gaussiano: Quételet em Stigler (1986). Francis Galton (citado em The
+Taming of Chance [O acaso domado], de Ian Hacking): “Não conheço
+qualquer coisa com tamanha capacidade de impressionar a imaginação quanto
+a maravilhosa forma de ordem cósmica expressa pela ‘lei do erro’”.
+Bobagem da “variância ﬁnita”: associada ao teorema do limite central, há uma
+suposição chamada de “variância ﬁnita”, que é bastante técnica: nenhuma
+dessas etapas de construção pode ter um valor inﬁnito se você as elevar ao
+quadrado ou multiplicá-las por si próprias. Elas precisam ser limitadas em
+algum número. Simpliﬁcamos aqui, convertendo todas em uma única etapa ou
+desvio-padrão ﬁnito. O problema é que algumas recompensas fractais podem
+ter variância ﬁnita, mas ainda assim não nos levar rapidamente até lá. Ver
+Bouchaud e Potters (2003).
+Distribuição lognormal: existe uma variedade intermediária que é chamada de
+lognormal, enfatizada por um certo Gibrat (ver Sutton [1997]) no início do
+século  como uma tentativa de explicar a distribuição da riqueza. Nessa
+estrutura, não é exatamente que os ricos se tornem mais ricos em uma situação
+de puro apego preferencial, e sim que, se sua riqueza estiver em cem, você vai
+variar em um, mas quando sua riqueza estiver em mil, você vai variar em dez.
+As mudanças relativas em sua riqueza são gaussianas. Portanto, na superfície, a
+lognormal se assemelha à fractal, no sentido de que pode tolerar alguns
+desvios grandes, mas é perigosa porque no ﬁm eles diminuem rapidamente. A
+introdução da lognormal foi uma concessão muito ruim, mas uma maneira de
+esconder as falhas da gaussiana.
+
+Extinções: Sterelny (2001). Para extinções a partir de rupturas abruptas, ver
+Courtillot (1995) e Courtillot e Gaudemer (1996). Saltos: Eldredge e Gould.
+Fractais, leis de potência e distribuições livres de escalas
+Deﬁnição: tecnicamente, P>x=Kx-a, em que se supõe que α seja o expoente da lei
+de potência. Diz-se que é livre de escalas, no sentido de que não tem uma
+escala característica: o desvio relativo de
+não depende de x, mas de n —
+para x “grande o suﬁciente”. Agora, na outra classe de distribuição, aquela que
+posso descrever intuitivamente como não escalável, com a forma típica p(x) =
+Exp[-a x], a escala será a.
+Problema de “quão grande”: agora, o problema que geralmente é
+incompreendido. Essa escalabilidade pode parar em algum lugar, mas não sei
+onde, então posso considerá-la inﬁnita. As aﬁrmações muito grande e não sei
+quão grande e inﬁnitamente grande são epistemologicamente substituíveis.
+Pode haver um ponto em que as distribuições se invertam. Isso se tornará
+evidente quando as examinarmos de uma forma mais gráﬁca.
+Log P> x = -a Log X +Ct para uma escalável. Quando fazemos um gráﬁco log-
+log (ou seja, plotamos P>x e x em uma escala logarítmica), como nas ﬁguras 15 e
+16, devemos ver uma linha reta.
+Fractais e leis de potência: Mandelbrot (1975, 1982). Schroeder (1991) é
+imperativo. O manuscrito não publicado de John Chipman, The Paretian
+Heritage [O legado de Pareto] (Chipman [2006]) é a melhor crítica que já vi.
+Ver também Mitzenmacher (2003).
+“Chegar muito perto da teoria verdadeira e compreender sua aplicação precisa são duas coisas muito
+diferentes, como nos ensina a história da ciência. Todas as coisas importantes já foram ditas antes por
+alguém que não descobriu isso.” Whitehead (1925).
+Fractais em poesia: para a citação de Dickinson, ver Fulton (1998).
+Lacunaridade: Brockman (2005). Nas artes, Mandelbrot (1982).
+Fractais na medicina: “New Tool to Diagnose and Treat Breast Cancer” [Nova
+ferramenta para diagnosticar e tratar o câncer de mama], Newswise, 18 de
+julho de 2006.
+
+Livros de referência geral em física estatística: o mais completo (a respeito de
+caudas gordas) é Sornette (2004). Ver também Voit (2001) ou o muito mais
+aprofundado Bouchaud e Potters (2002) para preços ﬁnanceiros e
+econofísica. Para teoria da “complexidade”, livros técnicos: Bocarra (2004),
+Strogatz (1994), o popular Ruelle (1991) e também Prigogine (1996).
+Processos de encaixe: para a ﬁlosoﬁa do problema, Taleb e Pilpel (2004). Ver
+também Pisarenko e Sornette (2004), Sornette et al. (2004), e Sornette e Ide
+(2001).
+Salto de Poisson: às vezes as pessoas propõem uma distribuição gaussiana com
+uma pequena probabilidade de um salto “de Poisson”. Isso pode ser bom, mas
+como você sabe qual será o tamanho do salto? Pode ser que os dados
+anteriores não lhe digam a altura do salto.
+Efeito de amostragem pequena: Weron (2001). Ocer (1972) é totalmente
+ignorante em relação a esse ponto.
+Recursividade das estatísticas: Taleb e Pilpel (2004), Blyth et al. (2005).
+Biologia: pioneiros da biologia molecular moderna, Salvador Luria e Max
+Delbrück testemunharam, em uma colônia bacteriana, um fenômeno de
+aglomeração com ocorrências ocasionais de mutantes extremamente grandes,
+maiores do que todas as outras bactérias.
+
+FIGURA 19. Distribuição típica com caudas de lei de potência (aqui uma distribuição T de
+Student).
+FIGURA 20. Os dois domínios exaustivos de atração: linha vertical ou linha reta com inclinações de
+innito negativo ou a negativo constante. Note que, como as probabilidades precisam somar 1 (inclusive
+na França), não pode haver outras alternativas para as duas bacias, e é por isso que eu as limito a essas
+duas exclusivamente.
+
+Minhas ideias tornam-se muito simples com essa polarização bem denida — somada ao problema de não
+se saber em que bacia estamos, devido à escassez de dados na extremidade direita.
+Termodinâmica: maximização de entropia sem as restrições de um segundo
+momento conduzem a uma distribuição Levy-estável — a tese de Mandelbrot
+de 1952 (ver Mandelbrot [1997a]). A visão mais soﬁsticada de entropia de
+Tsallis conduz a uma distribuição ~ de Student.
+Cadeias de imitação e patologias: uma cascata de informações é um processo
+em que um agente puramente racional elege uma escolha especíﬁca ignorando
+a própria informação privada (ou julgamento) para seguir a de outrem. Você
+corre, eu sigo você, porque pode ser que você esteja ciente de algum perigo
+que talvez eu não tenha percebido. É eﬁciente fazer o que os outros fazem em
+vez de ter que reinventar a roda todas as vezes. Mas essa cópia do
+comportamento de outras pessoas pode levar a cadeias de imitação. Em pouco
+tempo, todos estarão correndo na mesma direção, e pode ser por razões
+espúrias. Esse comportamento causa bolhas no mercado de ações e a formação
+de gigantescos modismos culturais. Bikhchandani et al. (1992). Na psicologia,
+ver Hansen e Donoghue (1977). Em biologia/seleção, Dugatkin (2001),
+Kirpatrick e Dugatkin (1994).
+Criticalidade auto-organizada: Bak e Chen (1991), Bak (1996).
+Variáveis econômicas: Bundt e Murphy (2006). A maioria das variáveis
+econômicas parece seguir uma distribuição “estável”. Elas incluem câmbio
+estrangeiro, o p4, a oferta monetária, as taxas de juros (de longo e de curto
+prazo) e a produção industrial.
+Estatísticos não aceitam escalabilidade: raciocínio defeituoso confundindo
+erros de amostragem nas caudas com um limite: Perline (2005), por exemplo,
+não entende a diferença entre ausência de evidência e evidência de ausência.
+Série temporal e memória: é possível ter uma “memória fractal”, isto é, o efeito
+de eventos passados no presente exerce um impacto que tem uma “cauda”.
+Diminui de intensidade como lei de potência, não exponencialmente.
+Obra de Marmott: Marmott (2004).
+
+CAPÍTULO 18
+Economistas: Weintraub (2002), Szenberg (1992).
+Teoria de portfólio e ﬁnanças modernas: Markowitz (1952, 1959), Huang e
+Litzenberger (1988) e Sharpe (1994, 1996). O que é chamado de índice de
+Sharpe não faz sentido fora do Mediocristão. O conteúdo do livro de Steve
+Ross (Ross [2004]) sobre “ﬁnanças neoclássicas” é completamente cancelado
+se você levar em consideração o Extremistão, apesar da “elegante” matemática
+e das belas teorias de cima para baixo. “Anedota” do Merton mais jovem em
+Merton (1992).
+Obsessão com medições: com frequência me mostram Crosby (1997) como
+uma evidência convincente de que fazer medições foi uma grande conquista,
+sem saber que elas se aplicavam ao Mediocristão e apenas ao Mediocristão.
+Bernstein (1996) comete o mesmo erro.
+Leis de potência nas ﬁnanças: Mandelbrot (1963), Gabaix et al. (2003), e
+Stanley et al. (2000). Kaizoji e Kaizoji (2004), Véhel e Walter (2002).
+Preços de terras: Kaizoji (2003). Magisterial: Bouchaud e Potters (2003).
+Equity Premium Puzzle [Quebra-cabeça do prêmio de risco]: se você aceitar
+caudas gordas, não há nenhum quebra-cabeça do prêmio de risco. Benartzi e
+Thaler (1995) propõem uma explicação psicológica, sem perceber que a
+variância não é a medida. Muitos outros também fazem isso.
+Opções cobertas: um jogo de otário, pois você corta seus ganhos —
+condicionado a uma quebra do potencial de aumento da ação, ela deve subir
+muito mais do que aquilo que se aceita intuitivamente. Para um erro
+representativo, ver Board et al. (2000).
+Família Nobel: “Nobel Descendant Slams Economics Prize” [Descendente de
+Alfred Nobel critica severamente o prêmio]. The Local, Estocolmo, 28 de
+setembro de 2005.
+Bolha dupla: o problema dos derivativos é que se o título por trás deles tiver
+caudas gordas suaves e seguir uma lei de potência leve (ou seja, um expoente
+de cauda de três ou superior), a derivada produzirá caudas muito mais longas
+
+(se o retorno estiver em quadrados, então o expoente de cauda do portfólio de
+derivativos será a metade do expoente do primeiro derivativo). Isso torna a
+equação de Black-Scholes-Merton duas vezes mais inadequada!
+Arrebentando Poisson: a melhor maneira de desvendar os problemas de
+Poisson como um substituto para uma escalável é calibrar um Poisson e
+calcular os erros da amostragem. O mesmo se aplica a métodos como o H)s5L
+— eles se saem bem na amostragem, mas sua performance é horrorosa fora
+dela (até mesmo uma volatilidade histórica passada ou desvio médio com um
+rastro de três meses terá um desempenho melhor do que um H)s5L de ordem
+superior).
+Por que o Nobel: Derman e Taleb (2005), Haug (2007).
+Claude Bernard e a medicina experimental: “Empiricism pour le présent,
+avec direction à aspiration scientiﬁque pour l’avenir.” [Empirismo para o
+presente, com direção a uma aspiração cientíﬁca para o futuro]. De Claude
+Bernard, Principe de la médecine expérimentale [Princípio da medicina
+experimental]. Ver também Fagot-Largeault (2002) e Rué (1977). Medicina
+moderna baseada em evidências: Ierodiakonou e Vandenbroucke (1993) e
+Vandenbroucke (1996) discutem um enfoque estocástico da medicina.
+CAPÍTULO 19
+Citação de Popper: De Conjecturas e Refutações, páginas 95-7.
+O paradoxo da loteria: este é um exemplo de acadêmicos estudiosos que não
+compreendem o evento raro de alto impacto. Existe um conhecidíssimo
+enigma ﬁlosóﬁco chamado de “paradoxo da loteria”, originalmente proposto
+pelo lógico Henry Kyburg (ver Rescher [2001] e Clark [2002]), que é o
+seguinte: “Não acredito que nenhum bilhete ganhará a loteria, mas acredito
+que todos os bilhetes ganharão a loteria”. Para mim (e para uma pessoa
+normal), essa declaração não parece conter nada de estranho. Contudo, para
+um ﬁlósofo acadêmico formado em lógica clássica, trata-se de um paradoxo.
+Mas só é um paradoxo se alguém tentar espremer aﬁrmações de probabilidade
+na lógica de uso comum que remonta a Aristóteles na base do ou tudo ou nada.
+Uma aceitação e rejeição ao estilo ou tudo ou nada (“acredito” ou “não
+acredito”) são inadequadas no que diz respeito ao altamente improvável.
+
+Precisamos de nuances de crença, graus de fé que um indivíduo possa ter em
+uma declaração e que sejam diferentes de 100% ou 0%.
+Uma derradeira consideração ﬁlosóﬁca. Para meu amigo, o trader de opções e
+estudioso do Talmude, o rabino Tony Glickman: a vida é convexa e deve ser vista
+como uma série de derivativos. De forma simples: quando você elimina a
+exposição negativa, limita sua vulnerabilidade ao desconhecimento, Taleb
+(2005).
+
+Notas
+PRÓLOGO
+1. A difusão dos telefones celulares com câmeras me proporcionou uma vasta coleção de fotos de cisnes
+negros enviadas por leitores viajantes. No último Natal, recebi também uma caixa de vinhos da marca Cisne
+Negro (não está entre minhas favoritas), uma ﬁta de vídeo (não assisto a vídeos) e dois livros. Preﬁro as
+fotos.
+2. Usei a metáfora lógica do cisne negro (sem iniciais maiúsculas) para eventos Cisne Negro (com
+maiúsculas), mas esse problema não deve ser confundido com o problema lógico levantado por muitos
+ﬁlósofos. Não se trata tanto de exceções, mas sim do papel superdimensionado de eventos extremos em
+muitos domínios da vida. Ademais, o problema lógico diz respeito à possibilidade da exceção (cisne negro);
+o meu problema tem a ver com o papel do evento excepcional (Cisne Negro) levando tanto à degradação da
+previsibilidade quanto à necessidade de ser robusto frente aos Cisnes Negros negativos e de se expor aos
+positivos.
+3. No vocabulário da estatística, o termo deﬁne valores anômalos ou atípicos, discordantes, discrepantes,
+aberrantes ou espúrios; numa série de números, designa um número que é muito maior ou menor que os
+demais. Os outliers são dados que se diferenciam drasticamente de todos os outros de uma amostra
+estatística; em outras palavras, representam um valor que foge da normalidade e que provavelmente causará
+anomalias nos resultados obtidos por meio de algoritmos e sistemas de análise. (N. T.)
+4. O evento altamente esperado que não ocorre também é um Cisne Negro. Observe que, por simetria, a
+ocorrência de um evento altamente improvável é o equivalente à não ocorrência de um altamente provável.
+5. O Cisne Negro é o resultado de limitações (ou distorções) epistêmicas coletivas e individuais,
+principalmente conﬁança no conhecimento; não é um fenômeno objetivo. O mais grave dos erros cometidos
+na interpretação do meu Cisne Negro é tentar deﬁnir um “Cisne Negro objetivo”, que seria invariável aos
+olhos de todos os observadores. Os eventos de 11 de setembro de 2001 foram um Cisne Negro para as
+vítimas, mas certamente não para os terroristas. O ensaio pós-escrito oferece uma discussão adicional sobre
+o assunto.
+6. A Ideia de Robustez: por que formulamos teorias que levam a projeções e previsões sem enfocar a
+robustez dessas teorias e as consequências dos erros? É muito mais fácil lidar com o problema do Cisne
+Negro se nos concentrarmos na robustez a erros em vez de aprimorar as previsões.
+7. Recursivo, aqui, signiﬁca que o mundo em que vivemos tem um número crescente de circuitos de
+retroalimentação, o que faz com que os eventos sejam a causa de mais eventos (digamos, as pessoas que
+compram um livro porque outras pessoas o compraram), e isso gera efeitos bola de neve, imprevisíveis e
+
+arbitrários, do tipo “o vencedor leva tudo”, em âmbito planetário. Vivemos em um ambiente no qual a
+informação ﬂui muito rapidamente, acelerando essas epidemias. Da mesma forma, eventos podem acontecer
+porque não deveriam acontecer (nossa intuição é conﬁgurada para um ambiente com causas e efeitos mais
+simples e informações mais lentas). Esse tipo de aleatoriedade não era frequente durante o Plistoceno, pois
+naquela época a vida socioeconômica era bem mais simples.
+8. Na terminologia da estatística, o mesmo que curva normal, curva de Gauss ou gaussiana, também chamada
+de curva simétrica, curva simétrica em formato de sino, em forma de sino de igreja, de campânula,
+campanular ou de chapéu-de-napoleão, ou ainda curva mesocúrtica, a qual é observada nas distribuições
+normais ou gaussianas. (N. T.)
+9. A metáfora do cisne negro não é nada moderna — ao contrário de sua usual atribuição a Popper, Mill,
+Hume e outros. Eu a escolhi porque corresponde à ideia antiga de um “pássaro raro”. O poeta latino Juvenal
+se refere a um “pássaro tão raro quanto o cisne negro” — rara avis in terris nigroque simillima cygno.
+10. Também é empirismo ingênuo apresentar, a ﬁm de corroborar algum argumento, séries de citações
+eloquentes de autoridades mortas à guisa de conﬁrmação. Pesquisando, sempre é possível encontrar alguém
+que tenha feito uma declaração agradável aos ouvidos que conﬁrma nosso ponto de vista — e, seja qual for o
+assunto, é possível encontrar algum outro pensador morto que disse exatamente o contrário. Quase todas as
+citações usadas por mim que não são de Yogi Berra são de pessoas de quem discordo.
+PARTE I
+1. Este livro foi escrito antes do falecimento do escritor Umberto Eco, em 2016. (N. E.)
+1. A APRENDIZAGEM DE UM CÉTICO EMPÍRICO
+1. O Levante (Mediterrâneo), conceito caro a Taleb, é um termo geográﬁco tradicionalmente utilizado por
+historiadores e arqueólogos dos períodos pré-histórico, antigo e medieval para descrever um vasto território
+da Ásia ocidental, formado pelas regiões a leste do mar Mediterrâneo que se estendem ao norte até os
+montes Tauro e ao sul até o deserto da Arábia, incluindo o vale fértil entre os rios Tigres e Eufrates, e a
+antiga Anatólia. De forma geral, a região abrange Síria, Jordânia, Israel, Palestina, Líbano e Chipre. Outras
+fontes deﬁnem o Levante de maneira mais ampla, incluindo porções da Turquia, do Iraque, da Arábia
+Saudita e do Egito. (N. T.)
+2. São extraordinárias a rapidez e a eﬁcácia com que podemos construir uma nacionalidade com uma
+bandeira, alguns discursos e um hino nacional; até hoje evito o rótulo “libanês”, preferindo a designação
+“levantino”, menos restritiva.
+3. Ed. bras.: A guerra dos judeus. Trad. A. C. Godoy. Curitiba: Juruá, 2002. (N. T.)
+4. Incluído no volume Ficciones. Ed. bras.: Ficções. Trad. Davi Arrigucci Jr. São Paulo: Companhia das
+Letras, 2007. (N. T.)
+5. Benoît Mandelbrot, que teve uma experiência semelhante mais ou menos com a mesma idade, mas quase
+quatro décadas antes, relembra seu próprio episódio na guerra como longos intervalos de doloroso tédio
+pontuados por breves momentos de medo extremo.
+6. Ed. bras.: Ascensão e queda do Terceiro Reich. Trad. Pedro Pomar e Leônidas Gontijo de Carvalho. Rio de
+Janeiro: Civilização Brasileira, 1962; Rio de Janeiro: Agir, 2008; Rio de Janeiro: Nova Fronteira, 2017. (N.
+T.)
+
+7. O historiador Niall Ferguson mostrou que, apesar de todas as explicações padrão para os eventos que
+precederam a Primeira Guerra Mundial (a Grande Guerra), descrevendo “tensões crescentes” e “escalada de
+crises”, o conﬂito foi uma surpresa. Apenas em uma análise retrospectiva a guerra foi tida como inevitável
+por historiadores que olharam para trás. Ferguson usou um argumento empírico inteligente para deixar claro
+seu ponto de vista: examinou os valores dos títulos imperiais, que normalmente incluem as previsões dos
+investidores em relação às necessidades de ﬁnanciamento do governo e o declínio nas expectativas de
+conﬂitos, já que as guerras causam graves déﬁcits. Mas os preços dos títulos não reﬂetiam a expectativa de
+uma guerra. Vale notar que esse estudo ilustra, além do mais, como trabalhar com preços pode fornecer uma
+boa compreensão da história.
+8. Veremos no capítulo 10 alguns inteligentes testes quantitativos que comprovam esse comportamento de
+manada; eles mostram que, em muitos assuntos, a distância entre as opiniões é extraordinariamente mais
+estreita do que a distância entre a média de opiniões e a verdade.
+9. Foi quando percebi que a grande força do sistema de livre mercado é o fato de que os executivos das
+corporações não precisam saber o que está acontecendo.
+10. Eu me especializei em complicados instrumentos ﬁnanceiros chamados de “derivativos”, aqueles que
+exigiam matemática avançada —, mas para os quais os erros resultantes do uso da matemática errada eram os
+mais gigantescos. O tema era suﬁcientemente novo e atraente para que eu ﬁzesse uma tese de doutorado
+sobre ele.
+Note que não fui capaz de construir uma carreira apenas apostando nos Cisnes Negros — não havia
+oportunidades negociáveis suﬁcientes. Por outro lado, pude evitar a exposição a eles protegendo meu
+portfólio de investimentos contra grandes perdas. Então, a ﬁm de eliminar a dependência da aleatoriedade,
+eu me concentrei nas ineﬁciências técnicas entre instrumentos complexos e em tirar proveito dessas
+oportunidades sem exposição ao evento raro, antes que elas desaparecessem à medida que meus
+concorrentes se tornassem avançados em termos tecnológicos. Em um momento posterior da minha
+carreira, descobri o negócio mais fácil (e menos carregado de aleatoriedade) de proteger grandes carteiras de
+investimentos contra o Cisne Negro, no estilo de seguros.
+2. O CISNE NEGRO DE IEVGUÊNIA
+1. Seu terceiro marido era um ﬁlósofo italiano.
+3. O ESPECULADOR E A PROSTITUTA
+1. Aos leitores que pesquisaram Ievguênia Krásnova no Google, lamento dizer que ela é (oﬁcialmente) uma
+personagem ﬁctícia.
+2. Enfatizo o possível porque a chance dessas ocorrências é normalmente da ordem de uma em vários
+trilhões de trilhões, o mais próximo do impossível.
+3. No original, tunnel vision; na oftalmologia, “visão de túnel” ou “visão em túnel” descreve a doença ocular
+em que há perda da visão periférica, preservando-se apenas a visão central, ou seja, a pessoa só enxerga o
+que está no centro, tudo ao lado da imagem deixa de ser percebido pelo olho, o que resulta em uma
+distorção do campo visual. (N. T.)
+4. Vale mencionar aqui que um dos erros que as pessoas cometem na interpretação da ideia do Cisne Negro
+é acreditarem que Cisnes Negros são mais frequentes do que imaginamos. Não é exatamente o caso. Cisnes
+Negros são mais relevantes, não necessariamente mais frequentes. Na verdade, existem menos eventos
+
+remotos, mas são cada vez mais extremos em termos de impacto, o que confunde as pessoas, pois elas
+tendem a descartá-los com mais facilidade.
+4. 1001 DIAS, OU COMO NÃO SER UM OTÁRIO
+1. Estou a salvo, pois nunca uso gravata (exceto em funerais).
+2. O exemplo original de Russell usou uma galinha, esta é a adaptação aprimorada.
+3. Declarações como essa do Capitão Smith são tão comuns que nem chegam a ser engraçadas. Em setembro
+de 2006, um fundo chamado Amaranth [amaranto], ironicamente o nome de uma ﬂor que “nunca morre”,
+teve que fechar as portas depois de perder cerca de 7 bilhões de dólares em poucos dias, o prejuízo mais
+impressionante na história do mercado ﬁnanceiro (outra ironia: eu compartilhava um escritório com os
+traders). Poucos dias antes do fato, a empresa fez uma declaração dizendo, em linhas gerais, que os
+investidores não deveriam se preocupar porque tinham doze gestores de riscos — pessoas que usam modelos
+do passado para produzir medidas de risco sobre as probabilidades de esse evento ocorrer. Mesmo se
+tivessem 112 gestores de riscos, isso não faria nenhuma diferença signiﬁcativa; ainda assim eles teriam ido
+pelos ares. Está claro que não é possível fabricar mais informações do que o passado é capaz de fornecer; se
+você comprar cem exemplares do New York Times, não estou muito certo de que isso ajudaria a incrementar
+o seu conhecimento em relação ao futuro. Simplesmente não sabemos quanta informação existe no passado.
+4. A principal tragédia do evento de alto impacto e baixa probabilidade vem da incompatibilidade entre o
+tempo gasto para compensar alguém e o tempo necessário para uma pessoa se sentir confortável com o fato
+de não estar fazendo uma aposta contra o evento raro. As pessoas têm um incentivo para apostar contra ele,
+ou para manipular o sistema, uma vez que podem receber uma boniﬁcação que reﬂete seu desempenho
+anual, quando na verdade tudo o que estão fazendo é produzir lucros ilusórios que voltarão a perder um dia.
+Na verdade, a tragédia do capitalismo é que, uma vez que a qualidade dos retornos não é observável a partir
+de dados do passado, os donos de empresas, isto é, os acionistas, podem ser ludibriados pelos gerentes que
+mostram retornos e lucratividade cosméticos, mas na verdade devem estar correndo riscos ocultos.
+5. A obra Adversus Mathematicos (literalmente, Contra os matemáticos, também conhecida como Contra os
+professores, é dividida em seis livros: Contra os gramáticos (Livro ), Contra os retóricos (Livro ), Contra os
+geômetras (Livro ), Contra os aritméticos (Livro ), Contra os astrólogos (Livro ) e Contra os músicos
+(Livro ). (N. T.)
+5. CONFIRMAÇÃO UMA OVA!
+1. Nem Peirce nem Popper foram os primeiros a apresentar essa assimetria. Em 1878, o ﬁlósofo Victor
+Brochard mencionou a importância do empirismo negativo, como o aspecto que os empiristas julgavam ser a
+maneira mais robusta de fazer negócios — os antigos entendiam isso implicitamente. Livros esgotados
+rendem muitas surpresas.
+2. Como eu disse no prólogo, o provável que não acontece também é um Cisne Negro. Assim, desconﬁrmar
+o provável é equivalente a conﬁrmar o improvável.
+3. Esse problema de conﬁrmação permeia nossa vida moderna, visto que a maioria dos conﬂitos tem em sua
+raiz o seguinte viés mental: quando árabes e israelenses assistem ao noticiário, veem diferentes histórias na
+mesma sucessão de eventos. Da mesma maneira, Democratas e Republicanos olham para partes diferentes
+dos mesmos dados e nunca convergem para as mesmas opiniões. Uma vez que a sua mente passar a ser
+habitada por uma certa visão de mundo, você tenderá a levar em consideração apenas exemplos que provem
+
+que você está certo. Paradoxalmente, quanto mais informações você tiver, mais terá a sensação de que suas
+opiniões são justiﬁcadas.
+4. Claramente, eventos geodésicos e relacionados ao clima (tornados e terremotos, por exemplo) não
+mudaram muito ao longo do último milênio, mas o que mudaram foram as consequências socioeconômicas
+dessas ocorrências. Hoje, um terremoto ou um furacão impõem consequências econômicas cada vez mais
+graves do que no passado, por causa das relações interligadas entre entidades econômicas e a intensiﬁcação
+dos “efeitos de rede” que discutiremos na parte . Questões que costumavam ter efeitos moderados agora
+resultam em graves impactos. O terremoto de Tóquio em 1923 causou uma queda de cerca de um terço no
+p4 do Japão. Extrapolando a partir da tragédia de Kobe em 1994, podemos facilmente inferir que as
+consequências de outro terremoto em Tóquio seriam bem mais dispendiosas que as de seu antecessor.
+6. A FALÁCIA NARRATIVA
+1. A palavra “na” aparece duas vezes.
+2. O romancista parisiense Georges Perec tentou romper com a narrativa e se empenhou em escrever um
+livro do tamanho do mundo. Teve que se contentar com um relato exaustivo do que aconteceu na Place
+Saint-Sulpice entre 18 de outubro e 20 de outubro de 1974. Mesmo assim, seu relato não foi tão exaustivo,
+e ele acabou escrevendo uma narrativa.
+3. Esses testes evitam a falácia narrativa e grande parte do viés de conﬁrmação, uma vez que os testadores
+são obrigados a levar em consideração tanto os fracassos quanto os sucessos de seus experimentos.
+4. Blink: The Power of Thinking Without Thinking (Ed. bras.: Blink: O poder do pensamento sem pensar,
+Sextante, 2005); Gladwell também escreveu In The Blink of an Eye (Ed. bras.: Blink: A decisão num piscar de
+olhos, Rocco, 2005; Sextante, 2016). (N. T.)
+7. VIVER NA ANTESSALA DA ESPERANÇA
+1. No original, o autor usa de forma recorrente shekel, antiga moeda hebraica de prata e também uma
+unidade mesopotâmica de peso, ainda hoje usada como nome da moeda corrente de Israel (o novo shekel);
+no inglês moderno, em especial em sua forma plural, shekels, é uma gíria para dinheiro, equivalendo a “grana”
+ou “bolada”. (N. T.)
+2. Ed. bras.: O deserto dos tártaros. Trad. Aurora Fornoni Bernardini e Homero Freitas de Andrade. Rio de
+Janeiro: Nova Fronteira, 1984. (N. T.)
+8. A SORTE INFLÁVEL DE GIACOMO CASANOVA: O PROBLEMA DA EVIDÊNCIA
+SILENCIOSA
+1. Ed. bras.: Ilusões perdidas. Trad. Rosa Freire D’Aguiar. São Paulo: Companhia das Letras, 2011. (N. T.)
+2. O melhor livro ﬁnanceiro não charlatanesco que conheço chama-se What I Learned Losing a Million
+Dollars [O que aprendi perdendo 1 milhão de dólares], de D. Paul e B. Moynihan. Os autores tiveram que
+publicar o livro por conta própria.
+3. No original, o autor usa cohort/cohorts, que em estatística se traduz por coorte/coortes e designa um
+conjunto ou grupo de referência que é estudado durante certo período. Essa subseção de determinada
+
+população tem uma característica em comum claramente deﬁnida, em geral a idade. Por exemplo: todos os
+indivíduos do sexo masculino nascidos em Ribeirão Preto em 2020. (N. T.)
+4. Os médicos são legítima e vigorosamente céticos em relação a resultados anedóticos e exigem que estudos
+sobre a eﬁcácia de medicamentos esquadrinhem o cemitério de evidências silenciosas. No entanto, esses
+mesmos médicos caem no truque do viés em outro lugar! Onde? Em sua vida pessoal, ou em suas atividades
+de investimento. Correndo o risco de soar repetitivo, tenho que reiterar minha perplexidade com o aspecto
+da natureza humana que nos permite misturar o mais rigoroso ceticismo e a mais aguda credulidade.
+5. Na verdade, evidências silenciosas podem inﬂuenciar as coisas de modo que pareçam menos estáveis e
+mais arriscadas do que realmente são. Vejamos o câncer. Temos o hábito de contabilizar as taxas de
+sobrevivência a partir de casos diagnosticados de câncer — o que deveria superestimar o perigo representado
+pela doença. Muitas pessoas que desenvolvem câncer permanecem sem diagnóstico, e seguem em frente
+para viver uma vida longa e confortável, e por ﬁm morrem de alguma outra causa, ou porque o câncer não
+era letal ou porque entrou em remissão espontânea. Não contabilizar esses casos distorce os riscos para
+cima.
+9. A FALÁCIA LÚDICA, OU A INCERTEZA DO NERD
+1. Meu colega Mark Spitznagel encontrou uma versão marcial da falácia lúdica: a luta competitiva organizada
+treina o atleta para enfocar o jogo, para não dissipar sua concentração, para ignorar a possibilidade do que
+não é permitido pelas regras, como chutes na virilha, uma faca surpresa etc. Então, aqueles que ganham a
+medalha de ouro podem ser precisamente os que serão mais vulneráveis na vida real. Da mesma forma, você
+vê pessoas com músculos enormes (vestindo camisetas pretas) que podem impressionar no ambiente
+artiﬁcial de uma academia de musculação, mas são incapazes de erguer uma pedra.
+2. Nietzsche usou esse termo para se referir aos leitores de jornais e amantes de ópera propensos a dogmas,
+gente com exposição cosmética à cultura e que tem a profundidade de um pires. Aqui amplio o termo para o
+ﬁlisteu que se esconde no mundo acadêmico, que carece de erudição por falta de curiosidade e é
+ferrenhamente centrado em suas próprias ideias.
+3. No original, o autor usa staircase wit, equivalente à expressão original francesa l’esprit de l’escalier — cuja
+tradução literal seria “o espírito da escada”. Descreve a desagradável situação em que uma pessoa se dá conta
+de que encontrou a resposta atrevida a um comentário ou argumento provocador de um oponente, mas já é
+tarde: a réplica engenhosa não serve mais, porque agora a pessoa já está descendo a escada da tribuna (daí a
+origem da expressão) e perdeu a vez de falar. Atribui-se o primeiro uso da expressão a Diderot no livro
+Paradoxe sur la Comédie, escrito entre 1773 e 1777, publicado postumamente em 1830. (N. T.)
+PARTE II: SOMOS SIMPLESMENTE INCAPAZES DE PREVER
+1. Note que esses ditos atribuídos a Yogi Berra talvez sejam apócrifos — foi o físico Niels Bohr quem criou o
+primeiro, e muitos outros criaram o segundo. Todavia, essas palavras continuam sendo a quintessência do
+berraismo.
+10. O ESCÂNDALO DE PREVISÃO
+1. Referência ao ensaio “O ouriço e a raposa”, publicado em 1953. Ed. port. O ouriço e a raposa: Ensaio sobre
+a visão histórica de Tolstói. Lisboa: Guerra e Paz, 2020. (N. T.)
+
+2. O livro que você tem em mãos atrasou “inesperadamente” cerca de quinze meses.
+3. Embora os erros de previsão sempre tenham sido divertidos e interessantes, os preços das commodities
+têm sido uma ótima armadilha para otários. Veja a seguinte previsão feita em 1970 por autoridades do
+governo dos Ew~):fw U`:fw (assinada pelos secretários do Tesouro, Estado, Interior e Defesa): “o preço
+padrão do petróleo cru estrangeiro em 1980 pode muito bem cair e, de qualquer forma, não terá um
+aumento substancial”. Os preços do petróleo ﬁcaram dez vezes mais altos em 1980. Eu só me pergunto se os
+previsores atuais não têm curiosidade intelectual ou se estão ignorando intencionalmente os erros de
+previsão.
+Observe também esta aberração adicional: uma vez que os altos preços do petróleo estão majorando o
+valor de seus estoques, as petrolíferas registram lucros recordes, e os executivos do petróleo recebem
+enormes boniﬁcações porque “ﬁzeram um bom trabalho” — como se obtivessem lucros por causar o
+aumento dos preços do petróleo.
+4. Devo ao leitor uma resposta sobre a contagem do número de amantes de Catarina. Ela teve apenas doze.
+11. COMO PROCURAR COCÔ DE PASSARINHO
+1. A maior parte do debate entre criacionistas e teóricos da evolução (do qual não participo) reside no
+seguinte: os criacionistas acreditam que o mundo é obra de algum desígnio divino, ao passo que os teóricos
+da evolução veem o mundo como resultado de mudanças aleatórias por um processo aleatório. No entanto, é
+difícil olhar para um computador ou um carro e considerá-los o resultado de um processo desprovido de
+objetivo. Embora seja isso o que eles são.
+2. Lembre-se de que, no capítulo 4, vimos como Algazel e Averróis trocaram insultos por meio de títulos de
+livros. Talvez algum dia eu seja suﬁcientemente sortudo para ler um ataque contra este livro na forma de
+uma diatribe intitulada O Cisne Branco.
+3. Essas alegações não são incomuns. Por exemplo, o físico Albert Michelson imaginou, no ﬁnal do século
+, que o que restava a ser descoberto nas ciências da natureza não passava de ajustes ﬁnos em nossas
+precisões, aprimorando-as por algumas casas decimais.
+4. A ciência e a hipótese. Trad. Maria Auxiliadora Kneipp. Brasília: Editora da UnB, 1988. (N. T.)
+5. Há mais limites que sequer tentei discutir aqui. Não estou nem tocando no assunto da classe de
+incomputabilidade que as pessoas chamam de `p-completude.
+6. Essa ideia surge aqui e ali ao longo da história, com nomes diferentes. Por exemplo, Alfred North
+Whitehead chamou de “falácia da concretude deslocada” o erro de confundir um modelo com a entidade
+física que ele pretende descrever.
+7. Esses gráﬁcos ilustram também uma versão estatística da falácia narrativa — você encontra um modelo que
+se encaixa no passado. “Regressão linear” ou “s-quadrado” pode, em última análise, enganar você além da
+medida, a ponto de perder a graça. Você pode ajustar a parte linear da curva e alegar um s-quadrado alto, o
+que signiﬁca que seu modelo se ajusta muito bem aos dados e tem elevados poderes de previsão. Tudo isso é
+conversa ﬁada: você só se encaixa no segmento linear da série. Lembre-se sempre de que “s-quadrado” não é
+adequado para o Extremistão; só serve para promoção acadêmica.
+12. EPISTEMOCRACIA, UM SONHO
+
+1. Yogi Berra poderia formular uma teoria do epilogismo com sua máxima: “Dá para observar muita coisa
+apenas olhando”.
+2. Ao olharmos para o passado, seria uma boa ideia resistir a analogias ingênuas. Muitas pessoas compararam
+os Estados Unidos de hoje à Roma Antiga, tanto do ponto de vista militar (a destruição de Cartago era
+citada muitas vezes como um incentivo para a destruição de regimes inimigos) quanto social (os inﬁndáveis e
+banais alertas de declínio e queda iminentes). Infelizmente, precisamos ter extremo cuidado na transposição
+do conhecimento de um ambiente simples e mais próximo do tipo 1, como o que tínhamos na Antiguidade,
+para o sistema complexo do tipo 2 de hoje, com suas intrincadas teias de ligações causais. Outro erro é
+chegar a conclusões causais a partir da ausência de guerra nuclear, uma vez que, invocando o argumento de
+Casanova do capítulo 8, eu repetiria que não estaríamos aqui se tivesse acontecido uma guerra nuclear, e não
+é uma boa ideia derivarmos uma “causa” quando nossa sobrevivência está condicionada a ela.
+13. APELES, O PINTOR, OU O QUE FAZER QUANDO NÃO SE CONSEGUE PREVER?
+1. Este capítulo oferece uma conclusão geral para aqueles que a esta altura já estão pensando “Taleb, eu já
+entendi, mas o que eu faço agora?”. Minha resposta seria: se entendeu, você meio que já chegou lá. Mas eis
+aqui um pequeno nudge.
+2. Dan Gilbert demonstrou em um artigo famoso, “How Mental Systems Believe” [Como os sistemas
+mentais acreditam], que não somos naturalmente céticos e que não acreditar exige gasto de energia mental.
+3. Ed. bras.: O relojoeiro cego: A teoria da evolução contra o desígnio divino. Trad. Laura Teixeira Motta. São
+Paulo: Companhia das Letras, 2001. (N. T.)
+4. Também chamada de barra de haltere, é uma haste de metal com duas esferas ou discos de metal nas
+pontas, utilizada por levantadores de peso. (N. T.)
+5. Certiﬁque-se de ter muitas dessas pequenas apostas; evite deixar-se cegar pela vivacidade de um único
+Cisne Negro. Faça o maior número possível e concebível dessas pequenas apostas. Até mesmo as empresas
+de capital de risco caem na lábia da falácia narrativa com algumas histórias que “fazem sentido” para elas;
+elas não têm tantas apostas quanto deveriam. Se as empresas de capital de risco são lucrativas, não é por
+causa das histórias que têm na cabeça, mas porque estão expostas a eventos raros não planejados.
+6. Há uma questão epistemológica mais sutil. Lembre-se de que em um negócio do tipo Cisne Negro
+virtuoso, é quase certo que aquilo que o passado não revelou será bom para você. Quando você olha para os
+lucros de empresas de biotecnologia em anos anteriores, não vê nos números o sucesso arrebatador do tipo
+arrasa-quarteirões, e devido ao potencial para a cura do câncer (ou dores de cabeça, ou calvície, ou senso de
+humor de péssima qualidade etc.), há uma pequena probabilidade de que as vendas nessa indústria possam
+vir a ser monstruosas, muito maiores do que se poderia esperar. Por outro lado, pense nos negócios do tipo
+Cisne Negro negativo. O histórico que você vê provavelmente superestima suas propriedades. Lembre-se da
+explosão dos bancos em 1982: aos olhos do observador ingênuo eles pareciam ser mais lucrativos do que
+aparentavam. Há duas variedades de seguradoras: as do tipo regular diversiﬁcável, que pertencem ao
+Mediocristão (digamos, seguro de vida) e as que lidam com riscos mais críticos e explosivos, propensos a
+Cisnes Negros, que geralmente são vendidos a resseguradoras. De acordo com os dados, no decorrer das
+últimas décadas as resseguradoras perderam dinheiro nas subscrições, mas, ao contrário dos banqueiros, são
+suﬁcientemente introspectivas para saber que na verdade poderia ter sido muito pior, porque nos últimos
+vinte anos não houve uma grande catástrofe, e basta uma hecatombe por século para fechar as portas do
+negócio. Muitos acadêmicos da área de ﬁnanças que fazem “valuation” em seguros parecem não ter
+entendido o xis da questão.
+
+7. O termo wiki, elemento de composição de uma grande quantidade de empreendimentos digitais (por
+exemplo, Wikipédia e WikiLeaks), e que no mundo da computação indica websites colaborativos, ou seja,
+aqueles cujo conteúdo pode ser modiﬁcado pelo usuário, foi criado em 1994 pelo programador americano
+Ward Cunningham, criador do software batizado de WikiWikiWeb (de sonoridade semelhante ao www de
+World Wide Web), nome supostamente inspirado nos ônibus expressos do aeroporto de Honolulu, os Wiki-
+Wiki, expressão regional havaiana que signiﬁca “rapidinho”. Em 2007, wiki passou a ser um verbete na
+versão on-line do dicionário Oxford. (N. T.)
+14. DO MEDIOCRISTÃO AO EXTREMISTÃO, E DE VOLTA
+1. O intervalo de duas décadas é relativo à data de lançamento da primeira edição deste livro, no ano de
+2007. (N. E.)
+2. Essas leis escaláveis já foram discutidas nas Escrituras: “Porque a todo o que tem dar-se-lhe-á, e terá em
+abundância; mas ao que não tem, até aquilo que tem ser-lhe-á tirado”. (Mateus 25:29, Bíblia de King James)
+3. Boa parte da percepção da importância atribuída à precocidade na carreira dos pesquisadores se deve à
+incompreensão do papel perverso desse efeito, especialmente quando reforçado pela parcialidade. Muitos
+contraexemplos, mesmo em campos como a matemática, que em tese deveria ser puramente um “jogo de
+jovens”, ilustram a falácia da idade: para usar termos simples, é necessário ser bem-sucedido cedo, muito
+cedo.
+4. O atributo “de cima para baixo” da web também está fazendo com que resenhistas de livros passem a ser
+mais responsáveis. Se antes os escritores estavam indefesos e eram vulneráveis às arbitrariedades das críticas
+literárias, que podem distorcer as mensagens dos livros e, graças ao viés de conﬁrmação, expor pontos fracos
+ínﬁmos e irrelevantes no texto, eles agora têm voz muito mais forte. Em vez de enviar uma carta chorosa ao
+editor, os escritores podem simplesmente postar na web sua própria resenha crítica de uma resenha crítica.
+Se forem atacados ad hominem, podem responder ad hominem e mirar diretamente a credibilidade do crítico,
+assegurando-se de que suas aﬁrmações apareçam em uma rápida busca na internet ou na Wikipédia, a
+enciclopédia de baixo para cima.
+5. Como se já não tivéssemos problemas suﬁcientes, os bancos são agora mais vulneráveis do que nunca ao
+Cisne Negro e à falácia lúdica — em suas equipes de funcionários há “cientistas” que cuidam das exposições.
+A gigantesca ﬁrma bancária J. P. Morgan colocou o mundo inteiro em risco ao introduzir, nos anos 1990, o
+RiskMetrics, método fajuto de gerenciar os riscos das pessoas, causando o uso generalizado da falácia lúdica
+e colocando no poder os dr. Johns no lugar dos Tonys Gordos céticos. (Uma metodologia correlata, chamada
+“Value-at-Risk” [valor-em-risco], que se baseia na medida quantitativa de riscos, está se disseminando.) Da
+mesma forma, quando olho para os riscos da instituição Fannie Mae, ﬁnanciada pelo governo, vejo que
+parece estar sentada em um barril de dinamite, vulnerável ao menor soluço. Mas não há motivo para
+preocupação: a formidável equipe de cientistas deles considerou que esses eventos são “improváveis”.
+15. A CURVA EM FORMA DE SINO, A GRANDE FRAUDE INTELECTUAL
+1. O leitor não técnico (ou intuitivo) pode pular este capítulo, pois ele entra em detalhes a respeito da curva
+em forma de sino. Você também pode pulá-lo caso se encaixe na categoria de felizardos que não sabem o
+que é a curva em forma de sino.
+2. Manipulei um pouco os números em nome da simplicidade.
+3. Um dos aspectos mais incompreendidos de uma gaussiana é sua fragilidade e vulnerabilidade na
+estimativa de eventos de cauda. As chances de um movimento 4-sigma são duas vezes maiores do que a de
+
+um movimento 4,15-sigma. As chances de um 20-sigma são 1 trilhão de vezes maiores do que a de um 21-
+sigma! Isso signiﬁca que um pequeno erro de medição do sigma levará a uma gigantesca subestimação da
+probabilidade. Podemos estar 1 trilhão de vezes errados em relação a alguns eventos. [N. T. em estatística, a
+letra grega sigma pode signiﬁcar, quando maiúscula (Σ), um somatório de valores e, quando minúscula (σ), o
+desvio-padrão de uma população.]
+4. Meu argumento principal, que repito de uma forma ou de outra ao longo da parte , é o seguinte. Tudo
+ﬁca fácil, do ponto de vista conceitual, quando se considera que existem dois, e somente dois, paradigmas
+possíveis: não escalável (como a gaussiana) e outro (como a aleatoriedade mandelbrotiana). A rejeição da
+aplicação do não escalável é suﬁciente, como veremos, para eliminar certa visão de mundo. Isto é como
+empirismo negativo: sei muito ao determinar o que está errado.
+5. Note que variáveis podem não ser inﬁnitamente escaláveis; pode haver um limite máximo muito, muito
+remoto — mas não sabemos onde ele ﬁca, de forma que tratamos uma situação especíﬁca como se fosse
+inﬁnitamente escalável. Em termos técnicos, não é possível vender um número de cópias de um livro que
+seja maior do que o número de habitantes no planeta — mas esse limite superior é grande o suﬁciente para
+ser tratado como se não existisse. Além disso, quem sabe, mudando a capa do livro, talvez seja possível
+vendê-lo duas vezes para a mesma pessoa, ou fazer com que ela assista ao mesmo ﬁlme várias vezes.
+6. Enquanto revisava o manuscrito deste livro, em agosto de 2006, hospedei-me em um hotel em Dedham,
+Massachusetts, perto do acampamento de férias de verão de um dos meus ﬁlhos. Lá, ﬁquei um pouco
+intrigado com a abundância de pessoas obesas zanzando pelo saguão e gerando ﬁlas para os elevadores, que
+não podiam funcionar acima do limite máximo. Por ﬁm descobri que o hotel estava sediando a convenção
+anual da Associação Nacional para a Aceitação dos Gordos (`)G), na sigla em inglês). Como a maioria dos
+membros estava extremamente acima do peso, não fui capaz de descobrir qual dos delegados era o mais
+gordo: entre os muito pesados prevalecia alguma forma de igualdade (uma pessoa muito mais pesada do que
+aquelas que vi estaria morta). Tenho certeza de que, na convenção da Associação Nacional para a Aceitação
+dos Ricos (`)s), na sigla em inglês), uma pessoa faria as outras parecerem menores e, mesmo entre os
+super-ricos, uma porcentagem muito pequena representaria uma grande porção da riqueza total.
+16. A ESTÉTICA DA ALEATORIEDADE
+1. Ed. bras.: Matéria e memória: Ensaio sobre a relação do corpo com o espírito. Trad. Paulo Neves. São Paulo:
+Martins Fontes, 1999. (N. T.)
+2. O leitor não técnico pode pular daqui até o ﬁnal do capítulo.
+3. Lançando mão da simetria, poderíamos examinar também as incidências abaixo do número.
+4. Quando questionados sobre seu trabalho, o mecanismo de defesa deles é alegar que “fazem ciência, não
+ﬁlosoﬁa” e censurar minha preocupação quanto aos erros de modelo. Trata-se de uma armadilha comum: as
+pessoas pensam que a ciência consiste em formular previsões (mesmo quando erradas). Para mim, a ciência
+consiste em como não ser um otário.
+5. Como na célebre sentença “Alea jacta est”, “o dado está lançado” ou “a sorte está lançada”; segundo
+Suetônio (Vida de César), pronunciada por Júlio César em janeiro de 49 a.C., no momento em que
+atravessou o Rubicão para marchar sobre Roma e derrubar Pompeu. — Alea signiﬁca tanto o dado como a
+sorte, daí ouvimos dizer que um resultado é “aleatório” quando baseado exclusivamente na sorte. (N. T.)
+17. OS LOUCOS DE LOCKE, OU A CURVA EM FORMA DE SINO NOS LUGARES ERRADOS
+
+1. Esta é uma simples ilustração do ponto geral deste livro em ﬁnanças e economia. Se você não acredita na
+aplicação da curva em forma de sino a variáveis sociais, e se, como muitos proﬁssionais, você já se convenceu
+de que a teoria ﬁnanceira “moderna” é uma porcaria de ciência perigosa, pode pular este capítulo com
+tranquilidade.
+2. É bem verdade que a gaussiana foi ajustada e alterada, usando-se métodos como “saltos” complementares,
+teste de estresse, mudança de regime, ou os métodos elaborados conhecidos como H)s5L, mas, embora
+esses métodos representem um bom esforço, não levam em consideração as falhas fundamentais da curva em
+forma de sino. Tais métodos não são invariantes de escala. Isso, na minha opinião, pode explicar as falhas de
+métodos soﬁsticados na vida real, conforme demonstrado pela Competição Makridakis.
+3. No Brasil, incluído em Um homem para qualquer mercado: De Las Vegas a Wall Street, como derrotei a
+banca e o mercado. Trad. Afonso Celso da Cunha Serra, Petê Rissatti, Rogério W. Galindo. São Paulo:
+Companhia das Letras, Portfolio-Penguin, 2018. (N. T.)
+4. Em termos mais técnicos, lembre-se da minha carreira como proﬁssional de opções. Uma opção
+muitíssimo improvável não apenas se beneﬁcia dos Cisnes Negros, mas se beneﬁcia desproporcionalmente
+deles — algo que a “fórmula” de Scholes e Merton deixa passar em brancas nuvens. A opção de recompensa
+é tão poderosa que você não precisa estar certo sobre as probabilidades: mesmo estando errado com relação
+a elas, você recebe uma recompensa de proporções monstruosas. Chamei isso de “bolha dupla”: o erro de
+preciﬁcação da probabilidade e do retorno.
+5. Estou selecionando Merton porque o considero bastante ilustrativo do obscurantismo com carimbo
+acadêmico. Descobri as deﬁciências de Merton por meio de uma furiosa e ameaçadora carta de sete páginas
+que ele me enviou, a qual me deu a sensação de que ele não estava muito familiarizado com a forma como
+negociamos opções, seu próprio objeto de estudo. Ele parecia estar sob a impressão de que os traders se
+ﬁam na teoria econômica “rigorosa” — como se os pássaros tivessem que estudar engenharia (ruim) para
+conseguir voar.
+6. A medicina medieval também se baseava em ideias de equilíbrio quando era de cima para baixo e
+semelhante à teologia. Felizmente, seus praticantes saíram do mercado, pois não tinham condições de
+competir com os cirurgiões de baixo para cima, ex-barbeiros de motivação ecológica que ganharam
+experiência, e graças aos quais surgiu a ciência clínica aplatônica. Se estou vivo hoje, é porque a medicina
+escolástica de cima para baixo faliu alguns séculos atrás.
+ENSAIO PÓS-ESCRITO
+1. APRENDENDO COM A MÃE NATUREZA, A MAIS VELHA E MAIS SÁBIA
+1. O Lehman Brothers era uma instituição ﬁnanceira com escritórios muito vistosos que quebrou
+abruptamente durante a crise de 2008.
+2. Equivalente ao cognato árabe do conceito grego-ocidental de “ﬁlosoﬁa”, a falsafah incluía metafísica e
+lógica, bem como as ciências positivas (matemática, música, astronomia e anatomia). Seus praticantes, os
+faylasūfs, costumavam ganhar a vida como médicos, astrólogos ou músicos. No islã, contudo, falsafah não
+deﬁne uma disciplina unicamente mental, mas inclui como apêndice necessário a conformidade moral, a
+vida segundo a sabedoria — o autêntico ﬁlósofo seria aquele que, além de pensar corretamente, pratica as
+virtudes. (N. T.)
+3. A essência do empirismo não é a ausência de teorias, crenças ou causas e efeitos: diz respeito a evitar ser
+um otário, ter um viés decidido e predeﬁnido sobre onde você quer que o seu erro esteja — onde está o
+padrão. Um empirista que enfrenta uma série de fatos ou dados opta pela suspensão da crença (daí a ligação
+entre o empirismo e a mais antiga tradição pirrônica cética), enquanto outros preferem usar como padrão
+
+uma caracterização ou teoria. A ideia toda é esquivar-se do viés de conﬁrmação (os empiristas preferem errar
+do lado do viés de desconﬁrmação/falsiﬁcação, que eles descobriram mais de 1500 anos antes de Karl
+Popper).
+4. “The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme”
+[Os tímpanos de são Marcos e o paradigma panglossiano: Uma crítica ao programa adaptacionista],
+publicado em 1979 em Proceedings of the Royal Society B: Biological Sciences. Por meio de uma analogia
+entre arquitetura e biologia, o artigo refuta o papel exclusivo que a seleção natural ocupava até então no
+estudo da evolução: a basílica de são Marcos é ornada com belos mosaicos nos espaços triangulares situados
+onde os arcos redondos de sustentação se encontram em ângulo reto — os “tímpanos”, que existem como um
+desfecho necessário da construção sobre arcos, isto é, uma consequência desse tipo de estrutura; para quem
+observa, a impressão é de que os tímpanos foram cuidadosamente realizados para a ostentação desses belos
+mosaicos e painéis, quando na verdade desempenham um papel secundário na construção, ou seja, são
+meros subprodutos arquitetônicos utilizados de forma criativa — se a estrutura não exigisse os tímpanos, os
+adornos provavelmente não existiriam. Embora sejam um “efeito colateral”, os tímpanos ganharam imensa
+importância estética. (N. T.)
+5. Claramente, os cerca de 1 milhão de habitantes do planeta envolvidos em algum aspecto da análise
+econômica, planejamento, gerenciamento de riscos e previsão — todo o establishment econômico —
+acabaram sendo perus devido ao simples erro de não compreender a estrutura do Extremistão, os sistemas
+complexos e os riscos ocultos, ao mesmo tempo conﬁando em medidas de risco e previsões idiotas — tudo
+isso apesar da experiência anterior, pois essas coisas jamais funcionaram.
+2. POR QUE FAÇO TANTAS CAMINHADAS, OU COMO OS SISTEMAS SE TORNAM FRÁGEIS
+1. Há uma diferença entre estressores e exposição tóxica que enfraquece organismos, como a radiação que
+discuti no capítulo 8 com a história dos ratos.
+2. Há uma dimensão de sociologia da ciência no problema. O jornalista e escritor de divulgação cientíﬁca
+Gary Taubes me convenceu de que a maioria das recomendações nutricionais (sobre redução de gorduras
+nas dietas) contraria as evidências. Sou capaz de entender como alguém pode nutrir crenças sobre coisas
+naturais sem justiﬁcá-las empiricamente; não consigo entender crenças que se opõem tanto à natureza
+quanto às evidências cientíﬁcas.
+3. As equações ﬁnanceiras usadas pelos vilões para o “passeio aleatório” são baseadas em difusão de calor.
+4. O argumento que se ouve com frequência sobre as pessoas primitivas que viviam em média menos de
+trinta anos ignora a distribuição em torno dessa média; a expectativa de vida precisa ser analisada de maneira
+condicional. Muitos morriam cedo em decorrência de ferimentos; muitos viviam uma vida muito longa e
+saudável. Esse é exatamente o erro elementar do tipo “iludidos pelo acaso”, ﬁando-se na noção de “média” na
+presença de variância, que faz com que as pessoas subestimem os riscos do mercado de ações.
+3. MARGARITAS ANTE PORCOS
+1. Em latim, “pérolas aos porcos”.
+2. A maioria dos intelectuais continua atribuindo a expressão “Cisne Negro” a Popper ou a Mill, às vezes a
+Hume, a despeito da citação de Juvenal. A expressão latina niger cygnus talvez seja até mais antiga,
+possivelmente de origem etrusca.
+
+3. Uma confusão frequente: as pessoas acreditam que estou sugerindo que os agentes deveriam apostar na
+ocorrência de Cisnes Negros, quando o que estou dizendo é que devem evitar explodir caso ocorra um
+Cisne Negro. Como veremos na seção 4, estou defendendo a omissão, não a comissão, o cometimento. A
+diferença é enorme, e fui soterrado por uma avalanche de pessoas perguntando se alguém pode “sangrar até
+a morte” ao fazer apostas na ocorrência de Cisnes Negros (como Nero, Giovanni Drogo ou o cientista pobre
+com um cunhado rico). Essas pessoas ﬁzeram sua escolha por razões existenciais, não necessariamente
+econômicas, embora a economia dessa estratégia faça sentido para um coletivo.
+4. Se a maioria das pessoas que ﬁcaram confusas com a mensagem parece estar envolvida em economia e
+ciências sociais, embora uma parcela muito menor de leitores venha desses segmentos, é porque outros
+membros da sociedade sem essa bagagem entendem a mensagem do livro quase imediatamente.
+5. Por exemplo, uma anedota que ajuda a explicar a crise de 2008. Um certo Matthew Barrett, ex-presidente
+do Barclays Bank e do Bank of Montreal (ambos submetidos a explosões por serem expostos ao Extremistão
+com métodos de gerenciamento de riscos para o Mediocristão) reclamou, depois de todos os
+acontecimentos de 2008 e 2009, que A lógica do cisne negro não lhe fornecera uma resposta pronta para a
+pergunta “o que eu deveria fazer a respeito?” e que ele “não consegue gerir um negócio” se tiver que se
+preocupar com riscos de Cisnes Negros. A pessoa nunca ouviu falar da noção de fragilidade e robustez
+diante de desvios extremos — o que ilustra minha ideia de que a evolução não funciona ensinando, mas
+destruindo.
+6. Até agora, cerca de catorze artigos acadêmicos (mas muito, muito chatos). (Eles são chatos tanto de ler
+como de escrever!) O número continua crescendo, todavia, e eles estão sendo publicados em um ritmo de
+três por ano. Taleb (2007), Taleb e Pilpel (2007), Goldstein e Taleb (2007), Taleb (2008), Taleb (2009),
+Taleb, Goldstein e Spitznagel (2009), Taleb e Pilpel (2009), Mandelbrot e Taleb (2010), Makridakis e
+Taleb (2010), Taleb (2010), Taleb e Tapiero (2010a), Taleb e Tapiero (2010b), Taleb e Douady (2010) e
+Goldstein e Taleb (2010).
+7. Embora a desse sujeito tenha sido um pouco extrema, esse tipo de hipocrisia está longe de ser incomum.
+Muitas pessoas intelectualmente honestas que eu havia alertado, e que leram meu livro, mais tarde me
+culparam por não ter lhes contado sobre a crise — simplesmente não conseguiam se lembrar das minhas
+advertências. Um porco recém-esclarecido tem diﬁculdade para se lembrar de que no passado viu uma
+pérola, mas não sabia o que era.
+8. Dan Goldstein e eu temos trabalhado em colaboração e realizado experimentos sobre intuições humanas
+com respeito a diferentes classes de aleatoriedade. Ele não caminha devagar.
+4. ASPERGER E O CISNE NEGRO ONTOLÓGICO
+1. Robert Merton, o vilão do capítulo 17, uma pessoa que dizem ter uma mente altamente mecanicista (até
+mesmo em seu interesse por máquinas e seu uso de metáforas mecânicas para representar a incerteza),
+parece ter sido criado para o único propósito de fornecer uma ilustração da perigosa tolice do Cisne Negro.
+Após a crise de 2008, ele defendeu a exposição a riscos causada por economistas, apresentando o
+argumento de que “foi um Cisne Negro” simplesmente porque não o esperava, portanto, disse ele, as teorias
+eram boas. Ele não deu o salto no sentido de que, como não prevemos a chegada desses eventos, precisamos
+ser robustos em relação a eles. Normalmente, essas pessoas saem de cena; a estabilidade acadêmica garante
+uma sobrevida um pouco maior.
+2. O argumento pode efetivamente ser usado para satisfazer o risco moral e os lucros desonestos
+(disfarçados na forma de dados probabilísticos). Rubin embolsou mais de 100 milhões de dólares dos
+ganhos auferidos pelo Citigroup com riscos ocultos que surgem apenas de tempos em tempos. Depois que
+
+explodiu, Rubin tinha uma desculpa — “Isso nunca aconteceu antes”. Ele ﬁcou com o dinheiro surrupiado;
+nós, os contribuintes, incluindo professores e cabeleireiros, tivemos que socorrer a empresa e pagar pelas
+perdas. Chamo isso de elemento de risco moral vinculado ao pagamento de bônus para pessoas que não são
+robustas diante dos Cisnes Negros, e que sabíamos de antemão não serem. Esse de antemão é o que me deixa
+enfurecido.
+3. De fato, é a ausência de representação de ordem superior — a incapacidade de aceitar aﬁrmações como
+“O meu método para avaliar o que é certo ou errado é certo ou errado?” — o fator, conforme veremos na
+próxima seção, decisivo quando lidamos com probabilidades, o que leva os drs. Johns a serem fanáticos por
+medições e acreditarem nelas sem duvidar de suas crenças. Eles não conseguem entender a
+metaprobabilidade, a probabilidade de ordem superior — isto é, a probabilidade de a probabilidade que
+estão usando não ser verdadeira.
+4. No trecho do Canto  do poema De Rerum Natura, lê-se: “Scilicet et ﬂuvius, qui non est maximus, eii est/
+Qui non ante aliquem majorem vidit, et ingens/ Arbor homoque videtur; et omnia de genere omni/ Maxima quae
+vidit quisque, haec ingentia ﬁngit.”. (Logo se vê por que o rio parece largo/ a quem não viu outro maior, e
+nos/ parece enorme a árvore, e porque tudo que é/ grande e visto assim, dissimulando eternidades.)
+Tradução de Mario Henrique Domingues, In: O trovão, o relâmpago: Tradução do Canto VI do poema de
+Lucrécio e análise de função poética de fragmentos. Dissertação de mestrado. Universidade de São Paulo, São
+Paulo,
+2013.
+Disponível
+em:
+<http://www.teses.usp.br/teses/disponiveis/8/8143/tde-29042013-
+130042/>. (N. T.)
+5. O leitor não técnico deve pular o restante desta seção.
+6. No original, “Dutch book”, conceito que, aplicado aos jogos de azar, designa um conjunto de apostas que,
+tentando cobrir vários cenários possíveis, garante lucro a despeito do resultado da aposta e está associado a
+probabilidades implícitas incoerentes, ou seja, distorcidas; em economia, o termo geralmente se refere a uma
+sequência de negociações que deixaria uma das partes em situação ﬂagrantemente pior e a outra em situação
+escancaradamente melhor; em ﬁlosoﬁa, é usado para explorar graus de certeza em crenças. (N. T.)
+7. Assíntota, assímptota ou assimptota, reta cuja distância em relação a uma curva plana diminui
+indeﬁnidamente (aproxima-se de zero), sem nunca cortar a curva. (N. T.)
+5. (TALVEZ) O PROBLEMA MAIS ÚTIL NA HISTÓRIA DA FILOSOFIA MODERNA
+1. O “a priori” que estou usando aqui difere da crença ﬁlosóﬁca “a priori”, no sentido de que é um ponto de
+partida teórico, não uma crença que não seja anulável pela experiência.
+2. Curiosamente, o famoso artigo do reverendo Bayes que levou ao que chamamos de inferência bayesiana
+não nos deu “probabilidade”, mas expectativa (média esperada). Os estatísticos tiveram diﬁculdades com o
+conceito, de modo que extraíram probabilidade do retorno. Infelizmente, essa redução levou à reiﬁcação do
+conceito de probabilidade, e seus adeptos esqueceram que a probabilidade não é natural na vida real.
+3. O leitor inteligente que entende a ideia de que eventos raros não são computáveis pode pular as partes
+restantes desta seção, que serão extremamente técnicas. Elas se destinam a provar um argumento para
+aqueles que estudaram demais e por isso não conseguem enxergar as coisas com clareza.
+4. Este é um ponto extremamente técnico (pode pular). O problema da distribuição desconhecida se
+assemelha, de certa forma, à diﬁculdade central de Bertrand Russell na lógica com “esta frase é verdadeira”
+— uma frase não pode conter seu próprio predicado de verdade. Precisamos aplicar a solução de Tarski: para
+cada linguagem, uma metalinguagem cuidará de predicados de verdadeiro e falso sobre essa linguagem. Com
+a probabilidade, simplesmente, uma metaprobabilidade atribui graus de crença a cada probabilidade — ou,
+
+em termos mais gerais, uma distribuição de probabilidades precisa ser subordinada a uma distribuição de
+metaprobabilidades dando, digamos, a probabilidade de uma distribuição de probabilidades ser a errada.
+Mas, por sorte, consegui expressar isso com as ferramentas matemáticas disponíveis. Já brinquei com esse
+problema de metadistribuição no passado, em meu livro Dynamic Hedging (1997). Comecei a colocar uma
+taxa de erro na gaussiana (tendo minha distribuição verdadeira extraída de duas ou mais gaussianas, cada
+uma com parâmetros diferentes), o que levou a distribuições aninhadas que, quase invariavelmente,
+produziam alguma classe de Extremistão. Então, para mim, a variância da distribuição é,
+epistemologicamente, uma medida de falta de conhecimento sobre a média; por conseguinte, a variância da
+variância é, epistemologicamente, uma medida de falta de conhecimento sobre a falta de conhecimento da
+média — e a variância da variância é análoga ao quarto momento da distribuição, e sua curtose, o que torna
+essa incerteza fácil de expressar matematicamente. Isso mostra que: caudas gordas = falta de conhecimento
+sobre falta de conhecimento.
+5. Uma distribuição gaussiana é parcimoniosa (com apenas dois parâmetros a serem ajustados). Mas o
+problema de adicionar camadas de saltos possíveis, cada uma com uma probabilidade diferente, abre
+inﬁnitas possibilidades de combinações de parâmetros.
+6. Um dos comentários mais corriqueiros (porém inúteis) que ouço é que algumas soluções podem surgir de
+“estatísticas robustas”. Eu me pergunto de que modo o uso dessas técnicas pode criar informações onde não
+há nenhuma.
+7. Uma consequência da ausência de “tipicidade” de um evento sobre a causalidade é a seguinte: digamos que
+um evento possa causar uma “guerra”. Como vimos, tal guerra ainda será indeﬁnida, pois pode ser que mate
+três pessoas ou 1 bilhão. Portanto, mesmo em situações nas quais temos condições de identiﬁcar causa e
+efeito, saberemos pouco, pois o efeito permanecerá atípico. Tive graves problemas para explicar isso a
+historiadores (exceto Niall Ferguson) e cientistas políticos (exceto Jon Elster). Por favor, explique esse ponto
+(com toda polidez) ao seu professor de estudos do Oriente Próximo e Oriente Médio.
+6. O QUARTO QUADRANTE, A SOLUÇÃO PARA AQUELE QUE É O MAIS ÚTIL DOS
+PROBLEMAS
+1. Esta seção deveria ser pulada por aqueles que não estejam envolvidos com ciências sociais, negócios ou,
+pior ainda, políticas públicas. A seção 7 será menos mundana.
+2. David me deixou um segundo presente surpresa, o melhor que recebi durante meu deserto: ele escreveu,
+em um artigo póstumo, que “os esforços dos estatísticos para refutar Taleb mostraram-se inconvincentes”,
+uma única frase que mudou a maré e cancelou centenas de páginas de ataques principalmente ad hominem,
+pois alertavam o leitor de que não havia refutação, de que as críticas não tinham substância. Basta uma frase
+como essa para colocar a mensagem de volta no lugar.
+3. Este é um verdadeiro a priori ﬁlosóﬁco, pois quando você presume que os eventos pertencem ao
+Extremistão (devido à falta de estrutura para a aleatoriedade), nenhuma observação empírica adicional pode
+fazer você mudar de ideia, já que a propriedade do Extremistão é esconder a possibilidade de eventos Cisne
+Negro — o que chamei anteriormente de problema da falsa aparência.
+7. O QUE FAZER COM O QUARTO QUADRANTE
+1. A maior parte da campanha de difamação que mencionei anteriormente gira em torno da deturpação das
+propriedades ao estilo de seguro e do desempenho das estratégias de hedging (cobertura de risco) para o
+barbell e a “robustiﬁcação de portfólio” associados às ideias do Cisne Negro, uma representação enganosa
+
+que talvez se torne crível pelo fato de que, quando observamos os retornos em uma base de curto prazo, não
+vemos nada de relevante, exceto frequentes variações superﬁciais (principalmente perdas). As pessoas
+simplesmente se esquecem de acumular da forma adequada e se lembram da frequência em vez do total. Os
+retornos reais, de acordo com a imprensa, eram de cerca de 60% em 2000 e mais de 100% em 2008, com
+perdas e lucros relativamente superﬁciais afora isso, portanto seria moleza inferir que os retornos ﬁcariam na
+casa dos três dígitos ao longo da última década (você só precisa de um único bom salto). O índice Standard
+and Poor’s 500 caiu 23% no mesmo período de dez anos.
+8. OS DEZ PRINCÍPIOS PARA UMA SOCIEDADE ROBUSTA DIANTE DO CISNE NEGRO
+1. Esta passagem foi publicada em 2009 como um editorial no Financial Times. Algum editor — que sem
+dúvida não tinha lido A lógica do cisne negro — mudou meu “robusto diante do Cisne Negro” para “à prova
+de Cisnes Negros”. Não existe isso de “à prova de Cisnes Negros”, mas robusto é bom o suﬁciente.
+AGRADECIMENTOS
+1. Perdi o cartão de visita dele, mas gostaria de agradecer calorosamente a um cientista que viajou para Viena
+a bordo do voo 700 da British Airways em 11 de dezembro de 2003, por sugerir a ilustração da bola de
+bilhar no capítulo 11. Tudo o que sei sobre ele é que tinha 52 anos de idade, cabelos grisalhos, nasceu na
+Inglaterra, escrevia poesia em blocos amarelos e viajava com sete malas, pois estava indo morar com sua
+namorada vienense de 35 anos.
+2. É impossível aprofundar-se muito em uma ideia quando você administra um negócio, não importa o
+número de horas de trabalho que a ocupação exija — para usar termos simples, a menos que você seja
+insensível, as preocupações e a sensação de responsabilidade ocupam um precioso espaço cognitivo. Você
+pode ser capaz de estudar, meditar e escrever se for um empregado, mas não quando é dono de um negócio
+— a menos que tenha uma natureza irresponsável. Agradeço ao meu sócio, Mark Spitznagel, por permitir
+que eu — graças à clareza de sua mente e seu método extremamente sistemático, disciplinado e bem
+engendrado — obtivesse exposição a eventos raros de alto impacto sem ter que me envolver diretamente em
+atividades ligadas aos negócios.
+NOTAS ADICIONAIS, COMENTÁRIOS TÉCNICOS, REFERÊNCIAS E RECOMENDAÇÕES DE
+LEITURA
+1. Dissertações sobre a busca da verdade, contendo a história e os princípios da ﬁlosoﬁa dos acadêmicos, com
+várias reﬂexões sobre as opiniões do sr. Descartes, pelo sr. Foucher, cônego de Dijon. Prefácio e Livro . Trad. de
+Felipe Santos Almeida e Rodrigo Pinto de Brito. In: Sképsis: v. , n. 22, 2021, pp. 85-12622. (N. T.)
+2. Tratado ﬁlosóﬁco da fraqueza do espírito humano. Trad. Flavio Fontenelle Loque. Universidade Federal de
+Itajubá, campus Itabira. In: Sképsis, n. 15, 2017, pp. 179-217. (N. T.)
+3. Tratado sobre o vácuo. Trad. Roberto de Andrade Martins. In: Tratados físicos de Blaise Pascal. Cadernos de
+História e Filosoﬁa da Ciência [série 2], v. 1, n. 3, pp. 1-168, 1989. (N. T.)
+4. Ed. bras.: Aristóteles: Física I e II. Campinas: Editora da Unicamp, 2009. (N. T.)
+5. Ed. bras.: As Leis: Incluindo Epinomis. Trad. Edson Bini. São Paulo: Edipro, 2010. (N. T.)
+6. O termo já foi traduzido também como “tematicidade” e “sobrecidade”. (N. T.)
+
+7. Ed. bras.: Filosoﬁa da história. Trad. Maria Rodrigues e Harden. Brasília: Editora da UnB, 1999. (N. T.)
+8. “Sempre pobre serás, se pobre és, Emiliano./ Agora não se dão bens a ninguém, a não ser aos ricos”. (N.
+T.)
+

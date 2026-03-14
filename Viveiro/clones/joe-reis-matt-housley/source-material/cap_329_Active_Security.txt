@@ -1,0 +1,44 @@
+# Active Security
+
+Paginas: 396-396
+
+at face value when asked for credentials, sensitive data, or confidential information,
+including from your coworkers.
+You are also the first line of defense in respecting privacy and ethics. Are you
+uncomfortable with sensitive data you’ve been tasked to collect? Do you have ethical
+questions about the way data is being handled in a project? Raise your concerns
+with colleagues and leadership. Ensure that your work is both legally compliant and
+ethical.
+Processes
+When people follow regular security processes, security becomes part of the job.
+Make security a habit, regularly practice real security, exercise the principle of least
+privilege, and understand the shared responsibility model in the cloud.
+Security Theater Versus Security Habit
+With our corporate clients, we see a pervasive focus on compliance (with internal
+rules, laws, recommendations from standards bodies), but not enough attention to
+potentially bad scenarios. Unfortunately, this creates an illusion of security but often
+leaves gaping holes that would be evident with a few minutes of reflection.
+Security needs to be simple and effective enough to become habitual throughout an
+organization. We’re amazed at the number of companies with security policies in the
+hundreds of pages that nobody reads, the annual security policy review that people
+immediately forget, all in checking a box for a security audit. This is security theater,
+where security is done in the letter of compliance (SOC-2, ISO 27001, and related)
+without real commitment.
+Instead, pursue the spirit of genuine and habitual security; bake a security mindset
+into your culture. Security doesn’t need to be complicated. For example, at our
+company, we run security training and policy review at least once a month to ingrain
+this into our team’s DNA and update each other on security practices we can improve.
+Security must not be an afterthought for your data team. Everyone is responsible and
+has a role to play. It must be the priority for you and everyone else you work with.
+Active Security
+Returning to the idea of negative thinking, active security entails thinking about and
+researching security threats in a dynamic and changing world. Rather than simply
+deploying scheduled simulated phishing attacks, you can take an active security
+posture by researching successful phishing attacks and thinking through your organi‐
+zational security vulnerabilities. Rather than simply adopting a standard compliance
+checklist, you can think about internal vulnerabilities specific to your organization
+and incentives employees might have to leak or misuse private information.
+Processes
+|
+371
+

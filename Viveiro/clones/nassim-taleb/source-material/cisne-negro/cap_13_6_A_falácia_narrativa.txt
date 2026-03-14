@@ -1,0 +1,878 @@
+# 6. A falácia narrativa
+
+Paginas: 83-107
+
+6. A falácia narrativa
+A causa do porquê — Como rachar um cérebro ao meio — Métodos eﬁcazes de
+apontar para o teto — A dopamina vai ajudá-lo a vencer — Vou parar de andar de
+moto (mas não hoje) — Empírico e psicólogo? Desde quando?
+SOBRE AS CAUSAS DA MINHA REJEIÇÃO A CAUSAS
+No outono de 2004, participei de uma conferência sobre estética e ciência em
+Roma, talvez o melhor local possível para um encontro desse tipo, já que lá a
+estética permeia tudo, até o comportamento e o tom de voz das pessoas. No
+almoço, um renomado professor de uma universidade do sul da Itália me saudou
+com extremo entusiasmo. Naquela mesma manhã eu tinha assistido a sua
+arrebatada apresentação; ele era tão carismático, tão convicto e tão convincente
+que, apesar de não ter entendido boa parte do que ele disse, eu me vi
+concordando com tudo. Eu só conseguia entender uma frase aqui, outra ali, já
+que meu conhecimento de italiano funcionava melhor em coquetéis do que em
+ambientes intelectuais e acadêmicos. Em algum momento durante a palestra do
+professor, ele ﬁcou todo vermelho de raiva — o que me convenceu (e à plateia)
+de que ele estava absolutamente certo.
+Durante o almoço, ele veio me parabenizar por demonstrar os efeitos das
+ligações causais que são mais predominantes na mente humana do que na
+realidade. Entabulamos uma conversa animadíssima perto da mesa de bufê,
+impedindo os outros delegados de chegarem até a comida. Ele estava falando
+francês com um sotaque carregado (com as mãos), eu respondia em italiano
+primitivo (com as mãos), e estávamos tão entusiasmados que os outros
+convidados ﬁcaram com medo de interromper uma conversa de tamanha
+importância e empolgação. Ele foi enfático a respeito do meu livro anterior sobre
+aleatoriedade, uma espécie de reação do trader furioso contra a cegueira diante
+da sorte na vida e nos mercados, que havia sido publicado na Itália sob o musical
+
+título Giocati dal caso. Eu tivera a sorte de contar com um tradutor que sabia
+quase mais do que eu sobre o tema, e o livro encontrou um pequeno número de
+seguidores entre os intelectuais italianos. “Sou um grande fã das suas ideias, mas
+me sinto afrontado. Elas são as minhas ideias também, de verdade, e você
+escreveu o livro que eu (quase) planejava escrever”, disse ele. “Você é um homem
+de sorte; você apresentou de forma tão abrangente o efeito do acaso na sociedade
+e a superestimação de causa e efeito. Você mostra como somos estúpidos por
+tentarmos explicar de modo sistemático as habilidades.”
+Ele fez uma pausa e acrescentou, em um tom mais calmo: “Mas, mon cher ami,
+permita-me dizer quelque chose [pronunciando as palavras muito lentamente,
+com o polegar batendo nos dedos indicador e médio]: se você tivesse sido criado
+em uma sociedade protestante, onde o esforço está vinculado a recompensas e
+onde se enfatiza a responsabilidade individual, nunca teria visto o mundo dessa
+maneira. Você foi capaz de ver a sorte e separar causa e efeito por causa da sua
+herança mediterrânea oriental ortodoxa”. Ele estava usando o francês à cause. E
+foi tão convincente que, por um minuto, concordei com sua interpretação.
+Gostamos de histórias, gostamos de resumir e gostamos de simpliﬁcar, ou seja,
+de reduzir a dimensão das questões. O primeiro problema da natureza humana
+que examinamos nesta seção, o que acabamos de ilustrar, é o que chamo de
+falácia narrativa. (Na verdade, trata-se de uma fraude, mas, para ser mais
+educado, chamarei de falácia.) A falácia está associada à nossa vulnerabilidade à
+interpretação exagerada e nossa predileção por histórias compactas em lugar das
+verdades nuas e cruas. Isso distorce severamente nossa representação mental do
+mundo; é especialmente aguda quando se trata do evento raro.
+Repare em como meu solícito simpatizante italiano compartilhava da minha
+militância contra a interpretação exagerada e a superestimação da causa, e ainda
+assim foi incapaz de ver a mim e ao meu trabalho sem uma razão, uma causa,
+atrelada a ambos, como qualquer coisa que não fosse parte de uma história. Ele
+teve que inventar uma causa. Ademais, ele não tinha noção de que havia caído na
+armadilha da causação, e nem eu mesmo tive consciência imediata disso.
+A falácia narrativa diz respeito à nossa capacidade limitada de olhar para as
+sequências de fatos sem tecer uma explicação para elas, ou, de forma equivalente,
+sem lhes impor um elo lógico, uma ﬂecha de relacionamento. Explicações
+entrelaçam os fatos. Elas tornam os fatos mais fáceis de ser lembrados; ajudam os
+
+fatos a fazer mais sentido. Essa propensão pode dar errado quando aumenta nossa
+impressão de compreensão.
+Assim como o anterior, este capítulo tratará de um único problema, mas em
+diferentes disciplinas. O problema da narratividade, embora estudado em larga
+escala em uma de suas versões por psicólogos, não é tão “psicológico”: há alguma
+coisa na forma como as disciplinas são concebidas que mascara o fato de que
+costuma ser mais um problema de informação. Enquanto a narratividade vem de
+uma necessidade biológica entranhada de reduzir a dimensionalidade, robôs
+estariam propensos ao mesmo processo de redução. A informação quer ser
+reduzida.
+Para ajudar o leitor a se localizar: ao estudar o problema da indução no
+capítulo anterior, examinamos o que poderia ser inferido sobre o que não é visto,
+o que está fora do nosso conjunto de informações. Aqui, olhamos para o que é
+visto, o que está dentro do conjunto de informações, e examinamos as distorções
+no ato de seu processamento. Há muito a se dizer sobre esse tema, mas o
+enfoque que adoto diz respeito à simpliﬁcação do mundo ao nosso redor
+provocada pela narratividade, assim como seus efeitos sobre nossa percepção do
+Cisne Negro e da incerteza desenfreada.
+RACHANDO CÉREBROS AO MEIO
+Trazer antilógicas à tona é uma atividade das mais empolgantes. Durante
+alguns meses, você sente na pele a emocionante sensação de que acabou de
+entrar em um novo mundo. Depois disso, a novidade perde a graça e seu
+pensamento retorna ao costumeiro. O mundo volta a ﬁcar enfadonho até que
+você encontre outro assunto com que se entusiasmar (ou até que consiga deixar
+algum outro ﬁgurão em estado de fúria total).
+Para mim, uma dessas antilógicas veio com a descoberta — graças à literatura
+sobre cognição — de que, ao contrário do que todos acreditam, não teorizar é um
+ato, e teorizar pode corresponder à ausência de atividade intencional, a opção
+“padrão”. É preciso empreender um esforço considerável para ver os fatos (e
+lembrar-se deles) e ao mesmo tempo abster-se de juízos e resistir a explicações.
+Mas essa doença da teorização raramente está sob nosso controle: é em grande
+medida anatômica, parte de nossa biologia, de sorte que lutar contra ela requer
+uma luta contra nosso próprio ser. Portanto, os preceitos dos céticos antigos de
+
+refrear os juízos vão contra nossa natureza. Falar é fácil, um problema com a
+ﬁlosoﬁa de aconselhamento que veremos no capítulo 13.
+Tente ser um verdadeiro cético acerca de suas interpretações e, em um piscar
+de olhos, você ﬁcará esgotado. Você também será humilhado por resistir à
+teorização. (Existem truques para alcançar o ceticismo verdadeiro, mas é preciso
+entrar pela porta dos fundos em vez de desferir um ataque frontal contra si
+próprio.) Mesmo de uma perspectiva anatômica, para o nosso cérebro é
+impossível ver qualquer coisa em estado bruto, sem alguma interpretação. Pode
+ser que nem sempre tenhamos consciência disso.
+Racionalização post hoc. Em um certo experimento, psicólogos pediram a
+mulheres que selecionassem, entre doze pares de meias de náilon, aquelas que
+fossem de sua preferência. Em seguida, os pesquisadores perguntaram às
+mulheres as razões de sua escolha. Textura, “sensação” e cor ﬁguraram entre os
+motivos. Todos os pares de meias eram, na verdade, idênticos. As mulheres
+ofereceram explicações post hoc, ajustadas retroativamente. Isso sugere que
+somos melhores para explicar do que para entender? Vejamos.
+Uma série de experimentos famosos em pacientes diagnosticados com a
+síndrome do cérebro dividido nos dá evidência física convincente — isto é,
+biológica — do aspecto automático do ato de interpretação. Parece haver em nós
+um órgão que atribui sentido às coisas — embora não seja fácil concentrar-se nele
+e examiná-lo com precisão. Vejamos como ele é detectado.
+Pacientes com essa condição, também chamada de desconexão inter-
+hemisférica ou desconexão do corpo caloso, não têm conexão entre os lados
+esquerdo e direito do cérebro, o que impede que as informações sejam
+compartilhadas entre os dois hemisférios cerebrais. Esses pacientes são joias
+raras e inestimáveis para os pesquisadores. Temos diante de nós duas pessoas
+literalmente diferentes e podemos nos comunicar com cada uma delas em
+separado; as diferenças entre as duas pessoas oferecem algum indício sobre a
+especialização de cada hemisfério. Em geral essa divisão é o resultado de alguma
+cirurgia para remediar condições mais graves, como epilepsia severa; não, os
+cientistas dos países ocidentais (e na maioria dos orientais) não têm mais
+permissão para cortar cérebros humanos ao meio, nem mesmo pela busca do
+conhecimento e da sabedoria.
+Agora, digamos que você tenha induzido essa pessoa a realizar alguma ação —
+erguer o dedo, gargalhar ou segurar uma pá — a ﬁm de veriﬁcar de que modo ela
+atribui uma razão para seu ato (quando na verdade você sabe que não há outra
+razão além de você tê-la induzido àquela ação). Se você pedir ao hemisfério
+
+direito, que aqui está isolado do lado esquerdo, para executar a ação, e depois
+pedir ao outro hemisfério que forneça uma explicação, o paciente,
+invariavelmente, oferecerá alguma interpretação: “Eu estava apontando para o
+teto porque…” ou “Eu vi algo interessante na parede”, ou, se você perguntasse a
+este autor, eu recitaria meu habitual “Porque eu venho do vilarejo grego ortodoxo
+de Amioun, no norte do Líbano” etc.
+Ora, se você ﬁzer o oposto, ou seja, instruir o hemisfério esquerdo isolado de
+uma pessoa destra a realizar uma ação e pedir ao hemisfério direito que lhe dê as
+razões, ouvirá em alto e bom som: “Eu não sei”. Observe que o hemisfério
+esquerdo é onde geralmente se situam a linguagem e a dedução. Faço um alerta
+ao leitor faminto por “ciência” para que evite tentativas de construir um mapa
+neural: só estou tentando mostrar a base biológica dessa tendência à causalidade,
+não sua localização precisa. Existem razões para suspeitarmos dessas distinções
+“cérebro direito/cérebro esquerdo” e das subsequentes generalizações que a
+ciência popular faz sobre personalidade. Com efeito, a ideia de que o cérebro
+esquerdo controla a linguagem pode não ser tão exata: o cérebro esquerdo parece
+ser mais precisamente o local onde se situa a interpretação do padrão, e pode
+controlar a linguagem apenas na medida em que a linguagem tem um atributo de
+interpretação de padrões. Outra diferença entre os hemisférios é que o cérebro
+direito lida com novidades. Tende a ver o Gestalt (o geral, ou a ﬂoresta), em um
+modo paralelo, ao passo que o cérebro esquerdo está preocupado com as árvores,
+em um modo serial.
+Para ver uma ilustração de nossa dependência biológica de histórias, pense no
+seguinte experimento. Primeiro, leia isto:
+_)w )Y> _
+p*ww)sf `)
+`) _2f :f r>
+:fw f)`:f
+Você percebeu alguma coisa incomum? Tente novamente.1
+O neurocientista Alan Snyder, que mora em Sydney (e tem sotaque da
+Filadélﬁa) fez a seguinte descoberta. Se inibirmos o hemisfério esquerdo de uma
+pessoa destra (em termos mais técnicos, direcionando pulsos magnéticos de baixa
+frequência nos lobos frontotemporais esquerdos), a taxa de erros dessa pessoa ao
+ler a legenda acima diminui muito. Nossa propensão a impor signiﬁcados e
+conceitos bloqueia nossa consciência dos detalhes que compõem o conceito. No
+
+entanto, se aplicarmos as descargas magnéticas aos hemisférios esquerdos das
+pessoas, elas se tornam mais realistas — são capazes de desenhar melhor e com
+mais verossimilhança. A mente dessas pessoas enxerga melhor os objetos em si,
+livres de teorias, narrativas e preconceitos.
+Por que é difícil evitar a interpretação? É fundamental entender que, como
+vimos na historieta do acadêmico italiano, as funções cerebrais muitas vezes
+operam fora do escopo da nossa consciência. Interpretamos mais ou menos da
+mesma forma como executamos outras atividades consideradas automáticas e
+fora do nosso controle, a exemplo de respirar.
+O que faz com que não teorizar custe muito mais energia do que teorizar?
+Primeiro, há a impenetrabilidade da atividade. Eu disse que boa parte dela
+acontece fora do escopo da nossa consciência: se você não sabe que está fazendo
+a inferência, como pode impedir a si mesmo de fazê-la a menos que permaneça
+em um estado de alerta constante? E se você precisa estar continuamente alerta,
+isso não é exaustivo? Tente fazer isso durante uma tarde e sinta na pele.
+Um pouco mais de dopamina
+Além da história do intérprete do lado esquerdo do cérebro, temos mais
+evidências ﬁsiológicas de nossa arraigada busca por padrões, graças ao
+conhecimento cada vez maior sobre o papel dos neurotransmissores, que são as
+substâncias químicas supostamente incumbidas de transportar sinais entre
+diferentes partes do cérebro. Parece que a percepção de padrões aumenta com a
+concentração da substância dopamina no cérebro. A dopamina também regula o
+humor e fornece um sistema interno de recompensa no cérebro (não é surpresa
+que seja encontrada em concentrações ligeiramente mais altas no lado esquerdo
+do cérebro de pessoas destras do que no lado direito). Uma concentração mais
+alta de dopamina aparentemente diminui o ceticismo e resulta em maior
+vulnerabilidade à detecção de padrões; uma injeção de L-dopa (ou levodopa),
+substância usada para tratar pacientes com mal de Parkinson, parece aumentar
+essa atividade e diminuir a desconﬁança da pessoa, que se torna vulnerável a
+todos os tipos de modismos, como astrologia, superstições, economia e tarô.
+Na verdade, enquanto escrevo estas linhas, corre um processo judicial movido
+por um paciente que exige de seu médico uma indenização de mais de 200 mil
+dólares — quantia que o paciente supostamente perdeu na jogatina. Ele aﬁrma
+que o tratamento para o mal de Parkinson o levou a uma farra desembestada de
+apostas em cassinos. Descobriu-se que um dos efeitos colaterais da levodopa é
+transformar uma minoria pequena, mas signiﬁcativa, de pacientes em jogadores
+
+compulsivos. Uma vez que esse vício desenfreado em jogos de azar é associado
+ao fato de que as pessoas veem o que julgam ser padrões nítidos em números
+aleatórios, isso ilustra a relação entre conhecimento e aleatoriedade. Mostra
+também que alguns aspectos do que chamamos de “conhecimento” (e o que eu
+chamo de narrativa) são uma doença.
+Mais uma vez, advirto o leitor de que não estou focando a dopamina como a
+razão para nossa interpretação exagerada; em vez disso, meu argumento é que há
+um correlato físico e neural nessa operação, e que a mente é, em grande medida,
+vítima da nossa corporiﬁcação física. A mente é como um prisioneiro, refém da
+biologia, a menos que consigamos empreender uma fuga astuta. É a falta de
+controle sobre essas inferências que estou enfatizando. Amanhã, pode ser que
+alguém descubra outra base química ou orgânica para a nossa percepção de
+padrões, ou, mostrando o papel de uma estrutura mais complexa, refute o que eu
+disse sobre o intérprete do cérebro esquerdo; mas isso não negaria a ideia de que
+a percepção de causação tem um fundamento biológico.
+Regra de Andrei Nikoláievitch
+Há outra razão, ainda mais profunda, para a nossa inclinação à narrativa, e não
+é de natureza psicológica. Tem a ver com o efeito da ordem no armazenamento e
+na recuperação de informações em qualquer sistema, e vale a pena uma
+explicação aqui, por causa daquilo que considero serem os problemas centrais de
+probabilidade e teoria da informação.
+O primeiro problema é que a obtenção de informações custa caro.
+O segundo problema é que também custa caro armazenar informações — como
+imóveis em Nova York. Quanto menos aleatória e mais ordenada, padronizada e
+narratizada uma série de palavras ou símbolos, mais fácil é armazenar essa série
+na mente ou anotá-la em um caderno para que seus netos possam ler algum dia.
+Por ﬁm, custa caro manipular e recuperar informações.
+Com tantos neurônios — 100 bilhões (por baixo) —, o sótão é um tanto
+espaçoso, então as diﬁculdades provavelmente não surgem de limitações na
+capacidade de armazenamento, mas podem ser apenas problemas de indexação.
+Sua memória consciente, ou a memória operacional, aquela que você está usando
+para ler estas linhas e atribuir-lhes sentido, é bem menor que o sótão. Leve em
+consideração que sua memória operacional tem diﬁculdade de reter um simples
+número de telefone com mais de sete dígitos. Mude ligeiramente as metáforas e
+imagine que sua consciência é uma escrivaninha na Biblioteca do Congresso: não
+importa quantos livros a biblioteca tenha no acervo e disponibilize para consulta,
+
+o tamanho da sua escrivaninha deﬁne algumas limitações de processamento. A
+compressão é essencial para o desempenho do trabalho consciente.
+Imagine um conjunto de palavras coladas para constituir um livro de
+quinhentas páginas. Se as palavras forem aleatórias, retiradas do dicionário de
+forma completamente imprevisível, você não será capaz de resumir, transferir ou
+reduzir as dimensões desse livro sem deixar algo importante de fora. Você precisa
+de 100 mil palavras para levar, em sua próxima viagem à Sibéria, a mensagem
+exata de 100 mil palavras aleatórias. Agora imagine o contrário: um livro inteiro
+preenchido com a seguinte frase: “O presidente da [insira aqui o nome da sua
+empresa] é um sujeito de sorte que estava no lugar certo na hora certa e
+reivindica o crédito pelo sucesso da empresa, sem fazer nenhuma concessão à
+sorte”, repetida dez vezes por página ao longo de quinhentas páginas. O livro
+inteiro pode ser comprimido com a máxima precisão, como acabei de fazer, em
+31 palavras (de um total de 155 mil); você poderia reproduzi-lo com total
+ﬁdelidade a partir desse núcleo. Ao encontrar o padrão, a lógica da série, você
+não precisa mais memorizar tudo. Basta armazenar o padrão. E, como podemos
+ver aqui, um padrão é obviamente mais compacto do que a informação em estado
+bruto. Você examinou o livro e encontrou uma regra. Seguindo essa linha de
+pensamento, o grande probabilista Andrei Nikoláievitch Kolmogorov deﬁniu o
+grau de aleatoriedade, que é chamado de “complexidade de Kolmogorov”.
+Nós, membros da variedade humana dos primatas, temos fome de regras
+porque precisamos reduzir a dimensão das questões de modo que possam entrar
+em nossa cabeça. Ou melhor, infelizmente, para que consigamos espremê-las até
+enﬁá-las em nossa cabeça. Quanto mais aleatória a informação, maior a
+dimensionalidade e, portanto, mais difícil resumi-la. Quanto mais você resume,
+quanto mais ordem você insere, menor a aleatoriedade. Por essa razão, a mesma
+condição que nos faz simpliﬁcar nos obriga a pensar que o mundo é menos aleatório
+do que realmente é.
+E o Cisne Negro é o que deixamos de fora na simpliﬁcação.
+Tanto os empreendimentos artísticos quanto os cientíﬁcos são o produto da
+nossa necessidade de reduzir dimensões e impor alguma ordem às coisas. Pense
+no mundo ao seu redor, carregado de trilhões de detalhes. Ao tentar descrevê-lo,
+você se verá tentado a tecer um ﬁo naquilo que está dizendo. Um romance, um
+relato, um mito ou um conto têm a mesma função: eles nos poupam da
+complexidade e nos protegem da aleatoriedade do mundo. Os mitos conferem
+ordem à desordem da percepção e ao “caos da experiência humana”.2
+
+Na verdade, muitos distúrbios psicológicos graves vêm acompanhados pela
+sensação da perda de controle de — ser capaz de “atribuir sentido a” — seu
+ambiente.
+A platonicidade nos afeta aqui mais uma vez. O mesmo desejo de ordem,
+curiosamente, aplica-se a atividades cientíﬁcas — só que, ao contrário da arte, o
+propósito (declarado) da ciência é chegar à verdade, não nos dar uma sensação de
+organização ou fazer com que nos sintamos bem. Temos a tendência de usar o
+conhecimento como terapia.
+Uma maneira melhor de morrer
+Para ver a potência da narrativa, parta da seguinte aﬁrmação: “O rei morreu e a
+rainha morreu”. Compare-a com “O rei morreu, e em seguida a rainha morreu de
+tristeza”. Esse exercício, apresentado pelo romancista E. M. Forster, mostra a
+distinção entre a mera sucessão de informações e um enredo. Mas repare que é
+aqui que está o busílis: embora tenhamos adicionado informações à segunda
+aﬁrmação, efetivamente reduzimos a dimensão do total. A segunda frase é, de
+certa forma, muito mais leve de carregar e mais fácil de lembrar; agora temos uma
+única informação em vez de duas. Como conseguimos nos lembrar dela com
+menos esforço, também podemos vendê-la a outras pessoas, ou seja,
+comercializá-la melhor como uma ideia empacotada. Essa é, em poucas palavras,
+a deﬁnição e a função de uma narrativa.
+Para ver como a narrativa pode levar a um erro na avaliação das
+probabilidades, faça o seguinte experimento. Forneça a alguém uma história de
+detetive bem escrita — digamos, um romance de Agatha Christie com um
+punhado de personagens que, de forma plausível, podem todos ser considerados
+culpados. Agora pergunte a esse interlocutor qual é a probabilidade de cada
+personagem ser o assassino. A menos que a pessoa anote as porcentagens para
+manter uma contagem exata, elas devem somar bem mais de 100% (até bem mais
+de 200% quando se trata de um bom romance). Quanto melhor for o escritor da
+história de detetive, maior será o número.
+EM BUSCA DO TEMPO NEM TÃO PERDIDO
+Nossa tendência de perceber — de impor — narratividade e causalidade são
+sintomas da mesma doença: redução de dimensão. Além do mais, tal qual a
+causalidade, a narratividade tem uma dimensão cronológica e conduz à percepção
+
+do ﬂuxo do tempo. A causalidade faz o tempo ﬂuir em uma única direção, e a
+narratividade faz isso também.
+Mas a memória e a seta do tempo podem se confundir. A narratividade pode
+afetar perversamente a recordação de eventos passados da seguinte maneira:
+tendemos a nos lembrar com mais facilidade dos fatos do nosso passado que se
+encaixam em uma narrativa, ao passo que tendemos a negligenciar outros, os que
+aparentemente não desempenham um papel causal nessa narrativa. Leve em
+consideração que, quando nos lembramos de eventos, sabemos o que aconteceu
+depois. É impossível ignorar informações posteriores na hora de resolver um
+problema. Essa simples incapacidade de nos lembrarmos não da verdadeira
+sequência de eventos, mas de uma sequência reconstruída, faz a história parecer,
+em retrospecto, muito mais explicável do que realmente era — ou é.
+A sabedoria convencional aﬁrma que a memória é como um dispositivo de
+gravação em série, como um disquete de computador. Na realidade, a memória é
+dinâmica — não estática —, feito um papel em que novos textos (ou novas versões
+do mesmo texto) são gravados continuamente, graças ao poder da informação
+posterior. (Em um lampejo extraordinário, Charles Baudelaire, poeta parisiense
+do século , comparou nossa memória a um palimpsesto, um tipo de
+pergaminho no qual textos antigos podem ser apagados para dar lugar a textos
+novos escritos por cima deles.) A memória está mais para uma máquina de
+revisão dinâmica que, interesseira, serve a si mesma: você se lembra da última vez
+que se lembrou do acontecimento e, sem perceber, muda a história a cada
+recordação subsequente.
+Então, puxamos pela memória ao longo de linhas causais, revisando as
+lembranças de forma involuntária e inconsciente. Estamos sempre renarrando
+eventos passados à luz daquilo que nos parece fazer sentido lógico após a
+ocorrência desses eventos.
+Por meio de um processo chamado reverberação, uma lembrança corresponde
+ao fortalecimento de conexões a partir de um aumento da atividade cerebral em
+um determinado setor do cérebro — quanto mais atividade, mais forte é a
+recordação. Embora acreditemos que a memória seja ﬁxa, constante e conectada,
+tudo isso está muito longe da verdade. O que faz sentido de acordo com as
+informações obtidas posteriormente será lembrado de maneira mais nítida.
+Inventamos algumas de nossas memórias — questão sensível nos tribunais, uma
+vez que já se demonstrou que muitas pessoas inventaram histórias de abuso
+infantil por terem ouvido teorias a respeito.
+
+A narrativa do homem louco
+Há maneiras demais de interpretar eventos passados, o que não é nem um
+pouco benéﬁco.
+Pense no comportamento de pessoas paranoicas. Tive o privilégio de trabalhar
+com colegas com distúrbios paranoides ocultos que vez por outra aﬂoravam.
+Quando a pessoa é muito inteligente, ela pode surpreender você com as
+interpretações mais improváveis, e ainda assim completamente plausíveis, do
+comentário mais inócuo. Se eu disser: “Eu receio que…”, em referência a um
+estado indesejável do mundo, pode ser que ela faça uma interpretação literal, de
+que estou sentindo um medo real, e esse gatilho desencadeia um episódio de
+pavor por parte da pessoa paranoica. Alguém que sofre desse distúrbio pode
+compilar os detalhes mais insigniﬁcantes e elaborar uma teoria intrincada e
+racional para explicar que há uma conspiração contra ela. E se você juntar,
+digamos, dez pessoas paranoicas, todas no mesmo estado de delírio episódico, as
+dez fornecerão dez interpretações distintas, mas coerentes, dos eventos.
+Quando eu tinha uns sete anos, minha professora do Ensino Fundamental
+mostrou para a classe uma pintura em que se via um grupo de franceses pobres
+da Idade Média reunidos em um banquete oferecido por um benfeitor, algum rei
+benevolente, se bem me lembro. Estavam segurando as tigelas de sopa erguidas
+junto aos lábios. A professora me perguntou por que estavam com o nariz enﬁado
+nas tigelas, e respondi: “Porque ninguém ensinou boas maneiras a eles”. Ela
+respondeu: “Errado. É porque eles estão com muita fome”. Eu me senti burro por
+não ter pensado nisso, mas não conseguia entender o que tornava uma explicação
+mais provável do que a outra, ou por que ambas as respostas não estavam erradas
+(naquela época não havia talheres de prata, ou pelo menos não o suﬁciente, o que
+parece ser a explicação mais provável de todas).
+Além de nossas distorções perceptivas, há um problema com a lógica em si.
+Como é concebível que alguém não tenha noção alguma de nada e ainda assim
+seja capaz de aferrar-se a um conjunto de pontos de vista perfeitamente sensatos
+e coerentes que correspondem às observações e obedecem a todas as regras
+possíveis da lógica? Tenha em mente que duas pessoas podem ter crenças e
+convicções incompatíveis entre si com base nos mesmos dados. Isso signiﬁca que
+existem famílias de explicações possíveis e que cada uma delas pode ser
+igualmente perfeita e coerente? Certamente não. Um indivíduo pode ter 1 milhão
+de maneiras de explicar as coisas, mas a verdadeira explicação é única, esteja ou
+não ao nosso alcance.
+
+Em um argumento famoso, o lógico W. V. Quine demonstrou que existem
+famílias de teorias e interpretações consistentes em termos lógicos que podem
+corresponder a uma determinada série de fatos. Essa percepção deve nos alertar
+para o fato de que a mera ausência de absurdo pode não ser suﬁciente para tornar
+algo verdadeiro.
+O problema de Quine está relacionado ao fato de ele ter encontrado
+diﬁculdade para traduzir declarações entre línguas diferentes, simplesmente
+porque qualquer indivíduo poderia interpretar qualquer frase de uma inﬁnidade
+de maneiras. (Observe aqui que alguém empenhado na discussão de minúcias
+pode encontrar um aspecto de autocancelamento na própria escrita de Quine. Eu
+me pergunto como ele espera que entendamos esse mesmo aspecto em uma não
+inﬁnidade de maneiras.)
+Isso não signiﬁca que não possamos falar sobre causas; existem maneiras de
+escapar da falácia narrativa. Como? Fazendo conjecturas e realizando
+experimentos, ou, como veremos na parte  (infelizmente), fazendo previsões
+avaliáveis por meio de testes.3 Os experimentos psicológicos que estou
+discutindo aqui fazem isto: selecionam uma população e executam um teste. Os
+resultados devem ser os mesmos no Tennessee, na China e até mesmo na França.
+Narrativa e terapia
+Se a narratividade nos faz ver os eventos passados como acontecimentos mais
+previsíveis, mais esperados e menos aleatórios do que realmente foram, então
+deveríamos ser capazes de fazer isso funcionar a nosso favor como uma terapia
+contra algumas das ferroadas de aleatoriedade.
+Digamos que algum evento desagradável, por exemplo um acidente de carro
+pelo qual você se sente indiretamente responsável, deixa você com uma sombra
+persistente de culpa. Você é torturado pelo desagradável pensamento de que
+causou ferimentos a seus passageiros; pela contínua consciência de que poderia
+ter evitado o acidente. Sua mente continua imaginando cenários hipotéticos
+alternativos que se ramiﬁcam desde uma árvore principal: se naquele dia você não
+tivesse acordado três minutos depois do habitual, teria evitado o acidente de
+carro. Não era sua intenção ferir os passageiros, mas ainda assim sua mente é
+assolada por remorso. Pessoas em proﬁssões com alto nível de aleatoriedade
+(como é o caso de quem atua nos mercados) podem sofrer mais com o efeito
+tóxico das ferroadas retrospectivas: eu deveria ter vendido meu portfólio na alta;
+poderia ter comprado aquela ação anos atrás por centavos e agora estaria
+dirigindo um conversível cor-de-rosa etc. Se você é um proﬁssional, pode sentir
+
+que “cometeu um erro” ou, pior ainda, que “erros foram cometidos” quando você
+falhou na compra do bilhete de loteria premiado para seus investidores, e sente a
+necessidade de pedir desculpas por sua “descuidada” estratégia de investimento
+(isto é, o que parece descuidado em retrospecto).
+Como é possível livrar-se dessa sensação latejante que insiste em não ir
+embora? Não tente evitar pensar nela: é quase certo que o tiro sairá pela culatra.
+Uma solução mais apropriada é fazer com que o evento pareça mais inevitável.
+Ei, estava fadado a acontecer, e parece inútil se martirizar pelo leite derramado.
+Como você pode fazer isso? Bem, com uma narrativa. Pacientes que passam
+quinze minutos todos os dias escrevendo um relato de suas agruras cotidianas se
+sentem realmente melhor em relação ao mal que os aﬂige. A pessoa se sente
+menos culpada por não ter evitado certos eventos; ela se sente menos
+responsável. As coisas parecem fadadas a acontecer.
+Se você trabalha em uma proﬁssão carregada de aleatoriedade, como vemos, é
+provável que sofra os efeitos de frustração e esgotamento causados por essa
+constante reconsideração crítica de suas ações passadas, baseando-se no fato de
+já saber o que ocorreu posteriormente. Manter um diário é o mínimo que você
+pode fazer nessas circunstâncias.
+ESTAR ERRADO COM PRECISÃO INFINITA
+Nutrimos um paralisante desdém pelo abstrato.
+Um dia, em dezembro de 2003, quando Saddam Hussein foi capturado, o
+canal Bloomberg News exibiu a seguinte manchete às 13h01: )Y~) :fw ~O~Yfw
+:f ~>wfsf :fw >w~):fw `:fw; ) 5)p~s) :> Lww>` pf:> `2f
+s>Gs>)s f ~>ssfsw_f.
+Toda vez que há alguma movimentação do mercado, a mídia de notícias se
+sente obrigada a apresentar o “motivo”. Meia hora depois, tiveram que publicar
+uma nova manchete. Como os preços dos títulos do Tesouro dos Estados Unidos
+caíram (os valores ﬂutuam o dia todo, então não havia nada de especial nisso), o
+Bloomberg News arranjou uma nova razão para a queda: a captura de Saddam (o
+mesmo Saddam). Às 13h31, divulgaram o novo boletim: ~O~Yfw :f ~>wfsf
+:fw >w~):fw `:fw >_ r>:); 5)p~s) :> Lww>` _pYwf`) )
+)~s)~:):> :> )~fw :> sw5f.
+Portanto, era a mesma captura (a causa) explicando um evento e seu exato
+oposto. Claramente, isso não é possível; esses dois fatos não podem estar
+interligados.
+
+Acaso os jornalistas se dirigem todas as manhãs à enfermaria a ﬁm de receber
+uma injeção diária de dopamina para que consigam narrar melhor? (Observe a
+ironia de que a palavra doping, usada para designar as substâncias ilegais que os
+atletas tomam para melhorar seu desempenho, tem a mesma raiz que dopamina.)
+Acontece o tempo todo: propõe-se uma causa para fazer você engolir as
+notícias e para tornar as coisas mais concretas. Após a derrota de um candidato
+em uma eleição, você será abastecido com a “causa” do descontentamento dos
+eleitores. Qualquer causa concebível pode servir. A mídia, no entanto, não poupa
+esforços e faz de tudo para que o processo seja “meticuloso”, mobilizando seus
+exércitos de veriﬁcadores de fatos. É como se quisessem estar errados com
+precisão inﬁnita (em vez de aceitarem a possibilidade de estarem
+aproximadamente certos, como um escritor de fábulas).
+Repare que, na ausência de qualquer outra informação sobre uma pessoa, você
+tende a recorrer à nacionalidade e a informações sobre o passado dela como um
+atributo saliente (como o acadêmico italiano fez comigo). Como é que eu sei que
+essa atribuição ao histórico biográﬁco é uma fraude? Fiz meu próprio teste
+empírico veriﬁcando quantos traders de origem igual à minha e que tinham
+sentido na pele a experiência da mesma guerra tornaram-se empiristas céticos, e
+não encontrei um único caso em 26. Esse negócio de nacionalidade ajuda você a
+criar uma ótima história e saciar sua fome de atribuição de causas. Parece ser o
+lixão onde vão parar todas as explicações até que alguém consiga descobrir uma
+outra, mais óbvia (por exemplo, algum argumento evolutivo que “faça sentido”).
+Na verdade, as pessoas tendem a se enganar com uma autonarrativa de
+“identidade nacional”, que, conforme demonstrou um inovador artigo de 65
+autores publicado na revista Science, é pura ﬁcção (“traços nacionais” podem ser
+ótimos para ﬁlmes, talvez ajudem bastante na guerra, mas são noções platônicas
+que não contêm validade empírica — ainda que, por exemplo, tanto os ingleses
+quanto os não ingleses acreditem erroneamente em um “temperamento nacional”
+inglês). Do ponto de vista empírico, sexo, classe social e proﬁssão parecem ser
+melhores previsores do comportamento do que a nacionalidade (um homem da
+Suécia se parece mais com um homem de Togo do que com uma mulher da
+Suécia; um ﬁlósofo do Peru se parece mais com um ﬁlósofo da Escócia do que
+com um zelador do Peru; e assim por diante).
+O problema da causação em excesso não está no jornalista, mas no público.
+Ninguém pagaria um dólar para comprar uma série de estatísticas abstratas que
+remetessem a uma chatíssima aula de faculdade. Queremos ouvir histórias, e não
+há nada de errado nisso — exceto que deveríamos veriﬁcar de forma mais
+
+meticulosa se a história não provoca distorções relevantes da realidade. Será
+possível que a ﬁcção revele a verdade, ao passo que a não ﬁcção seja um refúgio
+para o mentiroso? Será que as fábulas e histórias estão mais próximas da verdade
+do que os fatos da realidade minuciosamente veriﬁcados pela rede )45 News?
+Apenas leve em conta que os jornais tentam obter fatos impecáveis, mas os
+entrelaçam em uma narrativa de modo a transmitir a impressão de causalidade (e
+de conhecimento). Existem veriﬁcadores de fatos, não veriﬁcadores do intelecto.
+Infelizmente.
+Porém, não há razão para pegar os jornalistas como bodes expiatórios.
+Acadêmicos em disciplinas narrativas fazem a mesma coisa, mas enfeitam isso
+com uma linguagem formal — vamos nos inteirar das ações deles no capítulo 10,
+sobre previsão.
+Além da narrativa e da causalidade, jornalistas e intelectuais públicos do tipo
+que usa frases de efeito não tornam o mundo um lugar mais simples. Em vez
+disso, quase que invariavelmente fazem com que ele pareça muito mais
+complicado do que é. Da próxima vez que lhe pedirem para discorrer sobre
+eventos mundiais, alegue ignorância e apresente os argumentos que propus neste
+capítulo, lançando dúvidas sobre a visibilidade da causa imediata. Dirão que
+“você analisa demais” ou que “você é complicado demais”. Você só vai estar
+dizendo que não sabe!
+Ciência impassível
+Agora, se você pensa que a ciência é uma disciplina abstrata isenta de
+sensacionalismo e distorções, tenho algumas notícias que vão dar o que pensar.
+Pesquisadores empíricos encontraram evidências de que os cientistas também são
+vulneráveis a narrativas, enfatizando títulos e frases de efeito “sexy”, do tipo
+chamativo, em vez de questões mais substanciais. Eles também são humanos, e
+lançam mão de assuntos chocantes para chamar atenção. A maneira de remediar
+isso é por meio de metanálises de estudos cientíﬁcos, em que um
+superpesquisador examina cuidadosamente toda a literatura, incluindo os artigos
+menos alardeados, e produz uma síntese.
+O SENSACIONAL E O CISNE NEGRO
+Vejamos como a narratividade afeta nossa compreensão do Cisne Negro. A
+narrativa, bem como seu mecanismo associado de destaque do fato sensacional,
+pode bagunçar nossa projeção das probabilidades. Veja o seguinte experimento
+
+realizado por Kahneman e Tversky, a dupla apresentada no capítulo anterior: os
+sujeitos da pesquisa eram proﬁssionais de meteorologia a quem se pediu que
+imaginassem dois cenários hipotéticos e estimassem suas probabilidades.
+a. Uma gigantesca inundação em algum lugar dos Estados Unidos, que
+resultaria na morte de mais de mil pessoas.
+b. Um terremoto na Califórnia, que causaria inundações de grandes
+proporções, com a morte de mais de mil pessoas.
+Os entrevistados estimaram que o primeiro evento era menos provável do que
+o segundo. Um terremoto na Califórnia, no entanto, é uma causa imediatamente
+fácil de imaginar, o que aumenta muito a disponibilidade mental — daí a
+probabilidade calculada — do cenário hipotético de inundação.
+Da mesma forma, se eu perguntasse a você quantos casos de câncer de pulmão
+tendem a ocorrer no país, você forneceria algum número, digamos meio milhão.
+Agora, se em vez disso eu lhe perguntasse quantos casos de câncer de pulmão
+podem ocorrer por causa do tabagismo, é provável que você me apresentasse um
+número muito maior (creio que mais de duas vezes maior). Adicionar o por causa
+torna essas questões muito mais plausíveis, e muito mais prováveis. O câncer
+decorrente do tabagismo parece mais provável do que o câncer sem uma causa
+atrelada ao fumo — uma causa não especiﬁcada signiﬁca nenhuma causa.
+Volto ao exemplo da trama de E. M. Forster no início deste capítulo, mas
+considerado do ponto de vista da probabilidade. Qual das duas aﬁrmações
+seguintes parece a mais provável?
+Joey parecia feliz no casamento. Ele matou a esposa.
+Joey parecia feliz no casamento. Ele matou a esposa para ﬁcar com a herança
+dela.
+Claramente, à primeira vista a segunda aﬁrmação parece mais provável, o que é
+um puro erro de lógica, já que a primeira, sendo mais ampla, pode abranger mais
+causas, por exemplo que ele matou a esposa porque enlouqueceu, porque ela o
+traiu com o carteiro e com o instrutor de esqui, porque ele entrou em estado de
+delírio e a confundiu com um prognosticador ﬁnanceiro.
+Tudo isso pode levar a patologias em nossa tomada de decisões. Como?
+Imagine que, conforme Paul Slovic e seus colaboradores demonstraram, as
+pessoas são mais propensas a pagar por seguro contra terrorismo do que por
+seguro simples (que cobre, entre outras coisas, atentados terroristas).
+
+Os Cisnes Negros que imaginamos e discutimos e com os quais nos
+preocupamos não se parecem com aqueles que provavelmente são Cisnes Negros.
+Como veremos a seguir, nós nos preocupamos com os eventos “improváveis”
+errados.
+Cegueira em relação ao Cisne Negro
+A primeira questão sobre o paradoxo da percepção dos Cisnes Negros é a
+seguinte: como é possível que alguns Cisnes Negros sejam supervalorizados em
+nossa mente se, via de regra, o tema deste livro é que negligenciamos os Cisnes
+Negros?
+A resposta é que existem duas variedades de eventos raros: a) os Cisnes
+Negros narrados, aqueles que estão presentes no discurso atual e sobre os quais
+você provavelmente ouvirá falar na televisão, e b) aqueles dos quais ninguém fala,
+já que escapam dos modelos — aqueles que você teria vergonha de discutir em
+público, porque não parecem plausíveis. Posso aﬁrmar com segurança que é
+totalmente compatível com a natureza humana que as ocorrências de Cisnes
+Negros sejam superestimadas no primeiro caso, mas gravemente subestimadas no
+segundo.
+De fato, as pessoas que compram bilhetes de loteria superestimam suas
+chances de ganhar porque visualizam uma recompensa de tamanha potência — na
+verdade, são tão cegas em relação às probabilidades que tratam quase da mesma
+maneira probabilidades de um em mil e um em 1 milhão.
+Grande parte da pesquisa empírica concorda com esse padrão de
+superestimação e subestimação de Cisnes Negros. Kahneman e Tversky
+inicialmente mostraram que as pessoas reagem de forma exagerada a resultados
+de baixa probabilidade quando o evento é discutido com elas, quando elas tomam
+consciência dele. Se você perguntar a alguém “qual é a probabilidade de morrer
+em um acidente de avião?”, por exemplo, as pessoas aumentarão essas chances.
+No entanto, Slovic e seus colegas constataram, em padrões de seguros,
+negligência desses eventos altamente improváveis nos planos que as pessoas
+compram. Chamam isso de “preferência por seguro contra prováveis pequenas
+perdas” — à custa das menos prováveis, mas de maior impacto.
+Por ﬁm, depois de anos em busca de testes empíricos de nosso desprezo pelo
+abstrato, encontrei pesquisadores em Israel que realizaram os experimentos pelos
+quais eu vinha esperando. Greg Barron e Ido Erev fornecem evidências
+experimentais de que agentes subestimam pequenas probabilidades quando
+participam de experimentos sequenciais em que eles próprios geram as
+
+probabilidades, quando as probabilidades não lhes são fornecidas. Se você sortear
+bolas de dentro de uma urna com um pequeno número de bolas vermelhas e um
+grande número de bolas pretas, e se você não tiver ideia alguma sobre as
+proporções relativas, provavelmente subestimará o número de bolas vermelhas.
+Apenas quando lhe fornecerem a frequência — por exemplo, quando lhe
+disserem que 3% das bolas são vermelhas — é que você a superestimará em sua
+decisão de aposta.
+Passei um bocado de tempo me perguntando como podemos ser tão míopes e
+imediatistas e ainda assim sobrevivermos em um ambiente que não é
+inteiramente do Mediocristão. Um dia, olhando para a barba grisalha que me faz
+parecer dez anos mais velho do que sou e pensando no prazer que obtenho ao
+exibi-la, percebi o seguinte: o respeito pelos idosos em muitas sociedades pode
+ser uma espécie de compensação por nossa memória de curto prazo. A palavra
+senado vem de senatus, “envelhecido” em latim; em árabe, xeique signiﬁca tanto
+um membro da elite dominante como “ancião”. Anciões são repositórios de uma
+complicada aprendizagem indutiva que inclui informações sobre eventos raros.
+Os anciões podem nos assustar com histórias — é por isso que ﬁcamos
+superempolgados quando pensamos em um Cisne Negro especíﬁco. Eu me
+entusiasmei ao descobrir que isso também é verdade no reino animal: um artigo
+publicado na revista Science mostrou que matriarcas de elefantes desempenham o
+papel de superconselheiras em eventos raros.
+Aprendemos com a repetição — à custa de eventos que não aconteceram
+antes. Eventos que não são repetíveis são ignorados antes de sua ocorrência, e
+depois superestimados (por algum tempo). Após um Cisne Negro, a exemplo do
+11 de setembro de 2001, as pessoas esperam que ele ocorra novamente, quando é
+provável que as chances de esse acontecimento se repetir tenham sido reduzidas.
+Gostamos de pensar sobre Cisnes Negros especíﬁcos e conhecidos, mas na
+verdade a própria natureza da aleatoriedade reside em sua abstração. Como
+aﬁrmei no prólogo, é a deﬁnição errada de um deus.
+Para o economista Hyman Minsky, os ciclos da exposição a riscos na economia
+seguem um padrão: estabilidade e ausência de crises estimulam a exposição a
+riscos, a complacência e a redução de consciência da possibilidade de problemas.
+Em seguida, ocorre uma crise, que resulta em pessoas em estado de choque e
+temerosas de investir seus recursos. Estranhamente, tanto Minsky e a escola a
+que está associado, chamada de pós-keynesiana, quanto seus oponentes, os
+economistas libertários “austríacos”, fazem a mesma análise, exceto que o
+primeiro grupo recomenda intervenção governamental para suavizar o ciclo,
+
+enquanto o segundo acredita que não se deve conﬁar nos funcionários públicos
+para lidar com essas questões. Embora as duas escolas de pensamento pareçam
+lutar uma contra a outra, ambas enfatizam a incerteza fundamental e ﬁcam à
+margem dos departamentos econômicos tradicionais (embora contem com
+muitos adeptos entre empresários e não acadêmicos). Sem dúvida, essa ênfase na
+incerteza fundamental incomoda os platoniﬁcadores.
+Todos os testes de probabilidade que discuti nesta seção são importantes; eles
+mostram como somos enganados pela raridade dos Cisnes Negros, mas não pelo
+papel que desempenham no agregado, seu impacto. Em um estudo preliminar, o
+psicólogo Dan Goldstein e eu submetemos alunos da London Business School a
+exemplos de dois domínios, o Mediocristão e o Extremistão. Selecionamos
+altura, peso e número de acessos por website. Os sujeitos da pesquisa eram bons
+em adivinhar o papel de eventos raros em ambientes do estilo Mediocristão. Mas
+suas intuições falhavam quando se tratava de variáveis fora desse âmbito, o que
+mostra que somos inábeis na avaliação intuitiva do impacto do improvável, como
+a contribuição de um estrondoso best-seller para as vendas totais de livros. Em
+um dos experimentos, os entrevistados subestimaram em 33 vezes o efeito de um
+evento raro.
+A seguir, veremos como essa falta de compreensão de assuntos abstratos nos
+afeta.
+A atração do sensacional
+De fato, as informações estatísticas abstratas não nos inﬂuenciam tanto quanto
+o relato anedótico — a despeito do nível de soﬁsticação da pessoa. Darei alguns
+exemplos.
+A criança italiana. No ﬁnal dos anos 1970, uma criança caiu em um poço na
+Itália. A equipe de resgate não conseguiu tirá-la do buraco, e a criança passou
+dias chorando no fundo do poço, desamparada. A Itália inteira estava preocupada
+com o destino da criança, o que é compreensível; todo o país se manteve grudado
+no noticiário acompanhando as frequentes atualizações. Os gritos da criança
+produziam agudas pontadas de dor e culpa nos impotentes membros da equipe
+de resgate e nos repórteres. A foto da criança foi exibida com destaque em
+revistas e jornais, e era difícil andar pelo centro de Milão sem ser lembrado de
+seu infortúnio.
+Enquanto isso, a guerra civil grassava feroz no Líbano, com hiatos ocasionais
+no conﬂito. Em meio a seu próprio caos, os libaneses também ﬁcaram absortos
+
+no destino daquela criança. A criança italiana. A oito quilômetros de distância,
+pessoas estavam morrendo por causa da guerra, cidadãos eram ameaçados por
+carros-bomba, mas o destino da criança italiana ﬁgurava entre os interesses da
+população do bairro cristão de Beirute. “Vejam que coisinha fofa, aquela
+coitadinha”, me diziam. E toda a cidade expressou alívio quando por ﬁm se
+concretizou o resgate.
+Como supostamente teria dito Stálin, que sabia uma coisa ou outra sobre o
+negócio da mortalidade: “Uma única morte é uma tragédia; 1 milhão de mortes é
+uma estatística”. Estatísticas não ressoam dentro de nós.
+O terrorismo mata, mas o maior assassino continua sendo o meio ambiente,
+responsável por cerca de 13 milhões de mortes por ano. Mas o terrorismo causa
+indignação, o que nos faz superestimar a probabilidade de um ataque terrorista —
+e reagir com mais violência quando acontece. Sentimos muito mais a ferroada dos
+danos causados pelo homem do que a dos causados pela natureza.
+Central Park. Você está a bordo de um avião, indo passar um ﬁm de semana
+prolongado (regado a álcool) na cidade de Nova York. Você está sentado ao lado
+de um vendedor de seguros que, sendo vendedor, não consegue parar de falar.
+Para ele, não falar é a atividade mais trabalhosa. Ele conta que o primo (com
+quem ele vai celebrar o feriado) trabalhou em um escritório de advocacia com
+alguém cujo cunhado tem um sócio cujo irmão gêmeo foi assaltado e assassinado
+no Central Park. Isso mesmo, o Central Park, na gloriosa cidade de Nova York.
+Isso foi em 1989, se ele se lembra bem (estamos agora em 2007). A pobre vítima
+tinha apenas 38 anos de idade, era um homem casado e pai de três ﬁlhos, um dos
+quais nascera com uma deﬁciência congênita e precisava de cuidados especiais no
+Centro Médico da Universidade Cornell. Três crianças, uma das quais precisava
+de cuidados especiais, perderam o pai por causa de uma visita boba ao Central
+Park.
+Bem, é provável que você evite o Central Park durante a sua estadia na cidade.
+Você sabe muito bem que pode acessar a internet ou consultar um folheto
+qualquer para obter estatísticas criminais, em vez de dar ouvidos a um vendedor
+com incontinência verbal. Mas é inevitável. Por algum tempo, o nome Central
+Park evocará a imagem daquele pobre homem, que não merecia o destino que
+teve, caído na grama imunda. Será necessário um bocado de informações
+estatísticas para sobrepujar sua hesitação.
+
+Andar de motocicleta. Da mesma forma, a morte de um parente em um
+acidente de moto tem muito mais chances de inﬂuenciar sua atitude em relação
+às motocicletas do que volumes de análises estatísticas. Você não precisa de
+esforço algum para procurar estatísticas sobre acidentes na internet, mas esses
+números não vêm à mente com facilidade. Saiba que eu piloto a minha Vespa
+vermelha cidade afora, já que ninguém em meu círculo próximo sofreu um
+acidente recentemente — embora eu esteja ciente desse problema de lógica, sou
+incapaz de tomar uma atitude em relação a ele.
+Ora, não discordo daqueles que recomendam o uso de uma narrativa para
+chamar atenção. Na verdade, nossa consciência pode estar vinculada à capacidade
+de inventar alguma forma de história sobre nós mesmos. É só que a narrativa
+pode ser letal quando usada nos lugares errados.
+OS ATALHOS
+A seguir, irei além da narrativa para discutir os atributos mais gerais de
+pensamento e raciocínio por trás da nossa superﬁcialidade incapacitante. Esses
+defeitos de raciocínio foram catalogados e investigados por uma poderosa
+tradição de pesquisa representada por uma escola chamada Society for Judgment
+and Decision Making [Sociedade de Julgamento e Tomada de Decisões] (a única
+sociedade acadêmica e proﬁssional da qual sou membro, e com orgulho; suas
+reuniões são as únicas em que não padeço de dores de tensão nos ombros ou
+ataques de raiva). Está associada à escola de pesquisa iniciada por Daniel
+Kahneman, Amos Tversky e seus amigos, como Robyn Dawes e Paul Slovic. É
+composta principalmente de psicólogos empíricos e cientistas cognitivos cuja
+metodologia segue estritamente o método de realizar experimentos controlados e
+muito precisos (ao estilo da física) em humanos e elaborar catálogos de como as
+pessoas reagem, com o mínimo de teorização. Eles procuram regularidades. Note
+que os psicólogos empíricos usam a curva em forma de sino para medir erros em
+seus métodos de teste, mas, conforme veremos em termos mais técnicos no
+capítulo 15, essa é uma das raras aplicações adequadas da curva em forma de sino
+nas ciências sociais, devido à natureza dos experimentos. Já vimos esses tipos de
+experimentos com a enchente na Califórnia, no presente capítulo, e com a
+identiﬁcação do viés de conﬁrmação no capítulo 5. Esses pesquisadores
+mapearam nossas atividades em (aproximadamente) um modo duplo de
+pensamento, que eles separam como “Sistema 1” e “Sistema 2”, ou experiencial e
+cogitativo. A distinção é simples e direta.
+
+O Sistema 1, o experiencial, é automático, rápido, opaco (não sabemos que o
+estamos usando), não requer esforço, é processado em paralelo e pode se prestar
+a erros. É o que chamamos de “intuição”, e ele realiza essas proezas rápidas que
+se tornaram populares sob o nome de blink [piscar de olhos], em referência ao
+best-seller de Malcolm Gladwell.4 O Sistema 1 é altamente emocional,
+precisamente porque é rápido. Produz atalhos, chamados de “heurísticas”, que
+nos permitem funcionar com rapidez e eﬁcácia. Dan Goldstein descreve essas
+heurísticas como “rápidas e econômicas”. Outros preferem chamá-las de “velozes
+e sujas”. Bem, não há dúvida de que esses atalhos são virtuosos, por serem
+rápidos, mas, por vezes, podem nos induzir a alguns erros graves. Essa ideia
+fundamental gerou toda uma escola de pesquisa chamada de abordagem de
+heurísticas e vieses (a heurística corresponde ao estudo de atalhos, vieses
+representam erros).
+O Sistema 2, o cogitativo, é o que normalmente chamamos de pensamento. É
+o que usamos em uma sala de aula, pois requer esforço (até mesmo para os
+franceses), é sensato, lento, lógico, serial, progressivo e autoconsciente (a pessoa
+pode seguir etapas em seu raciocínio). Comete menos erros que o sistema
+experiencial, e, visto que a pessoa sabe como obteve o resultado, pode
+reconstituir seus passos e corrigi-los de forma adaptativa.
+A maior parte dos nossos erros de raciocínio vem de usarmos o Sistema 1
+quando de fato pensamos estar usando o Sistema 2. Como? Uma vez que
+reagimos sem pensamento e introspecção, a principal propriedade do Sistema 1 é
+a nossa falta de consciência de que o estamos usando!
+Lembre-se do erro de ida e volta, nossa tendência de confundir “nenhuma
+evidência de Cisnes Negros” com “evidência de nenhum Cisne Negro”; ele
+mostra o Sistema 1 em ação. Você precisa fazer um esforço (Sistema 2) para
+sobrepujar sua primeira reação. Claramente, a Mãe Natureza faz com que você
+use o rápido Sistema 1 para se livrar de problemas, de modo que não ﬁque
+sentado matutando se há mesmo um tigre atacando você ou se é uma ilusão de
+óptica. Você sai correndo de imediato, antes de se tornar “consciente” da
+presença do tigre.
+Presume-se que as emoções sejam a arma que o Sistema 1 usa para nos
+direcionar e nos obrigar a agir com rapidez. Elas são muito mais eﬁcazes como
+intermediadoras da prevenção de riscos do que nosso sistema cognitivo. Na
+verdade, neurobiólogos que estudaram o sistema emocional demonstraram como
+ele reage à presença de perigo muito tempo antes de termos plena consciência
+
+disso — sentimos medo e começamos a reagir alguns milissegundos antes de
+percebermos que estamos diante de uma cobra.
+Muitos dos problemas com a natureza humana residem em nossa incapacidade
+de usar intensamente o Sistema 2, ou de usá-lo de forma prolongada sem ter que
+passar longas férias na praia. Além disso, muitas vezes apenas nos esquecemos de
+usá-lo.
+Cuidado com o cérebro
+Observe que os neurobiólogos fazem, de modo geral, uma distinção
+semelhante àquela entre o Sistema 1 e o Sistema 2, exceto que operam de acordo
+com linhas anatômicas. Essa distinção diferencia duas partes do cérebro, a parte
+cortical, que supostamente usamos para pensar e que nos distingue de outros
+animais, e o cérebro límbico, de reação rápida, que é o centro das emoções e que
+compartilhamos com outros mamíferos.
+Como um empirista cético, não quero ser o peru, então não quero me
+concentrar exclusivamente em órgãos especíﬁcos do cérebro, uma vez que não
+observamos as funções cerebrais muito bem. Algumas pessoas tentam identiﬁcar
+os chamados correlatos neurais da, digamos, tomada de decisões ou, em termos
+mais agressivos, os “substratos” neurais da memória, por exemplo. O cérebro
+pode ser uma máquina mais complicada do que pensamos; no passado, a
+anatomia cerebral já nos enganou repetidas vezes. Podemos, no entanto, calcular
+regularidades executando experimentos precisos, de forma exata e completa,
+sobre como as pessoas reagem sob certas condições, e mantendo um registro do
+que vemos.
+Para um exemplo que justiﬁca o ceticismo acerca da conﬁança incondicional
+na neurobiologia, e que justiﬁca as ideias da escola empírica de medicina à qual
+Sexto pertencia, vamos levar em consideração a inteligência dos pássaros. Li e
+reli em vários textos que o córtex é onde os animais realizam seu “pensamento”, e
+que as criaturas com o maior córtex têm a maior inteligência — nós, humanos,
+temos o maior córtex, seguido por executivos de bancos, golﬁnhos e por nossos
+primos, os macacos. Bem, acontece que se descobriu que alguns pássaros, os
+papagaios, por exemplo, têm um elevado nível de inteligência, equivalente ao dos
+golﬁnhos, mas que a inteligência dos pássaros se correlaciona com o tamanho de
+outra parte do cérebro, denominada hiperestriato. Assim, a neurobiologia, com
+seu atributo de “ciência dura”, pode às vezes (embora nem sempre) ludibriar e
+levar você a dar uma declaração platoniﬁcada, redutiva. Estou perplexo com o
+fato de que os “empíricos”, céticos com relação a ligações entre anatomia e
+
+função, tivessem essa clareza de visão — não é de admirar que sua escola tenha
+desempenhado um papel muito pequeno na história intelectual. Na condição de
+empirista cético, preﬁro os experimentos da psicologia empírica aos exames de
+ressonância magnética baseados em teorias dos neurobiólogos, mesmo que os
+primeiros pareçam menos “cientíﬁcos” para o público em geral.
+Como evitar a falácia narrativa
+Concluirei dizendo que nossa incompreensão sobre o Cisne Negro pode ser
+em larga medida atribuída ao uso que fazemos do Sistema 1, ou seja, narrativas e
+o sensacional — bem como o emocional —, o que nos impõe um mapa errado da
+probabilidade de eventos. No dia a dia, não somos introspectivos o suﬁciente
+para perceber que nosso entendimento do que está acontecendo é um pouco
+menor do que seria garantido por uma observação impassível das experiências.
+Também tendemos a esquecer a noção de Cisnes Negros imediatamente após sua
+ocorrência — uma vez que eles são abstratos demais para nós —, focando, em vez
+disso, nos eventos exatos e distintos que facilmente vêm à nossa mente. Nós nos
+preocupamos com os Cisnes Nesgros, só que com os errados.
+Permita-me incluir o Mediocristão nessa história. No Mediocristão, as
+narrativas parecem funcionar — é provável que o passado ceda à nossa inquisição.
+Mas não no Extremistão, onde não há repetição, e onde é preciso permanecer
+desconﬁado do passado furtivo e evitar a narrativa fácil e óbvia.
+Levando em conta que vivi em grande medida privado de informação, muitas
+vezes tenho a sensação de que habito um planeta diferente daquele em que vivem
+meus pares, o que às vezes pode ser extremamente doloroso. É como se um vírus
+controlasse o cérebro deles, impedindo-os de ver o avanço das coisas — o Cisne
+Negro que aguarda na próxima esquina.
+A maneira de evitar os males da falácia narrativa é privilegiar a experimentação
+em vez da narrativa, preferir a experiência à história e o conhecimento clínico a
+teorias. Decerto o jornal não é capaz de realizar um experimento, mas pode
+escolher um relato em vez de outro — há muitas pesquisas empíricas para
+apresentar e interpretar —, como estou fazendo neste livro. Ser empírico não
+signiﬁca manter um laboratório funcionando no porão: é apenas uma
+mentalidade que favorece uma determinada classe de conhecimento e não outras.
+Eu não me proíbo de usar a palavra causa, mas as causas que discuto são ou
+especulações ousadas (apresentadas como tais) ou o resultado de experimentos,
+não de histórias.
+Outro enfoque é fazer previsões e manter um registro delas.
+
+Enﬁm, pode haver uma maneira de usar a narrativa — mas para um bom
+propósito. Somente um diamante consegue cortar um diamante; podemos usar
+nossa capacidade de persuadir com uma história que transmita a mensagem certa
+— o que os contadores de histórias parecem fazer.
+Até agora, discutimos dois mecanismos internos por trás da nossa cegueira em
+relação aos Cisnes Negros, o viés de conﬁrmação e a falácia narrativa. Nos
+próximos capítulos examinaremos um mecanismo externo: um defeito na maneira
+como recebemos e interpretamos eventos registrados, e um defeito na maneira
+como agimos em relação a eles.
+

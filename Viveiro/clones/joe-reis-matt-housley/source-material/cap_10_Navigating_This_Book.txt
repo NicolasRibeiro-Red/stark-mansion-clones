@@ -1,0 +1,48 @@
+# Navigating This Book
+
+Paginas: 21-21
+
+And you will be able to:
+• Incorporate data engineering principles in your current role (data scientist, ana‐
+•
+lyst, software engineer, data team lead, etc.)
+• Stitch together a variety of cloud technologies to serve the needs of downstream
+•
+data consumers
+• Assess data engineering problems with an end-to-end framework of best
+•
+practices
+• Incorporate data governance and security across the data engineering lifecycle
+•
+Navigating This Book
+This book is composed of four parts:
+• Part I, “Foundation and Building Blocks”
+•
+• Part II, “The Data Engineering Lifecycle in Depth”
+•
+• Part III, “Security, Privacy, and the Future of Data Engineering”
+•
+• Appendices A and B: covering serialization and compression, and cloud net‐
+•
+working, respectively
+In Part I, we begin by defining data engineering in Chapter 1, then map out the
+data engineering lifecycle in Chapter 2. In Chapter 3, we discuss good architecture. In
+Chapter 4, we introduce a framework for choosing the right technology—while we
+frequently see technology and architecture conflated, these are in fact very different
+topics.
+Part II builds on Chapter 2 to cover the data engineering lifecycle in depth; each
+lifecycle stage—data generation, storage, ingestion, transformation and serving—is
+covered in its own chapter. Part II is arguably the heart of the book, and the other
+chapters exist to support the core ideas covered here.
+Part III covers additional topics. In Chapter 10, we discuss security and privacy. While
+security has always been an important part of the data engineering profession, it has
+only become more critical with the rise of for profit hacking and state sponsored
+cyber attacks. And what can we say of privacy? The era of corporate privacy nihilism
+is over—no company wants to see its name appear in the headline of an article on
+sloppy privacy practices. Reckless handling of personal data can also have significant
+legal ramifications with the advent of GDPR, CCPA, and other regulations. In short,
+security and privacy must be top priorities in any data engineering work.
+xvi
+|
+Preface
+

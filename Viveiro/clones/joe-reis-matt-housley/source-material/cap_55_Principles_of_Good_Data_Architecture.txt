@@ -1,0 +1,51 @@
+# Principles of Good Data Architecture
+
+Paginas: 102-102
+
+Agility is the foundation for good data architecture; it acknowledges that the world
+is fluid. Good data architecture is flexible and easily maintainable. It evolves in
+response to changes within the business and new technologies and practices that
+may unlock even more value in the future. Businesses and their use cases for data are
+always evolving. The world is dynamic, and the pace of change in the data space is
+accelerating. Last year’s data architecture that served you well might not be sufficient
+for today, let alone next year.
+Bad data architecture is tightly coupled, rigid, overly centralized, or uses the wrong
+tools for the job, hampering development and change management. Ideally, by
+designing architecture with reversibility in mind, changes will be less costly.
+The undercurrents of the data engineering lifecycle form the foundation of good
+data architecture for companies at any stage of data maturity. Again, these undercur‐
+rents are security, data management, DataOps, data architecture, orchestration, and
+software engineering.
+Good data architecture is a living, breathing thing. It’s never finished. In fact, per
+our definition, change and evolution are central to the meaning and purpose of data
+architecture. Let’s now look at the principles of good data architecture.
+Principles of Good Data Architecture
+This section takes a 10,000-foot view of good architecture by focusing on principles—
+key ideas useful in evaluating major architectural decisions and practices. We borrow
+inspiration for our architecture principles from several sources, especially the AWS
+Well-Architected Framework and Google Cloud’s Five Principles for Cloud-Native
+Architecture.
+The AWS Well-Architected Framework consists of six pillars:
+• Operational excellence
+•
+• Security
+•
+• Reliability
+•
+• Performance efficiency
+•
+• Cost optimization
+•
+• Sustainability
+•
+Google Cloud’s Five Principles for Cloud-Native Architecture are as follows:
+• Design for automation.
+•
+• Be smart with state.
+•
+• Favor managed services.
+•
+Principles of Good Data Architecture
+|
+77
+

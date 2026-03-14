@@ -1,0 +1,46 @@
+# Titles and Responsibilities Will Morph...
+
+Paginas: 409-409
+
+This allows data engineers working on new tooling to find opportunities in the
+abstractions of data management, DataOps, and all the other undercurrents of data
+engineering. Data engineers will become “enterprisey.” Speaking of which…
+Titles and Responsibilities Will Morph...
+While the data engineering lifecycle isn’t going anywhere anytime soon, the bound‐
+aries between software engineering, data engineering, data science, and ML engi‐
+neering are increasingly fuzzy. In fact, like the authors, many data scientists are
+transformed into data engineers through an organic process; tasked with doing “data
+science” but lacking the tools to do their jobs, they take on the job of designing and
+building systems to serve the data engineering lifecycle.
+As simplicity moves up the stack, data scientists will spend a smaller slice of their
+time gathering and munging data. But this trend will extend beyond data scientists.
+Simplification also means data engineers will spend less time on low-level tasks in the
+data engineering lifecycle (managing servers, configuration, etc.), and “enterprisey”
+data engineering will become more prevalent.
+As data becomes more tightly embedded in every business’s processes, new roles
+will emerge in the realm of data and algorithms. One possibility is a role that sits
+between ML engineering and data engineering. As ML toolsets become easier to use
+and managed cloud ML services grow in capabilities, ML is shifting away from ad hoc
+exploration and model development to become an operational discipline.
+This new ML-focused engineer who straddles this divide will know algorithms, ML
+techniques, model optimization, model monitoring, and data monitoring. However,
+their primary role will be to create or utilize the systems that automatically train
+models, monitor performance, and operationalize the full ML process for model
+types that are well understood. They will also monitor data pipelines and quality,
+overlapping into the current realm of data engineering. ML engineers will become
+more specialized to work on model types that are closer to research and less well
+understood.
+Another area in which titles may morph is at the intersection of software engineering
+and data engineering. Data applications, which blend traditional software applica‐
+tions with analytics, will drive this trend. Software engineers will need to have a much
+deeper understanding of data engineering. They will develop expertise in things like
+streaming, data pipelines, data modeling, and data quality. We will move beyond the
+“throw it over the wall” approach that is now pervasive. Data engineers will be inte‐
+grated into application development teams, and software developers will acquire data
+engineering skills. The boundaries that exist between application backend systems
+and data engineering tools will be lowered as well, with deep integration through
+streaming and event-driven architectures.
+384
+|
+Chapter 11: The Future of Data Engineering
+

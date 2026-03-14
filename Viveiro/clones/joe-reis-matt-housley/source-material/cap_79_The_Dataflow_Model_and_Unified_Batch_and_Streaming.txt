@@ -1,0 +1,38 @@
+# The Dataflow Model and Unified Batch and Streaming
+
+Paginas: 130-130
+
+23 Jay Kreps, “Questioning the Lambda Architecture,” O’Reilly Radar, July 2, 2014, https://oreil.ly/wWR3n.
+Lambda architecture has its share of challenges and criticisms. Managing multiple
+systems with different codebases is as difficult as it sounds, creating error-prone
+systems with code and data that are extremely difficult to reconcile.
+We mention Lambda architecture because it still gets attention and is popular in
+search-engine results for data architecture. Lambda isn’t our first recommendation
+if you’re trying to combine streaming and batch data for analytics. Technology and
+practices have moved on.
+Next, let’s look at a reaction to Lambda architecture, the Kappa architecture.
+Kappa Architecture
+As a response to the shortcomings of Lambda architecture, Jay Kreps proposed an
+alternative called Kappa architecture (Figure 3-15).23 The central thesis is this: why not
+just use a stream-processing platform as the backbone for all data handling—inges‐
+tion, storage, and serving? This facilitates a true event-based architecture. Real-time
+and batch processing can be applied seamlessly to the same data by reading the live
+event stream directly and replaying large chunks of data for batch processing.
+Figure 3-15. Kappa architecture
+Though the original Kappa architecture article came out in 2014, we haven’t seen it
+widely adopted. There may be a couple of reasons for this. First, streaming itself is
+still a bit of a mystery for many companies; it’s easy to talk about, but harder than
+expected to execute. Second, Kappa architecture turns out to be complicated and
+expensive in practice. While some streaming systems can scale to huge data volumes,
+they are complex and expensive; batch storage and processing remain much more
+efficient and cost-effective for enormous historical datasets.
+The Dataflow Model and Unified Batch and Streaming
+Both Lambda and Kappa sought to address limitations of the Hadoop ecosystem
+of the 2010s by trying to duct-tape together complicated tools that were likely not
+natural fits in the first place. The central challenge of unifying batch and streaming
+data remained, and Lambda and Kappa both provided inspiration and groundwork
+for continued progress in this pursuit.
+Examples and Types of Data Architecture
+|
+105
+

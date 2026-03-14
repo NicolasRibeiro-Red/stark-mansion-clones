@@ -1,0 +1,119 @@
+{
+  "titulo": "",
+  "autor": "",
+  "total_paginas": 431,
+  "chunks_criados": 22,
+  "toc": [],
+  "arquivos": [
+    {
+      "arquivo": "chunk_01_pags_1-20.txt",
+      "paginas": "1-20",
+      "tamanho_chars": 437
+    },
+    {
+      "arquivo": "chunk_02_pags_21-40.txt",
+      "paginas": "21-40",
+      "tamanho_chars": 447
+    },
+    {
+      "arquivo": "chunk_03_pags_41-60.txt",
+      "paginas": "41-60",
+      "tamanho_chars": 447
+    },
+    {
+      "arquivo": "chunk_04_pags_61-80.txt",
+      "paginas": "61-80",
+      "tamanho_chars": 447
+    },
+    {
+      "arquivo": "chunk_05_pags_81-100.txt",
+      "paginas": "81-100",
+      "tamanho_chars": 449
+    },
+    {
+      "arquivo": "chunk_06_pags_101-120.txt",
+      "paginas": "101-120",
+      "tamanho_chars": 469
+    },
+    {
+      "arquivo": "chunk_07_pags_121-140.txt",
+      "paginas": "121-140",
+      "tamanho_chars": 469
+    },
+    {
+      "arquivo": "chunk_08_pags_141-160.txt",
+      "paginas": "141-160",
+      "tamanho_chars": 469
+    },
+    {
+      "arquivo": "chunk_09_pags_161-180.txt",
+      "paginas": "161-180",
+      "tamanho_chars": 469
+    },
+    {
+      "arquivo": "chunk_10_pags_181-200.txt",
+      "paginas": "181-200",
+      "tamanho_chars": 470
+    },
+    {
+      "arquivo": "chunk_11_pags_201-220.txt",
+      "paginas": "201-220",
+      "tamanho_chars": 470
+    },
+    {
+      "arquivo": "chunk_12_pags_221-240.txt",
+      "paginas": "221-240",
+      "tamanho_chars": 470
+    },
+    {
+      "arquivo": "chunk_13_pags_241-260.txt",
+      "paginas": "241-260",
+      "tamanho_chars": 470
+    },
+    {
+      "arquivo": "chunk_14_pags_261-280.txt",
+      "paginas": "261-280",
+      "tamanho_chars": 470
+    },
+    {
+      "arquivo": "chunk_15_pags_281-300.txt",
+      "paginas": "281-300",
+      "tamanho_chars": 470
+    },
+    {
+      "arquivo": "chunk_16_pags_301-320.txt",
+      "paginas": "301-320",
+      "tamanho_chars": 470
+    },
+    {
+      "arquivo": "chunk_17_pags_321-340.txt",
+      "paginas": "321-340",
+      "tamanho_chars": 470
+    },
+    {
+      "arquivo": "chunk_18_pags_341-360.txt",
+      "paginas": "341-360",
+      "tamanho_chars": 470
+    },
+    {
+      "arquivo": "chunk_19_pags_361-380.txt",
+      "paginas": "361-380",
+      "tamanho_chars": 470
+    },
+    {
+      "arquivo": "chunk_20_pags_381-400.txt",
+      "paginas": "381-400",
+      "tamanho_chars": 470
+    },
+    {
+      "arquivo": "chunk_21_pags_401-420.txt",
+      "paginas": "401-420",
+      "tamanho_chars": 470
+    },
+    {
+      "arquivo": "chunk_22_pags_421-431.txt",
+      "paginas": "421-431",
+      "tamanho_chars": 272
+    }
+  ]
+}

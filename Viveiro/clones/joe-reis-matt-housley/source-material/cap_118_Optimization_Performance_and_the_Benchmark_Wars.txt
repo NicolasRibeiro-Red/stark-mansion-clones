@@ -1,0 +1,56 @@
+# Optimization, Performance, and the Benchmark Wars
+
+Paginas: 172-172
+
+Runtime limitations
+Serverless platforms don’t give you complete operating system abstractions.
+Instead, you’re limited to a specific runtime image.
+Cost
+Serverless functions are incredibly convenient but potentially expensive. When
+your serverless function processes only a few events, your costs are low; costs rise
+rapidly as the event count increases. This scenario is a frequent source of surprise
+cloud bills.
+In the end, abstraction tends to win. We suggest looking at using serverless first and
+then servers—with containers and orchestration if possible—once you’ve outgrown
+serverless options.
+Optimization, Performance, and the Benchmark Wars
+Imagine that you are a billionaire shopping for new transportation. You’ve narrowed
+your choice to two options:
+• 787 Business Jet
+•
+— Range: 9,945 nautical miles (with 25 passengers)
+—
+— Maximum speed: 0.90 Mach
+—
+— Cruise speed: 0.85 Mach
+—
+— Fuel capacity: 101,323 kilograms
+—
+— Maximum takeoff weight: 227,930 kilograms
+—
+— Maximum thrust: 128,000 pounds
+—
+• Tesla Model S Plaid
+•
+— Range: 560 kilometers
+—
+— Maximum speed: 322 kilometers/hour
+—
+— 0–100 kilometers/hour: 2.1 seconds
+—
+— Battery capacity: 100 kilowatt hours
+—
+— Nurburgring lap time: 7 minutes, 30.9 seconds
+—
+— Horsepower: 1020
+—
+— Torque: 1050 lb-ft
+—
+Which of these options offers better performance? You don’t have to know much
+about cars or aircraft to recognize that this is an idiotic comparison. One option is
+a wide-body private jet designed for intercontinental operation, while the other is an
+electric supercar.
+Optimization, Performance, and the Benchmark Wars
+|
+147
+

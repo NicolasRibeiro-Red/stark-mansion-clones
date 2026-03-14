@@ -1,0 +1,39 @@
+# Eventual Versus Strong Consistency
+
+Paginas: 223-223
+
+platforms and HDFS are storage systems that utilize magnetic disks. Still higher levels
+of storage abstraction exist, such as data lakes and lakehouses (which we cover in
+“Data Engineering Storage Abstractions” on page 215).
+Single Machine Versus Distributed Storage
+As data storage and access patterns become more complex and outgrow the useful‐
+ness of a single server, distributing data to more than one server becomes necessary.
+Data can be stored on multiple servers, known as distributed storage. This is a dis‐
+tributed system whose purpose is to store data in a distributed fashion (Figure 6-4).
+Figure 6-4. Single machine versus distributed storage on multiple servers
+Distributed storage coordinates the activities of multiple servers to store, retrieve,
+and process data faster and at a larger scale, all while providing redundancy in case
+a server becomes unavailable. Distributed storage is common in architectures where
+you want built-in redundancy and scalability for large amounts of data. For example,
+object storage, Apache Spark, and cloud data warehouses rely on distributed storage
+architectures.
+Data engineers must always be aware of the consistency paradigms of the distributed
+systems, which we’ll explore next.
+Eventual Versus Strong Consistency
+A challenge with distributed systems is that your data is spread across multiple
+servers. How does this system keep the data consistent? Unfortunately, distributed
+systems pose a dilemma for storage and query accuracy. It takes time to replicate
+changes across the nodes of a system; often a balance exists between getting current
+data and getting “sorta” current data in a distributed database. Let’s look at two
+common consistency patterns in distributed systems: eventual and strong.
+We’ve covered ACID compliance throughout this book, starting in Chapter 5.
+Another acronym is BASE, which stands for basically available, soft-state, eventual
+consistency. Think of it as the opposite of ACID. BASE is the basis of eventual
+consistency. Let’s briefly explore its components:
+Basically available
+Consistency is not guaranteed, but database reads and writes are made on a
+best-effort basis, meaning consistent data is available most of the time.
+198
+|
+Chapter 6: Storage
+

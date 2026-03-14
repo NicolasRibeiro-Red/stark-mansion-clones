@@ -1,0 +1,39 @@
+# Frequency
+
+Paginas: 262-262
+
+practical purposes for the vast majority of data you’ll handle in a business context.
+For example, an online retailer will process customer transactions 24 hours a day
+until the business fails, the economy grinds to a halt, or the sun explodes.
+Business processes have long imposed artificial bounds on data by cutting discrete
+batches. Keep in mind the true unboundedness of your data; streaming ingestion
+systems are simply a tool for preserving the unbounded nature of data so that
+subsequent steps in the lifecycle can also process it continuously.
+Frequency
+One of the critical decisions that data engineers must make in designing data-
+ingestion processes is the data-ingestion frequency. Ingestion processes can be batch,
+micro-batch, or real-time.
+Ingestion frequencies vary dramatically from slow to fast (Figure 7-4). On the slow
+end, a business might ship its tax data to an accounting firm once a year. On the
+faster side, a CDC system could retrieve new log updates from a source database once
+a minute. Even faster, a system might continuously ingest events from IoT sensors
+and process these within seconds. Data-ingestion frequencies are often mixed in a
+company, depending on the use case and technologies.
+Figure 7-4. The spectrum batch to real-time ingestion frequencies
+We note that “real-time” ingestion patterns are becoming increasingly common.
+We put “real-time” in quotation marks because no ingestion system is genuinely
+real-time. Any database, queue or pipeline has inherent latency in delivering data to a
+target system. It is more accurate to speak of near real-time, but we often use real-time
+for brevity. The near real-time pattern generally does away with an explicit update
+frequency; events are processed in the pipeline either one by one as they arrive or in
+micro-batches (i.e., batches over concise time intervals). For this book, we will use
+real-time and streaming interchangeably.
+Even with a streaming data-ingestion process, batch processing downstream is rela‐
+tively standard. At the time of this writing, ML models are typically trained on a
+batch basis, although continuous online training is becoming more prevalent. Rarely
+do data engineers have the option to build a purely near real-time pipeline with no
+batch components. Instead, they choose where batch boundaries will occur—i.e., the
+Key Engineering Considerations for the Ingestion Phase
+|
+237
+

@@ -1,0 +1,265 @@
+19. A pedra filosofal e seu inverso
+Eles avisam quando estão indo à falência — Às vezes o ouro é uma variedade especial de chumbo
+E agora, leitor, após o esforço hercúleo que fiz para tornar mais claras para você as ideias dos últimos capítulos, é hora de pegar mais leve e expressar as coisas em termos técnicos, mais ou menos. Assim, este capítulo — um aprofundamento das ideias do anterior — será mais denso e deve ser pulado pelo leitor esclarecido.
+COMO DETECTAR QUEM VAI FALIR
+Vamos examinar um método de detecção de fragilidade — o inverso da pedra filosofal. Podemos usar como exemplo a história da gigantesca empresa de empréstimos imobiliários subvencionados pelo governo chamada Fannie Mae, uma corporação de hipotecas que foi à falência, deixando no colo dos contribuintes estadunidenses um prejuízo de centenas de bilhões
+de dólares (montante que, infelizmente, continua aumentando).
+Um dia, em 2003, Alex Berenson, jornalista do
+New York Times
+, entrou em meu escritório com os relatórios de risco secretos da Fannie Mae, que um desertor lhe entregara. Era o tipo de relatório que esmiuçava as entranhas da metodologia de cálculo de risco, ao qual apenas uma fonte interna com informações privilegiadas pode ter acesso — a Fannie Mae fazia seus próprios cálculos de risco e divulgava o que bem queria para quem bem queria, o público ou quem quer que fosse. Mas apenas um desertor poderia ter a audácia de nos mostrar os meandros de como o risco era calculado.
+Examinamos o relatório: simplesmente, um movimento ascendente em uma variável econômica levava a perdas gigantescas; um movimento descendente (na direção oposta), a lucros modestos. Movimentos ascendentes adicionais resultavam em perdas suplementares ainda maiores, e novos movimentos descendentes conduziam a lucros ainda menores. Parecia exatamente idêntico à história da pedra na figura 9. A progressão dos danos era óbvia — verdade seja dita, era monstruosa. Então, logo constatamos que a catastrófica explosão era inevitável: suas exposições a risco eram extremamente “côncavas”, similares às do gráfico do trânsito na figura 14: perdas que se acumulam à medida que há desvio das variáveis econômicas (nem sequer precisei entender qual variável, já que a fragilidade a uma variável dessa magnitude implica a fragilidade de todos os outros parâmetros). Trabalhei com minhas emoções, e não com o cérebro, e senti uma pontada no coração antes mesmo de compreender os números que eu estava analisando. Era a fonte de todas as fragilidades, e, graças a Berenson, o
+New York Times
+externou a minha preocupação. Seguiu-se uma campanha difamatória, mas nada muito digno de nota. Nesse meio-tempo eu havia chamado algumas pessoas importantes de charlatãs, e elas não ficaram muito entusiasmadas com isso.
+O fundamental é que o não linear é vastamente mais afetado por eventos extremos — e ninguém estava interessado em eventos extremos, uma vez que tinham um bloqueio mental contra eles.
+Continuei dizendo, para quem quisesse escutar, inclusive taxistas (bem, quase), que a empresa Fannie Mae estava “sentada em cima de um barril de dinamite”. Claro, explosões não acontecem todos os dias (assim como as pontes mal construídas não desabam imediatamente), e as pessoas continuavam dizendo que minha opinião estava errada e era infundada (usando algum argumento de que as ações estavam subindo, ou algo ainda mais falacioso). Também inferi que outras instituições, em sua esmagadora maioria bancos, estavam na mesma situação. Depois de verificar instituições similares, e constatar que o problema era generalizado, concluí que um colapso total do sistema bancário eram favas contadas. Eu estava tão convicto disso que não consegui pensar direito e voltei aos mercados para me vingar dos perus. Como na cena de
+O poderoso chefão III
+: “Sempre que eu penso que estou fora, eles me puxam de volta para dentro”.
+As coisas aconteceram como se tivessem sido planejadas pelo destino. A Fannie Mae foi à bancarrota, junto com outros bancos. Só demorou um pouco além do esperado, nada de mais.
+A parte burra da história é que eu não havia percebido o vínculo entre a fragilidade financeira e a fragilidade
+geral — tampouco usei o termo “fragilidade”. Talvez eu não tenha prestado atenção a muitas xícaras de porcelana. Porém, graças ao episódio do sótão, eu tinha um instrumento para a medição da fragilidade e, portanto, da antifragilidade.
+Tudo se resume ao seguinte: descobrir se nossos cálculos incorretos e erros de previsão são, considerando todos os fatos, mais prejudiciais do que benéficos, e até que ponto os danos são cumulativos. Exatamente como na história do rei, em que o dano de uma pedra de dez quilos representa mais do que o dobro do dano causado por uma pedra de cinco quilos. O acúmulo de danos significa que uma pedra grande poderia, mais cedo ou mais tarde, matar a pessoa. Da mesma forma que um grande desvio no mercado, no fim das contas, destruiria a empresa.
+Tão logo percebi que a fragilidade resultava diretamente da não linearidade e dos efeitos de convexidade, e que a convexidade era mensurável, fiquei empolgadíssimo. A técnica — detectar
+o acelerado e progressivo acúmulo
+do dano — aplica-se a qualquer coisa que implique a tomada de decisões sob a incerteza e a gestão de riscos. Embora fosse mais interessante na medicina e na tecnologia, a demanda imediata estava na economia. Então, sugeri ao Fundo Monetário Internacional (
+FMI
+) que substituísse por uma medida de fragilidade as suas medidas de risco, que eles sabiam muito bem que não funcionavam. A maior parte das pessoas que atuam no negócio de riscos tinha se frustrado com o péssimo (ou melhor, aleatório) desempenho de seus modelos, mas elas não eram fãs da minha postura anterior: “Não usem modelo algum”. Eles queriam alguma coisa. E havia uma medida de risco aí.
+1
+Então, aqui está algo para ser utilizado. A técnica, uma heurística simples chamada de
+heurística de detecção de fragilidade (e da antifragilidade)
+, funciona da seguinte maneira. Digamos que você queira verificar se uma cidade está superotimizada e que sua medição constata que, se o tráfego aumentar em 10 mil carros, o tempo de viagem aumentará em dez minutos. Porém, se o fluxo de veículos aumentar em outros 10 mil carros, o tempo de viagem agora se estenderá por trinta minutos adicionais. Esse acelerado incremento do tempo de tráfego mostra que o trânsito é frágil, que há carros demais, e que é necessário reduzir o tráfego até que o acúmulo acelerado diminua (o acúmulo acelerado, repito, é a concavidade aguda ou o efeito de convexidade negativo).
+Da mesma maneira, os déficits governamentais são particularmente côncavos a mudanças nas condições econômicas. Cada desvio adicional, digamos, na taxa de desemprego — principalmente quando o governo tem dívidas —, agrava ainda mais os déficits. E a alavancagem financeira de uma empresa tem o mesmo efeito: é preciso pedir emprestado um volume cada vez maior de dinheiro para obter o mesmo resultado. Exatamente como em uma pirâmide financeira.
+O mesmo vale para a alavancagem operacional por parte de uma empresa frágil. Se as vendas aumentassem 10%, então os lucros aumentariam menos do que diminuiriam se as vendas caíssem 10%.
+Essa foi, de certo modo, a técnica que usei intuitivamente para declarar que a Empresa Altamente Respeitada Fannie Mae estava a caminho do cemitério — e a partir disso foi fácil produzir uma regra prática geral. Agora, tínhamos uma métrica simples com a chancela do
+FMI
+. Ela parece simples, simples demais, e por isso
+a reação inicial dos “especialistas” foi decretar que era “trivial” (isso foi dito por pessoas que visivelmente nunca haviam detectado esses riscos — acadêmicos e analistas quantitativos desprezam o que conseguem compreender com muita facilidade e ficam irritados com o que não pensaram por conta própria).
+De acordo com o maravilhoso princípio de que o indivíduo deve usar a estupidez das pessoas para se divertir, convidei meu amigo Raphael Douady para colaborar na expressão dessa ideia simples, usando as derivações matemáticas mais opacas, com teoremas incompreensíveis que levariam metade de um dia para ser entendidos (por um profissional). Ao longo de quase duas décadas, Raphael, Bruno Dupire e eu estivemos envolvidos em um debate contínuo sobre como tudo que acarreta risco — tudo — pode ser visto com muito mais rigor e clareza do ponto de vista de um profissional do mercado de opções. Raphael e eu conseguimos provar o vínculo entre a não linearidade, a aversão à volatilidade e a fragilidade. Foi demonstrado que, se a pessoa pode expressar algo simples de forma complicada, com teoremas complexos, mesmo que essas equações complicadas não resultem em nenhum grande ganho de rigor, ela leva a ideia muito a sério. Todas as reações que obtivemos foram positivas, e, a partir dali, começaram a nos dizer que aquela simples heurística de detecção era “inteligente” (as mesmas pessoas que a haviam julgado trivial). O único problema é que a matemática vicia.
+A ideia do erro dos modelos positivo e negativo
+Agora, o que acredito ser minha verdadeira especialidade: o erro dos modelos.
+Quando eu estava no ramo das transações comerciais, costumava cometer muitos erros de execução. Você compra mil unidades e, no dia seguinte, descobre que, na verdade, comprou 2 mil. Se nesse meio-tempo o preço subir, você teve um lucro considerável. Caso contrário, seu prejuízo é grande. Então, esses erros são, a longo prazo, neutros em seus efeitos, uma vez que, como uma faca de dois gumes, podem afetar você em ambos os sentidos. Eles aumentam a variância, mas não afetam demais seus negócios. Eles não têm unilateralidade. E podem ser mantidos sob controle graças aos limites de tamanho — você faz várias pequenas transações, então os erros permanecem pequenos. E, no fim do ano, geralmente os erros “se dissolvem”, como se diz.
+Entretanto, não é o que acontece com a maioria das coisas que construímos, e com os erros relacionados a coisas frágeis, na presença de efeitos de convexidade negativos. Essa classe de erros tem um resultado de mão única, ou seja, negativo, e tende a fazer com que os aviões pousem com atraso, e não com antecedência. As guerras tendem a ficar piores, em vez de melhorar. Como vimos no caso do tráfego, as variações (agora chamadas de distúrbios) tendem a aumentar o tempo de viagem entre o bairro londrino de South Kensington e a praça Piccadilly Circus, nunca a reduzi-lo. Algumas coisas, como o fluxo de veículos, raramente passam por algo equivalente a distúrbios positivos.
+Essa unilateralidade traz ao mesmo tempo uma subestimação da aleatoriedade e uma subestimação dos danos, uma vez que um indivíduo está mais exposto aos danos do que aos benefícios oriundos do erro. Se no longo prazo tivermos a mesma variação na fonte de aleatoriedade em ambos os sentidos, os danos
+sobrepujarão, com grande margem de diferença, os benefícios.
+Assim — e esta é a chave para a Tríade —, podemos classificar as coisas por meio de três distinções simples: coisas que, a longo prazo, gostam de distúrbios (ou erros); coisas que são neutras aos distúrbios; e aquelas que antipatizam com eles. A essa altura, já vimos que a evolução gosta dos distúrbios. Vimos que as descobertas gostam dos distúrbios. Algumas previsões são prejudicadas pela incerteza — e, como o tempo de viagem, é necessário um amortecedor de segurança. As empresas aéreas descobriram como fazer isso, mas não os governos, quando calculam os déficits.
+Esse método é muito genérico. Eu o usei até mesmo com os cálculos ao estilo de Fukushima e constatei o quanto seu cálculo de pequenas probabilidades era frágil — na verdade, todas as probabilidades pequenas tendem a ser muito frágeis aos erros, pois uma pequena mudança nos pressupostos pode fazer a probabilidade aumentar drasticamente, de uma em 1 milhão até uma em cem. Com efeito, uma subestimação da ordem de 10 mil vezes.
+Por fim, esse método pode nos mostrar o ponto em que a matemática dos modelos econômicos é uma fraude — quais modelos são frágeis e quais não são. Faça apenas uma pequena alteração nas premissas, observe o tamanho do efeito e veja se há acúmulo acelerado desse efeito. O acúmulo acelerado implica — como aconteceu com a Fannie Mae — que aquele que confiar no modelo explodirá em decorrência dos efeitos Cisne Negro.
+Molto facile
+. Uma metodologia detalhada para detectar quais resultados são espúrios na economia — junto com uma discussão acerca das pequenas probabilidades — é fornecida no apêndice. O que posso dizer, por
+ora, é que muito do que é ensinado em economia contendo equações, assim como a econometria, deveria ser imediatamente jogado no lixo — o que explica por que a economia é, em linhas gerais, uma profissão charlatanesca. Fragilistas,
+semper fragilisti
+!
+COMO PERDER UMA AVÓ
+A seguir, explicarei o seguinte efeito da não linearidade: condições sob as quais a média — o efeito de primeira ordem — não tem importância. Como um primeiro passo antes de entrar no funcionamento da pedra filosofal.
+Como diz o ditado:
+Nunca atravesse um rio se ele tiver em média 1,20 metro de profundidade.
+Você acaba de ser informado de que sua avó passará as próximas duas horas a uma temperatura média muito agradável de 21
+o
+C. Ótimo, você pensa, já que essa é a temperatura ideal para as avós. Como você cursou uma faculdade de economia e administração de empresas, é o tipo de pessoa que analisa o “quadro geral” e se dá por satisfeito com informações sumárias.
+Mas há um segundo conjunto de informações. Sua avó passará a primeira hora a –18
+o
+C, e a segunda hora a 60
+o
+C, até chegar a uma média muito agradável, de clima mediterrâneo, de 21
+o
+C. Então, é muito provável que você vai ficar sem avó, mas com um funeral e, quem sabe, uma herança.
+Evidentemente, mudanças de temperatura tornam-se cada vez mais prejudiciais quanto mais se desviam dos 21
+o
+C. Como se vê, o segundo conjunto de informações,
+a variabilidade, mostrou-se mais importante do que o primeiro. A noção de média não tem relevância alguma quando se é frágil às variações — a dispersão em possíveis resultados térmicos é aqui muito mais importante. Sua avó é frágil às variações de temperatura, à volatilidade do clima. Vamos chamar esse segundo conjunto de informações de
+efeito de segunda ordem
+, ou, em termos mais precisos, de
+efeito de convexidade
+.
+Aqui, leve em conta que, embora a noção de média possa ser uma boa simplificação, também pode ser uma cama de Procusto. A informação de que a temperatura média é de 21
+o
+C não simplifica a situação para sua avó. É informação espremida em uma cama de Procusto — isto é, necessariamente, feita por modeladores científicos, uma vez que um modelo é,
+por sua própria natureza
+, uma simplificação. Você simplesmente não quer que a simplificação distorça a situação a ponto de ser danosa.
+A figura 16 mostra a fragilidade da saúde da avó às variações. Se no eixo vertical eu indicar a saúde dela, e no vertical a temperatura, observo uma forma que se curva para dentro — uma forma “côncava”, ou efeito de convexidade
+negativo
+.
+Se a resposta da avó fosse “linear” (sem curva, uma linha reta), então os danos de uma temperatura inferior a 21
+o
+C seriam contrabalançados pelos benefícios da temperatura superior a essa. E o fato é que a saúde da avó tem de estar limitada a um nível máximo, caso contrário ela continuaria melhorando.
+FIGURA 16.
+Megafragilidade. A saúde como uma função da temperatura curva-se para dentro. Uma combinação entre 0
+o
+C e 60
+o
+C é pior para a saúde de sua avó do que apenas 21
+o
+C. Na verdade, quase
+todas
+as combinações tendo como média 21
+o
+C são piores do que apenas 21
+o
+C.
+2
+O gráfico mostra a concavidade ou os efeitos de convexidade negativos — curvas para dentro.
+Tenha isso em mente por ora, enquanto avançamos rapidamente para os atributos mais gerais; no caso da resposta de saúde da avó à temperatura: (a) existe uma não linearidade (a resposta não é uma linha reta, não é “linear”), (b) ela se curva, e bastante, para dentro, e, por fim, (c) quanto mais não linear a resposta, menos relevante a média, e mais relevante a estabilidade em torno dessa média.
+AGORA, A PEDRA FILOSOFAL
+3
+Grande parte do pensamento medieval empenhou-se em encontrar a pedra filosofal. É sempre bom lembrar que a química é filha da alquimia, boa parte da qual consistia em analisar os poderes químicos das substâncias. Os principais esforços giravam em torno
+de criar valor por meio da transformação de metais em ouro, pelo método da
+transmutação
+. A substância necessária era chamada de pedra filosofal —
+lapis philosophorum
+. Muita gente acreditou nisso, uma lista que inclui estudiosos como Alberto Magno, Isaac Newton e Roger Bacon, além de grandes pensadores que não eram exatamente estudiosos eruditos, caso de Paracelso.
+Não é de pouca monta o fato de que a transmutação tenha sido chamada de
+Magnus Opus
+, a grande obra (a maior e melhor de todas). Realmente acredito que a operação que discutirei — tomando por base algumas propriedades de opcionalidade — é o mais próximo possível que conseguimos chegar da pedra filosofal.
+O apontamento a seguir nos permitiria compreender:
+(a) A gravidade do problema da fusão (confundir o preço do petróleo com geopolítica, ou confundir uma aposta lucrativa com uma boa previsão — e não a convexidade das compensações e da opcionalidade).
+(b) Por que qualquer coisa com opcionalidade tem uma vantagem a longo prazo — e como medi-la.
+(c) Uma sutil propriedade adicional, chamada de desigualdade de Jensen.
+Lembre-se de nosso exemplo do tráfego no capítulo 18 — 90 mil carros em uma hora, e, então, na hora seguinte, 110 mil carros, em uma média de 100 mil veículos, resultando em um trânsito medonho. Por outro lado, supondo que tenhamos 100 mil carros durante duas horas, o fluxo de carros será tranquilo, e o tempo de tráfego, breve.
+O número de carros é a
+coisa
+, uma variável; o tempo de tráfego é a
+função da coisa
+. O comportamento da
+função
+é
+tal que, como dissemos, “não é a mesma coisa”. Podemos ver aqui que a
+função da coisa
+se torna diferente da
+coisa
+sob não linearidades.
+(a) Quanto mais não linear, mais a
+função da coisa
+dissocia-se da
+coisa
+. Se o trânsito fosse linear, então não haveria diferença alguma no tempo de tráfego entre estas duas situações: 90 mil carros, depois 110 mil carros de um lado, ou 100 mil carros de outro.
+(b) Quanto mais volátil a
+coisa
+— quanto maior a incerteza —, mais a
+função
+dissocia-se da
+coisa
+. Consideremos novamente o número médio de carros. A função (tempo de viagem) depende mais da volatilidade em torno da média. As coisas se deterioram se houver disparidade na distribuição. Para a mesma média, é preferível ter 100 mil carros em ambos os períodos; 80 mil e depois 120 mil seriam ainda pior do que 90 mil e 110 mil.
+(c) Se a função for convexa (antifrágil), então a média da função
+da coisa
+será maior do que a função da média da
+coisa
+. Quando a função for côncava (frágil), é o contrário.
+Como um exemplo de (c), que é uma versão mais complicada do viés, suponha que a função em questão seja a função quadrática (multiplicar um número por si mesmo). Trata-se de uma função convexa. Imagine um dado convencional (com seis lados) e considere uma compensação igual ao número em que ele cair, ou seja, paga-se ao indivíduo um número igual ao que o dado mostrar — 1 se cair no 1, 2, se cair no 2, até 6, se o dado cair no 6. O quadrado da compensação (média) esperada será, então (1 + 2 + 3 + 4 + 5 + 6 dividido por 6)
+2
+, igual a 3,5
+2
+; aqui, 12,25. Portanto,
+a função da média
+é igual a 12,25.
+Mas a média da função é a seguinte. Considere o quadrado de cada compensação, 1
+2
++ 2
+2
++ 3
+2
++ 4
+2
++ 5
+2
++ 6
+2
+dividido por 6, ou seja, a compensação quadrática média, e vemos que a
+média da função
+é igual a 15,17.
+Dessa maneira, uma vez que a quadrática é uma função convexa, a média da compensação elevada ao quadrado é maior do que o quadrado da compensação média. A diferença, aqui, entre 15,17 e 12,25 é o que chamo de benefício oculto da antifragilidade — neste caso, uma “margem” de 24%.
+Há dois vieses: um efeito de convexidade elementar, que leva ao erro de confundir as propriedades da média de algo (neste caso, 3,5) com aquelas de uma função (convexa) da coisa (aqui, 15,17), e o segundo, mais intrincado, que é confundir a média de uma função com a função de uma média, neste caso, 15,17 com 12,25. Esta última representa a opcionalidade.
+Alguém com uma compensação linear precisa estar certo mais de 50% das vezes. Alguém com uma compensação convexa, muito menos. O benefício oculto da antifragilidade é que você pode fazer suposições piores do que o acaso, e, ainda assim, ter um desempenho excepcional. Aí está o poder da opcionalidade — a
+função da coisa
+é muito convexa; portanto, você pode estar errado e, ainda assim, se dar bem — quanto mais incerteza, melhor.
+Isso explica minha afirmação de que a pessoa pode ser ignorante e antifrágil, e, ainda assim, ser bem-sucedida.
+Esse “viés de convexidade” oculto resulta de uma propriedade matemática chamada desigualdade de Jensen. É isso que falta ao costumeiro discurso sobre inovações. Quem ignora o viés de convexidade deixa passar despercebida uma parte do que faz girar o mundo não linear. E o fato é que essa ideia não está presente nas narrativas. Desculpe-me.
+4
+Como transformar ouro em lama: o inverso da pedra filosofal
+Vamos levar em conta o mesmo exemplo de antes, usando como função a raiz quadrada (o exato oposto da quadrática, que é côncava, mas muito menos côncava do que a função quadrática é convexa).
+A raiz quadrada da compensação (média) esperada é então
+√
+(1 + 2 + 3 + 4 + 5 + 6 dividido por 6), igual a
+√
+3,5, aqui, 1,87. A
+função da média
+é igual a 1,87.
+Mas a média da função é a seguinte. Pegue a raiz quadrada de cada compensação (
+√
+1 +
+√
+2 +
+√
+3 +
+√
+4 +
+√
+5 +
+√
+6), divida por 6, ou seja, a média da raiz quadrada da compensação, e você descobrirá que
+a média da função
+é igual a 1,80.
+A diferença é chamada de “viés de convexidade negativo” (ou, se você é purista, “viés de concavidade”). O dano oculto da fragilidade é que você precisa ser muito, muito melhor do que a aleatoriedade em sua previsão, e saber para onde está indo, apenas para contrabalançar o efeito negativo.
+Deixe-me sintetizar o argumento: se você tem assimetrias favoráveis, ou convexidade positiva, as opções sendo um caso particular, então a longo prazo você será razoavelmente bem-sucedido, superando-se em um desempenho acima da média na presença de incerteza. Quanto mais incerteza, mais espaço para a opcionalidade entrar em cena e surtir efeito, e melhor será nosso desempenho. Essa propriedade é essencial na vida.
+1
+. O método não requer um bom modelo para a medição de riscos. Uma régua, por exemplo. Você sabe que é o instrumento errado. Ela não será
+capaz de medir a altura de uma criança. Mas vai mostrar se a criança está crescendo. Na verdade, o erro com que você se depara acerca da taxa de crescimento da criança é muitíssimo menor do que o erro que você obteria medindo a altura da criança. O mesmo vale para uma balança: por mais defeituosa que seja, ela quase sempre será capaz de indicar se você está ganhando peso — portanto, pare de culpá-la.
+A convexidade diz respeito ao acúmulo acelerado. A coisa extraordinária sobre a mensuração dos efeitos de convexidade para detectar os erros do modelo é que, embora o modelo utilizado para o cálculo esteja errado, ele pode dizer se uma entidade é frágil e o quanto é frágil. Assim como acontece com a balança defeituosa, estamos à procura apenas de efeitos de segunda ordem.
+2
+. Estou simplificando um pouco. Pode haver uma variação em torno de 21
+o
+C em que a avó talvez se sinta melhor do que apenas em 21
+o
+C, mas preferi omitir essa nuance. Na verdade, os seres humanos mais jovens são antifrágeis às variações térmicas, até certo ponto, beneficiando-se com alguma variabilidade, e depois, com o passar dos anos, perdem essa antifragilidade, por causa da idade (ou do desuso, já que suspeito que o conforto térmico envelhece as pessoas e as torna frágeis).
+3
+. Lembro ao leitor que esta seção é técnica e pode ser pulada.
+4
+. A avó se dá melhor em 21
+o
+C do que em uma média de 21
+o
+C, com uma hora a 0
+o
+C e outra a 60
+o
+C. Quanto maior a dispersão em torno da média, mais danos ela sofrerá. Vejamos o efeito contraintuitivo em relação a
+x
+e à função de
+x
+,
+f
+(
+x
+). Vamos representar a saúde da avó como
+f
+(
+x
+), em que
+x
+é a temperatura. Temos uma função da temperatura média,
+f
+{(0 + 60)/2}, mostrando a avó em excelente estado. Mas {
+f
+(o) +
+f
+(60)}/2 nos deixa com uma avó morta em
+f
+(0) e uma avó morta em
+f
+(60), para uma “média” de avó morta. Podemos ver uma explicação sobre a afirmação de que as propriedades de
+f
+(
+x
+) e as de
+x
+dissociam-se umas das outras quando
+f
+(
+x
+) é não linear. A média de
+f
+(
+x
+) é diferente de
+f
+(média de
+x
+).

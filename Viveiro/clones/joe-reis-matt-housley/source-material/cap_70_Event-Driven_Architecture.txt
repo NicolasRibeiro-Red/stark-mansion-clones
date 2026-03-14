@@ -1,0 +1,42 @@
+# Event-Driven Architecture
+
+Paginas: 120-120
+
+multitenant, although this multitenancy occurs at various grains. For example, a
+cloud compute instance is usually on a shared server, but the VM itself provides
+some degree of isolation. Object storage is a multitenant system, but cloud vendors
+guarantee security and isolation so long as customers configure their permissions
+correctly.
+Engineers frequently need to make decisions about multitenancy at a much smaller
+scale. For example, do multiple departments in a large company share the same data
+warehouse? Does the organization share data for multiple large customers within the
+same table?
+We have two factors to consider in multitenancy: performance and security. With
+multiple large tenants within a cloud system, will the system support consistent
+performance for all tenants, or will there be a noisy neighbor problem? (That is,
+will high usage from one tenant degrade performance for other tenants?) Regarding
+security, data from different tenants must be properly isolated. When a company has
+multiple external customer tenants, these tenants should not be aware of one another,
+and engineers must prevent data leakage. Strategies for data isolation vary by system.
+For instance, it is often perfectly acceptable to use multitenant tables and isolate
+data through views. However, you must make certain that these views cannot leak
+data. Read vendor or project documentation to understand appropriate strategies and
+risks.
+Event-Driven Architecture
+Your business is rarely static. Things often happen in your business, such as getting
+a new customer, a new order from a customer, or an order for a product or service.
+These are all examples of events that are broadly defined as something that happened,
+typically a change in the state of something. For example, a new order might be
+created by a customer, or a customer might later make an update to this order.
+An event-driven workflow (Figure 3-8) encompasses the ability to create, update,
+and asynchronously move events across various parts of the data engineering lifecy‐
+cle. This workflow boils down to three main areas: event production, routing, and
+consumption. An event must be produced and routed to something that consumes
+it without tightly coupled dependencies among the producer, event router, and
+consumer.
+Figure 3-8. In an event-driven workflow, an event is produced, routed, and then
+consumed
+Major Architecture Concepts
+|
+95
+

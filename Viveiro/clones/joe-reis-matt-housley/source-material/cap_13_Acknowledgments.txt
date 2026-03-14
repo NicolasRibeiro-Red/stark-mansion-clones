@@ -1,0 +1,86 @@
+# Acknowledgments
+
+Paginas: 23-25
+
+How to Contact Us
+Please address comments and questions concerning this book to the publisher:
+O’Reilly Media, Inc.
+1005 Gravenstein Highway North
+Sebastopol, CA 95472
+800-998-9938 (in the United States or Canada)
+707-829-0515 (international or local)
+707-829-0104 (fax)
+We have a web page for this book, where we list errata, examples, and any additional
+information. You can access this page at https://oreil.ly/fundamentals-of-data.
+Email bookquestions@oreilly.com to comment or ask technical questions about this
+book.
+For news and information about our books and courses, visit https://oreilly.com.
+Find us on LinkedIn: https://linkedin.com/company/oreilly-media
+Follow us on Twitter: https://twitter.com/oreillymedia
+Watch us on YouTube: https://www.youtube.com/oreillymedia
+Acknowledgments
+When we started writing this book, we were warned by many people that we faced a
+hard task. A book like this has a lot of moving parts, and due to its comprehensive
+view of the field of data engineering, it required a ton of research, interviews, discus‐
+sions, and deep thinking. We won’t claim to have captured every nuance of data
+engineering, but we hope that the results resonate with you. Numerous individuals
+contributed to our efforts, and we’re grateful for the support we received from many
+experts.
+First, thanks to our amazing crew of technical reviewers. They slogged through many
+readings and gave invaluable (and often ruthlessly blunt) feedback. This book would
+be a fraction of itself without their efforts. In no particular order, we give endless
+thanks to Bill Inmon, Andy Petrella, Matt Sharp, Tod Hanseman, Chris Tabb, Danny
+Lebzyon, Martin Kleppman, Scott Lorimor, Nick Schrock, Lisa Steckman, Veronika
+Durgin, and Alex Woolford.
+Second, we’ve had a unique opportunity to talk with the leading experts in the field
+of data on our live shows, podcasts, meetups, and endless private calls. Their ideas
+helped shape our book. There are too many people to name individually, but we’d
+like to give shoutouts to Jordan Tigani, Zhamak Dehghani, Ananth Packkildurai,
+xviii
+|
+Preface
+
+Shruti Bhat, Eric Tschetter, Benn Stancil, Kevin Hu, Michael Rogove, Ryan Wright,
+Adi Polak, Shinji Kim, Andreas Kretz, Egor Gryaznov, Chad Sanderson, Julie Price,
+Matt Turck, Monica Rogati, Mars Lan, Pardhu Gunnam, Brian Suk, Barr Moses, Lior
+Gavish, Bruno Aziza, Gian Merlino, DeVaris Brown, Todd Beauchene, Tudor Girba,
+Scott Taylor, Ori Rafael, Lee Edwards, Bryan Offutt, Ollie Hughes, Gilbert Eijkelen‐
+boom, Chris Bergh, Fabiana Clemente, Andreas Kretz, Ori Reshef, Nick Singh, Mark
+Balkenende, Kenten Danas, Brian Olsen, Lior Gavish, Rhaghu Murthy, Greg Coquillo,
+David Aponte, Demetrios Brinkmann, Sarah Catanzaro, Michel Tricot, Levi Davis,
+Ted Walker, Carlos Kemeny, Josh Benamram, Chanin Nantasenamat, George Firican,
+Jordan Goldmeir, Minhaaj Rehmam, Luigi Patruno, Vin Vashista, Danny Ma, Jesse
+Anderson, Alessya Visnjic, Vishal Singh, Dave Langer, Roy Hasson, Todd Odess, Che
+Sharma, Scott Breitenother, Ben Taylor, Thom Ives, John Thompson, Brent Dykes,
+Josh Tobin, Mark Kosiba, Tyler Pugliese, Douwe Maan, Martin Traverso, Curtis
+Kowalski, Bob Davis, Koo Ping Shung, Ed Chenard, Matt Sciorma, Tyler Folkman,
+Jeff Baird, Tejas Manohar, Paul Singman, Kevin Stumpf, Willem Pineaar, and Michael
+Del Balso from Tecton, Emma Dahl, Harpreet Sahota, Ken Jee, Scott Taylor, Kate
+Strachnyi, Kristen Kehrer, Taylor Miller, Abe Gong, Ben Castleton, Ben Rogojan,
+David Mertz, Emmanuel Raj, Andrew Jones, Avery Smith, Brock Cooper, Jeff Larson,
+Jon King, Holden Ackerman, Miriah Peterson, Felipe Hoffa, David Gonzalez, Richard
+Wellman, Susan Walsh, Ravit Jain, Lauren Balik, Mikiko Bazeley, Mark Freeman,
+Mike Wimmer, Alexey Shchedrin, Mary Clair Thompson, Julie Burroughs, Jason
+Pedley, Freddy Drennan, Jason Pedley, Kelly and Matt Phillipps, Brian Campbell,
+Faris Chebib, Dylan Gregerson, Ken Myers, Jake Carter, Seth Paul, Ethan Aaron, and
+many others.
+If you’re not mentioned specifically, don’t take it personally. You know who you are.
+Let us know and we’ll get you on the next edition.
+We’d also like to thank the Ternary Data team (Colleen McAuley, Maike Wells, Patrick
+Dahl, Aaron Hunsaker, and others), our students, and the countless people around
+the world who’ve supported us. It’s a great reminder the world is a very small place.
+Working with the O’Reilly crew was amazing! Special thanks to Jess Haberman
+for having confidence in us during the book proposal process, our amazing and
+extremely patient development editors Nicole Taché and Michele Cronin for invalua‐
+ble editing, feedback, and support. Thank you also to the superb production team at
+O’Reilly (Greg and crew).
+Joe would like to thank his family—Cassie, Milo, and Ethan—for letting him write a
+book. They had to endure a ton, and Joe promises to never write a book again. ;)
+Matt would like to thank his friends and family for their enduring patience and
+support. He’s still hopeful that Seneca will deign to give a five-star review after a good
+deal of toil and missed family time around the holidays.
+Preface
+|
+xix
+
+

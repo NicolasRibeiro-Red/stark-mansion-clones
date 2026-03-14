@@ -1,0 +1,51 @@
+# Principle 1: Choose Common Components Wisely
+
+Paginas: 103-103
+
+• Practice defense in depth.
+•
+• Always be architecting.
+•
+We advise you to carefully study both frameworks, identify valuable ideas, and deter‐
+mine points of disagreement. We’d like to expand or elaborate on these pillars with
+these principles of data engineering architecture:
+1. Choose common components wisely.
+1.
+2. Plan for failure.
+2.
+3. Architect for scalability.
+3.
+4. Architecture is leadership.
+4.
+5. Always be architecting.
+5.
+6. Build loosely coupled systems.
+6.
+7. Make reversible decisions.
+7.
+8. Prioritize security.
+8.
+9. Embrace FinOps.
+9.
+Principle 1: Choose Common Components Wisely
+One of the primary jobs of a data engineer is to choose common components and
+practices that can be used widely across an organization. When architects choose
+well and lead effectively, common components become a fabric facilitating team
+collaboration and breaking down silos. Common components enable agility within
+and across teams in conjunction with shared knowledge and skills.
+Common components can be anything that has broad applicability within an orga‐
+nization. Common components include object storage, version-control systems,
+observability, monitoring and orchestration systems, and processing engines. Com‐
+mon components should be accessible to everyone with an appropriate use case,
+and teams are encouraged to rely on common components already in use rather
+than reinventing the wheel. Common components must support robust permissions
+and security to enable sharing of assets among teams while preventing unauthorized
+access.
+Cloud platforms are an ideal place to adopt common components. For example,
+compute and storage separation in cloud data systems allows users to access a shared
+storage layer (most commonly object storage) using specialized tools to access and
+query the data needed for specific use cases.
+78
+|
+Chapter 3: Designing Good Data Architecture
+

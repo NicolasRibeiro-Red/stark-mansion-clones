@@ -1,0 +1,347 @@
+15. A história escrita pelos perdedores
+Talvez os pássaros ouçam — Combinando burrice com sabedoria, e não o contrário — Em que procuramos o vetor da descoberta — Uma defesa de tentativa e erro
+Devido a uma enxurrada de vieses, historiadores estão propensos a epifenômenos e outras ilusões de causa e efeito. Para entender a história da tecnologia, precisamos de hipóteses e relatos de não historiadores, ou de historiadores com o estado de espírito correto, que tenham desenvolvido suas ideias observando a formação das tecnologias, em vez de apenas ler hipóteses e relatos sobre o tema. Mencionei anteriormente a desmistificação que Terence Kealey fez do chamado modelo linear, e afirmei que ele era um cientista com atuação prática.
+1
+Um cientista com experiência prática de laboratório, ou um engenheiro com atuação prática, pode testemunhar a produção na vida real de, digamos, inovações farmacológicas ou do motor a jato, e assim pode evitar deixar-se levar por epifenômenos, a menos que tenha
+sofrido uma lavagem cerebral antes de iniciar sua atuação prática.
+Vi, como testemunha ocular, evidências de resultados que não devem
+nada
+à ciência academicista, mas, sim, a experimentações e improvisos evolutivos que foram mascarados e cuja origem foi dissimuladamente atribuída ao mundo acadêmico.
+TABELA 5 • O EFEITO DE ENSINAR OS PÁSSAROS A VOAR EM VÁRIOS DOMÍNIOS: EXEMPLO DE ATRIBUIÇÃO ERRÔNEA DE RESULTADOS EM LIVROS DIDÁTICOS
+CAMPO
+ORIGEM E DESENVOLVIMENTO, CONFORME SÃO VENDIDOS NO MERCADO PELAS PALESTRAS AOS PÁSSAROS
+ORIGEM E DESENVOLVIMENTO REAIS
+Motor a jato
+físicos (arrasados por Scranton)
+engenheiros improvisadores sem compreensão de “por que a coisa funciona”
+Arquitetura
+geometria euclidiana, matemática (arrasadas por Beaujouan)
+heurística e receitas secretas (guildas)
+Cibernética
+Norbert Wiener (arrasado por Mindell)
+programadores “estilo-wiki”
+Fórmulas de derivativos
+Black, Scholes e o fragilista Merton (arrasados por Haug e Taleb)
+traders
+e profissionais com atuação prática, Regnauld, Bachelier, Thorp
+Medicina
+compreensão biológica (arrasada por diversos médicos)
+sorte, tentativa e erro, efeitos colaterais de outros medicamentos ou às vezes envenenamento (gás mostarda)
+Revolução Industrial
+crescimento do conhecimento, Revolução Científica (arrasados por Kealey)
+aventureiros, diletantes
+Tecnologia
+ciência formal
+tecnologia, empresas
+Muito antes de eu saber dos resultados da tabela 5, de outros estudiosos desmistificando o efeito de ensinar os pássaros a voar, o problema começou a chamar minha atenção, conforme relato a seguir, por volta de 1998. Eu estava sentado em um restaurante de Chicago com o
+falecido Fred A., que era economista, mas apesar disso um ponderado e verdadeiro cavalheiro. Ele era o economista-chefe de uma das Bolsas de Valores locais e tinha de aconselhar seus
+traders
+a respeito de novos e complicados produtos financeiros, sobre os quais queria a minha opinião, já que eu tinha me especializado nisso e publicara uma espécie de manual sobre as chamadas “opções exóticas”, que eram complicadíssimas. Ele constatou que a demanda por esses produtos seria muito grande, mas se perguntava “de que modo os
+traders
+conseguiriam lidar com aquelas complexas opções exóticas se não compreendiam o teorema de Girsanov”. Esse teorema é algo matematicamente intrincado, e que na época apenas um número muito restrito de pessoas conhecia. E estávamos falando sobre os operadores de pregão, que — como vimos no último capítulo — certamente confundiriam o nome Girsanov com alguma marca de vodca. Os
+traders
+, em grande parte incultos, seriam considerados supereruditos se conseguissem soletrar corretamente seu endereço, embora o professor estivesse de fato sob a impressão epifenomênica de que os
+traders
+estudavam matemática para definir o preço de uma opção. De minha parte, eu tinha aprendido — por tentativa e erro e perguntando a pessoas experientes — a lidar com essas complicadas compensações antes mesmo de ouvir falar dos tais teoremas.
+Foi aí que algo me ocorreu. Ninguém se preocupa com o fato de que uma criança que não foi instruída nos vários teoremas de aerodinâmica e que desconhece a maneira de resolver uma equação de movimento talvez seja incapaz de andar de bicicleta. Então, por que ele, o referido economista, não transferia o argumento de um domínio para o outro? Ele não percebia que aqueles
+traders
+de
+Chicago respondiam à oferta e à demanda, pouco mais que isso, enquanto competiam para ganhar uns trocados, sem necessidade nenhuma de conhecer o teorema de Girsanov, exatamente da mesma forma que um vendedor de pistache no
+souk
+de Damasco não precisa resolver equações de equilíbrio geral para definir o preço de seu produto?
+Por um instante, eu me perguntei se estava vivendo em outro planeta ou se o doutorado e a carreira acadêmica do cavalheiro em questão haviam levado a essa cegueira e sua estranha perda de bom senso — ou se as pessoas sem senso prático geralmente conseguem encontrar a energia e o interesse para adquirir um título de doutor no mundo ficcional das equações econômicas. Existe um viés seletivo?
+Suspeitei que algo não estava certo e senti uma enorme empolgação, mas me dei conta de que, para que alguém tivesse condições de me ajudar, teria de ser ao mesmo tempo um profissional com atuação prática e um pesquisador, a prática tendo primazia sobre a pesquisa. Eu conhecia apenas outra pessoa, um
+trader
+convertido em pesquisador, Espen Haug, que devia ter observado o mesmo mecanismo. Como eu, ele obteve seu doutorado
+depois
+de passar algum tempo trabalhando no pregão. Então, imediatamente demos início a uma investigação sobre a origem da fórmula de precificação de opções que estávamos usando: o que as pessoas usavam antes? É graças à fórmula derivada academicamente que temos condições de operar, ou a fórmula nos chegou por meio de algum processo antifrágil de descoberta evolutiva baseado em tentativa e erro, agora expropriada pelos acadêmicos? Eu já tinha uma pista, pois havia trabalhado como
+trader
+no pregão de Chicago e
+observado operadores veteranos que se recusavam a tocar em fórmulas matemáticas, usando heurísticas simples e dizendo: “homens de verdade não usam planilhas”, as “planilhas” sendo as folhas impressas contendo o produto efetivo das complexas fórmulas que saíam dos computadores. Entretanto, essas pessoas haviam sobrevivido. Seus preços eram sofisticados e mais eficazes do que aqueles produzidos pela fórmula, e era óbvio o que vinha primeiro. Por exemplo, os preços contabilizavam o Extremistão e as “caudas grossas”, coisas que as fórmulas-padrão ignoravam.
+Haug tinha alguns interesses que divergiam dos meus: gostava da área de finanças e estava ávido para coletar documentos históricos dos profissionais com atuação prática. Ele se autointitulava “o Colecionador”, epíteto que usava inclusive à guisa de assinatura, enquanto reunia e acumulava livros e artigos sobre a teoria das opções escritos antes da Primeira Guerra Mundial, e a partir disso construímos uma imagem muito precisa do que tinha ocorrido. Para nossa imensa empolgação, obtivemos uma sucessão de evidências de que os
+traders
+eram tremendamente mais sofisticados do que a fórmula. E sua sofisticação precedia a fórmula em, pelo menos, um século. Ela foi conquistada, é claro, por meio da seleção natural, sobrevivência, modelos em que o aprendiz fica sob a tutela de experientes profissionais com atuação prática, além da própria experiência pessoal.
+Traders
+negociam
+→
+traders
+desenvolvem técnicas e produtos
+→
+economistas acadêmicos encontram fórmulas e alegam que os
+traders
+as estão utilizando
+→
+novos
+traders
+acreditam nos acadêmicos
+→
+explosões
+(
+causadas pela fragilidade induzida pela teoria
+)
+Nosso artigo ficou guardado quase sete anos até ser publicado em uma revista acadêmica de economia — até lá, um estranho fenômeno: o texto se tornara um dos artigos mais baixados da história da economia, mas, durante seus primeiros anos, não foi citado por absolutamente ninguém. Ninguém queria jogar lenha na fogueira.
+2
+Os profissionais com atuação prática não escrevem; eles fazem. Os pássaros voam, e as pessoas que dão palestras para eles são as que escrevem a história das aves. Dessa forma, é fácil perceber que, na verdade, a história é escrita pelos perdedores, que têm tempo livre e uma posição acadêmica protegida.
+A maior ironia de todas é que observamos, em primeira mão, como são construídas as narrativas de pensamento, uma vez que tivemos a sorte de testemunhar mais um episódio de escancarada expropriação intelectual. Recebemos um convite para publicar nosso ponto de vista da história — sendo profissionais com atuação prática na compra e venda de opções — na ilustríssima
+Wiley Encyclopedia of Quantitative Finance
+[Enciclopédia Wiley de Finança Quantitativa]. Então, preparamos uma versão de nosso artigo anterior, acrescida de nossas experiências pessoais. Espanto: pegamos em flagrante o editor da seção histórica, um professor do Barnard College, tentando modificar nosso relato. Historiador do pensamento econômico, ele passou a reescrever nosso artigo a fim de minimizar, se não inverter, a mensagem do texto e alterar o vetor da formação do conhecimento. Isso era a história científica em pleno processo de engendramento. Sentado em sua sala no Barnard College, o sujeito agora estava nos impondo o que havíamos visto como
+traders
+— deveríamos ignorar o que tínhamos
+testemunhado com nossos próprios olhos e aplicar a lógica dele.
+Tomei ciência de algumas inversões semelhantes da formação do conhecimento. Por exemplo, em seu livro escrito no fim da década de 1990, Mark Rubinstein, professor Fragilista Altamente Qualificado de Berkeley, atribuiu a publicações escritas por professores de finanças técnicas e heurísticas com as quais nós, profissionais com atuação prática, estávamos extremamente familiarizados (quase sempre de formas mais sofisticadas) desde os anos 1980, quando me envolvi nesse ramo de negócios.
+Não, nós não colocamos teorias em prática. Criamos teorias a partir da prática. Essa era nossa história, e é fácil inferir a partir dela — e de histórias semelhantes — que a confusão é generalizada. A teoria é o rebento da cura, e não o inverso —
+ex cura theoria nascitur
+.
+As evidências estão na nossa cara
+No fim ficou evidente que os engenheiros também costumam ser vilipendiados pelos historiadores.
+Logo após aquele repugnante episódio, apresentei o artigo que havia escrito a quatro mãos com Haug — sobre a ideia de ensinar os pássaros a voar aplicada às finanças — na London School of Economics, em seu seminário de sociologia da ciência. É claro que fui vaiado (mas, àquela altura, já tinha bastante experiência em ser vaiado por economistas). Então, a surpresa: ao término da sessão, os organizadores me informaram de que, exatamente uma semana antes, Phil Scranton, professor da Rutgers, havia apresentado a mesmíssima história. Mas o artigo dele não tratava da fórmula de opções, e sim do motor a jato.
+Scranton demonstrou que temos construído e usado motores a jato de maneira completamente experimental, à base de tentativa e erro, sem que ninguém realmente compreenda a teoria. Os construtores precisavam dos engenheiros originais, que sabiam como ajeitar as coisas para fazer o motor funcionar. A teoria vinha depois, de forma capenga, para satisfazer o intelectual obcecado pelos mais ínfimos pormenores. Mas isso não é o que costumamos ler nas histórias sobre tecnologia: meu filho, que estuda engenharia aeroespacial, não estava ciente disso. Scranton foi elegante e se concentrou em situações em que a inovação é caótica, “diferente dos mais conhecidos enfoques analíticos e sintéticos sobre inovação”, como se estes fossem a norma, o que obviamente não são.
+Procurei outras histórias, e o historiador de tecnologia David Edgerton apresentou-me uma bastante espantosa. Pensamos na cibernética — que nos deu o prefixo “ciber” de ciberespaço — como algo inventado em 1948 por Norbert Wiener. O historiador de engenharia David Mindell desmistificou essa história; ele mostrou que Wiener estava articulando ideias sobre controle de realimentação e computação digital havia muito em prática no mundo da engenharia. No entanto, as pessoas — até mesmo os engenheiros de hoje — têm a ilusão de que devemos esse campo de estudos ao pensamento matemático de Wiener.
+Então me veio à mente a seguinte ideia. Todos nós aprendemos geometria em livros didáticos com base em axiomas, como, digamos,
+Os elementos
+, de Euclides, e tendemos a pensar que é graças a essa aprendizagem que temos, hoje, as belas formas geométricas nas edificações, das casas às catedrais; pensar o contrário seria um
+anátema. Então, imediatamente especulei que os antigos desenvolveram interesse pela geometria de Euclides e de outros matemáticos porque já vinham usando esses métodos, resultado de experimentações e improvisos e conhecimento derivado da experiência; caso contrário, não teriam se dado ao trabalho. Isso é semelhante à história da roda: lembre-se de que a máquina a vapor havia sido descoberta e desenvolvida pelos gregos cerca de dois milênios antes da Revolução Industrial. É que as coisas que são implementadas tendem a querer nascer da prática, e não da teoria.
+Agora, dê uma olhada nos objetos arquitetônicos ao nosso redor: eles parecem muito sofisticados em termos geométricos, das pirâmides às belas catedrais da Europa. Assim, um problema de otários nos faria tender a acreditar que a matemática levou à produção desses belos objetos, com exceções aqui e ali, a exemplo das pirâmides, que precederam a matemática mais formal que tivemos depois de Euclides e de outros teóricos gregos. Alguns fatos: os arquitetos (ou o que à época eram chamados de Mestres de Obras) fiavam-se em heurísticas, métodos empíricos e ferramentas, e quase ninguém sabia nada de matemática (de acordo com o historiador de ciência medieval Guy Beaujouan, antes do século
+XIII
+, não mais do que cinco pessoas em toda a Europa sabiam como realizar uma operação de divisão). Nada de teorema, teorema fajuto. Mas os construtores conseguiam descobrir a resistência dos materiais sem as equações que temos hoje — edificações que, em sua maior parte, ainda estão de pé. Villard de Honnecour, arquiteto francês do século
+XIII
+, documenta, com sua série de desenhos e anotações em picardo (o dialeto da região da Picardia, na França), como as catedrais foram construídas: heurísticas
+experimentais, pequenos artifícios e regras, mais tarde tabulados por Philibert de l’Orme em seus tratados arquitetônicos. Por exemplo, um triângulo era imaginado como a cabeça de um cavalo. A experimentação pode tornar as pessoas muito mais cuidadosas do que as teorias.
+Além disso, estamos absolutamente convictos de que os romanos, engenheiros admiráveis, construíram aquedutos sem nenhum tipo de matemática (os algarismos romanos não faziam da análise quantitativa uma tarefa fácil). De resto, acredito que, se tivessem sido construídos com o auxílio dessas fórmulas, os aquedutos romanos não existiriam mais, já que um evidente efeito colateral da matemática é fazer com que as pessoas fiquem otimistas em excesso e peguem atalhos, causando fragilidade. Basta observar como o novo é cada vez mais perecível que o velho.
+E dê uma olhada no manual de Vitrúvio, o
+Tratado de arquitetura
+, a bíblia dos arquitetos, escrita cerca de trezentos anos depois de
+Os elementos
+, de Euclides. Há pouca geometria formal nesse tratado e, é claro, nenhuma menção a Euclides, mas há principalmente heurísticas, o tipo de conhecimento que vem de um mestre orientando seus aprendizes. (De maneira esclarecedora, o principal resultado matemático que Vitrúvio menciona é o teorema de Pitágoras, espantando-se que o ângulo reto pudesse ser formado “sem os dispositivos do artesão”.) A matemática teve de ficar limitada a enigmas mentais até o Renascimento.
+Ora, não estou dizendo que teorias ou a ciência acadêmica não estejam por trás de algumas tecnologias
+práticas, diretamente derivadas da ciência para seu uso final (e não para algum uso tangencial) — o que o pesquisador Joel Mokyr chama de “base epistêmica”, ou conhecimento proposicional, um tipo de repositório de “conhecimentos” formais que incorpora as descobertas teóricas e empíricas e se torna uma espécie de livro de regras, usado para gerar mais conhecimento e (ele pensa) mais aplicações. Em outras palavras, um conjunto de teorias a partir do qual outras teorias podem ser diretamente extraídas.
+Mas não sejamos otários: seguir o sr. Mokyr faria a pessoa querer estudar geografia econômica para prever as cotações das moedas estrangeiras (eu teria adorado apresentá-lo ao especialista em madeira verde). Embora eu aceite a noção da base epistêmica, o que questiono é o papel que ela de fato desempenhou na história da tecnologia. A evidência de um efeito contundente não existe, e ainda estou esperando que alguém me mostre isso. Mokyr e os defensores dessa perspectiva não fornecem evidências de que isso não seja epifenômico — e tampouco parecem entender as implicações dos efeitos assimétricos. Onde está o papel da opcionalidade nisso?
+Há um conjunto de conhecimentos práticos que foi transmitido de mestres para aprendizes, e transmitido
+apenas
+dessa maneira, com graus necessários como um processo de seleção, ou para tornar a profissão mais respeitável, ou para ajudar aqui e ali, mas não de modo sistemático. E o papel desse conhecimento formal será superestimado precisamente por ser bastante visível.
+É como cozinhar?
+A culinária parece ser o mais perfeito exemplo de
+atividade que depende da opcionalidade. Você acrescenta um ingrediente e tem a opção de manter o resultado se ele estiver de acordo com o paladar de Tony Gordo, ou deixar para lá caso não esteja. Temos, também, a experimentação colaborativa ao estilo
+wiki
+, o que gera algumas receitas. Essas receitas são totalmente derivadas, sem conjecturas sobre a química do paladar das papilas gustativas, sem papel algum para qualquer “base epistêmica” que gere teorias a partir de teorias. Até agora ninguém foi iludido pelo processo. Como Dan Ariely observou certa vez, não podemos fazer a engenharia reversa do sabor da comida observando o rótulo com as informações nutricionais. E podemos observar heurísticas ancestrais em ação: gerações de experimentações e improvisos coletivos resultando na evolução das receitas. As receitas de comida estão embutidas nas culturas. Escolas de culinária são inteiramente baseadas no sistema de mestre e aprendiz.
+Por outro lado, temos a física pura, com teorias usadas para gerar teorias com alguma validação empírica. Aqui, a “base epistêmica” pode desempenhar algum papel relevante. A descoberta do bóson de Higgs é um caso moderno de uma partícula totalmente esperada a partir de derivações teóricas. O mesmo pode ser dito da relatividade de Einstein. (Antes do bóson de Higgs, um espetacular caso de descoberta a partir de um pequeno número de dados exteriores existentes é a dedução da existência do planeta Netuno, inferida pelo astrônomo francês Le Verrier. Ele fez isso com base no cálculo solitário, a partir do comportamento dos planetas circundantes. Quando o planeta foi efetivamente avistado, ele se recusou a olhar, tão certo estava do seu resultado. Essas são exceções, e tendem a ocorrer na física e em
+outros campos que chamo de “lineares”, em que os erros são do Mediocristão, e não do Extremistão.)
+Agora usemos essa ideia de cozinhar como uma plataforma para tentar outras empreitadas: as outras atividades assemelham-se a isso? Se submetêssemos as tecnologias a escrutínio, veríamos que de fato a maioria se assemelha a cozinhar muito mais do que à física, em especial aquelas em domínios complexos.
+Até mesmo a medicina atual continua a ser um modelo de mestre e aprendiz, com alguma ciência teórica no pano de fundo, mas cujo feitio é concebido para se parecer inteiramente com ciência. E se ela abandonasse o modelo de mestre e aprendiz, seria em nome do método “baseado em evidências”, calcado menos em teorias biológicas e mais na catalogação de regularidades empíricas, a fenomenologia que expliquei no capítulo 7. Por que é que a ciência possui esse vaivém e as tecnologias permanecem estáveis?
+Ora, pode-se ver um possível papel da ciência básica, mas não da maneira que se pretende.
+3
+Para um exemplo de uma série de utilizações não previstas, vamos começar com a Fase Um, o computador. A disciplina matemática da combinatória, aqui uma ciência básica, derivada do conhecimento proposicional, levou à construção dos computadores, ou é o que diz a história. (E, claro, para lembrar o leitor da escolha seletiva, precisamos levar em conta o conjunto dos conhecimentos teóricos que foram dar em um beco sem saída.) Mas, a princípio, ninguém tinha ideia alguma do que fazer com aquelas enormes caixas repletas de circuitos, que eram desajeitadas e caras, e cujas aplicações não estavam
+suficientemente difundidas além do gerenciamento de bancos de dados — no mais, só eram boas para processar grandes quantidades de informações. É como se alguém precisasse inventar uma aplicação pelo frisson da tecnologia. As pessoas nascidas na explosão demográfica do pós-Segunda Guerra Mundial se lembrarão daqueles misteriosos cartões perfurados. Depois alguém introduziu o painel de controle no dispositivo de entrada com o auxílio de um monitor, usando um teclado. Isso levou, é claro, ao processamento de texto, e o computador decolou por causa de sua adaptação ao processamento de texto, particularmente com o microcomputador, no início da década de 1980. Era conveniente, mas não mais que isso, até que outra consequência involuntária surgiu para ser acrescida à mistura. Agora a Fase Dois, a internet, que tinha sido projetada como um resiliente dispositivo de rede de comunicação militar, desenvolvido por uma unidade de pesquisa do Departamento de Defesa chamada Darpa,
+4
+e ganhou um boom na época em que Ronald Reagan estava obcecado com os soviéticos. O intuito da internet era dar aos Estados Unidos condições para sobreviver a um ataque militar generalizado. Ótima ideia, mas juntando o computador pessoal
+mais
+a internet, chegamos às redes sociais, aos casamentos desfeitos, ao aumento da nerdice, às chances de uma pessoa pós-soviética com dificuldades sociais de encontrar um parceiro. Tudo isso graças aos dólares iniciais dos contribuintes norte-americanos (ou melhor, graças ao déficit orçamentário) durante a cruzada antissoviética de Reagan.
+Então, até aqui estamos examinando o vetor que aponta para a frente e, em nenhum momento, embora a ciência tenha tido
+alguma
+utilidade ao longo do caminho, uma
+vez que a tecnologia computacional depende da ciência na maior parte de seus aspectos, em nenhum momento a ciência acadêmica serviu para definir a direção do vetor; pelo contrário, prestou-se ao papel de escrava de descobertas casuais em um ambiente opaco, sem que praticamente ninguém, a não ser pessoas que largaram a faculdade e alunos de colégio crescidos demais, tenham se beneficiado ao longo do caminho. O processo permaneceu independente e imprevisível em todas as etapas. E a grande falácia é fazer com que pareça irracional — o irracional está em não ver uma livre opção quando ela nos é dada.
+A história da China talvez seja bastante convincente, sob o prisma das obras de um observador genial, Joseph Needham, que desmistificou crenças ocidentais e decifrou os poderes da ciência chinesa. À medida que a China se tornou um mandarinato governado de cima para baixo (ou seja, um Estado gerenciado por escribas centralizados ao estilo soviético de Harvard, como o Egito havia sido antes), seus protagonistas perderam de alguma forma o interesse pela bricolagem, a avidez por tentativa e erro. Simon Winchester, biógrafo de Needham, cita a descrição que o sinólogo Mark Elvin fez do problema, de que os chineses não tinham, ou melhor, não tinham mais o que ele chamou de “mania europeia de improvisar, experimentar e aprimorar”. Eles contavam com todos os meios para desenvolver um tear mecânico, mas “ninguém tentou” — outro exemplo de conhecimento obstruindo a opcionalidade. Provavelmente, os chineses precisavam de alguém como Steve Jobs — abençoado com a ausência de formação universitária e a dose exata de agressividade no temperamento — para levar os elementos à sua conclusão natural. Como veremos na próxima seção, foi
+precisamente esse tipo de fazedor desinibido que fez a Revolução Industrial acontecer.
+A seguir, examinaremos dois casos: primeiro, a Revolução Industrial e em seguida a medicina. Então, comecemos desmascarando um mito causal sobre a Revolução Industrial, o exagero do papel ocupado pela ciência no processo.
+A Revolução Industrial
+A formação do conhecimento, mesmo que teórico, leva tempo, exige um pouco de tédio e requer a liberdade que resulta de quando o indivíduo tem outra ocupação, assim permitindo que escape da pressão ao estilo jornalístico da moderna e perecível máxima “publique ou pereça” do mundo acadêmico para produzir conhecimento cosmético, de forma muito parecida com os relógios de pulso falsificados vendidos em Chinatown, em Nova York, o tipo de produto que sabemos que são falsos, embora se passem por autênticos. No século
+XIX
+e no início do
+XX
+havia duas fontes principais de conhecimento técnico e inovador: a dos diletantes e a dos párocos ingleses, ambos, de modo geral, em uma situação
+barbell
+.
+Uma quantidade incrível de obras foi produzida pelo trabalho de párocos e vigários ingleses, desprovidos de preocupações, sem erudição, com uma casa grande ou pelo menos confortável, empregados domésticos, um abastecido estoque de chá e bolinhos com nata fresca, e tempo livre em abundância. E, é claro, opcionalidade. Ou seja, o amador esclarecido. Os reverendos Thomas Bayes (o da probabilidade bayesiana) e Thomas Malthus (o da superpopulação malthusiana) são os mais famosos. Mas há muitas outras surpresas, catalogadas no livro
+Em casa
+, de Bill Bryson, no qual o autor encontrou dez vezes mais vigários e clérigos que deixaram seus traços registrados para a posteridade do que cientistas, físicos, economistas e, até mesmo, inventores. Além dos dois gigantes já mencionados, enumero, aleatoriamente, contribuições dos vigários de paróquias rurais: o reverendo Edmund Cartwright inventou o tear mecânico, contribuindo para a Revolução Industrial; o reverendo Jack Russell criou a raça de cães terrier; o reverendo William Buckland foi a primeira autoridade em dinossauros; o reverendo William Greenwell inventou a arqueologia moderna; o reverendo Octavius Pickard-Cambridge foi o mais destacado especialista em aranhas; o reverendo George Garrett inventou o submarino; o reverendo Gilbert White foi o mais respeitado naturalista de sua época; o reverendo M
+. J.
+Berkeley foi o maior especialista em fungos; o reverendo John Michell ajudou a descobrir Urano; e muitos outros. Note que, assim como no episódio que documentamos com Haug, essa ciência organizada tende a omitir o que “não foi feito aqui”, de modo que a lista de contribuições visíveis de diletantes e fazedores é certamente menor do que a real, já que alguns acadêmicos podem ter se apropriado das inovações de seus antecessores.
+5
+Permita-me ser poético por um momento. A erudição autônoma tem uma dimensão estética. Durante muito tempo, mantive na parede de minha sala de estudos a seguinte citação de Jacques Le Goff, o grande medievalista francês, que acredita que o Renascimento resultou do trabalho dos humanistas independentes, e não dos acadêmicos profissionais. Ele examinou o impressionante contraste em pinturas, desenhos e
+músicas da época, que comparam os membros das universidades medievais aos humanistas:
+Um é o professor sitiado por amontoados de estudantes. O outro é o estudioso solitário, sentado na tranquilidade e na privacidade de seus aposentos, à vontade na espaçosa e confortável sala de estudos, onde seus pensamentos podem movimentar-se livremente. Aqui encontramos o tumulto das escolas, a poeira das salas de aula, a indiferença à beleza em locais de trabalho coletivo,
+Lá, tudo é ordem e beleza,
+Luxe, calme et volupté.
+Quanto ao diletante em geral, as evidências mostram que ele (junto com o ávido aventureiro e o investidor privado) está na origem da Revolução Industrial. Kealey, que, conforme mencionamos, não era historiador e, felizmente, não foi economista, coloca em dúvida, em
+The Economic Laws of Scientific Research
+[As leis econômicas da pesquisa científica], o “modelo linear” convencional (isto é, a crença de que a ciência acadêmica leva à tecnologia) — para ele, as universidades prosperaram como uma consequência da riqueza nacional, e não o contrário. Ele foi mais longe para alegar que, como a intervenção ingênua, as universidades tinham iatrogenias que forneciam uma contribuição negativa. Ele mostrou que, nos países em que o governo interveio financiando pesquisas com o dinheiro dos contribuintes, o investimento privado diminuiu e foi para outras bandas. No Japão, por exemplo, o todo-poderoso Ministério de Tecnologia e Investimento (Miti) tem um deplorável histórico de investimentos. Não estou usando as ideias dele para ratificar um programa político contra
+o financiamento científico, mas apenas para desmistificar vetores causais na descoberta de coisas importantes.
+Para refrescar a memória, a Revolução Industrial originou-se de “tecnólogos construindo tecnologia”, ou o que ele chama de “ciência de passatempo”. Pense novamente na máquina a vapor, o artefato que, mais do que qualquer outra coisa, corporifica a Revolução Industrial. Como vimos, tínhamos um modelo detalhado de como construí-la desde Heron de Alexandria. No entanto, por cerca de dois milênios a teoria não despertou o interesse de ninguém. Assim, prática e redescoberta tiveram de ser a causa do interesse no modelo de Heron, e não o contrário.
+Kealey apresenta um argumento convincente — bastante convincente — de que a máquina a vapor surgiu de uma tecnologia preexistente e foi criada por homens incultos, muitas vezes isolados, que aplicaram bom senso e intuição prática para lidar com os problemas mecânicos que os incomodavam, e cujas soluções propiciariam óbvias recompensas econômicas.
+Agora, em segundo lugar, leve em conta as tecnologias têxteis. Mais uma vez, as principais tecnologias que deram o salto para o mundo moderno não devem nada à ciência, de acordo com Kealey. “Em 1733”, ele escreve, “John Kay inventou a lançadeira volante, que mecanizou a tecelagem, e, em 1770, James Hargreaves inventou o filatório ou fiandeira múltipla mecânica, máquina que, como o nome indica, mecanizou a fiação. Esses avanços de grande envergadura na tecnologia têxtil, bem como os de Wyatt e Paul (carda mecânica, 1758) e Arkwright (máquina de fiar hidráulica, 1769), pressagiaram a Revolução Industrial, entretanto nada ficaram a dever à ciência; foram desdobramentos e incrementos empíricos
+baseados em tentativa e erro, e experimentações de hábeis artesãos que estavam tentando melhorar a produtividade (e, assim, os lucros) de suas fábricas.”
+David Edgerton se deu ao trabalho de questionar a ligação entre ciência acadêmica e prosperidade econômica, junto com a ideia de que, no passado, as pessoas acreditavam no “modelo linear” (ou seja, que a ciência acadêmica estava na origem da tecnologia). As pessoas não eram
+otárias
+nos séculos
+XIX
+e
+XX
+; hoje achamos que elas acreditavam no mencionado modelo linear, mas não era assim. Na verdade, até meados do século
+XIX
+a maioria dos acadêmicos compunha-se apenas de professores, não de pesquisadores.
+Ora, em vez de analisar os textos de um acadêmico para saber se ele é digno de confiança ou não, é sempre melhor levar em conta o que dizem os detratores desse acadêmico — os críticos revelarão o que há de pior nos argumentos dele. Assim, saí em busca dos detratores de Kealey ou de pessoas contrárias às suas ideias, a fim de verificar se tratavam de alguma coisa digna de interesse — e para ver de onde vinham. Além de alguns comentários feitos por Joel Mokyr, que, como eu disse, ainda não descobriu a opcionalidade, e de um ataque desferido por um economista cuja opinião é do tipo que não vale nada, dada a desvalorização da profissão de economista, a principal crítica a Kealey, publicada na influente revista
+Nature
+por um burocrata da ciência, era — em sua argumentação contra pesquisas financiadas com dinheiro dos impostos dos contribuintes — a de que Kealey usa dados de agências patrocinadas pelo governo, a exemplo da
+OCDE
+[Organização para a Cooperação e Desenvolvimento
+Econômico]. Até agora, não existe evidência substancial de que Kealey estivesse errado. Mas vamos inverter o ônus da prova: não há evidência
+nenhuma
+de que o oposto da tese dele esteja remotamente correto. A maior parte disso é uma convicção religiosa no poder
+incondicional
+da ciência organizada, que substituiu a crença religiosa incondicional na religião organizada.
+Os governos deveriam gastar em experimentações e improvisos não teleológicos, e não em pesquisas
+Perceba que eu não acredito que o argumento que acabo de mostrar deva nos levar logicamente a afirmar que o governo não deve gastar dinheiro algum. Esse raciocínio é mais contra a teleologia do que a pesquisa em geral. Deve existir alguma forma de gasto que funcione. Por alguma perversa guinada no rumo dos acontecimentos, as pesquisas renderam aos governos enormes compensações, mas não da maneira desejada — basta pensar na internet. E pense na recuperação que obtivemos dos gastos militares na forma de inovações e, conforme veremos, nas curas médicas. É que os funcionários públicos são teleológicos demais na maneira como procuram as coisas (especialmente os japoneses), e o mesmo se pode dizer das grandes corporações. Elas, na maioria, a exemplo dos gigantes da indústria farmacêutica, são inimigas de si mesmas.
+Pense na pesquisa
+blue sky
+, em que bolsas de pesquisa e financiamento são concedidas a pessoas, e não a projetos, e distribuídas em pequenas quantidades para muitos pesquisadores. O sociólogo da ciência Steve Shapin, que passou um período na Califórnia estudando capitalistas de risco, relata que os investidores tendem a financiar os
+empreendedores, não as ideias. As decisões são, em larga medida, uma questão de opinião, fortalecida por “quem você conhece?” e “quem disse o quê?”, já que, para usar o jargão do capitalista de risco, você aposta no jóquei, não no cavalo. Por quê? Porque as inovações oscilam, e é preciso ter habilidades de flanador para continuar indo atrás das oportunidades que surgem, em vez de ficar aprisionado em um molde burocrático. As decisões significativas do capital de risco, conforme demonstrou Shapin, foram tomadas sem planejamentos de negócios de verdade. Então, se houvesse qualquer “análise”, teria de ser de natureza confirmatória, à guisa de suporte. Eu mesmo passei algum tempo entre os capitalistas de risco na Califónia, de olho nos investimentos, e comprovei que era esse o molde.
+É visível que o dinheiro deveria ir para os que colocam em prática a improvisação, os experimentadores agressivos que, de maneira líquida e certa, sugarão uma opção até o fim.
+Usemos argumentos estatísticos para elaborar um parágrafo de teor mais técnico. As compensações propiciadas pelas pesquisas são do Extremistão; seguem um tipo de distribuição estatística da lei de potência, com vantagens enormes e quase ilimitadas, mas, por causa da opcionalidade, desvantagens limitadas. Como consequência, a compensação resultante das pesquisas deve, necessariamente, ser linear ao número de tentativas, e não ao total de recursos aplicados em cada tentativa. Uma vez que, como na figura 7, o vencedor terá uma compensação considerável, sem limite máximo, a estratégia correta requer certo estilo de financiamento às cegas. Isso significa que a política correta seria o que se chama de estilo “1 dividido por
+n
+” ou “1/N”, distribuindo
+esforços no maior número de tentativas possível: se a pessoa estiver diante de
+n
+opções, investe em todas elas, em quantidades idênticas.
+6
+Pequenas quantidades por tentativa, diversas tentativas, mais amplas do que o desejado. Por quê? Porque, no Extremistão, é mais importante estar envolvido em alguma coisa em uma quantidade pequena do que não tomar parte em nada. Como me disse um capitalista de risco: “A recompensa pode ser tão alta que você não tem como se dar ao luxo de não estar envolvido em tudo”.
+O CASO NA MEDICINA
+Ao contrário da tecnologia, a medicina tem um longo histórico de domesticação da sorte; ela já aceitou a aleatoriedade em sua prática. Mas não exatamente.
+Dados médicos permitem-nos avaliar o desempenho da pesquisa teleológica em comparação com as descobertas geradas de modo aleatório. Para tanto, o governo dos Estados Unidos nos fornece o conjunto de dados ideal: as atividades do Instituto Nacional do Câncer [
+NCI
+, na sigla em inglês], resultantes da “guerra contra o câncer” empreendida por Nixon no início da década de 1970. Morton Meyers, médico e pesquisador com atuação prática, escreve, em seu maravilhoso
+Happy Accidents: Serendipity in Modern Medical Breakthrough
+[Felizes coincidências: descobertas acidentais nos avanços da medicina moderna]: “Ao longo de um período de vinte anos examinando minuciosamente mais de 144 mil extratos de plantas, o que representa cerca de 15 mil espécies, nem um único medicamento anticancerígeno fitoterápico alcançou o status de aprovado. Esse fracasso está em um nítido contraste com a descoberta, no
+fim da década de 1950, de um expressivo grupo de medicamentos anticancerígenos derivados de plantas, os alcaloides da vinca — uma descoberta que aconteceu por acaso, e não por meio de uma pesquisa dirigida”.
+John LaMatina, um delator com informações confidenciais que descreveu o que sabia depois de abandonar a indústria farmacêutica, mostra estatísticas ilustrativas da lacuna entre a percepção pública das contribuições acadêmicas e a verdade: a indústria privada desenvolve nove medicamentos em cada grupo de dez. Até mesmo os Institutos Nacionais de Saúde, custeados pelo dinheiro dos impostos dos contribuintes, descobriram que, dentre os 46 medicamentos disponíveis no mercado com vendas significativas, cerca de três tinham a ver com o financiamento federal.
+Não nos damos conta de que as curas do câncer estavam vindo de outros campos de pesquisa. O pesquisador procura medicamentos não anticancerosos (ou produtos que não são medicamentos e tampouco não anticancerosos) e encontra algo que não estava procurando (e vice-versa). Mas a constante interessante é que, quando um resultado é inicialmente descoberto por um pesquisador acadêmico, é provável que ele despreze as consequências porque o resultado não é o que pretendia encontrar — um acadêmico tem um roteiro a seguir. Assim, sintetizando em relação à opção, o pesquisador não exerce a opção, apesar de seu valor, uma estrita violação da racionalidade (qualquer que seja a definição que o leitor tem de racionalidade), como uma pessoa que é ao mesmo tempo gananciosa e não pega para si uma grande soma de dinheiro encontrada em seu jardim. Meyers também mostra o efeito de ensinar os pássaros a voar à medida que descobertas são descritas após o fato,
+em uma narrativa retrospectiva que as atrela a alguma pesquisa acadêmica, o que contribui para nossa ilusão.
+Em alguns casos, quando a fonte da descoberta é militar, não conseguimos saber exatamente o que está acontecendo. Veja-se o exemplo da quimioterapia, que Meyers discute em seu livro. Um navio norte-americano transportando gás mostarda foi bombardeado pelos alemães em 1942 no porto de Bari, na Itália. Isso ajudou a desenvolver a quimioterapia, por causa do efeito do gás sobre o estado de saúde dos soldados portadores de cânceres líquidos (as leucemias, erradicação dos glóbulos brancos ou leucócitos). Mas o gás mostarda foi proibido pelas Convenções de Genebra, por isso a história foi mantida em sigilo — Churchill expurgou qualquer menção dos registros do Reino Unido, e nos Estados Unidos a informação foi abafada, embora a investigação sobre o efeito da mostarda nitrogenada não tenha sido suprimida.
+James Le Fanu, médico e autor de livros de medicina, escreveu que a revolução terapêutica, ou o período dos anos pós-guerra que testemunhou um número considerável de terapias eficazes, não foi deflagrada por um lampejo científico de grande envergadura. A origem veio do extremo oposto, da “percepção, por parte de médicos e cientistas, de que não era necessário compreender em detalhes o que estava errado, mas que a química sintética produziria, de maneira cega e aleatória, os remédios que, por séculos a fio, haviam escapado ao entendimento dos médicos”. (Ele usa como exemplo central as sulfonamidas identificadas por Gerhard Domagk.)
+Além disso, o aumento da nossa compreensão teórica — a “base epistêmica”, para usar os termos de Mokyr — acompanhou uma
+diminuição
+do número de novos
+medicamentos. Isso é algo que Tony Gordo ou o sujeito da madeira verde poderiam ter dito para nós. Ora, pode-se argumentar que já exaurimos todas as alternativas mais fáceis e à mão, mas vou mais longe, com mais indícios de outros lugares (como as compensações do Projeto Genoma Humano ou a estagnação das curas médicas nas últimas duas décadas diante dos gastos em pesquisa cada vez maiores) — o conhecimento, ou o que é chamado de “conhecimento”, em domínios complexos inibe a pesquisa.
+Outra maneira de ver a questão: estudar a composição química dos ingredientes não fará com que um indivíduo se torne um cozinheiro melhor nem um especialista em degustação — pode inclusive fazer com que piore em ambos (cozinhar é particularmente humilhante para sujeitos norteados pela teleologia).
+Pode-se fazer uma lista dos medicamentos que surgiram ao estilo Cisne Negro, a partir de descobertas fortuitas, e compará-la à lista de fármacos sintéticos e drogas planejadas. Eu estava prestes a iniciar uma lista desse tipo quando me dei conta de que as exceções notáveis, ou seja, os medicamentos que foram descobertos de forma teleológica, são pouquíssimas — basicamente,
+AZT
+e os medicamentos contra a aids. Drogas laboratoriais ou de síntese têm uma propriedade essencial — são análogos estruturais projetados (portanto, são teleológicos). Mas aparentemente não somos capazes de inventar um medicamento e, ao mesmo tempo, levar em conta seus potenciais efeitos colaterais. Consequentemente, um problema para o futuro dos fármacos sintéticos. Quanto mais medicamentos houver no mercado, mais interações terão uns com os outros — dessa maneira, no fim temos um elevado número
+de possíveis interações a cada novo medicamento introduzido no mercado. Se existem vinte medicamentos que não estão inter-relacionados, o vigésimo primeiro precisa levar em conta vinte interações potenciais; até aí não é um grande problema. Mas, se houver mil medicamentos, será preciso prever um pouco menos de mil interações. E hoje em dia existem dezenas de milhares de medicamentos disponíveis. Além disso, pesquisas mostram que talvez estejamos subestimando as interações dos medicamentos
+atuais
+, aqueles que já estão no mercado, por um fator quatro; assim, na verdade, o conjunto de medicamentos disponíveis deveria estar encolhendo, e não aumentando.
+Há uma óbvia mudança de rumos nesse negócio, já que um medicamento pode ser inventado para alguma coisa e encontrar novas aplicações, o que o economista John Kay chama de
+obliquidade
+— o uso da aspirina, por exemplo, mudou diversas vezes; ou as ideias de Judah Folkman sobre restringir a irrigação sanguínea dos tumores (inibidores de angiogênese) que levaram ao tratamento da degeneração macular (o medicamento bevacizumabe, conhecido como Avastin), um efeito que é mais eficaz do que a intenção original.
+Ora, em vez de apresentar aqui minha lista de medicamentos (seria muito deselegante), indico ao leitor, além do livro de Meyers,
+Fabuleux hasards, histoire de la découverte des médicaments
+[Acasos fabulosos, história da descoberta dos medicamentos], de Claude Bohuon e Claude Monneret, e
+Laughing Gas, Viagra and Lipitor
+[Gás hilariante, Viagra e Lipitor], de Jie Jack Li.
+O argumento antiteleológico de Matt Ridley
+O formidável filósofo cético medieval de língua árabe Algazel, também conhecido como Al-Ghazali, que tentou destruir a teleologia da Averróis e seu racionalismo, propôs a famosa metáfora da fabricação de alfinetes — hoje erroneamente atribuída a Adam Smith. O alfinete não é fabricado por uma única pessoa, há 25 indivíduos envolvidos; na ausência de uma figura central de planejamento, todas são colaboradoras — uma colaboração guiada por uma mão invisível. Pois ninguém sabe como produzi-lo por conta própria.
+Aos olhos de Algazel, um cético fideísta (isto é, um cético com fé religiosa), o conhecimento não estava nas mãos dos seres humanos, mas nas de Deus, enquanto Adam Smith chama isso de lei do mercado e alguns teóricos modernos o definem como auto-organização. Se o leitor quiser saber por que o fideísmo é epistemologicamente equivalente ao puro ceticismo no que concerne ao conhecimento humano e à aceitação da lógica oculta das coisas, é só substituir Deus pela natureza, pelo destino, pelo Invisível, Opaco e Inacessível, e obterá basicamente o mesmo resultado. A lógica das coisas está fora de nós (nas mãos de Deus ou em forças naturais ou espontâneas); uma vez que hoje em dia ninguém está em comunicação direta com Deus, nem mesmo no Texas, há pouca diferença entre Deus e a opacidade. Nenhum indivíduo tem a menor pista sobre o processo geral, e isso é decisivo.
+O autor Matt Ridley formula um argumento mais potente, graças à sua formação em biologia. A diferença entre os seres humanos e os animais está na capacidade
+de colaborar, de se envolver em negócios, de deixar as ideias, perdoe-me pela expressão, copularem. A colaboração tem vantagens explosivas, o que, em termos matemáticos, chama-se de função superaditiva, ou seja, 1 mais 1 é igual a mais de 2, e 1 mais 1 mais 1 é igual a muito, muito mais do que 3. Isso é pura não linearidade com benefícios explosivos — investigaremos em detalhes como ela se beneficia com a pedra filosofal. Fundamentalmente, esse é um argumento em prol da imprevisibilidade e dos efeitos Cisne Negro: uma vez que não é possível prever as colaborações, tampouco direcioná-las, não se pode ver para onde o mundo está indo. Tudo que se pode fazer é criar um ambiente que facilite essas colaborações e estabelecer as bases para a prosperidade. E não, não é possível centralizar as inovações, tentamos isso na Rússia.
+Extraordinariamente, para lidar em termos um pouco mais filosóficos com as ideias de Algazel, é possível ver o efeito da religião na redução da dependência da falibilidade das teorias e da agência humanas — de modo que, nesse sentido, Adam Smith está em consonância com Algazel. Para um, a mão invisível é o mercado; para o outro, Deus. Para as pessoas é difícil entender que, historicamente, o ceticismo tem sido em larga medida ceticismo em relação ao conhecimento especializado, em vez de ceticismo em relação às entidades abstratas como Deus, e que todos os grandes céticos foram em grande parte ou muito religiosos ou, pelo menos, pró-religião (isto é, a favor de que os
+outros
+fossem religiosos).
+Teleologia corporativa
+Quando eu cursava a faculdade de economia e administração de empresas, raramente frequentava as
+aulas sobre uma coisa chamada planejamento estratégico, uma disciplina obrigatória, e quando eu dava as caras na sala de aula, não prestava atenção em nada do que estava sendo discutido ali; não chegava a comprar nem os livros. Há algo especial no senso comum da cultura estudantil; sabíamos que era tudo papo-furado. Passei as aulas obrigatórias de gestão desnorteando os professores, brincando com lógicas complexas, e tinha a sensação de que seria intelectualmente desonesto inscrever-me em mais disciplinas do que o estritamente necessário.
+As corporações adoram a ideia do planejamento estratégico. Elas precisam pagar para descobrir aonde estão indo. Contudo, não existem evidências de que o planejamento estratégico funcione — aparentemente temos até mesmo evidências contra ele. Um pesquisador de gestão, William Starbuck, publicou alguns artigos desmistificando a eficácia do planejamento — planejar torna a empresa cega às opções, uma vez que a aprisiona a uma linha de ação não oportunista.
+Já está mais do que provado e comprovado que, quando submetido a testes empíricos, quase tudo que existe de teórico em relação à gestão, do taylorismo às várias histórias de produtividade, é desmascarado como pseudociência e, tal qual a maioria das teorias econômicas, vive em um mundo paralelo às evidências. Matthew Stewart, que se formou em filosofia mas terminou trabalhando como consultor de gestão empresarial, conta uma história bastante repugnante, ainda que engraçada, em
+Desmascarando a administração
+.
+7
+Lembra a postura egoísta dos banqueiros. Abrahamson e Freedman, em seu belo livro
+Uma bagunça perfeita
+, também desmistificam muitos enfoques precisos, concisos e teleológicos. No fim fica
+claro que o planejamento estratégico é apenas uma conversa fiada supersticiosa.
+Como ilustração das mudanças de direção nos rumos tomados pelos negócios, uma guinada racional e oportunista, tenha em mente o seguinte exemplo: a Coca-Cola começou como um produto farmacêutico. A Tiffany & Co., chiquérrima empresa do ramo de comércio de joias, foi fundada como loja de artigos de papelaria. Os dois exemplos talvez sejam próximos, mas veja este: a Raytheon, que criou o primeiro sistema de orientação de mísseis, era uma fabricante de geladeiras (um de seus fundadores foi ninguém menos que Vannevar Bush, que concebeu o modelo linear teleológico de ciência que vimos anteriormente; vai entender!). Agora, pior: a Nokia, que costumava ser a maior fabricante mundial de telefones celulares, começou como uma fábrica de papel (em algum momento, dedicou-se à produção de sapatos de borracha). A DuPont, empresa hoje famosa por suas panelas antiaderentes de teflon, bancadas de cozinha de corian e o resistente tecido kevlar, no início era uma fabricante de explosivos. A Avon, empresa de cosméticos, começou vendendo livros de porta em porta. E, a mais estranha de todas, a Oneida Silversmiths, fabricante de artigos de prata, era um culto comunitário religioso, mas, por motivos de regulamentação legal, precisou usar como disfarce o modelo de sociedade anônima.
+O PROBLEMA DO PERU ÀS AVESSAS
+Agora, um pouco do arcabouço por trás do que estou dizendo — a epistemologia das afirmações estatísticas. A discussão a seguir mostrará como o desconhecido, aquilo que não vemos, pode conter boas notícias em um caso e,
+em outro, más notícias. E, no território do Extremistão, as coisas ficam ainda mais acentuadas.
+Repetindo (é necessário fazer isso, porque os intelectuais tendem a esquecer), ausência de evidências não é evidência de ausência, um aspecto simples que tem as seguintes implicações: para o antifrágil, as boas notícias tendem a estar ausentes das informações do passado, e, para o frágil, as más notícias é que não aparecem com facilidade.
+Imagine ir ao México munido de um notebook e tentar descobrir a renda média da população conversando com as pessoas que você encontrar aleatoriamente. É provável que, sem Carlos Slim
+8
+na sua amostragem, sua sondagem obterá poucas informações relevantes. Pois, dentre os cerca de 100 milhões de mexicanos, Slim seria (presumo) mais rico do que todos os 70 milhões a 90 milhões de pessoas que estão na base da pirâmide, somadas. Assim, você pode ter uma amostra de 50 milhões de pessoas, mas, a menos que inclua aquele “evento raro”, talvez a amostra seja inexpressiva e subestime a riqueza total.
+Lembre-se dos gráficos das figuras 6 e 7, ilustrando as compensações oriundas de tentativa e erro. Quem se ocupa de improvisos e experimentações incorre em uma série de pequenas perdas, e, então, vez por outra, encontra algo bastante significativo. Essa metodologia, quando vista de fora, mostrará os atributos indigestos — ela oculta as qualidades, não os defeitos.
+No caso antifrágil (de assimetrias positivas, negócios do Cisne Negro positivos), a exemplo de tentativa e erro, o histórico de desempenho da amostra tenderá a subestimar a média de longo prazo; ocultará as qualidades, não os defeitos.
+(Há uma tabela no Apêndice, para aqueles que gostam de visualizar graficamente a questão.)
+Lembre-se de nossa missão de “não ser um peru”. No fim das contas, a mensagem que prevalece é que, quando se vê diante de uma ampla amostra sujeita a problemas ao estilo do peru, o indivíduo tende a estimar um número
+menor
+de eventos adversos — em termos simples, eventos raros são raros e tendem a não aparecer em amostras passadas, e uma vez que
+o raro é quase sempre negativo
+, temos um quadro mais otimista do que a realidade. Mas, aqui, encaramos a imagem de espelho, a situação inversa. Sob assimetrias positivas, isto é, o caso antifrágil, o “inobservado” é positivo. Assim, as “evidências empíricas” tendem a deixar passar despercebidos os eventos positivos e a subestimar os benefícios totais.
+Com relação ao clássico problema do peru, a regra é a seguinte:
+No caso frágil das assimetrias negativas (problemas do peru), o histórico de desempenho da amostra tenderá a superestimar a média no longo prazo; ocultará os defeitos e mostrará as qualidades.
+As consequências tornam a vida simples. Mas, já que as metodologias padronizadas não levam em conta as assimetrias, praticamente todo o mundo que estudar as estatísticas convencionais sem se aprofundar muito no tema (apenas para teorizar em ciências sociais ou ensinar alunos) entenderá errado o problema do peru. Sigo uma regra simples: a de que se deve esperar daqueles que lecionam em Harvard uma compreensão muito mais restrita das coisas do que a de taxistas ou pessoas que não conhecem os métodos enlatados de inferência (é uma heurística, pode estar errada, mas funciona; chamou-me a
+atenção que a Harvard Business School costumava incluir em seu corpo docente o fragilista Robert C. Merton).
+Por isso, vamos atormentar os professores da Business School, que fazem por merecer, e muito. No que diz respeito ao primeiro caso (o erro de ignorar as assimetrias positivas), um professor de Harvard, Gary Pisano, ao escrever sobre o potencial da biotecnologia, cometeu o erro elementar do peru às avessas, ao não perceber que, em um negócio com perdas limitadas e potencial ilimitado (exatamente o oposto do sistema bancário), o que não se vê pode ao mesmo tempo ser significativo e ter permanecido oculto no passado. Ele escreve: “Apesar do sucesso comercial de diversas empresas e do avassalador aumento das receitas para a indústria como um todo, a maioria das empresas de biotecnologia não obtém lucro algum”. Isos pode estar certo, mas a inferência a partir daí está errada, possivelmente inversa, por duas razões, e isso ajuda a repetir a lógica em virtude da gravidade das consequências. Em primeiro lugar, “a maioria das empresas” no Extremistão não obtém lucro algum — o evento raro domina, e um pequeno número de empresas gera todos os shekels. E, seja qual for o argumento que ele apresenta, na presença do tipo de assimetria e de opcionalidade que vemos na figura 7, é inconclusivo, de modo que é melhor escrever sobre outro assunto, algo menos prejudicial e que possa interessar aos alunos de Harvard — por exemplo, como fazer uma apresentação de PowerPoint convincente ou a diferença entre as culturas de gestão de japoneses e franceses. Mais uma vez, pode ser que ele esteja certo quanto ao lamentável potencial de investimentos em biotecnologia, mas não com base nos dados que mostrou.
+Ora, por que esse tipo de pensamento, de figuras como o professor Pisano, é perigoso? Não é uma questão de saber se inibiria ou não pesquisas na área de biotecnologia. O problema é que esse tipo de erro inibe tudo na área econômica que tem propriedades antifrágeis (em termos mais técnicos, “enviesado à direita”). E fragilizaria a coisa toda, por favorecer os negócios que são “apostas líquidas e certas”.
+Por incrível que pareça, outro professor de Harvard, Kenneth Froot, cometeu exatamente o mesmo erro, mas na direção oposta, com as assimetrias negativas. Analisando as empresas de resseguros (aquelas que fazem seguros para eventos catastróficos), ele pensou ter encontrado uma aberração. As resseguradoras lucravam demais em comparação com os riscos que assumiam, uma vez que as catástrofes pareciam ocorrer
+com frequência menor
+do que refletiam os prêmios dos seguros. Ele deixou escapar o fato de que os eventos catastróficos atingem essas empresas apenas negativamente, e tendem a estar ausentes de dados do passado (mais uma vez, eles são raros). Lembre-se do problema do peru. Um único episódio, o das indenizações a vítimas contaminadas por amianto, levou à bancarrota famílias inteiras de companhias de seguros subscritoras e intermediárias do Lloyd’s, dissipando uma renda que havia sido acumulada ao longo de gerações. Um único episódio.
+Voltaremos a essas duas compensações distintas, com “limitação à esquerda” (perdas limitadas, como a aposta de Tales) e a “limitação à direita” (ganhos limitados, como os seguros ou o sistema bancário). A distinção é fundamental, pois a maioria das compensações na vida está em uma ou em outra categoria.
+Cair sete vezes, mais ou menos duas
+Permita-me fazer uma pausa para anunciar as regras, baseadas no que vimos até agora neste capítulo. (i) Procure a opcionalidade; na verdade, classifique hierarquicamente as coisas de acordo com a opcionalidade; (ii) de preferência, com compensações irrestritas, não limitadas; (iii) não invista em planos de negócios, mas em pessoas, portanto procure alguém que seja capaz de mudar seis ou sete vezes ao longo da carreira, ou mais (uma ideia que faz parte do modus operandi do capitalista de risco Marc Andreessen), a maneira de ficar imune às narrativas de reajuste retroativo do plano de negócios é investir em pessoas. Simplesmente é mais robusto fazer isso; (iv) certifique-se de que você está atuando no modo
+barbell
+, independentemente do que isso signifique para o seu negócio.
+O CHARLATÃO, O ACADÊMICO E O SHOWMAN
+Termino o capítulo em tom de tristeza: nossa ingratidão para com as muitas pessoas que nos ajudaram a chegar até aqui — por deixar que nossos antepassados sobrevivessem.
+Nosso equívoco acerca das experimentações e dos improvisos convexos, da antifragilidade e de como domar a aleatoriedade está entranhado nas nossas instituições — embora não de modo consciente e explícito. Há na medicina uma categoria de pessoas chamadas de empiristas, ou céticos empiristas, os fazedores, e só — não dispomos de muitos nomes para caracterizá-las, pois
+elas escreveram poucos livros. Muitas de suas obras foram destruídas ou escondidas da consciência cultural, ou naturalmente excluídas dos registros, e sua memória vem sendo bastante maltratada pela história. Os pensadores formais e os teorizadores de teorias tendem a escrever livros; as pessoas intuitivas e empiristas tendem a ser profissionais com atuação prática que, quase sempre, se contentam em sentir a empolgação, ganhar ou perder o dinheiro e contar vantagem no bar. Suas experiências são, invariavelmente, formalizadas por acadêmicos; com efeito, a história vem sendo escrita por aqueles que querem que você acredite que o raciocínio exerce um monopólio, ou um semimonopólio, sobre a produção de conhecimento.
+Assim, o derradeiro ponto aqui diz respeito aos chamados charlatães. Alguns eram, outros eram um pouco menos; alguns não eram; e muitos foram casos limítrofes. Por um longo tempo, a medicina oficial teve de competir com multidões de
+showmen
+espalhafatosos, trapaceiros, curandeiros que diziam possuir remédios milagrosos, feiticeiros e feiticeiras, e todos os tipos de impostores sem habilitação médica oficial para praticar suas curas. Alguns eram itinerantes, passando por vilarejos e realizando seus atos curativos diante de várias pessoas. Vez por outra, realizavam cirurgias enquanto entoavam palavras mágicas.
+Essa categoria incluía os médicos que não adotavam práticas e métodos da escola da medicina racional greco-árabica dominante, desenvolvida no mundo helênico da Ásia Menor e mais tarde cultivada pela escola de língua árabe. Os romanos eram um grupo pragmático antiteórico; os árabes adoravam tudo que fosse filosófico e “científico”, e colocaram Aristóteles, a quem até então
+ninguém parecia ter dado muita atenção, em um pedestal. Por exemplo, sabemos muito pouco sobre a escola empírica e cética de Menódoto de Nicomédia — sabemos muito mais sobre Galeno, o racionalista. A medicina, para os árabes, era um exercício de erudição acadêmica, calcada na lógica aristotélica e nos métodos de Galeno; eles abominavam a experiência.
+9
+Os médicos com atuação prática eram os Outros.
+A regulamentação do establishment médico oficial corresponde a preocupações de ordem econômica com relação aos empíricos, à medida que a concorrência com os charlatães fez caírem os rendimentos dos médicos. Assim, não é surpresa alguma que eles tenham sido colocados no mesmo balaio dos ladrões — a título de exemplo, veja-se este longo título de um tratado elisabetano:
+Um breve relato, ou, a descoberta de certos estratagemas, por meio dos quais nossos empiristas londrinos, tem-se observado, opugnam e, muitas vezes, expugnam fortemente o pecúlio de seus pobres pacientes.
+“Charlatão” era tido como sinônimo de empírico. O termo “empírico” designava alguém que se fiava em experimentos e na experiência para certificar-se de que algo estava correto. Em outras palavras, tentativa e erro, experimentações e improvisos. Isso era considerado inferior — em âmbito profissional, social e intelectual. Ainda hoje não é tido como muito “inteligente”.
+Mas, felizmente para nós, os empíricos desfrutavam de imensa popularidade, e foi impossível extirpá-los. Não vemos as obras que eles produziram, mas deixaram uma marca descomunal na medicina.
+Atente para o pico inicial de intensidade de iatrogenia após a academização — e a institucionalização — da medicina com o advento da modernidade. Apenas
+recentemente isso começou a se reverter. Ademais, os acadêmicos formais, vistos à luz da história, não eram melhores do que aqueles que eram chamados de charlatães — eles simplesmente ocultavam seus embustes sob o peso de racionalizações mais convincentes. Eram apenas charlatães
+organizados
+. Minha esperança é que isso mude.
+Ora, concordo que, em sua maioria, os praticantes de medicina não validados pelo establishment acadêmico eram patifes, charlatães, curandeiros farsantes e, no mais das vezes, muito piores do que isso. Mas, alto lá, sejamos cuidadosos para não tirar conclusões equivocadas. Os formalistas, para proteger seu território, sempre tiraram proveito da falácia lógica de que, se por um lado há charlatães em meio às hostes de não acadêmicos, por outro os não acadêmicos são todos charlatães. Eles continuam fazendo isto: a afirmação de que
+tudo que não é rigoroso é não acadêmico
+(presumindo que a pessoa é uma otária e acredita nisso) não implica que
+tudo que é não acadêmico é não rigoroso
+. O embate entre os médicos “legítimos” e os Outros é bastante esclarecedor, em particular quando notamos que os médicos estavam, discretamente (e com relutância), copiando alguns remédios e tratamentos desenvolvidos e promovidos pelos Outros. Tiveram de fazer isso por razões econômicas. Eles se beneficiaram com a tentativa e erro coletiva dos Outros. E o processo levou a curas, atualmente integradas à medicina.
+Agora, leitor, vamos reservar um minuto para prestar uma homenagem. Pensemos na nossa ingratidão para com aqueles que nos fizeram chegar até aqui, receberam nosso desprezo e nem sequer souberam que foram heróis.
+1
+. De acordo com David Edgerton, no início do século
+XX
+não se acreditava no chamado modelo linear; o fato é que apenas
+hoje
+acreditamos que
+naquela época
+acreditávamos na supremacia da ciência teleológica.
+2
+. Descobrimos também que dois fragilistas, Myron Scholes e Robert Merton, ganharam o prêmio Memorial em Economia, chamado de Nobel, por terem dado uma nova roupagem a uma fórmula que outras pessoas descobriram, de maneira muito mais sofisticada, antes deles. Ademais, usaram matemática ficcional. É bastante perturbador.
+3
+. Faço questão de lembrar ao leitor que o arcabouço do Livro
+IV
+é a teleologia e o senso de direção, e embora isso seja em grande medida cético com relação ao mundo acadêmico formal (isto é, antiuniversidades), isso é vigorosamente antipseudociência (ou ciência cosmética) e ultra-pró-ciência. A questão é que aquilo que muitos chamam de ciência é altamente não científico. A ciência é um antiproblema de otários.
+4
+. Defense Advanced Research Projects Agency (Agência de Projetos de Pesquisa Avançada de Defesa). (N. T.)
+5
+. Extraordinariamente, Johan Jensen, da desigualdade de Jensen, a mais importante sustentação técnica para as ideias deste livro, foi um matemático amador que nunca ocupou nenhum cargo acadêmico.
+6
+. Este é um comentário técnico. “1/N” é o argumento que Mandelbrot e eu usamos em 2005 para desmistificar os portfólios de investimentos otimizados e a moderna teoria de finanças, com base em fundamentos matemáticos simples; sob os efeitos do Extremistão, preferimos uma diversificação ampla, bastante ampla, com pequenos aportes idênticos, em vez do que estipula a teoria financeira moderna.
+7
+.
+The Management Myth
+. Edição brasileira:
+Desmascarando a administração: As verdades e mentiras que os gurus contam e as consequências para os seus negócios
+. Rio de Janeiro: Elsevier, 2010.
+8
+. Empresário bilionário incluído pelas revistas
+Forbes
+e
+Fortune
+na lista de homens mais ricos do mundo; com patrimônio estimado em mais de 67 bilhões de dólares em 2018, Carlos Slim Helú é dono de lojas de departamentos, redes de restaurantes, imóveis, mas a base de seu império é a companhia de telecomunicações América Móvil. (N. T.)
+9
+. Não se chama a devida atenção para o fato de que o pensamento árabe privilegia o pensamento abstrato e a ciência no sentido mais teórico da palavra — violentamente racionalista, distante do empirismo.

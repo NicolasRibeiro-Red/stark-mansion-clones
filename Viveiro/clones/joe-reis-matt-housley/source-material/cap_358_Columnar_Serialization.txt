@@ -1,0 +1,85 @@
+# Columnar Serialization
+
+Paginas: 418-419
+
+Columnar Serialization
+The serialization formats we’ve discussed so far are row-oriented. Data is encoded as
+complete relations (CSV) or documents (XML and JSON), and these are written into
+files sequentially.
+With columnar serialization, data organization is essentially pivoted by storing each
+column into its own set of files. One obvious advantage to columnar storage is that it
+allows us to read data from only a subset of fields rather than having to read full rows
+at once. This is a common scenario in analytics applications and can dramatically
+reduce the amount of data that must be scanned to execute a query.
+Storing data as columns also puts similar values next to each other, allowing us
+to encode columnar data efficiently. One common technique involves looking for
+repeated values and tokenizing these, a simple but highly efficient compression
+method for columns with large numbers of repeats.
+Even when columns don’t contain large numbers of repeated values, they may mani‐
+fest high redundancy. Suppose that we organized customer support messages into a
+single column of data. We likely see the same themes and verbiage again and again
+across these messages, allowing data compression algorithms to realize a high ratio.
+For this reason, columnar storage is usually combined with compression, allowing us
+to maximize disk and network bandwidth resources.
+Columnar storage and compression come with some disadvantages too. We cannot
+easily access individual data records; we must reconstruct records by reading data
+from several column files. Record updates are also challenging. To change one field
+in one record, we must decompress the column file, modify it, recompress it, and
+write it back to storage. To avoid rewriting full columns on each update, columns
+are broken into many files, typically using partitioning and clustering strategies that
+organize data according to query and update patterns for the table. Even so, the
+overhead for updating a single row is horrendous. Columnar databases are a terrible
+fit for transactional workloads, so transactional databases generally utilize some form
+of row- or record-oriented storage.
+Parquet
+Parquet stores data in a columnar format and is designed to realize excellent read and
+write performance in a data lake environment. Parquet solves a few problems that
+frequently bedevil data engineers. Parquet-encoded data builds in schema informa‐
+tion and natively supports nested data, unlike CSV. Furthermore, Parquet is portable;
+while databases such as BigQuery and Snowflake serialize data in proprietary col‐
+umnar formats and offer excellent query performance on data stored internally, a
+huge performance hit occurs when interoperating with external tools. Data must be
+Serialization and Compression Technical Details
+|
+393
+
+1 Dejan Simic, “Apache Arrow: Read DataFrame with Zero Memory,” Towards Data Science, June 25, 2020,
+https://oreil.ly/TDAdY.
+deserialized, reserialized into an exchangeable format, and exported to use data lake
+tools such as Spark and Presto. Parquet files in a data lake may be a superior option to
+proprietary cloud data warehouses in a polyglot tool environment.
+Parquet format is used with various compression algorithms; speed optimized com‐
+pression algorithms such as Snappy (discussed later in this appendix) are especially
+popular.
+ORC
+Optimized Row Columnar (ORC) is a columnar storage format similar to Parquet.
+ORC was very popular for use with Apache Hive; while still widely used, we generally
+see it much less than Apache Parquet, and it enjoys somewhat less support in modern
+cloud ecosystem tools. For example, Snowflake and BigQuery support Parquet file
+import and export; while they can read from ORC files, neither tool can export to
+ORC.
+Apache Arrow or in-memory serialization
+When we introduced serialization as a storage raw ingredient at the beginning
+of this chapter, we mentioned that software could store data in complex objects
+scattered in memory and connected by pointers, or more orderly, densely packed
+structures such as Fortran and C arrays. Generally, densely packed in-memory data
+structures were limited to simple types (e.g., INT64) or fixed-width data structures
+(e.g., fixed-width strings). More complex structures (e.g., JSON documents) could
+not be densely stored in memory and required serialization for storage and transfer
+between systems.
+The idea of Apache Arrow is to rethink serialization by utilizing a binary data format
+that is suitable for both in-memory processing and export.1 This allows us to avoid
+the overhead of serialization and deserialization; we simply use the same format for
+in-memory processing, export over the network, and long-term storage. Arrow relies
+on columnar storage, where each column essentially gets its own chunks of memory.
+For nested data, we use a technique called shredding, which maps each location in the
+schema of JSON documents into a separate column.
+This technique means that we can store a data file on disk, swap it directly into
+program address space by using virtual memory, and begin running a query against
+the data without deserialization overhead. In fact, we can swap chunks of the file into
+memory as we scan it, and then swap them back out to avoid running out of memory
+for large datasets.
+394
+|
+Appendix A: Serialization and Compression Technical Details
+

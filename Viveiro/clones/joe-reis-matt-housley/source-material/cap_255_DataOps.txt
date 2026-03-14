@@ -1,0 +1,86 @@
+# DataOps
+
+Paginas: 291-292
+
+On the tokenization front, use common sense and assess data access scenarios. If
+someone had the email of one of your customers, could they easily hash the email
+and find the customer in your data? Thoughtlessly hashing data without salting and
+other strategies may not protect privacy as well as you think.
+DataOps
+Reliable data pipelines are the cornerstone of the data engineering lifecycle. When
+they fail, all downstream dependencies come to a screeching halt. Data warehouses
+and data lakes aren’t replenished with fresh data, and data scientists and analysts can’t
+effectively do their jobs; the business is forced to fly blind.
+Ensuring that your data pipelines are properly monitored is a crucial step toward
+reliability and effective incident response. If there’s one stage in the data engineering
+lifecycle where monitoring is critical, it’s in the ingestion stage. Weak or nonexistent
+monitoring means the pipelines may or may not be working. Referring back to
+our earlier discussion on time, be sure to track the various aspects of time—event
+creation, ingestion, process, and processing times. Your data pipelines should predict‐
+ably process data in batches or streams. We’ve seen countless examples of reports
+and ML models generated from stale data. In one extreme case, an ingestion pipeline
+failure wasn’t detected for six months. (One might question the concrete utility of
+the data in this instance, but that’s another matter.) This was very much avoidable
+through proper monitoring.
+What should you monitor? Uptime, latency, and data volumes processed are good
+places to start. If an ingestion job fails, how will you respond? In general, build moni‐
+toring into your pipelines from the beginning rather than waiting for deployment.
+Monitoring is key, as is knowledge of the behavior of the upstream systems you
+depend on and how they generate data. You should be aware of the number of events
+generated per time interval you’re concerned with (events/minute, events/second, and
+so on) and the average size of each event. Your data pipeline should handle both the
+frequency and size of the events you’re ingesting.
+This also applies to third-party services. In the case of these services, what you’ve
+gained in terms of lean operational efficiencies (reduced headcount) is replaced by
+systems you depend on being outside of your control. If you’re using a third-party
+service (cloud, data integration service, etc.), how will you be alerted if there’s an
+outage? What’s your response plan if a service you depend on suddenly goes offline?
+Sadly, no universal response plan exists for third-party failures. If you can fail over to
+other servers, preferably in another zone or region, definitely set this up.
+If your data ingestion processes are built internally, do you have the proper testing
+and deployment automation to ensure that the code functions in production? And if
+the code is buggy or fails, can you roll it back to a working version?
+266
+|
+Chapter 7: Ingestion
+
+2 Andy Petrella, “Datastrophes,” Medium, March 1, 2021, https://oreil.ly/h6FRW.
+3 Danny Sullivan, “Dark Google: One Year Since Search Terms Went ‘Not Provided,’” MarTech, October 19,
+2012, https://oreil.ly/Fp8ta.
+Data-quality tests
+We often refer to data as a silent killer. If quality, valid data is the foundation of
+success in today’s businesses, using bad data to make decisions is much worse than
+having no data. Bad data has caused untold damage to businesses; these data disasters
+are sometimes called datastrophes.2
+Data is entropic; it often changes in unexpected ways without warning. One of
+the inherent differences between DevOps and DataOps is that we expect software
+regressions only when we deploy changes, while data often presents regressions
+independently because of events outside our control.
+DevOps engineers are typically able to detect problems by using binary conditions.
+Has the request failure rate breached a certain threshold? How about response
+latency? In the data space, regressions often manifest as subtle statistical distortions.
+Is a change in search-term statistics a result of customer behavior? Of a spike in bot
+traffic that has escaped the net? Of a site test tool deployed in some other part of the
+company?
+Like system failures in DevOps, some data regressions are immediately visible. For
+example, in the early 2000s, Google provided search terms to websites when users
+arrived from search. In 2011, Google began withholding this information in some
+cases to protect user privacy better. Analysts quickly saw “not provided” bubbling to
+the tops of their reports.3
+The truly dangerous data regressions are silent and can come from inside or outside a
+business. Application developers may change the meaning of database fields without
+adequately communicating with data teams. Changes to data from third-party sour‐
+ces may go unnoticed. In the best-case scenario, reports break in obvious ways. Often
+business metrics are distorted unbeknownst to decision makers.
+Whenever possible, work with software engineers to fix data-quality issues at the
+source. It’s surprising how many data-quality issues can be handled by respecting
+basic best practices in software engineering, such as logs to capture the history of data
+changes, checks (nulls, etc.), and exception handling (try, catch, etc.).
+Traditional data testing tools are generally built on simple binary logic. Are nulls
+appearing in a non-nullable field? Are new, unexpected items showing up in a
+categorical column? Statistical data testing is a new realm, but one that is likely to
+grow dramatically in the next five years.
+Undercurrents
+|
+267
+

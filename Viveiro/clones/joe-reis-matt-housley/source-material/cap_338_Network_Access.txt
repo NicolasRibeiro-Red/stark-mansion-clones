@@ -1,0 +1,46 @@
+# Network Access
+
+Paginas: 401-401
+
+Access
+Who’s accessing what, when, and from where? What new accesses were granted?
+Are there strange patterns with your current users that might indicate their
+account is compromised, such as trying to access systems they don’t usually
+access or shouldn’t have access to? Do you see new unrecognized users accessing
+your system? Be sure to regularly comb through access logs, users, and their roles
+to ensure that everything looks OK.
+Resources
+Monitor your disk, CPU, memory, and I/O for patterns that seem out of the ordi‐
+nary. Did your resources suddenly change? If so, this might indicate a security
+breach.
+Billing
+Especially with SaaS and cloud-managed services, you need to oversee costs. Set
+up budget alerts to make sure your spending is within expectations. If an unex‐
+pected spike occurs in your billing, this might indicate someone or something is
+utilizing your resources for malicious purposes.
+Excess permissions
+Increasingly, vendors are providing tools that monitor for permissions that are
+not utilized by a user or service account over some time. These tools can often be
+configured to automatically alert an administrator or remove permissions after a
+specified elapsed time.
+For example, suppose that a particular analyst hasn’t accessed Redshift for six
+months. These permissions can be removed, closing a potential security hole.
+If the analyst needs to access Redshift in the future, they can put in a ticket to
+restore permissions.
+It’s best to combine these areas in your monitoring to get a cross-sectional view
+of your resource, access, and billing profile. We suggest setting up a dashboard for
+everyone on the data team to view monitoring and receive alerts when something
+seems out of the ordinary. Couple this with an effective incident response plan to
+manage security breaches when they occur, and run through the plan on a regular
+basis so you are prepared.
+Network Access
+We often see data engineers doing pretty wild things regarding network access. In
+several instances, we’ve seen publicly available Amazon S3 buckets housing lots of
+sensitive data. We’ve also witnessed Amazon EC2 instances with inbound SSH access
+open to the whole world for 0.0.0.0/0 (all IPs) or databases with open access to all
+inbound requests over the public internet. These are just a few examples of terrible
+network security practices.
+376
+|
+Chapter 10: Security and Privacy
+

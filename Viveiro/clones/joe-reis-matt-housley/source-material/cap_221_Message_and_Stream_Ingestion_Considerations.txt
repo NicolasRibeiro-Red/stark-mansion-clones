@@ -1,0 +1,4 @@
+# Message and Stream Ingestion Considerations
+
+Paginas: 273-272
+

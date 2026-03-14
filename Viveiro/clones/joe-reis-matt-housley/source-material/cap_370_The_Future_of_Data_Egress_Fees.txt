@@ -1,0 +1,39 @@
+# The Future of Data Egress Fees
+
+Paginas: 427-427
+
+2 Mark Haranas and Steven Burke, “Oracle Bests Cloud Rivals to Win Blockbuster Cloud Deal,” CRN, April 28,
+2020, https://oreil.ly/LkqOi.
+3 Corey Quinn, “Why Zoom Chose Oracle Cloud Over AWS and Maybe You Should Too,” Last Week in AWS,
+April 28, 2020, https://oreil.ly/Lx5uu.
+offers AWS Direct Connect. In addition to providing higher bandwidth and lower
+latency, these connection options often offer dramatic discounts on data egress
+charges. In a typical scenario in the US, AWS egress charges drop from 9 cents per
+gigabyte over the public internet to 2 cents per gigabyte over direct connect.
+CDNs
+Content delivery networks (CDNs) can offer dramatic performance enhancements
+and discounts for delivering data assets to the public or customers. Cloud providers
+offer CDN options and many other providers, such as Cloudflare. CDNs work best
+when delivering the same data repeatedly, but make sure that you read the fine
+print. Remember that CDNs don’t work everywhere, and certain countries may block
+internet traffic and CDN delivery.
+The Future of Data Egress Fees
+Data egress fees are a significant impediment to interoperability, data sharing, and
+data movement to the cloud. Right now, data egress fees are a moat designed to
+prevent public cloud customers from leaving or deploying across multiple clouds.
+But interesting signals indicate that change may be on the horizon. In particular,
+Zoom’s announcement in 2020 near the beginning of the COVID-19 pandemic that it
+chose Oracle as its cloud infrastructure provider caught the attention of many cloud
+watchers.2 How did Oracle win this significant cloud contract for critical remote work
+infrastructure against the cloud heavyweights? AWS expert Corey Quinn offers a
+reasonably straightforward answer.3 By his back-of-the-envelope calculation, Zoom’s
+AWS monthly data egress fees would run over $11 million at list price; Oracle’s would
+cost less than $2 million.
+We suspect that GCP, AWS, or Azure will announce significant cuts in egress fees
+in the next few years, leading to a sea change in the cloud business model. It’s
+also entirely possible that egress fees go away, similar to how limited and expensive
+cell-phone minutes disappeared decades ago.
+402
+|
+Appendix B: Cloud Networking
+

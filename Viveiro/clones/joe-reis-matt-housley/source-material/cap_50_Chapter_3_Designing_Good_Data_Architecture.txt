@@ -1,0 +1,4 @@
+# Chapter 3. Designing Good Data Architecture
+
+Paginas: 96-95
+

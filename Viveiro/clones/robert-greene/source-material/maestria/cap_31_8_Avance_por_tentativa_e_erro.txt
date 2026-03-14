@@ -1,0 +1,121 @@
+# 8. Avance por tentativa e erro
+
+Paginas: 83-85
+
+pessoas, não pela psicologia por trás do que fazem ou dizem.) Conforme Calatrava veio a
+descobrir, ao superar essa divisão e combinar o “como” e o “o quê” da arquitetura, ele
+desenvolveu um conhecimento muito mais profundo e integrado da área. Apreendeu uma
+parcela maior da realidade que entra na construção de edifícios. Isso lhe permitiu criar algo
+inټnitamente mais poético, lhe possibilitou estender as fronteiras e romper as convenções da
+arquitetura em si.
+Vivemos em um planeta caracterizado por uma triste dicotomia, que começou uns 500
+anos atrás, quando arte e ciência se separaram. Os cientistas e técnicos passaram a viver em
+seu próprio mundo, concentrando-se principalmente no “como” das coisas. A maioria vive
+no mundo das aparências, usando essas coisas, sem de fato compreender como funcionam.
+Pouco antes da separação, o ideal do Renascimento foi combinar essas duas formas de
+conhecimento. Por isso a obra de Leonardo da Vinci continua a nos fascinar e o
+Renascimento ainda é um ideal. Esse conhecimento mais integrado é, de fato, o estilo do
+futuro, sobretudo agora que se dispõe de muito mais informação.
+Como Calatrava intuiu, essa união deve ser parte de nossa aprendizagem. Precisamos
+estudar profundamente a tecnologia que usamos, o funcionamento do grupo em que
+trabalhamos, a economia de nossa área de atuação, sua essência. Devemos fazer perguntas o
+tempo todo – como as coisas funcionam, como se decide, como o grupo interage? Essa
+integração do conhecimento nos proporcionará uma compreensão mais profunda da
+realidade e, em consequência, nos tornará mais capazes de alterá-la.
+8. Avance por tentativa e erro
+Criado na periferia de Pittsburgh, na Pensilvânia, no começo da década de 1970, Paul
+Graham (nascido em 1964) ټcava hipnotizado pela imagem dos computadores na televisão e
+no cinema. Eram como cérebros eletrônicos, com poderes ilimitados. Parecia que, no futuro
+próximo, seria possível conversar com o computador, e a máquina faria tudo.
+Nos primeiros anos do ensino médio, ele fora admitido em um programa para os alunos
+mais promissores, que lhes oferecia a chance de trabalhar em um projeto criativo de sua
+escolha. Graham decidiu concentrar seu projeto no computador da escola, um mainframe da
+IBM que era usado para imprimir boletins e programas de aula. Aquela foi a primeira vez em
+que ele pôs as mãos em um computador. Embora ainda fosse primitivo, programado com
+cartões perfurados, parecia algo mágico – um portal para o futuro.
+Nos anos seguintes, ele aprendeu, de forma autodidata, a programar computadores,
+consultando os poucos livros então existentes sobre o assunto. Mas, em grande parte, o
+aprendizado foi por tentativa e erro. Como uma pintura em tela, ele podia ver os resultados
+do que havia feito imediatamente. O processo de aprendizado por tentativa e erro lhe
+proporcionava imensa satisfação. Ele descobria as coisas sozinho, sem precisar seguir um
+caminho rígido, imposto por outros. (Essa é a essência do “hacker”.) E quanto mais se
+aprimorava em programação, mais conseguia fazer.
+
+Decidido a avançar nos estudos, resolveu entrar para a Universidade de Cornell, que, na
+época, tinha um dos melhores departamentos de ciências da computação dos Estados
+Unidos. Lá, ټnalmente recebeu instruções sobre os princípios básicos de programação,
+eliminando muitos dos maus hábitos que havia desenvolvido por conta própria. Também
+ټcou intrigado com o novo campo da inteligência artiټcial – a chave para projetar os tipos de
+computador com que sonhara quando criança. Para se manter na fronteira dessa nova área,
+candidatou-se e foi aceito na escola de pós-graduação em ciências da computação da
+Universidade de Harvard.
+Em Harvard, Graham ټnalmente teve que se defrontar com algo sobre si mesmo – não fora
+talhado para a vida acadêmica. Detestava escrever trabalhos de pesquisa. O estilo de
+programação da universidade privou-lhe de toda a diversão e vibração, inerentes ao processo
+de descoberta por tentativa e erro. Ele era um hacker por vocação e de coração, alguém que
+gostava de imaginar as coisas por conta própria. Lá ele conheceu outro hacker, Robert
+Morris, e juntos começaram a explorar as complexidades da linguagem de programação Lisp.
+Parecia ser a linguagem mais poderosa e ٽuida de todas. Compreender Lisp levava-o a
+constatar algo essencial sobre a programação em si. Era uma linguagem adequada para
+hackers de alto nível, uma linguagem feita especificamente para investigação e descoberta.
+Decepcionado com o departamento de ciências da computação de Harvard, Graham
+decidiu desenvolver seu próprio programa de pós-graduação: ele faria uma ampla variedade
+de cursos e descobriria o que mais lhe interessava. Para sua surpresa, viu-se atraído por artes
+– por pintura e pelos temas de história da arte em si. Depois de completar seu ph.D. em
+Harvard, com concentração em ciências da computação, ele se matriculou na Rhode Island
+School of Design. Depois, participou de um programa de pintura na Academia de Florença,
+na Itália. Por ټm, voltou para os Estados Unidos, sem dinheiro mas disposto a se dedicar à
+pintura. Ele se sustentaria com trabalhos de consultoria em programação.
+Com o passar do tempo, reٽetia vez por outra sobre suas escolhas. Os artistas do
+Renascimento passavam por fases de aprendizagem bem delineadas, mas o que ele poderia
+dizer sobre sua própria aprendizagem? Parecia não haver uma verdadeira direção em sua
+vida. Era como os “experimentos” que fazia na escola do ensino médio, unindo retalhos,
+imaginando coisas por meio de sucessivas tentativas e erros, descobrindo na prática o que
+funcionava. Ao moldar seu caminho de forma aleatória, ele descobriu o que evitar – a
+academia, as grandes empresas, qualquer ambiente político. Gostava do processo de fazer
+coisas. No ټm das contas, o que importava para ele era ter possibilidades – ser capaz de
+prosseguir nessa ou naquela direção, dependendo do que a vida lhe oferecesse. Se, ao longo
+dos anos, ele havia passado por qualquer aprendizagem, foi quase espontaneamente.
+Uma tarde, em 1995, ouviu no rádio uma notícia sobre a Netscape – a empresa estava
+exaltando suas perspectivas para o futuro e discutindo como um dia a maioria das empresas
+venderia seus produtos na internet, em ambiente Netscape. Com sua conta bancária outra
+vez no vermelho, mas não admitindo a hipótese de prestar novos serviços de consultoria,
+
+recrutou seu velho amigo hacker Robert Morris para ajudá-lo a desenvolver um soware
+especializado na gestão de negócios on-line. A ideia de Graham era criar um programa que
+seria executado diretamente no servidor web, em vez de ser baixado para o computador do
+usuário. Ninguém havia pensado nisso antes. Assim, ټzeram o programa em Lisp,
+aproveitando a velocidade com que poderiam alterá-lo. Com o produto pronto, constituíram
+uma empresa, a Viaweb, que seria a primeira de sua espécie, pioneira no comércio on-line.
+Três anos depois, venderam-na para o Yahoo! por US$45 milhões.
+Nos anos seguintes, Graham prosseguiria no caminho que iniciara quando ainda estava na
+casa dos 20 anos, mudando para onde seus interesses e habilidades convergiam, para onde
+via possibilidades. Em 2005, deu uma palestra em Harvard sobre suas experiências com a
+Viaweb. Os alunos, entusiasmados com seus conselhos, estimularam-no a abrir algum tipo
+de empresa de consultoria. Instigado pela ideia, ele criou a Y Combinator, sistema de
+aprendizagem para jovens empreendedores em tecnologia, e sua empresa assumiu uma
+participação em cada startup bem-sucedida. Com o passar do tempo, reټnaria o sistema,
+aprendendo à medida que prosseguia. No ټm das contas, a Y Combinator foi sua melhor
+pirataria – algo com que deparou ao acaso e melhorou por meio de seu próprio processo de
+tentativa e erro. A empresa hoje vale cerca de US$500 milhões.
+Cada época tende a criar seu próprio modelo de aprendizagem, mais adequado ao sistema de
+produção vigente. Na Idade Média, durante a fase de formação do capitalismo moderno e
+por força da necessidade de controle de qualidade, apareceu o primeiro sistema de
+aprendizagem, sob condições rigidamente deټnidas. Com o advento da Revolução
+Industrial, esse modelo se tornou em grande parte superado, mas a ideia básica sobreviveu
+na forma de autoaprendizagem – desenvolver-se por conta própria, dentro de determinado
+campo, como fez Darwin em biologia. Era algo compatível com o espírito cada vez mais
+individualista da época. Hoje, estamos na era da informática, com os computadores
+dominando quase todos os aspectos da vida comercial. Embora as condições atuais
+inٽuenciem de muitas maneiras o conceito de aprendizagem, é a abordagem do hacker à
+programação que pode oferecer o modelo mais promissor dessa nova era.
+O modelo é mais ou menos o seguinte: o objetivo é aprender tantas habilidades quanto
+possível, ao sabor das circunstâncias, mas só se elas se relacionarem com seus interesses mais
+profundos. Como um hacker, você valoriza o processo de autodescoberta e de produção de
+algo da mais alta qualidade. Evita a armadilha da carreira predeterminada. Não tem certeza
+de para onde tudo isso o levará, mas aproveita ao máximo a abertura das informações, todos
+os conhecimentos e habilidades à sua disposição. Você veriټca que tipo de trabalho é mais
+compatível com suas peculiaridades e o que deve ser evitado a qualquer custo. Avança por
+tentativa e erro, como acontecia nos seus 20 anos. Você é o programador desse amplo
+processo de aprendizagem, sob as restrições não muito rígidas de seus interesses pessoais.
+

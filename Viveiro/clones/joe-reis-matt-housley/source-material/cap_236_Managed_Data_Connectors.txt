@@ -1,0 +1,39 @@
+# Managed Data Connectors
+
+Paginas: 281-281
+
+(consumers 1 and 2). These events are combined into a new dataset and sent to a
+producer for downstream consumption.
+Figure 7-14. Two datasets are produced and consumed (producers 1 and 2) and then
+combined, with the combined data published to a new producer (producer 3)
+The last point is an essential difference between batch and streaming ingestion.
+Whereas batch usually involves static workflows (ingest data, store it, transform it,
+and serve it), messages and streams are fluid. Ingestion can be nonlinear, with data
+being published, consumed, republished, and reconsumed. When designing your
+real-time ingestion workflows, keep in mind how data will flow.
+Another consideration is the throughput of your real-time data pipelines. Messages
+and events should flow with as little latency as possible, meaning you should pro‐
+vision adequate partition (or shard) bandwidth and throughput. Provide sufficient
+memory, disk, and CPU resources for event processing, and if you’re managing your
+real-time pipelines, incorporate autoscaling to handle spikes and save money as load
+decreases. For these reasons, managing your streaming platform can entail significant
+overhead. Consider managed services for your real-time ingestion pipelines, and
+focus your attention on ways to get value from your real-time data.
+Managed Data Connectors
+These days, if you’re considering writing a data ingestion connector to a database
+or API, ask yourself: has this already been created? Furthermore, is there a service
+that will manage the nitty-gritty details of this connection for me? “APIs” on page
+254 mentions the popularity of managed data connector platforms and frameworks.
+These tools aim to provide a standard set of connectors available out of the box
+to spare data engineers building complicated plumbing to connect to a particular
+source. Instead of creating and managing a data connector, you outsource this service
+to a third party.
+Generally, options in the space allow users to set a target and source, ingest in various
+ways (e.g., CDC, replication, truncate and reload), set permissions and credentials,
+configure an update frequency, and begin syncing data. The vendor or cloud behind
+the scenes fully manages and monitors data syncs. If data synchronization fails, you’ll
+receive an alert with logged information on the cause of the error.
+256
+|
+Chapter 7: Ingestion
+

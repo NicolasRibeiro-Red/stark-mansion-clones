@@ -1,0 +1,191 @@
+12. As uvas doces de Tales
+Em que discutimos a ideia de fazer em vez de percorrer a Grande Caminhada — A ideia de uma livre opção — Um filósofo pode ser chamado de novo-rico?
+Na
+Política
+de Aristóteles aparece um relato sobre o filósofo e matemático pré-socrático Tales de Mileto. Essa história, que mal chega a meia página, expressa tanto a antifragilidade quanto sua difamação, e nos introduz na opcionalidade. O aspecto extraordinário da história é que Aristóteles, provavelmente o pensador mais influente de todos os tempos, entendeu exatamente ao contrário o argumento central de seu próprio relato. O mesmo foi feito por seus seguidores, em especial após o Iluminismo e a revolução científica. Não estou dizendo isso para conspurcar o grande Aristóteles, mas para mostrar que a inteligência faz com que descartemos a antifragilidade e ignoremos o poder da opcionalidade.
+O filósofo Tales era jônico de língua grega e linhagem fenícia, nascido na cidade costeira de Mileto, na Ásia Menor, e, como
+alguns
+filósofos, gostava do que fazia. Mileto era um entreposto comercial e tinha o espírito mercantil geralmente atribuído aos povoados fenícios.
+Mas Tales, como filósofo, era tipicamente desprovido de recursos pecuniários. Ele se cansava de ouvir seus amigos, cuja vida girava em torno de transações comerciais, insinuando em tom de censura que “quem sabe fazer faz; os demais filosofam”. Ele realizou a seguinte proeza: arranjou algum capital e pagou um adiantamento que lhe dava o direito de uso sazonal de todas as prensas de azeite de oliva dos arredores de Mileto e Quios, arrendamento que conseguiu negociar a um baixo preço. Chegada a safra, a colheita de azeitonas foi extremamente generosa, o que resultou na alta da demanda por prensas, então Tales renegociou o aluguel delas em seus próprios termos, angariando no processo uma substancial fortuna. Depois disso, voltou para suas meditações filosóficas.
+A soma em dinheiro que Tales amealhou era vultosa, talvez não o suficiente para torná-lo podre de rico, mas o suficiente para provar — para os outros, mas, desconfio, também para si mesmo — que ele agia conforme o próprio discurso e realmente estava acima, e não abaixo, da riqueza. Esse tipo de acúmulo de capital é o que chamo no meu vernáculo de “dinheiro suficiente para mandar todo mundo à m**” — uma soma grande o bastante para que a pessoa obtenha a maior parte, se não todas, as vantagens da riqueza (a mais importante delas a independência e a capacidade de ocupar a mente apenas com assuntos que lhe interessam), mas não seus efeitos colaterais, como ser obrigado a frequentar eventos beneficentes vestindo traje de gala e obrigado a ouvir uma refinada exposição dos detalhes da reforma de uma suntuosa casa adornada com mármore de Carrara. O pior efeito colateral da riqueza são as relações sociais que ela impõe a suas vítimas, já que as pessoas com mansões luxuosas tendem a acabar se socializando com outros donos de mansões luxuosas.
+Além de certo nível de opulência e independência, os cavalheiros tendem a ser cada vez menos encantadores, e suas conversas, cada vez menos interessantes.
+A história de Tales tem muitas morais, todas ligadas à assimetria (e à construção de uma compensação antifrágil). A principal está relacionada ao seguinte trecho de Aristóteles: “
+O conhecimento dos astros permitiu-lhe prever, ainda no inverno, que haveria uma safra abundante de olivas
+[…]”. Assim, para Aristóteles, o motivo reconhecido como fato era claramente o conhecimento superior de Tales.
+Conhecimento superior?
+Tales colocou-se em uma posição que lhe permitiu tirar proveito de sua
+falta
+de conhecimento — e da propriedade secreta da assimetria. A chave para nossa mensagem sobre essa assimetria vantagens-desvantagens é que ele não precisava entender a fundo as mensagens transmitidas pelos corpos celestes.
+Tales apenas fez um contrato que é o arquétipo do que constitui uma assimetria, talvez a única assimetria explícita que é possível encontrar em sua forma mais pura. É uma opção, “o direito, mas não a obrigação” para o comprador, e, é claro, “a obrigação, mas não o direito” para a outra parte, chamada de vendedor. Tales tinha o direito — mas não a obrigação — de usar as prensas caso houvesse um súbito aumento na demanda; a outra parte tinha a obrigação, mas não o direito. Tales pagou um preço pequeno por esse privilégio, com uma perda limitada e um grande resultado possível. É a primeira opção de que se tem registro.
+A opção é um agente da antifragilidade.
+OPÇÃO E ASSIMETRIA
+O episódio da prensa de azeite aconteceu cerca de seiscentos anos antes de Sêneca escrever seus textos sobre suas mesas com pernas de marfim, e trezentos anos antes de Aristóteles.
+A fórmula no capítulo 10 era:
+antifragilidade
+é igual a
+ter mais a ganhar do que a perder, o que é igual a mais vantagens do que desvantagens, o que é igual à assimetria
+(
+favorável
+)
+, o que é igual à volatilidade.
+E se você ganha mais quando está certo do que perde, quando está errado, então será beneficiado, a longo prazo, da volatilidade (e vice-versa). Terá prejuízos apenas se, repetidamente, pagar alto demais pela opção. Mas, nesse caso, é evidente que Tales fez um bom negócio — e, veremos, no restante do Livro
+IV
+, que não precisamos pagar pelas opções que nos são dadas pela natureza e pela inovação tecnológica. Opções financeiras podem ser caras, pois as pessoas sabem que são opções e que
+alguém
+as está vendendo e cobrando um preço — mas, na maioria, as opções interessantes são gratuitas ou, na pior das hipóteses, baratas.
+E o fundamental é que nós simplesmente não precisamos
+saber
+o que está acontecendo quando compramos algo barato — quando temos a assimetria trabalhando a nosso favor. Mas essa propriedade vai além de comprar algo a baixo custo: não precisamos entender as coisas quando temos alguma ligeira vantagem. E a ligeira vantagem da opcionalidade está na maior compensação quando você está certo, o que torna desnecessário estar certo com muita frequência.
+As opções das uvas doces
+A opção da qual estou falando não é nem um pouco diferente do que chamamos de opções na vida diária: por exemplo, o resort de férias com mais opções de lazer está mais propenso a oferecer a você uma atividade que lhe agrade, e aquele com menos opções tende a não atender a suas expectativas. Assim, você precisa de
+menos informações
+, ou seja, menos conhecimento, sobre o resort com o maior leque de opções.
+Há outras opções ocultas na nossa história de Tales. A independência financeira, quando utilizada com inteligência, pode nos tornar robustos; ela dá opções e nos possibilita fazer as escolhas certas. A liberdade é a opção por excelência.
+Ademais, uma pessoa nunca chega a conhecer a si mesma — suas verdadeiras preferências —, a menos que tenha de encarar opções e escolhas. Lembre-se de que a volatilidade da vida nos ajuda a disponibilizar informações sobre os outros, mas também sobre nós mesmos. Muitas pessoas são pobres contra a própria vontade inicial, e só se tornam robustas ao manipular os fatos e inventar uma história mal contada de que ser pobre foi uma escolha de caso pensado — como se tivessem essa opção. Algumas dessas histórias são genuínas; muitas pessoas realmente não têm opção — elas a constroem. A história das uvas verdes — como na fábula de Esopo — é quando alguém convence a si mesmo de que as uvas que não consegue alcançar têm gosto amargo. O ensaísta Michel de Montaigne entende o episódio de Tales como uma história de imunidade às uvas verdes e amargas: você precisa saber se
+não gosta
+da busca de dinheiro e de riqueza porque genuinamente não gosta disso ou porque está racionalizando sua incapacidade de ser bem-sucedido nessa empreitada alegando que a riqueza não é uma coisa boa, porque faz mal ao sistema digestivo ou porque atrapalha o sono, ou outros argumentos da mesma natureza. Assim, o episódio elucidou Tales sobre suas próprias escolhas na vida — até que ponto era genuína sua dedicação à filosofia. Ele tinha outras
+opções
+. E, vale a pena repetir, opções, quaisquer opções, ao possibilitar a uma pessoa mais vantagens do que desvantagens, são vetores de antifragilidade.
+1
+Tales, ao financiar sua própria filosofia, tornou-se o mecenas de si mesmo, talvez a posição social mais alta que alguém pode alcançar: ser ao mesmo tempo independente e intelectualmente produtivo. Ele agora tinha ainda mais
+opções
+. Não era obrigado a dizer a outras pessoas — que o financiavam — para onde estava indo, porque talvez nem ele mesmo soubesse para que direção rumava. Graças ao poder das opções, ele não tinha que fazer isso.
+Os breves relatos a seguir nos ajudarão a investigar mais a fundo a noção de
+opcionalidade
+— a propriedade de compensações semelhantes a opções e de situações similares a opções.
+Sábado à noite em Londres
+Tarde de sábado em Londres. Estou às voltas com uma considerável fonte de estresse: decidir para onde ir à noite. Gosto muito do tipo de inesperado que se encontra em festas (ir a festas tem opcionalidade, talvez o melhor conselho para alguém que queira beneficiar-se com a incerteza com baixo nível de desvantagens). Meu medo de comer sozinho em um restaurante enquanto releio
+o mesmo trecho de
+Discussões tusculanas
+, de Cícero, que, graças a seu formato de bolso, venho carregando comigo há uma década (e do qual leio mais ou menos três páginas e meia por ano), foi amenizado por um telefonema. Alguém, que não é um amigo íntimo, ao ficar sabendo que eu estava na cidade, convidou-me para uma reunião social em Kensington, mas, sabe-se lá como, não me exigiu nenhum comprometimento, com um mero “apareça por lá se quiser.” Ir à festa é melhor do que comer sozinho com as
+Discussões tusculanas
+de Cícero, mas essas pessoas não são muito interessantes (muitas estão envolvidas na City of London, e funcionários de instituições financeiras raramente são interessantes e, mais raramente ainda, agradáveis), e sei que posso arranjar algo melhor para fazer, mas não tenho certeza se serei capaz disso. Então faço algumas ligações: se surgir algo melhor do que a festa em Kensington, como um jantar com um de meus amigos de verdade, será a minha escolha. Caso contrário, entrarei em um táxi rumo a Kensington. Eu tenho uma
+opção
+, não uma obrigação. Ela apareceu sem custo algum, já que eu nem sequer a solicitei. Então, tenho nas mãos uma desvantagem pequena, não, inexistente, e uma grande vantagem.
+Essa é uma opção gratuita, pois o privilégio não tem custo real nenhum.
+Seu aluguel
+Segundo exemplo: suponha que você seja o inquilino de um apartamento alugado — e cujo valor do aluguel é controlado — em Nova York, é claro, com paredes forradas de estantes de livros. Você tem a
+opção
+de morar no apartamento pelo tempo que bem quiser,
+mas nenhuma obrigação de fazer isso. Caso você decida mudar-se para Ulan Bator, na Mongólia, e começar uma nova vida lá, pode simplesmente notificar o locatário com determinado número de dias de antecedência, dizer muito obrigado e adeus. Caso contrário, o locatário é obrigado a deixá-lo viver ali de modo quase permanente, mediante o pagamento de um valor previamente estipulado. Se o preço dos aluguéis na cidade tiver uma alta extorsiva e o mercado imobiliário sofrer uma explosão semelhante a uma bolha, você estará em grande medida protegido. Por outro lado, se o preço dos aluguéis desabar, você pode facilmente trocar de apartamento e reduzir o pagamento mensal — ou até mesmo comprar um apartamento e obter uma hipoteca com prestações mensais mais baixas.
+Pense na assimetria da mesma forma. Você se beneficia com os aluguéis mais baixos, mas não é prejudicado pelos aluguéis mais altos. Como? Porque aqui, mais uma vez, você tem uma opção, não uma obrigação. De certa maneira, a incerteza aumenta o valor desse privilégio. Se você se deparar com um alto grau de incerteza sobre resultados futuros, com enormes decréscimos potenciais ou enormes aumentos potenciais no valor dos imóveis, sua opção se tornaria mais valiosa. Quanto mais incerteza, mais valiosa a opção.
+Novamente, trata-se de uma opção inerente, oculta, pois esse privilégio não acarreta custos.
+Assimetria
+Vamos examinar, mais uma vez, a assimetria de Tales — junto com a assimetria de qualquer opção. Na figura 5, o eixo horizontal representa o aluguel, e o eixo vertical, os lucros correspondentes em
+thekels
+. A figura 5 mostra
+a assimetria: nessa situação, o retorno financeiro é maior de uma maneira (se você estiver certo, “ganha uma grana pesada”) do que de outra (se estiver errado, “perde uma ninharia”).
+FIGURA 5.
+A antifragilidade de Tales. Ele paga pouco em troca de um enorme potencial. Podemos ver a assimetria entre as vantagens e as desvantagens.
+O eixo vertical na figura 5 representa uma função do aluguel das prensas (o lucro pela opção). Tudo que leitor precisa observar nesse quadro é a não linearidade (ou seja, a assimetria, com mais vantagens do que desvantagens; a assimetria é uma forma de não linearidade).
+Coisas que gostam da dispersão
+Uma das propriedades da opção: ela não se preocupa com o resultado médio, apenas com os resultados favoráveis (uma vez que, após determinado ponto, a desvantagem não é levada em conta). Para escritores, artistas e até mesmo filósofos, é muito melhor ter um número reduzido de fanáticos que os admiram do que uma multidão que aprecia o trabalho deles. Não importa a quantidade de pessoas que não gostam do trabalho — não existe o
+contrário
+de comprar um livro, ou o equivalente
+a perder pontos em um jogo de futebol, e essa ausência do domínio negativo na venda de livros proporciona ao escritor certa medida de opcionalidade.
+Além disso, ajuda muito quando seus defensores são ao mesmo tempo entusiastas e influentes. Wittgenstein, por exemplo, era considerado um lunático, um esquisitão ou apenas um falante de bobagens por aqueles cuja opinião não importava (ele publicou muito pouco). Mas contava com um pequeno número de seguidores que o idolatravam, e alguns, a exemplo de Bertrand Russell e J
+. M.
+Keynes, eram realmente influentes.
+Além dos livros, reflita sobre a seguinte heurística: o seu trabalho e as suas ideias, seja na política, nas artes ou em outros domínios, são antifrágeis se, em vez de ter 100% das pessoas considerando sua missão aceitável ou moderadamente louvável, você estiver em situação mais favorável contando com uma alta porcentagem de pessoas que não gostam de você e de sua mensagem (até mesmo com aversão vigorosa), em combinação com uma baixa porcentagem de apoiadores extremamente fiéis e entusiasmados. As opções gostam da dispersão de resultados e não se importam muito com a média.
+Outro segmento de negócios que não se preocupa com a média, mas sim com a dispersão em torno da média, é a indústria de bens de luxo — joias, relógios de pulso, arte, apartamentos caros em locais chiques, vinhos raros de colecionadores, ração gourmet probiótica para cães produzida em fazendas etc. Para esses setores de negócios só importam os recursos disponíveis para os ricaços. Se a população do mundo ocidental tivesse uma renda média de 50 mil dólares, sem nenhuma desigualdade, os vendedores de artigos de luxo não sobreviveriam. Mas se a média permanecer a mesma, só que com
+um alto grau de desigualdade, com algumas rendas superiores a 2 milhões de dólares, e potencialmente algumas rendas superiores a 10 milhões, então esse ramo terá uma profusão de consumidores — ainda que esses rendimentos elevados sejam contrabalançados por miríades de pessoas com rendimentos mais baixos. As “caudas” da distribuição na ponta superior das categorias de rendimento, as extremidades, são determinadas muito mais por mudanças na desigualdade do que por alterações na média. Ela ganha com a dispersão e, portanto, é antifrágil. Isso explica a bolha nos preços dos imóveis na área central de Londres, determinada pela desigualdade na Rússia e no golfo Pérsico, e totalmente independente da dinâmica do mercado imobiliário na Inglaterra. Alguns apartamentos, aqueles para os muito ricos, são vendidos por um preço vinte vezes maior do que o valor médio do metro quadrado de um edifício a poucos quarteirões de distância.
+Larry Summers, ex-presidente da Universidade Harvard, ficou em apuros (de forma desastrada) ao apresentar uma versão para essa questão e terminou perdendo o emprego, em decorrência dos protestos. Ele estava tentando dizer que homens e mulheres são inteligentes em igual medida, mas a população masculina tem mais variações e mais dispersão (portanto, mais volatilidade), havendo mais homens muito pouco inteligentes e mais homens extremamente inteligentes. Para Summers, isso explicaria por que há uma presença maciça de homens nas comunidades científica e intelectual (assim como o elevado número de homens em prisões ou indo à falência). O número de cientistas bem-sucedidos depende das “caudas”, dos extremos, mais do que da média. Exatamente como uma opção não se
+preocupa com os resultados adversos, ou um escritor não se preocupa com as pessoas que o execram.
+Atualmente, ninguém ousa afirmar o óbvio: talvez não seja possível alcançar o crescimento da sociedade elevando-se a média ao modo asiático, mas aumentando o número de pessoas nas “caudas”, aquele número pequeno, muito pequeno, de pessoas que correm riscos, suficientemente loucas para ter ideias próprias, dotadas daquela muito rara habilidade chamada de imaginação, e daquela qualidade ainda mais rara chamada coragem, e que fazem as coisas acontecer.
+O TALESIANO E O ARISTOTÉLICO
+Agora, um pouco de filosofia. Conforme vimos anteriormente na explicação do problema do Cisne Negro no capítulo 8, o tomador de decisões concentra-se no ganho auferido, na consequência das ações (portanto, inclui assimetrias e efeitos não lineares). Para o aristotélico, o foco é estar certo e errado — em outras palavras, a lógica em estado bruto. Eles se entrecruzam com menos frequência do que se pensa.
+Aristóteles cometeu o erro de pensar que o conhecimento do evento (a safra futura ou o preço do aluguel das prensas de azeite, que demonstramos no eixo horizontal) e a obtenção de lucros com esse conhecimento (eixo vertical) são a mesma coisa. O que aqui não são, por causa da assimetria, como fica óbvio pelo gráfico. Como Tony Gordo afirmará no capítulo 14, “elas não são a mesma coisa” (pronuncia-se “
+coza
+”).
+Como ser burro
+Se você “tem opcionalidade”, não há muita necessidade do que se costuma chamar de inteligência, conhecimento, perspicácia, aptidão e essas coisas complicadas que acontecem em nossos neurônios. Pois você não precisa estar certo com tanta frequência assim. Você precisa é da sabedoria de
+não
+fazer coisas estúpidas a ponto de se machucar (alguns atos de omissão) e reconhecer os resultados favoráveis quando ocorrerem (o essencial é que a sua avaliação não precisa ser feita com antecedência, apenas após o resultado).
+A essa propriedade que nos permite ser burros, ou, como segunda possibilidade, nos permite obter mais resultados do que aqueles que são garantidos pelo conhecimento, chamarei por enquanto de “pedra filosofal” ou “viés de convexidade”, o resultado de uma propriedade matemática chamada de desigualdade de Jensen. A mecânica será explicada mais tarde, no Livro
+V
+, quando intensificaremos o teor técnico do texto; por ora, tenha em mente que a evolução é capaz de produzir objetos com um alto nível de sofisticação e zero de inteligência, simplesmente devido a uma combinação entre a opcionalidade e algum tipo de filtro de seleção, acrescido de algum grau de aleatoriedade, como veremos a seguir.
+Natureza e opções
+O grande biólogo francês François Jacob introduziu na ciência a noção de opções (ou características similares à opção) nos sistemas naturais, graças a tentativa e erro, sob uma variante chamada, em francês, de
+bricolage
+.
+A bricolagem é uma forma de tentativa e erro parecida com
+fazer ajustes
+, no sentido de se arranjar com o que se tem, reciclando peças que de outra forma seriam desperdiçadas.
+Jacob argumentou que, mesmo dentro do útero, a natureza sabe como selecionar: cerca de metade dos embriões sofre um aborto espontâneo — é mais fácil fazer isso do que conceber o bebê perfeito reproduzindo as especificações de um plano técnico. A natureza simplesmente mantém aquilo de que gosta se atender a seus padrões, ou leva a cabo o “fracassar logo” — ela tem uma opção e a utiliza. A natureza entende os efeitos da opcionalidade de modo vastamente melhor do que os seres humanos e, sem dúvida, melhor do que Aristóteles.
+A natureza gira em torno da exploração da opcionalidade; ela ilustra de que modo a opcionalidade é um substituto da inteligência.
+2
+Vamos chamar de
+experimentações e improvisos
+por tentativa e erro quando apresentar pequenos erros e grandes ganhos. A convexidade, uma descrição mais precisa dessa assimetria positiva, será explicada com algum grau de profundidade no capítulo 18.
+3
+O gráfico da figura 7 é o melhor exemplo da ideia presente na Califórnia e proferida por Steve Jobs em um célebre discurso: “Continue faminto, continue tolo”. Ele provavelmente quis dizer: “Seja louco, mas mantenha a racionalidade de escolher o limite superior quando o vir”. Tentativa e erro pode ser vista como a expressão de uma opção, contanto que a pessoa seja capaz de identificar um resultado favorável e tirar proveito dele, como veremos a seguir.
+FIGURA 6.
+O mecanismo de tentativa e erro similar à opção (o modelo fracasse-rápido), também conhecido como experimentação e improviso convexo. Erros de baixo custo, com perdas máximas conhecidas e grande retorno potencial (ilimitado). Uma característica fundamental de Cisnes Negros positivos: os ganhos são irrestritos (ao contrário de um bilhete de loteria), ou melhor, têm um limite desconhecido; mas as perdas resultantes de erros são limitadas e conhecidas.
+FIGURA 7.
+A mesma situação da figura 6, mas no Extremistão o ganho obtido pode ser enorme.
+A racionalidade
+Para fixar, leve em conta a seguinte descrição de uma opção:
+Opção = assimetria + racionalidade
+A parte da racionalidade está em manter o que é bom e jogar fora o que é ruim, sabendo reter os lucros. Como vimos, a natureza tem um filtro para ficar com o bebê bom e livrar-se do ruim. Aí está a diferença entre antifrágil e frágil. O frágil não tem opção. Mas o antifrágil precisa selecionar o que é melhor — a melhor opção.
+Vale a pena insistir que o atributo mais maravilhoso da natureza é a racionalidade com que ela seleciona suas opções e escolhe a melhor para si — graças ao processo de pôr à prova envolvido na evolução. Ao contrário do pesquisador que tem de fazer algo diferente, ela vê uma opção — a assimetria — quando há uma. Assim, a natureza aprimora-se pouco a pouco — os sistemas biológicos engrenam em um estado que é melhor do que o anterior, a propriedade dependente do trajeto que mencionei anteriormente. Na tentativa e erro, a racionalidade consiste em não rejeitar algo que é nitidamente melhor do que se tinha antes.
+Como eu disse, nos negócios, as pessoas pagam pela opção quando ela está identificada e mapeada em um contrato, de modo que tende a ser caro comprar opções explícitas, à semelhança dos contratos de seguro. Elas são, quase sempre, bastante divulgadas. Mas, por causa da dependência do domínio de nossa mente, não reconhecemos essas opções em outros lugares, onde elas
+tendem a permanecer subprecificadas ou a não custar nada.
+Aprendi sobre a assimetria das opções na sala de aula da Wharton School, a Escola Superior de Administração da Universidade da Pensilvânia, no curso sobre opções financeiras, que determinou a minha carreira, e logo percebi que o próprio professor não conseguia ver as implicações. Ele simplesmente não entendia as não linearidades e o fato de que a opcionalidade derivava de algum grau de assimetria! Dependência do domínio: ele não a identificava nos lugares em que o livro didático não apontava a assimetria; ele compreendia a opcionalidade em termos matemáticos, mas não fora da equação. Ele não pensava em tentativa e erro como opção. Não pensava no erro do modelo como opção negativa. E, trinta anos depois, pouca coisa mudou na compreensão das assimetrias por parte de muitos que, ironicamente, lecionam a disciplina de opções.
+4
+Uma opção se esconde onde não queremos que ela se esconda. Repito que as opções se beneficiam com a variabilidade, mas também com as situações em que os erros significam pequenos custos. Portanto, esses erros são como opções — a longo prazo, os erros felizes trazem ganhos; erros infelizes trazem prejuízos. E era exatamente disso que Tony Gordo estava tirando proveito: alguns modelos podem conter apenas erros infelizes, principalmente os modelos de derivativos e outras situações fragilizadoras.
+O que também me impressionou foi que nós, seres humanos e intelectuais, não enxergamos as opções. Essas opções estavam, como veremos no próximo capítulo, à vista de todos.
+A vida é um long gamma
+De fato, à vista de todos.
+Um dia, meu amigo Anthony Glickman, rabino e estudioso do Talmude que se tornou
+trader
+de opções e, em seguida, voltou para a vida de rabino e estudioso do Talmude (até agora), depois de uma dessas conversas sobre como a opcionalidade aplica-se a tudo que existe ao nosso redor, talvez depois de uma de minhas tiradas sobre o estoicismo, calmamente anunciou: “A vida é um
+long gamma
+” (repetindo: no jargão, “
+long
+” significa “beneficia-se com”, “
+short
+” quer dizer “prejudicado por”, e “
+gamma
+” é um nome para a não linearidade de opções, portanto “
+long gamma
+” significa “beneficia-se com a volatilidade e a variabilidade”. Anthony o usava inclusive como seu endereço de e-mail “@longgamma.com”).
+É vasta a literatura acadêmica que tenta nos convencer de que não é racional possuir opções de ações, pois
+algumas
+têm seu valor superprecificado, e o critério de quem considera que seu preço está além do normal são os métodos de cálculo de riscos das faculdades de economia e administração de empresas, que não levam em conta a possibilidade de eventos raros. Além disso, os pesquisadores invocam algo chamado “viés de probabilidade ínfima”, ou efeitos de loteria, em que as pessoas se esforçam ao máximo para pagar um sobrepreço por esses tiros no escuro em cassinos e situações de jogatina. Esses resultados, é claro, são charlatanismo travestido de ciência, com pessoas que, ao estilo de Triffat, são avessas a riscos e, quando querem pensar sobre os riscos, só conseguem pensar em cassinos. Assim como outros enfoques de economistas
+sobre a incerteza, essa visão é desfigurada ao confundir a aleatoriedade da vida com a aleatoriedade bem controlável dos cassinos, o que chamo de “falácia lúdica” (de
+ludes
+, palavra em latim para “jogos”) — o erro cometido pelo sujeito que joga blackjack, como vimos no capítulo 7. Na verdade, criticar todas as apostas em eventos raros com base no fato de que o preço dos bilhetes de loteria é alto demais é tão tolo quanto criticar toda a exposição a riscos sob o argumento de que os cassinos, a longo prazo, ganham o dinheiro dos apostadores, esquecendo-se de que estamos aqui porque corremos riscos
+fora
+dos cassinos. Além do mais, as apostas em cassinos e em bilhetes de loteria também têm uma vantagem máxima conhecida — na vida real, o céu é muitas vezes o limite, e a diferença entre os dois casos pode ser significativa.
+Correr riscos
+não é
+apostar em jogatina, e a opcionalidade
+não
+são bilhetes de loteria.
+Além disso, esses argumentos sobre “probabilidade ínfima” são de uma escolha ridiculamente seletiva. Se elaborássemos uma lista dos segmentos de negócios que mais geraram riqueza na história, veríamos que todos tiveram opcionalidade. Infelizmente, há a opcionalidade de pessoas que roubam as opções de outras pessoas e do contribuinte (conforme veremos na seção sobre ética, no Livro
+VII
+), como os diretores executivos de empresas, que recebem todas as vantagens e não arcam com desvantagem nenhuma. Contudo, os maiores geradores de riqueza nos Estados Unidos, historicamente, têm sido, em primeiro lugar, o setor imobiliário (os investidores têm a opção à custa dos bancos) e, em segundo lugar, o setor tecnológico (que depende quase completamente de tentativa e erro). Além disso, os ramos de negócios
+com opcionalidade negativa (isto é, o oposto de ter opcionalidade), caso do setor bancário, tiveram um desempenho deplorável ao longo da história: em função das crises e explosões, os bancos perdem periodicamente cada centavo que ganharam em sua história.
+Mas tudo isso fica pequeno diante do papel da opcionalidade nas duas evoluções: a natural e a científico-tecnológica; esta última analisaremos no Livro
+IV
+.
+A política romana gosta da opcionalidade
+Até mesmo os sistemas políticos adotam uma forma de experimentação e improviso racional, quando as pessoas são racionais, e por essa razão escolhem a melhor opção: os romanos edificaram seu sistema político por meio de experimentações, e não pela via da “razão”. Políbio, em suas
+Histórias
+, compara o legislador grego Licurgo, que construiu seu sistema político “ignorando a adversidade”, aos romanos mais experientes, que, alguns séculos mais tarde, “chegaram a ele [o sistema político] não por meio de
+algum processo racional
+[grifo meu], mas pela disciplina de muitas lutas e dificuldades, e sempre escolhendo o melhor à luz da experiência adquirida com o desastre”.
+A seguir
+Deixe-me resumir. No capítulo 10, vimos a assimetria fundamental impregnada das ideias de Sêneca: mais vantagens do que desvantagens e vice-versa. Este capítulo refinou a questão e apresentou uma manifestação dessa assimetria na forma de opção, por meio da qual uma pessoa pode obter vantagens se assim quiser, mas sem as desvantagens. Uma opção é a arma da antifragilidade.
+O outro xis da questão do capítulo e do Livro
+IV
+é que a opção é um substituto para o conhecimento — na verdade, não entendo muito bem o que é conhecimento estéril, já que o conhecimento é necessariamente vago e estéril. Então, faço a ousada especulação de que muitas coisas que pensamos ser derivadas da habilidade provêm, em grande medida, de opções, mas de opções bem utilizadas, muito similares à situação de Tales — e muito semelhantes à natureza —, e não do que alegamos ser a compreensão.
+A implicação é não trivial. Pois, se você acha que a educação é a causa da riqueza, em vez de ser resultado dela, ou que ações e descobertas inteligentes são o resultado de ideias inteligentes, terá uma surpresa e tanto. Vejamos que tipo de surpresa.
+1
+. Suponho que a principal vantagem de ser rico (mais do que apenas ser independente) é poder desprezar as pessoas ricas (que é possível encontrar em alta concentração em afetadas estações de esqui), sem uvas verdes e amargas. É ainda mais doce quando esses esnobes não sabem que você é mais rico do que eles.
+2
+. Usaremos a natureza como modelo para mostrar como seu desempenho operacional superior advém da opcionalidade, e não da inteligência — mas não nos deixemos enganar pela falácia naturalista: regras éticas não têm que brotar da opcionalidade.
+3
+. Todo mundo fala sobre sorte e sobre tentativa e erro, mas isso não faz quase nenhuma diferença. Por quê? Porque não se trata de sorte, mas de opcionalidade. Por definição, não se pode tirar proveito da sorte; tentativa e erro pode levar a erros. A opcionalidade tem a ver com a obtenção da parte superior da sorte.
+4
+. Geralmente hesito em discutir minha carreira relacionada a opções, pois temo que o leitor associe a ideia às finanças, em vez de aplicações mais científicas. Fico furioso quando uso explicações e informações técnicas originadas de derivativos e as pessoas as confundem com uma discussão financeira — são apenas técnicas, técnicas portáteis, técnicas muito portáteis, em nome de Baal!

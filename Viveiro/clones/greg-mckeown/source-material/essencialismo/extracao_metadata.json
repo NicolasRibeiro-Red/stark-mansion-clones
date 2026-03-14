@@ -1,0 +1,233 @@
+{
+  "titulo": "Essencialismo",
+  "autor": "Greg McKeown",
+  "total_paginas": 216,
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "Créditos",
+      "paginas": "5-7",
+      "arquivo": "cap_01_Créditos.txt"
+    },
+    {
+      "numero": 2,
+      "titulo": "1. O essencialista",
+      "paginas": "8-29",
+      "arquivo": "cap_02_1_O_essencialista.txt"
+    },
+    {
+      "numero": 3,
+      "titulo": "Primeira parte: Essência",
+      "paginas": "30-31",
+      "arquivo": "cap_03_Primeira_parte_Essência.txt"
+    },
+    {
+      "numero": 4,
+      "titulo": "2. ESCOLHER: O invencível poder da escolha",
+      "paginas": "32-36",
+      "arquivo": "cap_04_2_ESCOLHER_O_invencível_poder_da_escolha.txt"
+    },
+    {
+      "numero": 5,
+      "titulo": "3. DISCERNIR: A desimportância de quase tudo",
+      "paginas": "37-43",
+      "arquivo": "cap_05_3_DISCERNIR_A_desimportância_de_quase_tudo.txt"
+    },
+    {
+      "numero": 6,
+      "titulo": "4. PERDER PARA GANHAR: Que problema eu quero?",
+      "paginas": "44-49",
+      "arquivo": "cap_06_4_PERDER_PARA_GANHAR_Que_problema_eu_quero.txt"
+    },
+    {
+      "numero": 7,
+      "titulo": "Segunda parte: Explorar",
+      "paginas": "50-52",
+      "arquivo": "cap_07_Segunda_parte_Explorar.txt"
+    },
+    {
+      "numero": 8,
+      "titulo": "5. ESCAPAR: Os benefícios de estar indisponível",
+      "paginas": "53-58",
+      "arquivo": "cap_08_5_ESCAPAR_Os_benefícios_de_estar_indisponível.txt"
+    },
+    {
+      "numero": 9,
+      "titulo": "6. OLHAR: Veja o que realmente importa",
+      "paginas": "59-65",
+      "arquivo": "cap_09_6_OLHAR_Veja_o_que_realmente_importa.txt"
+    },
+    {
+      "numero": 10,
+      "titulo": "7. BRINCAR: Adote a sabedoria de sua criança interior",
+      "paginas": "66-71",
+      "arquivo": "cap_10_7_BRINCAR_Adote_a_sabedoria_de_sua_criança_interio.txt"
+    },
+    {
+      "numero": 11,
+      "titulo": "8. DORMIR: Proteja seu patrimônio",
+      "paginas": "72-80",
+      "arquivo": "cap_11_8_DORMIR_Proteja_seu_patrimônio.txt"
+    },
+    {
+      "numero": 12,
+      "titulo": "9. SELECIONAR: O poder dos critérios rígidos",
+      "paginas": "81-88",
+      "arquivo": "cap_12_9_SELECIONAR_O_poder_dos_critérios_rígidos.txt"
+    },
+    {
+      "numero": 13,
+      "titulo": "Terceira parte: Eliminar",
+      "paginas": "89-91",
+      "arquivo": "cap_13_Terceira_parte_Eliminar.txt"
+    },
+    {
+      "numero": 14,
+      "titulo": "10. ESCLARECER: Uma decisão que vale por mil",
+      "paginas": "92-103",
+      "arquivo": "cap_14_10_ESCLARECER_Uma_decisão_que_vale_por_mil.txt"
+    },
+    {
+      "numero": 15,
+      "titulo": "11. OUSAR: O poder de um “não” elegante",
+      "paginas": "104-112",
+      "arquivo": "cap_15_11_OUSAR_O_poder_de_um_não_elegante.txt"
+    },
+    {
+      "numero": 16,
+      "titulo": "12. DESCOMPROMETER-SE: Ganhe muito reduzindo prejuízos",
+      "paginas": "113-120",
+      "arquivo": "cap_16_12_DESCOMPROMETER-SE_Ganhe_muito_reduzindo_prejuíz.txt"
+    },
+    {
+      "numero": 17,
+      "titulo": "13. EDITAR: A arte invisível",
+      "paginas": "121-126",
+      "arquivo": "cap_17_13_EDITAR_A_arte_invisível.txt"
+    },
+    {
+      "numero": 18,
+      "titulo": "14. LIMITAR: A liberdade de estabelecer limites",
+      "paginas": "127-133",
+      "arquivo": "cap_18_14_LIMITAR_A_liberdade_de_estabelecer_limites.txt"
+    },
+    {
+      "numero": 19,
+      "titulo": "Quarta parte: Executar",
+      "paginas": "134-135",
+      "arquivo": "cap_19_Quarta_parte_Executar.txt"
+    },
+    {
+      "numero": 20,
+      "titulo": "15. PREVENIR: A vantagem injusta",
+      "paginas": "136-142",
+      "arquivo": "cap_20_15_PREVENIR_A_vantagem_injusta.txt"
+    },
+    {
+      "numero": 21,
+      "titulo": "16. SUBTRAIR: Produza mais removendo obstáculos",
+      "paginas": "143-147",
+      "arquivo": "cap_21_16_SUBTRAIR_Produza_mais_removendo_obstáculos.txt"
+    },
+    {
+      "numero": 22,
+      "titulo": "17. AVANÇAR: O poder das pequenas vitórias",
+      "paginas": "148-154",
+      "arquivo": "cap_22_17_AVANÇAR_O_poder_das_pequenas_vitórias.txt"
+    },
+    {
+      "numero": 23,
+      "titulo": "18. FLUIR: A genialidade da rotina",
+      "paginas": "155-162",
+      "arquivo": "cap_23_18_FLUIR_A_genialidade_da_rotina.txt"
+    },
+    {
+      "numero": 24,
+      "titulo": "19. FOCALIZAR: O que é importante agora?",
+      "paginas": "163-169",
+      "arquivo": "cap_24_19_FOCALIZAR_O_que_é_importante_agora.txt"
+    },
+    {
+      "numero": 25,
+      "titulo": "20. SER: A vida essencialista",
+      "paginas": "170-177",
+      "arquivo": "cap_25_20_SER_A_vida_essencialista.txt"
+    },
+    {
+      "numero": 26,
+      "titulo": "Apêndice: O essencial da liderança",
+      "paginas": "178-185",
+      "arquivo": "cap_26_Apêndice_O_essencial_da_liderança.txt"
+    },
+    {
+      "numero": 27,
+      "titulo": "Notas",
+      "paginas": "186-198",
+      "arquivo": "cap_27_Notas.txt"
+    },
+    {
+      "numero": 28,
+      "titulo": "Agradecimentos",
+      "paginas": "199-199",
+      "arquivo": "cap_28_Agradecimentos.txt"
+    },
+    {
+      "numero": 29,
+      "titulo": "Sobre o autor",
+      "paginas": "200-200",
+      "arquivo": "cap_29_Sobre_o_autor.txt"
+    },
+    {
+      "numero": 30,
+      "titulo": "Conheça outros títulos da Editora Sextante",
+      "paginas": "201-205",
+      "arquivo": "cap_30_Conheça_outros_títulos_da_Editora_Sextante.txt"
+    },
+    {
+      "numero": 31,
+      "titulo": "Conheça os clássicos da Editora Sextante",
+      "paginas": "206-207",
+      "arquivo": "cap_31_Conheça_os_clássicos_da_Editora_Sextante.txt"
+    },
+    {
+      "numero": 32,
+      "titulo": "Informações sobre a Sextante",
+      "paginas": "208-216",
+      "arquivo": "cap_32_Informações_sobre_a_Sextante.txt"
+    }
+  ],
+  "arquivos": [
+    "cap_01_Créditos.txt",
+    "cap_02_1_O_essencialista.txt",
+    "cap_03_Primeira_parte_Essência.txt",
+    "cap_04_2_ESCOLHER_O_invencível_poder_da_escolha.txt",
+    "cap_05_3_DISCERNIR_A_desimportância_de_quase_tudo.txt",
+    "cap_06_4_PERDER_PARA_GANHAR_Que_problema_eu_quero.txt",
+    "cap_07_Segunda_parte_Explorar.txt",
+    "cap_08_5_ESCAPAR_Os_benefícios_de_estar_indisponível.txt",
+    "cap_09_6_OLHAR_Veja_o_que_realmente_importa.txt",
+    "cap_10_7_BRINCAR_Adote_a_sabedoria_de_sua_criança_interio.txt",
+    "cap_11_8_DORMIR_Proteja_seu_patrimônio.txt",
+    "cap_12_9_SELECIONAR_O_poder_dos_critérios_rígidos.txt",
+    "cap_13_Terceira_parte_Eliminar.txt",
+    "cap_14_10_ESCLARECER_Uma_decisão_que_vale_por_mil.txt",
+    "cap_15_11_OUSAR_O_poder_de_um_não_elegante.txt",
+    "cap_16_12_DESCOMPROMETER-SE_Ganhe_muito_reduzindo_prejuíz.txt",
+    "cap_17_13_EDITAR_A_arte_invisível.txt",
+    "cap_18_14_LIMITAR_A_liberdade_de_estabelecer_limites.txt",
+    "cap_19_Quarta_parte_Executar.txt",
+    "cap_20_15_PREVENIR_A_vantagem_injusta.txt",
+    "cap_21_16_SUBTRAIR_Produza_mais_removendo_obstáculos.txt",
+    "cap_22_17_AVANÇAR_O_poder_das_pequenas_vitórias.txt",
+    "cap_23_18_FLUIR_A_genialidade_da_rotina.txt",
+    "cap_24_19_FOCALIZAR_O_que_é_importante_agora.txt",
+    "cap_25_20_SER_A_vida_essencialista.txt",
+    "cap_26_Apêndice_O_essencial_da_liderança.txt",
+    "cap_27_Notas.txt",
+    "cap_28_Agradecimentos.txt",
+    "cap_29_Sobre_o_autor.txt",
+    "cap_30_Conheça_outros_títulos_da_Editora_Sextante.txt",
+    "cap_31_Conheça_os_clássicos_da_Editora_Sextante.txt",
+    "cap_32_Informações_sobre_a_Sextante.txt"
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "titulo": "Iludidos pelo acaso: A influência da sorte nos mercados e na vida",
+  "autor": "Nassim Nicholas Taleb & Sérgio Moraes Rego",
+  "total_paginas": 310,
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "Folha de rosto",
+      "paginas": "2-1",
+      "arquivo": "cap_01_Folha_de_rosto.txt"
+    },
+    {
+      "numero": 2,
+      "titulo": "Capa",
+      "paginas": "2-2",
+      "arquivo": "cap_02_Capa.txt"
+    },
+    {
+      "numero": 3,
+      "titulo": "Sumário",
+      "paginas": "3-5",
+      "arquivo": "cap_03_Sumário.txt"
+    },
+    {
+      "numero": 4,
+      "titulo": "Prefácio à segunda edição atualizada",
+      "paginas": "6-16",
+      "arquivo": "cap_04_Prefácio_à_segunda_edição_atualizada.txt"
+    },
+    {
+      "numero": 5,
+      "titulo": "Prólogo – Mesquitas nas nuvens",
+      "paginas": "17-24",
+      "arquivo": "cap_05_Prólogo_Mesquitas_nas_nuvens.txt"
+    },
+    {
+      "numero": 6,
+      "titulo": "PARTE I: O ALERTA DE SÓLON — OBLIQUIDADE, ASSIMETRIA, INDUÇÃO",
+      "paginas": "25-27",
+      "arquivo": "cap_06_PARTE_I_O_ALERTA_DE_SÓLON_OBLIQUIDADE_ASSIMETRIA_I.txt"
+    },
+    {
+      "numero": 7,
+      "titulo": "1. Se você é tão rico, por que não é tão esperto?",
+      "paginas": "28-44",
+      "arquivo": "cap_07_1_Se_você_é_tão_rico_por_que_não_é_tão_esperto.txt"
+    },
+    {
+      "numero": 8,
+      "titulo": "2. Um método contábil bizarro",
+      "paginas": "45-63",
+      "arquivo": "cap_08_2_Um_método_contábil_bizarro.txt"
+    },
+    {
+      "numero": 9,
+      "titulo": "3. Uma reflexão matemática sobre a história",
+      "paginas": "64-88",
+      "arquivo": "cap_09_3_Uma_reflexão_matemática_sobre_a_história.txt"
+    },
+    {
+      "numero": 10,
+      "titulo": "4. Acaso, tolice e o intelectual científico",
+      "paginas": "89-95",
+      "arquivo": "cap_10_4_Acaso_tolice_e_o_intelectual_científico.txt"
+    },
+    {
+      "numero": 11,
+      "titulo": "5. Sobrevivência do menos apto: a evolução pode ser iludida pelo acaso?",
+      "paginas": "96-111",
+      "arquivo": "cap_11_5_Sobrevivência_do_menos_apto_a_evolução_pode_ser_.txt"
+    },
+    {
+      "numero": 12,
+      "titulo": "6. Obliquidade e assimetria",
+      "paginas": "112-129",
+      "arquivo": "cap_12_6_Obliquidade_e_assimetria.txt"
+    },
+    {
+      "numero": 13,
+      "titulo": "7. O problema da indução",
+      "paginas": "130-144",
+      "arquivo": "cap_13_7_O_problema_da_indução.txt"
+    },
+    {
+      "numero": 14,
+      "titulo": "PARTE II: MACACOS EM MÁQUINAS DE ESCREVER — VIÉS DO SOBREVIVENTE E OUTRAS DISTORÇÕES DOS FATOS",
+      "paginas": "145-148",
+      "arquivo": "cap_14_PARTE_II_MACACOS_EM_MÁQUINAS_DE_ESCREVER_VIÉS_DO_S.txt"
+    },
+    {
+      "numero": 15,
+      "titulo": "8. Milionários demais no vizinho",
+      "paginas": "149-157",
+      "arquivo": "cap_15_8_Milionários_demais_no_vizinho.txt"
+    },
+    {
+      "numero": 16,
+      "titulo": "9. É mais fácil comprar e vender do que fritar um ovo",
+      "paginas": "158-179",
+      "arquivo": "cap_16_9_É_mais_fácil_comprar_e_vender_do_que_fritar_um_o.txt"
+    },
+    {
+      "numero": 17,
+      "titulo": "10. O perdedor leva tudo — sobre as não linearidades da vida",
+      "paginas": "180-188",
+      "arquivo": "cap_17_10_O_perdedor_leva_tudo_sobre_as_não_linearidades_.txt"
+    },
+    {
+      "numero": 18,
+      "titulo": "11. O acaso e nosso cérebro: somos cegos à probabilidade",
+      "paginas": "189-223",
+      "arquivo": "cap_18_11_O_acaso_e_nosso_cérebro_somos_cegos_à_probabili.txt"
+    },
+    {
+      "numero": 19,
+      "titulo": "PARTE III: CERA NOS OUVIDOS — VIVENDO COM ACASONITE",
+      "paginas": "224-229",
+      "arquivo": "cap_19_PARTE_III_CERA_NOS_OUVIDOS_VIVENDO_COM_ACASONITE.txt"
+    },
+    {
+      "numero": 20,
+      "titulo": "12. Tiques de jogador e pombos numa caixa",
+      "paginas": "230-236",
+      "arquivo": "cap_20_12_Tiques_de_jogador_e_pombos_numa_caixa.txt"
+    },
+    {
+      "numero": 21,
+      "titulo": "13. Carnéades chega a Roma: sobre probabilidade e ceticismo",
+      "paginas": "237-246",
+      "arquivo": "cap_21_13_Carnéades_chega_a_Roma_sobre_probabilidade_e_ce.txt"
+    },
+    {
+      "numero": 22,
+      "titulo": "14. Baco abandona Antônio",
+      "paginas": "247-251",
+      "arquivo": "cap_22_14_Baco_abandona_Antônio.txt"
+    },
+    {
+      "numero": 23,
+      "titulo": "Epílogo – Sólon avisou",
+      "paginas": "252-253",
+      "arquivo": "cap_23_Epílogo_Sólon_avisou.txt"
+    },
+    {
+      "numero": 24,
+      "titulo": "Pós-escrito: Três adendos no chuveiro",
+      "paginas": "254-263",
+      "arquivo": "cap_24_Pós-escrito_Três_adendos_no_chuveiro.txt"
+    },
+    {
+      "numero": 25,
+      "titulo": "Uma viagem à biblioteca: Notas e recomendações de leitura",
+      "paginas": "264-289",
+      "arquivo": "cap_25_Uma_viagem_à_biblioteca_Notas_e_recomendações_de_l.txt"
+    },
+    {
+      "numero": 26,
+      "titulo": "Agradecimentos",
+      "paginas": "290-292",
+      "arquivo": "cap_26_Agradecimentos.txt"
+    },
+    {
+      "numero": 27,
+      "titulo": "Agradecimentos da segunda edição atualizada",
+      "paginas": "293-297",
+      "arquivo": "cap_27_Agradecimentos_da_segunda_edição_atualizada.txt"
+    },
+    {
+      "numero": 28,
+      "titulo": "Referências bibliográficas",
+      "paginas": "298-308",
+      "arquivo": "cap_28_Referências_bibliográficas.txt"
+    },
+    {
+      "numero": 29,
+      "titulo": "Sobre o autor",
+      "paginas": "309-309",
+      "arquivo": "cap_29_Sobre_o_autor.txt"
+    },
+    {
+      "numero": 30,
+      "titulo": "Créditos",
+      "paginas": "310-310",
+      "arquivo": "cap_30_Créditos.txt"
+    }
+  ],
+  "arquivos": [
+    "cap_01_Folha_de_rosto.txt",
+    "cap_02_Capa.txt",
+    "cap_03_Sumário.txt",
+    "cap_04_Prefácio_à_segunda_edição_atualizada.txt",
+    "cap_05_Prólogo_Mesquitas_nas_nuvens.txt",
+    "cap_06_PARTE_I_O_ALERTA_DE_SÓLON_OBLIQUIDADE_ASSIMETRIA_I.txt",
+    "cap_07_1_Se_você_é_tão_rico_por_que_não_é_tão_esperto.txt",
+    "cap_08_2_Um_método_contábil_bizarro.txt",
+    "cap_09_3_Uma_reflexão_matemática_sobre_a_história.txt",
+    "cap_10_4_Acaso_tolice_e_o_intelectual_científico.txt",
+    "cap_11_5_Sobrevivência_do_menos_apto_a_evolução_pode_ser_.txt",
+    "cap_12_6_Obliquidade_e_assimetria.txt",
+    "cap_13_7_O_problema_da_indução.txt",
+    "cap_14_PARTE_II_MACACOS_EM_MÁQUINAS_DE_ESCREVER_VIÉS_DO_S.txt",
+    "cap_15_8_Milionários_demais_no_vizinho.txt",
+    "cap_16_9_É_mais_fácil_comprar_e_vender_do_que_fritar_um_o.txt",
+    "cap_17_10_O_perdedor_leva_tudo_sobre_as_não_linearidades_.txt",
+    "cap_18_11_O_acaso_e_nosso_cérebro_somos_cegos_à_probabili.txt",
+    "cap_19_PARTE_III_CERA_NOS_OUVIDOS_VIVENDO_COM_ACASONITE.txt",
+    "cap_20_12_Tiques_de_jogador_e_pombos_numa_caixa.txt",
+    "cap_21_13_Carnéades_chega_a_Roma_sobre_probabilidade_e_ce.txt",
+    "cap_22_14_Baco_abandona_Antônio.txt",
+    "cap_23_Epílogo_Sólon_avisou.txt",
+    "cap_24_Pós-escrito_Três_adendos_no_chuveiro.txt",
+    "cap_25_Uma_viagem_à_biblioteca_Notas_e_recomendações_de_l.txt",
+    "cap_26_Agradecimentos.txt",
+    "cap_27_Agradecimentos_da_segunda_edição_atualizada.txt",
+    "cap_28_Referências_bibliográficas.txt",
+    "cap_29_Sobre_o_autor.txt",
+    "cap_30_Créditos.txt"
+  ]
+}

@@ -1,0 +1,94 @@
+# Agradecimentos
+
+Paginas: 290-292
+
+Agradecimentos
+Em primeiro lugar, eu gostaria de agradecer aos amigos que podem ser
+considerados legítimos coautores. Sou grato a Stan Jonas, intelectual e
+especialista em aleatoriedade nova-iorquino (não conheço nenhuma
+outra designação que faria justiça a ele), por metade de uma vida de
+conversas, com a animação e o desvelo de neótos, sobre todos os
+temas que resvalam a probabilidade. Agradeço a meu amigo
+probabilista Don Geman (marido de Helyette Geman, orientadora da
+minha tese) por seu apoio entusiasmado a meu livro; ele me fez
+perceber que os probabilistas são nascidos, não criados (muitos
+matemáticos são capazes de calcular, mas não entender, a
+probabilidade; eles não são nem um pouco melhores que a população
+geral em empregar julgamentos probabilísticos). O livro de verdade
+começou com uma conversa que durou a noite inteira com meu amigo
+erudito Jamil Baz durante o verão de 1987, quando ele discutiu a
+formação de dinheiro “novo” e “velho” nas famílias. Eu era então um
+trader promissor, e ele desprezava os traders arrogantes da Salomon
+Brothers que o rodeavam (e foi provado certo). Baz incutiu em mim
+uma voraz introspecção com relação ao meu desempenho na vida e me
+deu a ideia para este livro. Mais tarde, nós dois acabamos fazendo
+doutorado, com tema quase idêntico. Também arrastei comigo muitas
+pessoas em caminhadas (bastante longas) em Nova York, Londres ou
+Paris para discutir algumas partes deste livro — por exemplo, o
+falecido Jimmy Powers, que logo no início ajudou a estimular minha
+atuação como trader e que vivia repetindo que “qualquer um pode
+comprar e vender”, ou meu amigo enciclopédico David Pastel, que
+transita com igual desenvoltura entre a literatura, a matemática e as
+línguas semíticas. Ainda mobilizei meu lúcido colega popperiano
+
+Jonathan Waxman em numerosas conversas sobre a integração das
+ideias de Karl Popper em nossa vida como traders.
+Em segundo lugar, tive a sorte de conhecer Myles Thompson e
+David Wilson, quando ambos estavam na J. Wiley & Sons. Myles
+entendeu que os livros não precisam ser escritos para satisfazer a um
+público rotulado e predenido: ele encontrará seu próprio conjunto
+de leitores, dando, assim, mais crédito ao leitor do que ao editor pré-
+fabricado. Quanto a David, ele acreditou o suciente no livro para me
+dar o empurrão que levou a obra a seu curso natural, livre de todos os
+rótulos e taxonomias. David me viu do jeito que me vejo: alguém
+apaixonado por probabilidade e aleatoriedade e obcecado por
+literatura, mas que por acaso é um trader, em vez de um “especialista”
+genérico. Ele também salvou meu estilo idiossincrático do
+emburrecimento do processo de edição (apesar de todas as falhas, o
+estilo é meu). Por m, Mina Samuels provou ser a mais extraordinária
+editora que se pode imaginar: imensamente intuitiva, culta,
+interessada em questões estéticas e nada intrometida.
+Muitos amigos durante conversas me alimentaram com ideias, que
+acabaram entrando no texto. Posso mencionar os suspeitos habituais,
+todos eles conversadores de primeira de linha: Cynthia Shelton Taleb,
+Helyette Geman, Marie-Christine Riachi, Paul Wilmott, Shaiy Pilpel,
+David DeRosa, Eric Briys, Sid Kahn, Jim Gatheral, Bernard Oppitit,
+Cyrus Pirasteh, Martin Mayer, Bruno Dupire, Raphael Douady,
+Marco Avellaneda, Didier Javice, Neil Chriss e Philippe Asseily.
+Alguns dos capítulos deste livro foram compostos e discutidos
+como parte do Círculo do Odeon, reuniões que eu e meus amigos
+realizamos com variável grau de regularidade (às 22h das quartas-
+feiras, depois da minha aula no Instituto Courant) no bar do
+restaurante Odeon, em Tribeca. Tarek Kheli, genius loci (o espírito
+do lugar) e destacado membro da equipe do Odeon, certicava-se de
+que fôssemos bem atendidos e reforçava nossa assiduidade fazendo
+com que eu me sentisse culpado pelas ausências, o que ajudou
+enormemente na elaboração do livro. Devemos muito a ele.
+Devo expressar também minha gratidão às pessoas que leram o
+manuscrito e que diligentemente ajudaram a corrigir os erros ou
+contribuíram com comentários úteis para sua elaboração: Inge
+
+Ivchenko, Danny Tosto, Manos Vourkoutiotis, Stan Metelits, Jack
+Rabinowitz, Silverio Foresi, Aquiles Venetoulias e Nicholas
+Stephanou. Erik Stettler foi inestimável como revisor. Todos os erros
+são meus.
+Por m, muitas versões deste livro caíram na internet, produzindo
+explosões esporádicas (e aleatórias) de cartas de apoio, correções e
+perguntas preciosas, que me zeram entretecer respostas no texto.
+Muitos capítulos deste livro surgiram como resposta a perguntas de
+leitores. Francesco Corielli, da Universidade Bocconi, alertou-me
+sobre os vieses na divulgação de resultados cientícos.
+Este livro foi escrito e nalizado depois que fundei o Empirica,
+minha casa intelectual, e o “Acampamento Empirica”, na área rural de
+Greenwich, Connecticut, que projetei para se ajustar a meu gosto e
+parecer um passatempo: uma combinação de laboratório de pesquisa
+em probabilidade aplicada, acampamento de verão e, não menos
+importante, centro de operações de trading (vivencei alguns dos meus
+melhores anos prossionais enquanto escrevia estas linhas). Agradeço
+a todas as pessoas que comungam das mesmas ideias que eu e que
+ajudaram a nutrir a atmosfera estimulante de lá: Pallop Angsupun,
+Danny Tosto, Peter Halle, Mark Spitznagel, Yuzhao Zhang e Cyril de
+Lambilly, bem como os membros da Paloma Partners — como Tom
+Witz, que diariamente instigava nossa sabedoria, e Donald Sussman,
+que me forneceu suas penetrantes ponderações.
+

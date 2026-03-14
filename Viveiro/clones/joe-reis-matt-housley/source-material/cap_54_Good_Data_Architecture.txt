@@ -1,0 +1,36 @@
+# “Good” Data Architecture
+
+Paginas: 101-101
+
+7 Mark Richards and Neal Ford, Fundamentals of Software Architecture (Sebastopol, CA: O’Reilly, 2020),
+https://oreil.ly/hpCp0.
+that make up the key sections of the data engineering lifecycle. We’ll use data architec‐
+ture interchangeably with data engineering architecture throughout this book.
+Other aspects of data architecture that you should be aware of are operational and
+technical (Figure 3-2). Operational architecture encompasses the functional require‐
+ments of what needs to happen related to people, processes, and technology. For
+example, what business processes does the data serve? How does the organization
+manage data quality? What is the latency requirement from when the data is pro‐
+duced to when it becomes available to query? Technical architecture outlines how data
+is ingested, stored, transformed, and served along the data engineering lifecycle. For
+instance, how will you move 10 TB of data every hour from a source database to your
+data lake? In short, operational architecture describes what needs to be done, and
+technical architecture details how it will happen.
+Figure 3-2. Operational and technical data architecture
+Now that we have a working definition of data architecture, let’s cover the elements of
+“good” data architecture.
+“Good” Data Architecture
+Never shoot for the best architecture, but rather the least worst architecture.
+—Mark Richards and Neal Ford7
+According to Grady Booch, “Architecture represents the significant design decisions
+that shape a system, where significant is measured by cost of change.” Data architects
+aim to make significant decisions that will lead to good architecture at a basic level.
+What do we mean by “good” data architecture? To paraphrase an old cliche, you
+know good when you see it. Good data architecture serves business requirements with
+a common, widely reusable set of building blocks while maintaining flexibility and
+making appropriate trade-offs. Bad architecture is authoritarian and tries to cram a
+bunch of one-size-fits-all decisions into a big ball of mud.
+76
+|
+Chapter 3: Designing Good Data Architecture
+

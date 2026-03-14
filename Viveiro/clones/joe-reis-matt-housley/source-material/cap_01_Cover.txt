@@ -1,0 +1,178 @@
+# Cover
+
+Paginas: 1-6
+
+Joe Reis &
+Matt Housley
+Fundamentals
+of Data
+Engineering
+Plan and Build
+Robust Data Systems
+
+DATA
+“The world of data has been
+evolving for a while now. First
+there were designers. Then
+database administrators.
+Then CIOs. Then data
+architects. This book signals
+the next step in the evolution
+and maturity of the industry. It
+is a must read for anyone who
+takes their profession and
+career honestly.”
+—Bill Inmon
+creator of the data warehouse
+“Fundamentals of Data
+Engineering is a great
+introduction to the business
+of moving, processing, and
+handling data. I’d highly
+recommend it for anyone
+wanting to get up to speed
+in data engineering or
+analytics, or for existing
+practitioners who want
+to fill in any gaps in their
+understanding.”
+—Jordan Tigani
+founder and CEO, MotherDuck,
+and founding engineer and
+cocreator of BigQuery
+Fundamentals of Data Engineering
+US $69.99
+CAN $87.99
+ISBN: 978-1-098-10830-4
+Twitter: @oreillymedia
+linkedin.com/company/oreilly-media
+youtube.com/oreillymedia
+Data engineering has grown rapidly in the past decade,
+leaving many software engineers, data scientists, and
+analysts looking for a comprehensive view of this practice.
+With this practical book, you’ll learn how to plan and
+build systems to serve the needs of your organization and
+customers by evaluating the best technologies available
+through the framework of the data engineering lifecycle.
+Authors Joe Reis and Matt Housley walk you through the data
+engineering lifecycle and show you how to stitch together
+a variety of cloud technologies to serve the needs of down­
+stream data consumers. You’ll understand how to apply the
+concepts of data generation, ingestion, orchestration, trans­
+formation, storage, and governance that are critical in any
+data environment regardless of the underlying technology.
+This book will help you:
+•	 Get a concise overview of the entire data engineering
+landscape
+•	 Assess data engineering problems using an end-to-end
+framework of best practices
+•	 Cut through marketing hype when choosing data
+technologies, architecture, and processes
+•	 Use the data engineering lifecycle to design and build a
+robust architecture
+•	 Incorporate data governance and security across the data
+engineering lifecycle
+Joe Reis is a “recovering data scientist,” and a data engineer and
+architect.
+Matt Housley is a data engineering consultant and cloud specialist.
+
+Praise for Fundamentals of Data Engineering
+The world of data has been evolving for a while now. First there were designers. Then
+database administrators. Then CIOs. Then data architects. This book signals the next step
+in the evolution and maturity of the industry. It is a must read for anyone who takes their
+profession and career honestly.
+—Bill Inmon, creator of the data warehouse
+Fundamentals of Data Engineering is a great introduction to the business of moving,
+processing, and handling data. It explains the taxonomy of data concepts, without
+focusing too heavily on individual tools or vendors, so the techniques and ideas should
+outlast any individual trend or product. I’d highly recommend it for anyone wanting to
+get up to speed in data engineering or analytics, or for existing practitioners who want to
+fill in any gaps in their understanding.
+—Jordan Tigani, founder and CEO, MotherDuck, and founding
+engineer and cocreator of BigQuery
+If you want to lead in your industry, you must build the capabilities required to provide
+exceptional customer and employee experiences. This is not just a technology problem.
+It’s a people opportunity. And it will transform your business. Data engineers are at the
+center of this transformation. But today the discipline is misunderstood. This book will
+demystify data engineering and become your ultimate guide to succeeding with data.
+—Bruno Aziza, Head of Data Analytics, Google Cloud
+
+What a book! Joe and Matt are giving you the answer to the question, “What must I
+understand to do data engineering?” Whether you are getting started as a data engineer or
+strengthening your skills, you are not looking for yet another technology handbook. You
+are seeking to learn more about the underlying principles and the core concepts of the
+role, its responsibilities, its technical and organizational environment, its mission—that’s
+exactly what Joe and Matt offer in this book.
+—Andy Petrella, founder of Kensu
+This is the missing book in data engineering. A wonderfully thorough account of what it
+takes to be a good practicing data engineer, including thoughtful real-life considerations.
+I’d recommend all future education of data professionals include Joe and Matt’s work.
+—Sarah Krasnik, data engineering leader
+It is incredible to realize the breadth of knowledge a data engineer must have. But don’t
+let it scare you. This book provides a great foundational overview of various architectures,
+approaches, methodologies, and patterns that anyone working with data needs to be
+aware of. But what is even more valuable is that this book is full of golden nuggets of
+wisdom, best-practice advice, and things to consider when making decisions related to
+data engineering. It is a must read for both experienced and new data engineers.
+—Veronika Durgin, data and analytics leader
+I was honored and humbled to be asked by Joe and Matt to help technical review
+their masterpiece of data knowledge, Fundamentals of Data Engineering. Their ability to
+break down the key components that are critical to anyone wanting to move into a data
+engineering role is second to none. Their writing style makes the information easy to
+absorb, and they leave no stone unturned. It was an absolute pleasure to work with some
+of the best thought leaders in the data space. I can’t wait to see what they do next.
+—Chris Tabb, cofounder of LEIT DATA
+Fundamentals of Data Engineering is the first book to take an in-depth and holistic look
+into the requirements of today’s data engineer. As you’ll see, the book dives into the
+critical areas of data engineering including skill sets, tools, and architectures used to
+manage, move, and curate data in today’s complex technical environments.
+More importantly, Joe and Matt convey their master of understanding data engineering
+and take the time to further dive into the more nuanced areas of data engineering and
+make it relatable to the reader. Whether you’re a manager, experienced data engineer, or
+someone wanting to get into the space, this book provides practical insight into today’s
+data engineering landscape.
+—Jon King, Principal Data Architect
+
+Two things will remain relevant to data engineers in 2042: SQL and this book. Joe and
+Matt cut through the hype around tools to extract the slowly changing dimensions of our
+discipline. Whether you’re starting your journey with data or adding stripes to your black
+belt, Fundamentals of Data Engineering lays the foundation for mastery.
+—Kevin Hu, CEO of Metaplane
+In a field that is rapidly changing, with new technology solutions popping up
+constantly, Joe and Matt provide clear, timeless guidance, focusing on the core
+concepts and foundational knowledge required to excel as a data engineer. This book
+is jam packed with information that will empower you to ask the right questions,
+understand trade-offs, and make the best decisions when designing your data architecture
+and implementing solutions across the data engineering lifecycle. Whether you’re
+just considering becoming a data engineer or have been in the field for years,
+I guarantee you’ll learn something from this book!
+—Julie Price, Senior Product Manager, SingleStore
+Fundamentals of Data Engineering isn’t just an instruction manual—it teaches you how to
+think like a data engineer. Part history lesson, part theory, and part acquired knowledge
+from Joe and Matt’s decades of experience, the book has definitely earned its place on
+every data professional’s bookshelf.
+—Scott Breitenother, founder and CEO, Brooklyn Data Co.
+There is no other book that so comprehensively covers what it means to be a data
+engineer. Joe and Matt dive deep into responsibilities, impacts, architectural choices, and
+so much more. Despite talking about such complex topics, the book is easy to read
+and digest. A very powerful combination.
+—Danny Leybzon, MLOps Architect
+I wish this book was around years ago when I started working with data engineers. The
+wide coverage of the field makes the involved roles clear and builds empathy with the
+many roles it takes to build a competent data discipline.
+—Tod Hansmann, VP Engineering
+A must read and instant classic for anyone in the data engineering field. This book fills
+a gap in the current knowledge base, discussing fundamental topics not found in other
+books. You will gain understanding of foundational concepts and insight into historical
+context about data engineering that will set up anyone to succeed.
+—Matthew Sharp, Data and ML Engineer
+
+Data engineering is the foundation of every analysis, machine learning model, and data
+product, so it is critical that it is done well. There are countless manuals, books, and
+references for each of the technologies used by data engineers, but very few (if any)
+resources that provide a holistic view of what it means to work as a data engineer. This
+book fills a critical need in the industry and does it well, laying the foundation for new
+and working data engineers to be successful and effective in their roles. This is the book
+that I’ll be recommending to anyone who wants to work with data at any level.
+—Tobias Macey, host of The Data Engineering Podcast
+

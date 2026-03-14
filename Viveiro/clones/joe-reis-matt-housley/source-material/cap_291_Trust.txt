@@ -1,0 +1,43 @@
+# Trust
+
+Paginas: 363-363
+
+1 Quoted in Benjamin Snyder, “7 Insights from Legendary Investor Warren Buffett,” CNBC Make It, May 1,
+2017, https://oreil.ly/QEqF9.
+Second, you’ll serve data for ML applications. ML is not possible without high-quality
+data, appropriately prepared. Data engineers work with data scientists and ML engi‐
+neers to acquire, transform, and deliver the data necessary for model training.
+Third, you’ll serve data through reverse ETL. Reverse ETL is the process of sending
+data back to data sources. For example, we might acquire data from an ad tech
+platform, run a statistical process on this data to determine cost-per-click bids, and
+then feed this data back into the ad tech platform. Reverse ETL is highly entangled
+with BI and ML.
+Before we get into these three major ways of serving data, let’s look at some general
+considerations.
+General Considerations for Serving Data
+Before we get further into serving data, we have a few big considerations. First and
+foremost is trust. People need to trust the data you’re providing. Additionally, you
+need to understand your use cases and users, the data products that will be produced,
+how you’ll be serving data (self-service or not), data definitions and logic, and data
+mesh. The considerations we’ll discuss here are general and apply to any of the three
+ways of serving data. Understanding these considerations will help you be much
+more effective in serving your data customers.
+Trust
+It takes 20 years to build a reputation and five minutes to ruin it. If you think about
+that, you’ll do things differently.
+—Warren Buffett1
+Above all else, trust is the root consideration in serving data; end users need to trust
+the data they’re receiving. The fanciest, most sophisticated data architecture and serv‐
+ing layer are irrelevant if end users don’t believe the data is a reliable representation of
+their business. A loss of trust is often a silent death knell for a data project, even if the
+project isn’t officially canceled until months or years later. The job of a data engineer
+is to serve the best data possible, so you’ll want to make sure your data products
+always contain high-quality and trustworthy data.
+As you learn to serve data throughout this chapter, we’ll reinforce the idea of baking
+trust into your data and discuss pragmatic ways to accomplish this. We see too many
+cases in which data teams are fixated on pushing out data without asking whether
+stakeholders trust it in the first place. Often, stakeholders lose trust in the data. Once
+338
+|
+Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
+

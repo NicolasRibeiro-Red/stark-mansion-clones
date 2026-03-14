@@ -1,0 +1,682 @@
+# 2. O mais intolerante vence: o domínio da minoria teimosa
+
+Paginas: 74-94
+
+2. O mais intolerante vence: o domínio
+da minoria teimosa
+Por que você não precisa fumar na área de fumantes — Suas opções de comida na
+queda do rei saudita — Como evitar que um amigo trabalhe com afinco demais — A
+conversão de Omar Sharif — Como fazer um mercado entrar em colapso
+A principal ideia por trás de sistemas complexos é que o conjunto se comporta
+de maneiras que não podem ser previstas por seus componentes. As interações
+importam mais do que a natureza das unidades. Estudar formigas individuais
+quase nunca nos dará uma indicação clara de como funciona a colônia. Para isso,
+é preciso entender uma colônia de formigas como uma colônia de formigas, nada
+menos, nada mais, não como uma coleção de formigas. Isso é chamado de
+propriedade “emergente” do todo, pela qual as partes e o todo diferem porque o
+que importa são as interações entre essas partes. E as interações podem obedecer
+a regras muito simples.
+A regra que discutiremos neste capítulo é a regra da minoria, a mãe de todas as
+assimetrias. Basta que uma minoria intransigente — um certo tipo de minoria
+intransigente — que arrisca de maneira significante a própria pele (ou, melhor, se
+dedica de corpo e alma) para alcançar um nível diminutamente pequeno, digamos
+3% ou 4% da população total, para que a população inteira tenha que se
+submeter a suas preferências. Ademais, uma ilusão de ótica vem a reboque com a
+dominação da minoria: um observador ingênuo (que olha para a média padrão)
+ficaria com a impressão de que as escolhas e preferências são as da maioria. Se
+parece absurdo, é porque nossas intuições científicas não estão calibradas para
+isso (deixa as intuições científicas e acadêmicas e os juízos precipitados pra lá;
+eles não funcionam, e sua intelectualização padrão é um fiasco com sistemas
+complexos, embora a sabedoria da sua avó não seja).
+
+Entre outras coisas, muitas outras coisas, a regra da minoria nos mostrará como
+basta apenas um pequeno número de pessoas intolerantes e virtuosas que
+arriscam a própria pele, na forma de coragem, para que a sociedade funcione
+adequadamente.
+FIGURA 1. A caixinha de limonada com o símbolo
+do U circulado, indicando que é (literalmente)
+kosher.
+Este exemplo de complexidade me ocorreu, ironicamente, quando eu estava
+ajudando no churrasco de verão do Instituto de Sistemas Complexos da Nova
+Inglaterra. Enquanto os anfitriões arrumavam a mesa e desempacotavam as
+bebidas, um amigo meu, que era observador e comia apenas alimentos kosher,
+veio me cumprimentar. Ofereci-lhe um copo com aquele tipo de água açucarada
+e amarelada com ácido cítrico que as pessoas às vezes chamam de limonada,
+quase certo de que ele recusaria devido a suas leis dietéticas. Ele não fez isso.
+Bebeu a limonada, e outra pessoa kosher comentou: “Por aqui, todas as bebidas
+são kosher”. Olhamos para a caixinha do suco. Havia uma impressão bem
+pequena: um minúsculo símbolo, um U dentro de um círculo, indicando que era
+
+kosher. O símbolo será detectado por quem se interessar e procurar a diminuta
+impressão. Quanto a mim, tal qual o personagem da peça de Molière, O burguês
+fidalgo, que subitamente descobre que esteve falando em prosa todos esses anos
+sem saber, percebi que, sem saber, eu vinha bebendo bebidas kosher.
+CRIMINOSOS COM ALERGIA A AMENDOIM
+Uma ideia estranha me ocorreu. A população kosher representa menos de três
+décimos de 1% dos residentes dos Estados Unidos. No entanto, parece que quase
+todas as bebidas são kosher. Por quê? Simplesmente porque aderir 100% ao
+kosher permite que os produtores, supermercados, mercearias e restaurantes não
+tenham que fazer distinção entre kosher e não kosher para bebidas, com
+marcadores especiais, corredores separados, inventários separados, diferentes
+instalações de estocagem. E a regra simples que altera o todo é a seguinte:
+O consumidor kosher (ou halal) nunca comerá alimentos não kosher (ou não
+halal), mas um comedor não kosher não é proibido de comer comida kosher.
+Ou, reformulado em outro domínio:
+Uma pessoa com deficiência não vai usar o banheiro regular, mas uma pessoa
+sem deficiência pode usar o banheiro para pessoas com deficiência.
+Verdade seja dita, às vezes, na prática, hesitamos em usar um banheiro
+sinalizado como acessível a pessoas com deficiência devido a algum equívoco —
+confundindo a regra com aquela que rege os estacionamentos, acreditamos que o
+banheiro é reservado para uso exclusivo de pessoas com deficiência.
+Uma pessoa alérgica a amendoim não vai comer produtos com toque de
+amendoim, mas uma pessoa sem essa alergia pode comer itens com traços de
+amendoim.
+O que explica por que é tão difícil encontrar amendoins em aviões dos EUA e
+por que nas escolas geralmente não há amendoins (o que, de certa forma,
+aumenta a quantidade de pessoas com alergia a amendoim, já que a exposição
+reduzida é uma das causas por trás dessas alergias).
+Apliquemos a regra a domínios em que ela pode ser divertida:
+Uma pessoa honesta jamais cometerá atos criminosos, mas um criminoso se
+envolverá prontamente em atos legais.
+
+Chamemos tal minoria de grupo intransigente e a maioria de grupo flexível. E o
+relacionamento entre ambos depende de uma assimetria nas escolhas.
+Em determinada ocasião preguei uma peça em um amigo. Anos atrás, quando a
+“Big Tobacco”, o grupo das grandes multinacionais do tabaco, estava escondendo
+e abafando as evidências dos danos causados pela fumaça ao fumante passivo, nos
+restaurantes de Nova York havia áreas de fumantes e não fumantes (até mesmo os
+aviões tinham, absurdamente, uma seção para fumantes). Certa vez fui almoçar
+com um colega europeu que viera me visitar: o restaurante só tinha lugares
+disponíveis na seção de fumantes. Convenci meu visitante de que precisávamos
+comprar cigarros, pois tínhamos que fumar na seção de fumantes. Ele obedeceu.
+Mais duas coisas. Primeiro, a geografia do terreno, isto é, a estrutura espacial,
+importa um pouco; faz grande diferença se os intransigentes estão em seu
+próprio distrito ou se estão misturados com o restante da população. Se as
+pessoas que seguem a regra da minoria vivessem em guetos com uma pequena
+economia separada, então a regra da minoria não se aplicaria. Mas quando uma
+população tem uma distribuição espacial uniforme, digamos, quando a proporção
+de tal minoria em um bairro é a mesma de todo o vilarejo, e a do vilarejo é a
+mesma que no município, a do município é a mesma que a do estado, a do estado
+é a mesma que em todo o país, então a maioria (flexível) terá que se submeter à
+regra da minoria. Em segundo lugar, a estrutura de custos é bastante importante.
+Acontece em nosso primeiro exemplo que fazer limonada em conformidade com
+as leis kosher não altera muito o preço — é uma questão de evitar alguns aditivos
+padronizados. Mas se a fabricação da limonada kosher custar substancialmente
+mais, então a regra será enfraquecida em alguma proporção não linear à diferença
+nos custos. Se a fabricação de comida kosher custar dez vezes mais, então a regra
+da minoria não se aplicará, exceto talvez em alguns bairros muito ricos.
+Os muçulmanos têm leis kosher, por assim dizer, mas são muito mais limitadas
+e aplicam-se apenas à carne. Muçulmanos e judeus têm regras de abate quase
+idênticas (todo kosher é halal para a maioria dos muçulmanos sunitas, ou assim
+era em séculos passados, mas o inverso não é verdade). Note-se que essas regras
+de abate são impelidas pelo princípio de arriscar a pele no jogo, herdado da
+ancestral prática da Grécia do Mediterrâneo Oriental e do Levante de sacrificar
+animais economicamente onerosos: só adora os deuses quem arrisca a própria
+pele. Os deuses não gostam de receber sacrifícios baratos.
+Agora vejamos a seguinte manifestação da ditadura da minoria. No Reino
+Unido, onde a população muçulmana (praticante) é de apenas 3% a 4%, uma
+proporção muito alta da carne que encontramos é halal. Cerca de 70% das
+
+importações de carne de cordeiro da Nova Zelândia são halal. Perto de 10% das
+lanchonetes da rede Subway armazenam apenas carne halal (ou seja, nada de
+carne de porco), apesar dos custos de perder a clientela de comedores de
+presunto (como eu). O mesmo acontece na África do Sul, que tem
+aproximadamente a mesma proporção de muçulmanos. Lá, uma fatia
+desproporcionalmente alta de carne de frango recebe certificação halal. Mas no
+Reino Unido, e em outros países nominalmente cristãos, o halal não é neutro o
+suficiente para alcançar um alto nível, uma vez que as pessoas podem se rebelar
+contra serem forçadas a respeitar os valores sagrados de outrem — aceitar e
+respeitar os valores sagrados de outras religiões pode sinalizar algum tipo de
+violação da sua própria, se você é um verdadeiro monoteísta. Por exemplo, Al-
+Akhtal, poeta árabe do século VII, deixa claro que nunca come carne halal em seu
+famoso e insolente poema ostentando seu cristianismo: “Não como carne
+sacrificial”: Wa lastu bi’akuli lahmal adahi.
+Al-Akhtal estava ecoando uma reação cristã padrão de três ou quatro séculos
+antes — em tempos pagãos os cristãos eram torturados ao serem forçados a
+comer carne sacrificial, o que eles consideravam um sacrilégio. Muitos mártires
+cristãos adotaram a heroica postura de morrer de fome em vez de ingerir comida
+impura.
+Pode-se esperar que a mesma rejeição das normas religiosas de outros ocorra no
+Ocidente, à medida que crescem as populações muçulmanas na Europa.
+Assim, a regra da minoria pode produzir uma parcela de alimentos halal nas
+lojas maior do que é justificado pela proporção de consumidores halal na
+população, mas com resistência aqui e ali porque algumas pessoas podem ter um
+tabu contra o costume. Mas, com algumas regras não religiosas da kashrut, por
+assim dizer, pode-se esperar que a fatia convirja para mais perto de 100% (ou
+algum número elevado). Nos Estados Unidos e na Europa, empresas de
+alimentos “orgânicos” estão vendendo mais e mais produtos precisamente por
+causa da regra da minoria, e porque algumas pessoas podem considerar que
+alimentos comuns e não rotulados contêm pesticidas, herbicidas e organismos
+transgênicos geneticamente modificados, os OGMs, com, segundo elas, riscos
+desconhecidos (o que chamamos de organismos geneticamente modificados
+neste contexto significa alimentos transgênicos, implicando a transferência de
+genes de um organismo estranho ou espécies que não teriam ocorrido na
+natureza). Ou poderia ser por alguma razão existencial, comportamento
+cauteloso ou conservadorismo burkeano (isto é, seguindo as ideias de precaução
+de Edmund Burke) — alguns podem não querer se aventurar e não correr o risco
+
+de se afastar demais do que seus avós comiam. Rotular algo como “orgânico” é
+uma maneira de dizer que não contém nenhum OGM transgênico.
+Ao promover alimentos geneticamente modificados por meio de todo tipo de
+lobby, compra de congressistas e ostensiva propaganda científica (com
+campanhas difamatórias contra pessoas como este que vos fala, muito mais sobre
+isso daqui a pouco), grandes empresas agrícolas acreditavam tolamente que tudo
+de que precisavam era ganhar a maioria. Não, seus idiotas. Seu apressado e
+precipitado julgamento “científico” é ingênuo demais para esse tipo de decisão.
+Considere que os consumidores de OGMs transgênicos comerão alimentos não
+OGMs, mas não o contrário. Assim, talvez baste haver uma porcentagem
+minúscula — digamos, não mais que 5% — de uma população uniformemente
+distribuída em termos espaciais de consumidores de alimentos não modificados
+geneticamente para que toda a população tenha que comer alimentos não OGM.
+Como? Digamos que você organize um evento corporativo, um casamento ou
+uma suntuosa festa para celebrar a queda do regime da Arábia Saudita, a falência
+do banco de investimentos Goldman Sachs, ou um insulto público a Ray
+Kotcher, presidente da Ketchum, a desprezível empresa de relações públicas
+inimiga de cientistas e denunciantes científicos. Você precisa enviar um
+questionário perguntando às pessoas se elas comem ou não comem OGMs
+transgênicos, para assim reservar refeições especiais adequadamente? Não. Você
+apenas seleciona tudo que não seja OGM, contanto que a diferença de preço não
+seja significativa. E a diferença de preço parece pequena o suficiente para ser
+insignificante, já que os custos dos alimentos (perecíveis) nos Estados Unidos
+são em larga medida cerca de 80% ou 90%, determinados pela distribuição e
+armazenamento, não pelo custo no nível agrícola. E como há maior demanda para
+os alimentos orgânicos, graças à regra da minoria, os custos de distribuição
+diminuem e a regra da minoria acaba acelerando em seu efeito.
+As “Big Ag” (as gigantes do Agronegócio) não percebem que isso é o
+equivalente a entrar em um jogo no qual é preciso não apenas obter mais pontos
+do que o adversário, mas ganhar 97% do total de pontos apenas para ficar seguro.
+É estranho ver que uma indústria que gasta centenas de milhões de dólares em
+campanhas-de-pesquisa-com-difamação, com centenas desses cientistas que se
+consideram mais inteligentes do que o restante de nós, não compreende um
+ponto tão elementar acerca de escolhas assimétricas.
+Outro exemplo: não pense que a propagação de carros com câmbio automático
+seja necessariamente devida a uma preferência da maioria; pode ser apenas
+
+porque aqueles que sabem dirigir veículos com câmbio manual conseguem dirigir
+carros automáticos, mas o inverso não é verdadeiro.
+O método de análise aqui empregado é chamado de “grupo de renormalização”,
+um poderoso aparato em física matemática que nos permite ver como as coisas
+aumentam (ou diminuem). Vamos examiná-lo a seguir — sem matemática.
+FIGURA 2. Grupo de renormalização, etapas de
+um a três (início a partir do topo): quatro caixas
+contendo quatro caixas, com uma das caixas
+escura no primeiro passo, com sucessivas
+aplicações da regra da minoria.
+GRUPO DE RENORMALIZAÇÃO
+A figura 2 mostra quatro caixas exibindo o que é chamado de autossimilaridade
+fractal. Cada caixa contém quatro caixas menores. Cada uma das quatro caixas
+
+conterá quatro caixas, e assim para cima e para baixo até o fim, até chegarmos a
+determinado nível. Existem duas tonalidades: clara para a escolha da maioria e
+escura para a minoria.
+Suponha que a unidade menor contém uma família de quatro pessoas. Uma
+delas está na minoria intransigente e come apenas alimentos não OGM (que inclui
+orgânicos). A cor dessa caixa é escura, e as outras são claras. Nós
+“renormalizamos uma vez” à medida que avançamos para cima: a filha teimosa
+consegue impor sua regra aos quatro e a unidade agora fica toda escura, isto é,
+optará por não OGM. Agora, a etapa três, uma família indo para um churrasco do
+qual participarão outras três famílias. Como eles são conhecidos por comer
+somente alimentos não OGM, os convidados cozinharão apenas orgânicos. O
+supermercado local, percebendo que o bairro é apenas não OGM, muda para não
+OGM a fim de simplificar sua vida, o que afeta o atacadista local, e o sistema
+continua a “renormalizar”.
+Por alguma coincidência, na véspera do churrasco de Boston eu estava de
+bobeira em Nova York e dei uma passada no escritório de Raphael Douady, um
+amigo que eu queria impedir de trabalhar, ou seja, de se empenhar em uma
+atividade que, quando praticada de maneira excessiva e inadequada, provoca a
+perda da clareza mental, além de postura ruim e perda de definição dos traços
+faciais. Por acaso o físico francês Serge Galam estava de passagem pela cidade e
+escolheu o escritório do amigo para matar o tempo e experimentar o péssimo
+café expresso de Raphael. Galam foi o primeiro a aplicar essa técnica de
+renormalização a questões sociais e à ciência política; seu nome era familiar, já
+que ele é o autor do livro mais importante sobre o assunto, que estava havia
+meses no meu porão guardado em uma caixa fechada da Amazon. Ele aprimorou
+sua pesquisa e me mostrou um modelo computacional de eleições segundo o qual
+basta que alguma minoria ultrapasse um certo nível para que suas escolhas
+prevaleçam.
+Assim, a mesma ilusão existe nas discussões políticas, difundida por “cientistas”
+políticos: você acha que, porque algum partido de extrema direita ou esquerda
+tem, digamos, o apoio de 10% da população, o candidato desse partido receberá
+10% dos votos. Não: esses eleitores da base do partido devem ser classificados
+como “inflexíveis” e sempre votarão em sua facção. Mas alguns dos eleitores
+flexíveis também podem votar nessa facção extremista, assim como pessoas não
+kosher podem comer kosher. É com essas pessoas que se deve tomar cuidado,
+pois são elas que podem aumentar o número de votos para o partido extremista.
+Os modelos de Galam produziram um punhado de efeitos contraintuitivos na
+
+ciência política — e as previsões dele se mostraram bem mais próximas dos
+resultados reais do que o consenso ingênuo.
+O VETO
+O que vimos no grupo de renormalização foi o efeito de “veto”, já que uma
+pessoa em um grupo pode dirigir as escolhas. O executivo de publicidade (e bon
+vivant de carteirinha) Rory Sutherland afirmou que isso explica por que algumas
+redes de fast-food, a exemplo do McDonald’s, prosperam. Não é porque
+oferecem um ótimo produto, mas porque não são vetadas em determinado grupo
+socioeconômico — e por uma pequena proporção de pessoas nesse grupo.1
+Quando há poucas escolhas, o McDonald’s parece ser uma aposta segura. É
+também uma aposta segura em locais meio escuros e suspeitos com poucos
+clientes habituais, onde a variação de comida a partir da expectativa pode ser
+relevante — estou escrevendo estas linhas na estação de trem de Milão e, por
+mais ofensivo que possa ser para alguém que gastou uma pequena fortuna para ir
+à Itália, o McDonald’s é um dos poucos restaurantes aqui. E está lotado. De
+modo impressionante, os italianos estão buscando refúgio lá para se resguardar
+de uma refeição arriscada. Talvez odeiem o McDonald’s, mas certamente odeiam
+ainda mais a incerteza.
+Com a pizza é a mesma história: é um alimento aceito de forma universal, e,
+exceto por um punhado de comedores de caviar pseudoesquerdistas, ninguém
+será repreendido por ter pedido uma.
+Rory escreveu-me sobre a assimetria vinho-cerveja e as escolhas que se fazem
+para as festas: “Se houver 10% ou mais de mulheres em uma festa, você não vai
+poder servir apenas cerveja. Mas a maioria dos homens bebe vinho. Então você
+só precisa de um jogo de taças se servir apenas vinho — o doador universal, para
+usar a linguagem dos grupos sanguíneos”.
+Essa estratégia de buscar o ideal entre opções não necessariamente formidáveis
+pode ter sido posta em prática pelos cazares quando estavam tentando escolher
+entre o islamismo, o judaísmo e o cristianismo. Diz a lenda que três delegações
+de figuras de alto escalão das três religiões (bispos, rabinos e xeques) vieram
+fazer o discurso de persuasão. Os senhores cazares perguntaram aos cristãos: se
+vocês fossem forçados a escolher entre o judaísmo e o islamismo, qual
+escolheriam? Judaísmo, responderam eles. A seguir os senhores perguntaram aos
+muçulmanos: qual dos dois, cristianismo ou judaísmo? Judaísmo, disseram os
+muçulmanos. E o judaísmo foi escolhido e a tribo se converteu.
+
+LÍNGUA FRANCA
+Se uma reunião ocorre na Alemanha, na sala de conferências de aparência
+teutônica de uma corporação suficientemente internacional ou europeia, e uma
+das pessoas presentes não fala alemão, toda a reunião será realizada em… inglês, a
+variedade de inglês deselegante usada em corporações mundo afora. Dessa forma,
+eles podem ofender igualmente seus ancestrais teutônicos e a língua inglesa.
+Tudo começou com a regra assimétrica de que aqueles que não são falantes
+nativos de inglês sabem falar inglês (mal), mas o inverso — falantes de inglês que
+sejam conhecedores de outros idiomas — é bem menos provável. O francês
+deveria ser a linguagem da diplomacia, uma vez que os funcionários públicos de
+origens aristocráticas o usavam, enquanto seus compatriotas mais vulgares
+envolvidos no comércio fiavam-se no inglês. Na rivalidade entre os dois idiomas,
+o inglês levou a melhor à medida que o comércio cresceu a ponto de passar a
+dominar a vida moderna; a vitória nada tem a ver com o prestígio da França ou
+com os esforços dos funcionários públicos franceses para promover sua língua
+mais ou menos bela, latinizada e soletrada de modo lógico, em detrimento da
+ortograficamente confusa língua dos amantes de torta do outro lado do Canal da
+Mancha.
+Podemos, assim, ter uma pista de como o surgimento de línguas francas pode
+advir de regras das minorias — e esse é um ponto que não é visível para os
+linguistas. O aramaico é uma língua semítica que sucedeu a língua cananeia (isto
+é, fenício-hebraico) no Levante e se assemelha ao árabe; era a língua que Jesus
+Cristo falava. A razão pela qual veio a dominar o Levante e o Egito não se deve a
+qualquer poder semítico imperial específico ou o fato de que eles tinham belos
+narizes. Foram os persas — que falam uma língua indo-europeia — que
+difundiram o aramaico, a língua da Assíria, da Síria e da Babilônia. Os persas
+ensinaram aos egípcios um idioma que não era deles. Simplesmente, quando os
+persas invadiram a Babilônia, encontraram uma administração com escribas que
+só eram capazes de usar aramaico e não conheciam o persa, de modo que o
+aramaico tornou-se a língua oficial do Estado. Se a sua secretária só sabe ouvir o
+ditado em aramaico, você usará aramaico. Isso levou à estranheza de o aramaico
+ser usado na Mongólia, pois os registros eram mantidos no alfabeto siríaco (o
+siríaco é o dialeto oriental do aramaico). E, séculos depois, a história se repetiria
+ao contrário, com os árabes usando o grego no início de sua administração nos
+séculos VII e VIII. Pois durante a era helenística o grego substituiu o aramaico
+como a língua franca no Levante, e os escribas de Damasco mantiveram seus
+registros em grego. Contudo, não foram os gregos que espalharam a língua grega
+
+por todo o Mediterrâneo, mas sim os romanos que aceleraram a difusão do grego,
+pois o usaram em sua administração de uma ponta à outra do Império Oriental,
+bem como os levantinos costeiros — o Novo Testamento foi escrito no grego da
+Síria.
+Um amigo franco-canadense de Montreal, Jean-Louis Rheault, lamentando a
+perda da língua francesa entre os canadenses franceses fora de áreas
+estreitamente provinciais, comentou o seguinte: “No Canadá, quando dizemos
+bilíngue, é falante de inglês, e quando dizemos falante de francês, torna-se
+bilíngue”.
+GENES VERSUS LÍNGUAS
+Analisando dados genéticos do Mediterrâneo Oriental com meu colaborador, o
+geneticista Pierre Zalloua, percebemos que ambos os invasores, turcos e árabes,
+deixaram poucos genes, e no caso da Turquia, as tribos da Ásia Central e Oriental
+trouxeram uma língua inteiramente nova. A Turquia surpreendentemente, ainda é
+habitada pelas populações da Ásia Menor sobre as quais você leu nos livros de
+história, mas com novos nomes. Além disso, Zalloua e seus colegas afirmam que
+os cananeus de 3700 anos atrás representam mais de nove décimos dos genes
+dos atuais residentes no Estado do Líbano, com apenas uma diminuta quantidade
+de novos genes adicionados, a despeito do fato de quase todos os possíveis
+exércitos terem passado por lá para fazer turismo ou para saquear um pouco.2
+Enquanto os turcos são mediterrâneos que falam uma língua da Ásia Oriental, os
+franceses (ao norte de Avignon) são em grande parte de uma linhagem do norte
+da Europa, embora falem uma língua mediterrânea.
+Assim:
+Os genes seguem a regra da maioria; as línguas, a regra da minoria.
+Línguas viajam; os genes, menos.
+Isso nos mostra o erro de construir teorias raciais sobre a língua, dividindo as
+pessoas em “arianos” e “semitas”, com base em considerações de ordem
+linguística. Embora o assunto fosse central para os nazistas alemães, a prática
+continua hoje de uma forma ou de outra, muitas vezes de forma benigna. Pois a
+grande ironia é que os supremacistas do norte da Europa (“os arianos”), ainda
+que antissemitas, usaram os gregos clássicos para atribuírem a si mesmos um
+pedigree e uma ligação com uma civilização gloriosa, mas não perceberam que os
+gregos e seus vizinhos mediterrâneos “semíticos” eram na verdade geneticamente
+
+próximos entre si. Recentemente mostrou-se que tanto os gregos antigos quanto
+os levantinos da Idade do Bronze compartilham uma origem anatoliana.
+Simplesmente aconteceu de as línguas divergirem.
+A VIA DE MÃO ÚNICA DAS RELIGIÕES
+Da mesma forma, a disseminação do islã no Oriente Próximo, onde o
+cristianismo estava fortemente entrincheirado (que nasceu ali, é preciso lembrar),
+pode ser atribuída a duas assimetrias simples. Os governantes islâmicos originais
+não estavam particularmente interessados em converter cristãos, já que estes lhes
+proporcionavam receitas fiscais — de início o proselitismo do islamismo não
+mirou as chamadas “pessoas do livro”, isto é, indivíduos da fé abraâmica. De fato,
+meus ancestrais que sobreviveram treze séculos sob o jugo muçulmano viram
+claras vantagens em não serem muçulmanos: principalmente evitar o alistamento
+militar.
+As duas regras assimétricas são as seguintes. Primeiro, sob a lei islâmica, se um
+homem não muçulmano se casa com uma mulher muçulmana, ele precisa se
+converter ao islã — e se o pai ou a mãe de uma criança é muçulmano, a criança
+será muçulmana. Segundo, tornar-se muçulmano é irreversível, pois para essa
+religião a apostasia é o mais grave dos crimes, punido com pena de morte. O
+famoso ator egípcio Omar Sharif, nascido Mikhael Demitri Shalhoub, veio de
+uma família cristã libanesa. Converteu-se ao islã para se casar com uma famosa
+atriz egípcia e teve que trocar seu nome para uma versão arabizada. Mais tarde,
+ele se divorciou, mas não voltou ao credo de seus ancestrais.
+Sob essas duas regras assimétricas, é possível fazer simulações simples e ver
+como um pequeno grupo islâmico que ocupa o Egito cristão (cóptico) pode levar,
+ao longo dos séculos, os coptas a se tornarem uma ínfima minoria. Basta uma
+pequena taxa de casamentos inter-religiosos. Da mesma forma, pode-se ver como
+o judaísmo não se espalha e tende a permanecer na minoria, à medida que a
+religião tem regras mais fracas: exige-se apenas que a mãe seja judia. Uma
+assimetria ainda mais forte que a do judaísmo explica o esgotamento no Oriente
+Próximo de três doutrinas gnósticas: os drusos, os iazidis e os mandeãos
+(religiões gnósticas são aquelas com mistérios e conhecimentos normalmente
+acessíveis apenas a um reduzido número de anciãos, o restante da comunidade
+desconhece os detalhes da fé). Ao contrário do islã, que exige que um dos pais
+seja muçulmano, e do judaísmo, que pede pelo menos que a mãe tenha a fé
+
+judaica, essas três religiões exigem que ambos os pais professem o credo, caso
+contrário a criança e os pais dizem tchauzinho para a comunidade.
+Em lugares como o Líbano, a Galileia e o norte da Síria, de terreno mon-
+tanhoso, os cristãos e outros muçulmanos não sunitas permaneceram con cen-
+trados num mesmo ponto. Os cristãos, por não serem expostos aos muçulmanos,
+não praticavam casamentos inter-religiosos. O Egito, em contraste, tem um
+terreno plano. Lá a distribuição da população apresenta misturas homogêneas, o
+que permite a renormalização (ou seja, permite que a regra assimétrica
+prevaleça).
+Os coptas do Egito padeceram de um problema adicional: a irreversibilidade
+das conversões islâmicas. Durante o jugo islâmico, muitos coptas converteram-se
+à religião dominante quando se tratava meramente de um procedimento
+administrativo, algo que ajuda um indivíduo a obter um emprego ou a lidar com
+um problema que requeira a jurisprudência islâmica. Não era preciso acreditar
+realmente na doutrina pregada por Maomé, já que o islamismo não entra em
+conflito marcante com o cristianismo ortodoxo. Pouco a pouco, uma família
+cristã ou judia que se envolve em uma conversão ao estilo marrano torna-se
+verdadeiramente conversa, já que, algumas gerações depois, os descendentes se
+esquecem do arranjo de seus ancestrais.
+Então, tudo o que o islã fez foi ser mais teimoso que o cristianismo, que por sua
+vez ganhou graças à sua própria teimosia. Pois, antes do islã, a propagação
+original do cristianismo no Império Romano deveu-se em larga escala à…
+intolerância cega dos cristãos, seu proselitismo incondicional, agressivo e
+recalcitrante. De início os pagãos romanos eram tolerantes com os cristãos, já que
+a tradição era compartilhar deuses com outros membros do Império. Mas eles se
+perguntavam por que aqueles nazarenos não queriam dar e receber deuses e
+oferecer aquele tal de Jesus ao panteão romano em troca de alguns outros deuses.
+O quê? Nossos deuses não são bons o suficiente? Mas os cristãos eram intolerantes
+com o paganismo romano. A “perseguição” dos cristãos tinha muito mais a ver
+com a intolerância dos cristãos em relação ao panteão dos deuses locais do que o
+contrário. O que lemos é a história escrita pelo lado cristão, não o greco-romano.
+Sabemos muito pouco acerca da perspectiva romana durante a ascensão do
+cristianismo, já que as hagiografias dominaram o discurso: temos, por exemplo, a
+narrativa da mártir Santa Catarina (Catarina de Alexandria), que continuou
+convertendo seus carcereiros até ser decapitada, exceto pelo fato de que ela…
+talvez nunca tenha existido. Mas a decapitação de São Cipriano, bispo de
+Cartago, sob a perseguição de Valeriano, foi real. Portanto, existem infinitas
+
+histórias de mártires e santos cristãos, mas pouco se sabe sobre os heróis pagãos.
+Até mesmo os primeiros cristãos da tradição gnóstica foram expurgados dos
+registros. Quando Juliano, o Apóstata, tentou voltar ao antigo paganismo, foi
+como tentar vender comida francesa no sul de Nova Jersey: simplesmente não
+havia mercado. Foi como tentar manter um balão debaixo d’água. E não foi
+porque os pagãos tinham um déficit intelectual: a bem da verdade, a minha
+heurística é que quanto mais pagã é uma pessoa, mais brilhante a sua mente e
+maior a sua capacidade de lidar com nuances e ambiguidades. Religiões
+puramente monoteístas, como o cristianismo protestante, o islamismo salafista
+ou o ateísmo fundamentalista são convenientes para mentes literalistas e
+medíocres incapazes de lidar com a ambiguidade.3
+Na verdade, podemos observar na história das “religiões” do Mediterrâneo, ou
+melhor, rituais e sistemas de comportamento e crença, um desvio ditado pelos
+intolerantes, na verdade aproximando o sistema do que podemos chamar de
+religião. O judaísmo poderia ter quase perdido por causa da regra da mãe e seu
+confinamento a uma base tribal, mas o cristianismo imperou, e, pelas mesmas
+razões, o islã também. Islamismo? Houve muitos islãs, o último aumento gradual
+bastante diferente dos anteriores. Pois no fim o próprio islã está sendo dominado
+(no ramo sunita) por puristas simplesmente porque eles são mais intolerantes
+que os demais: os wahhabistas (wahabistas ou vaabistas, também conhecidos
+como salafistas), fundadores da Arábia Saudita, destruíram durante o século XIX
+os santuários na maior parte do território que hoje é seu país. Passaram a impor a
+regra intolerante no máximo grau possível de uma maneira que mais tarde foi
+imitada pelo Estado Islâmico (Isis). Cada acréscimo para o gradual crescimento
+do salafismo parece existir para acomodar os mais intolerantes de suas vertentes.
+DESCENTRALIZAR, DE NOVO
+Outro atributo da descentralização, e que os “intelectuais” contrários à saída da
+Grã-Bretanha da União Europeia (Brexit) não entendem: se é necessário,
+digamos, um limiar de 3% em uma unidade política para que a regra da minoria
+entre em vigor, e, em média, a minoria teimosa representa 3% da população, com
+variações em torno da média, então alguns estados estarão sujeitos à regra, mas
+outros, não. Se, por outro lado, fundirmos todos os estados em um só, então a
+regra da minoria prevalecerá por toda parte. Essa é a razão pela qual os Estados
+Unidos funcionam tão bem. Como tenho repetido a todos que me dão ouvidos,
+
+somos uma federação, não uma república. Para usar a linguagem de Antifrágil, a
+descentralização é convexa a variações.
+IMPONDO A VIRTUDE AOS OUTROS
+Essa ideia de unilateralidade pode nos ajudar a desmascarar mais alguns
+conceitos equivocados. Como é que livros são proibidos? Certamente não
+porque ofendem a pessoa comum — a maioria das pessoas é passiva e não dá a
+mínima, ou não se importa o suficiente para exigir o banimento. A julgar por
+episódios passados, parece que bastam apenas alguns ativistas (motivados) para
+que alguns livros acabem banidos, ou para que os nomes de algumas pessoas vão
+parar em uma lista negra. O grande filósofo e lógico Bertrand Russell perdeu o
+emprego na Universidade da Cidade de Nova York devido a uma carta de uma
+mãe furiosa — e teimosa — que não queria ver a filha na mesma sala que um
+sujeito de estilo de vida dissoluto e ideias obstinadas e turbulentas.
+O mesmo parece aplicar-se às proibições — pelo menos à Lei Seca, que baniu o
+álcool nos Estados Unidos e resultou em interessantes histórias de máfia.
+Vamos conjecturar que a formação de valores morais na sociedade não vem da
+evolução do consenso. Não, é a pessoa mais intolerante que impõe a virtude aos
+outros precisamente por causa dessa intolerância. O mesmo pode ser aplicado
+aos direitos civis.
+Uma percepção reveladora de como os mecanismos da religião e a transmissão
+da moralidade obedecem às mesmas dinâmicas de renormalização que as leis
+dietéticas — e de como podemos mostrar que a moralidade está mais propensa a
+ser algo imposto por uma minoria. Vimos neste mesmo capítulo a assimetria
+entre obedecer a regras e transgredi-las: um sujeito cumpridor da lei (ou que se
+pauta pela obediência às regras) sempre segue as normas, mas um criminoso ou
+alguém com conjuntos mais frouxos de princípios nem sempre infringirá as leis.
+Da mesma forma discutimos os fortes efeitos assimétricos das leis alimentares
+halal. Vamos mesclar os dois. Acontece que, no árabe clássico, o termo halal tem
+um oposto: haram, “ilícito”, “proibido”. Violar regras legais e morais — qualquer
+regra — é chamado de haram. É exatamente o mesmo interdito que rege a
+ingestão de alimentos e todos os outros comportamentos humanos, como dormir
+com a esposa do vizinho, emprestar dinheiro a juros (sem compartilhar do
+infortúnio da pessoa que toma o dinheiro emprestado) ou matar o senhorio por
+prazer. Haram é haram e é assimétrico.
+
+Tão logo uma regra moral é estabelecida, bastará haver uma pequena e
+intransigente minoria de seguidores distribuídos geograficamente para ditar uma
+norma na sociedade. A má notícia é que uma pessoa olhando para a humanidade
+como um agregado pode cometer o erro de acreditar que os seres humanos estão
+se tornando espontaneamente mais dignos, virtuosos, melhores e mais gentis,
+com hálito melhor, quando isso se aplica a apenas uma pequena proporção da
+humanidade.
+Mas as coisas funcionam nos dois sentidos, o bom e o ruim. Embora alguns
+acreditem que os poloneses comuns foram cúmplices no extermínio dos judeus,
+o historiador Peter Fritzsche, quando indagado “por que os poloneses em
+Varsóvia não ajudaram mais seus vizinhos judeus?”, respondeu que eles
+geralmente faziam isso. Mas eram necessários sete ou oito poloneses para ajudar
+um único judeu. E bastava apenas um único polonês, agindo como informante,
+para entregar uma dúzia de judeus. Mesmo que esse antissemitismo seleto seja
+contestável, podemos facilmente imaginar os péssimos resultados decorrentes de
+uma minoria de agentes ruins.
+ESTABILIDADE DA REGRA DA MINORIA, UM ARGUMENTO PROBABILÍSTICO
+Para onde quer que olhemos na sociedade e na história, a tendência é constatar
+que prevalecem as mesmas leis morais gerais, com algumas variações pouco
+significativas: não roubar (pelo menos não dentro da tribo); não caçar órfãos como
+entretenimento; não espancar gratuitamente especialistas em gramática da língua
+espanhola à guisa de treinamento; em vez disso, devem-se usar sacos de pancada (a
+menos que você seja espartano, e mesmo assim você só pode matar um número
+limitado de hilotas para propósitos de treinamento), e proibições similares. E
+podemos ver que essas regras evoluíram ao longo do tempo para se tornarem
+mais universais, expandindo-se para um conjunto mais amplo, progressivamente
+incluindo escravos, outras tribos, outras espécies (animais, economistas) etc. E
+uma propriedade dessas leis: elas são preto no branco, binárias, discretas e não
+permitem nenhuma sombra, nenhuma zona cinzenta. Uma pessoa não pode
+roubar “um pouquinho” ou assassinar “moderadamente” — assim como ninguém
+pode manter-se kosher e comer “só um pedacinho” de carne de porco nos
+churrascos de domingo.
+Não acho que você, se acariciar os seios da esposa ou namorada de um
+halterofilista na frente dele, se sairia bem na confusão que se seguiria, tampouco
+seria capaz de convencer o levantador de pesos de que foi “só um pouquinho”.
+
+Ora, seria vastamente mais provável que esses valores emergissem de uma
+minoria do que de uma maioria. Por quê? Consideremos as duas teses seguintes:
+Os resultados são paradoxalmente mais estáveis sob a regra da minoria — a
+variação dos resultados é menor e é mais provável que a regra surja
+independentemente em populações separadas.
+É mais provável que o que emerge da regra da minoria sejam regras binárias,
+preto no branco.
+Um exemplo. Digamos que uma pessoa maléfica, um professor de economia,
+por exemplo, decide envenenar o coletivo colocando algum produto dentro de
+latas de refrigerante. Ele tem duas opções. O primeiro é o cianeto, que obedece a
+uma regra de minoria: uma gota de veneno (mais alta que um pequeno limiar)
+torna todo o líquido venenoso. O segundo é um veneno “de estilo majoritário”;
+para matar, requer que mais da metade do líquido ingerido seja venenosa. Agora
+examinemos o problema inverso, um grupo de pessoas mortas depois de um
+jantar. O Sherlock Holmes local afirmaria que, condicionado ao resultado de que
+todas as pessoas que beberam o refrigerante morreram, o homem maligno decidiu-
+se pela primeira, e não pela segunda opção. Em termos simples, a regra da
+maioria leva a flutuações em torno da média, com uma alta taxa de sobrevivência.
+Não a regra da minoria. A regra da minoria produz baixa variação nos resultados.
+O PARADOXO DE POPPER-GOEDDEL
+Eu estava em um gigantesco jantar — daqueles com muitas mesas em que o
+convidado tem que escolher entre o risoto vegetariano e a opção não vegetariana
+—, quando notei que a comida do meu vizinho foi servida (incluindo talheres) em
+uma bandeja que lembrava refeição de avião. Os pratos estavam lacrados com
+papel-alumínio. Ele era evidentemente ultrakosher. Não o incomodava estar
+sentado com comedores de presunto cru, que, além disso, misturavam manteiga e
+carne no mesmo prato. Ele só queria seguir suas próprias preferências em paz.
+Para judeus e minorias muçulmanas como xiitas, sufis e religiões (vagamente)
+associadas, como drusos e alauítas, o objetivo é ser deixado em paz — com
+exceções históricas aqui e ali. Mas se meu vizinho fosse um sunita salafista, ele
+teria exigido que o salão inteiro comesse halal. Talvez o prédio inteiro. Talvez a
+cidade inteira. Com sorte, o país inteiro. Idealmente, o planeta inteiro. De fato,
+dada a total falta de separação entre Igreja e Estado em seu credo, e entre o
+
+sagrado e o profano, para ele haram (o oposto de halal) significa literalmente
+“ilegal”. Logo, todos os convivas da festa inteira estavam cometendo uma violação.
+Enquanto escrevo estas linhas, as pessoas estão discutindo se a liberdade do
+Ocidente esclarecido pode ser minada pelas políticas invasivas que seriam
+necessárias para combater os fundamentalistas.
+Pode a democracia — por definição, a maioria — tolerar inimigos? A questão é a
+seguinte: “Você concordaria em negar a liberdade de expressão a todos os
+partidos políticos que têm em seu estatuto a proibição da liberdade de
+expressão?”. Vamos dar um passo adiante: “Uma sociedade que escolheu ser
+tolerante deve ser intolerante com a intolerância?”.
+Esta é, de fato, a incoerência que Kurt Gödel (o grande mestre do rigor lógico)
+detectou na Constituição dos Estados Unidos ao fazer a prova de naturalização.
+Diz a lenda que Gödel começou a debater com o juiz, e Einstein, que foi sua
+testemunha durante o processo, salvou-o. O filósofo da ciência Karl Popper
+descobriu de forma independente a mesma inconsistência nos sistemas
+democráticos.
+Escrevi sobre pessoas com falhas lógicas perguntando-me se alguém deveria ser
+“cético sobre o ceticismo”; usei uma resposta semelhante à de Popper quando me
+indagaram se “alguém poderia falsificar falsificações”. Eu simplesmente caí fora.
+Podemos responder a essas questões usando a regra da minoria. Sim, uma
+minoria intolerante pode controlar e destruir a democracia. Na verdade, no fim
+das contas isso acabará por destruir o nosso mundo.
+Então, precisamos ser mais do que intolerantes com algumas minorias
+intolerantes. Simplesmente porque elas violam a Regra de Prata. Não é admissível
+usar “valores estadunidenses” ou “princípios ocidentais” no tratamento do
+salafismo intolerante (que nega a outras pessoas o direito de terem sua própria
+religião). O Ocidente está atualmente no processo de cometer suicídio.
+IRREVERÊNCIA DOS MERCADOS E DA CIÊNCIA
+Agora vamos refletir sobre os mercados. Podemos dizer que os mercados não
+são a soma dos participantes do mercado, mas as mudanças nos preços refletem
+as atividades do comprador e do vendedor mais motivados. Sim, as regras mais
+motivadas. Na verdade, isso é algo que apenas os traders parecem compreender:
+por que um preço pode cair 10% por causa de um único vendedor. Basta apenas
+um vendedor teimoso. Os mercados reagem de uma maneira desproporcional ao
+ímpeto. Os mercados acionários globais representam atualmente mais de 30
+
+trilhões de dólares, mas uma única ordem em 2008, apenas 50 bilhões, ou seja,
+menos de dois décimos de 1% do total, provocou uma queda de quase 10%,
+desencadeando perdas de cerca de três trilhões de dólares. Como relatei em
+Antifrágil, foi uma ordem de venda ativada pelo banco parisiense Société
+Générale, que descobriu uma aquisição oculta por um trader desonesto e
+especulador e quis reverter a compra. Por que o mercado reagiu de maneira tão
+desproporcional? Porque a ordem era de mão única — teimosa: eles tinham que
+vender e não havia como convencer a gerência do contrário. Meu adágio pessoal
+é:
+O mercado é como uma imensa sala de cinema com uma porta pequena.
+E a melhor maneira de detectar um otário é ver se o foco dele está no tamanho
+da sala de cinema e não no da porta. Ocorrem tumultos em cinemas — por
+exemplo, quando alguém grita “Fogo!” — porque aqueles que querem sair não
+querem ficar lá dentro, exatamente a mesma incondicionalidade que vimos com a
+observância da dieta kosher ou a venda em pânico.
+A ciência age de maneira semelhante. Como vimos anteriormente, a regra da
+minoria está por trás do pensamento de Karl Popper. Mas Popper é severo
+demais, então vamos deixá-lo para mais tarde e, por ora, discutir o mais divertido
+e jovial Richard Feynman, o cientista mais irreverente e brincalhão de seu tempo.
+Seu livro de histórias pitorescas, What Do You Care What Other People Think?
+[O que importa para você o que as outras pessoas pensam?], transmite a ideia da
+irreverência fundamental da ciência, que se porta por meio de um mecanismo
+análogo à assimetria kosher. Como? A ciência não é a soma do que os cientistas
+pensam, mas, exatamente como nos mercados, é um procedimento altamente
+enviesado. Tão logo alguma coisa é desmascarada, agora ela está errada. Se a
+ciência operasse por consenso majoritário, ainda estaríamos presos à Idade
+Média, e Einstein teria terminado como começou, um funcionário de patentes
+com passatempos infrutíferos.
+UNUS SED LEO: É SÓ UM, MAS É UM LEÃO
+Alexandre, o Grande, disse que era preferível ter um exército de ovelhas
+lideradas por um leão do que um exército de leões comandado por uma ovelha.
+Alexandre (ou quem quer que tenha proferido esse provérbio provavelmente
+apócrifo) compreendeu o valor da minoria ativa, intolerante e corajosa. Aníbal
+aterrorizou Roma ao longo de uma década e meia com um pequeno exército de
+
+mercenários, vencendo 22 batalhas contra os romanos, batalhas em que sempre
+esteve em menor número. Ele foi inspirado por uma versão dessa máxima. Pois,
+na Batalha de Canas, ele comentou com o general Gisco, que demonstrou
+preocupação com o fato de que os cartagineses estavam em menor número: “Há
+uma coisa que é mais maravilhosa que o contingente deles… em todo aquele vasto
+exército não há um homem chamado Gisco”.4
+Essa enorme recompensa resultante da coragem teimosa não se limita ao âmbito
+militar. “Nunca duvide de que um pequeno grupo de cidadãos conscientes possa
+mudar o mundo. De fato, essa é a única via que já conseguiu produzir mudanças
+até hoje”, escreveu Margaret Mead. As revoluções são indiscutivelmente
+conduzidas por uma minoria obsessiva. E todo o crescimento da sociedade, seja
+econômico ou moral, vem de um pequeno número de pessoas.
+RESUMO E A SEGUIR
+Assim resumimos este capítulo e o vinculamos a assimetrias ocultas, o subtítulo
+do livro. A sociedade não evolui por consenso, votação, maioria, comitês,
+reuniões verborrágicas, conferências acadêmicas, chá e sanduíches de pepino, ou
+pesquisas de opinião; um mero punhado de pessoas é o suficiente para fazer a
+roda girar de maneira desproporcional e com impacto significativo. Basta uma
+regra assimétrica em algum lugar… e alguém que se dedique de corpo e alma. E a
+assimetria está presente em mais ou menos tudo.5
+No prólogo, prometemos explicar que a escravidão é mais difundida do que
+imaginávamos — na verdade, bem mais. Vamos discorrer sobre isso a seguir, após
+o apêndice.
+1. Em termos técnicos, foi um caso de divergência da melhor das hipóteses em relação às expectativas: uma
+variação menor e uma média menor.
+2. Existe uma controvérsia no Reino Unido, já que os normandos deixaram mais textos e imagens em livros
+de história do que genes por lá.
+3. É fato que, se por um lado o cristianismo erradicou registros anteriores, pode ser que tenha erradicado
+também... sua própria história. Pois estamos descobrindo que ramos como os gnósticos tinham um registro
+bastante diferente da religião primitiva. Mas os gnósticos eram em grande medida uma religião secreta —
+vedada a forasteiros e sigilosa quanto a seus próprios registros. E religiões secretas, bem, morrem com seus
+segredos.
+4. Os cartagineses parecem padecer de escassez de nomes: há uma porção de Amílcares e Asdrúbals,
+confundindo os historiadores. Da mesma forma, parece haver muitos Giscos, incluindo o personagem em
+Salambô, de Flaubert.
+5. É suficiente, por exemplo, uma minoria de 3% para que “Feliz Natal” se torne “Boas-Festas”. Mas a minha
+suspeita é a de que, caso a minoria aumentasse em número, o efeito desapareceria, uma vez que sociedades
+
+diversas são mais sincréticas. Cresci no Líbano na época em que cerca de metade da população era cristã: as
+pessoas cumprimentavam-se na forma pagã romana de compartilhar os feriados santos umas das outras.
+Hoje, os xiitas (e alguns sunitas nos quais a Arábia Saudita ainda não fez lavagem cerebral) desejariam um
+“Feliz Natal” cristão.
+

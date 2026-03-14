@@ -1,0 +1,42 @@
+# What Is a Data Model?
+
+Paginas: 313-313
+
+data systems allowed engineers to bypass traditional data modeling, sometimes for
+legitimate performance gains. Other times, the lack of rigorous data modeling created
+data swamps, along with lots of redundant, mismatched, or simply wrong data.
+Nowadays, the pendulum seems to be swinging back toward data modeling. The
+growing popularity of data management (in particular, data governance and data
+quality) is pushing the need for coherent business logic. The meteoric rise of data’s
+prominence in companies creates a growing recognition that modeling is critical for
+realizing value at the higher levels of the Data Science Hierarchy of Needs pyramid.
+That said, we believe that new paradigms are required to truly embrace the needs of
+streaming data and ML. In this section, we survey current mainstream data modeling
+techniques and briefly muse on the future of data modeling.
+What Is a Data Model?
+A data model represents the way data relates to the real world. It reflects how the
+data must be structured and standardized to best reflect your organization’s processes,
+definitions, workflows, and logic. A good data model captures how communication
+and work naturally flow within your organization. In contrast, a poor data model (or
+nonexistent one) is haphazard, confusing, and incoherent.
+Some data professionals view data modeling as tedious and reserved for “big enterpri‐
+ses.” Like most good hygiene practices—such as flossing your teeth and getting a
+good night’s sleep—data modeling is acknowledged as a good thing to do but is often
+ignored in practice. Ideally, every organization should model its data if only to ensure
+that business logic and rules are translated at the data layer.
+When modeling data, it’s critical to focus on translating the model to business
+outcomes. A good data model should correlate with impactful business decisions.
+For example, a customer might mean different things to different departments in
+a company. Is someone who’s bought from you over the last 30 days a customer?
+What if they haven’t bought from you in the previous six months or a year? Carefully
+defining and modeling this customer data can have a massive impact on downstream
+reports on customer behavior or the creation of customer churn models whereby the
+time since the last purchase is a critical variable.
+A good data model contains consistent definitions. In practice,
+definitions are often messy throughout a company. Can you think
+of concepts or terms in your company that might mean different
+things to different people?
+288
+|
+Chapter 8: Queries, Modeling, and Transformation
+

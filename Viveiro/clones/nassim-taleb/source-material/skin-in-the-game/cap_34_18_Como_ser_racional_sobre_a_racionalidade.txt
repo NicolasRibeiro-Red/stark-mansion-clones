@@ -1,0 +1,272 @@
+# 18. Como ser racional sobre a racionalidade
+
+Paginas: 220-228
+
+18. Como ser racional sobre a
+racionalidade
+Restaurantes sem cozinhas — Ciência desde o túmulo — Não atire à esquerda dos
+pianistas — Mercadores de racionalidade
+Meu amigo Rory Sutherland afirma que a verdadeira função das piscinas é
+permitir que a classe média fique sentada à toa em trajes de banho sem parecer
+ridícula. O mesmo acontece com os restaurantes de Nova York: você acha que a
+missão deles é alimentar as pessoas, mas não é isso que eles fazem. O negócio
+deles é cobrar o olho da cara por bebida destilada ou taças de vinho da Grande
+Toscana, e ainda assim atrair clientes servindo-lhes pratos com baixo teor de
+carboidratos (ou baixo teor de alguma coisa) a um custo mínimo (esse modelo de
+negócios, é claro, não funciona na Arábia Saudita.)
+Assim, quando examinamos a religião e, até certo ponto, as superstições
+ancestrais, devemos levar em consideração a finalidade a que elas servem, em vez
+de enfocar a noção de “crença”, crença epistêmica em sua definição científica
+estrita. Na ciência, crença é crença literal; é certa ou errada, nunca metafórica. Na
+vida real, a crença é um instrumento para fazer as coisas, não o produto final.
+Isso é semelhante à visão: o objetivo de nossos olhos é nos orientar da melhor
+maneira possível, e nos livrar de problemas quando necessário, ou ajudar-nos a
+encontrar uma presa à distância. Nossos olhos não são sensores projetados para
+capturar o espectro eletromagnético. A atribuição da função dos olhos não é
+produzir a representação científica mais precisa da realidade; antes, a
+representação mais útil para a sobrevivência.
+ENGANO OCULAR
+
+Nosso aparato perceptivo comete erros — distorções — a fim de nos levar a
+ações mais precisas: a percepção visual errônea, no fim fica claro, é uma coisa
+necessária. Arquitetos gregos e romanos deturpavam as colunas de seus templos,
+inclinando-as para dentro, a fim de nos dar a impressão de que as colunas são
+retas. Como Vitrúvio explica, o objetivo é “contrabalançar a recepção visual por
+uma mudança de proporções”. Uma distorção tem o intuito de ensejar uma
+intensificação para a experiência estética do observador. O piso do Partenon na
+realidade é curvado, para que possamos vê-lo como reto. As colunas estão
+espaçadas de maneira desigual, de modo que possamos vê-las alinhadas como
+uma divisão russa em marcha num desfile militar.
+Seria o caso de alguém apresentar uma queixa junto ao Ministério do Turismo
+grego alegando que as colunas não são verticais e que alguém está tirando
+proveito de nossos mecanismos visuais?
+ERGODICIDADE EM PRIMEIRO LUGAR
+O mesmo se aplica às distorções de crenças. Há alguma diferença entre a
+percepção visual e levar uma pessoa a acreditar no Papai Noel, se isso aumenta a
+experiência estética natalina dele ou dela? Não, a menos que cause dano.
+Nesse sentido, nutrir superstições não é irracional por nenhuma métrica:
+ninguém conseguiu elaborar um critério para racionalidade baseada em ações que
+não arcam com custo algum. Mas ações que prejudicam uma pessoa são
+detectáveis, se não observáveis.
+Veremos no próximo capítulo que, a menos que a pessoa tenha uma
+representação exagerada e muito irrealista (ao estilo de coluna grega) de alguns
+riscos de cauda, ela não consegue sobreviver — basta apenas um único evento
+para causar uma saída irreversível do sistema de Previdência Social. A paranoia
+seletiva é “irracional” se os indivíduos e populações que não a têm acabam
+morrendo ou extintos?
+Uma declaração que nos orientará pelo restante do livro:
+A sobrevivência vem em primeiro lugar; verdade, compreensão e ciência, depois.
+Em outras palavras, ninguém precisa da ciência para sobreviver (nós
+sobrevivemos por várias centenas de milhões de anos ou mais, dependendo de
+como se define o “nós”), mas é preciso sobreviver para fazer ciência. Como diria
+sua avó, é melhor prevenir do que remediar. Ou, de acordo com a expressão
+atribuída a Hobbes: Primum vivere, deinde philosophari (Primeiro viver; depois
+
+filosofar). Essa precedência lógica é bem compreendida por traders e por pessoas
+no mundo real, conforme o truísmo de Warren Buffett, “para ganhar dinheiro,
+você deve primeiro sobreviver” — arriscar a própria pele novamente; aqueles de
+nós que assumem riscos têm suas prioridades mais firmes do que o vago
+pseudorracionalismo dos livros didáticos. Em termos mais técnicos, isso nos leva
+novamente à propriedade ergódica (que continuo prometendo explicar, mas
+ainda não estamos prontos): para que o mundo seja “ergódico”, não é necessário
+haver nenhuma barreira absorvente, nem irreversibilidades substanciais.
+E o que queremos dizer com “sobrevivência”? Sobrevivência de quem? A sua?
+A da sua família? A da sua tribo? Da humanidade? Note por enquanto que tenho
+uma vida útil limitada; minha sobrevivência não é tão importante quanto a
+sobrevivência de coisas que não têm uma expectativa de vida limitada, como a
+humanidade ou o planeta Terra. Por conseguinte, quanto mais “sistêmicas” as
+coisas são, mais importante a sobrevivência se torna.
+Na superfície, a racionalidade não parece racionalidade — assim como a ciência
+não parece ciência, como já debatemos. Três rigorosos pensadores (e suas
+escolas) orientam meu pensamento acerca da questão: o cientista cognitivo e
+polímata Herb Simon, que foi pioneiro no campo da inteligência artificial; o
+psicólogo Gerd Gigerenzer; e o matemático, lógico e teórico da decisão Ken
+Binmore, que passou sua vida formulando os fundamentos lógicos da
+racionalidade.
+FIGURA 3. Uma ilustração do dilema viés-variância. Suponha que há duas
+pessoas (sóbrias) atirando em um alvo, digamos, no Texas. O atirador da
+esquerda tem um viés, um “erro” sistemático, mas, considerando tudo, ao
+ﬁm chega mais próximo do alvo do que o atirador da direita, que não tem um
+viés sistemático, mas uma variância alta. Normalmente, não é possível
+
+reduzir um sem aumentar o outro. Quando frágil, a estratégia à esquerda é a
+melhor: mantenha uma distância da ruína, isto é, de atingir um ponto na
+periferia caso isso seja perigoso. Esse esquema explica por que, se você
+quiser minimizar a probabilidade de queda do avião, pode cometer erros
+impunemente, desde que diminua sua dispersão.
+DE SIMON A GIGERENZER
+Simon formulou a noção agora conhecida como racionalidade limitada: não
+podemos medir e avaliar tudo como se fôssemos um computador; portanto,
+produzimos, sob pressões evolutivas, alguns atalhos e distorções. Nosso
+conhecimento do mundo é fundamentalmente incompleto, por isso precisamos
+evitar encrencas imprevistas. E, mesmo que nosso conhecimento do mundo fosse
+completo, ainda seria computacionalmente quase impossível produzir uma
+compreensão precisa e imparcial da realidade. Um fértil programa de pesquisa
+sobre racionalidade ecológica surgiu do esforço para curar o problema de Simon;
+o principal responsável por sua organização e condução foi Gerd Gigerenzer
+(aquele que criticou Dawkins no capítulo 9), mapeando quantas coisas fazemos
+que aparentam ser, na superfície, ilógicas, mas têm razões mais profundas.
+REVELAÇÃO DE PREFERÊNCIAS
+Quanto a Ken Binmore, ele mostrou que o conceito informalmente chamado de
+“racional” é mal definido, na verdade tão mal definido que muitos usos do termo
+são apenas baboseira. Não há nada de particularmente irracional nas crenças em
+si (dado que elas podem ser atalhos e instrumentos para outra coisa): para ele
+tudo está na noção de “preferências reveladas”.
+Antes de explicar esse conceito, consideremos as seguintes máximas:
+Julgar as pessoas por suas crenças não é científico.
+Não existe algo semelhante à “racionalidade” de uma crença, o que há é
+racionalidade de uma ação.
+A racionalidade de uma ação pode ser julgada apenas em termos de considerações
+evolutivas.
+O axioma da preferência revelada (introduzido por Paul Samuelson, ou
+possivelmente pelos deuses semíticos), como o leitor há de se lembrar, afirma o
+seguinte: não será possível ter uma ideia sobre o que as pessoas realmente
+pensam, o que prevê as ações das pessoas, simplesmente perguntando a elas —
+
+elas próprias não necessariamente sabem. O que importa, no final, é o que as
+pessoas pagam pelas mercadorias, não o que dizem “pensar” sobre as
+mercadorias, ou as várias razões possíveis que elas apresentam, a quem lhes
+pergunta ou a si mesmas, para tanto. Pensando bem, veremos que isso é uma
+reformulação do conceito de arriscar a própria pele. Até mesmo os psicólogos
+entendem isso; em seus experimentos, seus procedimentos exigem que dólares
+de verdade sejam gastos para que um teste seja “científico”. As cobaias da
+pesquisa recebem um valor monetário, e os psicólogos observam de que forma
+esses sujeitos formulam escolhas examinando como eles gastam o dinheiro. No
+entanto, uma grande fatia dos psicólogos deixa pra lá as preferências reveladas
+quando começam a discursar com pompa e grandiloquência sobre a
+racionalidade. Eles voltam a julgar as crenças em vez da ação.
+Crenças são… papo furado. Pode haver algum tipo de mecanismo de tradução
+muito difícil para a nossa compreensão, com distorções no nível do processo de
+pensamento que são realmente necessárias para que as coisas funcionem.
+Na verdade, por um mecanismo (tecnicamente chamado de dilema viés-
+variância) invariavelmente obtemos melhores resultados cometendo “erros”, como
+quando o atirador aponta ligeiramente para longe do alvo ao disparar (ver figura
+3.) Mostrei em Antifrágil que cometer alguns tipos de erros é a coisa mais
+racional a fazer, quando os erros são de baixo custo, pois eles levam a
+descobertas. Por exemplo, a maioria das “descobertas” médicas é acidental. Um
+mundo livre de erros não teria penicilina, nem quimioterapia… quase nenhum
+medicamento, e muito provavelmente nenhum humano.
+É por isso que tenho sido contra o Estado nos ditando o que “deveríamos” estar
+fazendo: somente a evolução sabe se a coisa “errada” está realmente errada, desde
+que estejamos arriscando a própria pele para permitir a seleção.
+DE QUE TRATA A RELIGIÃO?
+Portanto, é minha opinião que a religião existe para impor o gerenciamento de
+risco de cauda através das gerações, já que suas regras binárias e incondicionais
+são fáceis de ensinar e impor. Nós sobrevivemos a despeito dos riscos de cauda;
+nossa sobrevivência não pode ser tão aleatória.
+Lembre-se de que arriscar a própria pele significa que você não presta atenção
+ao que as pessoas dizem, apenas ao que elas fazem e até que medida arriscam o
+pescoço. Que a sobrevivência opere seus milagres.
+
+Superstições podem ser vetores de regras de gerenciamento de risco. Há
+informações tão potentes que as pessoas que as possuem sobreviveram; para
+repetir, nunca ignore nada que lhe permita sobreviver. Por exemplo, Jared
+Diamond discute a “paranoia construtiva” dos moradores de Papua-Nova Guiné,
+cujas superstições os impedem de dormir debaixo de árvores mortas. Quer se
+trate de superstição ou de alguma outra coisa, alguma compreensão científica
+profunda da probabilidade que impede a pessoa de fazer algo, não importa,
+contanto que ela não durma sob árvores mortas. E para quem sonha em fazer as
+pessoas usarem probabilidade para tomar decisões, tenho algumas notícias: mais
+de 90% dos psicólogos que lidam com a tomada de decisões (incluindo
+pesquisadores como Cass Sunstein e Richard Thaler) não sabem nada sobre
+probabilidade, são incapazes de entendê-la e tentam atrapalhar as nossas
+eficientes paranoias naturais.
+FIGURA 4. O clássico problema “mundo grande versus mundo pequeno”. A
+ciência é atualmente incompleta demais para fornecer todas as respostas —
+e ela mesma aﬁrma isso. Temos estado sob o ataque incessante de
+mercadores e fornecedores que usam a “ciência” para vender produtos que
+muitas pessoas, na mente delas, acabam confundindo com cientiﬁcismo.
+Ciência é principalmente rigor no processo.
+Além disso, acho incoerente criticar as superstições de alguém se elas trazem
+alguns benefícios e, ao mesmo tempo, não ter problema nenhum com as ilusões
+de ótica nos templos gregos.
+
+A noção de “racional”, discutida e propagada por todos os tipos de promotores
+do cientificismo, não é suficientemente bem definida para ser usada para crenças.
+Para repetir, não há motivos justificados suficientes para discutir “crenças
+irracionais”. Nós o fazemos com ações irracionais.
+Estendendo essa lógica, podemos mostrar que muito do que chamamos de
+“crença” é uma espécie de mobília no pano fundo para a mente humana, mais
+metafórica do que real. Pode funcionar como terapia.
+Lembre-se também, como vimos no capítulo 3, de que a racionalidade coletiva
+pode exigir alguns vieses individuais.
+“PAPO FURADO” E “CONVERSA FIADA”
+O primeiro princípio que inferimos:
+Há uma diferença entre crenças que são decorativas e diferentes tipos de crenças,
+aquelas que planejam pormenorizadamente a ação.
+Não há diferença entre elas em palavras, exceto que a verdadeira diferença se
+revela em assumir riscos, ter algo em jogo, algo que alguém possa perder caso
+esteja errado.
+E a lição, reformulando-se o princípio:
+O quanto você realmente “acredita” em alguma coisa pode se manifestar somente
+por meio do que você está disposto a arriscar por ela.
+Mas isso merece continuação. O fato de haver esse componente decorativo na
+crença, a vida, essas estranhas regras seguidas fora dos hospitais Gemelli do
+mundo, merece ser discutido. Para que servem? Podemos realmente entender sua
+função? Estamos confusos a respeito da função delas? Confundimos a
+racionalidade delas? Podemos usá-las para definir racionalidade?
+O QUE LINDY DIZ?
+Vejamos o que Lindy tem a dizer sobre a “racionalidade”. Embora as noções de
+“razão” e “razoável” estivessem presentes no pensamento antigo, principalmente
+embutidas na noção de precaução, ou sophrosyne (sofrósine), essa ideia moderna
+de “racionalidade” e “tomada de decisões racional” nasceu na esteira de Max
+Weber, com os trabalhos de psicólogos, filosofinhos e psicologuinhos. A
+sophrosyne clássica significa precaução, autocontrole e comedimento, tudo em
+
+um só. Foi substituído por algo um pouco diferente. A “racionalidade” foi forjada
+durante o período pós-iluminista, numa época em que pensávamos que
+compreender o mundo era algo que estava bem próximo. Pressupõe ausência de
+aleatoriedade, ou uma estrutura aleatória simplificada do nosso mundo. Além
+disso, claro, sem interações com o mundo.
+A única definição de racionalidade que descobri que é rigorosa em aspectos
+práticos, empíricos e matemáticos é a seguinte: racional é o que permite a
+sobrevivência. Ao contrário das teorias modernas de psicologuinhos, ele delineia
+o modo de pensar clássico. Qualquer coisa que atrapalhe a sobrevivência em um
+nível individual, coletivo, tribal ou geral é, a meu juízo, irracional.
+Daí o princípio da precaução e o robusto entendimento do risco.
+O NÃO DECORATIVO NO DECORATIVO
+Ora, o que chamei de decorativo não é necessariamente supérfluo, muitas vezes
+é o contrário. O decorativo pode ter apenas uma função acerca da qual não
+sabemos muita coisa. Poderíamos consultar o grande mestre da estatística, o
+tempo, por meio de uma ferramenta muito técnica chamada de função de
+sobrevivência, conhecida tanto por idosos quanto por estatísticas extremamente
+complexas. Vamos recorrer aqui à versão dos idosos.
+O fato a ser considerado não é que as crenças tenham sobrevivido por muito
+tempo — a Igreja católica como uma administração beira os 24 séculos de
+existência (é, grosso modo, a continuação da República romana). O ponto é que as
+pessoas que têm religião — uma certa religião — sobreviveram.
+Outro princípio:
+Quando avaliar as crenças em termos evolutivos, não veja como elas competem
+umas com as outras, mas leve em consideração a sobrevivência das populações
+que as têm.
+Suponha um concorrente da religião do papa, o judaísmo. Os judeus têm quase
+quinhentas diferentes proibições alimentares. Esses interditos podem parecer
+irracionais para um forasteiro que define a racionalidade em termos do que ele
+pode explicar. Na verdade, é quase certo que pareçam irracionais. A kashrut
+judaica prescreve manter quatro conjuntos de pratos, duas pias, evitar a mistura
+de carne com laticínios ou simplesmente deixar que os dois entrem em contato,
+além de restrições sobre alguns animais: camarão, porco etc.
+
+Essas leis podem ter um propósito ex ante. Pode-se culpar o comportamento
+insalubre dos porcos, exacerbado pelo calor no Levante (embora o calor no
+Levante não fosse acentuadamente diferente daquele que se verifica nas áreas
+consumidoras de suínos mais a oeste). Ou talvez uma razão ecológica: os porcos
+competem com os humanos ao comer os mesmos legumes e verduras, ao passo
+que as vacas comem o que não comemos.
+Mas continua sendo verdade que, qualquer que seja seu propósito, as leis da
+kashrut sobreviveram por vários milênios não por causa de sua “racionalidade”,
+mas porque as populações que as seguiram sobreviveram. Isso certamente trouxe
+coesão: as pessoas que comem juntas ficam juntas. (Definindo em termos
+técnicos, é uma heurística convexa.) Essa coesão de grupo também pode ser
+responsável pela confiança nas transações comerciais com membros distantes da
+comunidade, criando assim uma rede forte. Ou algum outro benefício; o
+importante é que os judeus sobreviveram apesar de uma história muito dura.
+Isso nos permite resumir:
+A racionalidade não depende de fatores explanatórios verbalistas explícitos; é só o
+que ajuda a sobrevivência que evita a ruína.
+Por quê? Claramente, como vimos na discussão sobre Lindy:
+Nem tudo o que acontece acontece por um motivo, mas tudo o que sobrevive
+sobrevive por um motivo.
+Racionalidade é gerenciamento de risco, ponto final. O próximo capítulo
+apresentará o derradeiro argumento para corroborar esse princípio.
+

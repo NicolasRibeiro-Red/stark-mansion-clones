@@ -1,0 +1,443 @@
+# Prólogo
+
+Paginas: 7-19
+
+Prólogo
+SOBRE A PLUMAGEM DOS PÁSSAROS
+Até a descoberta da Austrália, as pessoas do Velho Mundo estavam
+convencidas de que todos os cisnes eram brancos, crença irrefutável conﬁrmada
+de forma cabal por evidências empíricas. Avistar o primeiro cisne negro pode ter
+sido uma surpresa notável para alguns poucos ornitólogos (e outras pessoas
+extremamente interessadas na coloração dos pássaros), mas não é esse o cerne da
+questão. A história ilustra a severa limitação que as observações ou experiências
+impõem à nossa aprendizagem, e a fragilidade do nosso conhecimento. Uma
+única observação é capaz de invalidar uma aﬁrmação geral derivada de milênios
+de avistamentos de milhões de cisnes brancos. Basta uma única (e, segundo me
+disseram, bastante feia) ave preta.1
+Dou um passo além dessa questão lógico-ﬁlosóﬁca para uma realidade
+empírica, pela qual sou obcecado desde a infância.2 O que chamamos aqui de
+Cisne Negro (com iniciais maiúsculas) é um evento com os três seguintes
+atributos.
+Primeiro, trata-se de um outlier,3 um ponto fora da curva, pois escapa do reino
+das expectativas regulares, uma vez que nada no passado consegue apontar de
+modo convincente para essa possibilidade. Segundo, exerce um impacto extremo
+(diferente da ave). Terceiro, apesar de seu status de anormalidade, a natureza
+humana nos faz engendrar explicações para sua ocorrência após o fato, tornando-
+o um evento explicável e previsível.
+Faço uma pausa para resumir o trio: raridade, impacto extremo e
+previsibilidade retrospectiva (mas não prospectiva).4 Um pequeno número de
+Cisnes Negros explica quase tudo em nosso mundo, do sucesso de ideias e
+religiões à dinâmica de eventos históricos, passando por elementos de nossa vida
+pessoal. Desde que saímos do Plistoceno, cerca de dez milênios atrás, o efeito
+
+desses Cisnes Negros vem se acentuando. Começou a acelerar durante a
+Revolução Industrial, à medida que o mundo ﬁcava mais complicado, ao passo
+que eventos comuns, aqueles que estudamos, debatemos e tentamos prever a
+partir da leitura dos jornais, tornaram-se cada vez mais irrelevantes.
+Imagine quão pouco o seu conhecimento de mundo às vésperas dos eventos
+de 1914 teria ajudado você a adivinhar o que aconteceria em seguida (não
+trapaceie usando as explicações que aquele seu professor mala do Ensino Médio
+fez você absorver na marra). E quanto à ascensão de Hitler e a subsequente
+guerra? O que dizer da repentina derrocada do bloco soviético? Que tal a
+ascensão do fundamentalismo islâmico? E a disseminação da internet? E a
+quebra do mercado de ações em 1987 (e sua inesperada recuperação)?
+Tendências passageiras, epidemias, modismos, ideias, o surgimento de gêneros
+artísticos e escolas de pensamento. Tudo isso segue a dinâmica do Cisne Negro.
+Literalmente, quase tudo ao seu redor que tem importância pode se enquadrar
+nessa categoria.
+A combinação de baixa previsibilidade e grande impacto faz do Cisne Negro
+um formidável quebra-cabeça, mas não é esse o tema central do livro que você
+tem em mãos. Adicione ao fenômeno o fato de que tendemos a agir como se ele
+não existisse! Não me reﬁro apenas a mim, a você ou a seu vizinho, mas a
+praticamente todos os “cientistas sociais” que, por mais de um século, atuaram
+sob a falsa convicção de que suas ferramentas eram capazes de medir a incerteza.
+Pois as aplicações das ciências da incerteza a problemas do mundo real tiveram
+efeitos ridículos; tive o privilégio de ver isso acontecer nas ﬁnanças e na
+economia. Pergunte ao seu gestor de portfólio de investimentos como ele
+deﬁniria “risco”, e o mais provável é que ele forneça a você uma medida que exclui
+a possibilidade do Cisne Negro — portanto, uma medida com tanto valor
+preditivo para avaliar riscos totais quanto a astrologia (veremos como eles usam a
+matemática para disfarçar a fraude intelectual). Esse problema é endêmico em
+questões sociais.
+A ideia central deste livro diz respeito à nossa cegueira em relação à
+aleatoriedade, em especial aos grandes desvios: por que será que nós, cientistas
+ou leigos, ﬁgurões ou zés-ninguém, tendemos a enxergar os centavos em vez do
+pote de ouro? Por que continuamos nos concentrando nas minúcias em vez de
+focar nos grandes eventos possíveis, apesar da óbvia evidência de que sua
+inﬂuência é enorme? E, se você acompanhar meu argumento, por que ler os
+jornais acaba, na verdade, reduzindo nosso conhecimento do mundo?
+
+É fácil perceber que a vida é o efeito cumulativo de um punhado de abalos
+importantes. Não é tão difícil identiﬁcar o papel dos Cisnes Negros, mesmo da
+sua poltrona (ou de uma mesa de bar). Faça o seguinte exercício: examine sua
+própria existência; enumere os eventos signiﬁcativos, as mudanças tecnológicas e
+as invenções que ocorreram no ambiente desde que você nasceu; e compare-os
+com o que era esperado antes desses adventos. Quantos deles seguiram uma
+programação? Analise a sua vida pessoal, a proﬁssão que você escolheu, digamos,
+ou a forma como conheceu seu companheiro ou companheira, o exílio de seu
+país de origem, as traições que você enfrentou, seu súbito enriquecimento ou
+empobrecimento. Quantas vezes essas coisas aconteceram exatamente conforme
+o planejado?
+O que você não sabe
+A lógica do Cisne Negro torna o que você não sabe muito mais relevante do
+que aquilo que você sabe.5 Tenha em mente que muitos Cisnes Negros podem ser
+causados e exacerbados por serem inesperados.
+Pense no ataque terrorista de 11 de setembro de 2001: se em 10 de setembro o
+risco fosse razoavelmente concebível, o atentado não teria acontecido. E se a
+possibilidade fosse considerada digna de atenção, caças da Força Aérea dos
+Estados Unidos teriam sobrevoado o céu ao redor das Torres Gêmeas, os aviões
+comerciais teriam portas blindadas e travadas o tempo todo, e o ataque não teria
+ocorrido, ponto-ﬁnal. Em vez disso, alguma outra coisa poderia ter acontecido.
+O quê? Eu não sei.
+Não é estranho ver um evento acontecendo justamente porque em tese não
+deveria acontecer? Que tipo de defesa temos contra isso? Seja lá o que você
+venha a saber (que Nova York é um alvo fácil para terroristas, por exemplo) pode
+se tornar irrelevante se seu inimigo souber que você sabe. Talvez seja estranho
+que, em um jogo tão estratégico, o que você sabe possa ser, na verdade,
+insigniﬁcante.6
+Isso se estende a atividades de todos os setores. Pense naquela “receita
+secreta” capaz de fazer um sucesso arrebatador e gerar fortunas no ramo de
+restaurantes. Se a receita fosse conhecida e óbvia, alguém da porta ao lado já teria
+bolado a ideia, que se tornaria genérica. Um golpe de mestre nesse ramo precisa
+ser uma ideia que o atual grupo de donos de restaurantes não consiga conceber
+facilmente. Tem que estar a alguma distância das expectativas. Quanto mais
+inesperado o sucesso de um empreendimento nesse setor, menor será o número
+de concorrentes, e mais bem-sucedido será o empreendedor que implementar a
+
+ideia. O mesmo vale para o setor de calçados e livros — ou qualquer tipo de
+empreendimento. E também para teorias cientíﬁcas — ninguém está interessado
+em ouvir trivialidades. A recompensa da iniciativa é, em geral, inversamente
+proporcional ao que se espera que seja.
+Pense no tsunami de dezembro de 2004 no oceano Índico. Se o maremoto
+fosse esperado, não teria causado os estragos que causou — as áreas afetadas
+teriam uma população menor, e um sistema de alerta estaria em funcionamento.
+Verdade seja dita, o que você sabe não pode prejudicá-lo.
+Especialistas e “zeros à esquerda metidos a besta”
+A incapacidade de prever outliers implica a incapacidade de prever o curso da
+história, dada a parcela de participação desses episódios na dinâmica dos
+acontecimentos.
+No entanto, agimos como se fôssemos capazes de prever eventos históricos,
+ou, o que é ainda pior, como se fôssemos capazes de alterar o curso da história.
+Geramos projeções de déﬁcits na previdência social e nos preços do petróleo
+para daqui a trinta anos sem nos darmos conta de que não conseguimos sequer
+prever essas cifras para o próximo verão — nossos erros de previsão cumulativos
+em relação a eventos políticos e econômicos são tão monstruosos que, toda vez
+que examino o registro empírico, tenho que me beliscar para ver se não estou
+sonhando. O mais surpreendente não é a magnitude dos erros de previsão, mas
+nossa falta de consciência acerca disso. O que é ainda mais preocupante quando
+nos envolvemos em conﬂitos mortíferos: guerras são fundamentalmente
+imprevisíveis (e não sabemos disso). Devido a essa incompreensão das cadeias
+causais entre diretrizes e ações, e graças à ignorância agressiva, é fácil
+desencadearmos Cisnes Negros — como crianças brincando com um kit de
+química.
+Nossa incapacidade de fazer previsões em ambientes sujeitos ao Cisne Negro,
+somada a uma falta geral de consciência em relação a esse estado de coisas,
+signiﬁca que certos proﬁssionais, embora acreditem ser especialistas, na verdade
+não o são. Com base no registro empírico, eles não sabem mais sobre sua área de
+expertise do que a população em geral, mas são muito melhores para criar
+narrativas — ou, pior, para ludibriar você lançando mão de truques à base de
+complicados modelos matemáticos. Também são mais propensos a usar terno e
+gravata.
+Como os Cisnes Negros são imprevisíveis, precisamos nos ajustar à existência
+deles (em vez de, ingenuamente, tentar prevê-los). Há diversas coisas que
+
+podemos fazer se nos concentrarmos no anticonhecimento, ou no que não
+sabemos. Um dos benefícios é que você pode se preparar para colecionar Cisnes
+Negros serendipitosos (descobertas fortuitas do tipo positivo), maximizando sua
+exposição a eles. Na verdade, em alguns domínios — descobertas cientíﬁcas e
+investimentos de capital de risco, por exemplo —, o desconhecido propicia uma
+recompensa desproporcional, já que normalmente há pouco a se perder e muito a
+se ganhar com um evento raro. Veremos que, ao contrário da sabedoria das
+ciências sociais, quase nenhuma descoberta, nenhuma tecnologia digna de nota,
+resultou de planejamento e projeto detalhado — foram simplesmente Cisnes
+Negros. A estratégia para os descobridores e empreendedores é conﬁar menos
+em planejamento estruturado de cima para baixo e mais na máxima improvisação
+e experimentação, reconhecendo oportunidades tão logo elas surjam. Assim,
+discordo dos adeptos de Marx e Adam Smith: a razão pela qual os livres
+mercados funcionam é por permitirem que as pessoas tenham sorte, graças a
+agressivas investidas de tentativa e erro, não por darem recompensas ou
+“incentivos” à competência. A estratégia é, então, improvisar e experimentar
+tanto quanto possível e tentar angariar o maior número de oportunidades de
+Cisnes Negros.
+Aprendendo a aprender
+Outro impedimento humano correlato vem do excessivo foco no que sabemos:
+temos a tendência de aprender o especíﬁco, não o geral.
+O que as pessoas aprenderam com o episódio de Onze de Setembro? Terão
+aprendido que alguns eventos, devido à sua dinâmica, estão em larga medida fora
+do âmbito do previsível? Não. Será que aprenderam qual é o defeito inerente à
+sabedoria convencional? Não. A que entendimento elas chegaram, aﬁnal?
+Aprenderam regras precisas para evitar prototerroristas islâmicos e edifícios
+altos. Muitos insistem em me lembrar da importância de sermos práticos e
+tomarmos medidas tangíveis em vez de “teorizar” sobre o conhecimento. A
+história da Linha Maginot mostra como estamos condicionados a ser especíﬁcos.
+Os franceses, após a Primeira Guerra Mundial, construíram uma parede ao longo
+da rota de invasão alemã a ﬁm de evitar uma nova invasão — (quase) sem esforço,
+Hitler simplesmente contornou essa linha de fortiﬁcações. Os franceses
+demonstraram ser excelentes estudantes de história; o problema foi que
+aprenderam com demasiada precisão. Foram práticos e focados demais para o
+próprio bem.
+
+Não conseguimos aprender espontaneamente que não aprendemos que não
+aprendemos. O problema está na estrutura da mente: não aprendemos regras,
+apenas fatos. Ao que parece, não somos bons em entender metarregras (a
+exemplo da regra de que temos uma tendência a não aprender regras). Fazemos
+pouco-caso do abstrato, e com veemência.
+Por quê? É necessário aqui, bem como é minha prioridade no restante deste
+livro, virar a sabedoria convencional de ponta-cabeça e demonstrar o quanto ela é
+inaplicável em nosso ambiente moderno, complexo e cada vez mais recursivo.7
+Mas há uma questão mais profunda: nossa mente foi feita para que ﬁnalidade?
+Aparentemente saímos de fábrica com o manual de instruções errado. Nossa
+mente não parece ter sido criada para o pensamento e a introspecção; se tivesse,
+as coisas seriam mais fáceis para nós hoje em dia, mas também não estaríamos
+aqui agora, e eu tampouco estaria aqui para falar sobre o assunto — meu ancestral
+contrafactual, introspectivo e absorto em pensamentos teria sido devorado por
+um leão, ao passo que o primo dele, pouco afeito à reﬂexão, mas com reações
+mais rápidas, teria corrido em busca de abrigo. Tenha em mente que pensar
+consome tempo e geralmente exige grande dispêndio de energia, que nossos
+antecessores passaram mais de 100 milhões de anos como mamíferos não
+pensantes e que, durante o átimo de história em que passamos a usar nosso
+cérebro, nós o temos aplicado a assuntos periféricos demais para serem
+importantes. As evidências mostram que pensamos muito menos do que
+acreditamos — exceto, é claro, quando pensamos a respeito disso.
+UM NOVO TIPO DE INGRATIDÃO
+É um bocado triste pensar nas pessoas que foram maltratadas pela história.
+Havia os poètes maudits, como Edgar Allan Poe ou Arthur Rimbaud, desprezados
+pela sociedade e mais tarde adorados e empurrados goela abaixo das crianças do
+Ensino Fundamental. (Existem até nomes de escolas em homenagem a
+personalidades que abandonaram os estudos.) Infelizmente, esse reconhecimento
+veio um pouco tarde demais para que os poetas pudessem desfrutar do prazer de
+uma descarga de serotonina, ou para impulsionar sua vida romântica na Terra.
+Mas há heróis ainda mais maltratados — a tristíssima categoria daqueles que não
+sabíamos que eram heróis, que salvaram nossa vida, que nos ajudaram a evitar
+desastres. Eles partiram sem deixar vestígios e sequer sabiam que estavam dando
+uma contribuição. Nós nos lembramos dos mártires que morreram por uma causa
+conhecida, jamais daqueles, não menos eﬁcazes em sua contribuição, de cuja
+
+causa nunca ouvimos falar — precisamente porque foram tão bem-sucedidos.
+Nossa ingratidão para com os poètes maudits perde totalmente a importância
+diante desse outro tipo de desfeita, que é muito mais cruel: o sentimento de
+inutilidade que acomete o herói silencioso. Ilustrarei com o experimento mental
+a seguir.
+Suponha que um legislador dotado de coragem, inﬂuência, intelecto, visão e
+perseverança consiga promulgar uma lei que entra em vigor universal e passa a
+ser aplicada em 10 de setembro de 2001; a norma impõe que as cabines de
+comando de todas as aeronaves comerciais sejam equipadas com portas à prova
+de balas que devem permanecer sempre trancadas (o que representa um custo
+alto para as companhias aéreas já em diﬁculdades ﬁnanceiras) — apenas como
+precaução para o caso de terroristas decidirem usar aviões para atacar o World
+Trade Center na cidade de Nova York. Sei que isso é loucura, mas é apenas um
+experimento mental (estou ciente de que é pouco provável a existência de algo
+como um legislador dotado de intelecto, coragem, visão e perseverança; esse é o
+cerne do experimento). A lei acabaria sendo uma medida bastante impopular
+entre as companhias aéreas, por complicar a vida do setor. Mas certamente teria
+evitado o Onze de Setembro.
+A pessoa que impôs o trancamento das cabines de comando em voos
+comerciais não ganha uma estátua em praça pública, e no obituário dela não
+consta sequer uma rápida menção a sua contribuição. “Joe Smith, que ajudou a
+evitar o desastre de Onze de Setembro, morreu de complicações decorrentes de
+doença hepática.” Constatando o quanto a medida é supérﬂua e dispendiosa, a
+opinião pública, com o grande respaldo de pilotos das companhias aéreas, pode
+muito bem exigir que Joe seja demitido do cargo. Vox clamantis in deserto. Ele se
+aposentará deprimido, com uma tremenda sensação de fracasso. Morrerá com a
+impressão de não ter feito nada de útil. Eu gostaria de poder comparecer ao
+funeral dele, mas, caro leitor, não consigo encontrá-lo. E, no entanto, o
+reconhecimento pode ser uma baita injeção de estímulo. Acredite, mesmo as
+pessoas que aﬁrmam com sinceridade não acreditar em reconhecimento, e que
+fazem uma separação entre o trabalho árduo e os frutos advindos dele, sentem
+um verdadeiro pico de serotonina quando são reconhecidas. Veja como o herói
+silencioso é recompensado: nem o seu próprio sistema hormonal lhe oferece
+algum reconhecimento.
+Agora volte aos eventos de Onze de Setembro. Após o ocorrido, quem obteve
+o reconhecimento? As pessoas que você viu na mídia, na televisão, realizando
+atos heroicos, e as que você viu tentando passar uma impressão de que estavam
+
+realizando atos heroicos. Essa última categoria inclui gente como o presidente da
+Bolsa de Valores de Nova York, Richard Grasso, que “salvou a Bolsa de Valores” e
+recebeu uma polpuda boniﬁcação por isso (o equivalente a muitos milhares de
+salários médios). Tudo que ele teve que fazer foi estar lá para tocar o sino de
+abertura da sessão da Bolsa na televisão — a mesma televisão que, como veremos,
+é o veículo da injustiça e uma das principais causas da cegueira perante os Cisnes
+Negros.
+Quem é recompensado, o banqueiro central que evita uma recessão ou aquele
+que chega para “corrigir” os erros do antecessor e, por acaso, está no cargo
+durante alguma fase de recuperação econômica? Quem é mais valioso, o político
+que evita uma guerra ou aquele que inicia uma nova (e tem a sorte de vencê-la)?
+É a mesma inversão lógica que vimos anteriormente com o valor daquilo que
+não sabemos; todo mundo sabe que prevenir é melhor do que remediar, mas
+poucos recompensam os atos de prevenção. Gloriﬁcamos aqueles que deixaram
+seus nomes nos livros de história em detrimento dos colaboradores sobre quem
+os livros silenciam. Nós, humanos, não somos apenas uma raça superﬁcial (o que
+talvez possa ser curável, até certo ponto); somos uma raça muito injusta.
+A VIDA É MUITO ESQUISITA
+Este é um livro sobre a incerteza; para o autor que vos fala, o evento raro é
+igual à incerteza. Pode parecer uma declaração das mais fortes — a de que
+precisamos estudar principalmente os eventos raros e extremos para entender e
+interpretar os eventos comuns —, mas vou esclarecer as coisas. Existem duas
+maneiras possíveis de abordar fenômenos. A primeira é descartar o
+extraordinário e concentrar-se no “normal”. O examinador deixa de lado outliers e
+estuda casos corriqueiros. A segunda abordagem é ter em mente que, a ﬁm de
+entender um fenômeno, primeiro é necessário levar em consideração os extremos
+— em especial se, como o Cisne Negro, tiverem um efeito cumulativo
+extraordinário.
+Não costumo dar muita importância ao comum. Se quiser ter uma ideia sobre
+o temperamento, a ética e a elegância pessoal de um amigo, você precisa observá-
+lo sob situações adversas, não sob a lente cor-de-rosa da vida cotidiana. Você é
+capaz de avaliar o perigo que um criminoso representa examinando apenas o que
+ele faz em um dia normal? Podemos entender o que é a saúde sem levar em
+consideração doenças e epidemias desenfreadas? Com efeito, o normal é quase
+sempre irrelevante.
+
+Quase tudo na vida social é produzido por saltos e choques raros, mas
+importantes; enquanto isso, quase tudo que se estuda sobre a vida social
+concentra-se no “normal”, sobretudo com métodos de inferência do tipo “curva
+em forma de sino”8 que não dizem quase nada. Por quê? Porque a curva em
+forma de sino ignora desvios grandes, não sabe lidar com eles, e ainda assim nos
+deixa com a conﬁante sensação de que domamos a incerteza. O apelido dela
+neste livro é HG, Grande Fraude Intelectual.
+PLATÃO E O NERD
+No início da revolta judaica no primeiro século de nossa era, grande parte da
+ira dos judeus foi causada pela insistência dos romanos em colocar uma estátua
+de Calígula no templo judaico em Jerusalém em troca da colocação de uma
+estátua do deus Yahweh nos templos romanos. Os romanos não perceberam que
+o que os judeus (e os monoteístas levantinos posteriores) chamavam de deus era
+algo abstrato, que a tudo abarcava e nada tinha a ver com a representação
+antropomórﬁca que os romanos tinham em mente quando diziam deus. E o que
+era ainda mais crítico: o deus judaico não se prestava a representações simbólicas.
+Da mesma maneira, o que muitas pessoas transformam em mercadoria e rotulam
+como “desconhecido”, “improvável” ou “incerto” não é a mesma coisa para mim;
+não é uma categoria de conhecimento concreta e precisa, um campo nerdiﬁcado,
+mas o contrário; é a ausência (e as limitações) do conhecimento. É exatamente o
+oposto dele; deve-se aprender a não usar termos que designam o conhecimento
+para descrever seu oposto.
+O que chamo de platonicidade, segundo as ideias (e personalidade) do ﬁlósofo
+Platão, é nossa tendência de confundir o mapa com o território, de nos
+concentrarmos em “formas” puras e bem deﬁnidas, sejam objetos, como
+triângulos, ou noções, como utopias (sociedades construídas de acordo com
+algum projeto do que “faz sentido”), e até mesmo nacionalidades. Quando essas
+ideias e constructos concisos habitam nossa mente, nós os privilegiamos,
+deixando de dar primazia a outros objetos menos elegantes, aqueles com
+estruturas mais confusas e menos manejáveis (ideia que elaborarei gradualmente
+ao longo deste livro).
+A platonicidade é o que nos faz pensar que entendemos mais do que
+realmente entendemos. Mas isso não acontece em toda parte. Não estou
+aﬁrmando que as formas platônicas não existem. Modelos e construções, esses
+mapas intelectuais da realidade, nem sempre estão errados; apenas em algumas
+
+aplicações especíﬁcas. A diﬁculdade é que a) você não sabe de antemão (somente
+após o fato) onde o mapa estará errado, e b) os erros podem levar a graves
+consequências. Esses modelos são como medicamentos potencialmente úteis que
+ocasionam efeitos colaterais aleatórios, mas gravíssimos.
+A dobra platônica é a fronteira explosiva onde a mentalidade platônica entra
+em contato com a realidade caótica, onde a lacuna entre o que você sabe e o que
+você acha que sabe se torna perigosamente ampla. É aí que o Cisne Negro é
+engendrado.
+CHATO DEMAIS PARA SE ESCREVER SOBRE ISSO
+Reza a lenda que o cineasta Luchino Visconti fazia questão de que, quando os
+atores apontassem para uma caixa fechada que teoricamente conteria joias,
+houvesse joias de verdade dentro dela. Talvez fosse uma maneira eﬁcaz de fazer
+com que os atores sentissem na pele o papel que estavam representando. Creio
+que o gesto de Visconti também derivasse de um puro senso de estética e de uma
+busca por autenticidade — de alguma forma, não parecia certo enganar o
+espectador.
+Este é um ensaio que expressa uma ideia elementar; não se trata nem da
+reciclagem nem de uma nova roupagem dos pensamentos de outras pessoas. Um
+ensaio é uma meditação impulsiva, não uma compilação de relatórios cientíﬁcos.
+Peço desculpas se neste livro eu pular alguns tópicos muito óbvios, pela
+convicção de que aquilo que é chato demais para o autor pode ser igualmente
+enfadonho para o leitor. (Além disso, evitar a chatice pode ajudar a ﬁltrar o não
+essencial.)
+Falar é fácil. Alguém que tenha assistido a um excesso de aulas de ﬁlosoﬁa (ou
+talvez não o suﬁciente) na faculdade pode ser do contra e alegar que o
+avistamento de um Cisne Negro não invalida a teoria de que todos os cisnes são
+brancos, uma vez que essa ave preta não seria tecnicamente um cisne, pois a
+brancura talvez seja a característica essencial de um cisne para essa pessoa. De
+fato, aqueles que leem Wittgenstein demais (e escritos sobre comentários sobre
+Wittgenstein) podem ter a impressão de que questões de linguagem têm alguma
+importância. Certamente podem ser importantes para se obter destaque nos
+departamentos de ﬁlosoﬁa, mas são algo que nós, proﬁssionais e tomadores de
+decisões no mundo real, deixamos para o ﬁm de semana. Como explico no
+capítulo chamado “A incerteza dos fajutos”, apesar de todo o seu apelo
+intelectual, essas sutilezas não têm implicações sérias de segunda a sexta-feira,
+
+em oposição a questões mais substanciais (embora negligenciadas). Criaturas da
+sala de aula, que não tenham enfrentado muitas situações concretas de tomada de
+decisão sob condições de incerteza, não percebem a diferença entre o que é
+importante e o que não é — mesmo os estudiosos acadêmicos da incerteza (ou
+especialmente os estudiosos acadêmicos da incerteza). O que chamo de prática da
+incerteza pode ser pirataria, especulação de commodities, jogatina proﬁssional,
+trabalho em alguns ramos da máﬁa ou simplesmente o banal empreendedorismo
+em série. Assim, protesto contra o “ceticismo estéril”, a respeito do qual nada
+podemos fazer, e contra as questões de linguagem excessivamente teóricas que
+tornaram grande parte da ﬁlosoﬁa moderna, em larga medida, irrelevante para o
+que é chamado, de modo pejorativo, de “público geral”. (No passado, para o bem
+e para o mal, os raros ﬁlósofos e pensadores que não eram autônomos dependiam
+do apoio de um patrono ou mecenas. Hoje, acadêmicos em disciplinas abstratas
+dependem das opiniões uns dos outros, sem veriﬁcações externas, com o
+ocasional e grave resultado patológico de transformar seu trabalho em
+competições insulares para a exibição de proezas. Quaisquer que fossem as
+deﬁciências do sistema antigo, pelo menos ele impunha algum padrão de
+relevância.)
+A ﬁlósofa Edna Ullmann-Margalit detectou uma inconsistência neste livro e
+me pediu para justiﬁcar o uso da metáfora especíﬁca de um Cisne Negro para
+descrever o desconhecido, o abstrato e o incerto impreciso — e por que não
+corvos brancos, elefantes cor-de-rosa ou alienígenas vaporosos habitantes de um
+planeta remoto orbitando a estrela Tau Ceti. De fato, ela me pegou em ﬂagrante.
+Existe uma contradição; este livro é uma história, e preﬁro usar histórias e
+anedotas para ilustrar nossa credulidade em relação a histórias, bem como nosso
+gosto pela perigosa compressão de narrativas.9
+Precisamos de uma história para tomar o lugar de outra. Metáforas e histórias
+são bem mais potentes do que ideias (infelizmente); são também mais fáceis de
+lembrar e mais divertidas de ler. Se eu for atacar o que chamo de disciplinas
+narrativas, minha melhor ferramenta é uma narrativa.
+Ideias vêm e vão, as histórias ﬁcam.
+O XIS DA QUESTÃO
+O ponto crucial deste livro não é apenas a curva em forma de sino e o
+estatístico que engana a si mesmo, tampouco o acadêmico platoniﬁcado que
+precisa de teorias para se autoenganar. É o impulso de “enfocar” o que faz
+
+sentido para nós. Viver em nosso planeta, hoje, requer muito mais imaginação do
+que evoluímos para ter. Falta-nos imaginação, e nós a reprimimos nos outros.
+Note que, neste livro, não lanço mão do abominável método de coletar “provas
+corroborantes” seletivas. Por razões que explico no capítulo 5, chamo essa
+sobrecarga de exemplos de empirismo ingênuo — sucessões de breves relatos
+selecionados para se enquadrarem em uma história não constituem provas.
+Qualquer um que esteja em busca de conﬁrmação encontrará o suﬁciente para
+enganar a si próprio — e, sem dúvida, a seus pares.10 A ideia do Cisne Negro é
+baseada na estrutura da aleatoriedade na realidade empírica.
+Resumindo: neste ensaio (pessoal), arrisco meu pescoço para dizer o que
+penso e faço uma aﬁrmação, na contramão de muitos dos nossos hábitos de
+pensamento, de que o mundo é dominado pelo extremo, pelo desconhecido e
+pelo muito improvável (improvável de acordo com nosso conhecimento atual) —
+e que, enquanto isso, passamos nosso tempo envolvidos em conversa ﬁada,
+concentrados no conhecido e no repetido. Isso implica a necessidade de usar o
+evento extremo como ponto de partida, em vez de tratá-lo como uma exceção a
+ser varrida para debaixo do tapete. Faço também a declaração mais ousada (e mais
+irritante) de que, apesar do avanço e da expansão do conhecimento, ou talvez
+justamente por causa desse progresso e expansão, o futuro será cada vez menos
+previsível, embora a natureza humana e a “ciência” social pareçam conspirar para
+esconder de nós essa ideia.
+Mapa dos capítulos
+A sequência deste livro segue uma lógica simples; ﬂui do que pode ser
+rotulado como puramente literário (no tema e na abordagem) ao que pode ser
+considerado inteiramente cientíﬁco (no tema, mas não na abordagem). A
+psicologia estará presente em especial na parte  e no início da parte ; tratarei de
+negócios e de ciências naturais principalmente na segunda metade da parte  e na
+parte . A parte , intitulada “A antibiblioteca de Umberto Eco”, gira em torno
+da forma como percebemos eventos históricos e atuais e de quais distorções
+estão presentes nessa percepção. A parte , “Somos simplesmente incapazes de
+prever”, aborda nossos erros no modo de lidar com o futuro e as limitações não
+alardeadas de algumas “ciências” — e o que fazer a respeito dessas limitações. A
+parte , “Aqueles Cisnes Cinzentos do Extremistão”, aprofunda-se ainda mais no
+tema dos eventos extremos, explica como a curva em forma de sino (essa grande
+fraude intelectual) é gerada e examina as ideias das ciências naturais e sociais
+
+vagamente amontoadas sob a qualiﬁcação “complexidade”. A parte , “O ﬁm”,
+será curtíssima.
+Senti uma quantidade inesperada de prazer escrevendo este livro — na
+verdade, ele simplesmente se escreveu sozinho —, e espero que o leitor
+experimente o mesmo. Confesso que ﬁquei viciado nesse processo de
+retraimento em direção a ideias puras após as restrições de uma vida ativa e
+transacional. Depois que este livro for publicado, meu objetivo é passar algum
+tempo longe da balbúrdia das atividades públicas, a ﬁm de reﬂetir em absoluta
+tranquilidade sobre a minha ideia ﬁlosóﬁco-cientíﬁca.
+

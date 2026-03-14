@@ -1,0 +1,18 @@
+# Chapter 9. Serving Data for Analytics, Machine Learning, and Reverse ETL
+
+Paginas: 362-362
+
+CHAPTER 9
+Serving Data for Analytics, Machine
+Learning, and Reverse ETL
+Congratulations! You’ve reached the final stage of the data engineering lifecycle—
+serving data for downstream use cases (see Figure 9-1). In this chapter, you’ll learn
+about various ways to serve data for three major use cases you’ll encounter as a data
+engineer. First, you’ll serve data for analytics and BI. You’ll prepare data for use in
+statistical analysis, reporting, and dashboards. This is the most traditional area of
+data serving. Arguably, it predates IT and databases, but it is as important as ever
+for stakeholders to have visibility into the business, organizational, and financial
+processes.
+Figure 9-1. Serving delivers data for use cases
+337
+

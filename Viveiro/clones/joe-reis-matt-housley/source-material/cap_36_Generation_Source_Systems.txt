@@ -1,0 +1,115 @@
+# Generation: Source Systems
+
+Paginas: 60-62
+
+Figure 2-2. The data engineering lifecycle is a subset of the full data lifecycle
+Generation: Source Systems
+A source system is the origin of the data used in the data engineering lifecycle. For
+example, a source system could be an IoT device, an application message queue, or
+a transactional database. A data engineer consumes data from a source system but
+doesn’t typically own or control the source system itself. The data engineer needs to
+have a working understanding of the way source systems work, the way they generate
+data, the frequency and velocity of the data, and the variety of data they generate.
+Engineers also need to keep an open line of communication with source system
+owners on changes that could break pipelines and analytics. Application code might
+change the structure of data in a field, or the application team might even choose to
+migrate the backend to an entirely new database technology.
+A major challenge in data engineering is the dizzying array of data source systems
+engineers must work with and understand. As an illustration, let’s look at two com‐
+mon source systems, one very traditional (an application database) and the other a
+more recent example (IoT swarms).
+Figure 2-3 illustrates a traditional source system with several application servers
+supported by a database. This source system pattern became popular in the 1980s
+with the explosive success of relational database management systems (RDBMSs).
+The application + database pattern remains popular today with various modern evo‐
+lutions of software development practices. For example, applications often consist of
+many small service/database pairs with microservices rather than a single monolith.
+Figure 2-3. Source system example: an application database
+What Is the Data Engineering Lifecycle?
+|
+35
+
+Let’s look at another example of a source system. Figure 2-4 illustrates an IoT swarm:
+a fleet of devices (circles) sends data messages (rectangles) to a central collection
+system. This IoT source system is increasingly common as IoT devices such as
+sensors, smart devices, and much more increase in the wild.
+Figure 2-4. Source system example: an IoT swarm and message queue
+Evaluating source systems: Key engineering considerations
+There are many things to consider when assessing source systems, including how the
+system handles ingestion, state, and data generation. The following is a starting set of
+evaluation questions of source systems that data engineers must consider:
+• What are the essential characteristics of the data source? Is it an application? A
+•
+swarm of IoT devices?
+• How is data persisted in the source system? Is data persisted long term, or is it
+•
+temporary and quickly deleted?
+• At what rate is data generated? How many events per second? How many giga‐
+•
+bytes per hour?
+• What level of consistency can data engineers expect from the output data? If
+•
+you’re running data-quality checks against the output data, how often do data
+inconsistencies occur—nulls where they aren’t expected, lousy formatting, etc.?
+• How often do errors occur?
+•
+• Will the data contain duplicates?
+•
+• Will some data values arrive late, possibly much later than other messages pro‐
+•
+duced simultaneously?
+• What is the schema of the ingested data? Will data engineers need to join across
+•
+several tables or even several systems to get a complete picture of the data?
+36
+|
+Chapter 2: The Data Engineering Lifecycle
+
+• If schema changes (say, a new column is added), how is this dealt with and
+•
+communicated to downstream stakeholders?
+• How frequently should data be pulled from the source system?
+•
+• For stateful systems (e.g., a database tracking customer account information), is
+•
+data provided as periodic snapshots or update events from change data capture
+(CDC)? What’s the logic for how changes are performed, and how are these
+tracked in the source database?
+• Who/what is the data provider that will transmit the data for downstream
+•
+consumption?
+• Will reading from a data source impact its performance?
+•
+• Does the source system have upstream data dependencies? What are the charac‐
+•
+teristics of these upstream systems?
+• Are data-quality checks in place to check for late or missing data?
+•
+Sources produce data consumed by downstream systems, including human-
+generated spreadsheets, IoT sensors, and web and mobile applications. Each source
+has its unique volume and cadence of data generation. A data engineer should know
+how the source generates data, including relevant quirks or nuances. Data engineers
+also need to understand the limits of the source systems they interact with. For
+example, will analytical queries against a source application database cause resource
+contention and performance issues?
+One of the most challenging nuances of source data is the schema. The schema
+defines the hierarchical organization of data. Logically, we can think of data at the
+level of a whole source system, drilling down into individual tables, all the way to
+the structure of respective fields. The schema of data shipped from source systems is
+handled in various ways. Two popular options are schemaless and fixed schema.
+Schemaless doesn’t mean the absence of schema. Rather, it means that the application
+defines the schema as data is written, whether to a message queue, a flat file, a blob, or
+a document database such as MongoDB. A more traditional model built on relational
+database storage uses a fixed schema enforced in the database, to which application
+writes must conform.
+Either of these models presents challenges for data engineers. Schemas change over
+time; in fact, schema evolution is encouraged in the Agile approach to software
+development. A key part of the data engineer’s job is taking raw data input in the
+source system schema and transforming this into valuable output for analytics. This
+job becomes more challenging as the source schema evolves.
+We dive into source systems in greater detail in Chapter 5; we also cover schemas and
+data modeling in Chapters 6 and 8, respectively.
+What Is the Data Engineering Lifecycle?
+|
+37
+

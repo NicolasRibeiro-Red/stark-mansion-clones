@@ -1,0 +1,43 @@
+# Transformations
+
+Paginas: 334-334
+
+13 Bill Inmon, “Avoiding the Horrible Task of Integrating Data,” LinkedIn Pulse, March 24, 2022,
+https://oreil.ly/yLb71.
+Transformations
+The net result of transforming data is the ability to unify and integrate data. Once data
+is transformed, the data can be viewed as a single entity. But without transforming
+data, you cannot have a unified view of data across the organization.
+—Bill Inmon13
+Now that we’ve covered queries and data modeling, you might be wondering, if I can
+model data, query it, and get results, why do I need to think about transformations?
+Transformations manipulate, enhance, and save data for downstream use, increasing
+its value in a scalable, reliable, and cost-effective manner.
+Imagine running a query every time you want to view results from a particular
+dataset. You’d run the same query dozens or hundreds of times a day. Imagine that
+this query involves parsing, cleansing, joining, unioning, and aggregating across 20
+datasets. To further exacerbate the pain, the query takes 30 minutes to run, consumes
+significant resources, and incurs substantial cloud charges over several repetitions.
+You and your stakeholders would probably go insane. Thankfully, you can save the
+results of your query instead, or at least run the most compute-intensive portions only
+once, so subsequent queries are simplified.
+A transformation differs from a query. A query retrieves the data from various
+sources based on filtering and join logic. A transformation persists the results for
+consumption by additional transformations or queries. These results may be stored
+ephemerally or permanently.
+Besides persistence, a second aspect that differentiates transformations from queries
+is complexity. You’ll likely build complex pipelines that combine data from multiple
+sources and reuse intermediate results for multiple final outputs. These complex
+pipelines might normalize, model, aggregate, or featurize data. While you can build
+complex dataflows in single queries using common table expressions, scripts, or
+DAGs, this quickly becomes unwieldy, inconsistent, and intractable. Enter transfor‐
+mations.
+Transformations critically rely on one of the major undercurrents in this book:
+orchestration. Orchestration combines many discrete operations, such as intermedi‐
+ate transformations, that store data temporarily or permanently for consumption by
+downstream transformations or serving. Increasingly, transformation pipelines span
+not only multiple tables and datasets but also multiple systems.
+Transformations
+|
+309
+

@@ -1,0 +1,87 @@
+# Principle 9: Embrace FinOps
+
+Paginas: 110-111
+
+15 Ericka Chickowski, “Leaky Buckets: 10 Worst Amazon S3 Breaches,” Bitdefender Business Insights blog,
+Jan 24, 2018, https://oreil.ly/pFEFO.
+16 FinOps Foundation, “What Is FinOps,” https://oreil.ly/wJFVn.
+17 J. R. Storment and Mike Fuller, Cloud FinOps (Sebastapol, CA: O’Reilly, 2019), https://oreil.ly/QV6vF.
+AWS is responsible for protecting the infrastructure that runs AWS services in the
+AWS Cloud. AWS also provides you with services that you can use securely.
+AWS users are responsible for security in the cloud:
+Your responsibility is determined by the AWS service that you use. You are also
+responsible for other factors including the sensitivity of your data, your organization’s
+requirements, and applicable laws and regulations.
+In general, all cloud providers operate on some form of this shared responsibility
+model. They secure their services according to published specifications. Still, it is
+ultimately the user’s responsibility to design a security model for their applications
+and data and leverage cloud capabilities to realize this model.
+Data engineers as security engineers
+In the corporate world today, a command-and-control approach to security is quite
+common, wherein security and networking teams manage perimeters and general
+security practices. The cloud pushes this responsibility out to engineers who are not
+explicitly in security roles. Because of this responsibility, in conjunction with more
+general erosion of the hard security perimeter, all data engineers should consider
+themselves security engineers.
+Failure to assume these new implicit responsibilities can lead to dire consequences.
+Numerous data breaches have resulted from the simple error of configuring Amazon
+S3 buckets with public access.15 Those who handle data must assume that they are
+ultimately responsible for securing it.
+Principle 9: Embrace FinOps
+Let’s start by considering a couple of definitions of FinOps. First, the FinOps Founda‐
+tion offers this:16
+FinOps is an evolving cloud financial management discipline and cultural practice that
+enables organizations to get maximum business value by helping engineering, finance,
+technology, and business teams to collaborate on data-driven spending decisions.
+In addition, J. R. Sorment and Mike Fuller provide the following definition in Cloud
+FinOps:17
+The term “FinOps” typically refers to the emerging professional movement that advo‐
+cates a collaborative working relationship between DevOps and Finance, resulting in
+Principles of Good Data Architecture
+|
+85
+
+an iterative, data-driven management of infrastructure spending (i.e., lowering the
+unit economics of cloud) while simultaneously increasing the cost efficiency and,
+ultimately, the profitability of the cloud environment.
+The cost structure of data has evolved dramatically during the cloud era. In an
+on-premises setting, data systems are generally acquired with a capital expenditure
+(described more in Chapter 4) for a new system every few years in an on-premises
+setting. Responsible parties have to balance their budget against desired compute
+and storage capacity. Overbuying entails wasted money, while underbuying means
+hampering future data projects and driving significant personnel time to control
+system load and data size; underbuying may require faster technology refresh cycles,
+with associated extra costs.
+In the cloud era, most data systems are pay-as-you-go and readily scalable. Systems
+can run on a cost-per-query model, cost-per-processing-capacity model, or another
+variant of a pay-as-you-go model. This approach can be far more efficient than the
+capital expenditure approach. It is now possible to scale up for high performance,
+and then scale down to save money. However, the pay-as-you-go approach makes
+spending far more dynamic. The new challenge for data leaders is to manage budgets,
+priorities, and efficiency.
+Cloud tooling necessitates a set of processes for managing spending and resources. In
+the past, data engineers thought in terms of performance engineering—maximizing
+the performance for data processes on a fixed set of resources and buying adequate
+resources for future needs. With FinOps, engineers need to learn to think about the
+cost structures of cloud systems. For example, what is the appropriate mix of AWS
+spot instances when running a distributed cluster? What is the most appropriate
+approach for running a sizable daily job in terms of cost-effectiveness and perfor‐
+mance? When should the company switch from a pay-per-query model to reserved
+capacity?
+FinOps evolves the operational monitoring model to monitor spending on an ongo‐
+ing basis. Rather than simply monitor requests and CPU utilization for a web server,
+FinOps might monitor the ongoing cost of serverless functions handling traffic, as
+well as spikes in spending trigger alerts. Just as systems are designed to fail gracefully
+in excessive traffic, companies may consider adopting hard limits for spending, with
+graceful failure modes in response to spending spikes.
+Ops teams should also think in terms of cost attacks. Just as a distributed denial-of-
+service (DDoS) attack can block access to a web server, many companies have discov‐
+ered to their chagrin that excessive downloads from S3 buckets can drive spending
+through the roof and threaten a small startup with bankruptcy. When sharing data
+publicly, data teams can address these issues by setting requester-pays policies, or
+simply monitoring for excessive data access spending and quickly removing access if
+spending begins to rise to unacceptable levels.
+86
+|
+Chapter 3: Designing Good Data Architecture
+

@@ -1,0 +1,4 @@
+# GCP-Specific Networking and Multiregional Redundancy
+
+Paginas: 426-425
+

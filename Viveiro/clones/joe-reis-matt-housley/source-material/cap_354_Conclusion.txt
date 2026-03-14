@@ -1,0 +1,56 @@
+# Conclusion
+
+Paginas: 414-415
+
+Conclusion
+Thank you for joining us on this journey through data engineering! We traversed
+good architecture, the stages of the data engineering lifecycle, and security best
+practices. We’ve discussed strategies for choosing technologies at a time when our
+field continues to change at an extraordinary pace. In this chapter, we laid out our
+wild speculation about the near and intermediate future.
+Some aspects of our prognostication sit on a relatively secure footing. The simpli‐
+fication of managed tooling and the rise of “enterprisey” data engineering have
+proceeded day by day as we’ve written this book. Other predictions are much more
+speculative in nature; we see hints of an emerging live data stack, but this entails a
+significant paradigm shift for both individual engineers and the organizations that
+employ them. Perhaps the trend toward real-time data will stall once again, with
+most companies continuing to focus on basic batch processing. Surely, other trends
+exist that we have completely failed to identify. The evolution of technology involves
+complex interactions of technology and culture. Both are unpredictable.
+Data engineering is a vast topic; while we could not go into any technical depth in
+individual areas, we hope that we have succeeded in creating a kind of travel guide
+that will help current data engineers, future data engineers, and those who work
+adjacent to the field to find their way in a domain that is in flux. We advise you to
+continue exploration on your own. As you discover interesting topics and ideas in
+this book, continue the conversation as part of a community. Identify domain experts
+who can help you to uncover the strengths and pitfalls of trendy technologies and
+practices. Read extensively from the latest books, blog posts, and papers. Participate
+in meetups and listen to talks. Ask questions and share your own expertise. Keep an
+eye on vendor announcements to stay abreast of the latest developments, taking all
+claims with a healthy grain of salt.
+Through this process, you can choose technology. Next, you will need to adopt tech‐
+nology and develop expertise, perhaps as an individual contributor, perhaps within
+your team as a lead, perhaps across an entire technology organization. As you do
+this, don’t lose sight of the larger goals of data engineering. Focus on the lifecycle, on
+serving your customers—internal and external—on your business, on serving and on
+your larger goals.
+Regarding the future, many of you will play a role in determining what comes
+next. Technology trends are defined not only by those who create the underlying
+technology but also by those who adopt it and put it to good use. Successful tool
+use is as critical as tool creation. Find opportunities to apply real-time technology
+that will improve the user experience, create value, and define entirely new types of
+applications. It is this kind of practical application that will materialize the live data
+Conclusion
+|
+389
+
+stack as a new industry standard; or perhaps some other new technology trend that
+we failed to identify will win the day.
+Finally, we wish you an exciting career! We chose to work in data engineering, to
+consult, and to write this book not simply because it was trendy but because it was
+fascinating. We hope that we’ve managed to convey to you a bit of the joy we’ve found
+working in this field.
+390
+|
+Chapter 11: The Future of Data Engineering
+

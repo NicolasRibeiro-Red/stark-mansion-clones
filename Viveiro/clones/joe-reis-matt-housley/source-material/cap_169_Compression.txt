@@ -1,0 +1,44 @@
+# Compression
+
+Paginas: 221-221
+
+example, involves choosing a base storage system (e.g., Amazon S3) and standards for
+serialization that balance interoperability with performance considerations.
+What is serialization, exactly? Data stored in system memory by software is generally
+not in a format suitable for storage on disk or transmission over a network. Serializa‐
+tion is the process of flattening and packing data into a standard format that a reader
+will be able to decode. Serialization formats provide a standard of data exchange. We
+might encode data in a row-based manner as an XML, JSON, or CSV file and pass
+it to another user who can then decode it using a standard library. A serialization
+algorithm has logic for handling types, imposes rules on data structure, and allows
+exchange between programming languages and CPUs. The serialization algorithm
+also has rules for handling exceptions. For instance, Python objects can contain cyclic
+references; the serialization algorithm might throw an error or limit nesting depth on
+encountering a cycle.
+Low-level database storage is also a form of serialization. Row-oriented relational
+databases organize data as rows on disk to support speedy lookups and in-place
+updates. Columnar databases organize data into column files to optimize for highly
+efficient compression and support fast scans of large data volumes. Each serialization
+choice comes with a set of trade-offs, and data engineers tune these choices to
+optimize performance to requirements.
+We provide a more detailed catalog of common data serialization techniques and for‐
+mats in Appendix A. We suggest that data engineers become familiar with common
+serialization practices and formats, especially the most popular current formats (e.g.,
+Apache Parquet), hybrid serialization (e.g., Apache Hudi), and in-memory serializa‐
+tion (e.g., Apache Arrow).
+Compression
+Compression is another critical component of storage engineering. On a basic level,
+compression makes data smaller, but compression algorithms interact with other
+details of storage systems in complex ways.
+Highly efficient compression has three main advantages in storage systems. First,
+the data is smaller and thus takes up less space on the disk. Second, compression
+increases the practical scan speed per disk. With a 10:1 compression ratio, we go from
+scanning 200 MB/s per magnetic disk to an effective rate of 2 GB/s per disk.
+The third advantage is in network performance. Given that a network connection
+between an Amazon EC2 instance and S3 provides 10 gigabits per second (Gbps) of
+bandwidth, a 10:1 compression ratio increases effective network bandwidth to 100
+Gbps.
+196
+|
+Chapter 6: Storage
+

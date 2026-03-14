@@ -1,0 +1,244 @@
+# Introduction: The Systems Lens
+
+Paginas: 13-18
+
+
+Introduction: The System Lens
+Managers are not confronted with problems that are independent of
+each other, but with dynamic situations that consist of complex
+systems of changing problems that interact with each other. I call
+such situations messes.… Managers do not solve problems, they
+manage messes.
+—RUSSELL ACKOFF,1 operations theorist
+Early on in teaching about systems, I often bring out a Slinky. In case you grew
+up without one, a Slinky is a toy—a long, loose spring that can be made to
+bounce up and down, or pour back and forth from hand to hand, or walk itself
+downstairs.
+I perch the Slinky on one upturned palm. With the fingers of the other hand, I
+grasp it from the top, partway down its coils. Then I pull the bottom hand away.
+The lower end of the Slinky drops, bounces back up again, yo-yos up and down,
+suspended from my fingers above.
+“What made the Slinky bounce up and down like that?” I ask students.
+“Your hand. You took away your hand,” they say.
+So I pick up the box the Slinky came in and hold it the same way, poised on a
+flattened palm, held from above by the fingers of the other hand. With as much
+dramatic flourish as I can muster, I pull the lower hand away.
+Nothing happens. The box just hangs there, of course.
+“Now once again. What made the Slinky bounce up and down?”
+The answer clearly lies within the Slinky itself. The hands that manipulate it
+suppress or release some behavior that is latent within the structure of the
+spring.
+That is a central insight of systems theory.
+Once we see the relationship between structure and behavior, we can begin to
+understand how systems work, what makes them produce poor results, and how
+to shift them into better behavior patterns. As our world continues to change
+rapidly and become more complex, systems thinking will help us manage, adapt,
+and see the wide range of choices we have before us. It is a way of thinking that
+
+gives us the freedom to identify root causes of problems and see new
+opportunities.
+So, what is a system? A system is a set of things—people, cells, molecules, or
+whatever—interconnected in such a way that they produce their own pattern of
+behavior over time. The system may be buffeted, constricted, triggered, or
+driven by outside forces. But the system’s response to these forces is
+characteristic of itself, and that response is seldom simple in the real world.
+When it comes to Slinkies, this idea is easy enough to understand. When it
+comes to individuals, companies, cities, or economies, it can be heretical. The
+system, to a large extent, causes its own behavior! An outside event may unleash
+that behavior, but the same outside event applied to a different system is likely
+to produce a different result.
+Think for a moment about the implications of that idea:
+Political leaders don’t cause recessions or economic booms. Ups
+and downs are inherent in the structure of the market economy.
+Competitors rarely cause a company to lose market share. They
+may be there to scoop up the advantage, but the losing company
+creates its losses at least in part through its own business
+policies.
+The oil-exporting nations are not solely responsible for oil-price
+rises. Their actions alone could not trigger global price rises and
+economic chaos if the oil consumption, pricing, and investment
+policies of the oil-importing nations had not built economies
+that are vulnerable to supply interruptions.
+The flu virus does not attack you; you set up the conditions for it
+to flourish within you.
+Drug addiction is not the failing of an individual and no one
+person, no matter how tough, no matter how loving, can cure a
+drug addict—not even the addict. It is only through
+understanding addiction as part of a larger set of influences and
+societal issues that one can begin to address it.
+Something about statements like these is deeply unsettling. Something else is
+purest common sense. I submit that those two somethings—a resistance to and a
+recognition of systems principles—come from two kinds of human experience,
+both of which are familiar to everyone.
+On the one hand, we have been taught to analyze, to use our rational ability, to
+trace direct paths from cause to effect, to look at things in small and
+understandable pieces, to solve problems by acting on or controlling the world
+around us. That training, the source of much personal and societal power, leads
+
+us to see presidents and competitors, OPEC and the flu and drugs as the causes
+of our problems.
+On the other hand, long before we were educated in rational analysis, we all
+dealt with complex systems. We are complex systems—our own bodies are
+magnificent
+examples
+of
+integrated,
+interconnected,
+self-maintaining
+complexity. Every person we encounter, every organization, every animal,
+garden, tree, and forest is a complex system. We have built up intuitively,
+without analysis, often without words, a practical understanding of how these
+systems work, and how to work with them.
+Modern systems theory, bound up with computers and equations, hides the
+fact that it traffics in truths known at some level by everyone. It is often
+possible, therefore, to make a direct translation from systems jargon to
+traditional wisdom.
+Because of feedback delays within complex systems, by the time a
+problem becomes apparent it may be unnecessarily difficult to solve.
+— A stitch in time saves nine.
+According to the competitive exclusion principle, if a reinforcing
+feedback loop rewards the winner of a competition with the means to
+win further competitions, the result will be the elimination of all but a
+few competitors.
+— For he that hath, to him shall be given; and he that hath not, from
+him shall be taken even that which he hath (Mark 4:25) or
+—The rich get richer and the poor get poorer.
+A diverse system with multiple pathways and redundancies is more
+stable and less vulnerable to external shock than a uniform system
+with little diversity.
+— Don’t put all your eggs in one basket.
+Ever since the Industrial Revolution, Western society has benefited from
+science, logic, and reductionism over intuition and holism. Psychologically and
+politically we would much rather assume that the cause of a problem is “out
+there,” rather than “in here.” It’s almost irresistible to blame something or
+someone else, to shift responsibility away from ourselves, and to look for the
+control knob, the product, the pill, the technical fix that will make a problem go
+away.
+Serious problems have been solved by focusing on external agents—
+preventing smallpox, increasing food production, moving large weights and
+many people rapidly over long distances. Because they are embedded in larger
+systems, however, some of our “solutions” have created further problems. And
+
+some problems, those most rooted in the internal structure of complex systems,
+the real messes, have refused to go away.
+Hunger,
+poverty,
+environmental
+degradation,
+economic
+instability,
+unemployment, chronic disease, drug addiction, and war, for example, persist in
+spite of the analytical ability and technical brilliance that have been directed
+toward eradicating them. No one deliberately creates those problems, no one
+wants them to persist, but they persist nonetheless. That is because they are
+intrinsically systems problems—undesirable behaviors characteristic of the
+system structures that produce them. They will yield only as we reclaim our
+intuition, stop casting blame, see the system as the source of its own problems,
+and find the courage and wisdom to restructure it.
+Obvious. Yet subversive. An old way of seeing. Yet somehow new.
+Comforting, in that the solutions are in our hands. Disturbing, because we must
+do things, or at least see things and think about things, in a different way.
+This book is about that different way of seeing and thinking. It is intended for
+people who may be wary of the word “systems” and the field of systems
+analysis, even though they may have been doing systems thinking all their lives.
+I have kept the discussion nontechnical because I want to show what a long way
+you can go toward understanding systems without turning to mathematics or
+computers.
+I have made liberal use of diagrams and time graphs in this book because
+there is a problem in discussing systems only with words. Words and sentences
+must, by necessity, come only one at a time in linear, logical order. Systems
+happen all at once. They are connected not just in one direction, but in many
+directions simultaneously. To discuss them properly, it is necessary somehow to
+use a language that shares some of the same properties as the phenomena under
+discussion.
+Pictures work for this language better than words, because you can see all the
+parts of a picture at once. I will build up systems pictures gradually, starting
+with very simple ones. I think you’ll find that you can understand this graphical
+language easily.
+I start with the basics: the definition of a system and a dissection of its parts
+(in a reductionist, unholistic way). Then I put the parts back together to show
+how they interconnect to make the basic operating unit of a system: the
+feedback loop.
+Next I will introduce you to a systems zoo—a collection of some common
+and interesting types of systems. You’ll see how a few of these creatures behave
+and why and where they can be found. You’ll recognize them; they’re all around
+you and even within you.
+With a few of the zoo “animals”—a set of specific examples—as a
+foundation, I’ll step back and talk about how and why systems work so
+
+beautifully and the reasons why they so often surprise and confound us. I’ll talk
+about why everyone or everything in a system can act dutifully and rationally,
+yet all these well-meaning actions too often add up to a perfectly terrible result.
+And why things so often happen much faster or slower than everyone thinks
+they will. And why you can be doing something that has always worked and
+suddenly discover, to your great disappointment, that your action no longer
+works. And why a system might suddenly, and without warning, jump into a
+kind of behavior you’ve never seen before.
+That discussion will lead us to look at the common problems that the systems-
+thinking community has stumbled upon over and over again through working in
+corporations and governments, economies and ecosystems, physiology and
+psychology. “There’s another case of the tragedy of the commons,” we find
+ourselves saying as we look at an allocation system for sharing water resource
+among communities or financial resources among schools. Or we identify
+“eroding goals” as we study the business rules and incentives that help or hinder
+the development of new technologies. Or we see “policy resistance” as we
+examine decision-making power and the nature of relationships in a family, a
+community, or a nation. Or we witness “addiction”—which can be caused by
+many more agents than caffeine, alcohol, nicotine, and narcotics.
+Systems thinkers call these common structures that produce characteristic
+behaviors “archetypes.” When I first planned this book, I called them “system
+traps.” Then I added the words “and opportunities,” because these archetypes,
+which are responsible for some of the most intransigent and potentially
+dangerous problems, also can be transformed, with a little systems
+understanding, to produce much more desirable behaviors.
+From this understanding I move into what you and I can do about
+restructuring the systems we live within. We can learn how to look for leverage
+points for change.
+I conclude with the largest lessons of all, the ones derived from the wisdom
+shared by most systems thinkers I know. For those who want to explore systems
+thinking further, the Appendix provides ways to dig deeper into the subject with
+a glossary, a bibliography of systems thinking resources, a summary list of
+systems principles, and equations for the models described in Part One.
+When our small research group moved from MIT to Dartmouth College years
+ago, one of the Dartmouth engineering professors watched us in seminars for a
+while, and then dropped by our offices. “You people are different,” he said.
+“You ask different kinds of questions. You see things I don’t see. Somehow you
+come at the world in a different way. How? Why?”
+That’s what I hope to get across throughout this book, but especially in its
+conclusion. I don’t think the systems way of seeing is better than the
+reductionist way of thinking. I think it’s complementary, and therefore
+
+revealing. You can see some things through the lens of the human eye, other
+things through the lens of a microscope, others through the lens of a telescope,
+and still others through the lens of systems theory. Everything seen through each
+kind of lens is actually there. Each way of seeing allows our knowledge of the
+wondrous world in which we live to become a little more complete.
+At a time when the world is more messy, more crowded, more interconnected,
+more interdependent, and more rapidly changing than ever before, the more
+ways of seeing, the better. The systems-thinking lens allows us to reclaim our
+intuition about whole systems and
+hone our abilities to understand parts,
+see interconnections,
+ask “what-if” questions about possible future behaviors, and
+be creative and courageous about system redesign.
+Then we can use our insights to make a difference in ourselves and our world.
+INTERLUDE • The Blind Men and the Matter of the Elephant
+Beyond Ghor, there was a city. All its inhabitants were blind. A king with his
+entourage arrived nearby; he brought his army and camped in the desert. He had
+a mighty elephant, which he used to increase the people’s awe.
+The populace became anxious to see the elephant, and some sightless from
+among this blind community ran like fools to find it.
+As they did not even know the form or shape of the elephant, they groped
+sightlessly, gathering information by touching some part of it.
+Each thought that he knew something, because he could feel a part.…
+The man whose hand had reached an ear … said: “It is a large, rough thing,
+wide and broad, like a rug.”
+And the one who had felt the trunk said: “I have the real facts about it. It is
+like a straight and hollow pipe, awful and destructive.”
+The one who had felt its feet and legs said: “It is mighty and firm, like a
+pillar.”
+Each had felt one part out of many. Each had perceived it wrongly.…2
+This ancient Sufi story was told to teach a simple lesson but one that we often
+ignore: The behavior of a system cannot be known just by knowing the elements
+of which the system is made.
+

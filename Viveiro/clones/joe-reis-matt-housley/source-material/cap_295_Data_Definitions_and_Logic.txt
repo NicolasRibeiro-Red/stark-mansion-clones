@@ -1,0 +1,46 @@
+# Data Definitions and Logic
+
+Paginas: 367-367
+
+is left to perform the heavy lifting of providing ad hoc reports and maintaining
+dashboards.
+Why is self-service data so hard? The answer is nuanced, but it generally involves
+understanding the end user. If the user is an executive who needs to understand
+how the business is doing, that person probably just wants a predefined dashboard
+of clear and actionable metrics. The executive will likely ignore any self-serve tools
+for creating custom data views. If reports provoke further questions, they might have
+analysts at their disposal to pursue a deeper investigation. On the other hand, a user
+who is an analyst might already be pursuing self-service analytics via more powerful
+tools such as SQL. Self-service analytics through a BI layer is not useful. The same
+considerations apply to data science. Although granting self-service ML to “citizen
+data scientists” has been a goal of many automated ML vendors, adoption is still
+nascent for the same reasons as self-service analytics. In these two extreme cases, a
+self-service data product is a wrong tool for the job.
+Successful self-service data projects boil down to having the right audience. Identify
+the self-service users and the “job” they want to do. What are they trying to accom‐
+plish by using a self-service data product versus partnering with a data analyst to
+get the job done? A group of executives with a background in data forms an ideal
+audience for self-service; they likely want to slice and dice data themselves without
+needing to dust off their languishing SQL skills. Business leaders willing to invest the
+time to learn data skills through a company initiative and training program could also
+realize significant value from self-service.
+Determine how you will provide data to this group. What are their time requirements
+for new data? What happens if they inevitably want more data or change the scope
+of what’s required from self-service? More data often means more questions, which
+requires more data. You’ll need to anticipate the growing needs of your self-service
+users. You also need to understand the fine balance between flexibility and guardrails
+that will help your audience find value and insights without incorrect results and
+confusion.
+Data Definitions and Logic
+As we’ve emphatically discussed, the utility of data in an organization is ultimately
+derived from its correctness and trustworthiness. Critically, the correctness of data
+goes beyond faithful reproduction of event values from source systems. Data correct‐
+ness also encompasses proper data definitions and logic; these must be baked into
+data through all lifecycle stages, from source systems to data pipelines to BI tools and
+much more.
+Data definition refers to the meaning of data as it is understood throughout the orga‐
+nization. For example, customer has a precise meaning within a company and across
+342
+|
+Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
+

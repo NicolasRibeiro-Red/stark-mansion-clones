@@ -1,0 +1,42 @@
+# Additional Resources
+
+Paginas: 213-213
+
+analytics and ML. Communicate your data needs proactively to assist application
+teams in the data engineering process.
+Be aware that the integration between data engineers and source system teams is
+growing. One example is reverse ETL, which has long lived in the shadows but has
+recently risen into prominence. We also discussed that the event-streaming platform
+could serve a role in event-driven architectures and analytics; a source system can
+also be a data engineering system. Build shared systems where it makes sense to do
+so.
+Look for opportunities to build user-facing data products. Talk to application teams
+about analytics they would like to present to their users or places where ML could
+improve the user experience. Make application teams stakeholders in data engineer‐
+ing, and find ways to share your successes.
+Now that you understand the types of source systems and the data they generate, we’ll
+next look at ways to store this data.
+Additional Resources
+• Confluent’s “Schema Evolution and Compatibility” documentation
+•
+• Database Internals by Alex Petrov (O’Reilly)
+•
+• Database System Concepts by Abraham (Avi) Silberschatz et al. (McGraw Hill)
+•
+• “The Log: What Every Software Engineer Should Know About Real-Time Data’s
+•
+Unifying Abstraction” by Jay Kreps
+• “Modernizing Business Data Indexing” by Benjamin Douglas and Mohammad
+•
+Mohtasham
+• “NoSQL: What’s in a Name” by Eric Evans
+•
+• “Test Data Quality at Scale with Deequ” by Dustin Lange et al.
+•
+• “The What, Why, and When of Single-Table Design with DynamoDB” by Alex
+•
+DeBrie
+188
+|
+Chapter 5: Data Generation in Source Systems
+

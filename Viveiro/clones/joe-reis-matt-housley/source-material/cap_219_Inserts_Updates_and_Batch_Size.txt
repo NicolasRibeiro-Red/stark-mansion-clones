@@ -1,0 +1,4 @@
+# Inserts, Updates, and Batch Size
+
+Paginas: 272-271
+

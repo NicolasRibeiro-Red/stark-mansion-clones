@@ -1,0 +1,295 @@
+# 8. Simplificar: Comece do zero
+
+Paginas: 111-119
+
+CAPÍTULO 8
+SIMPLIFICAR
+Comece do zero
+Em fevereiro de 1998, Peri Hartman96 saiu do prédio de tijolinhos
+em Seattle que servia de quartel-general da Amazon para uma
+reunião com Jeff Bezos e Shel Kaphan, primeiro funcionário da
+Amazon e chefe de desenvolvimento de software. Ele caminhou
+cerca de um quarteirão até uma microcervejaria localizada no
+famoso Pike Place Market para conversar com eles durante o
+almoço.
+Bezos tinha convocado a reunião porque estava pensando
+muito sobre as dificuldades enfrentadas no processo de
+finalização da compra em seu site de comércio eletrônico, que
+estava crescendo rapidamente. Para fazer um pedido, os clientes
+tinham que passar por uma longa série de etapas, como era típico
+das compras on-line na época. Havia uma página para digitar o
+nome: clique. Uma página para digitar a primeira linha do
+endereço: clique. Cidade, CEP, bandeira de cartão de crédito,
+número do cartão de crédito e data de validade. Para acrescentar
+um endereço de cobrança, eram outros tantos passos, com várias
+paginas: clique, clique, clique. Endereço de entrega: mais cliques.
+Na época, não havia função de preenchimento automático, ou
+seja, a finalização da compra poderia levar vários minutos.
+Em certo momento do almoço, Bezos disse: “Precisamos de
+
+algo que simplifique o processo, para que o cliente feche o pedido
+com o mínimo de esforço. Ele deveria ser capaz de clicar numa
+coisa e pronto.”97
+Ao recordar a experiência, Hartman diz que as ordens eram
+claras: “A meta era facilitar.” Bezos reconhecia que “quanto mais
+passos, mais tempo eles [os clientes] tinham para mudar de ideia.
+Se conseguirmos fazer com que o usuário compre com um clique,
+será mais provável que ele efetue a compra”.
+Na época, a ideia toda de comprar pela internet ainda era nova
+e bastante complicada para muitos. Navegar pelo longo processo
+de cliques não era nada intuitivo e muito mais trabalhoso que o
+processo ao qual as pessoas estavam acostumadas, ou seja: ir até o
+balcão e dar o cartão de crédito ao funcionário da loja. Digitar
+toda vez as informações de cobrança, pagamento e envio era uma
+barreira, um incômodo. Reduzir toda essa complexidade a um
+único clique seria um avanço imenso.
+Analisando em retrospecto, a solução de um clique parecia
+óbvia.
+Mas
+Hartman,
+um
+programador
+inteligente
+e
+entusiasmado, passara até então dois a três meses agilizando e
+simplificando cada passo do processo de compra e nem por um
+momento pensara na possibilidade de compra com um só clique.
+“Ninguém estava fazendo isso”, explicou ele. “Jeff disse para
+fazer. Então fizemos.”
+A Amazon conseguiu a patente do processo de um clique,98 que
+durou quase 20 anos, e isso lhe deu uma vantagem imensa sobre
+os concorrentes on-line. É impossível isolar o valor exato dessa
+única inovação, mas claramente foi enorme.
+Os passos mais simples são aqueles que você não dá
+É surpreendente saber que Hartman passou meses tentando
+simplificar cada passo do processo de compra mas não pensou em
+remover passos para tornar o processo em si mais simples. Há uma
+enorme diferença entre os dois.
+
+Por mais simples que o passo
+seja, mais fácil ainda é não dar
+nenhum passo.
+Quando meu filho tinha 12 anos, estabeleceu como meta se
+tornar um Eagle Scout (o grau mais alto dos escoteiros
+americanos) antes dos 14 anos. Era uma meta ambiciosa segundo
+qualquer padrão, mas a atacamos juntos, produzindo ótimas
+lembranças pelo caminho.
+Pouco antes dos 14 anos, ele começou seu projeto final Eagle,
+em que trabalhou com uma equipe de 40 pessoas para reconstruir
+55 metros de cerca destruídos nos incêndios da Califórnia no ano
+anterior. Agora, só faltava escrever um relatório sobre o projeto.
+Não parecia muita coisa, mas, depois de quase dois anos de
+trabalho ininterrupto com os escoteiros, esse único projeto se
+expandiu tanto em nossa mente que ficou mais fácil adiá-lo.
+Havíamos começado cedo a produzir o relatório. Na verdade,
+quando perdemos o ímpeto já tínhamos metade pronta. Mas às
+vezes a segunda metade de um projeto parece muito mais
+assustadora que a primeira. Não conseguíamos parar de pensar
+em todo tipo de extras que tornariam o relatório ainda melhor:
+um ensaio de abertura cheio de detalhes vivos e precisos, dezenas
+de fotos, gráficos profissionais. Não ajudava termos visto projetos
+extravagantes a que outros escoteiros dedicaram centenas de
+horas (ou, na maioria dos casos, a que seus pais tinham dedicado
+centenas de horas), o que elevava ainda mais o nível do esforço
+que achávamos ser necessário aplicar para terminar.
+Assim, o relatório empacou. Sempre que pensávamos em
+retomá-lo, nos sentíamos oprimidos pela tarefa. Os dias
+começaram a passar sem que fizéssemos nenhum progresso.
+Depois de uns 15 dias assim, comecei, por acaso, a pesquisar
+sobre a simplificação de processos em organizações complexas.
+De repente, entendi tudo: estávamos tornando esse processo
+muito mais complicado do que o necessário. Por acrescentar
+tantas etapas, mesmo que só mentalmente, tinha ficado difícil dar
+um só passo que fosse. Assim, recuamos e nos perguntamos:
+
+“Quais são os passos mínimos necessários para finalizar isso?”
+Não precisávamos criar uma pasta especial de madeira para
+guardar o relatório. Não tínhamos que incluir todas as fotos que
+tiramos. Não era necessário escrever parágrafos para descrever
+cada foto nem elaborar uma capa sofisticada para o relatório. O
+ensaio de abertura não precisava ser uma obra-prima.
+Assim, nossa lista ficou reduzida a passos verdadeiramente
+essenciais: “Selecionar 20 citações. Diagramar a capa. Escrever
+um ensaio de três páginas respondendo apenas às perguntas
+feitas. Imprimir, levar até a sede dos escoteiros e entregar.”
+Pronto.
+Aquele projeto importante para o meu filho passou de
+empacado a finalizado numa fração do tempo porque delineamos
+e depois concluímos o número mínimo de passos. Ele se tornou
+um Eagle Scout uma semana antes de completar 14 anos.
+É claro que esse conceito não se restringe a projetos de
+escoteiros. De modo geral, a única pergunta que pode lhe poupar
+incontáveis dores de cabeça e fazer você avançar em projetos
+prioritários que parecem dificílimos ou complexos é a seguinte:
+Quais são os passos mínimos
+necessários para ﬁnalizar o
+projeto?
+Para deixar claro, identificar o número mínimo de etapas não é
+uma “gambiarra” nem implica produzir algo de que você não vai
+se orgulhar. Passos desnecessários são exatamente isso:
+desnecessários. Eliminá-los permite que você canalize toda a sua
+energia para finalizar o projeto importante. Em praticamente
+todas as esferas, concluir é infinitamente melhor do que
+acrescentar etapas supérfluas que não acrescentam valor.
+
+Para ter sucesso em alguma
+coisa, é preciso concluí-la.
+Nem tudo precisa de um esforço a mais
+Meu melhor amigo de infância sempre estudava menos tempo do
+que eu, mas tirava notas melhores. Seu segredo: quando a
+professora lhe pedia alguma coisa, ele fazia o que era solicitado e
+nada mais. Só isso. Eu, por outro lado, ia fundo: lia além do que
+era solicitado, pesquisava mais do que o necessário. Eu me
+ocupava tanto com o desnecessário que não fazia o básico.
+Fazer um esforço a mais de um jeito essencial é uma coisa: o
+cirurgião que dá aquele passo extra para impedir infecções no
+lugar de uma incisão, por exemplo. Mas acrescentar ornamentos
+desnecessários e superficiais é outra bem diferente. Eis uma regra
+que considero útil: Alguém pedir que você faça X não é razão
+suficiente para fazer Y.
+Por exemplo, se lhe pedem para fazer uma apresentação, isso
+não é razão suficiente para criar slides com vídeos, gráficos
+elaborados e páginas e mais páginas de dados. Quantas vezes você
+foi forçado a assistir a apresentações com slides em excesso? Ou
+palavras em excesso em cada slide? Ou tudo em excesso? É
+realmente essa experiência que você quer criar para os outros?
+Um momento crucial da virada lendária da IBM revela uma
+abordagem melhor.99 Louis V. Gerstner era novo no cargo de CEO
+e convidara Nick Donofrio, um de seus líderes executivos, para
+discursar numa reunião geral. Gerstner recorda: “Na época, o
+formato-padrão de todas as reuniões importantes da IBM era uma
+apresentação com retroprojetores e gráficos em transparências.
+Nick estava na segunda transparência quando fui até a mesa e,
+com o máximo de educação possível diante da equipe dele,
+desliguei o projetor. Depois de um longo momento de silêncio
+constrangedor, eu disse simplesmente: ‘Vamos apenas falar sobre
+
+os negócios.’”
+Ir direto ao que interessa deveria ser a meta de todas as
+apresentações. Assim, na próxima vez que você tiver que escrever
+um relatório, dar uma palestra ou realizar uma apresentação de
+vendas, resista à tentação de fazer acréscimos desnecessários.
+Eles são uma distração não só para você como também para o seu
+público. É por isso que, quando faço apresentações, uso somente
+seis slides, com menos de 10 palavras no total.
+Raramente é necessário fazer um esforço além do que é
+essencial. E fazer o esforço mínimo é melhor do que não chegar a
+lugar nenhum.
+Comece do zero
+Quando a equipe com os melhores designers de produto da Apple
+se reuniu com Steve Jobs para apresentar o projeto que acabou se
+tornando o iDVD – um aplicativo hoje extinto que permitia aos
+usuários gravar arquivos de música, filmes e fotos digitais
+armazenados no computador num DVD físico –, eles esperavam
+que o chefe fosse ficar impressionado. O design era limpo e bonito
+e, embora contasse com várias características e funções, eles se
+orgulhavam de terem simplificado a versão original do produto,
+cujo manual do usuário tinha mil páginas.
+No entanto, como a equipe logo descobriu, Jobs tinha outra
+coisa em mente. Ele foi até o quadro branco e desenhou um
+retângulo. Então disse: “Aqui está o novo aplicativo. Tem uma
+janela. Você arrasta o vídeo para a janela. Depois, clica no botão
+que diz GRAVAR. É isso. É isso que vamos fazer.”100
+Mike Evangelist, um dos designers presentes à reunião, ficou
+embasbacado. Ele disse: “Ainda tenho os slides que preparei para
+aquela reunião, e são ridículos em sua complexidade.” Só mais
+tarde ele conseguiu ver claramente que “todas aquelas outras
+coisas só estavam atrapalhando”.
+Evangelist me contou que a maior descoberta foi que ele e sua
+equipe estavam olhando o processo do jeito errado. Tinham
+começado com um produto complicadíssimo e tentado simplificá-
+
+lo. Mas Jobs o abordou pelo ângulo oposto. Começou do zero e
+tentou imaginar o número mínimo de passos necessários para
+chegar ao resultado desejado.
+Ficamos tão acostumados com a complexidade de todos os
+processos da vida que raramente paramos para questioná-la. Por
+exemplo, enquanto escrevia este livro, lancei um podcast. A
+princípio, as instruções que eu deveria enviar a cada convidado
+que participasse do podcast comigo tinham 15 passos:
+1. Faça login em Zencastr.com com as seguintes credenciais:
+2. Usuário: XYZ
+3. Senha: ABC
+4. Clique no link do e-mail do Zencastr que você vai receber
+pouco antes da entrevista.
+5. Para assegurar a melhor qualidade de áudio, quando o
+Chrome perguntar, autorize as notificações do Zencastr.
+6. Marque o Zencastr (clique no ícone de estrela no lado
+direito da barra de endereços do Chrome) como seguro
+para o passo 3.
+7. Veja se o status do microfone no Health Check é
+“Aprovado”.
+8. Se não for, clique na aba no centro inferior do retângulo
+da barra de som com o seu nome para ver qual é o
+problema, clique no link e resolva.
+9. Confirme que consegue me ouvir e que podemos falar um
+com o outro via Zencastr.
+10. Clique no link do Zoom que lhe mandarei por e-mail
+(também deve estar no convite do calendário).
+11. Assim que entrar no vídeo do Zoom, imediatamente deixe
+o microfone mudo.
+12. Ative a câmera.
+13. Quando eu iniciar a gravação no Zencastr e no Zoom,
+confirme que você vê o ícone de gravação nos dois e faça
+comigo o teste das palmas.
+14. Agora poderemos começar!
+15. Quando terminar, faça logout do Zencastr antes de fechar
+a janela.
+Isso era coisa demais até para eu ler, quanto mais para os
+
+convidados seguirem e executarem.
+Então comecei do zero. Perguntei a mim mesmo: “Qual é o
+número mínimo de passos que alguém deveria dar para conversar
+comigo via Zencastr?” Assim que encontrei a resposta, reduzi o
+processo a isto:
+1. Clique no link do e-mail do Zencastr que você vai receber
+pouco antes da entrevista.
+2. Eu vou iniciar e finalizar a gravação, você só vai precisar
+falar.
+E só. Apenas dois passos simples.
+Se existem processos na sua vida que parecem envolver um
+número excessivo de passos, experimente começar do zero. Então
+veja se consegue encontrar um caminho até o mesmo resultado só
+que com menos passos.
+Maximize os passos não dados
+Em fevereiro de 2001, 17 desenvolvedores influentes se reuniram
+no Lodge at Snowbird (uma estação de esqui no estado de Utah)
+para relaxar, bater papo, comer, esquiar e discutir diversos
+aspectos do desenvolvimento de softwares. Suas conversas
+naquele fim de semana resultaram em um documento, hoje muito
+lido, chamado “Manifesto pelo desenvolvimento ágil de
+softwares”.101 Nele, o grupo codificou um conjunto de princípios
+para desenvolver softwares melhores com a remoção de
+obstáculos e a criação de uma experiência sem esforço para o
+usuário.
+Um dos 12 princípios do Manifesto Ágil afirma: “A
+simplicidade, arte de maximizar a quantidade de trabalho que não
+precisou ser feito, é essencial.” Com isso eles queriam dizer que o
+objetivo deve ser criar valor para o cliente e, se for possível fazer
+isso usando menos código e menos recursos, é exatamente assim
+que deve ser.
+
+Embora
+esse
+princípio
+se
+refira
+ao
+processo
+de
+desenvolvimento de softwares, podemos adaptá-lo a qualquer
+processo cotidiano, dizendo: “A simplicidade, arte de maximizar
+os passos que não precisaram ser dados, é essencial.” Em outras
+palavras, seja qual for o nosso objetivo supremo, devemos nos
+concentrar somente nos passos que acrescentam valor. Todos os
+passos não essenciais vêm com custo de oportunidade, e a cada
+passo não essencial removido ganhamos mais tempo, energia e
+recursos cognitivos para aplicar no que é essencial.
+Talvez você se surpreenda com o número de metas
+aparentemente complexas que se pode alcançar e com a
+quantidade de tarefas aparentemente complexas que se consegue
+concluir em poucos passos. Como observa o jornalista esportivo
+Andy Benoit, a maioria dos gênios “não prospera por desconstruir
+complexidades intricadas, mas por aproveitar simplicidades
+despercebidas”.102
+

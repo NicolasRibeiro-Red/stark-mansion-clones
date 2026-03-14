@@ -1,0 +1,45 @@
+# The Live Data Stack
+
+Paginas: 410-410
+
+Moving Beyond the Modern Data Stack,
+Toward the Live Data Stack
+We’ll be frank: the modern data stack (MDS) isn’t so modern. We applaud the MDS
+for bringing a great selection of powerful data tools to the masses, lowering prices,
+and empowering data analysts to take control of their data stack. The rise of ELT,
+cloud data warehouses, and the abstraction of SaaS data pipelines certainly changed
+the game for many companies, opening up new powers for BI, analytics, and data
+science.
+Having said that, the MDS is basically a repackaging of old data warehouse practices
+using modern cloud and SaaS technologies; because the MDS is built around the
+cloud data warehouse paradigm, it has some serious limitations when compared
+to the potential of next-generation real-time data applications. From our point of
+view, the world is moving beyond the use of data-warehouse-based internal-facing
+analytics and data science, toward powering entire businesses and applications in real
+time with next-generation real-time databases.
+What’s driving this evolution? In many cases, analytics (BI and operational analytics)
+will be replaced by automation. Presently, most dashboards and reports answer
+questions concerning what and when. Ask yourself, “If I’m asking a what or when
+question, what action do I take next?” If the action is repetitive, it is a candidate for
+automation. Why look at a report to determine whether to take action when you can
+instead automate the action based on events as they occur?
+And it goes much further than this. Why does using a product like TikTok, Uber,
+Google, or DoorDash feel like magic? While it seems to you like a click of a button to
+watch a short video, order a ride or a meal, or find a search result, a lot is happening
+under the hood. These products are examples of true real-time data applications,
+delivering the actions you need at the click of a button while performing extremely
+sophisticated data processing and ML behind the scenes with miniscule latency.
+Presently, this level of sophistication is locked away behind custom-built technologies
+at large technology companies, but this sophistication and power are becoming
+democratized, similar to the way the MDS brought cloud-scale data warehouses and
+pipelines to the masses. The data world will soon go “live.”
+The Live Data Stack
+This democratization of real-time technologies will lead us to the successor to the
+MDS: the live data stack will soon be accessible and pervasive. The live data stack,
+depicted in Figure 11-1, will fuse real-time analytics and ML into applications by
+using streaming technologies, covering the full data lifecycle from application source
+systems to data processing to ML, and back.
+Moving Beyond the Modern Data Stack, Toward the Live Data Stack
+|
+385
+

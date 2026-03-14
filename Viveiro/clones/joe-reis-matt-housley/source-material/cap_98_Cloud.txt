@@ -1,0 +1,127 @@
+# Cloud
+
+Paginas: 149-151
+
+Companies in competitive sectors generally don’t have the option to stand still.
+Competition is fierce, and there’s always the threat of being “disrupted” by more agile
+competition, often backed by a large pile of venture capital dollars. Every company
+must keep its existing systems running efficiently while deciding what moves to
+make next. This could involve adopting newer DevOps practices, such as containers,
+Kubernetes, microservices, and continuous deployment while keeping their hardware
+running on premises. It could involve a complete migration to the cloud, as discussed
+next.
+Cloud
+The cloud flips the on-premises model on its head. Instead of purchasing hardware,
+you simply rent hardware and managed services from a cloud provider (such as AWS,
+Azure, or Google Cloud). These resources can often be reserved on an extremely
+short-term basis; VMs spin up in less than a minute, and subsequent usage is billed
+in per-second increments. This allows cloud users to dynamically scale resources that
+were inconceivable with on-premises servers.
+In a cloud environment, engineers can quickly launch projects and experiment
+without worrying about long lead time hardware planning. They can begin running
+servers as soon as their code is ready to deploy. This makes the cloud model
+extremely appealing to startups that are tight on budget and time.
+The early cloud era was dominated by infrastructure as a service (IaaS) offerings—
+products such as VMs and virtual disks that are essentially rented slices of hardware.
+Slowly, we’ve seen a shift toward platform as a service (PaaS), while SaaS products
+continue to grow at a rapid clip.
+PaaS includes IaaS products but adds more sophisticated managed services to support
+applications. Examples are managed databases such as Amazon Relational Database
+Service (RDS) and Google Cloud SQL, managed streaming platforms such as Ama‐
+zon Kinesis and Simple Queue Service (SQS), and managed Kubernetes such as Goo‐
+gle Kubernetes Engine (GKE) and Azure Kubernetes Service (AKS). PaaS services
+allow engineers to ignore the operational details of managing individual machines
+and deploying frameworks across distributed systems. They provide turnkey access to
+complex, autoscaling systems with minimal operational overhead.
+SaaS offerings move one additional step up the ladder of abstraction. SaaS typically
+provides a fully functioning enterprise software platform with little operational man‐
+agement. Examples of SaaS include Salesforce, Google Workspace, Microsoft 365,
+Zoom, and Fivetran. Both the major public clouds and third parties offer SaaS
+platforms. SaaS covers a whole spectrum of enterprise domains, including video
+conferencing, data management, ad tech, office applications, and CRM systems.
+124
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+
+This chapter also discusses serverless, increasingly important in PaaS and SaaS offer‐
+ings. Serverless products generally offer automated scaling from zero to extremely
+high usage rates. They are billed on a pay-as-you-go basis and allow engineers to
+operate without operational awareness of underlying servers. Many people quibble
+with the term serverless; after all, the code must run somewhere. In practice, server‐
+less usually means many invisible servers.
+Cloud services have become increasingly appealing to established businesses with
+existing data centers and IT infrastructure. Dynamic, seamless scaling is extremely
+valuable to businesses that deal with seasonality (e.g., retail businesses coping with
+Black Friday load) and web traffic load spikes. The advent of COVID-19 in 2020
+was a major driver of cloud adoption, as companies recognized the value of rapidly
+scaling up data processes to gain insights in a highly uncertain business climate;
+businesses also had to cope with substantially increased load due to a spike in online
+shopping, web app usage, and remote work.
+Before we discuss the nuances of choosing technologies in the cloud, let’s first discuss
+why migration to the cloud requires a dramatic shift in thinking, specifically on the
+pricing front; this is closely related to FinOps, introduced in “FinOps” on page 120.
+Enterprises that migrate to the cloud often make major deployment errors by not
+appropriately adapting their practices to the cloud pricing model.
+A Brief Detour on Cloud Economics
+To understand how to use cloud services efficiently through cloud native architecture,
+you need to know how clouds make money. This is an extremely complex concept
+and one on which cloud providers offer little transparency. Consider this sidebar a
+starting point for your research, discovery, and process development.
+Cloud Services and Credit Default Swaps
+Let’s go on a little tangent about credit default swaps. Don’t worry, this will make
+sense in a bit. Recall that credit default swaps rose to infamy after the 2007 global
+financial crisis. A credit default swap was a mechanism for selling different tiers of
+risk attached to an asset (e.g., a mortgage). It is not our intention to present this
+idea in any detail, but rather to offer an analogy wherein many cloud services are
+similar to financial derivatives; cloud providers not only slice hardware assets into
+small pieces through virtualization, but also sell these pieces with varying technical
+characteristics and risks attached. While providers are extremely tight-lipped about
+details of their internal systems, there are massive opportunities for optimization and
+scaling by understanding cloud pricing and exchanging notes with other users.
+Location
+|
+125
+
+Look at the example of archival cloud storage. At the time of this writing, GCP openly
+admits that its archival class storage runs on the same clusters as standard cloud
+storage, yet the price per gigabyte per month of archival storage is roughly 1/17 that
+of standard storage. How is this possible?
+Here’s our educated guess. When purchasing cloud storage, each disk in a storage
+cluster has three assets that cloud providers and consumers use. First, it has a certain
+storage capacity—say, 10 TB. Second, it supports a certain number of input/output
+operations (IOPs) per second—say, 100. Third, disks support a certain maximum
+bandwidth, the maximum read speed for optimally organized files. A magnetic drive
+might be capable of reading at 200 MB/s.
+Any of these limits (IOPs, storage capacity, bandwidth) is a potential bottleneck for
+a cloud provider. For instance, the cloud provider might have a disk storing 3 TB of
+data but hitting maximum IOPs. An alternative to leaving the remaining 7 TB empty
+is to sell the empty space without selling IOPs. Or, more specifically, sell cheap storage
+space and expensive IOPs to discourage reads.
+Much like traders of financial derivatives, cloud vendors also deal in risk. In the case
+of archival storage, vendors are selling a type of insurance, but one that pays out for
+the insurer rather than the policy buyer in the event of a catastrophe. While data
+storage costs per month are extremely cheap, I risk paying a high price if I ever need
+to retrieve data. But this is a price that I will happily pay in a true emergency.
+Similar considerations apply to nearly any cloud service. While on-premises servers
+are essentially sold as commodity hardware, the cost model in the cloud is more
+subtle. Rather than just charging for CPU cores, memory, and features, cloud vendors
+monetize characteristics such as durability, reliability, longevity, and predictability; a
+variety of compute platforms discount their offerings for workloads that are ephem‐
+eral or can be arbitrarily interrupted when capacity is needed elsewhere.
+Cloud ≠ On Premises
+This heading may seem like a silly tautology, but the belief that cloud services are
+just like familiar on-premises servers is a widespread cognitive error that plagues
+cloud migrations and leads to horrifying bills. This demonstrates a broader issue in
+tech that we refer to as the curse of familiarity. Many new technology products are
+intentionally designed to look like something familiar to facilitate ease of use and
+accelerate adoption. But, any new technology product has subtleties and wrinkles that
+users must learn to identify, accommodate, and optimize.
+Moving on-premises servers one by one to VMs in the cloud—known as simple lift
+and shift—is a perfectly reasonable strategy for the initial phase of cloud migration,
+especially when a company is facing some kind of financial cliff, such as the need
+to sign a significant new lease or hardware contract if existing hardware is not shut
+down. However, companies that leave their cloud assets in this initial state are in for
+126
+|
+Chapter 4: Choosing Technologies Across the Data Engineering Lifecycle
+

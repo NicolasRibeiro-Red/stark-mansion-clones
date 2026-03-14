@@ -1,0 +1,41 @@
+# Throughput and Scalability
+
+Paginas: 264-264
+
+With asynchronous ingestion, dependencies can now operate at the level of individ‐
+ual events, much as they would in a software backend built from microservices
+(Figure 7-6). Individual events become available in storage as soon as they are inges‐
+ted individually. Take the example of a web application on AWS that emits events into
+Amazon Kinesis Data Streams (here acting as a buffer). The stream is read by Apache
+Beam, which parses and enriches events, and then forwards them to a second Kinesis
+stream; Kinesis Data Firehose rolls up events and writes objects to Amazon S3.
+Figure 7-6. Asynchronous processing of an event stream in AWS
+The big idea is that rather than relying on asynchronous processing, where a batch
+process runs for each stage as the input batch closes and certain time conditions are
+met, each stage of the asynchronous pipeline can process data items as they become
+available in parallel across the Beam cluster. The processing rate depends on available
+resources. The Kinesis Data Stream acts as the shock absorber, moderating the load
+so that event rate spikes will not overwhelm downstream processing. Events will
+move through the pipeline quickly when the event rate is low, and any backlog has
+cleared. Note that we could modify the scenario and use a Kinesis Data Stream for
+storage, eventually extracting events to S3 before they expire out of the stream.
+Serialization and Deserialization
+Moving data from source to destination involves serialization and deserialization. As
+a reminder, serialization means encoding the data from a source and preparing data
+structures for transmission and intermediate storage stages.
+When ingesting data, ensure that your destination can deserialize the data it receives.
+We’ve seen data ingested from a source but then sitting inert and unusable in the
+destination because the data cannot be properly deserialized. See the more extensive
+discussion of serialization in Appendix A.
+Throughput and Scalability
+In theory, your ingestion should never be a bottleneck. In practice, ingestion bottle‐
+necks are pretty standard. Data throughput and system scalability become critical as
+your data volumes grow and requirements change. Design your systems to scale and
+shrink to flexibly match the desired data throughput.
+Where you’re ingesting data from matters a lot. If you’re receiving data as it’s gener‐
+ated, will the upstream system have any issues that might impact your downstream
+ingestion pipelines? For example, suppose a source database goes down. When it
+Key Engineering Considerations for the Ingestion Phase
+|
+239
+

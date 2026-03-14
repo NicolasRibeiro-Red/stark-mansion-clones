@@ -1,0 +1,47 @@
+# Convergence, Next-Generation Data Lakes, and the Data Platform
+
+Paginas: 127-127
+
+transformed, you have access to nearly unlimited computing power by spinning up a
+cluster on demand, and you can pick your favorite data-processing technology for the
+task at hand—MapReduce, Spark, Ray, Presto, Hive, etc.
+Despite the promise and hype, data lake 1.0 had serious shortcomings. The data
+lake became a dumping ground; terms such as data swamp, dark data, and WORN
+were coined as once-promising data projects failed. Data grew to unmanageable
+sizes, with little in the way of schema management, data cataloging, and discovery
+tools. In addition, the original data lake concept was essentially write-only, creating
+huge headaches with the arrival of regulations such as GDPR that required targeted
+deletion of user records.
+Processing data was also challenging. Relatively banal data transformations such as
+joins were a huge headache to code as MapReduce jobs. Later frameworks such as
+Pig and Hive somewhat improved the situation for data processing but did little
+to address the basic problems of data management. Simple data manipulation lan‐
+guage (DML) operations common in SQL—deleting or updating rows—were painful
+to implement, generally achieved by creating entirely new tables. While big data
+engineers radiated a particular disdain for their counterparts in data warehousing,
+the latter could point out that data warehouses provided basic data management
+capabilities out of the box, and that SQL was an efficient tool for writing complex,
+performant queries and transformations.
+Data lake 1.0 also failed to deliver on another core promise of the big data movement.
+Open source software in the Apache ecosystem was touted as a means to avoid
+multimillion-dollar contracts for proprietary MPP systems. Cheap, off-the-shelf
+hardware would replace custom vendor solutions. In reality, big data costs ballooned
+as the complexities of managing Hadoop clusters forced companies to hire large
+teams of engineers at high salaries. Companies often chose to purchase licensed,
+customized versions of Hadoop from vendors to avoid the exposed wires and sharp
+edges of the raw Apache codebase and acquire a set of scaffolding tools to make
+Hadoop more user-friendly. Even companies that avoided managing Hadoop clusters
+using cloud storage had to spend big on talent to write MapReduce jobs.
+We should be careful not to understate the utility and power of first-generation
+data lakes. Many organizations found significant value in data lakes—especially huge,
+heavily data-focused Silicon Valley tech companies like Netflix and Facebook. These
+companies had the resources to build successful data practices and create their cus‐
+tom Hadoop-based tools and enhancements. But for many organizations, data lakes
+turned into an internal superfund site of waste, disappointment, and spiraling costs.
+Convergence, Next-Generation Data Lakes, and the Data Platform
+In response to the limitations of first-generation data lakes, various players have
+sought to enhance the concept to fully realize its promise. For example, Databricks
+102
+|
+Chapter 3: Designing Good Data Architecture
+

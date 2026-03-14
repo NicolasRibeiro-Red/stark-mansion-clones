@@ -1,0 +1,638 @@
+# 1. Aprendendo com a Mãe Natureza, a mais velha e mais sábia
+
+Paginas: 334-351
+
+1. Aprendendo com a Mãe Natureza, a mais velha e mais
+sábia
+Como fazer amigos entre pessoas que andam — Sobre tornar-se avó — Os encantos
+do eco-Extremistão — Nunca pequeno o suﬁciente — Soviético de Harvard chique
+Estou escrevendo este ensaio três anos após a conclusão de A lógica do cisne
+negro — o qual mantive intacto, exceto por algumas notas de rodapé à guisa de
+esclarecimento. Desde então, já escrevi uma dúzia de artigos “acadêmicos” em
+torno de alguns aspectos da ideia do Cisne Negro. São muito, muito chatos de
+ler, já que quase todos os artigos acadêmicos são feitos para entediar,
+impressionar, conferir credibilidade, até mesmo intimidar, ser apresentados em
+reuniões, mas não para ser lidos, exceto por otários (ou detratores) ou, pior
+ainda, alunos de pós-graduação. Então, estou tornando mais evidente aqui o
+ponto “o que fazer a seguir” — você pode levar um cavalo até a água e, além disso,
+talvez tenha que fazê-lo beber. Portanto, este ensaio vai permitir que eu me
+aprofunde em alguns pontos. Como o próprio texto principal, o início será o que
+se chama de literário, e se tornará progressivamente mais técnico.
+Devo a ideia deste ensaio, que poderia ser um livro, a Danny Kahneman, para
+com quem eu (e minhas ideias) temos uma dívida de gratidão maior do que para
+com qualquer outra pessoa neste planeta. Ele me convenceu de que eu tinha a
+obrigação de tentar fazer o cavalo beber a água.
+SOBRE CAMINHADAS LENTAS, MAS LONGAS
+Nos últimos três anos, minha vida passou por um bocado de mudanças,
+principalmente para melhor. Assim como as festas, um livro coloca você nos
+braços da serendipidade; até faz você ser convidado para mais festas. Durante
+meus dias sombrios, me chamaram de trader em Paris (algo extremamente
+
+vulgaire); de ﬁlósofo em Londres (o que queria dizer “teórico em excesso”); de
+profeta em Nova York (com desdém, por causa da minha então falsa profecia); e
+de economista em Jerusalém (algo muito materialista). Eu agora me via às voltas
+com o estresse de ter que viver à altura das designações totalmente imerecidas de
+um profeta em Israel (um projeto muito, muito ambicioso), um philosophe na
+França, um economista em Londres e um trader em Nova York (onde isso é
+respeitável).
+Tamanha exposição me rendeu mensagens de ódio, pelo menos uma ameaça
+de morte (por parte de ex-funcionários do falido banco de investimentos
+Lehman Brothers),1 o que achei extremamente lisonjeiro e, pior do que qualquer
+ameaça de violência, solicitações de hora em hora de entrevistas com jornalistas
+turcos e brasileiros. Eu tinha que passar um tempão escrevendo notas
+personalizadas e corteses em que recusava convites para jantar com ﬁgurões da
+atualidade que vestiam terno e gravata, arqueoﬁgurões que vestiam terno e
+gravata, protoﬁgurões que vestiam terno e gravata, e a nojenta espécie de gente
+que gosta de desﬁar nomes e citações só para impressionar o interlocutor,
+também envergando terno e gravata. Mas a exposição também me trouxe alguns
+benefícios. Fui contactado por pessoas que comungam das mesmas ideias que eu,
+pessoas que eu nunca sonharia em conhecer, ou que eu nem sabia que existiam,
+em disciplinas completamente fora dos meus círculos habituais e que, com as
+mais inesperadas ideias, me ajudaram a dar continuidade à minha investigação,
+aprofundando-a. Muitas vezes fui procurado por indivíduos que eu admirava e
+cujo trabalho eu conhecia bem, e que se tornaram colaboradores e críticos
+naturais; para sempre me lembrarei da emoção de receber um inesperado e-mail
+de Spyros Makridakis, da Competição _ descrita no capítulo 10, o grande
+desmistiﬁcador de previsões errôneas, ou outro, de Jon Elster, o estudioso de
+rara erudição e argutos insights que integrou a sabedoria dos antigos ao
+pensamento das ciências sociais modernas. Conheci romancistas e pensadores
+ﬁlosóﬁcos cujas obras eu lera e admirava, como Louis de Bernières, Will Self,
+John Gray (o ﬁlósofo, não o psicólogo pop) e lorde Martin Rees; em todos os
+quatro casos, tive a peculiar necessidade de me beliscar ao ouvi-los falar sobre
+meu próprio livro.
+Então, através de uma rede de amigos e conhecidos, cappuccinos, vinhos de
+sobremesa e ﬁlas de procedimentos de segurança em aeroportos, pude
+compartilhar e entender a potência do conhecimento oral, uma vez que os
+debates são muito mais poderosos do que a mera correspondência. Cara a cara, as
+pessoas dizem coisas que jamais publicariam. Conheci pessoalmente Nouriel
+
+Roubini (que eu saiba, o único economista proﬁssional que de fato previu a crise
+de 2008, e talvez o único pensador independente nesse ramo). Conheci também
+várias pessoas cuja existência eu ignorava, bons economistas (isto é, com padrões
+cientíﬁcos), como Michael Spence e Barkley Rosser. Também Peter Bevelin e
+Yechezkel Zilber, que me abasteceram com os artigos que eu nem sabia que
+procurava, o primeiro em biologia, o segundo em ciências cognitivas — assim,
+eles deram o cutucão que empurrou meu pensamento na direção apropriada.
+Então, tenho dialogado com muita gente. Meu problema é que encontrei
+apenas duas pessoas que conseguem manter uma conversa durante uma longa
+caminhada (e caminhar devagar): Spyros Makridakis e Yechezkel Zilber. A
+maioria das pessoas, infelizmente, caminha rápido demais, confundindo
+caminhada com exercício, sem entender que uma caminhada tem que ser feita
+sem pressa, em um ritmo no qual a pessoa esqueça que está andando — por isso
+preciso continuar indo a Atenas (onde Spyros mora), a ﬁm de me entregar à
+minha atividade favorita: ser um ﬂâneur.
+Meus erros
+E, claro, as pessoas esquadrinham o texto. Depois de examinar as mensagens e
+relatórios, não sinto necessidade de retirar nada da versão inicial, tampouco de
+corrigir qualquer erro (exceto erros de digitação e pequenos erros factuais),
+exceto por dois pontos correlatos. A primeira falha me foi apontada por Jon
+Elster. Eu havia escrito que a falácia narrativa permeia análises históricas, pois
+acreditava que não existia algo como um teste de declaração histórica por meio
+de previsão e falsiﬁcação. Elster me explicou que existem situações em que a
+teoria histórica pode escapar da falácia narrativa e ser submetida à rejeição
+empírica — áreas nas quais estamos descobrindo documentos ou sítios
+arqueológicos que fornecem informações capazes de refutar certa narrativa.
+Portanto, em relação ao argumento dele, percebi que a história do pensamento
+árabe não era tão deﬁnitiva, e que eu havia caído na armadilha de ignorar as
+contínuas mudanças na história pregressa, que o passado também era em grande
+parte uma previsão. Eu (acidentalmente) descobri que havia sucumbido à
+sabedoria convencional da erudição de livro didático sobre ﬁlosoﬁa árabe,
+sabedoria desmentida por documentos existentes. Eu havia exagerado a
+importância do debate entre Averróis e Algazel. Como todo mundo, pensei 1)
+que era uma grande coisa e, 2) que isso matava a falsafah2 árabe. No ﬁm ﬁcou
+claro que esse foi um dos equívocos recentemente desmascarados por
+pesquisadores (como Dimitri Gutas e George Saliba). A maior parte daqueles
+
+que teorizaram sobre a ﬁlosoﬁa árabe não conheciam o idioma árabe, por isso
+deixaram muitas coisas ao sabor da imaginação (Leo Strauss, por exemplo). Estou
+um pouco envergonhado, porque o árabe é uma das minhas línguas nativas, e lá
+estava eu, relatando a partir de fontes de décima mão desenvolvidas por
+estudiosos analfabetos em árabe (e com excesso de conﬁança e escassez de
+erudição suﬁcientes para não se darem conta disso). Caí no viés de conﬁrmação
+visto por Gutas: “Parece que sempre se começa com um preconceito acerca do
+que a ﬁlosoﬁa árabe deveria estar dizendo, para em seguida concentrar-se apenas
+naquelas passagens que parecem ratiﬁcar esse preconceito, desse modo
+aparentemente corroborando o preconceito com base nos textos propriamente
+ditos”.
+Mais uma vez, cuidado com a história.
+ROBUSTEZ E FRAGILIDADE
+Após a conclusão de A lógica do cisne negro, passei algum tempo meditando
+sobre os itens que apresentei no capítulo 14 sobre a fragilidade de alguns
+sistemas com grande concentração e ilusões de estabilidade — o que me deixou
+convencido de que o sistema bancário era a origem de todos os acidentes que
+estavam em vias de acontecer. No capítulo 6 expliquei, com a história dos
+elefantes velhos, que os melhores professores de sabedoria são naturalmente os
+mais velhos, porque podem ter aprendido truques e heurísticas invisíveis que
+escapam da nossa paisagem epistêmica, truques que os ajudaram a sobreviver em
+um mundo mais complexo do que aquele que julgamos ser capazes de entender.
+Portanto, ser velho implica um maior grau de resistência aos Cisnes Negros,
+embora, como vimos com a história do peru, não seja uma prova líquida e certa —
+mais velho quase sempre é mais sólido, porém mais velho não é necessariamente
+perfeito. Todavia, alguns bilhões de anos constituem uma prova muito mais
+contundente do que mil dias de sobrevivência, e o sistema mais antigo que temos
+por aqui é claramente a Mãe Natureza.
+Esse era, de certo modo, o raciocínio por trás do argumento do epilogismo dos
+médicos empiristas do Levante pós-clássico (como Menódoto de Nicomédia),
+que foram os únicos praticantes a mesclar ceticismo e tomada de decisões no
+mundo real. Eles também são o único grupo de pessoas a usar a ﬁlosoﬁa para
+qualquer coisa útil. Propuseram a historia: o registro máximo de fatos com o
+mínimo de interpretação e teorização, descrevendo fatos sem o porquê e
+resistindo aos universais. Sua forma de conhecimento não teórico foi aviltada
+
+pelos escolásticos medievais, que privilegiavam a aprendizagem mais explícita. A
+historia, apenas o registro de fatos, era inferior à philosophia ou à scientia. Mesmo
+a ﬁlosoﬁa, até então, tinha mais a ver com a sabedoria de tomada de decisões do
+que hoje, não com o desejo de impressionar uma banca examinadora de concurso
+de livre-docência ou uma comissão de doutos professores titulares, e a medicina
+era a instância onde essa sabedoria era praticada (e aprendida): Medicina soror
+philosophiae: “Medicina, irmã da ﬁlosoﬁa.”3
+Atribuir um status secundário a um campo que prefere pormenores a
+universais é o que o conhecimento formalizado desde os escolásticos tem feito,
+necessariamente dando pouca importância à experiência e à idade (acúmulo
+excessivo de minúcias), em favor daqueles que ostentam um título de doutor
+como o dr. John. Isso pode funcionar na física clássica, mas não no domínio
+complexo; isso matou muitos pacientes na história da medicina, principalmente
+antes do nascimento da medicina clínica, e está causando um bocado de estragos
+no âmbito social, em especial no momento em que escrevo estas linhas.
+Os pontos decisivos que os velhos professores nos comunicam são, para usar
+termos religiosos, dogmas (regras que precisamos executar sem necessariamente
+compreendê-las), não querigmas (regras que somos capazes de entender e que
+têm um propósito claro).
+A Mãe Natureza é evidentemente um sistema complexo, com teias de
+interdependência, não linearidades e uma ecologia robusta (caso contrário, teria
+explodido há muito tempo). É uma pessoa muito vetusta com uma memória
+impecável. A Mãe Natureza não desenvolve Alzheimer — a bem da verdade, há
+evidências de que nem mesmo os humanos perderiam facilmente células nervosas
+e funções cerebrais com a idade caso seguissem um regime de exercícios
+estocásticos e jejum estocástico, se ﬁzessem longas caminhadas, evitassem açúcar,
+pão, arroz branco e investimentos no mercado de ações, abstendo-se de cursar
+aulas de economia ou ler coisas como o New York Times.
+Permita-me sintetizar minhas ideias sobre como a Mãe Natureza lida com o
+Cisne Negro, tanto o positivo quanto o negativo — ela sabe muito melhor do que
+os humanos como tirar vantagem de Cisnes Negros positivos.
+Redundância como seguro
+Para começo de conversa, a Mãe Natureza gosta de redundâncias, três
+diferentes tipos de redundâncias. O primeiro, o mais simples de entender, é a
+redundância defensiva, o tipo de redundância de seguro e garantia que permite
+que a pessoa sobreviva sob condições de adversidade, graças à disponibilidade de
+
+peças de reposição. Veja o corpo humano. Temos dois olhos, dois pulmões, dois
+rins, até dois cérebros (com a possível exceção dos executivos corporativos) — e,
+em circunstâncias normais, cada uma das partes tem mais capacidade do que o
+necessário. Então, redundância é igual a seguro, e as aparentes ineﬁciências estão
+associadas aos custos de manutenção dessas peças sobressalentes e à energia
+necessária para mantê-las por perto, apesar da ociosidade.
+O oposto da redundância é a otimização ingênua. Eu digo a todos para
+evitarem assistir a aulas de economia (ortodoxa) e digo que a economia vai nos
+deixar na mão e nos mandar pelos ares (como veremos, temos provas de que ela
+fracassou; mas, como insisto em dizer no texto original, não precisávamos dela;
+bastava apenas olharmos para a falta de rigor cientíﬁco — e de ética). O motivo é
+o seguinte: a economia é, em larga medida, baseada em noções de otimização
+ingênua, (mal) matematizada por Paul Samuelson — e essa matemática contribuiu
+maciçamente para a construção de uma sociedade propensa a erros. Um
+economista acharia ineﬁciente manter dois pulmões e dois rins: leve em conta os
+custos envolvidos no transporte desses itens pesados através da savana. Essa
+otimização, mais cedo ou mais tarde, acabaria por matá-lo após o primeiro
+acidente, o primeiro outlier ou “ponto fora da curva”. Além disso, tenha em mente
+que se déssemos a Mãe Natureza aos economistas, ela abriria mão de rins
+individuais: já que não precisamos deles o tempo todo, seria mais “eﬁciente” se
+vendêssemos os nossos e usássemos um rim central em regime de time-share.
+Você também poderia ceder seus olhos por empréstimo durante a noite, já que
+não precisa deles para sonhar.
+Quase todas as ideias de grande importância na economia convencional
+(embora um número inferior de ideias menos relevantes) são um ﬁasco sob a
+modiﬁcação de algum pressuposto, ou o que é chamado de “perturbação”, quando
+alteramos um parâmetro, ou quando adotamos um parâmetro que até então a
+teoria presumia ser ﬁxo e estável e o tornamos aleatório. No jargão, chamamos
+isso de “randomização”. É como se denomina o estudo do erro de modelo e
+exame das consequências de tais mudanças (minha especialidade acadêmica
+oﬁcial agora é erro de modelo ou “risco de modelo”). Por exemplo, se um modelo
+usado para risco supõe que o tipo de aleatoriedade em consideração é do
+Mediocristão, ignorará grandes desvios e incentivará a construção de muitos
+riscos que ignoram grandes desvios; consequentemente, o gerenciamento de
+riscos será falho. Daí a metáfora de “sentar-se em um barril de dinamite” que usei
+a respeito da (agora falida) Fannie Mae [empresa de ﬁnanciamento imobiliário que
+atuava no mercado de hipotecas norte-americano].
+
+Para outro exemplo de ﬂagrante erro de modelo, vamos partir da noção de
+vantagem comparativa supostamente descoberta por Ricardo e que comanda os
+rumos da globalização. A ideia é que os países deveriam “focar”, como diria um
+consultor, “no que eles fazem de melhor” (em termos mais exatos, onde perderão
+menor número de oportunidades); assim, um país deveria especializar-se em
+vinhos e o outro em roupas, embora um deles possa ser melhor em ambos. Mas
+simule algumas perturbações e cenários alternativos: imagine o que aconteceria
+ao país especializado em vinicultura se o preço dos vinhos tivesse ﬂutuações.
+Apenas uma simples perturbação em torno dessa suposição (digamos, considerar
+que o preço do vinho é aleatório e pode sofrer variações ao estilo do
+Extremistão) leva a uma conclusão oposta à de Ricardo. A Mãe Natureza não
+gosta de superespecialização, pois ela limita a evolução e enfraquece os animais.
+Isso também explica por que, a meu ver, as ideias atuais sobre globalização
+(como as que são promovidas pelo jornalista Thomas Friedman) são um tanto
+ingênuas demais, e bastante perigosas para a sociedade — a menos que se levem
+em consideração os efeitos colaterais. A globalização pode dar a aparência de
+eﬁciência, mas a alavancagem em operação e os graus de interação entre as peças
+farão com que pequenas ﬁssuras em um ponto se inﬁltrem por todo o sistema. O
+resultado seria algo como um cérebro acometido por uma crise epiléptica devido
+ao disparo simultâneo de muitas células. Considere que nosso cérebro, um
+sistema complexo eﬁcaz, não é “globalizado”, ou, pelo menos, não é “globalizado”
+de forma ingênua.
+A mesma ideia se aplica à dívida — que nos torna frágeis, muito frágeis sob
+perturbações, em especial quando mudamos da pressuposição do Mediocristão
+para a do Extremistão. Hoje em dia aprendemos nas faculdades de economia e
+administração a nos envolver em empréstimos (com os mesmos professores que
+ensinam a curva em forma de sino gaussiana, essa grande fraude intelectual, entre
+outras pseudociências), na contramão de todas as tradições históricas, quando
+todas as culturas mediterrâneas desenvolveram ao longo do tempo um dogma
+contra a dívida. Felix qui nihil debet, diz o provérbio romano: “Feliz aquele que
+nada deve”. As avós que sobreviveram à Grande Depressão aconselhariam
+exatamente o oposto da dívida: redundância; elas nos exortariam a amealhar
+vários anos de renda em dinheiro vivo antes de correr qualquer risco pessoal —
+exatamente minha ideia do barbell do capítulo 11, em que a pessoa mantém altas
+reservas de caixa enquanto se expõe a riscos mais agressivos, mas com uma
+pequena porção do portfólio de investimentos. Se os bancos tivessem feito isso,
+não teriam ocorrido crises bancárias na história.
+
+Temos documentos que remontam desde os babilônios mostrando os males da
+dívida; as religiões do Oriente Próximo baniram a prática. Isso me diz que um
+dos propósitos da religião e da tradição consiste em impor interditos e penas
+eclesiásticas, simplesmente para proteger as pessoas contra sua própria
+arrogância epistêmica. Por quê? A dívida implica uma forte declaração acerca do
+futuro e um elevado grau de conﬁança em previsões. Se você pegar emprestados
+cem dólares e investir em um projeto, ainda deverá cem dólares, mesmo se
+fracassar no projeto (mas se sairá muito melhor caso seja bem-sucedido).
+Portanto, a dívida é algo perigoso se você tiver excesso de conﬁança em relação
+ao futuro e se for cego com relação ao Cisne Negro, o que todos tendemos a ser.
+E fazer previsões é algo prejudicial, pois as pessoas (sobretudo os governos)
+tomam emprestado em resposta a uma previsão (ou usam a previsão como uma
+desculpa cognitiva para tomar emprestado). Meu Escândalo de Previsão (ou seja,
+previsões espúrias que parecem estar lá para satisfazer necessidades psicológicas)
+é agravado pelo Escândalo de Dívida: pedir emprestado nos torna mais
+vulneráveis a erros de previsão.
+O grande é feio — e frágil
+Em segundo lugar, a Mãe Natureza não gosta de nada que seja grande demais.
+O maior animal terrestre é o elefante, e há uma razão para isso. Se eu tiver um
+surto de fúria e atirar em um elefante, posso ser preso e talvez ouvir uma bronca,
+aos berros, da minha mãe, mas não perturbaria minimamente a ecologia da Mãe
+Natureza. Por outro lado, meu argumento sobre os bancos no capítulo 14 — se
+você abrir fogo contra um grande banco, eu “teria calafrios só de pensar nas
+consequências” e “se um quebrar, todos quebram” — foi posteriormente ilustrado
+por eventos: a falência de um banco, o Lehman Brothers, em setembro de 2008,
+derrubou o edifício inteiro. A Mãe Natureza não limita as interações entre
+entidades; apenas limita o tamanho de suas unidades. (Portanto, minha ideia não
+é estancar a globalização e banir a internet; como veremos, seria possível alcançar
+uma estabilidade muito maior impedindo os governos de ajudar as empresas
+quando elas se tornam grandes, e devolvendo vantagens aos peixes pequenos.)
+Mas há outra razão para as estruturas feitas pelo homem não ﬁcarem grandes
+demais. Ao que parece, é a noção de “economias de escala” — de que as empresas
+economizam dinheiro quando se tornam grandes, portanto, mais eﬁcientes —,
+que muitas vezes está por trás de expansões e fusões corporativas. É a noção que
+predomina na consciência coletiva, mesmo sem evidências; na verdade, as
+evidências sugerem o oposto. No entanto, por razões óbvias, as pessoas
+
+continuam fazendo essas fusões — que não são boas para as empresas, e sim para
+as boniﬁcações de Wall Street; uma empresa cada vez maior é boa para os
+executivos-chefes. Bem, percebi que à medida que se tornam maiores, as
+empresas parecem ser mais “eﬁcientes”, mas também se tornam muito mais
+vulneráveis a contingências externas, contingências estas geralmente conhecidas
+como “Cisnes Negros” por causa de um livro intitulado A lógica do cisne negro.
+Tudo isso sob a ilusão de mais estabilidade. Some-se a isso o fato de que, quando
+são grandes, as empresas precisam otimizar sua operação para satisfazer os
+analistas de Wall Street. Os analistas de Wall Street (ﬁguras do tipo _4))
+pressionarão as empresas a venderem o rim adicional e a se livrarem do seguro a
+ﬁm de aumentar seus “rendimentos por ação” e “incrementar seus resultados
+ﬁnanceiros” — consequentemente contribuindo para a bancarrota.
+Charles Tapiero e eu mostramos matematicamente que uma certa classe de
+erros imprevistos e choques aleatórios prejudica organismos grandes muito mais
+do que os menores. Em outro artigo, calculamos os custos que empresas desse
+tamanho teriam para a sociedade; não se esqueça de que as empresas, quando
+quebram, ocasionam custos para nós.
+O problema com os governos é que eles tendem a apoiar esses organismos
+frágeis “porque são grandes empregadores” e porque têm lobistas, o tipo de
+contribuições fajutas, mas muito visíveis, condenadas por Bastiat. Grandes
+empresas obtêm apoio do governo e se tornam progressivamente maiores e mais
+frágeis, e, de certo modo, administram o governo, outra visão profética de Karl
+Marx e Friedrich Engels. Os salões de cabeleireiro e as pequenas empresas, por
+outro lado, vão à falência sem que ninguém se importe com seu fracasso;
+precisam ser eﬁcientes e obedecer às leis da natureza.
+Mudanças climáticas e poluidores “grandes demais”
+Amiúde me perguntam sobre como lidar com as mudanças climáticas em
+conexão com a ideia do Cisne Negro e com meu trabalho sobre tomada de
+decisões sob opacidade. A posição que sugiro deve ser baseada na ignorância e na
+deferência à sabedoria da Mãe Natureza, uma vez que ela é mais velha do que
+nós, portanto mais sábia, e provou ser muito mais inteligente do que os cientistas.
+Não entendemos suﬁcientemente a Mãe Natureza para mexer com ela — e não
+conﬁo nos modelos usados para prever as mudanças climáticas. Para usar termos
+simples, estamos diante de não linearidades e ampliações de erros provenientes
+dos chamados “efeitos borboleta” que vimos no capítulo 11, na verdade
+descobertos por Lorenz usando modelos de previsão de padrões meteorológicos.
+
+Pequenas alterações nos dados de entrada, provenientes de erros de medição,
+podem levar a projeções com extrema divergência — e que generosamente
+presumem que temos as equações certas.
+Passamos anos poluindo o planeta, causando estragos consideráveis no meio
+ambiente, enquanto os cientistas responsáveis por esses complicados modelos de
+previsão não arriscavam o próprio pescoço para tentar nos impedir de construir
+esses riscos (eles se parecem com aqueles “especialistas em riscos” no domínio
+econômico que lutam a guerra anterior) — esses são os cientistas que agora
+tentam nos impor as soluções. Mas o ceticismo sobre os modelos que proponho
+não leva às conclusões endossadas por antiambientalistas radicais e
+fundamentalistas
+pró-mercado.
+Muito
+pelo
+contrário:
+precisamos
+ser
+hiperconservacionistas do ponto de vista ecológico, já que não sabemos o que
+estamos daniﬁcando agora. Essa é a linha de ação sólida e salutar em condições
+de ignorância e opacidade epistêmica. Para aqueles que dizem “não temos provas
+de que estamos deteriorando a natureza”, uma resposta sensata é “tampouco
+temos prova de que não estamos deteriorando a natureza”; o ônus da prova não
+recai sobre o conservacionista ecológico, mas sobre alguém que está
+transtornando um sistema antigo. Ademais, não deveríamos “tentar consertar” o
+estrago causado, pois pode ser que estejamos criando outro problema, sobre o
+qual não sabemos muito no momento atual.
+Uma solução prática que concebi, com base nas não linearidades do dano
+(partindo do princípio de que o dano aumenta desproporcionalmente com as
+quantidades liberadas), e usando o mesmo raciocínio matemático que me levou a
+opor-me ao conceito “grande demais”, é distribuir os danos entre os poluentes —
+caso precisemos poluir, claro. Sigamos adiante com um experimento mental.
+Caso 1: você dá ao paciente uma dose de cianeto, cicuta ou alguma substância
+venenosa, presumindo que sejam igualmente danosas — e supondo, para o caso
+deste experimento, a ausência de superadição (ou seja, nenhum efeito sinérgico).
+Caso 2: você dá ao paciente um décimo de uma dose de dez dessas
+substâncias, para a mesma quantidade total de veneno.
+Podemos ver com clareza que o Caso 2, distribuindo o veneno ingerido entre
+diferentes substâncias, é na pior das hipóteses igualmente danoso (se todas as
+substâncias venenosas agirem da mesma maneira) e, na melhor das hipóteses,
+quase inofensivo para o paciente.
+Densidade de espécies
+
+A Mãe Natureza não gosta de muita conectividade e globalização — (seja
+biológica, cultural ou econômica). Um dos privilégios que obtive como resultado
+do livro foi conhecer pessoalmente Nathan Myhrvold, o tipo de pessoa que eu
+gostaria que fosse clonada para que eu pudesse ter uma cópia aqui em Nova York,
+uma na Europa e uma no Líbano. Comecei a me encontrar regularmente com ele;
+cada reunião levava a uma grande ideia, ou à redescoberta de minhas próprias
+ideias por meio do cérebro de uma pessoa mais inteligente — ele poderia
+facilmente reivindicar a coautoria do meu próximo livro. O problema é que, ao
+contrário de Spyros e daqueles pouquíssimos outros, ele não costuma trocar
+ideias enquanto faz caminhadas (embora eu tenha me encontrado com ele em
+excelentes restaurantes).
+Myhrvold me esclareceu sobre uma maneira adicional de interpretar e provar
+como a globalização nos leva Extremistão adentro: a noção de densidade das
+espécies. Numa deﬁnição simples, ambientes maiores são mais escaláveis que os
+menores — possibilitando que os maiores ﬁquem ainda maiores à custa dos
+menores, por meio do mecanismo de ﬁxação preferencial que vimos no capítulo
+14. Temos evidências de que ilhotas têm um número muito maior de espécies por
+metro quadrado do que ilhas maiores e, é claro, do que continentes. Quanto mais
+viajarmos por este planeta afora, mais agudas serão as epidemias — teremos uma
+população de germes dominada por alguns espécimes, e o assassino bem-
+sucedido se espalhará com muito mais eﬁcácia. A vida cultural será dominada por
+menos pessoas: o número de livros por leitor em inglês é menor do que em
+italiano (isso inclui livros ruins). As empresas serão mais desiguais em tamanho.
+E os modismos serão mais intensos. Assim como as corridas aos bancos, é óbvio.
+Mais uma vez, não estou dizendo que precisamos parar a globalização e evitar
+viagens. Precisamos apenas estar cientes dos efeitos colaterais, das compensações
+— e poucas pessoas estão. Vejo os riscos de um vírus muito estranho e de severa
+letalidade se espalhar por todo o planeta.
+Os outros tipos de redundância
+As outras categorias de redundância, mais complicadas e sutis, explicam como
+os elementos da natureza tiram proveito de Cisnes Negros positivos (e têm um
+kit de ferramentas adicional para sobreviver aos negativos). Discutirei isso muito
+brevemente aqui, já que é a principal força motriz da minha próxima obra sobre a
+exploração dos Cisnes Negros, por meio de ajustes e experimentações ou da
+domesticação da incerteza.
+
+A redundância funcional, estudada por biólogos, é a seguinte: ao contrário da
+redundância orgânica — a disponibilidade de peças de reposição, em que a
+mesma função pode ser realizada por elementos idênticos —, muitas vezes a
+mesma função pode ser executada por duas estruturas diferentes. Às vezes, o
+termo degeneração é usado (por Gerald Edelman e Joseph Gally).
+Há outra redundância: quando um órgão pode ser empregado para realizar
+uma função especíﬁca que no momento não é sua função central. Meu amigo
+Peter Bevelin vincula essa ideia aos “tímpanos de são Marcos”, mesmo título de
+um ensaio de Steven Jay Gould. O espaço necessário entre os arcos da basílica de
+são Marcos deu origem a uma arte que hoje é fundamental para nossa experiência
+estética durante a visita ao local. No que agora é chamado de “efeito do tímpano”,
+um desdobramento auxiliar de uma certa adaptação leva a uma nova função.
+Também percebo que a adaptação tem uma função potencial latente que, no
+ambiente certo, pode ser ativada.4
+A melhor maneira de ilustrar essa redundância é com um aspecto da biograﬁa
+do pitoresco ﬁlósofo da ciência Paul Feyerabend. Impotente devido a um
+ferimento de guerra, Feyerabend se casou quatro vezes, e era um mulherengo tão
+contumaz a ponto de deixar, por onde passava, um rastro de namorados e
+maridos arrasados cujas parceiras ele arrebatava, e uma ﬁeira igualmente longa de
+corações partidos, incluindo os de muitas de suas alunas (na época dele, certos
+privilégios eram permitidos a professores, particularmente ao professores de
+ﬁlosoﬁa extravagantes). Era uma façanha e tanto, sobretudo por conta da
+impotência de Feyerabend. Assim, havia outras partes do corpo do ﬁlósofo que,
+no ﬁm das contas, satisfaziam quaisquer que fossem as necessidades das
+mulheres que se apegavam a ele.
+No princípio, a Mãe Natureza criou a boca para comer, talvez para respirar,
+talvez para alguma outra função ligada à existência da língua. Então surgiram
+novas funções que provavelmente não faziam parte do plano inicial. Algumas
+pessoas usam a boca e a língua para beijar ou para fazer algo mais, atos a que
+Feyerabend supostamente recorria.
+Ao longo dos últimos três anos eu me tornei obcecado pela noção de que, sob
+limitações epistêmicas — alguma opacidade em relação ao futuro —, o progresso
+(e a sobrevivência) não podem ocorrer sem um desses tipos de redundância. Não
+há como saber hoje o que talvez seja necessário amanhã. Isso entra em um
+conﬂito bastante contundente com a noção de “design teleológico” que todos nós
+obtivemos lendo Aristóteles, que moldou o pensamento árabe-ocidental
+medieval. Para Aristóteles, os objetos tinham um propósito claro deﬁnido pelo
+
+designer [criador] que os projetou e os construiu. Um olho estava ali para ver, um
+nariz para cheirar. É um argumento racionalista, outra manifestação do que
+chamo de platonicidade. No entanto, qualquer coisa que tenha um uso
+secundário, pelo qual você não pagou, apresentará uma oportunidade extra caso
+uma aplicação agora desconhecida surja, ou caso um novo ambiente apareça. O
+organismo com o maior número de usos secundários é o que mais se beneﬁciará
+com a aleatoriedade ambiental e a opacidade epistêmica!
+Como exemplo, vejamos o caso da aspirina. Quarenta anos atrás, a razão de ser
+da aspirina era seu uso antipirético (redução da febre). Mais tarde foi usada por
+seu efeito analgésico (redução da dor). Também foi usada por suas propriedades
+anti-inﬂamatórias. Agora é usada principalmente como anticoagulante ou
+diluente do sangue para evitar o segundo (ou primeiro) ataque cardíaco. O
+mesmo se aplica a quase todos os medicamentos — muitos são usados para ﬁns
+secundários e propriedades terciárias.
+Acabei de olhar de relance para a escrivaninha do meu escritório comercial,
+não literário (eu separo o funcional do estético). Um laptop está apoiado em um
+livro, pois gosto de ter alguma inclinação. O livro é a biograﬁa francesa da
+impetuosa Lou Andreas-Salomé (amiga de Nietzsche e de Freud), que, posso
+dizer com segurança, nunca lerei; o volume foi selecionado por sua espessura
+ideal para a tarefa. Isso me faz reﬂetir sobre a tolice de pensar que os livros
+existem para ser lidos e que poderiam ser substituídos por arquivos eletrônicos.
+Pense na avalanche de redundâncias funcionais que os livros propiciam. Você não
+consegue impressionar seus vizinhos com arquivos eletrônicos. Você não
+consegue escorar seu ego em arquivos eletrônicos. Os objetos parecem ter
+funções auxiliares invisíveis, mas signiﬁcativas, das quais não temos consciência,
+mas que os permitem prosperar — e, de tempos em tempos, como acontece com
+os livros de decoração, há ocasiões em que a função auxiliar torna-se a principal.
+Então, quando temos uma porção de redundâncias funcionais, a aleatoriedade
+ajuda no equilíbrio, mas sob uma condição — a de que você possa se beneﬁciar
+da aleatoriedade mais do que se prejudicar (argumento que, em termos mais
+técnicos, chamo de convexidade à incerteza). Sem dúvida é o caso de muitas
+aplicações na engenharia, nas quais as ferramentas surgem de outras ferramentas.
+Além disso, no momento estou absorto no estudo da história da medicina, que
+pelejou sob a ilusão aristotélica de propósito, com os métodos racionalistas de
+Galeno que mataram muitas pessoas enquanto os médicos pensavam que as
+estavam curando. Nossa psicologia conspira para isso: as pessoas gostam de
+rumar a um destino preciso, em vez de enfrentar algum grau de incerteza, mesmo
+
+que benéﬁco. E a própria pesquisa, na forma como é concebida e ﬁnanciada,
+parece ser teleológica, visando a resultados precisos em vez de buscar a máxima
+exposição a bifurcações e caminhos não trilhados.
+Dei nomes mais complicados a essa ideia, além de convexidade, como
+opcionalidade — já que você tem a opção de pegar o brinde da aleatoriedade —,
+mas isso ainda é um trabalho em andamento para mim. O progresso que resulta
+do segundo tipo de aleatoriedade é o que chamo de ajustes e experimentações, ou
+bricolagem, tema do meu próximo livro.
+Distinções sem diferença, diferenças sem distinção
+Outro benefício da duplicação. De uma ponta à outra deste livro, eu me
+concentrei na ausência de distinções práticas entre as várias noções de sorte,
+incerteza, aleatoriedade, incompletude de informações e ocorrências fortuitas
+usando o critério simples de previsibilidade, o que torna todos esses conceitos
+funcionalmente iguais. Probabilidades podem ser graus de crença, o que o
+indivíduo usa para fazer uma aposta, ou algo mais físico associado à verdadeira
+aleatoriedade (denominada “ôntica”, sobre a qual falarei mais tarde).
+Parafraseando Gerd Gigerenzer, “50% de chance de chuva amanhã” em Londres
+pode signiﬁcar que vai chover durante metade do dia, ao passo que na Alemanha
+signiﬁcará que metade dos especialistas avalia que vai chover, e (o acréscimo é
+meu), no Brooklyn, que o mercado de apostas no bar está no ponto de alguém
+pagar cinquenta centavos para ganhar um dólar se chover.
+Para os cientistas, o tratamento é idêntico. Usamos a mesma equação para
+descrever uma distribuição de probabilidades, não importando se a probabilidade
+é um grau de crença ou algo projetado por Zeus, que é quem, acreditamos, está
+no comando. Para nós, probabilistas (pessoas que trabalham com probabilidades
+em um contexto cientíﬁco), a probabilidade de um evento, como quer que seja
+deﬁnido, é, simplesmente, um peso entre 0 e 1, chamado de medida do conjunto
+concernente. Atribuir nomes e símbolos diferentes seria uma distração e
+impediria a transferência de resultados analíticos de um domínio para outro.
+Para um ﬁlósofo, trata-se de outra questão, completamente diferente. Almocei
+duas vezes com o ﬁlósofo (analítico) Paul Boghossian, em ocasiões separadas por
+três anos, uma após concluir a primeira edição de A lógica do cisne negro, a
+segunda após terminar este ensaio. Durante a primeira conversa ele disse que, do
+ponto de vista ﬁlosóﬁco, é um erro fundir a probabilidade como medida do grau
+racional de crença com a probabilidade enquanto propriedade de eventos no
+mundo. Para mim, isso implicava que não devemos usar a mesma linguagem
+
+matemática, digamos, o mesmo símbolo, p, e anotar a mesma equação para os
+diferentes tipos de probabilidades. Passei três anos me perguntando se ele estava
+certo ou errado, se isso era uma boa redundância ou não. Depois almocei com ele
+novamente, mas agora em um restaurante melhor (e inclusive mais simpático).
+Ele me alertou para uma expressão que os ﬁlósofos usam: “distinção sem
+diferença”. Então atinei com o seguinte: existem distinções que os ﬁlósofos usam
+que fazem sentido ﬁlosoﬁcamente, mas não parecem fazer sentido na prática,
+porém talvez isso seja necessário se quisermos nos aprofundar na ideia, e pode
+fazer sentido na prática em condições de uma mudança de ambiente.
+Pois imagine o contrário: diferenças sem distinção. Elas podem ser
+brutalmente enganosas. As pessoas usam o mesmo termo, medição, para medir
+uma mesa usando uma régua e para medir o risco — quando este é uma previsão,
+ou algo do tipo. E a palavra medição transmite uma ilusão de conhecimento que
+pode ser severamente distorcida: veremos que, do ponto de vista psicológico,
+somos muito vulneráveis aos termos usados e ao modo como as coisas são
+enquadradas. Portanto, se usássemos medição para a mesa e previsão para o risco,
+veríamos menos perus explodindo em decorrência dos Cisnes Negros.
+A mistura de vocabulário tem sido muito comum na história. Permita-me
+retomar mais uma vez a ideia do acaso. Em algum momento da história, a mesma
+palavra latina, felix (de felicitas) foi usado para designar alguém sortudo e alguém
+feliz. (O amálgama de felicidade e boa sorte era explicado em um antigo
+contexto: a deusa romana Felicitas representava ambos.) A palavra em inglês luck
+(sorte) vem do germânico Glück, felicidade. Na mundividência de um antigo, a
+distinção entre os dois conceitos seria uma perda de tempo, já que todos os
+indivíduos afortunados parecem felizes (sem levar em conta que alguém poderia
+ser feliz sem ter sorte). No entanto, em um contexto moderno, precisamos
+desenredar a sorte da felicidade — separar a utilidade da probabilidade — a ﬁm
+de realizar qualquer análise psicológica de tomada de decisões. (Verdade seja
+dita, é difícil desvencilhar as duas quando se observa pessoas tomando decisões
+em um ambiente probabilístico. Por sentirem muito medo das coisas ruins que
+podem acontecer a elas, as pessoas tendem a pagar mais caro por seguro, o que
+por sua vez pode nos levar a cometer o erro de pensar que elas acreditam que o
+evento adverso tem alta probabilidade de ocorrer.) Portanto, podemos ver agora
+que a ausência dessa precisão tornava a linguagem dos antigos bastante confusa
+para nós; mas, para os antigos, a distinção teria sido uma redundância.
+UMA SOCIEDADE ROBUSTA DIANTE DO ERRO
+
+Discutirei apenas muito brevemente a crise de 2008 (que ocorreu após a
+publicação do livro, e que foi um monte de coisas, mas não um Cisne Negro,
+apenas o resultado da fragilidade dos sistemas construídos com base na
+ignorância — e na negação — da noção de eventos Cisne Negro. Você sabe com
+quase certeza que um avião pilotado por um piloto incompetente acabará caindo
+um dia).
+Por que brevemente? Primo, este não é um livro de economia, mas um livro
+sobre a incompletude do conhecimento e os efeitos da incerteza de alto impacto
+— acontece que os economistas são a espécie mais cega em relação aos Cisnes
+Negros em todo o planeta. Secundo, preﬁro falar sobre os acontecimentos antes
+que aconteçam, não depois. Mas o público em geral confunde o provável ou
+potencial com o retrospectivo. Os mesmos jornalistas, economistas e
+especialistas políticos que não anteviram a chegada da crise forneceram
+abundantes análises ex-post sobre a inevitabilidade da crise. A outra razão, a
+verdadeira, é que a crise de 2008 não foi, do ponto de vista intelectual,
+interessante o suﬁciente para mim — não há nada em seus episódios que já não
+tivesse acontecido antes, em menor escala (por exemplo, em 1982 os bancos
+perderam cada centavo que ganharam). Foi uma mera oportunidade ﬁnanceira
+para mim, como discutirei mais adiante. Com efeito, reli meu livro e não vi nada
+a acrescentar ao texto, nada que já não tivéssemos enfrentado em algum
+momento da história, como os desastres anteriores, nada com que eu tivesse
+aprendido alguma coisa. Infelizmente, nada.
+O corolário é óbvio: uma vez que não há nada de novo na crise de 2008, não
+aprenderemos nada com ela e cometeremos o mesmo erro no futuro. E a prova
+está aí no momento em que escrevo: o G_ continua a divulgar previsões (sem
+perceber que as anteriores não funcionaram e que os pobres otários que
+dependem delas terão — mais uma vez — problemas); professores de economia
+continuarão a usar a gaussiana; o governo atualmente no poder é povoado por
+aqueles que estão alçando o erro de modelo a proporções industriais, fazendo-
+nos conﬁar nos modelos mais agora do que nunca.5
+Mas a crise ilustra a necessidade de robustez, que vale a pena discutir aqui.
+Ao longo dos últimos 2500 anos de ideias registradas, apenas tolos e
+platônicos (ou, pior ainda, a espécie chamada de “banqueiros centrais”)
+acreditaram em utopias projetadas. Veremos na seção sobre o Quarto Quadrante
+que a ideia não é corrigir erros e eliminar a aleatoriedade da vida social e
+econômica por meio de políticas monetárias, subsídios e assim por diante. A
+ideia é simplesmente deixar os erros humanos e os erros de cálculo permanecerem
+
+conﬁnados, e evitar que se espalhem pelo sistema, como faz a Mãe Natureza.
+Reduzir a volatilidade e a aleatoriedade comum aumenta a exposição aos Cisnes
+Negros — cria um silêncio artiﬁcial.
+Meu sonho é ter uma verdadeira epistemocracia — ou seja, uma sociedade
+robusta diante dos erros de especialistas, erros de previsão e arrogância, que
+possa ser resistente à incompetência de políticos, reguladores, economistas,
+banqueiros centrais, banqueiros em geral, nerds da formulação de políticas
+públicas e epidemiologistas. Não podemos fazer com que os economistas sejam
+mais cientíﬁcos; não somos capazes de tornar os humanos mais racionais (seja lá
+o que isso signiﬁque); não temos como fazer desaparecer os modismos. A
+solução é um tanto simples, uma vez que isolamos os erros prejudiciais, como
+veremos com o Quarto Quadrante.
+Assim, estou atualmente dividido entre a) o desejo de passar algum tempo
+meditando sobre minhas ideias em cafés europeus e na tranquilidade do meu
+estúdio, ou à procura de alguém que consiga ter uma conversa enquanto caminha
+lentamente em um agradável cenário urbano, e b) o sentimento de obrigação de
+me envolver no ativismo para robustecer a sociedade, conversando com pessoas
+desinteressantes e chafurdando na cacofonia sem estética do mundo jornalístico
+e da mídia, indo a Washington para assistir a impostores de terno e gravata
+zanzar pelas ruas, tendo que defender minhas ideias enquanto faço um baita
+esforço para ser elegante e esconder meu desdém. Isso provou ser muito
+perturbador para minha vida intelectual. Mas existem truques. Um truque útil,
+descobri, é evitar ouvir a pergunta do entrevistador e responder lançando mão de
+qualquer coisa sobre a qual eu tenha pensado recentemente. É impressionante
+como nem os entrevistadores nem o público notam a ausência de correlação
+entre pergunta e resposta.
+Certa vez, fui selecionado para fazer parte de um grupo de cem pessoas que
+rumaram até Washington para passar dois dias discutindo como resolver os
+problemas da crise que teve início em 2008. Quase todos os ﬁgurões estavam
+incluídos. Após uma hora de reunião, e durante um discurso do primeiro-
+ministro da Austrália, saí da sala porque minha dor se tornou insuportável.
+Minhas costas começaram a doer só de olhar para o rosto daquelas pessoas. O
+centro do problema era que nenhuma delas conhecia o centro do problema.
+Isso me convence de que existe uma solução singular para o mundo, a ser
+projetada de acordo com linhas muito simples de robustez diante dos Cisnes
+Negros — caso contrário, o mundo irá pelos ares.
+
+Portanto, agora me desconectei. Estou de volta à minha biblioteca. Não sinto
+nem um pingo de frustração, não dou a mínima para como os prognosticadores
+podem explodir a sociedade, e tampouco sou capaz de me deixar aborrecer pelos
+tolos da aleatoriedade (ao contrário), e isso talvez seja graças a outra descoberta
+ligada a uma aplicação especíﬁca do estudo de sistemas complexos, ao
+Extremistão e àquela ciência das longas caminhadas.
+

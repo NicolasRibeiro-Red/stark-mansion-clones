@@ -1,0 +1,35 @@
+# Query Federation
+
+Paginas: 379-379
+
+Streaming Systems
+Streaming analytics are increasingly important in the realm of serving. At a high level,
+understand that this type of serving may involve emitted metrics, which are different
+from traditional queries.
+Also, we see operational analytics databases playing a growing role in this area
+(see “Operational Analytics” on page 346). These databases allow queries to run
+across a large range of historical data, encompassing up-to-the-second current data.
+Essentially, they combine aspects of OLAP databases with stream-processing systems.
+Increasingly, you’ll work with streaming systems to serve data for analytics and ML,
+so get familiar with this paradigm.
+You’ve learned about streaming systems throughout the book. For an idea of where
+it’s going, read about the live data stack in Chapter 11.
+Query Federation
+As you learned in Chapter 8, query federation pulls data from multiple sources,
+such as data lakes, RDBMSs, and data warehouses. Federation is becoming more
+popular as distributed query virtualization engines gain recognition as ways to serve
+queries without going through the trouble of centralizing data in an OLAP system.
+Today, you can find OSS options like Trino and Presto and managed services such
+as Starburst. Some of these offerings describe themselves as ways to enable the data
+mesh; time will tell how that unfolds.
+When serving data for federated queries, you should be aware that the end user
+might be querying several systems—OLTP, OLAP, APIs, filesystems, etc. (Figure 9-3).
+Instead of serving data from a single system, you’re now serving data from multiple
+systems, each with its usage patterns, quirks, and nuances. This poses challenges for
+serving data. If federated queries touch live production source systems, you must
+ensure that the federated query won’t consume excessive resources in the source.
+Figure 9-3. A federated query with three data sources
+354
+|
+Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
+

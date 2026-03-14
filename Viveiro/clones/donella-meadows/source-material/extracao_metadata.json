@@ -1,0 +1,219 @@
+{
+  "titulo": "Thinking in Systems",
+  "autor": "Donella H. Meadows",
+  "total_paginas": 207,
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "Other Books by Donella H. Meadows",
+      "paginas": "2-2",
+      "arquivo": "cap_01_Other_Books_by_Donella_H_Meadows.txt"
+    },
+    {
+      "numero": 2,
+      "titulo": "Title Page",
+      "paginas": "3-3",
+      "arquivo": "cap_02_Title_Page.txt"
+    },
+    {
+      "numero": 3,
+      "titulo": "Copyright",
+      "paginas": "4-5",
+      "arquivo": "cap_03_Copyright.txt"
+    },
+    {
+      "numero": 4,
+      "titulo": "Dedication",
+      "paginas": "6-6",
+      "arquivo": "cap_04_Dedication.txt"
+    },
+    {
+      "numero": 5,
+      "titulo": "Contents",
+      "paginas": "7-7",
+      "arquivo": "cap_05_Contents.txt"
+    },
+    {
+      "numero": 6,
+      "titulo": "A Note from the Author",
+      "paginas": "8-8",
+      "arquivo": "cap_06_A_Note_from_the_Author.txt"
+    },
+    {
+      "numero": 7,
+      "titulo": "A Note from the Editor",
+      "paginas": "9-11",
+      "arquivo": "cap_07_A_Note_from_the_Editor.txt"
+    },
+    {
+      "numero": 8,
+      "titulo": "Epigraph",
+      "paginas": "12-12",
+      "arquivo": "cap_08_Epigraph.txt"
+    },
+    {
+      "numero": 9,
+      "titulo": "Introduction: The Systems Lens",
+      "paginas": "13-18",
+      "arquivo": "cap_09_Introduction_The_Systems_Lens.txt"
+    },
+    {
+      "numero": 10,
+      "titulo": "Part One: System Structure and Behavior",
+      "paginas": "19-19",
+      "arquivo": "cap_10_Part_One_System_Structure_and_Behavior.txt"
+    },
+    {
+      "numero": 11,
+      "titulo": "One: The Basics",
+      "paginas": "20-41",
+      "arquivo": "cap_11_One_The_Basics.txt"
+    },
+    {
+      "numero": 12,
+      "titulo": "Two: A Brief Visit to the Systems Zoo",
+      "paginas": "42-79",
+      "arquivo": "cap_12_Two_A_Brief_Visit_to_the_Systems_Zoo.txt"
+    },
+    {
+      "numero": 13,
+      "titulo": "Part Two: Systems and Us",
+      "paginas": "80-80",
+      "arquivo": "cap_13_Part_Two_Systems_and_Us.txt"
+    },
+    {
+      "numero": 14,
+      "titulo": "Three: Why Systems Work So Well",
+      "paginas": "81-90",
+      "arquivo": "cap_14_Three_Why_Systems_Work_So_Well.txt"
+    },
+    {
+      "numero": 15,
+      "titulo": "Four: Why Systems Surprise Us",
+      "paginas": "91-113",
+      "arquivo": "cap_15_Four_Why_Systems_Surprise_Us.txt"
+    },
+    {
+      "numero": 16,
+      "titulo": "Five: System Traps … and Opportunities",
+      "paginas": "114-140",
+      "arquivo": "cap_16_Five_System_Traps_and_Opportunities.txt"
+    },
+    {
+      "numero": 17,
+      "titulo": "Part Three: Creating Change—in Systems and in Our Philosophy",
+      "paginas": "141-141",
+      "arquivo": "cap_17_Part_Three_Creating_Changein_Systems_and_in_Our_Ph.txt"
+    },
+    {
+      "numero": 18,
+      "titulo": "Six: Leverage Points—Places to Intervene in a System",
+      "paginas": "142-159",
+      "arquivo": "cap_18_Six_Leverage_PointsPlaces_to_Intervene_in_a_System.txt"
+    },
+    {
+      "numero": 19,
+      "titulo": "Seven: Living in a World of Systems",
+      "paginas": "160-176",
+      "arquivo": "cap_19_Seven_Living_in_a_World_of_Systems.txt"
+    },
+    {
+      "numero": 20,
+      "titulo": "Appendix",
+      "paginas": "177-176",
+      "arquivo": "cap_20_Appendix.txt"
+    },
+    {
+      "numero": 21,
+      "titulo": "System Definitions: A Glossary",
+      "paginas": "177-177",
+      "arquivo": "cap_21_System_Definitions_A_Glossary.txt"
+    },
+    {
+      "numero": 22,
+      "titulo": "Summary of Systems Principles",
+      "paginas": "178-180",
+      "arquivo": "cap_22_Summary_of_Systems_Principles.txt"
+    },
+    {
+      "numero": 23,
+      "titulo": "Springing the System Traps",
+      "paginas": "181-182",
+      "arquivo": "cap_23_Springing_the_System_Traps.txt"
+    },
+    {
+      "numero": 24,
+      "titulo": "Places to Intervene in a System",
+      "paginas": "183-183",
+      "arquivo": "cap_24_Places_to_Intervene_in_a_System.txt"
+    },
+    {
+      "numero": 25,
+      "titulo": "Guidelines for Living in a World of Systems",
+      "paginas": "184-183",
+      "arquivo": "cap_25_Guidelines_for_Living_in_a_World_of_Systems.txt"
+    },
+    {
+      "numero": 26,
+      "titulo": "Model Equations",
+      "paginas": "184-193",
+      "arquivo": "cap_26_Model_Equations.txt"
+    },
+    {
+      "numero": 27,
+      "titulo": "Notes",
+      "paginas": "194-201",
+      "arquivo": "cap_27_Notes.txt"
+    },
+    {
+      "numero": 28,
+      "titulo": "Bibliography of Systems Resources",
+      "paginas": "202-204",
+      "arquivo": "cap_28_Bibliography_of_Systems_Resources.txt"
+    },
+    {
+      "numero": 29,
+      "titulo": "Editor’s Acknowledgments",
+      "paginas": "205-205",
+      "arquivo": "cap_29_Editors_Acknowledgments.txt"
+    },
+    {
+      "numero": 30,
+      "titulo": "About the Author",
+      "paginas": "206-207",
+      "arquivo": "cap_30_About_the_Author.txt"
+    }
+  ],
+  "arquivos": [
+    "cap_01_Other_Books_by_Donella_H_Meadows.txt",
+    "cap_02_Title_Page.txt",
+    "cap_03_Copyright.txt",
+    "cap_04_Dedication.txt",
+    "cap_05_Contents.txt",
+    "cap_06_A_Note_from_the_Author.txt",
+    "cap_07_A_Note_from_the_Editor.txt",
+    "cap_08_Epigraph.txt",
+    "cap_09_Introduction_The_Systems_Lens.txt",
+    "cap_10_Part_One_System_Structure_and_Behavior.txt",
+    "cap_11_One_The_Basics.txt",
+    "cap_12_Two_A_Brief_Visit_to_the_Systems_Zoo.txt",
+    "cap_13_Part_Two_Systems_and_Us.txt",
+    "cap_14_Three_Why_Systems_Work_So_Well.txt",
+    "cap_15_Four_Why_Systems_Surprise_Us.txt",
+    "cap_16_Five_System_Traps_and_Opportunities.txt",
+    "cap_17_Part_Three_Creating_Changein_Systems_and_in_Our_Ph.txt",
+    "cap_18_Six_Leverage_PointsPlaces_to_Intervene_in_a_System.txt",
+    "cap_19_Seven_Living_in_a_World_of_Systems.txt",
+    "cap_20_Appendix.txt",
+    "cap_21_System_Definitions_A_Glossary.txt",
+    "cap_22_Summary_of_Systems_Principles.txt",
+    "cap_23_Springing_the_System_Traps.txt",
+    "cap_24_Places_to_Intervene_in_a_System.txt",
+    "cap_25_Guidelines_for_Living_in_a_World_of_Systems.txt",
+    "cap_26_Model_Equations.txt",
+    "cap_27_Notes.txt",
+    "cap_28_Bibliography_of_Systems_Resources.txt",
+    "cap_29_Editors_Acknowledgments.txt",
+    "cap_30_About_the_Author.txt"
+  ]
+}

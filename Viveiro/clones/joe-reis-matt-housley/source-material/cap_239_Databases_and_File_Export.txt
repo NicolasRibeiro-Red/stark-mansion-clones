@@ -1,0 +1,44 @@
+# Databases and File Export
+
+Paginas: 282-282
+
+We suggest using managed connector platforms instead of creating and managing
+your connectors. Vendors and OSS projects each typically have hundreds of prebuilt
+connector options and can easily create custom connectors. The creation and man‐
+agement of data connectors is largely undifferentiated heavy lifting these days and
+should be outsourced whenever possible.
+Moving Data with Object Storage
+Object storage is a multitenant system in public clouds, and it supports storing
+massive amounts of data. This makes object storage ideal for moving data in and
+out of data lakes, between teams, and transferring data between organizations. You
+can even provide short-term access to an object with a signed URL, giving a user
+temporary permission.
+In our view, object storage is the most optimal and secure way to handle file
+exchange. Public cloud storage implements the latest security standards, has a robust
+track record of scalability and reliability, accepts files of arbitrary types and sizes, and
+provides high-performance data movement. We discussed object storage much more
+extensively in Chapter 6.
+EDI
+Another practical reality for data engineers is electronic data interchange (EDI). The
+term is vague enough to refer to any data movement method. It usually refers to
+somewhat archaic means of file exchange, such as by email or flash drive. Data
+engineers will find that some data sources do not support more modern means of
+data transport, often because of archaic IT systems or human process limitations.
+Engineers can at least enhance EDI through automation. For example, they can set
+up a cloud-based email server that saves files onto company object storage as soon
+as they are received. This can trigger orchestration processes to ingest and process
+data. This is much more robust than an employee downloading the attached file and
+manually uploading it to an internal system, which we still frequently see.
+Databases and File Export
+Engineers should be aware of how the source database systems handle file export.
+Export involves large data scans that significantly load the database for many transac‐
+tional systems. Source system engineers must assess when these scans can be run
+without affecting application performance and might opt for a strategy to mitigate the
+load. Export queries can be broken into smaller exports by querying over key ranges
+or one partition at a time. Alternatively, a read replica can reduce load. Read replicas
+are especially appropriate if exports happen many times a day and coincide with a
+high source system load.
+Ways to Ingest Data
+|
+257
+

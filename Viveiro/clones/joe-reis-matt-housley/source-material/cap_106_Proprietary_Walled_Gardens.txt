@@ -1,0 +1,43 @@
+# Proprietary Walled Gardens
+
+Paginas: 162-162
+
+providing little value back to the community. How likely will the product remain
+viable as a community-supported open source if the company shuts down?
+Note also that clouds offer their own managed open source products. If a cloud
+vendor sees traction with a particular product or project, expect that vendor to offer
+its version. This can range from simple examples (open source Linux offered on
+VMs) to extremely complex managed services (fully managed Kafka). The motivation
+for these offerings is simple: clouds make their money through consumption. More
+offerings in a cloud ecosystem mean a greater chance of “stickiness” and increased
+customer spending.
+Proprietary Walled Gardens
+While OSS is ubiquitous, a big market also exists for non-OSS technologies. Some
+of the biggest companies in the data industry sell closed source products. Let’s look
+at two major types of proprietary walled gardens, independent companies and cloud-
+platform offerings.
+Independent offerings
+The data-tool landscape has seen exponential growth over the last several years.
+Every day, new independent offerings arise for data tools. With the ability to raise
+funds from VCs flush with capital, these data companies can scale and hire great
+engineering, sales, and marketing teams. This presents a situation where users have
+some great product choices in the marketplace while having to wade through endless
+sales and marketing clutter. At the time of this writing, the good times of freely
+available capital for data companies are coming to an end, but that’s another long
+story whose consequences are still unfolding.
+Often a company selling a data tool will not release it as OSS, instead offering
+a proprietary solution. Although you won’t have the transparency of a pure OSS
+solution, a proprietary independent solution can work quite well, especially as a fully
+managed service in the cloud.
+The following are things to consider with an independent offering:
+Interoperability
+Make sure that the tool interoperates with other tools you’ve chosen (OSS, other
+independents, cloud offerings, etc.). Interoperability is key, so make sure you can
+try it before you buy.
+Mindshare and market share
+Is the solution popular? Does it command a presence in the marketplace? Does it
+enjoy positive customer reviews?
+Build Versus Buy
+|
+137
+

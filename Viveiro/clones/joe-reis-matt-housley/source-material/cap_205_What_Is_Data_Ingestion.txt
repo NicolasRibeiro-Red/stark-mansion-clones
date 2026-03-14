@@ -1,0 +1,40 @@
+# What Is Data Ingestion?
+
+Paginas: 259-259
+
+What Is Data Ingestion?
+Data ingestion is the process of moving data from one place to another. Data inges‐
+tion implies data movement from source systems into storage in the data engineering
+lifecycle, with ingestion as an intermediate step (Figure 7-2).
+Figure 7-2. Data from system 1 is ingested into system 2
+It’s worth quickly contrasting data ingestion with data integration. Whereas data
+ingestion is data movement from point A to B, data integration combines data from
+disparate sources into a new dataset. For example, you can use data integration to
+combine data from a CRM system, advertising analytics data, and web analytics to
+create a user profile, which is saved to your data warehouse. Furthermore, using
+reverse ETL, you can send this newly created user profile back to your CRM so
+salespeople can use the data for prioritizing leads. We describe data integration more
+fully in Chapter 8, where we discuss data transformations; reverse ETL is covered in
+Chapter 9.
+We also point out that data ingestion is different from internal ingestion within a
+system. Data stored in a database is copied from one table to another, or data in
+a stream is temporarily cached. We consider this another part of the general data
+transformation process covered in Chapter 8.
+Data Pipelines Defined
+Data pipelines begin in source systems, but ingestion is the stage where data engi‐
+neers begin actively designing data pipeline activities. In the data engineering space, a
+good deal of ceremony occurs around data movement and processing patterns, with
+established patterns such as ETL, newer patterns such as ELT, and new names for
+long-established practices (reverse ETL) and data sharing.
+All of these concepts are encompassed in the idea of a data pipeline. It is essential
+to understand the details of these various patterns and know that a modern data
+pipeline includes all of them. As the world moves away from a traditional monolithic
+approach with rigid constraints on data movement, and toward an open ecosystem of
+cloud services that are assembled like LEGO bricks to realize products, data engineers
+prioritize using the right tools to accomplish the desired outcome over adhering to a
+narrow philosophy of data movement.
+In general, here’s our definition of a data pipeline:
+234
+|
+Chapter 7: Ingestion
+

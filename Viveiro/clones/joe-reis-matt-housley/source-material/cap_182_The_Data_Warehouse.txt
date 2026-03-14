@@ -1,0 +1,44 @@
+# The Data Warehouse
+
+Paginas: 240-240
+
+Data Engineering Storage Abstractions
+Data engineering storage abstractions are data organization and query patterns that
+sit at the heart of the data engineering lifecycle and are built atop the data storage sys‐
+tems discussed previously (see Figure 6-3). We introduced many of these abstractions
+in Chapter 3, and we will revisit them here.
+The main types of abstractions we’ll concern ourselves with are those that support
+data science, analytics, and reporting use cases. These include data warehouse, data
+lake, data lakehouse, data platforms, and data catalogs. We won’t cover source sys‐
+tems, as they are discussed in Chapter 5.
+The storage abstraction you require as a data engineer boils down to a few key
+considerations:
+Purpose and use case
+You must first identify the purpose of storing the data. What is it used for?
+Update patterns
+Is the abstraction optimized for bulk updates, streaming inserts, or upserts?
+Cost
+What are the direct and indirect financial costs? The time to value? The opportu‐
+nity costs?
+Separate storage and compute
+The trend is toward separating storage and compute, but most systems hybridize
+separation and colocation. We cover this in “Separation of Compute from Stor‐
+age” on page 220 since it affects purpose, speed, and cost.
+You should know that the popularity of separating storage from compute means the
+lines between OLAP databases and data lakes are increasingly blurring. Major cloud
+data warehouses and data lakes are on a collision course. In the future, the differences
+between these two may be in name only since they might functionally and technically
+be very similar under the hood.
+The Data Warehouse
+Data warehouses are a standard OLAP data architecture. As discussed in Chapter 3,
+the term data warehouse refers to technology platforms (e.g., Google BigQuery and
+Teradata), an architecture for data centralization, and an organizational pattern
+within a company. In terms of storage trends, we’ve evolved from building data
+warehouses atop conventional transactional databases, row-based MPP systems (e.g.,
+Teradata and IBM Netezza), and columnar MPP systems (e.g., Vertica and Teradata
+Columnar) to cloud data warehouses and data platforms. (See our data warehousing
+discussion in Chapter 3 for more details on MPP systems.)
+Data Engineering Storage Abstractions
+|
+215
+

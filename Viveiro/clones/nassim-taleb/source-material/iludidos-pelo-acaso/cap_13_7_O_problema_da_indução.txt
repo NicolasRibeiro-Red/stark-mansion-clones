@@ -1,0 +1,516 @@
+# 7. O problema da indução
+
+Paginas: 130-144
+
+7. O problema da indução
+DE BACON A HUME
+Agora vamos discutir essa questão do ponto de vista mais amplo da
+losoa do conhecimento cientíco. Há um problema na inferência
+que é mais conhecido como problema da indução. É uma questão que
+vem atormentando a ciência há muito tempo, mas que não causou
+tanto mal a ela quanto aos mercados nanceiros. Por quê? Porque o
+conteúdo aleatório torna seus efeitos cumulativos. Em nenhum lugar o
+problema da indução é mais importante do que no mundo das
+nanças — e em nenhum lugar ele foi tão ignorado.
+Cygnus atratus
+Em seu Tratado sobre a natureza humana, o lósofo escocês David
+Hume colocou a questão da seguinte forma (que foi reformulada por
+John Stuart Mill no famoso problema do cisne negro): nenhuma
+quantidade de observações de cisnes brancos permite a inferência de
+que todos os cisnes são brancos, mas a observação de um único cisne
+negro é suciente para refutar essa conclusão.
+Hume estava preocupado com a ciência de sua época (século XVIII),
+que experimentava a passagem do escolasticismo, inteiramente
+baseado no raciocínio dedutivo (sem nenhuma ênfase na observação
+do mundo real), para, devido a Francis Bacon, uma super-reação, um
+empirismo ingênuo e não estruturado. Bacon argumentara contra “o
+ar da teia de aranha do aprendizado”, com pouco resultado prático. A
+ciência havia mudado, graças a ele, para uma atitude de ênfase na
+observação empírica. O problema é que, sem um método adequado, as
+observações empíricas podem nos levar a desvios. Hume preveniu
+contra esse tipo de conhecimento e enfatizou a necessidade de mais
+rigor na obtenção e interpretação do conhecimento — que é chamado
+
+de epistemologia (de episteme, a palavra grega para aprendizado). Ele
+foi o primeiro epistemólogo moderno (os epistemólogos são
+frequentemente chamados de metodologistas ou lósofos da ciência).
+O que estou escrevendo aqui não é a completa verdade, pois Hume
+disse coisas muito piores do que isso; ele era obsessivamente cético e
+nunca acreditou que se pudesse determinar de fato uma ligação causal
+entre dois itens. Mas vamos suavizar um pouco suas declarações neste
+livro.
+NiederhoÁer, um cavalheiro vitoriano
+A história de Victor NiederhoÁer é ao mesmo tempo triste e
+interessante, na medida em que mostra a diculdade de unir
+empiricismo extremo e lógica em uma única pessoa — empiricismo
+puro implica necessariamente ser iludido pelo acaso. Dou esse
+exemplo porque, de certo modo, como Francis Bacon, Victor
+NiederhoÁer se colocou contra a teia de aranha do aprendizado da
+Universidade de Chicago e a eciência de mercado religiosa dos anos
+1960 quando estavam em seu pior momento. Em contraste com o
+escolasticismo dos teóricos nanceiros, seu trabalho observava dados
+em busca de anomalias, e de fato encontrou algumas. Ele também
+deduziu a inutilidade do noticiário, ao mostrar que ler o jornal não
+conferia nenhuma vantagem aos seus leitores quanto a fazer previsões.
+NiederhoÁer tirava seu conhecimento do mundo de dados passados
+despojados de preconceitos, comentários e histórias. Desde então,
+toda uma indústria de operadores desse tipo, chamada de arbitragem
+estatística,  oresceu; alguns dos mais bem-sucedidos foram
+inicialmente seus aprendizes. A história de NiederhoÁer ilustra como
+o empiricismo não pode ser inseparável da metodologia.
+No centro desse modus está o dogma de NiederhoÁer de que
+qualquer armação “testável” deve ser testada, já que nossa mente
+comete muitos erros empíricos quando cona em vagas impressões. O
+conselho é óbvio, mas raramente seguido. Quantos efeitos assumidos
+como dados não residem aí? Uma declaração testável é aquela que
+pode ser dividida em componentes quantitativos e submetida a exame
+estatístico. Por exemplo, uma declaração ao estilo da sabedoria
+convencional, como: “Acidentes acontecem mais perto de casa” pode
+
+ser testada medindo-se a distância média entre o acidente e o
+domicílio do motorista (se, digamos, 20% dos acidentes acontecem
+dentro de um raio de vinte quilômetros). Entretanto, é preciso ter
+cautela na interpretação; um intérprete ingênuo do resultado poderia
+dizer que você tem mais probabilidade de se envolver em um acidente
+se dirige no seu bairro do que em lugares afastados, o que é um
+exemplo de empirismo ingênuo. Por quê? Porque os acidentes talvez
+aconteçam mais perto de casa simplesmente porque as pessoas passam
+mais tempo dirigindo em sua vizinhança (se elas passam 20% do seu
+tempo dirigindo num raio de vinte quilômetros).
+Mas há um aspecto mais severo do empiricismo ingênuo. Posso usar
+dados para refutar uma hipótese, mas nunca para prová-la. Posso usar
+a história para refutar uma conjectura, porém nunca para armá-la.
+Por exemplo, a armação “O mercado nunca cai 20% num
+determinado período de três meses” pode ser testada, mas é
+completamente inútil se vericada. Posso quantitativamente rejeitar a
+hipótese encontrando contraexemplos, mas é impossível aceitá-la
+simplesmente porque, no passado, o mercado nunca caiu 20% em
+nenhum período de três meses (não se pode fazer o salto lógico de
+“nunca caiu” para “nunca cai” com facilidade). Amostras podem ser
+bastante insucientes; mercados podem mudar; podemos não saber
+muito sobre o mercado a partir de informações históricas.
+É mais seguro usar dados para rejeitar que para conrmar
+hipóteses. Por quê? Considere as seguintes armações:
+Armação A: Nenhum cisne é negro porque eu olhei para 4 mil cisnes
+e não encontrei nenhum negro.
+Armação B: Nem todos os cisnes são brancos.
+Sob o ponto de vista lógico, não posso fazer a armação A, não
+importa quantos cisnes brancos sucessivos tenha observado na vida e
+venha a observar no futuro (exceto, é claro, se eu tiver o privilégio de
+observar, com toda a certeza, todos os cisnes disponíveis). Contudo, é
+possível fazer a armação B encontrando um único cisne negro na
+minha amostragem. Na realidade, a armação A ca refutada pela
+descoberta da Austrália, que trouxe à nossa vista o Cygnus atratus,
+
+uma variedade de cisne negro como carvão! O leitor verá aqui uma
+pitada de Popper, porque há forte assimetria entre as duas
+declarações. Essa assimetria está nas próprias bases do conhecimento.
+Ela é central por eu lidar com o acaso, como trader.
+Armei que as pessoas raramente testam armações testáveis; isso
+pode ser melhor para aqueles que não conseguem lidar com as
+consequências da inferência. A armação indutiva a seguir ilustra o
+problema de se interpretar dados passados literalmente, sem
+metodologia ou lógica: “Acabei de fazer um completo exame
+estatístico da vida do presidente Bush. Durante 58 anos, em cerca de
+21 mil observações, ele não morreu uma única vez. Posso, portanto,
+considerá-lo imortal, com um alto grau de signicação estatística”. A
+tão divulgada falha de NiederhoÁer ocorreu quando vendia opções
+descobertas baseadas em seus testes e assumia que aquilo que ele vira
+no passado era uma generalização precisa do que viria a acontecer no
+futuro. Ele conou na armação de que o mercado nunca havia feito
+aquilo antes, então realizou operações que representariam uma
+pequena entrada se a armação fosse verdadeira e uma enorme perda
+caso fosse equivocada. Quando a coisa explodiu, algumas décadas de
+desempenho caram à sombra de um único evento que só durou
+alguns minutos.
+Outra falha lógica nesse tipo de armação histórica é que muitas
+vezes, quando um grande evento ocorre, ouve-se dizer que “nunca
+aconteceu antes”, como se fosse preciso estar ausente do passado do
+evento para constituir uma surpresa. Então por que consideramos o
+pior caso que ocorreu em nosso próprio passado o pior cenário
+possível? Se o passado, ao trazer surpresas, não lembrou o passado
+anterior a ele (o que chamo de passado do passado), então por que
+nosso futuro deveria lembrar nosso passado atual?
+Há outra lição nessa história, talvez a mais importante:
+NiederhoÁer parece abordar os mercados como uma fonte de orgulho,
+status e vitórias sobre seus “adversários” (como eu), tal qual um jogo
+com regras denidas. Ele era um campeão avassalador e altamente
+competitivo; mas a realidade não tem as mesmas leis e regras fechadas
+e simétricas dos jogos. Sua natureza competitiva fez com que entrasse
+numa disputa feroz para “vencer”. Como vimos no último capítulo, os
+
+mercados (e a vida) não são situações do tipo ganhar ou perder, já que
+o custo das perdas pode ser notavelmente diferente dos ganhos com
+as vitórias. Maximizar a probabilidade de vencer não signica
+maximizar a expectativa do jogo quando a estratégia inclui assimetria,
+ou seja, uma pequena chance de uma grande perda e uma grande
+chance de um pequeno ganho. Se você desenvolvesse uma estratégia
+do tipo roleta-russa com uma baixa probabilidade de uma grande
+perda, uma que o leve à falência a cada tantos anos, provavelmente
+guraria como vencedor na maior parte das amostras — com exceção
+do ano em que morrer.
+Tenho que me lembrar de nunca deixar de reconhecer as ideias dos
+empiricistas dos anos 1960 e suas contribuições iniciais. Aprendi
+bastante com NiederhoÁer, principalmente por contraste, e
+particularmente com o último exemplo, no sentido de não abordar
+nada como um jogo cujo objetivo é ganhar, a menos, é claro, que se
+trate de um jogo. Mesmo nesse caso, não gosto da estrutura asxiante
+dos jogos competitivos e do aspecto diminuidor de obter orgulho de
+um desempenho numérico. Também aprendi a me manter distante de
+pessoas competitivas, que tendem a reduzir o mundo a commodities e
+categorias, como quantos trabalhos cientícos publicaram em dado
+ano ou qual é sua posição em determinada classicação. Há algo não
+losóco em investir o orgulho e o ego na ideia de que “minha
+casa/minha biblioteca/meu carro é maior que a dos meus pares”. E é
+tolice armar que se é o primeiro de sua categoria quando se está
+sentado sobre uma bomba-relógio.
+Para concluir, empiricismo extremo, competitividade e falta de
+estrutura lógica em uma inferência pode ser uma combinação bastante
+explosiva.
+O AGENTE DE PROMOÇÕES DE SIR KARL
+Em seguida, discutirei como descobri Karl Popper via outro trader,
+talvez o único que respeitei de verdade. Não sei se isso se aplica a
+outras pessoas, mas, a despeito de ser um ávido leitor, eu raras vezes
+vi meu comportamento ser realmente afetado (de modo permanente)
+por qualquer coisa que tenha lido. Um livro pode me causar forte
+
+impressão, mas ela tende a desvanecer depois que outra a substitui no
+meu cérebro (de um novo livro). Tenho que descobrir as coisas por
+mim mesmo (lembre-se da seção “Forno quente”, no capítulo 2). Essas
+autodescobertas duram muito.
+Uma exceção das ideias que caram comigo são as de Sir Karl, que
+descobri (ou talvez tenha redescoberto) através dos escritos do trader
+e lósofo de estilo próprio George Soros, que parece ter organizado
+sua vida em torno da promoção das ideias de Karl Popper. O que
+aprendi com George Soros não foi exatamente o que ele talvez
+esperasse que alguém aprendesse. Eu discordava de suas ideias
+quando se tratava de economia e losoa. A princípio, embora o
+admirasse muito, eu concordava com pensadores prossionais que o
+ponto forte de Soros não era a especulação losóca. No entanto, ele
+se considera um lósofo — o que o torna cativante em mais de uma
+maneira. Peguemos seu primeiro livro, A alquimia das nanças. Por um
+lado, ele parece discutir ideias de explicação cientíca lançando
+palavras grandes como “dedutivo-nomológico”, alguém sempre
+suspeito, como remanescente de escritores pós-modernos que bancam
+o lósofo ou o cientista ao usar referências complexas. Por outro, ele
+não parece ter grande domínio dos conceitos. Por exemplo, conduz o
+que chama de “experimento de trading” e usa o sucesso da negociação
+para sugerir que a teoria por trás dela é válida. Isso é ridículo: eu
+poderia jogar o dado para provar minhas crenças religiosas e usar um
+resultado favorável como evidência de que minhas ideias estão
+corretas. O fato de que o portfólio especulativo de Soros se mostrou
+positivo prova pouca coisa. Não se pode inferir muito de um único
+experimento em um ambiente aleatório — um experimento precisa de
+repetibilidade mostrando algum componente casual. Em segundo
+lugar, Soros culpa de modo indiscriminado a ciência da economia, o
+que pode estar correto, mas não quer dizer que ele fez a lição de casa.
+Por exemplo, ele escreve que a categoria de pessoas que trata como
+“economistas” acredita que tudo converge ao equilíbrio, quando isso
+só se aplica a alguns casos de economistas neoclássicos. Há muitas
+teorias econômicas que acreditam que a saída de um nível de preços
+pode causar mais divergência e ciclos de retorno em cascata. Houve
+um considerável volume de pesquisas nesse sentido por exemplo na
+
+teoria dos jogos (os trabalhos de Harsanyi e Nash) ou na economia da
+informação (os trabalhos de Stiglitz, Akerlof e Spence). Colocar todos
+os economistas em um único cesto é injusto e pouco rigoroso.
+Mas, apesar de algumas bobagens em seus escritos, que
+provavelmente tinham o propósito de convencer a si próprio de que
+não era apenas um trader, ou por causa disso, sucumbi ao charme
+desse húngaro que, como eu, tem vergonha de ser trader e prefere que
+seu trabalho seja uma extensão menor de sua vida intelectual mesmo
+que não haja muita erudição em seus ensaios. Nunca tendo me
+impressionado por pessoas com dinheiro (e encontro um monte de
+gente assim na vida), não as tomo nem remotamente como modelo.
+Talvez o oposto ocorra, pois em geral tenho aversão a essa gente,
+devido à atitude de heroísmo épico que sempre acompanha o
+enriquecimento rápido. Soros foi o único que parece de fato
+compartilhar dos meus valores. Ele queria ser levado a sério como
+professor da Europa Oriental, e aconteceu de car rico devido à
+validade de suas ideias (foi somente fracassando na tentativa de obter
+aceitação de outros intelectuais que ele tentaria ganhar status de alfa
+por meio do dinheiro, como se fosse um sedutor que, depois de tentar
+muito, terminasse usando um apêndice, como uma Ferrari vermelha,
+para conquistar uma mulher). Além disso, embora Soros não
+demonstre com muita clareza em seus escritos, ele sabia como lidar
+com o acaso, mantendo uma mente crítica aberta e mudando de
+opinião sem o menor constrangimento (o que ocasionou o efeito
+colateral de fazer com que tratasse as pessoas como se fossem
+guardanapos). Ele andava por aí declarando-se falível, mas ganhava
+poder ao reconhecer isso, enquanto outros cultivam ideias mais
+elevadas acerca de si mesmos. Compreendia Popper. E vivia uma vida
+popperiana.
+Como aparte, Popper não me era estranho. Eu tinha ouvido falar
+rapidamente dele quando era adolescente e quando tinha vinte e
+poucos anos, como parte de minha educação na Europa e nos Estados
+Unidos. Mas, na época, não compreendi suas ideias tal como eram
+apresentadas nem achei que seriam importantes para qualquer coisa
+na minha vida. Eu estava numa idade em que é preciso ler tudo, o que
+impede as paradas contemplativas. A pressa tornou difícil perceber
+
+que havia algo de importante em Popper. Ou foi meu
+condicionamento pela cultura intelectual renada da época (tanto
+Platão,
+tantos
+marxistas,
+tanto
+Hegel,
+tantos
+intelectuais
+pseudocientícos), o sistema educacional (tantas hipóteses propostas
+como verdade) ou o fato de que eu era muito novo e lia demais para
+que pudesse estabelecer uma ponte até a realidade.
+Popper esvaiu-se de minha mente sem car dependurado em uma
+única célula cerebral — não há nada na bagagem de um jovem se não
+houver experiência para fazê-lo permanecer ali. Além disso, quando
+comecei no mercado de capitais, entrei numa fase anti-intelectual: eu
+precisava fazer dinheiro não aleatoriamente, a m de assegurar meu
+futuro e minha riqueza, que tinham acabado de evaporar com a guerra
+do Líbano (até então eu vivia com o desejo de me tornar um
+confortável homem dedicado ao ócio, como quase todo mundo na
+minha família nos dois séculos anteriores). De súbito, senti-me
+nanceiramente inseguro e quei com medo de me tornar um
+empregado em alguma rma que me transformaria num escravo
+corporativo, com uma “losoa de trabalho” (sempre que ouço essa
+expressão eu a interpreto como mediocridade ineciente). Eu precisava
+do apoio de minha conta bancária para comprar tempo para pensar e
+desfrutar a vida. O que eu não queria, de jeito nenhum, era passar os
+dias losofando e trabalhando no McDonald’s mais perto. Filosoa,
+para mim, tornara-se algo retórico, que as pessoas faziam quando
+tinham muito tempo livre; era uma atividade reservada para aqueles
+que não eram bem versados em métodos quantitativos e outras coisas
+produtivas. Era um passatempo que devia ser limitado às horas mortas
+da noite, em bares em torno do campus universitário, quando já se
+havia tomado uns drinques e se tinha um programa leve pela frente —
+desde que se esquecesse o episódio hilário logo no dia seguinte.
+Filosoa demais podia colocar um homem em diculdades, talvez
+transformá-lo num ideólogo marxista. Popper não reemergiria senão
+depois que eu assegurasse minha carreira como trader.
+Localização, localização
+Diz-se que as pessoas geralmente se lembram do dia e da
+localização em que foram arrebatadas por uma ideia importante. O
+
+poeta religioso e diplomata Paul Claudel lembra-se do ponto exato de
+sua conversão (ou reconversão) ao catolicismo na catedral de Notre-
+Dame, em Paris, perto de determinada coluna. Assim, eu me lembro
+exatamente do ponto (a livraria Barnes & Noble, na esquina da rua 21
+com a Quinta Avenida) onde, em 1986, inspirado por Soros, li
+cinquenta páginas de A lógica da pesquisa cientíca e comprei
+febrilmente todos os títulos de Popper que encontrei, temendo que
+viessem a se esgotar. Foi numa salinha lateral, mal iluminada, que
+tinha um cheiro característico de mofo. Eu me lembro vivamente dos
+pensamentos que passaram voando pela minha cabeça, como uma
+revelação.
+Popper veio a ser exatamente o oposto do que eu de início pensava
+sobre um “lósofo”: ele era a epítome do homem direto e prático.
+Nessa época, eu já era trader de opções havia alguns anos e tinha raiva
+dos pesquisadores acadêmicos em nanças que me atormentavam,
+particularmente por estar tirando minha renda do fracasso dos
+modelos deles. Eu já havia começado a dar palestras para acadêmicos
+em nanças como parte de meu envolvimento com derivativos e
+encontrava diculdade em transmitir-lhes certas ideias básicas sobre
+mercados nanceiros (eles acreditavam nos seus próprios modelos um
+pouquinho demais). Enquanto isso, já rondava minha mente a ideia de
+que esses pesquisadores não tinham entendido o ponto crucial da
+questão, mas eu não sabia bem que ponto era esse. Não era o que eles
+sabiam, mas como sabiam, a razão de meu aborrecimento.
+A resposta de Popper
+Popper surgiu com uma resposta importante para o problema da
+indução (para mim, ele veio com a resposta). Nenhum homem
+in uenciou o modo como os cientistas fazem ciência tal qual Sir Karl
+— a despeito do fato de muitos de seus colegas lósofos prossionais
+o acharem ingênuo (o que pesa a seu favor, na minha opinião). A ideia
+de Popper é que a ciência não deve ser levada tão seriamente quanto
+parece ser (ao se encontrar com Einstein, Popper não o encarou como
+o semideus que o próprio físico pensava ser). Para ele, há somente
+dois tipos de teorias:
+
+1. Teorias que se sabe ser erradas, pois foram testadas e
+propriamente rejeitadas (ele as chama de falsicadas).
+2. Teorias que ainda não se sabe se são erradas, e portanto ainda
+não são falsicadas, mas estão passíveis de ser provadas erradas.
+Por que uma teoria nunca está certa? Porque nunca saberemos se
+todos os cisnes são brancos (Popper pediu emprestada a ideia
+kantiana de uma falha nos nossos mecanismos de percepção). O
+mecanismo de teste pode ser falho. Entretanto, a assertiva de que há
+um cisne negro pode ser feita. Uma teoria nunca pode ser vericada.
+Parafraseando de novo o treinador de beisebol Yogi Berra, os dados
+passados encerram muita coisa boa, mas o ruim é o lado ruim. Assim,
+uma teoria só pode ser aceita provisoriamente, e algo que não recai em
+uma dessas duas categorias não é uma teoria. Uma teoria que não
+apresenta um conjunto de condições sob as quais seria considerada
+errada deve ser denominada charlatanismo — e também seria
+impossível de ser rejeitada. Por quê? Porque o astrólogo sempre pode
+encontrar uma razão para explicar o evento passado, dizendo que
+“Marte estava alinhado, mas não tanto assim” (da mesma forma, para
+mim, um trader que não tem um ponto que o faria mudar de opinião
+não é trader). Na realidade, a diferença entre a física newtoniana, que
+foi falsicada pela relatividade de Einstein, de um lado, e a astrologia,
+de outro, está na ironia que se segue. A teoria de Newton é cientíca
+porque pode ser falsicada, uma vez que sabemos que está errada,
+enquanto a astrologia não está porque não oferece condições sob as
+quais possamos rejeitá-la. A astrologia não pode ser refutada, devido à
+hipótese auxiliar que entra em jogo. Esse ponto está na base da divisão
+entre ciência e tolice (e é chamado de “problema da demarcação”).
+Sob um ponto de vista mais prático, para mim, Popper tinha muitas
+diculdades com a estatística e os estatísticos. Ele recusava cegamente
+a noção de que o conhecimento pode sempre aumentar com mais
+informações — que é o alicerce da inferência estatística. Pode ser que
+isso aconteça, em alguns casos, mas não sabemos em quais. Muita
+gente ponderada, tal como John Maynard Keynes, chegou, de forma
+independente, às mesmas conclusões. Os detratores de Sir Karl
+acreditam que repetir inúmeras vezes um experimento em condições
+
+favoráveis deve levar a uma aceitação cada vez maior da ideia de que “a
+coisa funciona”. Eu passei a entender melhor a posição de Popper a
+partir do momento em que vi o primeiro evento raro fazer grandes
+estragos numa sala de trading. Sir Karl temia que houvesse certo tipo
+de conhecimento que não aumenta com mais informações — mas que
+tipo é esse não podemos saber. A razão pela qual acho que Popper é
+importante para os traders é que, para ele, a questão do conhecimento
+e da descoberta não está tanto em lidar com o que sabemos, mas em
+lidar com o que não sabemos. Sua famosa citação diz:
+Estes são homens com ideias ousadas, mas fortemente críticos em relação a suas próprias
+ideias; eles tentam descobrir se elas estão certas tentando primeiro descobrir se não estão
+erradas. Trabalham com hipóteses arrojadas e tentativas severas na rejeição de suas
+próprias hipóteses.
+“Estes” são cientistas. Mas podem ser qualquer coisa.
+Colocando o mestre no contexto, Popper estava se rebelando contra
+o crescimento da ciência. Sob o ponto de vista intelectual, ele chocou
+o mundo considerando as dramáticas mudanças na losoa tentativas
+de passá-la de verbal e retórica para cientíca e rigorosa, como vimos
+na apresentação do Círculo de Viena, no capítulo 4. Essas pessoas
+eram, às vezes, chamadas de positivistas lógicos, de acordo com o
+movimento denominado positivismo, do qual Augusto Comte foi
+pioneiro na França, o qual representava a cienticização do mundo
+(literalmente, de tudo sob o sol). Foi como a Revolução Industrial do
+rol das ciências humanas. Sem elaborar mais sobre o positivismo, devo
+observar que Popper era o antídoto dessa doutrina. Para ele, a
+vericação não é possível. O vericacionismo é mais perigoso do que
+qualquer outra coisa. Levadas ao extremo, as ideias de Popper
+parecem ingênuas e primitivas — mas elas funcionam. Note que seus
+detratores o chamam de um falsicacionista ingênuo.
+Sou um falsicacionista ingênuo extremado. Por quê? Porque posso
+sobreviver a isso. Meu popperismo extremado e obsessivo é levado ao
+seguinte ponto. Especulo, em todas as minhas atividades, sobre teorias
+que representem alguma visão do mundo, mas com a seguinte
+condição: nenhum evento raro pode me causar dano. De fato, eu
+gostaria que todos os eventos raros concebíveis me ajudassem. Minha
+
+ideia de ciência diverge daquela assumida por pessoas à minha volta
+que se autonomeiam cientistas. Ciência é mera especulação, mera
+formulação de hipóteses.
+Sociedade aberta
+O falsicacionismo de Popper está intimamente ligado à ideia de
+uma sociedade aberta. Uma sociedade aberta é aquela em que não
+subsiste nenhuma verdade permanente; o que permitiria o surgimento
+de contraideias. Karl Popper compartilhava ideias com seu amigo, o
+economista Von Hayek, que endossava o capitalismo como um estado
+no qual os preços podem disseminar a informação, a qual o socialismo
+burocrático sufocaria. Tanto a noção de falsicacionismo quanto a de
+sociedade aberta são, contraintuitivamente, ligadas à de um método
+rigoroso para lidar com o acaso no meu trabalho diário como trader. É
+claro que uma mente aberta é uma necessidade quando se está lidando
+com o acaso. Popper acreditava que qualquer ideia de utopia é,
+necessariamente, fechada, por sufocar suas próprias refutações. A
+simples ideia de um bom modelo para a sociedade, o qual não pode
+ser deixado aberto para falsicação, é o totalitarismo. Aprendi com
+Popper, além da diferença entre uma sociedade aberta e uma fechada,
+a diferença entre uma mente aberta e uma fechada.
+Ninguém é perfeito
+Tenho informações pouco lisonjeiras sobre Popper, o homem.
+Testemunhas de sua vida privada consideravam-na nada popperiana.
+O lósofo e professor de Oxford Bryan Magee, que foi amigo dele por
+quase três décadas, descreve-o como avesso às coisas do mundo
+(exceto em sua mocidade) e estritamente centrado em seu trabalho.
+Ele passou os últimos cinquenta anos de sua longa carreira (tendo
+vivido 92) fechado ao mundo exterior, isolado de distrações e de
+estímulos externos. Também se dedicou a dar às pessoas “bons
+conselhos sobre sua carreira e vida privada, embora entendesse muito
+pouco tanto de uma quanto de outra. Tudo isso, é claro, foi em
+direção contrária a suas professadas (e genuínas) convicções e práticas
+losócas”.
+
+Na mocidade, as coisas não caram muito melhores. Membros do
+Círculo de Viena tentavam evitá-lo, não por causa de ideias
+divergentes, mas porque ele constituía um problema social. “Ele era
+brilhante, porém autocentrado, tanto inseguro quanto arrogante,
+irascível e hipócrita. Era terrível quando se tratava de ouvir os outros,
+e queria ganhar discussões a qualquer custo. Não conhecia nada de
+dinâmica de grupo e não tinha habilidade para agir de acordo com
+isso.”
+Vou me escusar do discurso-padrão sobre o divórcio entre ideias e
+prática, exceto para acentuar o interessante problema genético:
+gostamos de emitir opiniões lógicas e racionais, mas não apreciamos,
+necessariamente, sua execução. Ainda que possa parecer estranho,
+essa tese só foi descoberta há pouco (veremos que não somos
+geneticamente aptos a ser racionais e a agir de modo racional; somos
+mais aptos, com a máxima probabilidade, a transmitir nossos genes em
+um ambiente não sosticado). Também ainda que possa parecer
+estranho, George Soros, autocrítico obsessivo, soa mais popperiano
+do que o próprio Popper em seu comportamento prossional.
+Indução e memória
+A memória nos humanos é uma grande máquina de fazer
+inferências indutivas. Pense nas lembranças: o que é mais fácil
+recordar, uma coleção de fatos aleatórios grudados ou uma história,
+algo que tem uma série de ligações lógicas? A causalidade ca mais
+facilmente na memória. Nosso cérebro teria menos trabalho para reter
+a informação nesse caso. O tamanho seria menor. Mas o que é
+indução exatamente? Indução é ir de muitos particulares ao geral. É
+muito útil, já que o geral ocupa muito menos espaço na memória que
+uma coleção de particulares. O efeito de tal compressão é a redução
+do grau de acaso detectado.
+A aposta de Pascal
+Vou concluir com a apresentação do meu próprio método para lidar
+com o problema da indução. O lósofo Pascal proclamava que a
+melhor estratégia para os humanos é acreditar na existência de Deus.
+Isso porque, se Deus existe, então o crente pode ser recompensado.
+
+Se Ele não existe, o crente não tem nada a perder. De maneira
+coerente, devemos aceitar a assimetria no conhecimento; há situações
+em que usar a estatística e a econometria pode ser útil. Mas não quero
+que minha vida dependa disso.
+Como Pascal, vou apresentar, portanto, o seguinte argumento. Se a
+ciência da estatística pode me beneciar em alguma coisa, vou usá-la.
+Se ela representa uma ameaça, então não vou usá-la. Quero tirar o
+melhor que o passado possa me oferecer sem seus perigos. Assim, uso
+a estatística e os métodos indutivos para fazer apostas agressivas, mas
+não
+uso
+para
+gerenciar
+meus
+riscos
+e
+minha
+posição.
+Surpreendentemente, todos os traders sobreviventes que conheço
+parecem ter feito a mesma coisa. Eles negociam papéis apoiados em
+ideias baseadas em certas observações (que incluem a história), mas,
+como os cientistas popperianos, tomam medidas para que os custos de
+estar errados sejam limitados (e para que a probabilidade de isso
+acontecer não derive dos dados passados). Diferentemente de Carlos
+e John, eles sabem, antes de se engajar numa estratégia de negociação,
+quais eventos mostrarão que sua conjectura estava errada, e dão o
+devido desconto (lembre-se de que Carlos e John usavam a história
+tanto para fazer suas apostas quanto para medir o risco que corriam).
+Então encerram a transação. Isso é chamado de stop loss, um ponto de
+saída predeterminado, uma proteção contra o cisne branco. Raras
+vezes vejo isso em prática.
+OBRIGADO, SÓLON
+Para terminar, tenho que confessar que, ao acabar de escrever a
+Parte I, o que eu disse sobre a genialidade da ideia de Sólon teve um
+enorme efeito tanto sobre meu modo de pensar quanto sobre minha
+vida privada. A composição da Parte I me tornou ainda mais conante
+quanto ao meu afastamento da mídia e dos outros membros da
+comunidade de negócios, principalmente de outros investidores e
+traders, por quem desenvolvo um desprezo cada vez maior.
+Atualmente, tenho desfrutado da leitura dos clássicos como nunca
+desde a infância. Estou agora pensando no próximo passo: recriar uma
+época de baixa informação, mais determinística, digamos, o século
+
+XIX, ao mesmo tempo me beneciando dos progressos técnicos (tais
+como a máquina Monte Carlo) de todas as descobertas no campo
+médico e dos avanços da justiça social de nossa era. Eu teria, então, o
+melhor de tudo. Isso é o que se chama de evolução.
+

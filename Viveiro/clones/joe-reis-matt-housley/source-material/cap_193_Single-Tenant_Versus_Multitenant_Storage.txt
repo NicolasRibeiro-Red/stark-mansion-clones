@@ -1,0 +1,43 @@
+# Single-Tenant Versus Multitenant Storage
+
+Paginas: 251-251
+
+Time. The value to downstream users also depends upon the age of the data. New
+data is typically more valuable and frequently accessed than older data. Technical
+limitations may determine how long you can store data in certain storage tiers. For
+example, if you store hot data in cache or memory, you’ll likely need to set a time to
+live (TTL), so you can expire data after a certain point or persist it to warm or cold
+storage. Otherwise, your hot storage will become full, and queries against the hot data
+will suffer from performance lags.
+Compliance. Certain regulations (e.g., HIPAA and Payment Card Industry, or PCI)
+might require you to keep data for a certain time. In these situations, the data simply
+needs to be accessible upon request, even if the likelihood of an access request is low.
+Other regulations might require you to hold data for only a limited period of time,
+and you’ll need to have the ability to delete specific information on time and within
+compliance guidelines. You’ll need a storage and archival data process—along with
+the ability to search the data—that fits the retention requirements of the particular
+regulation with which you need to comply. Of course, you’ll want to balance compli‐
+ance against cost.
+Cost. Data is an asset that (hopefully) has an ROI. On the cost side of ROI, an
+obvious storage expense is associated with data. Consider the timeline in which you
+need to retain data. Given our discussion about hot, warm, and cold data, implement
+automatic data lifecycle management practices and move the data to cold storage if
+you don’t need the data past the required retention date. Or delete data if it’s truly not
+needed.
+Single-Tenant Versus Multitenant Storage
+In Chapter 3, we covered the trade-offs between single-tenant and multitenant
+architecture. To recap, with single-tenant architecture, each group of tenants (e.g.,
+individual users, groups of users, accounts, or customers) gets its own dedicated set
+of resources such as networking, compute, and storage. A multitenant architecture
+inverts this and shares these resources among groups of users. Both architectures are
+widely used. This section looks at the implications of single-tenant and multitenant
+storage.
+Adopting single-tenant storage means that every tenant gets their dedicated storage.
+In the example in Figure 6-10, each tenant gets a database. No data is shared among
+these databases, and storage is totally isolated. An example of using single-tenant
+storage is that each customer’s data must be stored in isolation and cannot be blended
+with any other customer’s data. In this case, each customer gets their own database.
+226
+|
+Chapter 6: Storage
+

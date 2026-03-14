@@ -1,0 +1,42 @@
+# APIs
+
+Paginas: 279-279
+
+1 Karl Hughes, “The Bulk of Software Engineering Is Just Plumbing,” Karl Hughes website, July 8, 2018,
+https://oreil.ly/uIuqJ.
+unavailable. No data will be lost in the failover because the replica is entirely in sync
+with the primary database.
+The advantage of asynchronous CDC replication is a loosely coupled architecture
+pattern. While the replica might be slightly delayed from the primary database, this
+is often not a problem for analytics applications, and events can now be directed to
+a variety of targets; we might run CDC replication while simultaneously directing
+events to object storage and a streaming analytics processor.
+CDC considerations
+Like anything in technology, CDC is not free. CDC consumes various database
+resources, such as memory, disk bandwidth, storage, CPU time, and network band‐
+width. Engineers should work with production teams and run tests before turning on
+CDC on production systems to avoid operational problems. Similar considerations
+apply to synchronous replication.
+For batch CDC, be aware that running any large batch query against a transactional
+production system can cause excessive load. Either run such queries only at off-hours
+or use a read replica to avoid burdening the primary database.
+APIs
+The bulk of software engineering is just plumbing.
+—Karl Hughes1
+As we mentioned in Chapter 5, APIs are a data source that continues to grow in
+importance and popularity. A typical organization may have hundreds of external
+data sources such as SaaS platforms or partner companies. The hard reality is that
+no proper standard exists for data exchange over APIs. Data engineers can spend
+a significant amount of time reading documentation, communicating with external
+data owners, and writing and maintaining API connection code.
+Three trends are slowly changing this situation. First, many vendors provide API cli‐
+ent libraries for various programming languages that remove much of the complexity
+of API access.
+Second, numerous data connector platforms are available now as SaaS, open source,
+or managed open source. These platforms provide turnkey data connectivity to many
+data sources; they offer frameworks for writing custom connectors for unsupported
+data sources. See “Managed Data Connectors” on page 256.
+254
+|
+Chapter 7: Ingestion
+

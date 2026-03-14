@@ -1,0 +1,201 @@
+# 7. O sequestro evolutivo
+
+Paginas: 212-216
+
+habilidade, em especial as mais complexas, devemos estudar muitos detalhes, tecnologias e
+procedimentos que são padrões na solução de problemas. No entanto, se não somos
+cuidadosos, ټcamos presos ao hábito de usar as mesmas técnicas e estratégias que tanto se
+impregnaram em nossa mente. É sempre mais simples seguir essa trajetória. No processo,
+perdemos de vista o panorama geral, o propósito do que estamos fazendo, como cada
+problema que enfrentamos é diferente e exige uma abordagem diferente. Adotamos uma
+espécie de visão afunilada.
+Essa prisão técnica aٽige representantes de todos os campos de atuação. Yoky Matsuoka
+topou com uma solução para esse problema que a empurrou para a fronteira mais avançada
+de sua área de trabalho. Ocorreu-lhe como reação à abordagem da engenharia, que até
+então prevalecia na robótica. A mente dela naturalmente funciona melhor em escala mais
+ampla, ponderando as conexões o tempo todo, em alto nível – o que faz da mão humana
+uma perfeição tão extraordinária, como a mão inٽuenciou quem somos e como pensamos.
+Com questões tão abrangentes orientando sua pesquisa, ela evita concentrar um foco estreito
+sobre questões técnicas sem compreender o panorama mais amplo. O raciocínio nesse nível
+libera a mente para investigar a partir dos mais diferentes ângulos: por que os ossos da mão
+são dessa maneira? O que torna a palma da mão tão maleável? Como o sentido do tato
+inٽuencia nosso pensamento, de uma forma geral? Isso permite a ela se aprofundar nos
+detalhes sem perder o senso do todo e das razões que o justificam.
+Você também deve adotar esse modelo em seu trabalho. Seu projeto ou problema precisa
+estar relacionado com algo maior – uma questão de mais relevância, uma ideia mais
+abrangente, um objetivo inspirador. Sempre que seu trabalho começar a parecer monótono,
+retorne ao propósito ou ao conceito mais amplo que o motivou em primeiro lugar. Ao se
+lembrar constantemente de seu propósito, você evitará se ټxar em certas técnicas e não se
+tornará obcecado por detalhes triviais. Desse modo, explorará as forças naturais do cérebro
+humano, que tendem a buscar conexões em níveis cada vez mais altos.
+7. O sequestro evolutivo
+No verão de 1995, Paul Graham (ver Capítulo 2) ouviu uma história no rádio,
+promovendo as possibilidades ilimitadas do comércio on-line, que, na época, mal existia. A
+promoção partiu do Netscape, que tentava despertar interesse por seu negócio, às vésperas
+de sua oferta pública inicial de ações (IPO). Na época, Graham estava numa encruzilhada.
+Depois de se tornar ph.D. em engenharia da computação pela Universidade Harvard, caíra
+num padrão: encontrava alguns trabalhos de consultoria em tempo parcial no negócio de
+soware; depois de poupar algum dinheiro, deixava o emprego e se dedicava à sua
+verdadeira paixão – arte e pintura – até suas economias acabarem, quando, então, arranjava
+outro trabalho. Aos 31 anos, estava ټcando cansado daquela rotina, e detestava prestar
+consultoria. A perspectiva de ganhar muito dinheiro desenvolvendo algo para a internet de
+repente lhe pareceu muito atraente.
+
+Graham convocou, então, seu velho parceiro de programação em Harvard, Robert Morris,
+e vendeu-lhe a ideia de se associarem em uma nova empresa, embora Graham ainda não
+imaginasse por onde começariam ou o que fariam. Depois de alguns dias de conversa,
+resolveram desenvolver um soware para a criação de lojas virtuais. Uma vez deټnido o
+conceito, tiveram que enfrentar um grande obstáculo. Naqueles dias, para alcançarem um
+público mais amplo, os programas deveriam ser escritos para o Windows. Como hackers
+consumados, eles odiavam tudo o que se relacionava com o Windows, e nunca tinham se
+dado ao trabalho de aprender a programar aplicativos para essa plataforma. Preferiam
+programar em Lisp e rodar os programas em Unix, sistema operacional de código aberto.
+Resolveram, então, adiar o inevitável e escrever o programa para Unix. Convertê-lo depois
+para o Windows seria fácil, mas, ao tentarem fazê-lo, se defrontariam com terríveis
+consequências – depois de lançar o programa para Windows, teriam que lidar com os
+usuários e aperfeiçoar o soware com base nesse feedback. Isso signiټcava que seriam
+obrigados a pensar e a programar para Windows durante meses, talvez anos. A perspectiva
+era terrível e eles pensaram seriamente em desistir.
+Um dia pela manhã, Graham, que dormira em um colchão no apartamento de Morris, em
+Manhattan, acordou repetindo certas palavras que provavelmente lhe ocorreram durante um
+sonho: “Você poderia controlar o programa clicando em links.” Ele se levantou de supetão ao
+perceber o que essas palavras podiam signiټcar – a possibilidade de desenvolver um
+programa para comércio on-line que rodaria no próprio servidor web. As pessoas o usariam
+via Netscape, clicando em vários links na página da web. Isso signiټcava que ele e Morris
+contornariam o roteiro usual de escrever um programa que os usuários baixariam para seu
+desktop. Tal solução eliminaria a necessidade de mexer com o Windows. Ainda não havia
+nada desse tipo, mas parecia uma saída óbvia. Empolgado, explicou a epifania a Morris, e
+resolveram tentar. Em poucos dias, terminaram a primeira versão, e ela funcionou muito
+bem. Sem dúvida, o conceito de um aplicativo na web funcionaria.
+Nas semanas seguintes, reټnaram o soware e encontraram um investidor anjo que
+entraria com 10 mil dólares iniciais por 10% das ações da empresa. No começo, foi muito
+difícil despertar o interesse de empreendedores pelo conceito. Aquele foi o primeiro
+programa rodado na internet para constituir um negócio on-line, na fronteira do comércio
+eletrônico. Aos poucos, porém, a iniciativa começou a decolar.
+A novidade da ideia, que Graham e Morris haviam concebido em grande parte por causa
+da antipatia em relação ao Windows, revelou todos os tipos de vantagens imprevistas.
+Trabalhando diretamente na internet, podiam gerar um ٽuxo contínuo de novos
+lançamentos do soware e testá-los imediatamente. Também tinham condições de interagir
+com os consumidores, recebendo feedback instantâneo sobre o programa, melhorando-o em
+dias, em vez de meses, como ocorria com sowares para desktop. Sem experiência em gestão
+de empresas, não pensaram em contratar vendedores; em vez disso, eles próprios
+telefonavam para os clientes potenciais. No entanto, como de fato formavam a linha de
+
+frente da empresa, eram os primeiros a ouvir as reclamações e sugestões dos consumidores, o
+que lhes aguçava a sensibilidade em relação às deټciências do programa, facilitando as
+correções e melhorias. Por se tratar de algo único, não tinham concorrentes com que se
+preocupar; ninguém lhes roubaria a ideia, pois eram os únicos loucos o bastante para
+empreendê-la.
+Obviamente, eles cometeram vários erros ao longo do caminho, mas a ideia era forte
+demais para fracassar; e, em 1998, venderam sua empresa, a Viaweb, para o Yahoo! por 50
+milhões de dólares.
+Passados alguns anos, quando Graham olhava para trás e se lembrava da experiência, o
+processo que ele e Morris adotaram o surpreendia. Isso o fazia lembrar de outras invenções
+da história, como a dos microcomputadores. Os microprocessadores, que possibilitaram os
+microcomputadores, haviam sido desenvolvidos, de início, para o controle de sinais de
+trânsito e de máquinas automáticas de vendas. Nunca se havia pensado neles para uso em
+computadores. Os primeiros empreendedores a tentá-lo foram alvo de piadas; seus
+computadores pioneiros nem pareciam dignos do nome – eram muito pequenos e de baixa
+capacidade. Mas algumas pessoas perceberam que essas máquinas lhes poupavam tempo,
+aumentavam sua produtividade e serviam de passatempo, e contribuíram para que a ideia
+decolasse. A mesma história já ocorrera com os transistores, que, nas décadas de 1930 e
+1940, foram concebidos e aplicados em produtos eletrônicos para ټns militares. Só no
+começo da década de 1950 é que vários indivíduos tiveram a ideia de aplicar a tecnologia em
+aparelhos de rádio para o público, logo dando origem ao que viria a se tornar o produto
+eletrônico mais popular da história.
+O interessante em todos esses casos foi o processo peculiar que levou a essas invenções: em
+geral os inventores depararam por acaso com a tecnologia disponível; depois, ocorreu-lhes a
+ideia de que a tecnologia poderia ser usada para outros propósitos; e, ټnalmente,
+experimentaram diferentes protótipos até encontrarem o mais adequado. O que possibilita
+esse processo é a disposição do inventor de ver as coisas do cotidiano sob uma luz diferente e
+de imaginar novos usos para elas. Para quem se prende a visões rígidas, a familiaridade de
+uma aplicação tradicional os impede de perceber outras possibilidades. A grande questão
+está na importância de cultivar uma mentalidade ٽexível e adaptável, algo que, quase
+sempre, é suټciente para distinguir um inventor ou um empreendedor bem-sucedido do
+resto da multidão.
+Depois de capitalizar o sucesso da Viaweb, Graham teve a ideia de escrever ensaios para a
+internet – sua forma um tanto peculiar de blog. Esses ensaios o converteram em celebridade
+entre jovens hackers e programadores de todos os lugares. Em 2005, foi convidado por
+estudantes de graduação do departamento de ciências da computação de Harvard para dar
+uma palestra. Em vez de entediar os estudantes e a si próprio com a análise de diferentes
+linguagens de programação, resolveu debater a ideia das próprias startups de tecnologia –
+por que algumas são sucessos retumbantes ao passo que outras são fracassos desastrosos? O
+
+evento foi tão instigante, e as ideias de Graham tão esclarecedoras, que os alunos começaram
+a assediá-lo com perguntas sobre os próprios planos para startups. Ao ouvi-los, sentiu que
+alguns daqueles conceitos estavam corretos, mas que os jovens precisavam de muita
+orientação e suporte.
+Graham sempre pensara em investir nas ideias de outras pessoas. Ele próprio se beneټciara
+de um investidor anjo em seu projeto, e lhe parecia justo retribuir o favor, ajudando outros
+jovens. O problema era por onde começar. A maioria dos investidores anjos tinha alguma
+noção de ټnanças antes de investir e costumava começar em escala reduzida para ganhar
+experiência. Graham não sabia nada de negócios. Para compensar essa deټciência, teve uma
+ideia que, à primeira vista, parecia ridícula – investiria simultaneamente 15 mil dólares em
+10 startups. E selecionaria as 10 divulgando sua oferta e escolhendo as melhores candidatas.
+Durante alguns meses, ele orientaria essas novatas, até o ponto de lançamento da ideia. Por
+esse trabalho, ټcaria com 10% de qualquer empresa bem-sucedida. Seria como um sistema
+de aprendizagem para os fundadores, mas, na verdade, havia outro propósito – para ele,
+seria como um curso intensivo em investimentos.
+Mais uma vez, ele recrutou Robert Morris como parceiro no negócio. Umas duas semanas
+depois do início do treinamento, porém, ele e Morris perceberam que tinham começado algo
+poderoso. Considerando a experiência deles com a Viaweb, estavam em condições de dar
+conselhos objetivos e eټcazes. As ideias das startups que estavam orientando pareciam muito
+promissoras. Talvez o sistema que haviam adotado como forma rápida de treinamento fosse
+em si um modelo interessante. A maioria dos investidores anjos se associa a apenas umas
+poucas startups por ano; em geral, estão muito ocupados com os próprios negócios. Mas e se
+Graham e Morris se dedicassem em tempo integral a esse sistema de aprendizagem?
+Poderiam produzir em massa o serviço. Talvez tivessem condições de incubar centenas, em
+vez de dezenas, dessas startups. No processo, aprenderiam a realidade dos negócios por meio
+da prática cotidiana do empreendedorismo. E o crescimento exponencial do conhecimento e
+da experiência resultaria em cada vez mais empresas bem-sucedidas.
+Se aquilo realmente desse certo, eles não só ganhariam muito dinheiro como também
+exerceriam um impacto decisivo sobre a economia, injetando no sistema milhares de hábeis
+empreendedores. Batizaram a nova empresa de Y Combinator e a consideraram sua grande
+contribuição para mudar a economia mundial.
+Treinaram os aprendizes com base em todos os princípios que haviam aprendido ao longo
+do percurso – o benefício de buscar novas aplicações para tecnologias existentes e de
+identiټcar necessidades que não estão sendo atendidas; a importância de manter
+relacionamentos estreitos com os clientes; as vantagens de preservar a simplicidade e o
+realismo das ideias; o valor de criar produtos superiores e de vencer por meio da maestria no
+campo de atuação em vez de se fixar em ganhar dinheiro.
+À medida que os aprendizes acumulavam conhecimento e experiência, também eles se
+aprimoravam como mentores e como empreendedores. Por estranho que pareça,
+
+descobriram que os atributos mais importantes dos empreendedores bem-sucedidos não são
+nem a natureza de suas ideias nem as universidades que cursaram, mas, sim, algo pessoal – a
+disposição de adaptar as próprias ideias e de tirar proveito das possibilidades que não haviam
+imaginado de início. Foi essa ٽuidez mental que Graham havia identiټcado em si mesmo e
+em outros inventores. Outro atributo essencial de caráter é a determinação extrema.
+Ao longo dos anos, a Y Combinator continuou a crescer a taxas espantosas. Hoje, está
+avaliada em 500 milhões de dólares, com potencial inequívoco de mais crescimento.
+Geralmente, temos uma ideia equivocada sobre a capacidade criativa e inventiva da mente
+humana. Imaginamos que as pessoas criativas primeiro têm um insight interessante que,
+então, passam a elaborar e a reټnar, de maneira mais ou menos linear. A verdade, porém, é
+muito mais desorganizada e complexa. A criatividade se assemelha a um processo conhecido
+na natureza como sequestro evolutivo. Na evolução, os acidentes e as contingências
+desempenham uma função de extrema importância. Por exemplo, as penas evoluíram das
+escamas dos répteis, com o propósito de manter as aves aquecidas. (As aves evoluíram dos
+répteis.) Mas, por ټm, as penas propiciaram a adaptação ao processo de voar, à medida que
+novas espécies desenvolviam asas. Para nossos ancestrais primatas, a forma das mãos evoluiu
+em grande parte em consequência da necessidade de agarrar galhos com rapidez e agilidade.
+Os primeiros hominídeos, caminhando no solo, passaram a usar as mãos para manipular
+rochas, fabricar ferramentas e gesticular como forma de comunicação. Talvez a linguagem
+em si, que, de início, se desenvolvera como ferramenta estritamente social, tenha sido
+sequestrada para se tornar um meio de raciocínio, fazendo com que a própria
+autoconsciência humana fosse produto do acaso.
+A criatividade humana costuma seguir um caminho semelhante, talvez indicando uma
+espécie de fatalidade orgânica para a criação de algo. As ideias não nos ocorrem a partir do
+nada. Em vez disso, deparamos com algo por acidente – na história de Graham, um anúncio
+de rádio ouvido ao acaso ou perguntas do público depois de uma palestra. Se formos
+experientes o bastante e já tiver chegado a hora, o encontro acidental deٽagrará em nossa
+mente algumas associações e ideias interessantes. Ao observar os materiais especíټcos com
+que podemos trabalhar, de repente topamos com outra maneira de usá-los. Ao longo de
+todo o percurso, surgem contingências que revelam diferentes caminhos a serem seguidos,
+que, se nos parecem promissores, passamos a percorrer, sem saber ao certo para onde
+levarão. Em vez de um processo em linha reta da concepção à fruição, a criatividade é mais
+como a copa das árvores, cheia de galhos e ramificações.
+A lição é simples: o que constitui a verdadeira criatividade é a abertura e a adaptabilidade
+do espírito. Quando vemos ou experimentamos algo, é preciso observá-lo de vários ângulos,
+para ver outras possibilidades além das mais óbvias. Imaginamos que os objetos ao nosso
+redor podem ser usados e cooptados para vários propósitos. Não devemos nos prender às
+

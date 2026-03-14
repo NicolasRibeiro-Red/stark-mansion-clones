@@ -1,0 +1,42 @@
+# Data Engineers Inside an Organization
+
+Paginas: 47-47
+
+10 Robert Chang, “Doing Data Science at Twitter,” Medium, June 20, 2015, https://oreil.ly/xqjAx.
+at some critical distinctions in the kinds of work data engineers do. Though these
+distinctions are simplistic, they clarify what data scientists and data engineers do and
+avoid lumping either role into the unicorn bucket.
+In data science, there’s the notion of type A and type B data scientists.10 Type A
+data scientists—where A stands for analysis—focus on understanding and deriving
+insight from data. Type B data scientists—where B stands for building—share similar
+backgrounds as type A data scientists and possess strong programming skills. The
+type B data scientist builds systems that make data science work in production.
+Borrowing from this data scientist continuum, we’ll create a similar distinction for
+two types of data engineers:
+Type A data engineers
+A stands for abstraction. In this case, the data engineer avoids undifferentiated
+heavy lifting, keeping data architecture as abstract and straightforward as pos‐
+sible and not reinventing the wheel. Type A data engineers manage the data
+engineering lifecycle mainly by using entirely off-the-shelf products, managed
+services, and tools. Type A data engineers work at companies across industries
+and at all levels of data maturity.
+Type B data engineers
+B stands for build. Type B data engineers build data tools and systems that
+scale and leverage a company’s core competency and competitive advantage. In
+the data maturity range, a type B data engineer is more commonly found at
+companies in stage 2 and 3 (scaling and leading with data), or when an initial
+data use case is so unique and mission-critical that custom data tools are required
+to get started.
+Type A and type B data engineers may work in the same company and may even
+be the same person! More commonly, a type A data engineer is first hired to set the
+foundation, with type B data engineer skill sets either learned or hired as the need
+arises within a company.
+Data Engineers Inside an Organization
+Data engineers don’t work in a vacuum. Depending on what they’re working on,
+they will interact with technical and nontechnical people and face different directions
+(internal and external). Let’s explore what data engineers do inside an organization
+and with whom they interact.
+22
+|
+Chapter 1: Data Engineering Described
+

@@ -1,0 +1,43 @@
+# Security
+
+Paginas: 355-355
+
+products and apps. A data engineer might work alongside “the business” and techni‐
+cal stakeholders on a data model.
+The data engineer needs to be involved in designing the data model and later updates
+because of changes in business logic or new processes. Transformations are easy
+enough to do; just write a query and plop the results into a table or view. Creating
+them so they’re both performant and valuable to the business is another matter.
+Always keep the requirements and expectations of the business top of mind when
+transforming data.
+The stakeholders of the upstream systems want to make sure your queries and trans‐
+formations minimally impact their systems. Ensure bidirectional communication
+about changes to the data models (column and index changes, for example) in source
+systems, as these can directly impact queries, transformations, and analytical data
+models. Data engineers should know about schema changes, including the addition
+or deletion of fields, data type changes, and anything else that might materially
+impact the ability to query and transform data.
+Downstream Stakeholders
+Transformations are where data starts providing utility to downstream stakeholders.
+Your downstream stakeholders include many people, including data analysts, data
+scientists, ML engineers, and “the business.” Collaborate with them to ensure the
+data model and transformations you provide are performant and useful. In terms of
+performance, queries should execute as quickly as possible in the most cost-effective
+way. What do we mean by useful? Analysts, data scientists, and ML engineers should
+be able to query a data source with the confidence the data is of the highest quality
+and completeness and can be integrated into their workflows and data products. The
+business should be able to trust that transformed data is accurate and actionable.
+Undercurrents
+The transformation stage is where your data mutates and morphs into something
+useful for the business. Because there are many moving parts, the undercurrents are
+especially critical at this stage.
+Security
+Queries and transformations combine disparate datasets into new datasets. Who has
+access to this new dataset? If someone does have access to a dataset, continue to
+control who has access to a dataset’s column, row, and cell-level access.
+Be aware of attack vectors against your database at query time. Read/write privileges
+to the database must be tightly monitored and controlled. Query access to the
+330
+|
+Chapter 8: Queries, Modeling, and Transformation
+

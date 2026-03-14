@@ -1,0 +1,44 @@
+# Direct Network Connections to the Clouds
+
+Paginas: 426-426
+
+hops through routers. Both physical distance and network hops can increase latency
+and decrease performance. Major cloud providers continue to add new regions.
+In general, regions support fast, low-latency networking between zones; networking
+performance between zones will be worse than within a single zone and incur nomi‐
+nal data egress charges between VMs. Network data movement between regions is
+even slower and may incur higher egress fees.
+In general, object storage is a regional resource. Some data may pass between zones to
+reach a virtual machine, but this is mainly invisible to cloud customers, and there are
+no direct networking charges for this. (Of course, customers are still responsible for
+object access costs.)
+Despite regions’ geo-redundant design, many major cloud service failures have affec‐
+ted entire regions, an example of correlated failure. Engineers often deploy code and
+configuration to entire regions; the regional failures we’ve observed have generally
+resulted from code or configuration problems occurring at the regional level.
+GCP-Specific Networking and Multiregional Redundancy
+GCP offers a handful of unique abstractions that engineers should be aware of if they
+work in this cloud. The first is the multiregion, a layer in the resource hierarchy; a
+multiregion contains multiple regions. Current multiregions are US (data centers in
+the United States), EU (data centers in European Union member states), and ASIA.
+Several GCP resources support multiregions, including Cloud Storage and BigQuery.
+Data is stored in multiple zones within the multiregion in a geo-redundant manner so
+that it should remain available in the event of a regional failure. Multiregional storage
+is also designed to deliver data efficiently to users within the multiregion without
+setting up complex replication processes between regions. In addition, there are no
+data egress fees for VMs in a multiregion to access Cloud Storage data in the same
+multiregion.
+Cloud customers can set up multiregional infrastructure on AWS or Azure. In the
+case of databases or object storage, this involves duplicating data between regions to
+increase redundancy and put data closer to users.
+Google also essentially owns significantly more global-scale networking resources
+than other cloud providers, something it offers to its customers as premium-tier
+networking. Premium-tier networking allows traffic between zones and regions to
+pass entirely over Google-owned networks without traversing the public internet.
+Direct Network Connections to the Clouds
+Each major public cloud offers enhanced connectivity options, allowing customers to
+integrate their networks with a cloud region or VPC directly. For example, Amazon
+Cloud Networking
+|
+401
+

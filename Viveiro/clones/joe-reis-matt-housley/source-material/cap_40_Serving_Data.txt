@@ -1,0 +1,162 @@
+# Serving Data
+
+Paginas: 69-72
+
+12 picture frames from me for $30 each, or $360 in total”). In this case, somebody
+bought 12 picture frames for $30 each. Data modeling is critical for obtaining a clear
+and current picture of business processes. A simple view of raw retail transactions
+might not be useful without adding the logic of accounting rules so that the CFO
+has a clear picture of financial health. Ensure a standard approach for implementing
+business logic across your transformations.
+Data featurization for ML is another data transformation process. Featurization
+intends to extract and enhance data features useful for training ML models. Featuri‐
+zation can be a dark art, combining domain expertise (to identify which features
+might be important for prediction) with extensive experience in data science. For this
+book, the main point is that once data scientists determine how to featurize data,
+featurization processes can be automated by data engineers in the transformation
+stage of a data pipeline.
+Transformation is a profound subject, and we cannot do it justice in this brief intro‐
+duction. Chapter 8 delves into queries, data modeling, and various transformation
+practices and nuances.
+Serving Data
+You’ve reached the last stage of the data engineering lifecycle. Now that the data has
+been ingested, stored, and transformed into coherent and useful structures, it’s time
+to get value from your data. “Getting value” from data means different things to
+different users.
+Data has value when it’s used for practical purposes. Data that is not consumed or
+queried is simply inert. Data vanity projects are a major risk for companies. Many
+companies pursued vanity projects in the big data era, gathering massive datasets in
+data lakes that were never consumed in any useful way. The cloud era is triggering
+a new wave of vanity projects built on the latest data warehouses, object storage
+systems, and streaming technologies. Data projects must be intentional across the
+lifecycle. What is the ultimate business purpose of the data so carefully collected,
+cleaned, and stored?
+Data serving is perhaps the most exciting part of the data engineering lifecycle. This
+is where the magic happens. This is where ML engineers can apply the most advanced
+techniques. Let’s look at some of the popular uses of data: analytics, ML, and reverse
+ETL.
+Analytics
+Analytics is the core of most data endeavors. Once your data is stored and trans‐
+formed, you’re ready to generate reports or dashboards and do ad hoc analysis on the
+data. Whereas the bulk of analytics used to encompass BI, it now includes other facets
+44
+|
+Chapter 2: The Data Engineering Lifecycle
+
+such as operational analytics and embedded analytics (Figure 2-5). Let’s briefly touch
+on these variations of analytics.
+Figure 2-5. Types of analytics
+Business intelligence. BI marshals collected data to describe a business’s past and cur‐
+rent state. BI requires using business logic to process raw data. Note that data serving
+for analytics is yet another area where the stages of the data engineering lifecycle can
+get tangled. As we mentioned earlier, business logic is often applied to data in the
+transformation stage of the data engineering lifecycle, but a logic-on-read approach
+has become increasingly popular. Data is stored in a clean but fairly raw form,
+with minimal postprocessing business logic. A BI system maintains a repository of
+business logic and definitions. This business logic is used to query the data warehouse
+so that reports and dashboards align with business definitions.
+As a company grows its data maturity, it will move from ad hoc data analysis to
+self-service analytics, allowing democratized data access to business users without
+needing IT to intervene. The capability to do self-service analytics assumes that
+data is good enough that people across the organization can simply access it them‐
+selves, slice and dice it however they choose, and get immediate insights. Although
+self-service analytics is simple in theory, it’s tough to pull off in practice. The main
+reason is that poor data quality, organizational silos, and a lack of adequate data skills
+often get in the way of allowing widespread use of analytics.
+Operational analytics. Operational analytics focuses on the fine-grained details of
+operations, promoting actions that a user of the reports can act upon immediately.
+Operational analytics could be a live view of inventory or real-time dashboarding of
+website or application health. In this case, data is consumed in real time, either
+directly from a source system or from a streaming data pipeline. The types of
+insights in operational analytics differ from traditional BI since operational analytics
+is focused on the present and doesn’t necessarily concern historical trends.
+Embedded analytics. You may wonder why we’ve broken out embedded analytics
+(customer-facing analytics) separately from BI. In practice, analytics provided to
+customers on a SaaS platform come with a separate set of requirements and
+What Is the Data Engineering Lifecycle?
+|
+45
+
+complications. Internal BI faces a limited audience and generally presents a limited
+number of unified views. Access controls are critical but not particularly complicated.
+Access is managed using a handful of roles and access tiers.
+With embedded analytics, the request rate for reports, and the corresponding bur‐
+den on analytics systems, goes up dramatically; access control is significantly more
+complicated and critical. Businesses may be serving separate analytics and data to
+thousands or more customers. Each customer must see their data and only their
+data. An internal data-access error at a company would likely lead to a procedural
+review. A data leak between customers would be considered a massive breach of trust,
+leading to media attention and a significant loss of customers. Minimize your blast
+radius related to data leaks and security vulnerabilities. Apply tenant- or data-level
+security within your storage and anywhere there’s a possibility of data leakage.
+Multitenancy
+Many current storage and analytics systems support multitenancy in various ways.
+Data engineers may choose to house data for many customers in common tables to
+allow a unified view for internal analytics and ML. This data is presented externally
+to individual customers through logical views with appropriately defined controls and
+filters. It is incumbent on data engineers to understand the minutiae of multitenancy
+in the systems they deploy to ensure absolute data security and isolation.
+Machine learning
+The emergence and success of ML is one of the most exciting technology revolutions.
+Once organizations reach a high level of data maturity, they can begin to identify
+problems amenable to ML and start organizing a practice around it.
+The responsibilities of data engineers overlap significantly in analytics and ML, and
+the boundaries between data engineering, ML engineering, and analytics engineering
+can be fuzzy. For example, a data engineer may need to support Spark clusters that
+facilitate analytics pipelines and ML model training. They may also need to provide
+a system that orchestrates tasks across teams and support metadata and cataloging
+systems that track data history and lineage. Setting these domains of responsibility
+and the relevant reporting structures is a critical organizational decision.
+The feature store is a recently developed tool that combines data engineering and
+ML engineering. Feature stores are designed to reduce the operational burden for
+ML engineers by maintaining feature history and versions, supporting feature sharing
+among teams, and providing basic operational and orchestration capabilities, such as
+backfilling. In practice, data engineers are part of the core support team for feature
+stores to support ML engineering.
+46
+|
+Chapter 2: The Data Engineering Lifecycle
+
+Should a data engineer be familiar with ML? It certainly helps. Regardless of the
+operational boundary between data engineering, ML engineering, business analytics,
+and so forth, data engineers should maintain operational knowledge about their
+teams. A good data engineer is conversant in the fundamental ML techniques
+and related data-processing requirements, the use cases for models within their
+company, and the responsibilities of the organization’s various analytics teams. This
+helps maintain efficient communication and facilitate collaboration. Ideally, data
+engineers will build tools in partnership with other teams that neither team can make
+independently.
+This book cannot possibly cover ML in depth. A growing ecosystem of books, videos,
+articles, and communities is available if you’re interested in learning more; we include
+a few suggestions in “Additional Resources” on page 69.
+The following are some considerations for the serving data phase specific to ML:
+• Is the data of sufficient quality to perform reliable feature engineering? Quality
+•
+requirements and assessments are developed in close collaboration with teams
+consuming the data.
+• Is the data discoverable? Can data scientists and ML engineers easily find valua‐
+•
+ble data?
+• Where are the technical and organizational boundaries between data engineering
+•
+and ML engineering? This organizational question has significant architectural
+implications.
+• Does the dataset properly represent ground truth? Is it unfairly biased?
+•
+While ML is exciting, our experience is that companies often prematurely dive into
+it. Before investing a ton of resources into ML, take the time to build a solid data
+foundation. This means setting up the best systems and architecture across the data
+engineering and ML lifecycle. It’s generally best to develop competence in analytics
+before moving to ML. Many companies have dashed their ML dreams because they
+undertook initiatives without appropriate foundations.
+Reverse ETL
+Reverse ETL has long been a practical reality in data, viewed as an antipattern that
+we didn’t like to talk about or dignify with a name. Reverse ETL takes processed data
+from the output side of the data engineering lifecycle and feeds it back into source
+systems, as shown in Figure 2-6. In reality, this flow is beneficial and often necessary;
+reverse ETL allows us to take analytics, scored models, etc., and feed these back into
+production systems or SaaS platforms.
+What Is the Data Engineering Lifecycle?
+|
+47
+

@@ -1,0 +1,84 @@
+# Indexes, Partitioning, and Clustering
+
+Paginas: 238-239
+
+well-known scaling and locking limitations, especially for analytics queries that run
+across large volumes of data. While scalable versions of row-oriented transactional
+databases have overcome some of these limitations, they are still not truly optimized
+for analytics at scale.
+Indexes, Partitioning, and Clustering
+Indexes provide a map of the table for particular fields and allow extremely fast
+lookup of individual records. Without indexes, a database would need to scan an
+entire table to find the records satisfying a WHERE condition.
+In most RDBMSs, indexes are used for primary table keys (allowing unique identifi‐
+cation of rows) and foreign keys (allowing joins with other tables). Indexes can also
+be applied to other columns to serve the needs of specific applications. Using indexes,
+an RDBMS can look up and update thousands of rows per second.
+We do not cover transactional database records in depth in this book; numerous tech‐
+nical resources are available on this topic. Rather, we are interested in the evolution
+away from indexes in analytics-oriented storage systems and some new developments
+in indexes for analytics use cases.
+The evolution from rows to columns
+An early data warehouse was typically built on the same type of RDBMS used for
+transactional applications. The growing popularity of MPP systems meant a shift
+toward parallel processing for significant improvements in scan performance across
+large quantities of data for analytics purposes. However, these row-oriented MPPs
+still used indexes to support joins and condition checking.
+In “Raw Ingredients of Data Storage” on page 191, we discuss columnar serialization.
+Columnar serialization allows a database to scan only the columns required for a
+particular query, sometimes dramatically reducing the amount of data read from the
+disk. In addition, arranging data by column packs similar values next to each other,
+yielding high-compression ratios with minimal compression overhead. This allows
+data to be scanned more quickly from disk and over a network.
+Columnar databases perform poorly for transactional use cases—i.e., when we try to
+look up large numbers of individual rows asynchronously. However, they perform
+extremely well when large quantities of data must be scanned—e.g., for complex
+data transformations, aggregations, statistical calculations, or evaluation of complex
+conditions on large datasets.
+In the past, columnar databases performed poorly on joins, so the advice for
+data engineers was to denormalize data, using wide schemas, arrays, and nested
+data wherever possible. Join performance for columnar databases has improved
+dramatically in recent years, so while there can still be performance advantages in
+Data Storage Systems
+|
+213
+
+2 Benoit Dageville, “The Snowflake Elastic Data Warehouse,” SIGMOD ’16: Proceedings of the 2016 International
+Conference on Management of Data (June 2016): 215–226, https://oreil.ly/Tc1su.
+denormalization, this is no longer a necessity. You’ll learn more about normalization
+and denormalization in Chapter 8.
+From indexes to partitions and clustering
+While columnar databases allow for fast scan speeds, it’s still helpful to reduce the
+amount of data scanned as much as possible. In addition to scanning only data in
+columns relevant to a query, we can partition a table into multiple subtables by
+splitting it on a field. It is quite common in analytics and data science use cases to
+scan over a time range, so date- and time-based partitioning is extremely common.
+Columnar databases generally support a variety of other partition schemes as well.
+Clusters allow finer-grained organization of data within partitions. A clustering
+scheme applied within a columnar database sorts data by one or a few fields, colocat‐
+ing similar values. This improves performance for filtering, sorting, and joining these
+values.
+Example: Snowflake micro-partitioning
+We mention Snowflake micro-partitioning because it’s a good example of recent
+developments and evolution in approaches to columnar storage. Micro partitions are
+sets of rows between 50 and 500 megabytes in uncompressed size. Snowflake uses an
+algorithmic approach that attempts to cluster together similar rows. This contrasts
+the traditional naive approach to partitioning on a single designated field, such as a
+date. Snowflake specifically looks for values that are repeated in a field across many
+rows. This allows aggressive pruning of queries based on predicates. For example, a
+WHERE clause might stipulate the following:
+WHERE created_date='2022-01-02'
+In such a query, Snowflake excludes any micro-partitions that don’t include this date,
+effectively pruning this data. Snowflake also allows overlapping micro-partitions,
+potentially partitioning on multiple fields showing significant repeats.
+Efficient pruning is facilitated by Snowflake’s metadata database, which stores a
+description of each micro-partition, including the number of rows and value ranges
+for fields. At each query stage, Snowflake analyzes micro-partitions to determine
+which ones need to be scanned. Snowflake uses the term hybrid columnar storage,2
+partially referring to the fact that its tables are broken into small groups of rows, even
+though storage is fundamentally columnar. The metadata database plays a role similar
+to an index in a traditional relational database.
+214
+|
+Chapter 6: Storage
+

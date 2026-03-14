@@ -1,0 +1,162 @@
+# 3. Inteligência mecânica
+
+Paginas: 197-200
+
+3. Inteligência mecânica
+Desde os primeiros anos de vida, os irmãos Wilbur Wright (1867-1912) e Orville Wright
+(1871-1948) demonstraram interesse um tanto inusitado pelo funcionamento das partes de
+qualquer dispositivo, em especial dos brinquedos complicados que o pai trazia para casa após
+suas viagens como bispo de uma igreja evangélica. Os dois desmontavam os brinquedos,
+ávidos por descobrir o que os fazia funcionar. Depois os montavam de novo, sempre com
+alguma modificação.
+Embora os garotos fossem bons alunos, não concluíram o ensino médio. Queriam viver em
+um mundo de máquinas, e o único conhecimento que os interessava era o que se relacionava
+com o projeto e a construção de algum novo dispositivo. Eram extremamente práticos.
+Em 1888, o pai precisou imprimir com urgência um folheto. Para ajudá-lo, os irmãos
+montaram às pressas uma pequena prensa, usando as dobradiças da capota de uma velha
+carroça, molas enferrujadas e outras peças de sucata. A máquina trabalhou muito bem.
+Inspirados pelo sucesso, melhoraram o projeto, usando peças melhores, e abriram a própria
+gráټca. Quem conhecia o negócio maravilhou-se com aquela estranha máquina que os
+irmãos haviam arranjado, capaz de imprimir mil páginas por hora, o dobro da produção
+normal.
+Os dois, porém, tinham um espírito inquieto. Precisavam de desaټos constantes, e, em
+1892, Orville descobriu a válvula de escape perfeita para a criatividade deles. Com a
+invenção da bicicleta segura (a primeira com duas rodas do mesmo tamanho), os Estados
+Unidos foram arrebatados pela febre do ciclismo. Os irmãos compraram as próprias
+bicicletas, participaram de corridas e ټcaram fanáticos pelo esporte. Em pouco tempo,
+estavam desmontando suas bicicletas e fazendo pequenos ajustes. Depois de vê-los
+trabalhando no quintal, amigos e conhecidos passaram a trazer suas bicicletas para que eles
+as consertassem. Em poucos meses passaram a dominar a tecnologia das bicicletas e
+resolveram abrir a própria oټcina, em Dayton, Ohio, sua cidade natal, onde vendiam,
+consertavam e até modificavam os modelos mais recentes.
+Aquela parecia ser a combinação perfeita para as suas habilidades. Podiam fazer várias
+mudanças nas bicicletas, levá-las para testes, sentir o que funcionava ou não e, então,
+aprimorá-las. Empenhavam-se em tornar as bicicletas mais manejáveis e aerodinâmicas,
+mudanças que alteravam qualitativamente a experiência de pedalar e proporcionavam ao
+ciclista o sentimento de exercer completo controle. Insatisfeitos com os designs existentes,
+resolveram que o passo seguinte seria construir estruturas de alumínio e desenhar as próprias
+bicicletas personalizadas. No entanto, esse passo seria um grande desaټo, pois exigiria meses
+de aprendizado para ser capaz de produzir estruturas adequadas. O menor erro poderia
+causar os mais terríveis acidentes. No esforço para aprender o ofício, compraram muitas das
+mais recentes ferramentas, construíram o próprio motor de um cilindro para movimentá-las
+e logo se tornaram mestres em bicicletas. Quem pedalava as bicicletas dos irmãos Wright
+sentia de imediato a superioridade daquela versão, cujas melhorias tecnológicas em breve se
+
+tornariam padrão da indústria.
+Em 1896, ao convalescer de uma lesão, Wilbur leu um artigo que o assediaria durante
+anos. Referia-se à morte de Otto Lilienthal, importante projetista de planadores e especialista
+em aviação, na época em plena expansão. Ele morrera num acidente com seu mais novo
+planador. A fotograټa dos planadores que Otto havia produzido, todos em funcionamento,
+surpreenderam Wilbur – pareciam as asas de uma ave pré-histórica gigantesca. Por ser um
+homem de visão, Wilbur podia imaginar a sensação de voar por conta própria, e a ideia o
+empolgou. Mas o que mais o surpreendeu no artigo foi que, ao longo de muitos anos de voos
+de teste, talvez na casa das centenas, Lilienthal nunca conseguira voar tempo suټciente para
+sentir a necessidade de melhorias, o que provavelmente causara sua morte.
+Vários anos depois, os jornais estavam cheios de histórias sobre os novos pioneiros da
+aviação, muitos dos quais pareciam se aproximar do objetivo de construir a aguardada
+máquina voadora motorizada. Agora o esforço se convertera em corrida para ser o primeiro a
+alcançar o sucesso. Como sua curiosidade sobre o assunto era cada vez maior, Wilbur
+decidiu escrever para o Instituto Smithsonian, em Washington, pedindo todas as
+informações disponíveis sobre aeronáutica e máquinas voadoras. Nos meses seguintes, ele se
+debruçou sobre o material, estudando a física e a matemática por trás dos voos, os desenhos
+de Leonardo da Vinci e os planadores do século XIX. Por ټm, acrescentou à lista de leitura
+livros sobre pássaros, que ele agora começava a observar e a estudar. E quanto mais lia, mais
+o dominava a estranha sensação de que ele e o irmão de fato poderiam ganhar a corrida.
+À primeira vista, parecia uma ideia absurda. Os homens que atuavam naquele novo campo
+eram todos especialistas, com incrível conhecimento técnico, alguns com títulos universitários
+impressionantes. Projetar e construir máquinas voadoras era um empreendimento caro, que
+poderia chegar a milhares de dólares e resultar em nada mais que outro acidente. O favorito
+para ganhar a corrida era Samuel Langley, secretário do Instituto Smithsonian, que contava
+com enormes subsídios do governo para realizar seu trabalho e já havia produzido com
+sucesso um modelo não tripulado, movido a vapor. Os irmãos eram de origem modesta, e o
+único dinheiro que tinham era o pequeno lucro da oټcina de bicicletas. Mas o que faltava a
+todos os outros, na opinião de Wilbur, era um mínimo de bom senso.
+Esses aviadores partiam da premissa de que o importante era pôr uma máquina no ar
+usando algum tipo de motor poderoso, e cuidariam do resto depois que conseguissem voar.
+A proeza em si, de voar com algo mais pesado que o ar, impressionaria o público, chamaria a
+atenção e atrairia apoio ټnanceiro. Essa abordagem resultou em muitos acidentes; em
+redesenhos constantes, na busca do motor perfeito e de novos materiais; e em muitos
+desastres. Não estavam chegando a lugar algum, e a explicação era simples. Como Wilbur
+sabia, o segredo para construir algo corretamente é a repetição. Apenas pondo as mãos nas
+bicicletas, desmontando-as, montando-as de novo e aprimorando-as, para depois pedalá-las
+e sentir como funcionavam, é que os irmãos foram capazes de projetar uma variedade
+superior de bicicleta. Como os projetistas das máquinas voadoras não conseguiam mantê-las
+
+no ar por mais de um minuto, eles estavam presos em um círculo vicioso – nunca voavam
+tempo suټciente para aprender a voar e para testar adequadamente seus projetos ou sentir
+como funcionavam. Em consequência, estavam fadados ao fracasso.
+Wilbur ټcou chocado com outra grande falha que detectou no pensamento deles: todos
+valorizavam em excesso a importância da estabilidade. Pensavam em termos de um navio
+ٽutuando no ar. Os navios são concebidos para manter o equilíbrio e para se movimentar da
+forma mais estável e direta possível; na água, balançar de um lado para outro é muito
+perigoso. Com base nessa analogia, os primeiros aeronautas resolveram desenhar as asas de
+suas máquinas voadoras em forma de V, para compensar rajadas de vento súbitas e manter a
+aeronave em linha reta. Mas Wilbur sentiu que raciocinar em termos de navios era uma
+analogia imprópria. Em vez disso, muito mais adequado era pensar em termos de bicicleta. A
+bicicleta é inerentemente instável. O ciclista deve aprender depressa a manter a bicicleta em
+posição segura e a dirigi-la da maneira certa, inclinando-se para os lados. O piloto de uma
+máquina voadora, imaginou, deveria ser capaz de inclinar e de virar para a direita ou para a
+esquerda, de subir e de descer, em vez de se manter em linha horizontal rígida, como um
+navio. Tentar livrar a máquina dos efeitos do vento era de fato muito perigoso, pois
+eliminaria a capacidade do piloto de se ajustar.
+Com esse conhecimento, foi muito fácil para Wilbur convencer o irmão de que a máquina
+voadora deveria ser seu próximo e grande desaټo. Teriam que usar os lucros esparsos da
+oټcina de bicicletas para ټnanciar o projeto. Isso os obrigaria a ser criativos, usando peças de
+sucata e nunca tentando nada além de seus meios. Em vez de começar com um dispositivo
+grandioso para testar suas ideias, precisariam desenvolver lentamente o projeto perfeito,
+como haviam feito com a prensa tipográfica e com a bicicleta.
+Resolveram, então, começar da maneira mais modesta possível. Desenharam várias pipas
+ou papagaios, a ټm de determinar qual seria o melhor formato. Depois, baseados no que já
+tinham aprendido, confeccionaram o planador em si. Queriam aprender a voar. O método
+costumeiro de lançar um planador do alto de uma montanha era muito perigoso. Em vez
+disso, decidiram transferir seus experimentos para Kitty Hawk, Carolina do Norte, cidade
+conhecida por ter os ventos mais fortes dos Estados Unidos. Ali, nas dunas de areia,
+poderiam alçar voo de pequenas elevações, voar bem perto do chão e aterrissar suavemente
+no solo de areia macia. Só no ano de 1900 realizaram mais voos de teste do que Lilienthal
+tentara ao longo de muitos anos. Aos poucos, aperfeiçoaram o projeto e melhoraram os
+materiais e a conټguração – por exemplo, aprenderam a fazer asas mais longas e ټnas, para
+melhorar a sustentação. Em 1903, tinham um planador que se sustentava no ar por longas
+distâncias, com notável controle de curvas e de inclinações. Era de fato uma bicicleta
+voadora.
+Agora era a hora de dar o passo ټnal – acrescentar o motor e as hélices ao planador. Como
+antes, examinaram os projetos dos rivais e perceberam outra deټciência: eles haviam
+modelado as hélices com base nas de barcos, mais uma vez optando pela estabilidade.
+
+Fundamentados em suas próprias pesquisas, os irmãos concluíram que as lâminas deveriam
+ser arqueadas, como as asas das aves – o que daria mais impulso à aeronave. Na tentativa de
+adquirir o motor mais leve para impulsionar a máquina, concluíram que o que queriam
+estava muito acima de seu orçamento. Assim, com a ajuda de um mecânico na oټcina,
+construíram o próprio motor. No total, o custo de sua máquina voadora foi de mil dólares –
+muito menos que qualquer um dos projetos dos concorrentes.
+Em 17 de dezembro de 1903, Wilbur pilotou a máquina voadora em Kitty Hawk durante
+nada menos que 59 segundos – o primeiro voo autopropulsionado, tripulado e controlado
+pelo homem. Ao longo dos anos, os irmãos melhoraram o projeto e aumentaram o tempo de
+voo. Para os outros concorrentes da corrida, foi um mistério completo como dois homens
+sem nenhuma experiência em engenharia ou aeronáutica, e sem apoio ټnanceiro de
+qualquer espécie, conseguiram chegar primeiro.
+O desenvolvimento do avião representa uma das maiores realizações tecnológicas da
+humanidade, com profundas ramiټcações para o futuro. Simplesmente não havia precedente
+ou modelo em que basear a máquina voadora. Era o mais autêntico enigma, para cuja
+solução se precisava do mais alto grau de engenhosidade.
+Na história de sua invenção, podem-se observar duas abordagens radicalmente diferentes.
+De um lado, havia um grande grupo de engenheiros e projetistas, com formação em ciências,
+que viam o problema em termos abstratos: como lançar e impulsionar a máquina, como
+superar a resistência do vento, e assim por diante. Eles se concentraram na tecnologia e se
+empenharam em construir as partes mais eټcientes – os motores mais potentes, as asas mais
+bem desenhadas, tudo isso baseado em complexas pesquisas de laboratório. Dinheiro não
+era problema. O processo dependia de especialização – indivíduos que focavam em
+diferentes partes e que se especializavam em diversos materiais. Em muitos casos, o projetista
+acabava não sendo o piloto; outra pessoa fazia os voos de teste.
+Do outro lado, estavam dois irmãos cuja origem era completamente diferente. Para eles, o
+prazer e a empolgação do projeto estava em fazer tudo por conta própria. Desenharam a
+máquina, construíram-na e pilotaram-na. O modelo dependia não de tecnologia superior,
+mas, sim, do maior número de testes, gerando uma curva de aprendizado ótima. O processo
+revelava falhas a serem superadas e desenvolvia neles sensibilidade em relação ao produto,
+algo que jamais poderia ser obtido por raciocínio abstrato. A ênfase se deslocava das partes
+para a experiência de voo total; da potência para o controle. Como o dinheiro era um
+importante fator restritivo, atribuíram grande importância à capacidade de extrair o máximo
+do mínimo.
+As diferenças entre as duas abordagens ټcam claras nas analogias que escolheram como
+base dos projetos. Os pensadores abstratos optaram pela analogia com o navio, trabalhando
+com as semelhanças da navegação em meio estranho (água ou ar), o que os levava a dar
+

@@ -1,0 +1,36 @@
+# Web Scraping
+
+Paginas: 285-285
+
+consumer is responsible for ingesting each request and handling data aggregation,
+storage, and processing.
+Figure 7-15. A basic webhook ingestion architecture built from cloud services
+Webhook-based data ingestion architectures can be brittle, difficult to maintain,
+and inefficient. Using appropriate off-the-shelf tools, data engineers can build more
+robust webhook architectures with lower maintenance and infrastructure costs. For
+example, a webhook pattern in AWS might use a serverless function framework
+(Lambda) to receive incoming events, a managed event-streaming platform to store
+and buffer messages (Kinesis), a stream-processing framework to handle real-time
+analytics (Flink), and an object store for long-term storage (S3).
+You’ll notice that this architecture does much more than simply ingest the data. This
+underscores ingestion’s entanglement with the other stages of the data engineering
+lifecycle; it is often impossible to define your ingestion architecture without making
+decisions about storage and processing.
+Web Interface
+Web interfaces for data access remain a practical reality for data engineers. We fre‐
+quently run into situations where not all data and functionality in a SaaS platform is
+exposed through automated interfaces such as APIs and file drops. Instead, someone
+must manually access a web interface, generate a report, and download a file to a local
+machine. This has obvious drawbacks, such as people forgetting to run the report or
+having their laptop die. Where possible, choose tools and workflows that allow for
+automated access to data.
+Web Scraping
+Web scraping automatically extracts data from web pages, often by combing the web
+page’s various HTML elements. You might scrape ecommerce sites to extract product
+pricing information or scrape multiple news sites for your news aggregator. Web
+scraping is widespread, and you may encounter it as a data engineer. It’s also a murky
+area where ethical and legal lines are blurry.
+260
+|
+Chapter 7: Ingestion
+

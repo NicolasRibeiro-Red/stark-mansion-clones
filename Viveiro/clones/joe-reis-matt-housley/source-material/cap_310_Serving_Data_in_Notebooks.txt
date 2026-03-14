@@ -1,0 +1,73 @@
+# Serving Data in Notebooks
+
+Paginas: 381-382
+
+4 Benn Stancil, “The Missing Piece of the Modern Data Stack,” benn.substack, April 22, 2021,
+https://oreil.ly/wQyPb.
+5 Srini Kadamati, “Understanding the Superset Semantic Layer,” Preset blog, December 21, 2021,
+https://oreil.ly/6smWC.
+Fundamentally, a metrics layer is a tool for maintaining and computing business
+logic.4 (A semantic layer is extremely similar conceptually,5 and headless BI is another
+closely related term.) This layer can live in a BI tool or in software that builds
+transformation queries. Two concrete examples are Looker and Data Build Tool (dbt).
+For instance, Looker’s LookML allows users to define virtual, complex business logic.
+Reports and dashboards point to specific LookML for computing metrics. Looker
+allows users to define standard metrics and reference them in many downstream
+queries; this is meant to solve the traditional problem of repetition and inconsistency
+in traditional ETL scripts. Looker uses LookML to generate SQL queries, which are
+pushed down to the database. Results can be persisted in the Looker server or in the
+database itself for large result sets.
+dbt allows users to define complex SQL data flows encompassing many queries and
+standard definitions of business metrics, much like Looker. Unlike Looker, dbt runs
+exclusively in the transform layer, although this can include pushing queries into
+views that are computed at query time. Whereas Looker focuses on serving queries
+and reporting, dbt can serve as a robust data pipeline orchestration tool for analytics
+engineers.
+We believe that metrics layer tools will grow more popular with wider adoption and
+more entrants, as well as move upstream toward the application. Metrics layer tools
+help solve a central question in analytics that has plagued organizations since people
+have analyzed data: “Are these numbers correct?” Many new entrants are in the space
+beside the ones we’ve mentioned.
+Serving Data in Notebooks
+Data scientists often use notebooks in their day-to-day work. Whether it’s exploring
+data, engineering features, or training a model, the data scientist will likely use a
+notebook. At this writing, the most popular notebook platform is Jupyter Notebook,
+along with its next-generation iteration, JupyterLab. Jupyter is open source and can
+be hosted locally on a laptop, on a server, or through various cloud-managed services.
+Jupyter stands for Julia, Python, and R —the latter two are popular for data science
+applications, especially notebooks. Regardless of the language used, the first thing
+you’ll need to consider is how data can be accessed from a notebook.
+Data scientists will programmatically connect to a data source, such as an API, a
+database, a data warehouse, or a data lake (Figure 9-4). In a notebook, all connections
+356
+|
+Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
+
+are created using the appropriate built-in or imported libraries to load a file from a
+filepath, connect to an API endpoint, or make an ODBC connection to a database.
+A remote connection may require the correct credentials and privileges to establish
+a connection. Once connected, a user may need the correct access to tables (and
+rows/columns) or files stored in object storage. The data engineer will often assist
+the data scientist in finding the right data and then ensure that they have the right
+permissions to access the rows and columns required.
+Let’s look at an incredibly common workflow for data scientists: running a local
+notebook and loading data into a pandas dataframe. Pandas is a prevalent Python
+library used for data manipulation and analysis and is commonly used to load data
+(say, a CSV file) into a Jupyter notebook. When pandas loads a dataset, it stores this
+dataset in memory.
+Figure 9-4. A notebook can be served data from many sources, such as object storage or
+a database, data warehouse, or data lake
+Credential Handling
+Incorrectly handled credentials in notebooks and data science code are a major
+security risk; we constantly see credentials mishandled in this domain. It is common
+to embed credentials directly in code, where they often leak into version control
+repos. Credentials are also frequently passed around through messages and email.
+We encourage data engineers to audit data science security practices and work collab‐
+oratively on improvements. Data scientists are highly receptive to these conversations
+if they are given alternatives. Data engineers should set standards for handling cre‐
+dentials. Credentials should never be embedded in code; ideally, data scientists use
+credential managers or CLI tools to manage access.
+Ways to Serve Data for Analytics and ML
+|
+357
+

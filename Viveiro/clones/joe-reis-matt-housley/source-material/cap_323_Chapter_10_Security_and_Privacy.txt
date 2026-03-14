@@ -1,0 +1,34 @@
+# Chapter 10. Security and Privacy
+
+Paginas: 394-394
+
+CHAPTER 10
+Security and Privacy
+Now that you’ve learned about the data engineering lifecycle, we’d like to reiterate the
+importance of security and share some straightforward practices you can incorporate
+in your day-to-day workflow. Security is vital to the practice of data engineering.
+This should be blindingly obvious, but we’re constantly amazed at how often data
+engineers view security as an afterthought. We believe that security is the first thing a
+data engineer needs to think about in every aspect of their job and every stage of the
+data engineering lifecycle. You deal with sensitive data, information, and access daily.
+Your organization, customers, and business partners expect these valuable assets to
+be handled with the utmost care and concern. One security breach or a data leak can
+leave your business dead in the water; your career and reputation are ruined if it’s
+your fault.
+Security is a key ingredient for privacy. Privacy has long been critical to trust in the
+corporate information technology space; engineers directly or indirectly handle data
+related to people’s private lives. This includes financial information, data on private
+communications (emails, texts, phone calls), medical history, educational records,
+and job history. A company that leaked this information or misused it could find
+itself a pariah when the breach came to light.
+Increasingly, privacy is a matter of significant legal importance. For example, the
+Family Educational Rights and Privacy Act (FERPA) went into effect in the US in the
+1970s; the Health Insurance Portability and Accountability Act (HIPAA) followed in
+the 1990s; GDPR was passed in Europe in the mid-2010s. Several US-based privacy
+bills have passed or will soon. This is just a tiny sampling of privacy-related statutes
+(and we believe just the beginning). Still, the penalties for violation of any of these
+laws can be significant, even devastating, to a business. And because data systems are
+woven into the fabric of education, health care, and business, data engineers handle
+sensitive data related to each of these laws.
+369
+

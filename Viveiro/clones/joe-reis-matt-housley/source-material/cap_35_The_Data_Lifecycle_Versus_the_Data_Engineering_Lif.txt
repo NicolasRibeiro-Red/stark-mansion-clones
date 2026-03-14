@@ -1,0 +1,29 @@
+# The Data Lifecycle Versus the Data Engineering Lifecycle
+
+Paginas: 59-59
+
+Figure 2-1. Components and undercurrents of the data engineering lifecycle
+We begin the data engineering lifecycle by getting data from source systems and
+storing it. Next, we transform the data and then proceed to our central goal, serving
+data to analysts, data scientists, ML engineers, and others. In reality, storage occurs
+throughout the lifecycle as data flows from beginning to end—hence, the diagram
+shows the storage “stage” as a foundation that underpins other stages.
+In general, the middle stages—storage, ingestion, transformation—can get a bit jum‐
+bled. And that’s OK. Although we split out the distinct parts of the data engineering
+lifecycle, it’s not always a neat, continuous flow. Various stages of the lifecycle may
+repeat themselves, occur out of order, overlap, or weave together in interesting and
+unexpected ways.
+Acting as a bedrock are undercurrents (Figure 2-1, bottom) that cut across multiple
+stages of the data engineering lifecycle: security, data management, DataOps, data
+architecture, orchestration, and software engineering. No part of the data engineering
+lifecycle can adequately function without these undercurrents.
+The Data Lifecycle Versus the Data Engineering Lifecycle
+You may be wondering about the difference between the overall data lifecycle and
+the data engineering lifecycle. There’s a subtle distinction between the two. The data
+engineering lifecycle is a subset of the whole data lifecycle (Figure 2-2). Whereas the
+full data lifecycle encompasses data across its entire lifespan, the data engineering
+lifecycle focuses on the stages a data engineer controls.
+34
+|
+Chapter 2: The Data Engineering Lifecycle
+

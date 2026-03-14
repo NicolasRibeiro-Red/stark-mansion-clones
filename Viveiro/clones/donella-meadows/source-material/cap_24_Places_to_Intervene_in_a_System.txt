@@ -1,0 +1,39 @@
+# Places to Intervene in a System
+
+Paginas: 183-183
+
+Rule Beating
+Trap: Rules to govern a system can lead to rule-beating—perverse behavior
+that gives the appearance of obeying the rules or achieving the goals, but that
+actually distorts the system.
+The Way Out: Design, or redesign, rules to release creativity not in the
+direction of beating the rules, but in the direction of achieving the purpose of the
+rules.
+Seeking the Wrong Goal
+Trap: System behavior is particularly sensitive to the goals of feedback loops.
+If the goals—the indicators of satisfaction of the rules—are defined inaccurately
+or incompletely, the system may obediently work to produce a result that is not
+really intended or wanted.
+The Way Out: Specify indicators and goals that reflect the real welfare of the
+system. Be especially careful not to confuse effort with result or you will end up
+with a system that is producing effort, not result.
+Places to Intervene in a System (in increasing order of
+effectiveness)
+12. Numbers: Constants and parameters such as subsidies, taxes, and
+standards
+11. Buffers: The sizes of stabilizing stocks relative to their flows
+10. Stock-and-Flow Structures: Physical systems and their nodes of
+intersection
+9. Delays: The lengths of time relative to the rates of system changes
+8. Balancing Feedback Loops: The strength of the feedbacks relative to the
+impacts they are trying to correct
+7. Reinforcing Feedback Loops: The strength of the gain of driving loops
+6. Information Flows: The structure of who does and does not have access
+to information
+5. Rules: Incentives, punishments, constraints
+4. Self-Organization: The power to add, change, or evolve system structure
+3. Goals: The purpose of the system
+2. Paradigms: The mind-set out of which the system—its goals, structure,
+rules, delays, parameters—arises
+1. Transcending Paradigms
+

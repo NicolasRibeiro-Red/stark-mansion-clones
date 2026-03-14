@@ -1,0 +1,65 @@
+# Row-Based Serialization
+
+Paginas: 416-417
+
+APPENDIX A
+Serialization and Compression
+Technical Details
+Data engineers working in the cloud are generally freed from the complexities of
+managing object storage systems. Still, they need to understand details of serialization
+and deserialization formats. As we mentioned in Chapter 6 about storage raw ingre‐
+dients, serialization and compression algorithms go hand in hand.
+Serialization Formats
+Many serialization algorithms and formats are available to data engineers. While the
+abundance of options is a significant source of pain in data engineering, they are
+also a massive opportunity for performance improvements. We’ve sometimes seen
+job performance improve by a factor of 100 simply by switching from CSV to Parquet
+serialization. As data moves through a pipeline, engineers will also manage reseriali‐
+zation—conversion from one format to another. Sometimes data engineers have no
+choice but to accept data in an ancient, nasty form; they must design processes to
+deserialize this format and handle exceptions, and then clean up and convert data for
+consistent, fast downstream processing and consumption.
+Row-Based Serialization
+As its name suggests, row-based serialization organizes data by row. CSV format is
+an archetypal row-based format. For semistructured data (data objects that support
+nesting and schema variation), row-oriented serialization entails storing each object
+as a unit.
+391
+
+CSV: The nonstandard standard
+We discussed CSV in Chapter 7. CSV is a serialization format that data engineers love
+to hate. The term CSV is essentially a catchall for delimited text, but there is flexibility
+in conventions of escaping, quote characters, delimiter, and more.
+Data engineers should avoid using CSV files in pipelines because they are highly
+error-prone and deliver poor performance. Engineers are often required to use CSV
+format to exchange data with systems and business processes outside their control.
+CSV is a common format for data archival. If you use CSV for archival, include a
+complete technical description of the serialization configuration for your files so that
+future consumers can ingest the data.
+XML
+Extensible Markup Language (XML) was popular when HTML and the internet were
+new, but it is now viewed as legacy; it is generally slow to deserialize and serialize for
+data engineering applications. XML is another standard that data engineers are often
+forced to interact with as they exchange data with legacy systems and software. JSON
+has largely replaced XML for plain-text object serialization.
+JSON and JSONL
+JavaScript Object Notation (JSON) has emerged as the new standard for data
+exchange over APIs, and it has also become an extremely popular format for data
+storage. In the context of databases, the popularity of JSON has grown apace with
+the rise of MongoDB and other document stores. Databases such as Snowflake,
+BigQuery, and SQL Server also offer extensive native support, facilitating easy data
+exchange between applications, APIs, and database systems.
+JSON Lines (JSONL) is a specialized version of JSON for storing bulk semistructured
+data in files. JSONL stores a sequence of JSON objects, with objects delimited by
+line breaks. From our perspective, JSONL is an extremely useful format for storing
+data right after it is ingested from API or applications. However, many columnar
+formats offer significantly better performance. Consider moving to another format
+for intermediate pipeline stages and serving.
+Avro
+Avro is a row-oriented data format designed for RPCs and data serialization. Avro
+encodes data into a binary format, with schema metadata specified in JSON. Avro is
+popular in the Hadoop ecosystem and is also supported by various cloud data tools.
+392
+|
+Appendix A: Serialization and Compression Technical Details
+

@@ -1,0 +1,797 @@
+# 9. É mais fácil comprar e vender do que fritar um ovo
+
+Paginas: 158-179
+
+9. É mais fácil comprar e vender do
+que fritar um ovo
+Hoje à tarde tenho uma consulta marcada no dentista (que estará
+concentrado em me arrancar informações sobre títulos brasileiros).
+Posso armar, com certa dose de conforto, que ele sabe alguma coisa
+sobre dentes, em particular se entro no consultório com dor de dente
+e saio de lá aliviado. Seria difícil para alguém que não sabe
+literalmente nada sobre dentes me dar esse tipo de alívio, exceto se
+contasse com uma sorte particular naquele dia — ou se tivesse
+experimentado sorte o bastante durante a vida para vir a ser dentista
+mesmo sem saber nada sobre dentes. Olhando para o diploma dele na
+parede, determino que as probabilidades de que tenha dado respostas
+corretas sucessivas em suas provas e obturado de maneira satisfatória
+uns poucos milhares de cáries antes de se diplomar de maneira
+puramente aleatória são notavelmente pequenas.
+À noite, vou ao Carnegie Hall. Pouco posso dizer sobre a pianista;
+até mesmo seu nome esqueci, porque me era pouco familiar, numa
+língua estrangeira. Tudo o que sei é que ela estudou num
+conservatório de Moscou. Mas posso esperar ouvir a música saída do
+piano. Seria raro ter alguém que, tendo se saído com bastante brilho
+no passado a ponto de vir tocar no Carnegie Hall, houvesse apenas se
+beneciado da sorte. A expectativa de deparar com uma fraude,
+alguém desqualicado que só batuque no piano e produza sons
+cacofônicos, é tão baixa que posso descartá-la.
+Eu estava em Londres sábado passado. Os sábados em Londres são
+mágicos; agitados mas sem o trabalho sistemático de um dia útil ou a
+triste resignação de um domingo. Sem um relógio de pulso ou um
+plano, eu me encontrei diante de minhas esculturas favoritas, de
+
+autoria de Canova, no Albert and Victoria Museum. Minha inclinação
+prossional
+imediatamente
+me
+fez
+questionar
+se
+o
+acaso
+desempenhou um papel importante na produção daquelas estátuas de
+mármore. Os corpos são produções realísticas de guras humanas, só
+que mais harmoniosos e bem equilibrados do que qualquer coisa que
+eu já tenha visto naturalmente produzido (vem-me à mente materiem
+superabat opus, de Ovídio). Essa delicada beleza poderia ser produto
+da sorte?
+Posso fazer praticamente a mesma armação sobre qualquer um
+operando no mundo físico, ou em um negócio no qual o grau de
+aleatoriedade seja baixo. Mas há um problema em tudo que se
+relaciona com o mundo dos negócios. Fico aborrecido porque
+amanhã, infelizmente, tenho uma reunião com um administrador de
+fundos que procura minha ajuda, e a dos meus amigos, para descobrir
+investidores. Ele tem o que alega ser uma boa cha de desempenho.
+Tudo o que posso deduzir é que aprendeu a comprar e vender. E é
+mais difícil fritar um ovo do que comprar e vender. Bem… o fato de
+que ganhou dinheiro no passado pode ter certa importância, mas não
+tanta quanto se imagina. Não é o mesmo que dizer que todos os casos
+são assim; há alguns exemplos nos quais se pode conar numa cha de
+desempenho, mas — infelizmente — não são muitos. Como o leitor
+agora sabe, o gestor de fundos pode esperar ser menosprezado por
+mim durante a apresentação, particularmente se não evidenciar um
+mínimo de humildade e não mostrar que tem dúvidas, coisa que eu
+esperaria de alguém lidando com o acaso. Provavelmente vou
+bombardeá-lo com perguntas que ele não está preparado para
+responder, cego como está diante dos resultados passados.
+Provavelmente contarei a ele que Maquiavel atribuía à sorte pelo
+menos 50% do sucesso (e o resto à esperteza e ao brilhantismo), isso
+antes da criação dos mercados de capitais modernos.
+Neste capítulo, discuto algumas das conhecidas propriedades
+contraintuitivas dos registros de desempenho e das séries temporais
+históricas. O conceito apresentado aqui é bem conhecido por algumas
+de suas variações sob o nome de viés do sobrevivente, data mining, data
+snooping, superaptidão, regressão à média etc., situações básicas em
+que a performance é exagerada pelo observador devido a uma
+
+compreensão equivocada da importância do acaso. É claro que essa
+ideia tem implicações bastante perturbadoras. Ela se estende a
+situações mais gerais em que o acaso pode desempenhar um papel
+importante, tal como a escolha de um tratamento médico ou a
+interpretação de eventos coincidentes.
+Quando sou tentado a sugerir uma possível futura contribuição da
+pesquisa nanceira à ciência em geral, rero-me à análise de
+garimpagem de dados e ao estudo do viés do sobrevivente. Essas duas
+atividades têm sofrido renamento na área das nanças, mas eles
+podem ser estendidos a todas as áreas da investigação cientíca. Por
+que as nanças são um campo tão rico? Porque é uma das poucas
+áreas de investigação onde temos muita informação (sob a forma de
+abundantes séries de preços), mas não a capacidade de levar a efeito
+experimentos como acontece, digamos, na física. Essa dependência de
+dados passados ressalta seus grandes defeitos.
+ENGANADOS PELOS NÚMEROS
+Investidores tipo placebo
+Muitas vezes me deparo com perguntas do tipo: “Você está me
+dizendo que talvez eu só dependa da sorte na minha vida?”. Bem,
+ninguém realmente acredita que tudo é uma questão de sorte. Minha
+abordagem é de que, com nossa máquina Monte Carlo, podemos
+fabricar situações puramente aleatórias. Podemos fazer exatamente o
+oposto dos métodos convencionais; no lugar de analisar gente real à
+procura de qualidades, podemos criar gente articial com qualidades
+precisamente conhecidas. Assim, podemos fabricar situações que
+dependem de sorte pura, sem adulterações, sem a sombra de
+capacidades ou o que quer que tenhamos chamado de não sorte no
+Quadro P1. Em outras palavras, podemos criar “ninguéns” de quem
+rir; eles serão, propositalmente, despidos de qualquer sombra de
+capacidade (exatamente como uma droga placebo).
+Vimos no capítulo 5 como as pessoas podem sobreviver devido a
+características que no momento são adequadas a determinada
+estrutura do acaso. Aqui, tomamos uma situação muito mais simples,
+
+em que conhecemos a estrutura do acaso. O primeiro exercício é
+renar o velho ditado popular segundo o qual até mesmo um relógio
+quebrado marca a hora certa duas vezes por dia. Vamos levar a ideia um
+pouco mais adiante para mostrar que a estatística é uma faca de dois
+gumes. Vamos usar o gerador Monte Carlo apresentado anteriormente
+e com ele construir uma população de 10 mil gestores de fundos de
+investimento ctícios (o gerador não é totalmente necessário, pois
+podemos usar uma moeda ou até mesmo álgebra simples, mas ele é
+consideravelmente mais ilustrativo — e divertido). Suponha que cada
+um dos gestores tem um jogo perfeitamente equilibrado; cada um tem
+50% de probabilidade de ganhar 10 mil dólares ao m do ano, e 50%
+de probabilidade de perder 10 mil dólares. Vamos apresentar uma
+restrição adicional: uma vez que um gestor tenha um único ano ruim,
+ele cai fora da amostragem. Assim, operaremos como o lendário
+especulador George Soros, que, dizem, falava a seus gestores,
+reunidos numa sala (com um sotaque da Europa Oriental): “Metade
+de vocês estará na rua ano que vem”. Como Soros, temos padrões de
+desempenho extremamente altos; estamos procurando gestores de
+fundos com uma cha de desempenho impecável. Não temos
+paciência para gente com fraco desempenho.
+O gerador Monte Carlo jogará uma moeda para o alto: coroa e o
+gestor ganhará 10 mil no ano; cara e perderá 10 mil. Fazemos isso no
+primeiro ano. Ao m dele, esperamos que 5 mil gestores tenham
+ganhado mais de 10 mil cada e 5 mil tenham ganhado menos de 10
+mil. Agora, repetimos isso no segundo ano. De novo, esperamos que
+2500 gestores estejam acima do limite; no próximo ano, 1250; no
+quarto ano, 625; no quinto ano, 313. Temos agora 313 gestores que
+ganharam dinheiro por cinco anos consecutivos. Com pura sorte.
+Ao mesmo tempo, se jogarmos um desses traders bem-sucedidos no
+mundo real, receberíamos comentários muito interessantes e úteis
+sobre seu estilo notável, sua mente incisiva e as in uências que o
+ajudaram a atingir tamanho sucesso. Alguns analistas talvez
+atribuíssem suas conquistas a elementos precisos em suas experiências
+de infância. Seu biógrafo ia se demorar no incrível modelo que seus
+pais lhe deram; veríamos fotos em preto e branco no meio do livro
+retratando uma grande mente sendo moldada. No ano seguinte, se ele
+
+não se excedesse mais em seu desempenho (lembre que suas chances
+de ter um bom ano permanecem em 50%), começariam a culpá-lo, a
+encontrar motivos no relaxamento de sua ética de trabalho, em seu
+estilo de vida dissipado. Encontrariam algo que ele fez antes, quando
+era bem-sucedido, que depois parou de fazer, e atribuiriam o acaso a
+isso. A verdade, no entanto, seria que sua sorte acabou.
+Ninguém precisa ser competente
+Vamos levar a discussão adiante, para torná-la mais saborosa.
+Criamos um grupo que é composto exclusivamente de gestores
+incompetentes. Deniremos um gestor incompetente como alguém de
+quem se espera um resultado negativo, o equivalente das
+probabilidades que se acumulam contra ele. Instruímos o gerador
+Monte Carlo a tirar bolas de uma urna. Ela tem cem bolas, 45 pretas e
+55 vermelhas. Tirando e substituindo as bolas tiradas, a proporção de
+bolas vermelhas para pretas permanecerá a mesma. Se tirarmos uma
+bola preta, o gestor ganhará 10 mil dólares. Se tirarmos uma bola
+vermelha, ele perderá 10 mil. Espera-se, assim, 45% de probabilidade
+de que ele ganhe 10 mil e 55% de probabilidade de que perca 10 mil.
+Na média, o gestor perderá mil dólares a cada rodada — mas somente
+na média.
+No nal do primeiro ano, podemos esperar ter 4500 gestores com
+lucro (45% deles); no segundo ano, 45% desse número, isto é, 2025;
+no terceiro, 911; no quarto, 410; no quinto, 184. Vamos dar aos
+gestores sobreviventes nome e vesti-los com ternos apropriados a
+homens de negócios. Na verdade, eles representam menos de 2% do
+grupo original. Mas receberão nossa atenção. Ninguém mencionará os
+outros 98%. O que podemos concluir?
+O primeiro ponto contraintuitivo é que uma população composta
+inteiramente de gestores ruins produzirá uma pequena quantidade de
+chas de desempenho extraordinárias. De fato, pressupondo que o
+gestor se apresente à sua porta sem ser solicitado, seria praticamente
+impossível descobrir se ele é bom ou ruim. Os resultados não se
+modicariam sensivelmente, mesmo se a população fosse composta
+apenas de gestores de quem se espera, no longo prazo, que perca
+dinheiro. Por quê? Porque, devido à volatilidade, alguns deles
+
+ganharão dinheiro. Podemos ver aqui que a volatilidade propicia, na
+verdade, decisões ruins sobre como investir.
+O segundo ponto contraintuitivo é que a expectativa do máximo
+desempenho, no que diz respeito às chas de desempenho, com o que
+estamos preocupados, depende mais do tamanho da amostragem
+inicial do que das probabilidades individuais de cada administrador.
+Em outras palavras, o número de administradores com ótimas chas
+de desempenho em determinado mercado depende muito mais do
+número de pessoas que se lançaram no ramo de investimentos (em
+lugar de cursar odontologia) do que de sua capacidade de produzir
+resultados. Tudo depende, também, da volatilidade. Por que usamos o
+conceito de expectativa do máximo desempenho? Porque eu não
+estou preocupado, em absoluto, com a cha de desempenho médio.
+Quero ver apenas os melhores gestores, não todos. Isso signica que
+veremos mais “excelentes gestores” em 2002 do que em 1998, desde
+que o grupo de iniciantes seja maior em 1997 do que era em 1993 — e
+posso garantir que era.
+Regressão à média
+O golpe de sorte em jogos é outro exemplo de uma percepção
+equivocada de sequências aleatórias. É muito provável em uma grande
+amostra de jogadores que um deles tenha uma onda de sorte
+extraordinariamente longa. Na verdade, é muito improvável que um
+jogador não especicado em algum lugar não tenha uma onda de sorte
+extraordinariamente longa. Trata-se de uma manifestação de um
+mecanismo chamado regressão à média. Vou explicá-lo a seguir.
+Promova uma longa série de lançamento de moedas produzindo
+cara ou coroa com 50% de chance para cada e vá anotando os
+resultados no papel. Se a série for longa o bastante, você pode obter
+oito caras ou oito coroas seguidas, talvez até dez. No entanto, você
+sabe que, apesar disso, a probabilidade de dar cara ou coroa continua
+sendo de 50%. Agora imagine que cara ou coroa sejam apostas
+monetárias enchendo os cofres de um indivíduo. O desvio da norma
+visto em caras ou coroas excessivas é inteiramente atribuído aqui à
+sorte, ou, em outras palavras, à variância, e não às habilidades de um
+
+jogador hipotético (já que a probabilidade de obter um ou outro é a
+mesma).
+O resultado é que, na vida real, quanto maior o desvio da norma,
+maior a probabilidade de vir da sorte que da habilidade. Considere
+que mesmo que se tenha 55% de probabilidade de dar cara, as chances
+de dez seguidas ainda são muito pequenas. Isso pode ser facilmente
+comprovado em histórias de traders muito proeminentes rapidamente
+voltando à obscuridade, como os heróis que eu costumava observar
+nas salas de operação. Isso se aplicado à altura dos indivíduos ou ao
+tamanho de cachorros. No último caso, considere que dois animais de
+porte médio produzam uma cria grande. Os cachorros maiores, caso
+diram muito da média, tenderão a produzir crias menores que eles
+próprios, e vice-versa. A “reversão” dos maiores animais é o que tem
+sido observado na história e explicado como reversão à média. Note
+que, quanto maior o desvio, mais importante o efeito.
+De novo, um alerta: nem todos os desvios vêm desse efeito, mas
+uma quantidade desproporcional deles vem.
+Ergodicidade
+Em um terreno mais técnico, preciso dizer que as pessoas
+acreditam que podem descobrir as propriedades da distribuição a
+partir da amostragem que estão observando. Quando se trata de
+questões que dependem do máximo, é outra distribuição que se está
+inferindo: a distribuição dos que têm melhor desempenho. Chamamos
+a diferença entre a média de tal distribuição e a distribuição
+incondicional de vencedores e perdedores de viés do sobrevivente —
+aqui, o fato de que cerca de 3% do grupo inicial ganhará dinheiro por
+cinco anos consecutivamente. Além disso, esse exemplo ilustra as
+propriedades da ergodicidade, quando o tempo elimina os efeitos
+perturbadores do acaso. Olhando para a frente, a despeito do fato de
+que esses administradores obtiveram lucros durante os últimos cinco
+anos, esperamos que eles empatem num período futuro qualquer. Seu
+desempenho não será melhor do que o de qualquer um dos
+pertencentes ao grupo inicial que fracassaram mais cedo no exercício.
+Ah, o longo prazo.
+
+Há alguns anos, quando eu disse a certo A, então um sujeito do tipo
+Mestres do Universo, que as chas de desempenho eram menos
+importantes do que ele pensava, ele achou a observação tão ofensiva
+que jogou o isqueiro violentamente na minha direção. O episódio me
+ensinou muita coisa. Lembre-se de que ninguém aceita o papel do
+acaso em seu próprio sucesso, apenas em seu fracasso. O ego dele
+estava in ado, pois cheava um departamento de “grandes traders”,
+que na época faziam fortuna nos mercados. Depois todos explodiram,
+durante o duro inverno de 1994 em Nova York (foi a primeira crise de
+títulos no mercado, em seguida à surpreendente elevação da taxa de
+juros feita por Alan Greenspan). O interessante é que, seis anos mais
+tarde, dicilmente se encontrava qualquer um deles ainda no mercado
+(ergodicidade).
+Lembre-se de que o viés do sobrevivente depende do tamanho da
+população inicial. A informação de que uma pessoa ganhou dinheiro
+no passado somente graças a seus esforços não é nem signicativa nem
+importante. Precisamos conhecer o tamanho da população de onde ela
+veio. Em outras palavras, sem saber quantos gestores no conjunto
+tentaram e fracassaram, não podemos avaliar a validade da cha de
+desempenho. Se a população inicial inclui dez gestores, eu daria
+metade das minhas economias ao que se saiu bem, sem piscar. Se a
+população inicial é composta de 10 mil administradores, eu ignoraria
+os resultados. Essa última situação é geralmente a comum; nos dias de
+hoje muita gente tem sido atraída para o mercado nanceiro. Muitos
+recém-formados estão escolhendo o trading como primeira carreira,
+fracassando e depois indo estudar odontologia.
+Se, como num conto de fadas, esses gestores ctícios se
+materializassem como seres humanos reais, um deles poderia ser a
+pessoa que encontrarei amanhã, às 11h45. Por que escolhi 11h45?
+Porque farei perguntas sobre seu estilo de trading. Preciso saber como
+negocia papéis. Depois posso alegar que tenho que correr para outro
+compromisso se ele der muita ênfase à sua cha de desempenho.
+A VIDA É CHEIA DE COINCIDÊNCIAS
+
+Em seguida, daremos uma olhada nas implicações de nosso viés na
+vida real, visando à compreensão da distribuição das coincidências.
+A carta misteriosa
+Você recebe uma carta anônima no dia 2 de janeiro informando que
+o mercado vai subir durante o mês. Isso se comprova, mas você não
+liga tanto devido ao bem conhecido efeito janeiro (historicamente, as
+ações sobem nesse mês). Aí você recebe outra carta, no dia 1º de
+fevereiro, dizendo que o mercado vai cair. De novo, isso se comprova.
+Depois você recebe outra carta, no dia 1º de março — a mesma
+história. Quando chega julho, você está intrigado pela presciência do
+anônimo e o convida para investir em um fundo estrangeiro especial.
+Você coloca todas as suas economias nele. Dois meses mais tarde, seu
+dinheiro se evaporou. Você vai chorar no ombro do vizinho, e ele lhe
+diz que se lembra de ter recebido duas dessas cartas misteriosas, mas
+não uma terceira. O vizinho lembra que a previsão da primeira estava
+correta, a da outra, incorreta.
+O que aconteceu? O truque é o seguinte. O vigarista tira 10 mil
+nomes de uma lista telefônica. Ele envia uma carta “touro” para
+metade da amostragem e uma carta “urso” para a outra metade. No
+mês seguinte ele seleciona os nomes das pessoas para quem enviou a
+carta com a predição certa, isto é, 5 mil nomes. No mês seguinte, faz o
+mesmo com os restantes 2500 nomes, até que a lista ca reduzida a
+quinhentas pessoas. Dessas, restarão duzentas vítimas. Um
+investimento de mil ou 2 mil dólares em selos resultará em lucro de
+uns bons milhões.
+Um jogo de tênis interrompido
+Não é raro para alguém que assiste a um jogo de tênis na televisão
+ser bombardeado por anúncios de fundos que renderam mais (até
+aquele minuto) do que outros, por determinada porcentagem, em
+determinado período. Mas, de novo, por que alguém anunciaria se o
+rendimento não fosse maior que o dos concorrentes? Há uma alta
+probabilidade de um investimento chegar até você se o sucesso for
+causado inteiramente pelo acaso. Esse fenômeno é o que os
+economistas e o pessoal de seguros chamam de seleção adversa.
+
+Avaliar um investimento que chega até você requer padrões mais
+rígidos do que avaliar um investimento que se procura, devido a essa
+tendência de seleção. Por exemplo, indo a um grupo composto de 10
+mil gestores, tenho 2% de chance de encontrar um sobrevivente
+espúrio. Ficando em casa e atendendo à campainha, essa chance é de
+100%.
+Sobreviventes reversos
+Até agora, discutimos os sobreviventes espúrios — a mesma lógica
+se aplica à pessoa qualicada que tem as probabilidades trabalhando
+em seu favor, mas ainda assim termina no cemitério. Esse efeito é o
+exato oposto do viés do sobrevivente. Considere que tudo o que
+alguém precisa é de dois anos ruins na indústria de investimentos para
+encerrar a carreira de assumir riscos e que, mesmo quando as
+probabilidades estão consideravelmente a seu favor, tal resultado é
+bastante possível. O que as pessoas fazem para sobreviver? Elas
+maximizam suas probabilidades de se manter no jogo assumindo
+riscos do tipo cisne negro (como John e Carlos) — aqueles que
+desempenham bem na maior parte do tempo, mas correm o risco de
+explodir.
+Paradoxo do aniversário
+A maneira mais intuitiva de descrever o problema da garimpagem
+de dados para um não estatístico é com o denominado “paradoxo do
+aniversário”, embora não se trate realmente de um paradoxo, mas
+simplesmente de uma extravagância perceptiva. Se você encontrar
+alguém por acaso, há uma chance em 365,25 de o seu aniversário
+coincidir com o da pessoa, e uma probabilidade consideravelmente
+menor de terem o mesmo aniversário e terem nascido no mesmo ano.
+Portanto, compartilhar a data de aniversário seria um evento
+coincidente, que você discutiria na mesa de jantar. Agora, vamos olhar
+para uma situação em que há 23 pessoas numa sala. Qual é a
+probabilidade de duas pessoas ali fazerem aniversário no mesmo dia?
+Cerca de 50%. Isso porque não estamos especicando quais pessoas
+devem compartilhar a data de aniversário; qualquer par serve.
+
+Que mundo pequeno!
+Uma ideia errada sobre probabilidade surge de encontros ocasionais
+que podemos ter com parentes ou amigos em lugares onde a
+expectativa de isso acontecer é muito baixa. “Que mundo pequeno!”,
+diz-se, com frequência e com surpresa. Mas essas ocorrências não são
+improváveis — o mundo é muito maior do que pensamos. O que
+acontece é que não estamos testando as chances de um encontro com
+uma pessoa especíca, num lugar especíco e numa hora especíca. O
+que estamos fazendo é simplesmente testar a probabilidade de
+qualquer encontro, com qualquer pessoa que já encontramos no
+passado e em qualquer lugar que visitaremos durante o período
+considerado.
+A
+probabilidade
+desse
+último
+evento
+é
+consideravelmente maior, tendo talvez milhares de vezes a magnitude
+do primeiro.
+Quando o estatístico olha para os dados para testar determinada
+relação, digamos, para levantar a correlação entre a ocorrência de
+determinado evento, como uma declaração política e a volatilidade do
+mercado, a probabilidade é de que os resultados possam ser tomados
+seriamente. Mas, quando ele joga os dados num computador,
+procurando qualquer relação, é certo que surgirá uma conexão
+espúria, tal como o destino do mercado de ações estar ligado ao
+comprimento das saias das mulheres. E, exatamente como no caso da
+coincidência de aniversários, isso causará surpresa.
+Garimpagem de dados, estatísticas e charlatanismo
+Qual é a probabilidade de ganhar duas vezes na loteria de Nova
+Jersey? Uma em 17 trilhões. Contudo, isso aconteceu com Evelyn
+Adams, que o leitor poderia crer ser uma pessoa escolhida pelo
+destino. Usando o método que desenvolvemos acima, Percy Diaconis
+e Frederick Mosteller, de Harvard, estimaram em trinta para um a
+probabilidade de alguém, em algum lugar, de maneira totalmente não
+especicada, ser tão sortudo.
+Algumas pessoas transportam suas atividades de garimpagem de
+dados para a teologia — anal de contas, os antigos habitantes do
+Mediterrâneo costumavam ler mensagens nas entranhas dos pássaros.
+
+Uma interessante aplicação da garimpagem de dados na exegese
+bíblica aparece em O código da Bíblia, de Michael Drosnin. Ex-
+jornalista (aparentemente inocente no que se refere ao conhecimento
+de estatística), ele foi auxiliado pelas artes de um “matemático” e
+“previu” o assassinato do primeiro-ministro israelense Yitzhak Rabin
+por meio da decifração de um código bíblico. Ele informou isso a
+Rabin, que não levou o aviso muito a sério. O livro encontra
+irregularidades estatísticas na Bíblia, que ajudam a prever eventos
+como esse. Não é preciso dizer que vendeu bem o bastante para
+garantir uma sequência que previa em retrospectiva outros eventos do
+tipo.
+O mesmo mecanismo está por trás da formação de teorias da
+conspiração. Como O código da Bíblia, elas podem parecer perfeitas
+em sua lógica e fazer com que pessoas inteligentes acreditem nelas.
+Posso criar uma teoria da conspiração baixando centenas de quadros
+de um pintor ou de um grupo de pintores e encontrando uma
+constante em todas (entre as centenas de milhares de traços). Então
+eu forjaria uma teoria da conspiração envolvendo uma mensagem
+secreta compartilhada pelos quadros. Parecido com o que o autor de
+O código Da Vinci fez.
+O melhor livro que li na vida
+Minhas melhores horas são as que passo em livrarias, onde vou, sem
+um objetivo denido, de livro a livro numa tentativa de tomar a
+decisão de se devo investir meu tempo em tal leitura. Minha compra
+geralmente é feita no impulso, baseada em indicações superciais mas
+sugestivas. Com frequência, não disponho de nada senão a capa e as
+orelhas para minha tomada de decisão. As capas geralmente têm
+elogios feitos por alguém, famoso ou não, e trechos de uma resenha da
+obra. Um bom elogio de uma pessoa famosa e respeitada ou de uma
+revista bem conhecida me leva a comprar o livro.
+Qual é o problema? Tendo a confundir uma resenha literária, que se
+supõe ser uma avaliação da qualidade do livro, com resenhas dos
+melhores livros, desguradas pelo mesmo viés do sobrevivente. Tomo a
+distribuição do máximo de uma variável pela distribuição da variável
+propriamente dita, o que é um erro. O editor nunca colocará na capa
+
+do livro nada que não seja elogios à obra. Alguns autores vão até
+mesmo além, pegando uma resenha literária morna ou desfavorável e
+selecionando palavras que parecem elogiar o livro. Um desses
+exemplos veio de Paul Wilmott (um matemático nanceiro inglês de
+raro brilho e irreverência), que anunciou que eu tinha lhe dado sua
+“primeira resenha desfavorável”, mas usou um excerto de tal resenha
+como elogio na capa do livro (mais tarde camos amigos, o que me
+permitiu extrair dele um endosso deste livro).
+A primeira vez que fui enganado por essa parcialidade foi ao
+comprar, aos dezesseis anos, Manhattan Transfer, um livro do escritor
+americano John dos Passos, baseado no elogio impresso na capa feito
+pelo lósofo Jean-Paul Sartre, que dizia algo como: “Dos Passos é o
+maior escritor de nossos tempos”. Essa simples observação,
+possivelmente emitida em estado de embriaguez ou de extremo
+entusiasmo, fez com que esse escritor americano se tornasse leitura
+obrigatória nos círculos intelectuais europeus, pois o comentário de
+Sartre foi tomado, erroneamente, como uma avaliação consensual da
+qualidade dele, em vez de pelo que realmente era: o melhor
+comentário a seu respeito. (Apesar de ter recebido o Prêmio Nobel de
+Literatura, Dos Passos caiu na obscuridade.)
+O backtester
+Um programador me ajudou a construir um backtester. É um
+programa ligado a uma base de dados de preços históricos que me
+permite vericar o desempenho hipotético de qualquer regra de
+trading de complexidade média. Basta aplicar uma regra mecânica,
+como comprar ações da Nasdaq se elas fecharem a mais de 1,83%
+acima da média da semana anterior, e tenho uma ideia do desempenho
+passado. A tela mostrará imediatamente minha cha de desempenho
+hipotética e a regra de negociação. Se não gostar dos resultados, posso
+mudar o percentual para, digamos, 1,2%. Também posso tornar a regra
+mais complexa. E co tentando até encontrar algo que funcione bem.
+O que é que estou fazendo? O mesmo que procurar um
+sobrevivente dentro do conjunto de regras que tenham possibilidade
+de funcionar. Estou adequando a regra aos dados. Essa atividade é
+denominada data snooping. Quanto mais tento, mais probabilidade
+
+terei, por pura sorte, de encontrar uma regra que funcione com os
+dados passados. Uma série aleatória sempre apresentará algum padrão
+detectável. Estou convencido de que existe um papel negociável no
+mundo ocidental que guarda uma correlação de 100% com as
+mudanças de temperatura em Oulan Bator, na Mongólia.
+Falando de modo técnico, há implicações piores. Um importante
+trabalho recente de Sullivan, Timmerman e White vai além,
+considerando que as regras que hoje são usadas com sucesso talvez
+sejam resultado do viés do sobrevivente.
+Suponhamos que, ao longo do tempo, os investidores tenham feito experiências com
+regras técnicas de trading extraídas de um universo bem amplo — em princípio, milhares
+de parametrizações de diversos tipos de regras. Com o passar do tempo, as regras que se
+mostram válidas historicamente recebem mais atenção e são consideradas “sérias
+competidoras” pela comunidade de investimentos, enquanto regras de trading
+malsucedidas têm mais probabilidade de ser esquecidas […] Se for considerado um grande
+número de regras ao longo do tempo, algumas, por simples sorte, até mesmo numa grande
+amostragem, mostrarão desempenho superior, mesmo que não possuam um poder
+genuíno de predizer os resultados de ativos. É claro que a inferência baseada apenas na
+questão das regras de trading sobreviventes pode ser enganadora nesse contexto, por não
+levar em conta o conjunto integral das regras de trading do início, a maioria das quais têm
+pouca probabilidade de haver mostrado um desempenho ruim.
+Tenho que descontar certos excessos do backtest que observei de
+perto na minha carreira. Há um excelente produto projetado
+exatamente para esse m, denominado Omega TradeStation,
+atualmente à venda e usado por dezenas de milhares de traders. Ele
+oferece até mesmo sua própria linguagem de computação. Sofrendo
+de insônia, os day traders, computadorizados, tornam-se testadores
+noturnos, garimpando dados à procura de suas propriedades. À força
+de lançarem seus macacos às máquinas de escrever, sem especicar
+que livro querem que o macaco escreva, acabarão encontrando algum
+ouro hipotético, em algum lugar. Muitos acreditam cegamente nisso.
+Um dos meus colegas, um homem com diplomas de prestígio, veio
+a acreditar nesse mundo virtual a ponto de perder todo o senso da
+realidade. Se porque o mínimo de bom senso que lhe restou se
+desvaneceu rapidamente sob os montinhos de simulação, ou porque
+ele não tinha bom senso nenhum já de início, não sei dizer.
+Observando-o de perto, percebi que o ceticismo natural que poderia
+
+ter se esvaiu sob o peso dos dados — ele era extremamente cético, mas
+na área errada. Ah, Hume!
+Uma aplicação mais inconstante
+Historicamente, a medicina tem agido por tentativa e erro — em
+outras palavras, de maneira estatística. Hoje sabemos que pode haver
+conexões fortuitas entre sintomas e tratamento, e que alguns remédios
+têm sucesso em testes médicos por razões aleatórias. Não posso alegar
+ser especialista em medicina, mas sou um leitor constante de um
+segmento da literatura médica por mais da metade da última década,
+tempo o bastante para me preocupar com os padrões, como veremos
+no próximo capítulo. Os pesquisadores médicos raramente são
+estatísticos, e estatísticos raramente são pesquisadores médicos.
+Muitos pesquisadores médicos não têm a mais remota ideia da
+existência desse viés. Ele pode desempenhar um papel pequeno, mas
+certamente está presente. Um estudo médico recente relaciona o
+hábito de fumar com uma redução do câncer de mama, em con ito
+com todos os estudos prévios. A lógica indicaria que o resultado é
+suspeito, talvez mera coincidência.
+A temporada dos lucros: iludidos pelos resultados
+Os analistas de Wall Street, em geral, são treinados para encontrar
+os truques de contabilidade que as empresas usam para esconder seus
+lucros. Eles tendem a (ocasionalmente) vencer as empresas no jogo
+delas. Mas não são treinadas para re etir ou lidar com o acaso (nem
+para compreender as limitações de seus métodos em um autoexame —
+em relação a meteorologistas, analistas da Bolsa têm um registro pior e
+uma ideia melhor de seu desempenho passado). Quando uma empresa
+mostra um primeiro aumento nos lucros, não chama a atenção
+imediatamente. Na segunda vez, o nome começa a aparecer nas telas
+de computadores. Na terceira, a empresa merecerá recomendação de
+compras.
+Da mesma forma que o problema da cha de desempenho,
+considere um grupo de 10 mil empresas que se presume que na média
+mal tenham retorno igual à taxa livre de risco (isto é, títulos do
+Tesouro). Elas se engajam em todas as formas de negócios voláteis. No
+
+nal do primeiro ano, teremos 5 mil empresas “cinco estrelas”
+mostrando um aumento nos lucros (pressupondo que não há in ação)
+e 5 mil “vira-latas”. Depois de três anos, teremos 1250 empresas
+“cinco estrelas”. A comissão de revisão das ações do banco de
+investimentos passará o nome delas ao corretor com a recomendação
+de “boa compra”. Ele deixará mensagens dizendo que tem
+recomendações “quentes”, que exigem ação imediata. Você receberá,
+por e-mail, uma longa lista de nomes. Comprará de um ou dois deles.
+Nesse ínterim, o gestor encarregado do seu plano de aposentadoria
+401(k) adquire toda a lista.
+Podemos aplicar o raciocínio à seleção de categorias de
+investimento — como se elas fossem os gestores do exemplo acima.
+Suponha que você está em 1900, com centenas de investimentos para
+examinar. Há os mercados de ações da Argentina, da Rússia imperial,
+do Reino Unido, da Alemanha unicada e um monte de outros a
+considerar. Uma pessoa racional teria comprado não apenas papéis do
+país emergente chamado Estados Unidos, mas também da Rússia e da
+Argentina. O resto da história é bem conhecido; enquanto muitos dos
+mercados de ações, como os do Reino Unido e dos Estados Unidos,
+saíram-se muito bem, o investidor na Rússia imperial teria em suas
+mãos nada mais que papel de parede de qualidade duvidosa. Os países
+que se deram bem não constituem um segmento grande do grupo
+inicial; seria de esperar que o acaso deixasse que uns poucos tipos de
+investimento dessem ótimos resultados. Fico pensando se os
+“especialistas” que fazem declarações tolas (autolucrativas), como “os
+mercados sempre sobem num período de vinte anos”, têm ciência
+desse problema.
+SORTE COMPARATIVA
+Há
+um
+problema
+muito
+maior
+relacionado
+com
+o
+superdesempenho, ou a comparação entre duas ou mais pessoas ou
+entidades. Embora certamente sejamos iludidos pelo acaso quando se
+trata de uma única série temporal, a ilusão é maior quando se trata da
+comparação entre, vamos dizer, duas pessoas, ou uma pessoa e uma
+marca de referência. Por quê? Porque ambos são aleatórios. Vamos
+
+fazer uma experiência simples. Pegue dois indivíduos, por exemplo
+alguém e seu cunhado. Assuma que ambos tenham a mesma
+probabilidade de sorte e azar. Os resultados seriam sorte-sorte (sem
+diferença entre eles), azar-azar (de novo, sem diferença), sorte-azar
+(grande diferença entre eles), azar-sorte (de novo, grande diferença).
+Recentemente, fui pela primeira vez a uma conferência de gestores
+de investimento e assisti a um palestrante entediante que comparava
+traders. A prossão dele é selecionar gestores de fundo e formar
+pacotes com eles para investidores, o que chamam de “fundos de
+fundos”. Fiquei escutando enquanto ele mostrava números na tela. A
+primeira revelação foi que de repente o reconheci: era um antigo
+colega biologicamente transformado pela passagem do tempo. Ele
+costumava ser viçoso, cheio de energia, interessante; tinha se tornado
+chato, imponente e imoderadamente confortável com o sucesso. (O
+homem não era rico quando o conheci. Será que as pessoas reagem ao
+dinheiro de maneiras diferentes? Algumas passam a se levar muito a
+sério enquanto outras não?) A segunda revelação foi que, embora eu
+suspeitasse que ele tinha sido iludido pelo acaso, teria que ser em uma
+extensão
+muito
+maior
+do
+que
+alguém
+poderia
+imaginar,
+particularmente no que se referia ao viés do sobrevivente. Um cálculo
+rápido mostrou que 97% do que ele estava falando era apenas ruído.
+O fato de que estava comparando desempenhos tornava tudo ainda
+pior.
+Curas para o câncer
+Quando volto para casa de uma viagem à Ásia ou à Europa, a
+mudança de fuso muitas vezes me faz levantar muito cedo. De vez em
+quando, ainda que com bastante raridade, ligo a televisão à procura de
+informações sobre o mercado. O que me espanta nessas explorações
+noturnas é a abundância de declarações por parte de vendedores de
+medicina alternativa do poder de cura de seus produtos. Para provar o
+que alegam, eles apresentam o testemunho convincente de alguém que
+foi curado graças a seus métodos. Por exemplo, vi um paciente que
+teve câncer na garganta explicando como foi salvo por uma
+combinação
+de
+vitaminas
+que
+eram
+vendidas
+ao
+preço
+excepcionalmente baixo de 14,95 dólares — com toda a probabilidade
+
+ele estava sendo sincero (embora, é claro, tivesse sido recompensado
+por seu relato, talvez com um suprimento de vitaminas pelo resto da
+vida). A despeito de nossos progressos, as pessoas ainda acreditam na
+existência de ligações entre doença e cura com base nesse tipo de
+informação, e não há provas cientícas que possam convencê-las mais
+do que um testemunho sincero e emotivo. Esse tipo de testemunho
+nem sempre vem de pessoas comuns, como ca claro em algumas
+declarações de ganhadores do Prêmio Nobel (na disciplina errada).
+Linus Pauling, que recebeu o Prêmio Nobel de Química, era tido
+como fã incondicional das propriedades medicinais da vitamina C,
+ingerindo ele próprio doses maciças diárias. Com seu discurso
+entusiasmado, ele contribuiu para a crença generalizada nas
+propriedades curativas dessa vitamina. Muitos estudos médicos,
+incapazes de rivalizar com as declarações de Pauling, caíram em
+ouvidos surdos, pois era difícil desfazer do testemunho de um
+“ganhador do Prêmio Nobel”, mesmo que ele não fosse qualicado
+para falar sobre assuntos relacionados à medicina.
+Muitas dessas alegações têm sido inofensivas, desconsiderando os
+lucros nanceiros desses charlatães — mas muitos pacientes de câncer
+podem ter substituído terapias pesquisadas de maneira mais cientíca
+por esses métodos e morrido por ter negligenciado curas mais
+ortodoxas (os métodos não cientícos são reunidos sob o que é
+chamado de “medicina alternativa”, isto é, terapias não provadas, e a
+comunidade médica tem diculdade de convencer a imprensa de que
+só há uma medicina, e medicina alternativa não é medicina). O leitor
+poderia car pensando sobre minha alegação de que o usuário desses
+produtos talvez seja sincero, o que não signica que foi curado pelo
+tratamento ilusório. A razão da cura é algo que se chama “remissão
+espontânea”, quando uma pequena minoria de pacientes de câncer,
+por motivos que permanecem inteiramente especulativos, têm suas
+células cancerosas expulsas e se recuperam “milagrosamente”. Alguma
+reviravolta faz com que o sistema imunológico do paciente erradique
+todas as células cancerosas do corpo. Essas pessoas também cariam
+curadas se tivessem bebido um copo de água da fonte de Vermont ou
+mastigado carne-seca. Na verdade, essas remissões espontâneas
+
+podem não ser tão espontâneas; podem ter, no fundo, uma causa que
+ainda não conseguimos detectar.
+O falecido astrônomo Carl Sagan, devotado promotor do
+pensamento cientíco e obsessivo inimigo da não ciência, examinou as
+curas de câncer que resultaram de visitas a Lourdes, na França, através
+do simples contato com a água santa. Ele descobriu o interessante fato
+de que, do total de pacientes com câncer que visitaram o local, a
+proporção de curas era mais baixa do que a estatística de remissões
+espontâneas. Ou seja, era mais baixa do que a média daqueles que não
+haviam ido a Lourdes! Um estatístico deve inferir disso que as
+chances de sobrevivência de pacientes de câncer cam ainda menores
+depois de uma visita a Lourdes?
+O professor Pearson vai a Monte Carlo literalmente: o acaso não parece acaso
+No início do século XX, quando começávamos a desenvolver
+técnicas para lidar com a ideia de resultados aleatórios, foram
+imaginados diversos métodos para detectar anomalias. O professor
+Karl Pearson (o nome Neyman-Pearson é familiar a qualquer pessoa
+que tenha feito um curso básico de estatística) elaborou o primeiro
+teste de não aleatoriedade (era, na realidade, um teste de desvio da
+normalidade, o que, para todos os propósitos, resumia-se no mesmo).
+Ele examinou milhões de sequências do que era chamado de Monte
+Carlo (o velho nome para a roleta) durante o mês de julho de 1902.
+Descobriu que, com um alto grau de signicância estatística (com uma
+margem de erro menor do que um em 1 bilhão), as sequências não
+eram puramente aleatórias. Como? A roleta não parava em sequência
+aleatória? O professor cou muito surpreso com a descoberta. Mas o
+resultado, por si só, não diz nada; sabemos que não há uma jogada que
+seja pura sorte, pois o resultado dela depende da qualidade do
+equipamento. Descendo a detalhes sucientes descobriríamos a não
+aleatoriedade em algum lugar (isto é, a própria roleta poderia não estar
+perfeitamente equilibrada, ou talvez a bolinha não fosse perfeitamente
+esférica). Os lósofos da estatística chamam a isso de problema do caso
+referência, para explicar que não se pode conseguir nenhuma
+aleatoriedade na prática, apenas na teoria. Além disso, um gestor
+
+questionaria se essa aleatoriedade pode conduzir a alguma regra que
+faça sentido visando a lucros. Se preciso apostar um dólar em 10 mil
+jogadas e espero lucrar um dólar pelos meus esforços, então é melhor
+arranjar um emprego de meio período como faxineiro.
+Contudo, o resultado contém outro elemento suspeito. De mais
+importância prática aqui é o seguinte problema grave sobre a não
+aleatoriedade. Até mesmo os pais da ciência estatística esqueceram
+que uma série aleatória de jogadas de roleta não exibe um padrão que
+pareça aleatório; na verdade, dados que são absolutamente sem
+qualquer padrão seriam suspeitos ao extremo, e pareceriam feitos pela
+mão do homem. Uma jogada isolada aleatória tende a exibir algum
+tipo de padrão — se olharmos com bastante atenção. Observe que o
+professor Pearson estava entre os primeiros estudiosos que se
+interessaram em criar geradores articiais de dados aleatórios, tabelas
+que se podia usar como entrada para diversas simulações cientícas e
+de engenharia (os precursores do simulador Monte Carlo). O
+problema é que não era desejado que essas tabelas exibissem qualquer
+forma de regularidade. Contudo, a aleatoriedade real não parece
+aleatória!
+Vou ilustrar mais esse ponto com o estudo de um fenômeno
+conhecido como “aglomerados cancerígenos”. Consideremos um
+quadrado em que dezesseis dardos são atirados, aleatoriamente,
+atingindo-o com igual probabilidade em qualquer lugar. Se dividirmos
+esse quadrado em dezesseis quadrados menores, a expectativa é de
+que cada quadrado menor contenha um dardo na média — mas apenas
+na média. Há uma pequena probabilidade de se ter exatamente
+dezesseis em dezesseis quadrados diferentes. Uma grade média terá
+mais de um dardo em uns poucos quadrados e nenhum dardo em
+muitos quadrados. Será um incidente excepcionalmente raro que
+nenhum aglomerado (cancerígeno) se mostre na grade. Agora, pegue
+nossa grade com os dardos e cubra com um mapa de qualquer região.
+Se um jornal anunciar que uma das áreas (aquela com mais dardos que
+a média) contém radiação cancerígena, os advogados correm atrás de
+clientes.
+O cão que não latia: sobre as predisposições no conhecimento cientíco
+
+Na mesma linha de raciocínio, a ciência é desgurada por um
+pernicioso viés do sobrevivente, afetando o modo como as pesquisas
+vêm a público. Da mesma forma que acontece com o jornalismo, a
+pesquisa que não produz resultados não consegue atingir a imprensa.
+Isso pode parecer algo sensato, pois os jornais não têm que ostentar
+uma manchete berrante dizendo que nada de novo está acontecendo
+(embora a Bíblia seja sábia o bastante para declarar ein chadash tacht
+hashemesh — “nada de novo debaixo do sol” —, ou seja, as coisas se
+repetem). O problema é que a descoberta de uma ausência e a
+ausência de descobertas se misturam. Pode haver uma importante
+informação no fato de que não ocorreu nada. Como observou Sherlock
+Holmes no caso do Estrela de Prata — o curioso era que o cachorro
+não latia. Mais problematicamente, há muitos resultados cientícos
+que não são publicados porque não são estatisticamente signicantes,
+mas, de qualquer forma, fornecem informação.
+NÃO CHEGUEI A CONCLUSÃO ALGUMA
+Com frequência me perguntam: “Quando não se trata de sorte?”.
+Há trabalhos envolvendo o acaso em que o desempenho envolve
+pouca sorte, como cassinos, que conseguem controlar a aleatoriedade.
+Nas nanças, talvez isso ocorra também. Nem todos os traders são
+especulativos: existe um segmento de agentes de liquidez cujo
+trabalho envolve tirar, como agenciadores de apostas ou mesmo donos
+de loja, uma receita de uma transação. Se eles especulam, sua
+dependência dos riscos da especulação permanece pequena demais
+em comparação com seu volume total. Eles compram a um preço e
+vendem a um público a outro mais favorável, executando um grande
+número de transações. Tal renda lhes fornece alguma proteção da
+aleatoriedade. Essa categoria inclui operadores de pregão nas bolsas,
+traders bancários que “negociam contra o  uxo de pedidos”,
+operadores de câmbio nos mercados do Levante. As habilidades
+envolvidas podem ser raras: pensamento rápido, alto nível de energia e
+de alerta, capacidade de inferir a partir da voz de um vendedor quão
+nervoso ele está. Pessoas assim podem fazer uma longa carreira (talvez
+de uma década). Elas nunca ganham muito, uma vez que sua renda é
+
+restringida
+pelo
+número
+de
+clientes,
+mas
+se
+saem
+bem
+probabilisticamente. São, de certa forma, os dentistas da prossão.
+Fora dessa prossão bastante especializada que lembra um agente
+de apostas, para ser honesto, não sou capaz de determinar quem tem
+sorte e quem não tem. Sei que um tipo A parece ter menos sorte que
+um tipo B, mas minha conança nisso é tão fraca quanto
+insignicante. Prero permanecer cético. Com frequência, minha
+opinião é mal interpretada. Eu nunca disse que todos os ricos são
+idiotas e que as pessoas que não obtiveram sucesso não têm sorte. Na
+ausência de informações adicionais é preferível guardar seu
+julgamento para si mesmo. E mais seguro.
+

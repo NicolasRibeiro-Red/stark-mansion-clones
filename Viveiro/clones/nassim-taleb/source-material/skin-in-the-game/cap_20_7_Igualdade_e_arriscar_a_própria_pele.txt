@@ -1,0 +1,469 @@
+# 7. Igualdade e arriscar a própria pele
+
+Paginas: 134-146
+
+7. Igualdade e arriscar a própria pele
+O estático e o dinâmico — Como ir à falência e ser amado por muita gente — Os
+iguais de Piketty
+DESIGUALDADE VERSUS DESIGUALDADE
+Há desigualdades e desigualdades.
+A primeira é a desigualdade que as pessoas toleram, por exemplo, o
+entendimento de um indivíduo comparado ao de pessoas consideradas heróis —
+digamos, Einstein, Michelangelo ou o recluso matemático Grisha Perelman. Não
+é difícil reconhecer a superioridade deles. Isso se aplica a empresários, artistas,
+soldados, heróis, Bob Dylan, Sócrates, o atual chef-celebridade local, algum
+imperador romano de boa reputação, a exemplo de Marco Aurélio; em resumo,
+aqueles de quem alguém pode naturalmente ser um “fã”. Você talvez goste de
+imitá-los, pode aspirar a ser como eles, mas não se ressente.
+A segunda é a desigualdade que as pessoas consideram intolerável porque o
+sujeito parece ser apenas uma pessoa como você, exceto pelo fato de que ele vem
+manipulando o sistema e se metendo em negócio de rent-seeking, adquirindo
+privilégios injustificados — e, embora ele tenha algo que você não se importaria
+de ter (o que pode incluir uma namorada russa), você não é capaz de se tornar
+seu fã. A última categoria inclui banqueiros, burocratas que ficam ricos, ex-
+senadores que fazem lobby para a maligna Monsanto, executivos-chefes de barba
+feita que usam gravatas e âncoras e apresentadores de jornal que ganham bônus
+descomunais. Você não apenas os inveja; você se ofende com a fama deles, e a
+visão do carro caro, ou até mesmo um pouco mais caro que o normal, deles
+desencadeia certa amargura. Eles fazem com que você se sinta inferior.1
+Talvez haja algo dissonante no espetáculo de um escravo rico.
+A escritora Joan C. Williams, em um artigo perspicaz, explica que a classe
+trabalhadora estadunidense está impressionada com os ricos, como exemplos de
+
+vida e de comportamento, modelos a serem seguidos — algo que as pessoas na
+mídia, que se comunicam umas com as outras mas raramente com sujeitos no
+mundo real, não percebem, à medida que transmitem ideias normativas para as
+pessoas (“é assim que elas devem pensar”). Michèle Lamont, a autora de The
+Dignity of Working Men [A dignidade dos trabalhadores], citada por Williams,
+fez uma entrevista sistemática com operários norte-americanos e constatou um
+ressentimento com relação a profissionais liberais bem remunerados, mas,
+inesperadamente, não com os ricos.
+É seguro dizer que o público norte-americano — na verdade, todos os públicos
+— despreza as pessoas que ganham um salário alto, ou melhor, assalariados que
+ganham muito dinheiro. Na verdade, isso é generalizado para outros países: há
+alguns anos, os suíços, logo eles, votaram em um referendo nacional um projeto
+de lei que visava a limitar o salário dos altos executivos do país a um múltiplo do
+piso salarial. A lei não foi aprovada, mas o fato de eles pensarem nesses termos é
+bastante significativo. Pois entre os mesmos suíços há empresários riquíssimos, e
+pessoas que obtiveram sua celebridade por outros meios, em algum aspecto.
+Além disso, em países onde a riqueza vem do rent-seeking, do clientelismo
+político ou da captura regulatória (que, lembro ao leitor, é como os poderosos e
+os favorecidos com informações privilegiadas usam a regulamentação para
+enganar o público, ou a burocracia para retardar a concorrência), a riqueza é vista
+como soma zero.2 O que Pedro recebe é tirado de Paulo. Alguém que fica rico
+está enriquecendo às custas de outras pessoas. Em países como os Estados
+Unidos, onde a riqueza pode vir da destruição, as pessoas podem facilmente ver
+que alguém que enriquece não está tirando dólares do bolso; se duvidar está até
+colocando algumas cédulas no seu bolso. Por outro lado, a desigualdade, por
+definição, é soma zero.
+Neste capítulo, proporei que aquilo de que as pessoas se ressentem — ou o que
+deveria ofendê-las e melindrá-las — é o indivíduo que está no topo mas não
+arrisca a própria pele, isto é, porque não arca com seu quinhão de risco, ele é
+imune à possibilidade de cair de seu pedestal, saindo de sua faixa de renda ou
+riqueza e esperando na calçada na fila do seguro-desemprego. Novamente, por
+conta disso, os detratores de Donald Trump, quando ele ainda era candidato, não
+apenas entenderam mal o valor das cicatrizes como sinalização de risco, mas
+também não conseguiram perceber que, ao alardear o episódio de sua falência e
+seus prejuízos pessoais beirando o 1 bilhão de dólares, Trump eliminou o
+ressentimento (o segundo tipo de desigualdade) que as pessoas poderiam ter em
+
+relação a ele. Há algo de respeitável em perder 1 bilhão de dólares, contanto que
+seja seu próprio dinheiro.
+Além disso, alguém que não arrisca a própria pele — digamos, um executivo
+corporativo em tendência de alta, com resultados positivos e nenhum risco de
+baixa (o tipo que fala claramente nas reuniões) — é pago de acordo com algumas
+métricas que não refletem necessariamente a saúde de sua empresa; ele pode
+manipulá-las, ocultar riscos, receber o bônus, depois se aposentar (ou fazer a
+mesma coisa em outra empresa) e culpar seu sucessor por resultados
+subsequentes.
+No processo, também redefiniremos a desigualdade e fundamentaremos a
+noção em bases mais rigorosas. Mas primeiro precisamos introduzir a diferença
+entre dois tipos de enfoque, o estático e o dinâmico, já que arriscar a própria pele
+pode transformar um tipo de desigualdade em outro.
+Atentemos também para estas duas observações:
+A verdadeira igualdade é igualdade na probabilidade.
+e
+Arriscar a própria pele impede que os sistemas apodreçam.
+O ESTÁTICO E O DINÂMICO
+Visivelmente, um problema com os economistas (em especial aqueles que
+nunca correram riscos) é que eles têm dificuldades mentais com coisas que se
+movem e são incapazes de levar em consideração que as coisas que se movem têm
+atributos diferentes das coisas que não se movem. Essa é a razão pela qual a
+teoria da complexidade e as caudas longas (que explicaremos algumas páginas
+adiante) são desconhecidas para a maioria deles; os economistas também têm
+(severas) dificuldades com as intuições matemáticas e conceituais necessárias
+para se aprofundar na teoria de probabilidade. A cegueira à ergodicidade, que
+começaremos a definir daqui a alguns parágrafos é, de fato, na minha opinião, o
+melhor indicador para separar um estudioso genuíno que entende algo sobre o
+mundo de um picareta acadêmico que participa da redação ritualística de artigos
+acadêmicos.
+Algumas definições:
+A desigualdade estática é um instantâneo da desigualdade; não reflete o que vai
+acontecer com você ao longo da sua vida.
+
+Considere que cerca de 10% dos norte-americanos passarão pelo menos um
+ano entre o 1% de mais abastados, e mais da metade de todos os norte-
+americanos passará um ano entre os 10% do topo.3 É visível que o mesmo não
+ocorre na mais estática — mas nominalmente mais igualitária — Europa. Por
+exemplo, apenas 10% dos quinhentos indivíduos ou dinastias estadunidenses
+mais ricos eram os mais afortunados trinta anos atrás; mais de 60% na lista
+francesa são herdeiros, e um terço dos europeus mais ricos já eram os mais ricos
+há séculos. Em Florença, acabou de ser revelado que as coisas são ainda piores: o
+mesmo punhado de famílias manteve a riqueza ao longo de cinco séculos.
+A desigualdade dinâmica (ergódica) leva em conta todo o futuro e todo o
+passado.
+Não se cria igualdade dinâmica apenas elevando-se o nível dos que estão na
+parte mais baixa, mas sim fazendo os ricos rotacionarem — ou forçando as
+pessoas a incorrerem na possibilidade de criar uma abertura.
+A maneira de tornar a sociedade mais igualitária é forçando
+(por meio do conceito de arriscar-a-própria-pele)
+os ricos a se sujeitarem ao risco de sair do 1%.4
+A condição que explicito aqui é mais forte do que a mera mobilidade de renda.
+Mobilidade significa que alguém pode ficar rico. A condição de nenhuma barreira
+absorvente significa que alguém que é rico jamais deveria ter certeza de que vai
+continuar rico.
+Agora, em termos ainda mais matemáticos,
+A igualdade dinâmica é o que restaura a ergodicidade, tornando o tempo e as
+probabilidades de agrupamento substituíveis.
+Deixe-me falar sobre ergodicidade — algo que afirmamos ser desconhecido da
+intelligentsia. O capítulo 19, no final do livro, entra em detalhes; a ergodicidade
+cancela os mais decisivos experimentos psicológicos relacionados à probabilidade
+e racionalidade. A explicação por ora é a seguinte. Considere um panorama de
+corte transversal da população dos Estados Unidos. Temos, digamos, uma
+minoria de milionários no 1% do topo, alguns acima do peso, alguns altos, outros
+bem-humorados. Há uma grande maioria de pessoas da classe média baixa,
+instrutores de ioga, especialistas em confeitaria, consultores de jardinagem,
+teóricos de planilhas, instrutores de dança e consertadores de piano — e, é claro,
+
+o especialista em gramática da língua espanhola. Considere as porcentagens de
+cada faixa de renda ou riqueza (note que a desigualdade de renda é tipicamente
+mais nivelada que a da riqueza). Ergodicidade perfeita significa que cada um de
+nós, se vivesse para sempre, passaria uma proporção do tempo nas condições
+econômicas de todo o corte transversal: no decorrer de, digamos, um século, uma
+média de sessenta anos na classe média baixa, dez anos na classe média alta, vinte
+anos na classe operária e talvez um único ano no 1% dos mais abastados.5,6
+O exato oposto da ergodicidade perfeita é um estado absorvente. O termo
+absorção é derivado de partículas que, quando atingem um obstáculo, são
+absorvidas ou aderem a ele. Uma barreira absorvente é como uma armadilha: uma
+vez dentro dela, não há como sair, para o bem ou para o mal. Uma pessoa fica
+rica por algum processo, depois de ter alcançado o sucesso e o reconhecimento, e
+permanece rica. E se alguém entrar na classe média baixa (vindo de cima), nunca
+terá a chance de sair dali e enriquecer (se quiser, é claro), portanto, justifica-se
+que a pessoa se ressinta dos ricos. Você notará que, onde o Estado é forte, as
+pessoas no topo tendem a ter pouca mobilidade descendente — em lugares como
+a França, o Estado é amigo íntimo das grandes corporações e protege seus
+executivos e acionistas de sentirem na pele essa descendência; até mesmo
+encoraja a ascensão deles.
+E nenhuma desvantagem para alguns significa nenhuma vantagem para os
+demais.
+PIKETTISMO E A REVOLTA DA CLASSE DOS MANDARINS7
+Há uma classe volta e meia chamada de mandarins, em virtude do livro de
+memórias romantizado da autora francesa Simone de Beauvoir, em referência aos
+burocratas e altos funcionários públicos pertencentes ao escalão dos letrados
+durante a dinastia Ming (a língua chinesa oficial também é chamada de
+mandarim). Eu sempre soube da existência deles, mas um atributo saliente — e
+pernicioso — me ocorreu enquanto observava as reações de seus membros às
+obras do economista francês Thomas Piketty.
+Piketty imitou Karl Marx ao escrever um ambicioso livro sobre o capital. Um
+amigo me deu o livro de presente na edição em francês (quando a obra ainda era
+desconhecida fora da França), porque acho recomendável e louvável que as
+pessoas publiquem no formato de volume seus trabalhos originais e não
+matemáticos em ciências sociais. O livro Le capital au XXI siècle8 faz afirmações
+agressivas acerca do alarmante aumento da desigualdade, acrescentando a isso
+
+uma teoria de por que o capital tende a exigir um retorno excessivo em relação ao
+trabalho e como a ausência de redistribuição e desapropriação pode causar o
+colapso mundial. A teoria de Piketty sobre o aumento no retorno do capital em
+relação ao trabalho está patentemente equivocada, como bem sabe qualquer
+pessoa que tenha testemunhado a ascensão do que é chamado de “economia do
+conhecimento” (ou qualquer pessoa que tenha tido investimentos em geral).
+É claro, quando se diz que a desigualdade muda do primeiro para o segundo
+ano, é preciso mostrar que aqueles que estão no topo são as mesmas pessoas —
+algo que Piketty não faz (lembre-se de que ele é um economista e tem problemas
+com coisas que se movem). Mas o problema não para por aí. Não demorei muito
+tempo para descobrir que — além de tirar conclusões a partir de medidas
+estáticas de desigualdade — os métodos que o francês usou eram imperfeitos: as
+ferramentas de Piketty não correspondiam ao que ele pretendia demonstrar sobre
+o aumento da desigualdade. Não havia rigor matemático algum. Logo escrevi dois
+artigos (um em colaboração com Raphael Douady, outro com Andrea Fontanari e
+Pasquale Cirillo, publicado em Physica A: Statistical Mechanics and Applications),
+sobre a medida da desigualdade que consiste em considerar as posses, digamos,
+do 1% e monitorar suas variações. A falha é que, se levarmos em conta a
+desigualdade assim medida na Europa como um todo, veremos que ela é maior
+do que a desigualdade média entre os países componentes; o viés aumenta em
+severidade com processos que geram um alto grau de desigualdade. Em suma, os
+artigos incluíam teoremas e provas suficientes para torná-los obras tão sólidas
+quanto se pode ter na ciência; embora não fosse necessário, insisti em colocar os
+resultados em forma de teorema, porque uma pessoa não pode contestar um
+teorema sem pôr em questão sua própria compreensão matemática.
+A razão pela qual esses erros foram ignorados é que os economistas que
+trabalham com desigualdade não estavam familiarizados com a… desigualdade. A
+desigualdade é a desproporção do papel da cauda — as pessoas ricas estavam nas
+caudas da distribuição.9 Quanto mais desigualdade no sistema, maior o efeito “o
+vencedor leva tudo”, e mais nos afastamos dos métodos Mediocristãos de cauda
+curta (ver Glossário) em que os economistas foram formados. O processo de
+riqueza é dominado pelos efeitos “o vencedor leva tudo”. Qualquer forma de
+controle do processo de riqueza — normalmente instigado por burocratas —
+tende a prender as pessoas com privilégios em seu estado regalista de
+prerrogativa de direitos adquiridos. Portanto, a solução é permitir que o sistema
+destrua os fortes, algo que funciona melhor nos Estados Unidos.
+
+Mas havia algo muito, muito mais grave do que um acadêmico erudito estar
+errado.
+O problema nunca é o problema; é como as pessoas lidam com ele. Pior que as
+falhas de Piketty foi a descoberta de como funciona a tal classe de mandarins.
+Eles ficaram tão prematuramente empolgados com a “evidência” do aumento da
+desigualdade que suas reações se espalharam como as fake news. Na verdade,
+eram mesmo fake news. Economistas ficam arrebatados e se deixam levar; eles
+enalteceram Piketty por sua “erudição”, porque ele discutia Balzac e Jane Austen,
+o equivalente a saudar como um halterofilista alguém que foi visto atravessando o
+Terminal B carregando uma valise. E ignoraram completamente meus resultados
+— e quando não o fizeram, foi para declarar que eu era “arrogante” (lembre-se da
+estratégia de usar a matemática formal como uma maneira de tornar impossível
+dizer que você está errado) —, o que é praticamente uma forma de elogio
+científico. Até mesmo Paul Krugman (um economista e intelectual famoso nos
+dias de hoje) escreveu: “Se você acha que encontrou um furo óbvio, empírico ou
+lógico em Piketty, provavelmente está errado. Ele fez sua lição de casa!”. Quando
+o conheci pessoalmente e apontei essa falha, ele se esquivou — não
+necessariamente por má intenção, mas muito provavelmente porque
+probabilidade e combinatória escapavam a sua compreensão, como ele próprio
+admitiu.
+Agora, leve em consideração que figuras da laia de Krugman e Piketty não têm
+desvantagens e riscos de baixa em sua existência — a redução da desigualdade os
+coloca mais alto na escada da vida. A menos que o sistema universitário ou o
+Estado francês sofram um colapso financeiro e vão à bancarrota, eles continuarão
+recebendo seus contracheques. O camarada que você acabou de ver na
+churrascaria coberto de cordões de ouro está exposto ao risco da fila do seguro-
+desemprego, eles, não. Assim como aqueles que vivem da espada morrem pela
+espada, aqueles que ganham a vida assumindo riscos perderão seu sustento
+correndo riscos.10
+Demos uma excessiva e retumbante importância a Piketty aqui porque o
+entusiasmo generalizado por seu livro foi representativo do comportamento
+daquela classe de pessoas que amam teorizar e se envolver em falsa solidariedade
+com os oprimidos, enquanto consolidam os próprios privilégios.
+SAPATEIRO TEM INVEJA DE SAPATEIRO
+
+A razão pela qual as pessoas comuns não são tão rancorosas quanto os
+“intelectuais” e burocratas é que a inveja não percorre longas distâncias,
+tampouco atravessa muitas classes sociais. A inveja não se origina junto aos
+empobrecidos, preocupados com a melhoria de sua condição, mas no seio da
+classe administrativa e burocrática. Em termos simples, parece que foram os
+professores universitários (que “alcançaram o sucesso e o reconhecimento”) e as
+pessoas com renda permanente, na forma de estabilidade de emprego,
+governamental ou acadêmico, que acreditaram de forma sincera e acrítica no
+argumento de Piketty. A partir de conversas, convenci-me de que as pessoas que
+contrafactualizam para cima (ou seja, comparam-se aos que são mais ricos)
+querem ativamente despojar os abastados. Como em todos os movimentos
+comunistas, muitas vezes são as classes burguesas ou burocráticas as primeiras a
+encampar as teorias revolucionárias. Então, a inveja de classe não se origina de
+um caminhoneiro no sul do Alabama, mas de um IPI de Nova York ou
+Washington, DC, educado em uma universidade de elite (Paul Krugman ou
+Joseph Stiglitz, por exemplo) com senso de merecimento de direitos adquiridos,
+incomodado com a ideia de que algumas pessoas “menos espertas do que ele”
+sejam muito mais ricas.
+Aristóteles, em sua Retórica, postulou que as pessoas geralmente sentem inveja
+daquelas que são afins, iguais ou parecidas consigo em aspectos como idade,
+classificação social, proximidade, reputação e quantidade de bens: é mais
+provável que as classes mais baixas invejem seus primos ou a classe média do que
+os muito ricos. E a expressão Ninguém é profeta em sua própria terra, fazendo da
+inveja uma coisa geográfica (alguns julgam, equivocadamente, que se originou
+com Jesus), deriva dessa passagem da Retórica. O próprio Aristóteles estava se
+baseando em Hesíodo: sapateiro tem inveja de sapateiro, carpinteiro tem inveja de
+carpinteiro. Mais tarde, Jean de La Bruyère escreveu que a inveja é encontrada
+dentro da mesma arte, talento e condição.11
+Portanto, duvido que Piketty tenha se dado ao trabalho de perguntar aos
+operários franceses o que eles querem, como fez Michèle Lamont (conforme
+vimos anteriormente no capítulo). Tenho certeza de que pediriam uma cerveja
+melhor, um novo lava-louça ou trens mais rápidos para o trajeto entre sua casa e
+o trabalho, e não a ruína de um empresário rico e distante. Porém, uma vez mais,
+as pessoas podem forjar perguntas e retratar o enriquecimento como roubo, o
+que foi feito antes da Revolução Francesa, caso em que a classe operária pediria,
+mais uma vez, que cabeças rolassem.12
+
+DESIGUALDADE, RIQUEZA E SOCIALIZAÇÃO VERTICAL
+Se os intelectuais estão excessivamente preocupados com a desigualdade, é
+porque tendem a ver a si mesmos em termos hierárquicos e, portanto, pensam
+que os outros também o fazem. Além disso, como que por patologia, as
+discussões em universidades “competitivas” giram todas em torno da hierarquia.
+A maioria das pessoas no mundo real não fica obcecada com isso.13
+No passado mais rural, a inveja era bastante controlada; os ricos não eram tão
+expostos a outras pessoas de sua classe. Não sofriam a pressão para manter o
+mesmo nível de vida de outros ricos e competir com eles.
+Os ricos permaneciam nos limites de sua região, rodeados de pessoas que
+dependiam deles — um lorde em sua propriedade, por exemplo. Exceto pela
+ocasional temporada nas cidades, sua vida social era bastante vertical. Seus filhos
+brincavam com os filhos dos servos.
+Foi em ambientes mercantis urbanos que ocorreu a socialização dentro das
+classes sociais. E, com o passar do tempo, com a industrialização, os ricos
+começaram a se deslocar para cidades ou subúrbios, cercando-se de pessoas em
+condição similar a sua, mas não completamente. Por isso, não podiam ficar para
+trás e precisavam manter-se no mesmo nível dos outros, correndo em uma
+esteira.
+Para uma pessoa rica isolada da socialização vertical com os pobres, os pobres
+tornam-se algo inteiramente teórico, uma referência de livros didáticos. Como
+mencionei no capítulo anterior, ainda estou para ver um decano bien pensant de
+Cambridge saindo para beber com taxistas paquistaneses ou levantando peso na
+companhia de falantes do dialeto cockney. A intelligentsia, portanto, sente-se no
+direito de lidar com os pobres como um constructo; uma construção puramente
+mental que eles mesmos criaram. Assim, eles se convencem de que sabem o que
+é melhor para eles.
+EMPATIA E HOMOFILIA
+Lembre-se do problema da escala, do dimensionamento, a ideia de que as
+regras éticas das pessoas não são universais; eles variam de acordo com se alguém
+é “suíço”, isto é, um forasteiro ou não.
+O mesmo se aplica à empatia (o reverso da inveja). Você pode ver que as
+pessoas se compadecem mais por aqueles de sua própria classe.
+Tradicionalmente, a classe alta se dedicou a resgatar pessoas de famílias
+arruinadas tornando-as “mordomos” ou “damas de companhia”. Essa proteção
+
+intragrupo tem uma característica de autosseguro — algo que só pode funcionar
+para um número limitado de pessoas e não pode ser universalizado: você cuida da
+minha progênie se ela se arruinar; eu cuidarei da sua.
+DADOS, SHMATA
+Outra lição do ambicioso volume de Piketty: está abarrotado de gráficos e
+tabelas. Há uma lição aqui: o que aprendemos com os profissionais do mundo
+real é que os dados não são necessariamente rigorosos. Uma razão pela qual eu —
+como profissional de probabilidade — deixei dados de fora de A lógica do Cisne
+Negro (exceto para fins ilustrativos) é que me parece que as pessoas inundam
+suas histórias com números e gráficos na ausência de argumentos sólidos ou
+lógicos. Ademais, as pessoas confundem empirismo com uma avalanche de
+dados. Quando se está certo, basta um punhado de dados significativos,
+particularmente quando é um empirismo desconfirmador, ou contraexemplos:
+apenas um ponto de dados (um único desvio extremo) é suficiente para mostrar
+que os Cisnes Negros existem.
+Os traders, quando obtêm lucros, comunicam-se com brevidade; quando
+sofrem prejuízos, afogam o interlocutor em detalhes, teorias e gráficos.
+Probabilidade, estatística e ciência de dados são principalmente lógica
+alimentada por observações — e ausência de observações. Para muitos ambientes,
+os pontos de dados relevantes são aqueles nos extremos; estes são raros por
+definição, e é suficiente concentrar-se naqueles poucos mas grandes para ter uma
+ideia da história. Se você quiser mostrar que uma pessoa tem mais que, digamos,
+10 milhões de dólares, tudo de que você precisa é mostrar os 50 milhões de
+dólares na conta de corretagem dela, e não, além disso, listar cada peça de
+mobília na casa dela, incluindo a pintura de quinhentos dólares no escritório e as
+colheres de prata na despensa. Assim descobri, com a experiência, que quando
+você compra um livro grosso com toneladas de gráficos e tabelas usados para
+provar a pertinência de um argumento deve ficar desconfiado. Isso significa que
+ainda há alguma coisa a destilar, algo cujo cerne você não entendeu direito! Mas
+para o público em geral e aqueles que não são treinados em estatística, essas
+tabelas parecem convincentes — outra maneira de substituir o verdadeiro pelo
+complicado.
+Por exemplo, o jornalista de ciência Steven Pinker apelou para esse truque com
+seu livro The Better Angels of Our Nature,14 que alega ter havido um declínio da
+violência na história humana contemporânea, o que ele atribui a instituições
+
+modernas. Meu colaborador Pasquale Cirillo e eu, quando submetemos os
+“dados” de Pinker a escrutínio, descobrimos que ou ele não entendia seus
+próprios números (a bem da verdade, ele não entendia) ou tinha uma história em
+mente e continuou adicionando gráficos, sem perceber que estatísticas não dizem
+respeito a dados, mas a destilação, rigor e evitar ser enganado pela aleatoriedade
+— mas não importa, o público em geral e seus colegas IPIs adoradores do Estado
+acharam impressionante (por algum tempo).
+ÉTICA DO FUNCIONALISMO PÚBLICO
+Vamos terminar esta discussão com uma injustiça que é pior do que a
+desigualdade: a dolorosa visão dos indivíduos da retaguarda do funcionalismo
+público que não correm riscos e enriquecem.
+Quando, ao deixar a presidência, Barack Obama aceitou uma quantia de mais
+de 40 milhões de dólares para escrever suas memórias, muitas pessoas ficaram
+indignadas. Seus partidários, por outro lado, estatistas que o defenderam,
+criticaram os ricos empreendedores contratados pelo governo que o sucedeu.
+Dinheiro é ganância, para eles — mas aqueles que não ganharam o dinheiro via
+comércio foram ilogicamente poupados. Sofri um bocado explicando que pessoas
+ricas ocupando um cargo público são algo muito diferente de pessoas públicas
+que se tornam ricas — de novo, é a dinâmica, a sequência, o que importa.
+Pessoas ricas em cargos públicos mostraram algumas evidências de falta de
+incompetência total — o sucesso pode vir da aleatoriedade, é claro, mas pelo
+menos temos um indício de alguma habilidade no mundo real, alguma evidência
+de que a pessoa lidou com a realidade. Decerto isso está condicionado à pessoa
+ter arriscado a própria pele no jogo — e é melhor que ele ou ela tenha sofrido
+uma explosão, tenha sentido na pele ao menos uma vez a perda de parte de sua
+fortuna e a angústia associada a isso.
+Como de costume, há uma mistura do ético e do efetivo aqui.
+É absolutamente antiético usar um cargo público para enriquecer.
+Uma boa regra para a sociedade é obrigar aqueles que começam no serviço
+público a jurar que, posteriormente, jamais receberão do setor privado mais do
+que uma quantia fixa determinada; o restante deve ir para o contribuinte. Isso
+garantirá sinceridade no, literalmente, “serviço” — funcionários públicos são
+supostamente mal pagos devido à recompensa emocional de servir à sociedade.
+Isso provaria que eles não ingressaram no setor público como uma estratégia de
+
+investimento: uma pessoa não se torna um padre jesuíta porque isso pode ajudá-
+la a ser contratada pela Goldman Sachs mais tarde, depois que ela finalmente
+largar a batina — dada a erudição e o magistral controle da casuística em geral
+associados à Companhia de Jesus.
+Atualmente, em sua maioria os funcionários públicos tendem a permanecer no
+serviço público — exceto aqueles em áreas delicadas que a indústria controla: o
+segmento agroalimentar, finanças, aeroespacial, qualquer coisa relativa à Arábia
+Saudita…
+Um servidor público ou servidora pública pode criar regras que sejam benéficas
+para um setor como o bancário — e depois correr em disparada para o J. P.
+Morgan e recuperar um múltiplo da diferença entre seu salário atual e a taxa de
+mercado (os reguladores, o leitor deve se lembrar, têm um incentivo para tornar
+as regras tão complexas quanto possível, para que seus conhecimentos
+especializados possam ser contratados mais tarde a um preço mais alto).
+Portanto, há um suborno implícito no funcionalismo público: a pessoa atua
+como o criado de uma indústria, digamos, a Monsanto, e eles cuidam dela mais
+tarde. Eles não fazem isso movidos por um senso de honra: simplesmente, é
+necessário manter o sistema funcionando e incentivar o próximo a jogar de
+acordo com essas regras. O ex-secretário de Tesouro Tim Geithner, IPI e
+praticante de conchavos — e com quem compartilho o barbeiro calabrês do
+Prólogo — foi ostensivamente recompensado pelo setor que ele ajudou a resgatar.
+Geithner ajudou os banqueiros a obter socorro financeiro, deixou-os pagarem a si
+mesmos o maior volume de polpudos bônus da história depois da crise, em 2010
+(ou seja, usando dinheiro do contribuinte), e, como recompensa por bom
+comportamento, conseguiu um emprego multimilionário em uma instituição
+financeira.
+A SEGUIR
+Há uma cruel dependência de domínio de conhecimentos especializados: o
+eletricista, o dentista, o estudioso de verbos irregulares do português, o assistente
+de colonoscopista, o taxista em Londres e o geômetra algébrico são especialistas
+(mais ou menos algumas variações locais), ao passo que o jornalista, o burocrata
+do Departamento de Estado, o psicólogo clínico, o teórico da administração, o
+editor-executivo e o macroeconomista, não. Isso nos permite responder às
+perguntas: Quem é o verdadeiro especialista? Quem decide quem é e quem não
+é um especialista? Onde está o metaespecialista?
+
+O tempo é o especialista. Ou melhor, a temperamental e implacável Lindy,
+como vemos no próximo capítulo.
+1. Chegou ao meu conhecimento que, em países com alto rent-seeking, a riqueza é vista como algo de soma
+zero: você toma de Pedro para dar a Paulo. Por outro lado, em lugares com baixo rent-seeking (digamos, os
+Estados Unidos antes do governo Obama), a riqueza é vista como um jogo de soma positiva, beneficiando a
+todos.
+2. Regulamentações complexas permitem que ex-funcionários do governo encontrem empregos ajudando as
+empresas a burlar as regras que eles mesmos criaram.
+3. Trinta e nove por cento dos norte-americanos passarão um ano na fatia dos 5% do topo da distribuição de
+renda; 56% estarão entre os 10% do topo, e 73% passarão um ano entre os 20%.
+4. Ou, de forma mais matemática: a igualdade dinâmica supõe a cadeia de Markov sem estados absorventes.
+5. Um comentário técnico (para os detalhistas): o que podemos chamar aqui de ergodicidade imperfeita
+significa que cada um de nós tem probabilidades ergódicas a longo prazo com alguma variação entre os
+indivíduos: a probabilidade de você terminar no 1% pode ser maior que a minha; no entanto, nenhum estado
+terá uma probabilidade de 0 para mim e nenhum estado terá uma probabilidade de transição de 1 para você.
+6. Outro comentário para os minuciosos. O “véu da ignorância” de Rawls, discutido em Iludido pelo acaso,
+pressupõe que uma sociedade justa é aquela que você selecionaria caso houvesse algum tipo de loteria. Aqui
+vamos mais adiante e discutimos uma estrutura dinâmica; em outras palavras, como tal sociedade se
+movimentaria, pois obviamente não será estática.
+7. Esta seção é técnica e pode ser ignorada por aqueles que não se impressionam de modo especial com
+economistas.
+8. Thomas Piketty, O capital no século XXI. Rio de Janeiro: Intrínseca, 2014. (N. T.)
+9. O tipo de distribuição — chamadas de caudas longas — associado a ela tornou as análises muito mais
+delicadas e se converteu em minha especialidade matemática. No Mediocristão, as mudanças ao longo do
+tempo são o resultado das contribuições coletivas do centro, o meio. No Extremistão essas mudanças vêm
+das caudas. Sinto muito se você não concorda, mas isso é puramente matemático.
+10. Se o processo é de cauda longa (Extremistão), então a riqueza é gerada no topo, o que significa que os
+aumentos na riqueza levam a aumentos da desigualdade. Dentro das populações, a criação de riqueza é uma
+série de pequenas apostas de probabilidade. Portanto, é natural que o conjunto de riqueza (medido em anos
+de gastos, como faz Piketty) aumente com a riqueza. Considere cem pessoas em um mundo 80/20: a
+riqueza adicional deve vir de uma pessoa, e os cinquenta restantes da parte de baixo em nada contribuem.
+Não é um ganho de soma zero: elimine essa pessoa, e quase não haverá aumento de riqueza. De fato, o resto
+já está se beneficiando da contribuição da minoria.
+11. La Bruyère: L’émulation et la jalousie ne se rencontrent guère que les personnes du même art, de même talent
+et de même condition.
+12. O que aconteceu com o escândalo das despesas do Parlamento do Reino Unido: os parlamentares
+estavam se presenteando com TVs e máquinas lava-louça, algo que o público conseguia facilmente perceber e
+que revoltou a opinião pública. Um parlamentar disse: “Não é a mesma coisa que roubar 1 milhão em títulos
+da dívida pública”. O público entende de televisores, não de títulos.
+13. Há um argumento técnico de que, se olharmos para a questão dinamicamente, não estaticamente, um
+imposto sobre grandes fortunas favorece o assalariado em detrimento do empreendedor.
+14. Os anjos bons da nossa natureza: Por que a violência diminuiu. São Paulo: Companhia das Letras, 2017. (N.
+T.)
+

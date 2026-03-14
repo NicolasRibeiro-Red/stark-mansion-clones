@@ -1,0 +1,85 @@
+# Additional Resources
+
+Paginas: 360-361
+
+Additional Resources
+• “Building a Real-Time Data Vault in Snowflake” by Dmytro Yaroshenko and Kent
+•
+Graziano
+• Building a Scalable Data Warehouse with Data Vault 2.0 (Morgan Kaufmann) by
+•
+Daniel Linstedt and Michael Olschimke
+• Building the Data Warehouse (Wiley), Corporate Information Factory, and The
+•
+Unified Star Schema (Technics Publications) by W. H. (Bill) Inmon
+• “Caching in Snowflake Data Warehouse” Snowflake Community page
+•
+• “Data Warehouse: The Choice of Inmon vs. Kimball” by Ian Abramson
+•
+• The Data Warehouse Toolkit by Ralph Kimball and Margy Ross (Wiley)
+•
+• “Data Vault—An Overview” by John Ryan
+•
+• “Data Vault 2.0 Modeling Basics” by Kent Graziano
+•
+• “A Detailed Guide on SQL Query Optimization” tutorial by Megha
+•
+• “Difference Between Kimball and Inmon” by manmeetjuneja5
+•
+• “Eventual vs. Strong Consistency in Distributed Databases” by Saurabh.v
+•
+• “The Evolution of the Corporate Information Factory” by Bill Inmon
+•
+• Gavroshe USA’s “DW 2.0” web page
+•
+• Google Cloud’s “Using Cached Query Results” documentation
+•
+• Holistics’ “Cannot Combine Fields Due to Fan-Out Issues?” FAQ page
+•
+• “How a SQL Database Engine Works,” by Dennis Pham
+•
+• “How Should Organizations Structure Their Data?” by Michael Berk
+•
+• “Inmon or Kimball: Which Approach Is Suitable for Your Data Warehouse?” by
+•
+Sansu George
+• “Introduction to Data Vault Modeling” document, compiled by Kent Graziano
+•
+and Dan Linstedt
+• “Introduction to Data Warehousing”, “Introduction to Dimensional Modelling
+•
+for Data Warehousing”, and “Introduction to Data Vault for Data Warehousing”
+by Simon Kitching
+• Kimball Group’s “Four-Step Dimensional Design Process”, “Conformed Dimen‐
+•
+sions”, and “Dimensional Modeling Techniques” web pages
+• “Kimball vs. Inmon vs. Vault” Reddit thread
+•
+• “Modeling of Real-Time Streaming Data?” Stack Exchange thread
+•
+• “The New ‘Unified Star Schema’ Paradigm in Analytics Data Modeling Review”
+•
+by Andriy Zabavskyy
+Additional Resources
+|
+335
+
+• Oracle’s “Slowly Changing Dimensions” tutorial
+•
+• ScienceDirect’s “Corporate Information Factory” web page
+•
+• “A Simple Explanation of Symmetric Aggregates or ‘Why on Earth Does My SQL
+•
+Look Like That?’” by Lloyd Tabb
+• “Streaming Event Modeling” by Paul Stanton
+•
+• “Types of Data Warehousing Architecture” by Amritha Fernando
+•
+• US patent for “Method and Apparatus for Functional Integration of Metadata”
+•
+• Zentut’s “Bill Inmon Data Warehouse” web page
+•
+336
+|
+Chapter 8: Queries, Modeling, and Transformation
+

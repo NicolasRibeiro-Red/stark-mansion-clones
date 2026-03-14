@@ -1,0 +1,45 @@
+# Data Architecture
+
+Paginas: 210-210
+
+engineering team is continuously deploying, a code change may cause unanticipated
+failures in the application itself. How will the failure impact your ability to access the
+databases powering the application? Will the data be up-to-date?
+Set up a clear communication chain between data engineering and the teams
+supporting the source systems. Ideally, these stakeholder teams have incorporated
+DevOps into their workflow and culture. This will go a long way to accomplishing
+the goals of DataOps (a sibling of DevOps), to address and reduce errors quickly.
+As we mentioned earlier, data engineers need to weave themselves into the DevOps
+practices of stakeholders, and vice versa. Successful DataOps works when all people
+are on board and focus on making systems holistically work.
+A few DataOps considerations are as follows:
+Automation
+There’s the automation impacting the source system, such as code updates and
+new features. Then there’s the DataOps automation that you’ve set up for your
+data workflows. Does an issue in the source system’s automation impact your
+data workflow automation? If so, consider decoupling these systems so they can
+perform automation independently.
+Observability
+How will you know when there’s an issue with a source system, such as an
+outage or a data-quality issue? Set up monitoring for source system uptime (or
+use the monitoring created by the team that owns the source system). Set up
+checks to ensure that data from the source system conforms with expectations
+for downstream usage. For example, is the data of good quality? Is the schema
+conformant? Are customer records consistent? Is data hashed as stipulated by the
+internal policy?
+Incident response
+What’s your plan if something bad happens? For example, how will your data
+pipeline behave if a source system goes offline? What’s your plan to backfill the
+“lost” data once the source system is back online?
+Data Architecture
+Similar to data management, unless you’re involved in the design and maintenance
+of the source system architecture, you’ll have little impact on the upstream source
+system architecture. You should also understand how the upstream architecture is
+designed and its strengths and weaknesses. Talk often with the teams responsible for
+the source systems to understand the factors discussed in this section and ensure that
+their systems can meet your expectations. Knowing where the architecture performs
+well and where it doesn’t will impact how you design your data pipeline.
+Undercurrents and Their Impact on Source Systems
+|
+185
+

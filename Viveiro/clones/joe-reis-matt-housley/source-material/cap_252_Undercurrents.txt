@@ -1,0 +1,45 @@
+# Undercurrents
+
+Paginas: 288-288
+
+Simply improving communication is a significant first step. Often software engineers
+have already identified potentially valuable data for downstream consumption. Open‐
+ing a communication channel encourages software engineers to get data into shape
+for consumers and communicate about data changes to prevent pipeline regressions.
+Beyond communication, data engineers can highlight the contributions of software
+engineers to team members, executives, and especially product managers. Involving
+product managers in the outcome and treating downstream data processed as part of
+a product encourages them to allocate scarce software development to collaboration
+with data engineers. Ideally, software engineers can work partially as extensions of the
+data engineering team; this allows them to collaborate on various projects, such as
+creating an event-driven architecture to enable real-time analytics.
+Downstream Stakeholders
+Who is the ultimate customer for data ingestion? Data engineers focus on data
+practitioners and technology leaders such as data scientists, analysts, and chief tech‐
+nical officers. They would do well also to remember their broader circle of business
+stakeholders such as marketing directors, vice presidents over the supply chain, and
+CEOs.
+Too often, we see data engineers pursuing sophisticated projects (e.g., real-time
+streaming buses or complex data systems) while digital marketing managers next
+door are left downloading Google Ads reports manually. View data engineering as a
+business, and recognize who your customers are. Often basic automation of ingestion
+processes has significant value, especially for departments like marketing that control
+massive budgets and sit at the heart of revenue for the business. Basic ingestion work
+may seem tedious, but delivering value to these core parts of the company will open
+up more budget and more exciting long-term data engineering opportunities.
+Data engineers can also invite more executive participation in this collaborative
+process. For a good reason, data-driven culture is quite fashionable in business
+leadership circles. Still, it is up to data engineers and other data practitioners to
+provide executives with guidance on the best structure for a data-driven business.
+This means communicating the value of lowering barriers between data producers
+and data engineers while supporting executives in breaking down silos and setting up
+incentives to lead to a more unified data-driven culture.
+Once again, communication is the watchword. Honest communication early and often
+with stakeholders will go a long way to ensure that your data ingestion adds value.
+Undercurrents
+Virtually all the undercurrents touch the ingestion phase, but we’ll emphasize the
+most salient ones here.
+Undercurrents
+|
+263
+

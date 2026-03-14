@@ -1,0 +1,289 @@
+{
+  "titulo": "",
+  "autor": "",
+  "total_paginas": 258,
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "Title",
+      "paginas": "4-4",
+      "arquivo": "cap_01_Title.txt"
+    },
+    {
+      "numero": 2,
+      "titulo": "Copyright",
+      "paginas": "5-6",
+      "arquivo": "cap_02_Copyright.txt"
+    },
+    {
+      "numero": 3,
+      "titulo": "Contents",
+      "paginas": "7-8",
+      "arquivo": "cap_03_Contents.txt"
+    },
+    {
+      "numero": 4,
+      "titulo": "Foreword",
+      "paginas": "9-11",
+      "arquivo": "cap_04_Foreword.txt"
+    },
+    {
+      "numero": 5,
+      "titulo": "Acknowledgments",
+      "paginas": "12-13",
+      "arquivo": "cap_05_Acknowledgments.txt"
+    },
+    {
+      "numero": 6,
+      "titulo": "What Is Expert Secrets?",
+      "paginas": "14-15",
+      "arquivo": "cap_06_What_Is_Expert_Secrets.txt"
+    },
+    {
+      "numero": 7,
+      "titulo": "Introduction",
+      "paginas": "16-19",
+      "arquivo": "cap_07_Introduction.txt"
+    },
+    {
+      "numero": 8,
+      "titulo": "The Two Types of Expert Businesses",
+      "paginas": "20-24",
+      "arquivo": "cap_08_The_Two_Types_of_Expert_Businesses.txt"
+    },
+    {
+      "numero": 9,
+      "titulo": "SECTION ONE: CREATING YOUR MASS MOVEMENT",
+      "paginas": "25-26",
+      "arquivo": "cap_09_SECTION_ONE_CREATING_YOUR_MASS_MOVEMENT.txt"
+    },
+    {
+      "numero": 10,
+      "titulo": "Secret #1 The Charismatic Leader / Attractive Character",
+      "paginas": "27-46",
+      "arquivo": "cap_10_Secret_1_The_Charismatic_Leader_Attractive_Charact.txt"
+    },
+    {
+      "numero": 11,
+      "titulo": "Secret #2 The Cause",
+      "paginas": "47--2",
+      "arquivo": "cap_11_Secret_2_The_Cause.txt"
+    },
+    {
+      "numero": 12,
+      "titulo": "SECTION ONE: CREATING YOUR MASS MOVEMENT",
+      "paginas": "-1-63",
+      "arquivo": "cap_12_SECTION_ONE_CREATING_YOUR_MASS_MOVEMENT.txt"
+    },
+    {
+      "numero": 13,
+      "titulo": "Secret #3 The New Opportunity",
+      "paginas": "64-76",
+      "arquivo": "cap_13_Secret_3_The_New_Opportunity.txt"
+    },
+    {
+      "numero": 14,
+      "titulo": "Secret #4 The Opportunity Switch",
+      "paginas": "77-93",
+      "arquivo": "cap_14_Secret_4_The_Opportunity_Switch.txt"
+    },
+    {
+      "numero": 15,
+      "titulo": "SECTION TWO: CREATING BELIEF",
+      "paginas": "94-94",
+      "arquivo": "cap_15_SECTION_TWO_CREATING_BELIEF.txt"
+    },
+    {
+      "numero": 16,
+      "titulo": "Secret #5 The Big Domino",
+      "paginas": "95-99",
+      "arquivo": "cap_16_Secret_5_The_Big_Domino.txt"
+    },
+    {
+      "numero": 17,
+      "titulo": "Secret #6 The Epiphany Bridge",
+      "paginas": "100--2",
+      "arquivo": "cap_17_Secret_6_The_Epiphany_Bridge.txt"
+    },
+    {
+      "numero": 18,
+      "titulo": "SECTION TWO: CREATING BELIEF",
+      "paginas": "-1-109",
+      "arquivo": "cap_18_SECTION_TWO_CREATING_BELIEF.txt"
+    },
+    {
+      "numero": 19,
+      "titulo": "Secret #7 The Hero’s Two Journeys",
+      "paginas": "110-119",
+      "arquivo": "cap_19_Secret_7_The_Heros_Two_Journeys.txt"
+    },
+    {
+      "numero": 20,
+      "titulo": "Secret #8 The Epiphany Bridge Script",
+      "paginas": "120-132",
+      "arquivo": "cap_20_Secret_8_The_Epiphany_Bridge_Script.txt"
+    },
+    {
+      "numero": 21,
+      "titulo": "Secret #9 False Belief Patterns",
+      "paginas": "133-138",
+      "arquivo": "cap_21_Secret_9_False_Belief_Patterns.txt"
+    },
+    {
+      "numero": 22,
+      "titulo": "Secret #10 The 3 Secrets",
+      "paginas": "139-143",
+      "arquivo": "cap_22_Secret_10_The_3_Secrets.txt"
+    },
+    {
+      "numero": 23,
+      "titulo": "SECTION THREE: YOUR MORAL OBLIGATION",
+      "paginas": "144-146",
+      "arquivo": "cap_23_SECTION_THREE_YOUR_MORAL_OBLIGATION.txt"
+    },
+    {
+      "numero": 24,
+      "titulo": "Secret #11 The Stack Slide",
+      "paginas": "147--2",
+      "arquivo": "cap_24_Secret_11_The_Stack_Slide.txt"
+    },
+    {
+      "numero": 25,
+      "titulo": "SECTION THREE: YOUR MORAL OBLIGATION",
+      "paginas": "-1-151",
+      "arquivo": "cap_25_SECTION_THREE_YOUR_MORAL_OBLIGATION.txt"
+    },
+    {
+      "numero": 26,
+      "titulo": "Secret #12 The Perfect Webinar",
+      "paginas": "152-156",
+      "arquivo": "cap_26_Secret_12_The_Perfect_Webinar.txt"
+    },
+    {
+      "numero": 27,
+      "titulo": "Secret #13 The One Thing",
+      "paginas": "157-166",
+      "arquivo": "cap_27_Secret_13_The_One_Thing.txt"
+    },
+    {
+      "numero": 28,
+      "titulo": "Secret #14 Breaking and Rebuilding Belief Patterns",
+      "paginas": "167-176",
+      "arquivo": "cap_28_Secret_14_Breaking_and_Rebuilding_Belief_Patterns.txt"
+    },
+    {
+      "numero": 29,
+      "titulo": "Secret #15 The Stack",
+      "paginas": "177-197",
+      "arquivo": "cap_29_Secret_15_The_Stack.txt"
+    },
+    {
+      "numero": 30,
+      "titulo": "Secret #16 Trial Closes",
+      "paginas": "198-208",
+      "arquivo": "cap_30_Secret_16_Trial_Closes.txt"
+    },
+    {
+      "numero": 31,
+      "titulo": "SECTION FOUR: THE FUNNELS",
+      "paginas": "209-209",
+      "arquivo": "cap_31_SECTION_FOUR_THE_FUNNELS.txt"
+    },
+    {
+      "numero": 32,
+      "titulo": "Secret #17 The Perfect Webinar Model",
+      "paginas": "210-223",
+      "arquivo": "cap_32_Secret_17_The_Perfect_Webinar_Model.txt"
+    },
+    {
+      "numero": 33,
+      "titulo": "Secret #18 The 4-Question Close (For High-Ticket Offers)",
+      "paginas": "224-230",
+      "arquivo": "cap_33_Secret_18_The_4-Question_Close_For_High-Ticket_Off.txt"
+    },
+    {
+      "numero": 34,
+      "titulo": "Secret #19 The Perfect Webinar Hack",
+      "paginas": "231-237",
+      "arquivo": "cap_34_Secret_19_The_Perfect_Webinar_Hack.txt"
+    },
+    {
+      "numero": 35,
+      "titulo": "Secret #20 Email Epiphany Funnels",
+      "paginas": "238-239",
+      "arquivo": "cap_35_Secret_20_Email_Epiphany_Funnels.txt"
+    },
+    {
+      "numero": 36,
+      "titulo": "Secret #21 Epiphany Product Launch Funnels",
+      "paginas": "240-241",
+      "arquivo": "cap_36_Secret_21_Epiphany_Product_Launch_Funnels.txt"
+    },
+    {
+      "numero": 37,
+      "titulo": "SECTION FIVE: WHAT’S NEXT?",
+      "paginas": "242-242",
+      "arquivo": "cap_37_SECTION_FIVE_WHATS_NEXT.txt"
+    },
+    {
+      "numero": 38,
+      "titulo": "Secret #22 Fill Your Funnel",
+      "paginas": "243-249",
+      "arquivo": "cap_38_Secret_22_Fill_Your_Funnel.txt"
+    },
+    {
+      "numero": 39,
+      "titulo": "Conclusion:Your Invitation",
+      "paginas": "250-253",
+      "arquivo": "cap_39_ConclusionYour_Invitation.txt"
+    },
+    {
+      "numero": 40,
+      "titulo": "References",
+      "paginas": "254-258",
+      "arquivo": "cap_40_References.txt"
+    }
+  ],
+  "arquivos": [
+    "cap_01_Title.txt",
+    "cap_02_Copyright.txt",
+    "cap_03_Contents.txt",
+    "cap_04_Foreword.txt",
+    "cap_05_Acknowledgments.txt",
+    "cap_06_What_Is_Expert_Secrets.txt",
+    "cap_07_Introduction.txt",
+    "cap_08_The_Two_Types_of_Expert_Businesses.txt",
+    "cap_09_SECTION_ONE_CREATING_YOUR_MASS_MOVEMENT.txt",
+    "cap_10_Secret_1_The_Charismatic_Leader_Attractive_Charact.txt",
+    "cap_11_Secret_2_The_Cause.txt",
+    "cap_12_SECTION_ONE_CREATING_YOUR_MASS_MOVEMENT.txt",
+    "cap_13_Secret_3_The_New_Opportunity.txt",
+    "cap_14_Secret_4_The_Opportunity_Switch.txt",
+    "cap_15_SECTION_TWO_CREATING_BELIEF.txt",
+    "cap_16_Secret_5_The_Big_Domino.txt",
+    "cap_17_Secret_6_The_Epiphany_Bridge.txt",
+    "cap_18_SECTION_TWO_CREATING_BELIEF.txt",
+    "cap_19_Secret_7_The_Heros_Two_Journeys.txt",
+    "cap_20_Secret_8_The_Epiphany_Bridge_Script.txt",
+    "cap_21_Secret_9_False_Belief_Patterns.txt",
+    "cap_22_Secret_10_The_3_Secrets.txt",
+    "cap_23_SECTION_THREE_YOUR_MORAL_OBLIGATION.txt",
+    "cap_24_Secret_11_The_Stack_Slide.txt",
+    "cap_25_SECTION_THREE_YOUR_MORAL_OBLIGATION.txt",
+    "cap_26_Secret_12_The_Perfect_Webinar.txt",
+    "cap_27_Secret_13_The_One_Thing.txt",
+    "cap_28_Secret_14_Breaking_and_Rebuilding_Belief_Patterns.txt",
+    "cap_29_Secret_15_The_Stack.txt",
+    "cap_30_Secret_16_Trial_Closes.txt",
+    "cap_31_SECTION_FOUR_THE_FUNNELS.txt",
+    "cap_32_Secret_17_The_Perfect_Webinar_Model.txt",
+    "cap_33_Secret_18_The_4-Question_Close_For_High-Ticket_Off.txt",
+    "cap_34_Secret_19_The_Perfect_Webinar_Hack.txt",
+    "cap_35_Secret_20_Email_Epiphany_Funnels.txt",
+    "cap_36_Secret_21_Epiphany_Product_Launch_Funnels.txt",
+    "cap_37_SECTION_FIVE_WHATS_NEXT.txt",
+    "cap_38_Secret_22_Fill_Your_Funnel.txt",
+    "cap_39_ConclusionYour_Invitation.txt",
+    "cap_40_References.txt"
+  ]
+}

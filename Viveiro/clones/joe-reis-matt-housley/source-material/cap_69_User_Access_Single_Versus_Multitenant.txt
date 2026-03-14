@@ -1,0 +1,46 @@
+# User Access: Single Versus Multitenant
+
+Paginas: 119-119
+
+Considerations for data architecture
+As we mentioned at the start of this section, the concepts of tight versus loose
+coupling stem from software development, with some of these concepts dating back
+over 20 years. Though architectural practices in data are now adopting those from
+software development, it’s still common to see very monolithic, tightly coupled data
+architectures. Some of this is due to the nature of existing data technologies and the
+way they integrate.
+For example, data pipelines might consume data from many sources ingested into a
+central data warehouse. The central data warehouse is inherently monolithic. A move
+toward a microservices equivalent with a data warehouse is to decouple the workflow
+with domain-specific data pipelines connecting to corresponding domain-specific
+data warehouses. For example, the sales data pipeline connects to the sales-specific
+data warehouse, and the inventory and product domains follow a similar pattern.
+Rather than dogmatically preach microservices over monoliths (among other argu‐
+ments), we suggest you pragmatically use loose coupling as an ideal, while recogniz‐
+ing the state and limitations of the data technologies you’re using within your data
+architecture. Incorporate reversible technology choices that allow for modularity and
+loose coupling whenever possible.
+As you can see in Figure 3-7, you separate the components of your architecture into
+different layers of concern in a vertical fashion. While a multitier architecture solves
+the technical challenges of decoupling shared resources, it does not address the com‐
+plexity of sharing domains. Along the lines of single versus multitiered architecture,
+you should also consider how you separate the domains of your data architecture. For
+example, your analyst team might rely on data from sales and inventory. The sales
+and inventory domains are different and should be viewed as separate.
+One approach to this problem is centralization: a single team is responsible for
+gathering data from all domains and reconciling it for consumption across the orga‐
+nization. (This is a common approach in traditional data warehousing.) Another
+approach is the data mesh. With the data mesh, each software team is responsible for
+preparing its data for consumption across the rest of the organization. We’ll say more
+about the data mesh later in this chapter.
+Our advice: monoliths aren’t necessarily bad, and it might make sense to start with
+one under certain conditions. Sometimes you need to move fast, and it’s much
+simpler to start with a monolith. Just be prepared to break it into smaller pieces
+eventually; don’t get too comfortable.
+User Access: Single Versus Multitenant
+As a data engineer, you have to make decisions about sharing systems across mul‐
+tiple teams, organizations, and customers. In some sense, all cloud services are
+94
+|
+Chapter 3: Designing Good Data Architecture
+

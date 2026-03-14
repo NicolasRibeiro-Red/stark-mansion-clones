@@ -1,0 +1,86 @@
+# Orchestration
+
+Paginas: 89-90
+
+9 Ternary Data, “An Introduction to Dagster: The Orchestrator for the Full Data Lifecycle - UDEM June 2021,”
+YouTube video, 1:09:40, https://oreil.ly/HyGMh.
+not automation-first. A recent movement has arisen to adopt automation best practi‐
+ces across the data engineering lifecycle. Tools like Airflow have paved the way for a
+new generation of automation and data management tools. The general practices we
+describe for DataOps are aspirational, and we suggest companies try to adopt them to
+the fullest extent possible, given the tools and knowledge available today.
+Data Architecture
+A data architecture reflects the current and future state of data systems that support
+an organization’s long-term data needs and strategy. Because an organization’s data
+requirements will likely change rapidly, and new tools and practices seem to arrive on
+a near-daily basis, data engineers must understand good data architecture. Chapter 3
+covers data architecture in depth, but we want to highlight here that data architecture
+is an undercurrent of the data engineering lifecycle.
+A data engineer should first understand the needs of the business and gather require‐
+ments for new use cases. Next, a data engineer needs to translate those requirements
+to design new ways to capture and serve data, balanced for cost and operational
+simplicity. This means knowing the trade-offs with design patterns, technologies, and
+tools in source systems, ingestion, storage, transformation, and serving data.
+This doesn’t imply that a data engineer is a data architect, as these are typically two
+separate roles. If a data engineer works alongside a data architect, the data engineer
+should be able to deliver on the data architect’s designs and provide architectural
+feedback.
+Orchestration
+We think that orchestration matters because we view it as really the center of gravity of
+both the data platform as well as the data lifecycle, the software development lifecycle
+as it comes to data.
+—Nick Schrock, founder of Elementl9
+Orchestration is not only a central DataOps process, but also a critical part of the
+engineering and deployment flow for data jobs. So, what is orchestration?
+Orchestration is the process of coordinating many jobs to run as quickly and effi‐
+ciently as possible on a scheduled cadence. For instance, people often refer to
+orchestration tools like Apache Airflow as schedulers. This isn’t quite accurate. A
+pure scheduler, such as cron, is aware only of time; an orchestration engine builds
+in metadata on job dependencies, generally in the form of a directed acyclic graph
+64
+|
+Chapter 2: The Data Engineering Lifecycle
+
+(DAG). The DAG can be run once or scheduled to run at a fixed interval of daily,
+weekly, every hour, every five minutes, etc.
+As we discuss orchestration throughout this book, we assume that an orchestration
+system stays online with high availability. This allows the orchestration system to
+sense and monitor constantly without human intervention and run new jobs anytime
+they are deployed. An orchestration system monitors jobs that it manages and kicks
+off new tasks as internal DAG dependencies are completed. It can also monitor
+external systems and tools to watch for data to arrive and criteria to be met. When
+certain conditions go out of bounds, the system also sets error conditions and sends
+alerts through email or other channels. You might set an expected completion time of
+10 a.m. for overnight daily data pipelines. If jobs are not done by this time, alerts go
+out to data engineers and consumers.
+Orchestration systems also build job history capabilities, visualization, and alerting.
+Advanced orchestration engines can backfill new DAGs or individual tasks as they
+are added to a DAG. They also support dependencies over a time range. For example,
+a monthly reporting job might check that an ETL job has been completed for the full
+month before starting.
+Orchestration has long been a key capability for data processing but was not often
+top of mind nor accessible to anyone except the largest companies. Enterprises used
+various tools to manage job flows, but these were expensive, out of reach of small
+startups, and generally not extensible. Apache Oozie was extremely popular in the
+2010s, but it was designed to work within a Hadoop cluster and was difficult to use in
+a more heterogeneous environment. Facebook developed Dataswarm for internal use
+in the late 2000s; this inspired popular tools such as Airflow, introduced by Airbnb in
+2014.
+Airflow was open source from its inception and was widely adopted. It was written in
+Python, making it highly extensible to almost any use case imaginable. While many
+other interesting open source orchestration projects exist, such as Luigi and Conduc‐
+tor, Airflow is arguably the mindshare leader for the time being. Airflow arrived just
+as data processing was becoming more abstract and accessible, and engineers were
+increasingly interested in coordinating complex flows across multiple processors and
+storage systems, especially in cloud environments.
+At this writing, several nascent open source projects aim to mimic the best elements
+of Airflow’s core design while improving on it in key areas. Some of the most inter‐
+esting examples are Prefect and Dagster, which aim to improve the portability and
+testability of DAGs to allow engineers to move from local development to production
+more easily. Argo is an orchestration engine built around Kubernetes primitives;
+Metaflow is an open source project out of Netflix that aims to improve data science
+orchestration.
+Major Undercurrents Across the Data Engineering Lifecycle
+|
+65
+

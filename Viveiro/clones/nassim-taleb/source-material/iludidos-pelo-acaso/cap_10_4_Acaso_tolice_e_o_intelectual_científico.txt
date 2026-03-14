@@ -1,0 +1,246 @@
+# 4. Acaso, tolice e o intelectual científico
+
+Paginas: 89-95
+
+4. Acaso, tolice e o intelectual
+cientíco
+O ACASO E O VERBO
+Nossa máquina Monte Carlo pode nos levar para um território mais
+literário. Cada vez mais é feita uma distinção entre o intelectual
+cientíco e o intelectual literário — culminando com as chamadas
+“guerras da ciência”, com facções de não cientistas literatos contra
+cientistas não menos literatos. A distinção entre as duas abordagens se
+originou em Viena, na década de 1930, com um grupo de físicos que
+decidiram que estavam ocorrendo progressos na ciência importantes o
+bastante para penetrar no campo conhecido como ciências humanas.
+Segundo seu ponto de vista, o pensamento literário era capaz de
+esconder um monte de tolices bem sonantes. Eles queriam distinguir
+pensamento e retórica (exceto na literatura e na poesia, onde é seu
+lugar adequado).
+O modo pelo qual introduziram o rigor na vida intelectual foi
+declarando que uma assertiva podia cair apenas em duas categorias:
+dedutiva, como “2 + 2 = 4”, isto é, advindo, incontrovertidamente, de
+um arcabouço axiomático denido com precisão (aqui, as regras da
+aritmética), ou indutiva, isto é, vericável de algum modo (com
+experimento, estatísticas etc.), como “chove na Espanha” ou “os nova-
+iorquinos em geral são grosseiros”. Tudo o mais era pura e simples
+porcaria (a música poderia ser um substituto muito melhor para a
+metafísica). Não é preciso dizer que as assertivas indutivas talvez
+sejam difíceis, até mesmo impossíveis, de vericar, como veremos com
+o problema do cisne negro — e o empirismo pode ser pior do que
+qualquer outra coisa quando dá conança a alguém (levarei alguns
+capítulos para atingir esse ponto). Entretanto, foi um bom ponto de
+
+partida tornar os intelectuais responsáveis pela apresentação de
+alguma forma de prova para suas assertivas. O Círculo de Viena foi a
+origem do desenvolvimento das ideias de Wittgenstein, Popper,
+Carnap e muitos outros. Independentemente do mérito de suas ideias
+originais, seu impacto, tanto na losoa quanto na prática da ciência,
+foi importante. Parte desse impacto na vida intelectual não losóca
+está começando a se desenvolver, embora consideravelmente mais
+devagar.
+Uma maneira concebível de diferenciar um intelectual cientíco de
+um intelectual literário é considerar que o primeiro geralmente pode
+reconhecer o trabalho de um colega, mas o segundo não seria capaz de
+dizer a diferença entre linhas escritas por um cientista ou por um não
+cientista falastrão. Isso torna-se ainda mais patente quando o
+intelectual literário começa a usar palavras cientícas que julga ser
+muito importantes, como “princípio da incerteza”, “teorema de Gödel”,
+“universo paralelo”, ou “relatividade”, seja fora do contexto ou, como
+acontece frequentemente, em exata oposição ao seu signicado
+cientíco. Sugiro que se leia o hilariante Imposturas intelectuais, de
+Alan Sokal, como ilustração desse tipo de prática (ri tão alto e com
+tanta frequência com esse livro num avião que os outros passageiros
+caram sussurrando coisas a meu respeito). Despejando num jornal
+uma montanha de lixo de referências cientícas, tem gente que
+consegue fazer com que outro intelectual literário acredite que seu
+material tem o aval da ciência. É claro que, para um cientista, a ciência
+está no rigor da conclusão, não nas referências aleatórias a conceitos
+grandiosos, tais como a relatividade geral ou a indeterminação
+quântica. Tal rigor pode ser expresso na linguagem comum. Ciência é
+método e rigor; ela pode ser identicada no mais simples dos
+trabalhos em prosa. Por exemplo, o que mais me chamou a atenção ao
+ler O gene egoísta, de Richard Dawkins, foi que, embora não inclua
+uma única equação, o texto me pareceu traduzido em linguagem
+matemática. Contudo, é prosa artística.
+O teste de Turing às avessas
+O acaso pode ser de considerável ajuda nessa questão. Isso porque
+há outro meio, muito mais divertido, de fazer a distinção entre o
+
+falastrão e o pensador. Com auxílio do gerador Monte Carlo pode-se,
+às vezes, duplicar algo que esteja sendo considerado um discurso
+literário, mas é impossível construir aleatoriamente um discurso
+cientíco. A retórica pode ser construída aleatoriamente, mas não o
+verdadeiro conhecimento cientíco. Essa é a aplicação do teste de
+Turing da inteligência articial, às avessas. O que é o teste de Turing?
+O brilhante e excêntrico matemático inglês Alan Turing, pioneiro da
+computação, imaginou o seguinte teste: se um computador pode ser
+considerado inteligente ao conseguir (na média) enganar um ser
+humano fazendo este pensar que fala com outro ser humano, e não
+com uma máquina, o inverso deve ser verdade: um humano poderia
+ser considerado desprovido de inteligência se, ao se duplicar um
+discurso com o auxílio de um computador, que sabemos não ser
+inteligente, pudesse ser enganado, acreditando que tal discurso foi
+feito por um humano. Será que alguém poderia elaborar, de modo
+inteiramente aleatório, um trabalho que possa ser, no conjunto,
+tomado por um texto de Derrida?
+A resposta parece ser sim. À parte a misticação de Alan Sokal (o
+mesmo do livro hilário de poucas linhas atrás), que conseguiu escrever
+bobagens e tê-las veiculadas em uma importante publicação, há
+geradores Monte Carlo projetados para estruturar textos desse tipo e
+elaborar trabalhos completos. Alimentadas com textos “pós-
+modernistas”, essas máquinas podem combinar aleatoriamente frases,
+com um método denominado “gramática recursiva”, e produzir
+sentenças gramaticalmente corretas, mas sem sentido, que soam como
+Jacques Derrida, Camille Paglia e outros. Devido à natureza nebulosa
+de seu pensamento, o intelectual literário pode ser iludido pelo acaso.
+No programa da Universidade Monash, da Austrália, que utiliza o
+Motor Dada construído por Andrew C. Bulhak, brinquei com a
+máquina e gerei alguns trabalhos contendo as seguintes frases:
+Entretanto, o principal tema das obras de Rushdie não é teoria, como sugere o paradigma
+dialético da realidade, mas a pré-teórica. A premissa do paradigma neossemanticista do
+discurso implica que a identidade sexual, ironicamente, tem signicação.
+Muitas narrativas relativas ao papel do escritor como observador podem ser mostradas.
+Seria possível dizer que se a narrativa cultural for verdade, temos que escolher entre o
+paradigma dialético da narrativa e o marxismo não conceitual. A análise de Sartre da
+narrativa cultural arma que a sociedade, paradoxalmente, tem valor objetivo.
+
+Assim, a premissa do paradigma neodialético de expressão implica que a consciência
+pode ser usada para reforçar a hierarquia, mas apenas se a realidade for distinta da
+consciência; se isso não acontecer, podemos supor que a linguagem tem um signicado
+intrínseco.
+Alguns discursos na área de negócios pertencem a essa categoria,
+por seus próprios méritos, mas são menos elegantes e usam um
+vocabulário diferente do literário. Podemos elaborar aleatoriamente
+um discurso que imite o do nosso principal executivo para decidir se o
+que ele está dizendo tem valor ou se é apenas bobagem “vestida a
+rigor” vinda de alguém com sorte para ter sido posto na função.
+Como? Selecionando, aleatoriamente, cinco frases abaixo, depois as
+ligando e acrescentando o mínimo necessário para construir um
+discurso gramaticalmente correto.
+Cuidamos dos interesses de nosso cliente/nosso futuro/nossos ativos são nossa
+gente/criação do valor do acionista/nossa visão/nosso conhecimento especializado está
+em/fornecemos soluções interativas/nos posicionamos nesse mercado/como servir nossos
+clientes melhor/sacrifícios no curto prazo para lucros no longo prazo/seremos
+recompensados no longo prazo/trabalhamos com base no nosso valor e corrigimos nossas
+fraquezas/coragem e determinação prevalecerão/temos compromisso com a inovação e a
+tecnologia/um empregado feliz é um empregado produtivo/compromisso com a
+excelência/plano estratégico/nossa losoa de trabalho.
+Se isso se parece demais com o discurso que você acabou de ouvir
+do seu chefe, então sugiro que procure outro emprego.
+O pai de todos os pseudopensadores
+É difícil resistir à discussão da história articial sem um comentário
+sobre o pai de todos os pseudopensadores, Hegel. Ele escreve num
+jargão que não tem sentido fora de um chique café parisiense na
+margem esquerda do Sena, ou do Departamento de Humanidades de
+alguma universidade extremamente isolada do mundo real. Veja essa
+passagem do “lósofo” germânico (que foi descoberta, traduzida e
+criticada por Karl Popper):
+Som é a mudança na condição especíca de segregação das partes materiais, e na negação
+de sua condição; meramente um abstrato ou uma idealidade ideal, como tal, daquela
+especicação. Mas essa mudança, coerentemente, é, ela própria, a negação imediata da
+subsistência especíca material; que é, portanto, idealidade real da gravidade e da coesão
+
+especícas, isto é — calor. O aquecimento de corpos sonantes, assim como dos batidos e
+esfregados, é a aparência do calor, originado conceitualmente junto com o som.
+Nem mesmo uma máquina Monte Carlo poderia soar tão aleatória
+como o grande mestre pensador losóco (seriam necessárias várias
+passadas de amostragem para obter-se a mistura de calor e som). Com
+frequência consideram isso losoa e a nanciam com o dinheiro do
+contribuinte. Agora, considere que o pensamento hegeliano é
+geralmente associado a uma abordagem “cientíca” da história; isso
+produziu resultados tais como os regimes marxistas e até mesmo um
+ramo denominado pensamento “neo-hegelianista”. Tais “pensadores”
+deveriam receber uma aula, em nível de graduação, sobre a teoria de
+amostragem estatística antes de serem soltos no mundo.
+POESIA MONTE CARLO
+Há vezes em que gosto de ser enganado pelo acaso. Minha alergia à
+tolice e à verborragia se dissipa quando se trata de arte e poesia. Por
+um lado, tento me denir e me comportar ocialmente como uma
+pessoa hiper-realista e direta esquadrinhando o papel do acaso; por
+outro, não tenho escrúpulos em condescender com todo tipo de
+superstição pessoal. Onde traço o limite? A resposta está na estética.
+Algumas formas estéticas apelam para algo genético em nós, quer se
+originem ou não de associações aleatórias ou de simples alucinações.
+Alguma coisa nos genes humanos é profundamente tocada pela
+nebulosidade e ambiguidade da linguagem; então, por que lutar contra
+isso?
+O amante da poesia e da linguagem em mim cou de início
+deprimido pelo exercício poético “cadáveres delicados”, em que
+sentenças poéticas interessantes eram elaboradas aleatoriamente.
+Juntando-se ao acaso um número suciente de palavras, deve surgir
+alguma inusitada metáfora, de som mágico, de acordo com as leis
+combinatórias. Contudo, não se pode negar que alguns desses poemas
+são de uma beleza arrebatadora. Quem se importa com sua origem, se
+agradam ao nosso senso estético?
+A história desse jogo é a seguinte. No nal da Primeira Guerra
+Mundial, um grupo de poetas surrealistas que se reuniam em cafés,
+
+entre os quais se incluía André Breton, seu papa, Paul Éluard, e
+outros, tentou o seguinte exercício (os críticos literários modernos o
+atribuem ao ânimo deprimido do pós-guerra e à necessidade de
+escapar à realidade). Num pedaço de papel dobrado, cada um deles
+escreveria em sua vez parte de uma frase predeterminada, não
+sabendo da escolha dos outros. O primeiro pegaria um adjetivo, o
+segundo um substantivo, o terceiro um verbo, o quarto um adjetivo e
+o quinto um substantivo. O primeiro exercício publicado desse
+arranjo aleatório (e coletivo) produziu a seguinte sentença poética: Os
+cadáveres delicados beberão o vinho novo. Impressionante? A coisa soa
+ainda mais poética no francês original: Les cadavres exquis boiront le
+vin nouveau. Poesia bastante boa foi produzida dessa maneira, às vezes
+com ajuda de um computador. Mas ela nunca foi verdadeiramente
+tomada a sério fora da beleza de suas associações, seja a produzida por
+disparates aleatórios de um ou mais cérebros desorganizados, seja as
+construções mais elaboradas de um criador consciente.
+Independente de ser a poesia obtida por uma máquina Monte Carlo
+ou cantada por um homem cego na Ásia Menor, a linguagem é
+poderosa quando se trata de oferecer prazer e consolo. Testar sua
+validade intelectual traduzindo-a em simples argumentos lógicos
+roubaria seu grau variável de potência, às vezes de modo excessivo;
+nada pode ser mais insosso do que a poesia traduzida. Um argumento
+convincente do papel da linguagem é a existência de línguas sagradas
+sobreviventes, não corrompidas pelo teste simples do uso diário. As
+religiões semíticas, como o judaísmo, o islamismo e o cristianismo
+original, compreendiam esse ponto; manter uma língua longe da
+racionalização do uso cotidiano evita a corrupção do vernáculo. Há
+quatro décadas, a Igreja católica fez com que os serviços religiosos e
+liturgias passassem do latim para as línguas locais; pode-se argumentar
+que isso causou uma queda nas crenças religiosas. Subitamente, a
+religião se sujeitou a ser julgada pelos padrões intelectuais e
+cientícos, deixando de lado o padrão estético. A Igreja ortodoxa
+grega cometeu o erro feliz de, na hora de traduzir algumas de suas
+orações do grego clerical, no vernáculo baseado no semítico que é
+falado pelos gregos sírios da região de Antioquia (Turquia meridional
+e Síria setentrional), escolher o árabe clássico, uma língua
+
+inteiramente morta. Minha família tem sorte, assim, de poder rezar
+numa mistura de coiné morto (grego clerical) e no não menos morto
+árabe corânico.
+O que é que essa questão tem a ver com um livro sobre o acaso?
+Nossos genes ditam uma necessidade de péché mignon. Até mesmo os
+economistas, que em geral encontram meios abstrusos de escapar
+completamente da realidade, estão começando a compreender que o
+que nos faz pulsar não é, necessariamente, o contador que temos
+dentro de nós. Não precisamos ser racionais e cientícos quando se
+trata dos detalhes da vida diária — apenas nas coisas que podem nos
+causar mal e ameaçar nossa sobrevivência. A vida moderna parece nos
+convidar a fazer o oposto: nos tornar extremamente realistas e
+intelectuais quando se trata de assuntos como religião e
+comportamento pessoal, e tão irracionais quanto possível quando se
+trata de mercados e assuntos comandados pelo acaso. Tenho
+encontrado colegas, gente “racional”, direta, que não compreende
+como adoro a poesia de Baudelaire e Saint-John Perse ou escritores
+obscuros (e muitas vezes impenetráveis) como Elias Canetti, Borges
+ou Walter Benjamin. Contudo, cam vidrados ao ouvir as “análises” de
+algum guru na televisão, ou ao comprar ações de uma empresa sobre a
+qual não sabem absolutamente nada, com base em dicas de vizinhos
+que dirigem carros de luxo. O Círculo de Viena, ao destroçar a
+losoa verborrágica estilo Hegel, explicava que do ponto de vista
+cientíco era puro lixo, e do ponto de vista artístico era inferior à
+música. Preciso dizer que acho Baudelaire muito mais agradável do
+que o noticiário da CNN ou George Will.
+Há um ditado iídiche que diz: Se sou forçado a comer porco, que seja
+da melhor qualidade. Se vou ser enganado pelo acaso, melhor que seja
+do tipo mais belo (e inofensivo). Esse ponto será retomado na Parte
+III.
+

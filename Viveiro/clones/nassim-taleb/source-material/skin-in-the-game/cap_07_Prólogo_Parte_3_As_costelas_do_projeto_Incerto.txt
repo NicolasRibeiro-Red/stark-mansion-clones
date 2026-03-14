@@ -1,0 +1,228 @@
+# Prólogo, Parte 3: As costelas do projeto Incerto
+
+Paginas: 46-52
+
+Prólogo, Parte 3
+As costelas do projeto Incerto
+Sete páginas por vez, sete páginas ao ano é a medida perfeita — Releitores precisam
+de rerevisores
+Agora que delineamos as ideias principais, vejamos como essa discussão se
+encaixa no restante do projeto Incerto. Assim como Eva nasceu da costela de
+Adão, cada livro da série Incerto saiu das costelas do livro anterior. A lógica do
+Cisne Negro foi uma breve discussão em Iludido pelo acaso;1 o conceito de
+convexidade aplicado a eventos imprevisíveis, o tema de Antifrágil, foi esboçado
+em A lógica do Cisne Negro; e, por fim, Arriscando a própria pele era um
+segmento de Antifrágil sob a insígnia Não te tornarás antifrágil às custas dos
+outros. Resumindo: a assimetria na exposição a riscos leva a desequilíbrios e,
+potencialmente, à ruína sistêmica.
+O negócio de Bob Rubin se conecta à minha atuação como trader (como vimos,
+quando essas pessoas ganham dinheiro, elas ficam com os lucros para si; quando
+perdem, outros arcam com os custos enquanto elas gritam “Cisne Negro”). Suas
+manifestações são tão onipresentes que têm sido a espinha dorsal de todos os
+livros do projeto Incerto. Toda vez que há um descompasso entre um período de
+bônus (anual) e a ocorrência estatística de uma crise econômica (a cada dez anos,
+por exemplo), o agente é incentivado a jogar o jogo de transferência de riscos de
+Bob Rubin. Dado o número de pessoas tentando embarcar no ônibus do lucro,
+há um acúmulo progressivo de riscos de Cisne Negro em tais sistemas. Então,
+bum!, a explosão sistêmica acontece.2
+A ESTRADA
+Somos guiados por aquilo que há de mais interessante. A ética é direta, como
+parte da assimetria geral de Tony Gordo-Isócrates, e me aprofundei no assunto
+
+graças a uma colaboração altamente argumentativa com o filósofo (e companheiro
+de caminhadas) Constantine Sandis. A lei de responsabilidade civil é igualmente
+direta, e achei que ocuparia uma substancial porção deste livro, mas felizmente
+será mínima. Por quê?
+A lei de responsabilidade civil3 é insípida para aqueles que não têm o
+temperamento que leva uma pessoa a cursar direito. Pois, instigado pelo
+destemido Ralph Nader, uma mesinha de centro em meu estúdio acumulou algo
+em torno de vinte volumes sobre responsabilidade civil (contratual e
+extracontratual). Mas achei o tópico tão entediante que foi uma tarefa hercúlea
+ler mais de sete linhas por vez (que é a razão pela qual Deus misericordiosamente
+inventou as mídias sociais e as discussões no Twitter): ao contrário da ciência e
+da matemática, o direito, apesar de ser muito rigoroso, não oferece surpresas. A
+lei não pode ser divertida. A mera visão desses livros me faz lembrar um almoço
+com um ex-membro da diretoria do Federal Reserve, o tipo de coisa ao qual uma
+pessoa nunca deve se sujeitar mais do que uma vez na vida. Então vou abordar o
+tópico dos delitos civis em poucas linhas.
+Como sugerimos nos primeiros parágrafos da introdução, alguns tópicos não
+soporíferos (teologia pagã, práticas religiosas, teoria da complexidade, história
+antiga e medieval e, é claro, probabilidade e exposição a riscos) coincidem com o
+filtro naturalista deste autor. De forma simples: quem não é capaz de se dedicar
+de corpo e alma a alguma coisa, deve desistir e deixar o trabalho para outra
+pessoa.
+Falando sobre se dedicar de corpo e alma, tive que superar certa vergonha: no
+episódio do Hamurabi no Louvre, quando parei diante da imponente estela de
+basalto (na sala com coreanos e seus bastões de selfie), me senti desconfortável
+por não conseguir ler o texto e ter que confiar em especialistas. Que
+especialistas? Tudo bem se fosse uma jornada cultural, mas aqui estou,
+trabalhando, escrevendo um livro que mergulha bastante fundo nessas coisas!
+Tive a sensação de que era trapaça não conhecer o texto antigo da maneira como
+era lido e recitado na época. Além disso, um dos meus hobbies episódicos é a
+filologia semítica, então eu não tinha desculpa. Assim, fui atraído por uma
+obsessão em aprender acádio bem o bastante para recitar o Código de Hamurabi
+com a fonética semítica, e me dedicar de corpo e alma ao tema. Talvez tenha
+atrasado este livro, mas pelo menos minha consciência está limpa quando
+menciono Hamurabi, pois não estou fingindo coisa alguma.
+UM DETECTOR INTENSIFICADO
+
+Este livro surgiu após um profundo e inesperado flerte — não acadêmico —
+com a matemática. Depois de terminar Antifrágil, pensei em aposentar minha
+caneta por algum tempo e me acomodar na confortável vida de um cargo
+universitário, desfrutando de espaguete com tinta de lula em companhia de bon
+vivants, levantando pesos com meus amigos de colarinho azul e jogando bridge
+no fim de tarde, o tipo de vida tranquila e livre de preocupações da nobreza do
+século XIX.
+O que não previ é que o meu sonho de uma vida tranquila duraria apenas
+algumas semanas. Pois eu não demonstrava habilidade alguma em atividades
+típicas de aposentadoria, como jogos de cartas, xadrez, loteria, visitas às
+pirâmides no México etc. Certa vez, por acaso, tentei resolver um quebra-cabeças
+matemático, e isso culminou em cinco anos de uma compulsiva prática
+matemática, que consumia meu tempo e ocasionava os ataques obsessivos que
+atormentam as pessoas sobrecarregadas por problemas. Como de costume, eu
+não praticava matemática para resolver um problema, mas sim para satisfazer uma
+fixação. Mas nunca esperei o efeito secundário: isso fez com que meu detector de
+baboseiras ficasse tão sensível que ouvir disparates muito bem cotados pela mídia
+(da boca de verbalistas, especialmente os acadêmicos) teve o mesmo efeito de ser
+colocado em uma sala com ocorrências aleatórias de sons penetrantes e
+dissonantes, a barulheira do tipo que mata animais. Pessoas normais nunca me
+incomodam; quem me incomoda são os “intelectuais” falando merda. Ver o
+psicólogo Steven Pinker fazer pronunciamentos sobre coisas intelectuais tem um
+efeito semelhante ao de encontrar um drive-thru do Burger King enquanto faço
+uma caminhada em uma reserva florestal.
+É sob esse sensibilíssimo detector de baboseira e papo furado que estou
+escrevendo este livro.
+OS CRÍTICOS
+E, já que estamos falando de livros, encerro esta seção introdutória com algo
+que aprendi no tempo que passei atuando nessa área. Muitos críticos literários
+são pessoas intelectualmente honestas e diretas, mas a indústria tem um conflito
+fundamental com o público, mesmo quando se autonomeia representante da
+classe geral de leitores. Por exemplo, quando se trata de livros escritos por
+pessoas afeitas ao risco, o público em geral (e alguns, mas muito poucos, editores
+de livros) pode detectar o que é interessante para ele em determinado aspecto ou
+grau, alguma coisa que aqueles que atuam no falso espaço da produção de
+
+palavras (em outras palavras, gente que não faz) cronicamente não são capazes de
+entender — e não conseguem entender o que eles não entendem porque na
+verdade não fazem parte da vida ativa e transacional.
+Tampouco os críticos — pela própria definição de sua função — são capazes de
+julgar livros que alguém relê. Para aqueles que leram Antifrágil e estão
+familiarizados com a ideia de efeitos não lineares, o aprendizado está enraizado
+na repetição e convexidade, o que significa que a leitura de um único texto duas
+vezes é mais proveitosa e benéfica do que ler duas coisas diferentes ao mesmo
+tempo, contanto que, é claro, o dito texto tenha alguma profundidade em seu
+conteúdo. A convexidade está implantada no vocabulário semítico: mishnah, que
+em hebraico se refere à compilação pré-talmúdica da tradição oral, significa
+“duplicado”; o midrash também pode estar relacionado às repetidas estampagens
+e moagens, e tem uma contrapartida na madrassa, a escola islâmica dos filhos de
+Ismael.
+Os livros deveriam ser organizados de acordo com a maneira como o leitor lê,
+ou quer ler, e de acordo com a profundidade com que o autor quer entrar em um
+tópico, não para facilitar a vida daqueles que escrevem resenhas. Críticos
+literários são péssimos intermediários; atualmente estão em processo de serem
+desintermediados, da mesma forma que as empresas de táxi (o que alguns
+chamam de uberização).
+Como? Há, aqui, novamente, um problema do tipo arriscar-a-própria-pele: um
+conflito de interesses entre críticos profissionais que pensam que devem decidir
+como os livros devem ser escritos e leitores genuínos que realmente leem livros
+porque gostam de ler. Por um lado, os críticos exercem um poder descontrolado
+e arbitrário sobre os autores: alguém tem que ler o livro para perceber que a
+resenha não passa de uma porção de abobrinhas; assim, na ausência de riscos,
+resenhistas como Michiko Kakutani no New York Times (agora aposentado) ou
+David Runciman, que escreve para o jornal The Guardian, podem continuar para
+sempre sem que ninguém saiba que estão inventando mentiras ou bêbados (ou,
+disto estou certo, no caso de Kakutani, ambos os casos). As resenhas são julgadas
+de acordo com quão plausíveis e bem escritas elas são, nunca em como elas
+mapeiam o livro (a menos, claro, que o autor as responsabilize por informações
+falsas e deturpações).4
+Agora, quase duas décadas após a primeira parte do projeto Incerto, estabeleci
+maneiras de interagir diretamente com você, o leitor.
+ORGANIZAÇÃO DO LIVRO
+
+O livro I foi a introdução que acabamos de ver, com suas três partes.
+O livro II, “Um primeiro olhar sobre a agência”, é uma exposição mais
+aprofundada da simetria e agência no compartilhamento de riscos, unindo
+conflitos comerciais de interesse com a ética. Também nos apresenta brevemente
+à noção de escala e à diferença entre individual e coletivo, daí as limitações do
+globalismo e do universalismo.
+O livro III, “A maior das assimetrias”, gira em torno da regra da minoria,
+segundo a qual um pequeno segmento da população impõe suas preferências à
+população geral. O (breve) apêndice do livro III mostra 1) como uma coleção de
+unidades não se comporta como uma soma de unidades, mas algo com uma
+mente própria, e 2) as consequências de boa parte de algo conhecido como
+“ciência” social.
+O livro IV, “Lobos entre cães”, trata da dependência e, para dar nome aos bois e
+botar os pingos nos is, da escravidão na vida moderna: por que os empregados
+existem e por que têm muito mais a perder do que os patrões. Também mostra
+como, mesmo que você seja independente e tenha dinheiro suficiente para
+mandar todo mundo à merda, estará vulnerável se seus entes queridos puderem
+ser alvo de corporações e grupos malignos.
+O livro V, “Estar vivo significa assumir certos riscos”, mostra no capítulo 5
+como assumir riscos faz com que a pessoa pareça superficialmente menos
+atraente, mas muito mais convincente. Esclarece a diferença entre a vida na vida
+real e a vida imaginada em uma máquina, explica por que Jesus tinha que ser
+humano, não um deus, e como Donald Trump venceu a eleição graças a suas
+imperfeições. O capítulo 6, “O intelectual porém idiota”, apresenta a figura do
+IPI, que não sabe que arriscar a própria pele faz com que a pessoa entenda o
+mundo (o que inclui andar de bicicleta) melhor do que qualquer palestra. O
+capítulo 7 explica a diferença entre desigualdade de risco e desigualdade salarial:
+você pode ficar mais rico, mas para isso vai precisar ser uma pessoa real e assumir
+certo risco. Apresenta também uma visão dinâmica da desigualdade, em oposição
+à estática do IPI. O colaborador mais notório da desigualdade é a condição de um
+funcionário público de alto escalão ou de um professor universitário titular, não
+de um empreendedor. O capítulo 8 explica o Efeito Lindy, aquele especialista de
+especialistas que pode nos dizer por que os encanadores são especialistas, mas os
+psicólogos clínicos não, e por que os comentaristas da New Yorker sobre
+especialistas não são eles próprios especialistas. O Efeito Lindy separa as coisas
+que ganham do tempo daquelas que são destruídas por ele.
+
+O livro VI, “Mais fundo agência adentro”, procura por assimetrias ocultas
+consequentes. O capítulo 9 mostra que, do ponto de vista da prática, o mundo é
+mais simples e especialistas de verdade não parecem que estão representando um
+papel. O capítulo apresenta a heurística de detecção de baboseira. O capítulo 10
+mostra como os ricos são otários que se tornam presas daqueles que complicam
+seu estilo de vida para lhes vender alguma coisa. O capítulo 11 explica a diferença
+entre ameaças e ameaças reais e mostra como você pode superar um inimigo ao
+não matá-lo. O capítulo 12 apresenta o problema de agência dos jornalistas: eles
+sacrificam a verdade e constroem uma narrativa errada por causa da necessidade
+de agradar outros jornalistas. O capítulo 13 explica por que a virtude exige a
+tomada de risco, não a redução do risco a uma questão de reputação, de bancar o
+cavaleiro nobre na internet ou preencher um cheque para alguma ONG que pode
+acabar ajudando a destruir o mundo. O capítulo 14 explica o problema de agência
+das pessoas na geopolítica, e os historiadores que tendem a falar mais de guerras
+do que de paz, deixando-nos com uma visão deturpada do passado. A história
+também está cheia de confusões probabilísticas. Se nos livrássemos dos
+especialistas em “paz”, o mundo seria mais seguro e muitos problemas seriam
+resolvidos de forma orgânica.
+O livro VII, “Religião, crença e arriscar a própria pele”, explica credos e
+convicções em termos de riscos e preferências reveladas: como os ateus são, em
+termos funcionais, indistinguíveis dos cristãos, embora não dos salafistas
+muçulmanos. Evite os verbalistas: “religiões” não são exatamente religiões,
+algumas são filosofias, outras são apenas sistemas legais.
+O livro VIII, “Risco e racionalidade”, abrange os dois capítulos centrais, que
+decidi deixar para o final. Não existe definição rigorosa de racionalidade que não
+esteja relacionada a arriscar a própria pele; tudo diz respeito a ações, não a
+verbos, pensamentos e papo furado. O capítulo 19, “A lógica de correr riscos”,
+resume todos os meus princípios sobre risco e expõe os erros concernentes a
+eventos de baixa probabilidade. Também classifica os riscos em camadas (do
+individual ao coletivo) e consegue provar que coragem e prudência não entram
+em contradição, contanto que uma pessoa esteja agindo em benefício do coletivo.
+Explica a teoria ergódica, que estava em aberto. Finalmente, o capítulo esboça o
+que chamamos de princípio da precaução.
+1. Nassim Nicholas Taleb, Iludido pelo acaso: A influência oculta do acaso nos mercados e na vida. Rio de
+Janeiro: Record, 2004. (N. T.)
+
+2. A transferência de riscos oculta não se limita a banqueiros e corporações. Alguns segmentos da população
+a praticam de forma bastante eficaz. Por exemplo, quem vive em áreas costeiras propensas a furacões e
+inundações é efetivamente subsidiado pelo Estado — portanto, pelos contribuintes. Embora banquem as
+vítimas na televisão depois que um evento acontece, elas e as incorporadoras imobiliárias recebem os
+benefícios custeados por outros...
+3. Tort law, no original. The law of torts é o ramo do direito anglo-saxão que cuida da reparação de danos
+causados pela prática de ato ilícito que não constitua tipo penal. Difere também do law of contracts, ramo do
+direito anglo-americano que cuida da disciplina dos ilícitos advindos exclusivamente de infração contratual.
+Estes últimos têm disciplina própria. Um mesmo tort pode gerar, além do dever de indenizar na esfera cível,
+também a punição de natureza penal. (N. T.)
+4. Levou quase três anos para Iludido pelo acaso ser entendido como “existe mais sorte do que você imagina”,
+em vez da mensagem que as pessoas recebiam das resenhas: “É tudo pura sorte”. Muitos livros não
+sobrevivem três meses.
+

@@ -1,0 +1,155 @@
+# Message Queues and Event-Streaming Platforms
+
+Paginas: 202-205
+
+6 Martin Fowler, “How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh,” Martin‐
+Fowler.com, May 20, 2019, https://oreil.ly/TEdJF.
+Data sharing can also streamline data pipelines within an organization. Data sharing
+allows units of an organization to manage their data and selectively share it with
+other units while still allowing individual units to manage their compute and query
+costs separately, facilitating data decentralization. This facilitates decentralized data
+management patterns such as data mesh.6
+Data sharing and data mesh align closely with our philosophy of common architec‐
+ture components. Choose common components (see Chapter 3) that allow the simple
+and efficient interchange of data and expertise rather than embracing the most
+exciting and sophisticated technology.
+Third-Party Data Sources
+The consumerization of technology means every company is essentially now a
+technology company. The consequence is that these companies—and increasingly
+government agencies—want to make their data available to their customers and
+users, either as part of their service or as a separate subscription. For example, the
+US Bureau of Labor Statistics publishes various statistics about the US labor market.
+The National Aeronautics and Space Administration (NASA) publishes various data
+from its research initiatives. Facebook shares data with businesses that advertise on its
+platform.
+Why would companies want to make their data available? Data is sticky, and a
+flywheel is created by allowing users to integrate and extend their application into a
+user’s application. Greater user adoption and usage means more data, which means
+users can integrate more data into their applications and data systems. The side effect
+is there are now almost infinite sources of third-party data.
+Direct third-party data access is commonly done via APIs, through data sharing on
+a cloud platform, or through data download. APIs often provide deep integration
+capabilities, allowing customers to pull and push data. For example, many CRMs
+offer APIs that their users can integrate into their systems and applications. We see
+a common workflow to get data from a CRM, blend the CRM data through the
+customer scoring model, and then use reverse ETL to send that data back into CRM
+for salespeople to contact better-qualified leads.
+Message Queues and Event-Streaming Platforms
+Event-driven architectures are pervasive in software applications and are poised to
+grow their popularity even further. First, message queues and event-streaming plat‐
+forms—critical layers in event-driven architectures—are easier to set up and manage
+Source System Practical Details
+|
+177
+
+in a cloud environment. Second, the rise of data apps—applications that directly
+integrate real-time analytics—are growing from strength to strength. Event-driven
+architectures are ideal in this setting because events can both trigger work in the
+application and feed near real-time analytics.
+Please note that streaming data (in this case, messages and streams) cuts across
+many data engineering lifecycle stages. Unlike an RDBMS, which is often directly
+attached to an application, the lines of streaming data are sometimes less clear-cut.
+These systems are used as source systems, but they will often cut across the data
+engineering lifecycle because of their transient nature. For example, you can use
+an event-streaming platform for message passing in an event-driven application, a
+source system. The same event-streaming platform can be used in the ingestion and
+transformation stage to process data for real-time analytics.
+As source systems, message queues and event-streaming platforms are used in
+numerous ways, from routing messages between microservices ingesting millions
+of events per second of event data from web, mobile, and IoT applications. Let’s look
+at message queues and event-streaming platforms a bit more closely.
+Message queues
+A message queue is a mechanism to asynchronously send data (usually as small
+individual messages, in the kilobytes) between discrete systems using a publish and
+subscribe model. Data is published to a message queue and is delivered to one or
+more subscribers (Figure 5-9). The subscriber acknowledges receipt of the message,
+removing it from the queue.
+Figure 5-9. A simple message queue
+Message queues allow applications and systems to be decoupled from each other and
+are widely used in microservices architectures. The message queue buffers messages
+to handle transient load spikes and makes messages durable through a distributed
+architecture with replication.
+Message queues are a critical ingredient for decoupled microservices and event-
+driven architectures. Some things to keep in mind with message queues are frequency
+of delivery, message ordering, and scalability.
+Message ordering and delivery. The order in which messages are created, sent, and
+received can significantly impact downstream subscribers. In general, order in
+178
+|
+Chapter 5: Data Generation in Source Systems
+
+7 Whether exactly once is possible is a semantical debate. Technically, exactly once delivery is impossible to
+guarantee, as illustrated by the Two Generals Problem.
+distributed message queues is a tricky problem. Message queues often apply a fuzzy
+notion of order and first in, first out (FIFO). Strict FIFO means that if message A is
+ingested before message B, message A will always be delivered before message B. In
+practice, messages might be published and received out of order, especially in highly
+distributed message systems.
+For example, Amazon SQS standard queues make the best effort to preserve message
+order. SQS also offers FIFO queues, which offer much stronger guarantees at the cost
+of extra overhead.
+In general, don’t assume that your messages will be delivered in order unless your
+message queue technology guarantees it. You typically need to design for out-of-
+order message delivery.
+Delivery frequency. Messages can be sent exactly once or at least once. If a message
+is sent exactly once, then after the subscriber acknowledges the message, the message
+disappears and won’t be delivered again.7 Messages sent at least once can be consumed
+by multiple subscribers or by the same subscriber more than once. This is great when
+duplications or redundancy don’t matter.
+Ideally, systems should be idempotent. In an idempotent system, the outcome of
+processing a message once is identical to the outcome of processing it multiple times.
+This helps to account for a variety of subtle scenarios. For example, even if our system
+can guarantee exactly-once delivery, a consumer might fully process a message but
+fail right before acknowledging processing. The message will effectively be processed
+twice, but an idempotent system handles this scenario gracefully.
+Scalability. The most popular message queues utilized in event-driven applications
+are horizontally scalable, running across multiple servers. This allows these queues
+to scale up and down dynamically, buffer messages when systems fall behind, and
+durably store messages for resilience against failure. However, this can create a variety
+of complications, as mentioned previously (multiple deliveries and fuzzy ordering).
+Event-streaming platforms
+In some ways, an event-streaming platform is a continuation of a message queue in
+that messages are passed from producers to consumers. As discussed previously in
+this chapter, the big difference between messages and streams is that a message queue
+is primarily used to route messages with certain delivery guarantees. In contrast, an
+event-streaming platform is used to ingest and process data in an ordered log of
+Source System Practical Details
+|
+179
+
+records. In an event-streaming platform, data is retained for a while, and it is possible
+to replay messages from a past point in time.
+Let’s describe an event related to an event-streaming platform. As mentioned in
+Chapter 3, an event is “something that happened, typically a change in the state of
+something.” An event has the following features: a key, a value, and a timestamp.
+Multiple key-value timestamps might be contained in a single event. For example, an
+event for an ecommerce order might look like this:
+{
+"Key":"Order # 12345",
+"Value":"SKU 123, purchase price of $100",
+"Timestamp":"2023-01-02 06:01:00"
+}
+Let’s look at some of the critical characteristics of an event-streaming platform that
+you should be aware of as a data engineer.
+Topics. In an event-streaming platform, a producer streams events to a topic, a
+collection of related events. A topic might contain fraud alerts, customer orders, or
+temperature readings from IoT devices, for example. A topic can have zero, one, or
+multiple producers and customers on most event-streaming platforms.
+Using the preceding event example, a topic might be web orders. Also, let’s send
+this topic to a couple of consumers, such as fulfillment and marketing. This is
+an excellent example of blurred lines between analytics and an event-driven system.
+The fulfillment subscriber will use events to trigger a fulfillment process, while
+marketing runs real-time analytics or trains and runs ML models to tune marketing
+campaigns (Figure 5-10).
+Figure 5-10. An order-processing system generates events (small squares) and publishes
+them to the web orders topic. Two subscribers—marketing and fulfillment—pull
+events from the topic.
+Stream partitions. Stream partitions are subdivisions of a stream into multiple
+streams. A good analogy is a multilane freeway. Having multiple lanes allows for
+parallelism and higher throughput. Messages are distributed across partitions by
+partition key. Messages with the same partition key will always end up in the same
+partition.
+180
+|
+Chapter 5: Data Generation in Source Systems
+

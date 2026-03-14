@@ -1,0 +1,45 @@
+# Security for Low-Level Data Engineering
+
+Paginas: 402-402
+
+In principle, network security should be left to security experts at your company. (In
+practice, you may need to assume significant responsibility for network security in
+a small company.) As a data engineer, you will encounter databases, object storage,
+and servers so often that you should at least be aware of simple measures you can
+take to make sure you’re in line with good network access practices. Understand
+what IPs and ports are open, to whom, and why. Allow the incoming IP addresses of
+the systems and users that will access these ports (a.k.a. whitelisting IPs) and avoid
+broadly opening connections for any reason. When accessing the cloud or a SaaS
+tool, use an encrypted connection. For example, don’t use an unencrypted website
+from a coffee shop.
+Also, while this book has focused almost entirely on running workloads in the cloud,
+we add a brief note here about hosting on-premises servers. Recall that in Chapter 3,
+we discussed the difference between a hardened perimeter and zero-trust security.
+The cloud is generally closer to zero-trust security—every action requires authentica‐
+tion. We believe that the cloud is a more secure option for most organizations because
+it imposes zero-trust practices and allows companies to leverage the army of security
+engineers employed by the public clouds.
+However, sometimes hardened perimeter security still makes sense; we find some
+solace in the knowledge that nuclear missile silos are air gapped (not connected to
+any networks). Air-gapped servers are the ultimate example of a hardened security
+perimeter. Just keep in mind that even on premises, air-gapped servers are vulnerable
+to human security failings.
+Security for Low-Level Data Engineering
+For engineers who work in the guts of data storage and processing systems, it is
+critical to consider the security implications of every element. Any software library,
+storage system, or compute node is a potential security vulnerability. A flaw in an
+obscure logging library might allow attackers to bypass access controls or encryption.
+Even CPU architectures and microcode represent potential vulnerabilities; sensitive
+data can be vulnerable when it’s at rest in memory or a CPU cache. No link in the
+chain can be taken for granted.
+Of course, this book is principally about high-level data engineering—stitching
+together tools to handle the entire lifecycle. Thus, we’ll leave it to you to dig into
+the gory technical details.
+Internal security research
+We discussed the idea of active security in “Processes” on page 371. We also highly
+recommend adopting an active security approach to technology. Specifically, this
+means that every technology employee should think about security problems.
+Technology
+|
+377
+

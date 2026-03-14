@@ -1,0 +1,93 @@
+# Databases
+
+Paginas: 377-378
+
+The way you serve files depends on several factors, such as these:
+• Use case—business analytics, operational analytics, embedded analytics
+•
+• The data consumer’s data-handling processes
+•
+• The size and number of individual files in storage
+•
+• Who is accessing this file
+•
+• Data type—structured, semistructured, or unstructured
+•
+The second bullet point is one of the main considerations. It is often necessary to
+serve data through files rather than data sharing because the data consumer cannot
+use a sharing platform.
+The simplest file to serve is something along the lines of emailing a single Excel file.
+This is still a common workflow even in an era when files can be collaboratively
+shared. The problem with emailing files is each recipient gets their version of the file.
+If a recipient edits the file, these edits are specific to that user’s file. Deviations among
+files inevitably result. And what happens if you no longer want the recipient to have
+access to the file? If the file is emailed, you have very little recourse to retrieve the file.
+If you need a coherent, consistent version of a file, we suggest using a collaboration
+platform such as Microsoft 365 or Google Docs.
+Of course, serving single files is hard to scale, and your needs will eventually outgrow
+simple cloud file storage. You’ll likely grow into an object storage bucket if you have
+a handful of large files, or a data lake if you have a steady supply of files. Object
+storage can store any type of blob file and is especially useful for semistructured or
+unstructured files.
+We’ll note that we generally consider file exchange through object storage (data lake)
+to land under “data sharing” rather than file exchange since the process can be
+significantly more scalable and streamlined than ad hoc file exchange.
+Databases
+Databases are a critical layer in serving data for analytics and ML. For this discussion,
+we’ll implicitly keep our focus on serving data from OLAP databases (e.g., data
+warehouses and data lakes). In the previous chapter, you learned about querying
+databases. Serving data involves querying a database and then consuming those
+results for a use case. An analyst or data scientist might query a database by using a
+SQL editor and export those results to a CSV file for consumption by a downstream
+application, or analyze the results in a notebook (described in “Serving Data in
+Notebooks” on page 356).
+Serving data from a database carries a variety of benefits. A database imposes
+order and structure on the data through schema; databases can offer fine-grained
+352
+|
+Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
+
+permission controls at the table, column, and row level, allowing database adminis‐
+trators to craft complex access policies for various roles; and databases can offer
+high serving performance for large, computationally intensive queries and high query
+concurrency.
+BI systems usually share the data processing workload with a source database, but
+the boundary between processing in the two systems varies. For example, a Tableau
+server runs an initial query to pull data from a database and stores it locally. Basic
+OLAP/BI slicing and dicing (interactive filtering and aggregation) runs directly on
+the server from the local data copy. On the other hand, Looker (and similar modern
+BI systems) relies on a computational model called query pushdown; Looker enco‐
+des data processing logic in a specialized language (LookML), combines this with
+dynamic user input to generate SQL queries, runs these against the source database,
+and presents the output. (See “Semantic and Metrics Layers” on page 355.) Both
+Tableau and Looker have various configuration options for caching results to reduce
+the processing burden for frequently run queries.
+A data scientist might connect to a database, extract data, and perform feature
+engineering and selection. This converted dataset is then fed into an ML model; the
+offline model is trained and produces predictive results.
+Data engineers are quite often tasked with managing the database-serving layer. This
+includes management of performance and costs. In databases that separate compute
+and storage, this is a somewhat more subtle optimization problem than in the days
+of fixed on-premises infrastructure. For example, it is now possible to spin up a
+new Spark cluster or Snowflake warehouse for each analytical or ML workload. It is
+generally recommended to at least split out clusters by major use cases, such as ETL
+and serving for analytics and data science. Often data teams choose to slice more
+finely, assigning one warehouse per major area. This makes it possible for different
+teams to budget for their query costs under the supervision of a data engineering
+team.
+Also, recall the three performance considerations that we discussed in “Embedded
+Analytics” on page 348. These are data latency, query performance, and concurrency.
+A system that can ingest directly from a stream can lower data latency. And many
+database architectures rely on SSD or memory caching to enhance query perfor‐
+mance and concurrency to serve the challenging use cases inherent in embedded
+analytics.
+Increasingly, data platforms like Snowflake and Databricks allow analysts and data
+scientists to operate under a single environment, providing SQL editors and data
+science notebooks under one roof. Because compute and storage are separated, the
+analysts and data scientists can consume the underlying data in various ways without
+interfering with each other. This will allow high throughput and faster delivery of
+data products to stakeholders.
+Ways to Serve Data for Analytics and ML
+|
+353
+

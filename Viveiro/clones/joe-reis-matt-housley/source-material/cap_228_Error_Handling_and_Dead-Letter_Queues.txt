@@ -1,0 +1,43 @@
+# Error Handling and Dead-Letter Queues
+
+Paginas: 274-274
+
+Replay
+Replay allows readers to request a range of messages from the history, allowing you
+to rewind your event history to a particular point in time. Replay is a key capability
+in many streaming ingestion platforms and is particularly useful when you need
+to reingest and reprocess data for a specific time range. For example, RabbitMQ
+typically deletes messages after all subscribers consume them. Kafka, Kinesis, and
+Pub/Sub all support event retention and replay.
+Time to Live
+How long will you preserve your event record? A key parameter is maximum message
+retention time, also known as the time to live (TTL). TTL is usually a configuration
+you’ll set for how long you want events to live before they are acknowledged and
+ingested. Any unacknowledged event that’s not ingested after its TTL expires auto‐
+matically disappears. This is helpful to reduce backpressure and unnecessary event
+volume in your event-ingestion pipeline.
+Find the right balance of TTL impact on our data pipeline. An extremely short TTL
+(milliseconds or seconds) might cause most messages to disappear before processing.
+A very long TTL (several weeks or months) will create a backlog of many unpro‐
+cessed messages, resulting in long wait times.
+Let’s look at how some popular platforms handle TTL at the time of this writing.
+Google Cloud Pub/Sub supports retention periods of up to 7 days. Amazon Kinesis
+Data Streams retention can be turned up to 365 days. Kafka can be configured for
+indefinite retention, limited by available disk space. (Kafka also supports the option
+to write older messages to cloud object storage, unlocking virtually unlimited storage
+space and retention.)
+Message Size
+Message size is an easily overlooked issue: you must ensure that the streaming frame‐
+work in question can handle the maximum expected message size. Amazon Kinesis
+supports a maximum message size of 1 MB. Kafka defaults to this maximum size but
+can be configured for a maximum of 20 MB or more. (Configurability may vary on
+managed service platforms.)
+Error Handling and Dead-Letter Queues
+Sometimes events aren’t successfully ingested. Perhaps an event is sent to a nonexis‐
+tent topic or message queue, the message size may be too large, or the event has
+expired past its TTL. Events that cannot be ingested need to be rerouted and stored in
+a separate location called a dead-letter queue.
+Message and Stream Ingestion Considerations
+|
+249
+

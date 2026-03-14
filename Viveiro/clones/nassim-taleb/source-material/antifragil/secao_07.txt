@@ -1,0 +1,212 @@
+4. O que me mata deixa os outros mais fortes
+A antifragilidade para um é a fragilidade para outro — Onde apresentamos a ideia de que pensamos demais, fazemos muito pouco — Fracassar para que outros possam ter sucesso — Um dia talvez você receba um obrigado
+ANTIFRAGILIDADE EM CAMADAS
+Este capítulo é sobre erro, evolução e antifragilidade, com um senão: em larga medida, trata dos erros alheios — a antifragilidade de alguns surge, necessariamente, à custa da fragilidade de outros. Em um sistema, os sacrifícios de algumas unidades — unidades frágeis, ou seja, pessoas — são muitas vezes necessários para o bem-estar de outras unidades ou do todo. A fragilidade de toda startup é necessária para que a economia seja antifrágil, e isso, entre outras coisas, é o que faz o empreendedorismo funcionar: a fragilidade dos empreendedores individuais e sua taxa necessariamente elevada de fracasso.
+Assim, a antifragilidade torna-se um pouco mais complicada — e mais interessante — na presença de camadas e hierarquias. Um organismo natural não é uma unidade definitiva e única; compõe-se de subunidades, e ele próprio pode ser a subunidade de algum coletivo mais amplo. Essas subunidades podem disputar entre si. Vejamos outro exemplo de negócios. Restaurantes são frágeis; eles competem uns com os outros, mas por essa mesma razão o coletivo de restaurantes locais é antifrágil. Se os restaurantes fossem individualmente robustos, portanto, imortais, o negócio como um todo ou ficaria estagnado ou enfraqueceria, e não ofereceria nada além de comida de refeitório — e eu me refiro à comida de refeitório ao estilo soviético. Além disso, ele sofreria os estragos da escassez sistêmica, com crises ocasionais e o socorro financeiro do governo. Esses fatores — qualidade, estabilidade e confiabilidade — devem-se, todos, à fragilidade do próprio restaurante.
+Assim, pode ser que algumas partes
+do lado interno
+de um sistema tenham de ser frágeis para que o sistema se torne antifrágil. Ou o próprio organismo pode ser frágil, mas a informação codificada nos genes que o reproduzem será antifrágil. A questão não é trivial, uma vez que está baseada na lógica da evolução. Isso se aplica igualmente a empreendedores e pesquisadores científicos individuais.
+Além disso, alguns parágrafos atrás mencionamos o “sacrifício”. Infelizmente, os benefícios dos erros, muitas vezes, são concedidos aos outros, ao coletivo — como se os indivíduos fossem concebidos para cometer erros em nome do bem maior, e não para o seu próprio bem. É uma pena, mas temos a tendência de discutir os erros sem levar em conta essa disposição em camadas e a transferência de fragilidade.
+Evolução e imprevisibilidade
+Eu disse que as noções de mitridatização e hormese eram uma “proto”-antifragilidade, conceitos introdutórios: são até um pouco ingênuos, e precisaremos refiná-los, até mesmo transcendê-los, a fim de analisar um sistema complexo como um todo. A hormese é uma metáfora; a antifragilidade é um fenômeno.
+Primo
+, a mitridatização e a hormese são apenas formas muito fracas de antifragilidade, que obtêm ganhos limitados com a volatilidade, a casualidade ou o dano, e que, se ultrapassam determinada dose, apresentam certa reversão do efeito protetor ou benéfico. A hormese gosta só um pouco de desordem, ou melhor,
+precisa
+de um pouco dela. A desordem é mais interessante na medida em que sua privação é prejudicial, algo que não compreendemos intuitivamente — nossa mente não é capaz de entender com facilidade as respostas complicadas (pensamos de forma linear, e essas respostas dependentes da dose são não lineares). Nossa mente linear não gosta de nuances e reduz a informação ao binário “prejudicial” ou “útil”.
+Secundo
+, e esta é a fraqueza fundamental, nossa mente enxerga o organismo a partir do lado de fora, e o considera como um todo, uma única unidade, quando tudo pode ser um pouco mais sutil.
+Existe uma variedade diferente e mais forte de antifragilidade, vinculada à evolução, e que vai além da hormese — na verdade, é muito diferente da hormese; chega a ser até mesmo seu oposto. Ela pode ser descrita como hormese — torna-se mais forte sob os efeitos do dano — se observarmos de fora, e não de dentro.
+Essa outra variedade de antifragilidade é evolutiva e opera no nível informacional — genes são informações. Ao contrário da hormese, a unidade não se fortalece em resposta ao estresse; ela morre. Mas realiza uma transferência de benefícios; outras unidades sobrevivem — e aquelas que sobrevivem têm atributos que melhoram o coletivo de unidades, levando a modificações usualmente atribuídas ao vago termo “evolução” em livros didáticos e na seção de ciência da edição de terça-feira do
+New York Times
+. Assim, a antifragilidade que interessa aqui não é tanto aquela dos organismos, inerentemente fraca, mas sim a de seu código genético, que pode sobreviver a eles. Na verdade, o código não se preocupa com o bem-estar da unidade em si — muito pelo contrário, uma vez que destrói muitas coisas em torno dela. Com seu conceito do “gene egoísta”, Robert Trivers descobriu a presença de competição entre o gene e o organismo.
+Com efeito, o aspecto mais interessante da evolução é que ela só funciona por causa de sua
+antifragilidade
+; ela é apaixonada por estressores, pela aleatoriedade, pela incerteza e pela desordem — ao passo que os organismos individuais são relativamente frágeis, o fundo genético tira proveito dos impactos para aprimorar sua aptidão.
+Então, a partir disso, podemos constatar que há uma tensão entre a natureza e os organismos individuais.
+Tudo que é vivo ou orgânico na natureza tem uma vida finita e mais cedo ou mais tarde acaba morrendo — até mesmo Matusalém viveu menos de mil anos. Mas, geralmente, o organismo morre após produzir uma prole com um código genético de uma forma ou de outra diferente daquele dos progenitores, com suas informações modificadas. A informação genética
+de Matusalém ainda está presente em Damasco, em Jerusalém e, é claro, no Brooklyn, Nova York. A natureza não considera seus participantes muito úteis depois que as capacidades reprodutivas deles se esgotam (exceto, talvez, em situações particulares em que os animais vivem em grupos, por exemplo a necessidade, nos domínios humano e dos elefantes, de que as avós ajudem os outros a preparar seus descendentes para assumir as rédeas). A natureza prefere deixar o jogo seguir no nível informacional, o código genético. Assim, os organismos precisam morrer para que a natureza seja antifrágil — a natureza é oportunista, implacável e egoísta.
+À guisa de experimento mental, pense na situação de um organismo imortal, construído sem data de validade. Para sobreviver, ele precisaria estar completamente apto a todos os possíveis acontecimentos aleatórios que viessem a ocorrer no ambiente, todos os
+futuros
+acontecimentos aleatórios. Por alguma terrível característica, um acontecimento aleatório é, afinal, aleatório. Ele não anuncia antecipadamente sua chegada, a fim de que o organismo possa se preparar e fazer ajustes para suportar os impactos. Para um organismo imortal, a pré-adaptação a todos esses acontecimentos seria uma necessidade. Quando um evento aleatório acontece, já é tarde demais para reagir, então o organismo deve estar preparado para suportar o impacto ou para dizer adeus. Vimos que nossos corpos sobrecompensam um pouco em resposta aos estressores, mas isso continua a ser em larga medida insuficiente; eles ainda não são capazes de prever o futuro. Eles podem se preparar para a próxima guerra, mas não estão aptos a vencê-la. A adaptação pós-acontecimento, por mais rápida que seja, estará sempre um pouco atrasada.
+1
+Para satisfazer às condições dessa imortalidade, os organismos precisam prever à perfeição o futuro — a quase perfeição não é suficiente. Porém, deixando os organismos viverem um ciclo de vida de cada vez, com modificações entre as sucessivas gerações, a natureza não precisa prever as condições futuras para além da ideia, extremamente vaga, de qual é a direção para onde as coisas deverão caminhar. Na verdade, nem mesmo uma direção incerta é necessária. Todo evento aleatório trará seu próprio antídoto, na forma de variação ecológica. É como se a natureza se modificasse a cada passo e alterasse sua estratégia a cada instante.
+Pense nisso em relação à vida econômica e institucional. Se regesse a economia, a natureza não faria com que os seres vivos vivessem para sempre. Tampouco administraria e geraria departamentos de previsão permanentes que tentariam passar a perna no futuro — a natureza não deixaria trapaceiros e golpistas do Gabinete de Gestão e Orçamento dos Estados Unidos cometer tais erros de arrogância epistêmica.
+Se olharmos para a história como um sistema complexo semelhante à natureza, então, tal qual a natureza, ela não deixará que um único império domine para sempre o planeta — mesmo que cada superpotência, dos babilônios aos egípcios, dos persas aos romanos até a América moderna, tenha confiado na permanência da sua dominação e tenha produzido historiadores que contribuíram teoricamente nesse sentido. Sistemas sujeitos à aleatoriedade — e à imprevisibilidade — constroem um mecanismo que vai além do robusto para, de forma oportunista, se reinventarem a cada geração, com uma mudança contínua da população e da espécie.
+Curso básico de gestão do Cisne Negro: a natureza (e os sistemas similares à natureza) gostam da diversidade
+entre
+os organismos, em vez da diversidade
+dentro
+de um organismo imortal, a menos que você considere que a natureza em si é um organismo imortal, como no panteísmo de Espinosa ou nas atuais religiões asiáticas, ou no estoicismo de Crisipo ou Epicteto. Se você topar com um historiador das civilizações, tente explicar isso a ele.
+Vamos analisar como a evolução se beneficia com a aleatoriedade e a volatilidade (em certa dose, é claro). Quanto mais ruídos e distúrbios houver no sistema, até determinado ponto, excetuando-se os impactos extremos que levam à extinção de uma espécie, maior o papel que o efeito da reprodução dos mais aptos e o efeito das mutações aleatórias desempenhará na definição das características da geração seguinte. Digamos que um organismo produz dez descendentes. Se o ambiente for perfeitamente estável, todos os dez serão capazes de se reproduzir. Porém, se houver instabilidade, empurrando para o lado cinco filhos dessa prole (que provavelmente serão, em média, mais fracos do que seus irmãos sobreviventes), então aqueles a quem a evolução considerar mais aptos (considerando todos os fatos) se reproduzirão, fazendo com que o gene sofra alguma adaptação. Da mesma forma, se houver variabilidade entre os descendentes, graças à ocasional mutação espontânea aleatória (um erro de cópia no código genético), então os melhores se reproduzirão, aprimorando a aptidão da espécie. Assim, a evolução se beneficia com a aleatoriedade por duas vias diferentes: aleatoriedade nas mutações e aleatoriedade no ambiente — ambas agem de forma semelhante para provocar
+mudanças nos traços característicos das gerações sobreviventes vindouras.
+Mesmo quando há a extinção de uma espécie inteira após algum evento extremo, isso não é grande coisa, faz parte do jogo. Ainda é a evolução em ação, já que as espécies que sobrevivem são as mais aptas e assumem o lugar dos dinossauros — a evolução não diz respeito a uma espécie, mas trabalha a favor de toda a natureza.
+Porém vale apontar que a evolução gosta da aleatoriedade apenas até certo limite.
+2
+Se uma calamidade erradicar completamente a vida no planeta, os mais aptos não sobreviverão. Da mesma forma, se mutações aleatórias ocorrerem a uma taxa elevada demais, pode ser que o ganho de adaptação não se mantenha; talvez ele até mesmo se reverta, graças a uma nova mutação: conforme continuarei repetindo, a natureza é antifrágil
+até certo ponto
+, mas tal ponto é bastante alto — aguenta receber uma grande quantidade de impactos. Se um evento nuclear aniquilar a maior parte da vida na Terra, mas não toda a vida, algum rato ou um tipo de bactéria surgirá do nada, talvez do fundo dos oceanos, e a história vai recomeçar, sem nós e obviamente sem os membros do Gabinete de Gestão e Orçamento.
+Então, de certo modo, enquanto a hormese corresponde a situações em que o organismo individual se beneficia com os danos diretos a si próprio, a evolução ocorre quando o dano faz o organismo individual perecer e quando os benefícios são transferidos para outros, os sobreviventes, e as gerações futuras.
+Para uma ilustração de como as famílias de organismos gostam do
+dano
+a fim de evoluir (novamente, até certo ponto), e não os próprios organismos, pense no fenômeno de resistência aos antibióticos. Quanto mais você tenta
+danificar as bactérias, mais fortes serão as células sobreviventes — a menos que se consiga erradicá-las por completo. O mesmo acontece com a terapia do câncer: com bastante frequência, as células cancerígenas que conseguem sobreviver à toxicidade da quimioterapia e da radiação se reproduzem mais rapidamente e assumem o vazio deixado pelas células mais fracas.
+Organismos são populações e populações são organismos
+A ideia de ver as coisas em relação a populações, e não a indivíduos, com benefícios para estes decorrentes de danos àquelas, ocorreu-me ao ler as obras sobre antifragilidade de autoria de Antoine Danchin, um físico que se tornou geneticista.
+3
+Para ele, a análise deve levar em conta o fato de que um organismo não é algo isolado e autônomo: existem camadas e hierarquias. Quem vê as coisas em relação às populações deve transcender os termos “hormese” e “mitridatização” como caracterização da antifragilidade. Por quê? Reformulando o argumento anterior, a hormese é uma metáfora para a antifragilidade direta, quando um organismo se beneficia diretamente com o dano; com a evolução, algo hierarquicamente superior àquele organismo se beneficia com o dano. Visto superficialmente, parece que há hormese, mas, de dentro, há vencedores e perdedores.
+Como funciona essa disposição em camadas? Uma árvore tem muitos galhos, que se parecem com pequenas árvores; além disso, esses galhos grandes têm muitos outros galhos menores, que se parecem mais ou menos com árvores ainda menores. Trata-se de uma manifestação do que é chamado de
+autossimilaridade
+fractal
+, uma proposta do matemático Benoît Mandelbrot. Há uma hierarquia similar nas coisas e, do lado de fora, vemos apenas a camada superior e superficial. A célula tem uma população de moléculas intercelulares; por sua vez, o organismo tem uma população de células, e a espécie tem uma população de organismos. Um mecanismo de fortalecimento para a espécie se dá à custa de alguns organismos, ao passo que o organismo se fortalece à custa de algumas células, em toda a extensão, de cima para baixo e também de baixo para cima.
+Por exemplo, se você beber uma substância venenosa em pequenas quantidades, o mecanismo pelo qual seu organismo vai se curar é, de acordo com Danchin, evolutivo
+dentro
+de seu sistema, de maneira que as proteínas ruins (e fracas) nas células serão substituídas por proteínas mais fortes — e mais jovens —, as mais fortes sendo poupadas (ou alguma operação semelhante). Quando a pessoa se priva de comida, as proteínas ruins são as primeiras que o seu próprio corpo quebra e recicla — um processo chamado de
+autofagia
+. Trata-se de um processo puramente evolutivo, que seleciona e
+mata
+os mais fracos para a adaptação. Mas não é preciso aceitar a teoria biológica específica (como as proteínas que envelhecem e a autofagia) para aceitar a ideia geral de que as pressões por sobrevivência dentro do organismo desempenham papel significativo em seu aprimoramento sob a influência de estresse externo.
+OBRIGADO, ERROS
+Agora, entramos na seara dos erros e como os erros de algumas pessoas acarretam benefícios para outras.
+Podemos simplificar as relações entre fragilidade, erros e antifragilidade da seguinte forma. Quando você está frágil, depende de que as coisas sigam com exatidão o curso planejado, com um mínimo de desvio possível — pois os desvios são mais prejudiciais do que úteis. É por isso que o frágil
+precisa
+ser muito preditivo em seu enfoque, e, inversamente, os sistemas preditivos causam fragilidade. Quando você almeja desvios, e não se preocupa com a possível dispersão de resultados que o futuro pode trazer, já que a maioria deles será útil, você é antifrágil.
+Ademais, o elemento aleatório de tentativa e erro não é de todo aleatório se for realizado de forma racional, utilizando o erro como fonte de informação. Se cada tentativa fornecer a você informações sobre o que
+não
+funciona, você começa a pôr em foco uma solução — assim, cada tentativa torna-se mais valiosa, mais como uma despesa do que como um erro. E, é claro, você fará descobertas ao longo do caminho.
+Aprendendo com os erros dos outros
+Mas lembre-se de que este capítulo gira em torno de camadas, unidades, hierarquias, estrutura fractal e a diferença entre os interesses de uma unidade e os de suas subunidades. Por isso, muitas vezes são os erros dos outros que beneficiam o restante de nós — e, infelizmente, não a eles. Vimos que os estressores são informação, no contexto correto. Para o antifrágil, o dano provocado pelos erros deveria ser menor do que os benefícios. Claro que estamos falando de apenas alguns erros; aqueles que não destroem um sistema ajudam a prevenir calamidades maiores. O engenheiro e historiador de engenharia Henry
+Petroski apresenta um ponto de vista muito elegante. Se o famoso e fatal acidente com o
+Titanic
+não tivesse ocorrido, teríamos continuado a construir transatlânticos cada vez maiores, e o desastre seguinte teria sido ainda mais trágico. Desse modo, as pessoas que morreram foram sacrificadas em nome do bem maior; sem dúvida, salvaram mais vidas do que as que foram perdidas. A história do
+Titanic
+ilustra a diferença entre os ganhos para o sistema e os danos para algumas de suas partes individuais.
+O mesmo pode ser dito sobre o desastre de Fukushima: é possível afirmar, com segurança, que o episódio nos alertou para o problema dos reatores nucleares (e das pequenas probabilidades) e impediu catástrofes maiores (note que os erros dos ingênuos testes de estresse e a dependência de modelos de risco eram bastante óbvios à época; assim como com a crise econômica, ninguém quis dar ouvidos).
+Cada acidente aéreo nos aproxima mais da segurança, melhora o sistema e faz com que o voo seguinte seja mais seguro — as pessoas que morrem contribuem para a segurança global das outras. O voo 111 da Swissair, o voo 800 da
+TWA
+e o voo 447 da Air France possibilitaram o aperfeiçoamento do sistema. Mas esses sistemas aprendem porque são antifrágeis e configurados para tirar proveito de pequenos erros; o mesmo, porém, não pode ser dito dos colapsos econômicos, uma vez que o sistema econômico, em sua configuração atual, não é antifrágil. Por quê? Há centenas de milhares de voos todos os anos, e um acidente com um avião não envolve outras aeronaves, por isso os erros permanecem isolados e são altamente epistêmicos — ao passo que os sistemas
+econômicos globalizados operam como um só: os erros se propagam e se mesclam.
+Mais uma vez, estamos falando de erros parciais, pequenos, não gerais, graves e terminais. Isso cria uma separação entre os sistemas bons e ruins. Sistemas bons, a exemplo das companhias aéreas, são configurados para ter pequenos erros, independentes uns dos outros — ou, na verdade, negativamente correlacionados entre si, uma vez que os erros reduzem as chances de erros futuros. Essa é uma maneira de ver como um ambiente pode ser antifrágil (aviação) e outro, frágil (a vida econômica moderna, com uma interconectividade ao estilo “a Terra é plana”).
+Se cada acidente aéreo reduz a probabilidade de que ocorra outra queda de avião, cada colapso bancário aumenta a probabilidade de uma nova crise financeira. Precisamos eliminar o segundo tipo de erro — o que produz contágio — em nossa construção de um sistema socioeconômico ideal. Examinemos mais uma vez a Mãe Natureza.
+O natural foi construído de erro não sistêmico em erro não sistêmico: meus erros no desafio de levantar pedras, quando estou bem preparado, se traduzem em pequenas lesões que me nortearão na próxima vez, enquanto tento evitar a dor — afinal, esse é o propósito da dor. Os leopardos, que se movem como uma verdadeira sinfonia da natureza, não recebem instruções de personal trainers sobre a “forma adequada” de subir até o topo de uma árvore carregando um cervo na boca. Os conselhos humanos podem funcionar com os esportes artificiais — tênis, boliche ou tiro esportivo, por exemplo —, mas não com os movimentos naturais.
+Algumas empresas adoram
+seus próprios
+erros. As companhias de resseguro, cujo foco é garantir riscos catastróficos (e que são usadas por seguradoras para “reassegurar” esses riscos não diversificáveis), conseguem se sair bem
+depois
+de uma calamidade ou de um evento de causa que faz com que sofram prejuízos. Se ainda estiverem em atividade e conseguirem manter a calma e uma reserva de liquidez (poucas conseguem se planejar para tal contingência), elas compensam aumentando de forma desproporcional os prêmios — os clientes reagem com exagero e pagam pelo seguro. Elas alegam não ter ideia do valor justo, ou seja, dos preços adequados, para o resseguro, mas certamente sabem que ele se torna superfaturado em momentos de estresse, o que é suficiente para que acumulem uma boa soma em shekels
+4
+a longo prazo. Tudo que precisam fazer é manter seus erros na menor escala possível, de modo que consigam sobreviver a eles.
+Como se tornar a Madre Teresa
+A variabilidade causa erros e adaptações; também permite que você saiba quem são seus amigos. Seus fracassos e sucessos lhe darão informações. Entretanto, e esta é uma das coisas boas da vida, às vezes você só descobre o caráter de uma pessoa depois de prejudicá-la com um erro pelo qual o único responsável é você — fico espantado com a generosidade de algumas pessoas ao me perdoarem pelos erros que cometo.
+E, é claro, você aprende com os erros dos outros. Talvez você nunca venha a saber que tipo de pessoa está ao seu lado, a menos que sejam dadas a ela oportunidades de violar códigos morais ou éticos. Lembro-me de uma
+colega de classe, uma menina do ensino médio que parecia legal e honesta, e fazia parte do meu grupo de amigos de infância, utopistas antimaterialistas. Fiquei sabendo que, contrariando minhas expectativas (e sua aparência inocente), ela terminou não se tornando nem Madre Teresa nem Rosa Luxemburgo, já que abandonou seu primeiro (e rico) marido para ficar com outro homem, mais rico, e que ela descartou ao primeiro sinal de dificuldades financeiras em troca de outro amante ainda mais rico e poderoso (e generoso). Em um ambiente não volátil, eu (e muito provavelmente ela também) a teria confundido com uma utopista e uma santa. Alguns membros da sociedade — aqueles que não se casaram com ela — obtiveram informações valiosas, enquanto outros, as suas vítimas, pagaram o preço.
+Além disso, um perdedor para mim é alguém que, depois de cometer um erro, não faz uma reflexão introspectiva, não tira proveito do que aconteceu, sente-se constrangido e na defensiva, e não aperfeiçoado depois de obter a nova informação, e tenta encontrar motivos para o erro cometido, em vez de seguir em frente. Pessoas desse tipo invariavelmente consideram-se “vítimas” de algum grande complô, de um chefe malvado ou do mau tempo.
+Por fim, um pensamento. Aquele que nunca pecou é menos confiável do que aquele que só pecou uma vez. E alguém que tenha cometido diversos erros — mas nunca o mesmo erro mais de uma vez — é mais confiável do que alguém que nunca cometeu erro algum.
+POR QUE O CONJUNTO ODEIA O INDIVIDUAL
+Vimos que, na biologia, a antifragilidade funciona graças às camadas. Essa rivalidade entre suborganismos
+contribui para a evolução: as células dentro de nosso corpo competem entre si; dentro das células, as proteínas competem de cabo a rabo. Vamos aplicar essa questão nos empreendimentos humanos. A economia tem uma estratificação equivalente: indivíduos, artesãos, microempresas, departamentos dentro de corporações, corporações, indústrias, economia regional e, por fim, no topo, a economia em geral — é possível até mesmo fazer cortes mais finos, com um número maior de camadas.
+Para que a economia seja antifrágil e sofra o que se chama de evolução, cada negócio individual deve
+necessariamente
+ser frágil, exposto à ruptura — a evolução precisa que os organismos (ou seus genes) morram quando suplantados por outros, a fim de alcançar a melhoria, ou de modo a evitar a reprodução quando não estiverem tão aptos quanto algum outro indivíduo. Dessa maneira, a antifragilidade de nível superior pode requerer a fragilidade — e sacrifícios — de nível inferior. Toda vez que você usa uma cafeteira para fazer seu cappuccino matinal, está se beneficiando com a fragilidade do fabricante da máquina de café que faliu. Ele faliu para ajudar a colocar um produto superior sobre o balcão de sua cozinha.
+Leve em conta também as sociedades tradicionais. Nelas, da mesma forma, temos uma disposição semelhante em camadas: indivíduos, famílias imediatas, famílias estendidas, tribos, pessoas usando os mesmos dialetos, etnias, grupos.
+Embora o sacrifício como modus operandi seja mais óbvio no caso das colônias de formigas, por exemplo, tenho certeza de que os empreendedores individuais não estão particularmente interessados em praticar haraquiri em prol do bem maior econômico; eles estão, portanto,
+necessariamente preocupados em buscar a antifragilidade ou, pelo menos, algum nível de robustez para si mesmos. Isso pode não ser compatível com o interesse do coletivo — isto é, da economia. Então, há um problema em que a propriedade da soma (o conjunto, o agregado) diverge da propriedade das partes individuais — na verdade, ela quer danificar as partes.
+É doloroso pensar na crueldade como um motor que aciona a melhoria.
+Ora, mas qual seria a solução? Não há nenhuma, infelizmente, que seja capaz de agradar a todos — mas existem maneiras de mitigar o dano infligido aos muito fracos.
+O problema é mais grave do que se imagina. As pessoas vão para as faculdades de economia e administração de empresas para aprender a ser bem-sucedidas, ao mesmo tempo que asseguram sua sobrevivência — no entanto, o que a economia, enquanto coletividade, quer que elas façam
+não é
+sobreviver, mas, ao contrário, que assumam riscos, muitos riscos imprudentes, e sejam cegadas pelas probabilidades. Suas respectivas áreas de atividade melhoram de fracasso em fracasso. Os sistemas naturais e similares à natureza querem dos agentes econômicos individuais algum excesso de confiança, ou seja, a superestimação de suas chances de sucesso e a subestimação dos riscos de fracasso em seus negócios, contanto que seu fracasso não tenha impacto sobre os outros. Em outras palavras, querem a confiança em excesso em âmbito local, mas não global.
+Vimos que o ramo de restaurantes é de uma eficiência maravilhosa precisamente porque restaurantes, sendo vulneráveis, estão indo à falência a cada minuto, e os empresários ignoram esse fato, pois acreditam que terão
+êxito contrariando todas as probabilidades. Em outras palavras, algum tipo de exposição temerária a riscos, até mesmo suicida, é saudável para a economia — sob a condição de que nem todas as pessoas se exponham aos mesmos riscos e que esses riscos permaneçam pequenos e localizados.
+Ora, ao romper o modelo, como veremos, com socorros financeiros, os governos em geral favorecem certa classe de empresas que são suficientemente grandes para exigir serem salvas, a fim de evitar que contagiem outros negócios. Isso é o oposto da exposição a riscos saudável; é a
+transferência de fragilidade do coletivo para o inapto
+. As pessoas têm dificuldade para perceber que a solução é construir um sistema no qual a queda de alguém não seja capaz de debilitar e arrastar outros para o buraco — pois falhas contínuas trabalham para preservar o sistema. Paradoxalmente, muitas intervenções governamentais e muitas políticas sociais acabam prejudicando os fracos e consolidando os já estabelecidos.
+O QUE NÃO ME MATA, MATA OS OUTROS
+Hora de desmascararmos um mito.
+Como defensor da antifragilidade, preciso fazer um alerta sobre a ilusão de vê-la onde na verdade ela não está presente. Podemos confundir a antifragilidade do sistema com aquela do indivíduo, quando, na realidade, ela ocorre
+à custa
+do indivíduo (a diferença entre hormese e seleção).
+É fácil interpretar erroneamente a famosa expressão de Nietzsche, “Aquilo que não me destrói, me fortalece”, desvirtuando-a como mitridatização ou hormese. Talvez seja um desses dois fenômenos, muito possivelmente,
+mas poderia muito bem significar “aquilo que não me matou
+não
+me fortaleceu, mas me poupou
+porque
+sou mais forte do que os demais; porém matou os outros, e agora a média da população está mais forte, pois os fracos foram eliminados”. Em outras palavras, fui aprovado em um exame final. Em textos anteriores, discuti o problema da falsa ilusão de causalidade, com um artigo de jornal noticiando que os novos membros da máfia, ex-exilados soviéticos, tinham ficado “empedernidos por uma visita ao gulag” (um campo de concentração soviético). Uma vez que uma temporada no gulag matava os mais fracos, havia a ilusão de fortalecimento. Às vezes, vemos pessoas que sobreviveram a infortúnios e imaginamos, dado que a população sobrevivente é mais resistente que a original, que essas provações são boas para elas. Em outras palavras, a situação aflitiva pode ser apenas um teste implacável que mata os indivíduos que falham. Pode ser que tudo que estamos testemunhando seja a transferência de fragilidade (ou melhor, a antifragilidade) do indivíduo para o sistema, que discuti antes. Deixe-me explicar de maneira diferente. É evidente que o grupo sobrevivente é mais forte do que o inicial — mas não exatamente os indivíduos, uma vez que os mais fracos morreram.
+Alguém pagou um preço para que o sistema se aprimorasse.
+Eu e nós
+Essa visível tensão entre os interesses individuais e os coletivos é recente na história: no passado, lidava-se com ela por meio da quase irrelevância dos indivíduos. O sacrifício em prol do bem do grupo está por trás da noção de heroísmo: é bom para a tribo, ruim para os que
+perecem sob as adversidades da guerra. Esse instinto de heroísmo e o apagamento dos interesses individuais em favor do coletivo tornaram-se anômalos com os homens-bomba suicidas. Esses terroristas pré-morte entram em um estado de ânimo semelhante a um transe extático, em que suas emoções os levam a tornar-se indiferentes à sua própria mortalidade. É uma falácia que os homens-bomba suicidas sejam movidos pela promessa de recompensa de algum paraíso islâmico, repleto de virgens e outras modalidades de entretenimento, pois, como salientou o antropólogo Scott Atran, os primeiros homens-bomba suicidas no Levante eram revolucionários de origem ortodoxa grega — a minha tribo —, e não islâmicos.
+Existe dentro de nós algo parecido com um interruptor, que mata o indivíduo em favor do coletivo, quando as pessoas se envolvem em danças comunais, motins em massa ou guerras. O seu estado de ânimo individual passa a ser o do rebanho. Você é parte do que Elias Canetti chama de
+massa palpitante e rítmica.
+Você também poderá sentir na pele uma variedade diferente da experiência de multidão na próxima vez que se deparar com um tumulto na rua, quando o temor das autoridades desaparecer completamente sob a febril agitação da turba.
+Agora, vamos generalizar a questão. Observando o mundo de certa distância, vejo uma completa tensão entre homem e natureza — a tensão na troca compensatória de fragilidades. Vimos como a natureza deseja que ela própria, o coletivo, sobreviva — não todas as espécies —, assim como, por sua vez, cada espécie quer que seus indivíduos sejam frágeis (em especial após a reprodução), de modo que a seleção evolutiva ocorra. Vimos como essa transferência de fragilidade dos indivíduos para as espécies é necessária para a sobrevivência geral dela: as
+espécies são potencialmente antifrágeis, dado que o
+DNA
+é informação, mas os membros da espécie são perecíveis, portanto prontos para se sacrificar e, na realidade, projetados para fazer isso em benefício do coletivo.
+Antifragilidade, antifragilidade fajuta. Algumas ideias sobre adaptação e seleção aqui apresentadas não são muito confortáveis para este autor, o que torna bastante dolorosa a escrita de alguns trechos — detesto a crueldade da seleção, a inexorável deslealdade da Mãe Natureza. Detesto a ideia de aprimoramento com base no prejuízo dos outros. Como humanista, oponho-me à antifragilidade de sistemas à custa dos indivíduos, pois, se seguirmos tal raciocínio, isso nos torna a nós, seres humanos, individualmente irrelevantes.
+O grande benefício do Iluminismo foi trazer para o primeiro plano o indivíduo, com seus direitos, sua liberdade, sua independência, sua “busca pela felicidade” (seja lá o que signifique “felicidade”) e, acima de tudo, sua privacidade. Apesar de sua negação da antifragilidade, o Iluminismo e os sistemas políticos que surgiram a partir dele nos libertaram (de alguma forma) da dominação — da sociedade, da tribo e da família — que havia prevalecido ao longo da história.
+A unidade em culturas tradicionais é o coletivo, que poderia ser compreendido como algo que é prejudicado pelo comportamento de um indivíduo — a honra da família é maculada quando, por exemplo, a filha engravida ou algum parente se envolve em fraudes e pirâmides financeiras de grande escala, ou, pior ainda, quando alguém ministra, em um curso universitário, aulas da charlatã disciplina de economia financeira. E esses costumes tradicionais persistem. Recentemente, ainda em fins do século
+XIX
+ou início do
+XX
+, era
+comum, digamos, nas áreas rurais da França, que alguém despendesse todas as suas economias para resolver as dívidas de um primo remoto (uma prática chamada
+passer l’éponge
+, literalmente, usar uma esponja para apagar do quadro-negro a responsabilidade), e fazia isso para preservar a dignidade e o bom nome da família. A prática era tida como um dever (confesso que eu mesmo tomei atitudes parecidas no século
+XXI
+!).
+É absolutamente cristalino que o sistema precisa existir para que o indivíduo sobreviva. Então, é preciso tomar cuidado quanto à glorificação de um interesse em detrimento de outros na presença de interdependência e complexidade.
+5
+Na Cosa Nostra, a máfia siciliana, a designação “homem de honra” (
+uomo d’onore
+) implica que a pessoa capturada pela polícia permanecerá em silêncio e não delatará seus amigos, independentemente do que lhe seja oferecido, e que é preferível a vida na prisão a um acordo atenuante que acarrete prejuízos a outros membros. A tribo (Cosa Nostra) vem antes do indivíduo. E o que acabou com a máfia foi a recente geração de membros adeptos da delação premiada (note que, na máfia, “honra” limita-se a essa solidariedade intragrupo — de resto, e em outros domínios, mafiosos mentem e não fazem nada honroso. E matam pessoas pelas costas, algo que, no lado leste do Mediterrâneo, é considerado a mais pura forma de covardia).
+Da mesma forma, nós, humanos, talvez tenhamos de ser egocêntricos em prejuízo de outras espécies, sob o risco da fragilidade ecológica, se isso garantir nossa sobrevivência. Nossos interesses — como raça humana — prevalecem sobre os da natureza; e podemos tolerar algum grau de ineficiência, alguma fragilidade, a fim de proteger os
+indivíduos, embora sacrificar demais a natureza possa, mais cedo ou mais tarde, nos prejudicar.
+Vimos a troca compensatória entre os interesses do coletivo e os do indivíduo. Uma economia não consegue sobreviver sem quebrar ovos individuais; a proteção é danosa, e restringir as forças da evolução para beneficiar os indivíduos não parece necessário. Mas podemos proteger os indivíduos da morte por fome, proporcionar alguma proteção social. E dar-lhes respeito. Ou mais, como veremos a seguir.
+Dia Nacional do Empreendedor
+Ao mesmo tempo, se, na condição de utopista (de fato), odeio o que estou descobrindo, acho que há esperança.
+O heroísmo e o respeito que ele impõe são uma forma de compensação por parte da sociedade para aqueles que correm riscos pelos outros. E o empreendedorismo é uma atividade arriscada e heroica, necessária para o crescimento ou até mesmo para a mera sobrevivência da economia.
+O empreendedorismo também é necessariamente coletivo, por razões epistemológicas — para facilitar o desenvolvimento da competência especializada. Alguém que
+não
+encontrou algo está fornecendo conhecimento aos outros, o melhor conhecimento, aquele da
+ausência
+(o que não funciona) — ainda que receba pouco ou nenhum crédito por isso. Ele é uma parte essencial do processo; os incentivos vão para os outros e, o que é pior, ele não recebe respeito algum.
+6
+Sou ingrato com relação à importância do homem cujo excesso de confiança o levou a abrir um restaurante e
+falir, saboreando minha agradável refeição enquanto ele, provavelmente, está comendo atum em lata.
+Para progredir, a sociedade moderna deveria tratar os empreendedores falidos do mesmo modo que honramos os soldados mortos, talvez não com tanta honraria, mas usando exatamente a mesma lógica (o empreendedor ainda está vivo, embora talvez moralmente debilitado e socialmente estigmatizado, em especial se morar no Japão). Pois não existe soldado fracassado, nem vivo nem morto (a menos que tenha agido de forma covarde) — da mesma forma, não existe empresário fracassado ou pesquisador científico fracassado, bem como é impossível que um tagarela, um filosofastro, um comentarista, um consultor, um lobista ou um professor de faculdade de economia e administração de empresas seja bem-sucedido sem que assuma riscos pessoais (desculpe-me).
+Os psicólogos rotulam como doença o “excesso de confiança”, cegando as pessoas para suas chances de sucesso quando se envolvem em empreendimentos. Mas há uma diferença entre a exposição a riscos benigna, do tipo heroico, que é benéfica para os outros, no caso antifrágil, e a versão moderna mais asquerosa, relacionada com Cisnes Negros negativos, como o excesso de confiança de “cientistas” que computam os riscos de danos causados pelo reator de Fukushima. No primeiro caso, o que eles chamam de excesso de confiança é algo bom, não algo a tratar com medicação.
+E compare os empreendedores aos burocráticos e gerentes mesquinhos de empresas que vão galgando a escada da hierarquia quase sem ter de enfrentar qualquer desvantagem concreta. O grupo deles raramente está em risco.
+O que Erasmo chamou de
+ingratitudo vulgi
+, a ingratidão das massas, está aumentando na era da globalização e da internet.
+Meu sonho — a solução — é que tivéssemos um Dia Nacional do Empreendedor, com a seguinte mensagem:
+A maioria de vocês fracassará, será desrespeitada, empobrecerá, mas somos gratos pelos riscos a que vocês estão se expondo e os sacrifícios que estão fazendo em prol do crescimento econômico do planeta e para tirar outras pessoas da pobreza.
+Vocês estão na origem de nossa antifragilidade.
+Nossa nação agradece.
+1
+. Um comentário técnico sobre por que o critério de adaptabilidade é inocente de probabilidade (o leitor leigo pode pular o restante desta nota). A propriedade, em um processo estocástico, de não enxergar, em determinado período de tempo
+t
+, o que aconteceria no tempo após
+t
+, ou seja, qualquer período maior do que
+t
+, portanto reagindo com uma defasagem, uma defasagem incompreensível, é chamada de
+estratégia não antecipatória
+, uma exigência da integração estocástica. A incompressibilidade da defasagem é decisiva e inevitável. Organismos só podem ter estratégias não antecipatórias — por essa razão, a natureza só consegue ser não preditiva. A questão não é nem um pouco trivial e confundiu até mesmo os probabilistas, como os da Escola Russa, representados por Stratonovich e os usuários de seu método de integração, que descambaram para a distorção mental comum de pensar que o futuro envia alguns sinais detectáveis por nós. Quem nos dera.
+2
+. A antifragilidade forte é quando o amor pela volatilidade não conhece limites — os ganhos têm um limite remoto ou são verdadeiramente ilimitados: o céu é o limite. Eles só podem existir na vida artificial, criada pelo homem, como os contratos econômicos e os produtos culturais, não de fato em processos naturais. Mais sobre isso no Apêndice.
+3
+. Ele e seus coautores publicaram no periódico
+Genes
+um artigo sobre a ideia de antifragilidade em sistemas biológicos. Curiosamente, o artigo foi em resposta a um esboço deste livro; por sua vez, este livro foi modificado em resposta ao artigo de Danchin.
+4
+. No original, o autor usa de forma recorrente shekel, antiga moeda hebraica de prata e também uma unidade mesopotâmica de peso, ainda hoje usada
+como nome da moeda corrente de Israel (o novo shekel); no inglês moderno, em especial em sua forma plural, shekels, é uma gíria para dinheiro, equivalendo a “grana” ou “bolada”. (N. T.)
+5
+. Muitas pessoas pensam a princípio que a própria morte é o pior cenário Cisne Negro. Não é. A menos que tenham estudado demais a economia moderna, elas concordariam explicitamente que sua morte,
+mais
+a morte de seus entes queridos,
+mais
+o extermínio da humanidade, seria um resultado tremendamente pior do que seu próprio falecimento. Lembre-se do meu comentário sobre os sistemas complexos. Somos uma mera parte de uma grande cadeia, e estamos preocupados com nossos próprios problemas e com o sistema, bem como com a preservação de partes dessa grande cadeia.
+6
+. Jean-Louis Rheault, com quem me correspondo, escreveu-me: “Tenho notado que quanto mais as pessoas glorificam o empreendedor como uma abstração, mais desprezam um empreendedor de verdade quando conhecem um”.

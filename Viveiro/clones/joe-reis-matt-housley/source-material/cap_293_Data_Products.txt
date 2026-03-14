@@ -1,0 +1,45 @@
+# Data Products
+
+Paginas: 365-365
+
+2 D. J. Patil, “Data Jujitsu: The Art of Turning Data into Product,” O’Reilly Radar, July 17, 2012,
+https://oreil.ly/IYS9x.
+use case—e.g., to train an ML model that does lead scoring and populates a CRM
+(reverse ETL). High-quality, high-impact data will inherently attract many interesting
+use cases. But in seeking use cases, always ask, “What action will this data trigger, and
+who will be performing this action?,” with the appropriate follow-up question, “Can
+this action be automated?”
+Whenever possible, prioritize use cases with the highest possible ROI. Data engineers
+love to obsess over the technical implementation details of the systems they build
+while ignoring the basic question of purpose. Engineers want to do what they do best:
+engineer things. When engineers recognize the need to focus on value and use cases,
+they become much more valuable and effective in their roles.
+When starting a new data project, working backward is helpful. While it’s tempting
+to focus on tools, we encourage you to start with the use case and the users. Here are
+some questions to ask yourself as you get started:
+• Who will use the data, and how will they use it?
+•
+• What do stakeholders expect?
+•
+• How can I collaborate with data stakeholders (e.g., data scientists, analysts, busi‐
+•
+ness users) to understand how the data I’m working with will be used?
+Again, always approach data engineering from the perspective of the user and their
+use case. By understanding their expectations and goals, you can work backward to
+create amazing data products more easily. Let’s take a moment to expand on our
+discussion of a data product.
+Data Products
+A good definition of a data product is a product that facilitates an end goal through the
+use of data.
+—D. J. Patil2
+Data products aren’t created in a vacuum. Like so many other organizational pro‐
+cesses that we’ve discussed, making data products is a full-contact sport, involving
+a mix of product and business alongside technology. It’s important to involve key
+stakeholders in developing a data product. In most companies, a data engineer is a
+couple of steps removed from the end users of a data product; a good data engineer
+will seek to fully understand outcomes for direct users such as data analysts and data
+scientists or customers external to the company.
+340
+|
+Chapter 9: Serving Data for Analytics, Machine Learning, and Reverse ETL
+

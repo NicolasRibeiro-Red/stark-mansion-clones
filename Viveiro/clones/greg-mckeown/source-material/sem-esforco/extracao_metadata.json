@@ -1,0 +1,191 @@
+{
+  "titulo": "Sem esforço: Torne mais fácil o que é mais importante",
+  "autor": "Greg McKeown",
+  "total_paginas": 220,
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "Capa",
+      "paginas": "2-6",
+      "arquivo": "cap_01_Capa.txt"
+    },
+    {
+      "numero": 2,
+      "titulo": "Créditos",
+      "paginas": "7-13",
+      "arquivo": "cap_02_Créditos.txt"
+    },
+    {
+      "numero": 3,
+      "titulo": "Introdução: Nem tudo tem que ser tão difícil",
+      "paginas": "14-27",
+      "arquivo": "cap_03_Introdução_Nem_tudo_tem_que_ser_tão_difícil.txt"
+    },
+    {
+      "numero": 4,
+      "titulo": "Primeira parte: Estado sem esforço",
+      "paginas": "28-33",
+      "arquivo": "cap_04_Primeira_parte_Estado_sem_esforço.txt"
+    },
+    {
+      "numero": 5,
+      "titulo": "1. Inverter: E se isso pudesse ser fácil?",
+      "paginas": "34-45",
+      "arquivo": "cap_05_1_Inverter_E_se_isso_pudesse_ser_fácil.txt"
+    },
+    {
+      "numero": 6,
+      "titulo": "2. Desfrutar: E se pudesse ser divertido?",
+      "paginas": "46-56",
+      "arquivo": "cap_06_2_Desfrutar_E_se_pudesse_ser_divertido.txt"
+    },
+    {
+      "numero": 7,
+      "titulo": "3. Libertar-se: O poder de deixar pra lá",
+      "paginas": "57-70",
+      "arquivo": "cap_07_3_Libertar-se_O_poder_de_deixar_pra_lá.txt"
+    },
+    {
+      "numero": 8,
+      "titulo": "4. Descansar: A arte de não fazer nada",
+      "paginas": "71-81",
+      "arquivo": "cap_08_4_Descansar_A_arte_de_não_fazer_nada.txt"
+    },
+    {
+      "numero": 9,
+      "titulo": "5. Observar: Como enxergar com clareza",
+      "paginas": "82-94",
+      "arquivo": "cap_09_5_Observar_Como_enxergar_com_clareza.txt"
+    },
+    {
+      "numero": 10,
+      "titulo": "Segunda parte: Ação sem esforço",
+      "paginas": "95-100",
+      "arquivo": "cap_10_Segunda_parte_Ação_sem_esforço.txt"
+    },
+    {
+      "numero": 11,
+      "titulo": "6. Definir: Que aspecto deve ter algo finalizado",
+      "paginas": "101-105",
+      "arquivo": "cap_11_6_Definir_Que_aspecto_deve_ter_algo_finalizado.txt"
+    },
+    {
+      "numero": 12,
+      "titulo": "7. Começar: A primeira ação óbvia",
+      "paginas": "106-110",
+      "arquivo": "cap_12_7_Começar_A_primeira_ação_óbvia.txt"
+    },
+    {
+      "numero": 13,
+      "titulo": "8. Simplificar: Comece do zero",
+      "paginas": "111-119",
+      "arquivo": "cap_13_8_Simplificar_Comece_do_zero.txt"
+    },
+    {
+      "numero": 14,
+      "titulo": "9. Progredir: A coragem de ser tosco",
+      "paginas": "120-126",
+      "arquivo": "cap_14_9_Progredir_A_coragem_de_ser_tosco.txt"
+    },
+    {
+      "numero": 15,
+      "titulo": "10. Estabelecer um ritmo: Devagar é tranquilo, tranquilo é rápido",
+      "paginas": "127-136",
+      "arquivo": "cap_15_10_Estabelecer_um_ritmo_Devagar_é_tranquilo_tranqu.txt"
+    },
+    {
+      "numero": 16,
+      "titulo": "Terceira parte: Resultados sem esforço",
+      "paginas": "137-142",
+      "arquivo": "cap_16_Terceira_parte_Resultados_sem_esforço.txt"
+    },
+    {
+      "numero": 17,
+      "titulo": "11. Aprender: Explore ao máximo o que os outros sabem",
+      "paginas": "143-155",
+      "arquivo": "cap_17_11_Aprender_Explore_ao_máximo_o_que_os_outros_sabe.txt"
+    },
+    {
+      "numero": 18,
+      "titulo": "12. Elevar: Aproveite a força da multiplicação",
+      "paginas": "156-160",
+      "arquivo": "cap_18_12_Elevar_Aproveite_a_força_da_multiplicação.txt"
+    },
+    {
+      "numero": 19,
+      "titulo": "13. Automatizar: Faça uma vez e nunca mais",
+      "paginas": "161-168",
+      "arquivo": "cap_19_13_Automatizar_Faça_uma_vez_e_nunca_mais.txt"
+    },
+    {
+      "numero": 20,
+      "titulo": "14. Confiar: O segredo das equipes de alto desempenho",
+      "paginas": "169-176",
+      "arquivo": "cap_20_14_Confiar_O_segredo_das_equipes_de_alto_desempenh.txt"
+    },
+    {
+      "numero": 21,
+      "titulo": "15. Prevenir: Resolva o problema antes que aconteça",
+      "paginas": "177-187",
+      "arquivo": "cap_21_15_Prevenir_Resolva_o_problema_antes_que_aconteça.txt"
+    },
+    {
+      "numero": 22,
+      "titulo": "Conclusão: Agora: O que acontece em seguida é o que mais importa",
+      "paginas": "188-196",
+      "arquivo": "cap_22_Conclusão_Agora_O_que_acontece_em_seguida_é_o_que_.txt"
+    },
+    {
+      "numero": 23,
+      "titulo": "Agradecimentos",
+      "paginas": "197-198",
+      "arquivo": "cap_23_Agradecimentos.txt"
+    },
+    {
+      "numero": 24,
+      "titulo": "Notas",
+      "paginas": "199-215",
+      "arquivo": "cap_24_Notas.txt"
+    },
+    {
+      "numero": 25,
+      "titulo": "Sobre o autor",
+      "paginas": "216-219",
+      "arquivo": "cap_25_Sobre_o_autor.txt"
+    },
+    {
+      "numero": 26,
+      "titulo": "Informações sobre a Sextante",
+      "paginas": "220-220",
+      "arquivo": "cap_26_Informações_sobre_a_Sextante.txt"
+    }
+  ],
+  "arquivos": [
+    "cap_01_Capa.txt",
+    "cap_02_Créditos.txt",
+    "cap_03_Introdução_Nem_tudo_tem_que_ser_tão_difícil.txt",
+    "cap_04_Primeira_parte_Estado_sem_esforço.txt",
+    "cap_05_1_Inverter_E_se_isso_pudesse_ser_fácil.txt",
+    "cap_06_2_Desfrutar_E_se_pudesse_ser_divertido.txt",
+    "cap_07_3_Libertar-se_O_poder_de_deixar_pra_lá.txt",
+    "cap_08_4_Descansar_A_arte_de_não_fazer_nada.txt",
+    "cap_09_5_Observar_Como_enxergar_com_clareza.txt",
+    "cap_10_Segunda_parte_Ação_sem_esforço.txt",
+    "cap_11_6_Definir_Que_aspecto_deve_ter_algo_finalizado.txt",
+    "cap_12_7_Começar_A_primeira_ação_óbvia.txt",
+    "cap_13_8_Simplificar_Comece_do_zero.txt",
+    "cap_14_9_Progredir_A_coragem_de_ser_tosco.txt",
+    "cap_15_10_Estabelecer_um_ritmo_Devagar_é_tranquilo_tranqu.txt",
+    "cap_16_Terceira_parte_Resultados_sem_esforço.txt",
+    "cap_17_11_Aprender_Explore_ao_máximo_o_que_os_outros_sabe.txt",
+    "cap_18_12_Elevar_Aproveite_a_força_da_multiplicação.txt",
+    "cap_19_13_Automatizar_Faça_uma_vez_e_nunca_mais.txt",
+    "cap_20_14_Confiar_O_segredo_das_equipes_de_alto_desempenh.txt",
+    "cap_21_15_Prevenir_Resolva_o_problema_antes_que_aconteça.txt",
+    "cap_22_Conclusão_Agora_O_que_acontece_em_seguida_é_o_que_.txt",
+    "cap_23_Agradecimentos.txt",
+    "cap_24_Notas.txt",
+    "cap_25_Sobre_o_autor.txt",
+    "cap_26_Informações_sobre_a_Sextante.txt"
+  ]
+}

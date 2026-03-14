@@ -1,0 +1,43 @@
+# Interoperability
+
+Paginas: 142-142
+
+Take an inventory of your team’s skills. Do people lean toward low-code tools, or
+do they favor code-first approaches? Are people strong in certain languages like
+Java, Python, or Go? Technologies are available to cater to every preference on the
+low-code to code-heavy spectrum. Again, we suggest sticking with technologies and
+workflows with which the team is familiar. We’ve seen data teams invest a lot of time
+in learning the shiny new data technology, language, or tool, only to never use it in
+production. Learning new technologies, languages, and tools is a considerable time
+investment, so make these investments wisely.
+Speed to Market
+In technology, speed to market wins. This means choosing the right technologies that
+help you deliver features and data faster while maintaining high-quality standards
+and security. It also means working in a tight feedback loop of launching, learning,
+iterating, and making improvements.
+Perfect is the enemy of good. Some data teams will deliberate on technology choices
+for months or years without reaching any decisions. Slow decisions and output are
+the kiss of death to data teams. We’ve seen more than a few data teams dissolve for
+moving too slow and failing to deliver the value they were hired to produce.
+Deliver value early and often. As we’ve mentioned, use what works. Your team
+members will likely get better leverage with tools they already know. Avoid undiffer‐
+entiated heavy lifting that engages your team in unnecessarily complex work that
+adds little to no value. Choose tools that help you move quickly, reliably, safely, and
+securely.
+Interoperability
+Rarely will you use only one technology or system. When choosing a technology or
+system, you’ll need to ensure that it interacts and operates with other technologies.
+Interoperability describes how various technologies or systems connect, exchange
+information, and interact.
+Let’s say you’re evaluating two technologies, A and B. How easily does technology
+A integrate with technology B when thinking about interoperability? This is often
+a spectrum of difficulty, ranging from seamless to time-intensive. Is seamless integra‐
+tion already baked into each product, making setup a breeze? Or do you need to do a
+lot of manual configuration to integrate these technologies?
+Often, vendors and open source projects will target specific platforms and systems
+to interoperate. Most data ingestion and visualization tools have built-in integrations
+with popular data warehouses and data lakes. Furthermore, popular data-ingestion
+Speed to Market
+|
+117
+

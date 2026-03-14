@@ -1,0 +1,41 @@
+# Principle 2: Plan for Failure
+
+Paginas: 104-104
+
+8 UberPulse, “Amazon.com CTO: Everything Fails,” YouTube video, 3:03, https://oreil.ly/vDVlX.
+Choosing common components is a balancing act. On the one hand, you need to
+focus on needs across the data engineering lifecycle and teams, utilize common
+components that will be useful for individual projects, and simultaneously facilitate
+interoperation and collaboration. On the other hand, architects should avoid deci‐
+sions that will hamper the productivity of engineers working on domain-specific
+problems by forcing them into one-size-fits-all technology solutions. Chapter 4 pro‐
+vides additional details.
+Principle 2: Plan for Failure
+Everything fails, all the time.
+—Werner Vogels, CTO of Amazon Web Services8
+Modern hardware is highly robust and durable. Even so, any hardware component
+will fail, given enough time. To build highly robust data systems, you must consider
+failures in your designs. Here are a few key terms for evaluating failure scenarios; we
+describe these in greater detail in this chapter and throughout the book:
+Availability
+The percentage of time an IT service or component is in an operable state.
+Reliability
+The system’s probability of meeting defined standards in performing its intended
+function during a specified interval.
+Recovery time objective
+The maximum acceptable time for a service or system outage. The recovery time
+objective (RTO) is generally set by determining the business impact of an outage.
+An RTO of one day might be fine for an internal reporting system. A website
+outage of just five minutes could have a significant adverse business impact on an
+online retailer.
+Recovery point objective
+The acceptable state after recovery. In data systems, data is often lost during an
+outage. In this setting, the recovery point objective (RPO) refers to the maximum
+acceptable data loss.
+Engineers need to consider acceptable reliability, availability, RTO, and RPO in
+designing for failure. These will guide their architecture decisions as they assess
+possible failure scenarios.
+Principles of Good Data Architecture
+|
+79
+

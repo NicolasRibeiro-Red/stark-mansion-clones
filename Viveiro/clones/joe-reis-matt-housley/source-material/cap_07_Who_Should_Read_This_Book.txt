@@ -1,0 +1,43 @@
+# Who Should Read This Book
+
+Paginas: 19-19
+
+to O’Reilly books that cover the details of particular technologies, platforms, and
+programming languages.
+The big idea of this book is the data engineering lifecycle: data generation, storage,
+ingestion, transformation, and serving. Since the dawn of data, we’ve seen the rise
+and fall of innumerable specific technologies and vendor products, but the data engi‐
+neering lifecycle stages have remained essentially unchanged. With this framework,
+the reader will come away with a sound understanding for applying technologies to
+real-world business problems.
+Our goal here is to map out principles that reach across two axes. First, we wish to
+distill data engineering into principles that can encompass any relevant technology.
+Second, we wish to present principles that will stand the test of time. We hope that
+these ideas reflect lessons learned across the data technology upheaval of the last
+twenty years and that our mental framework will remain useful for a decade or more
+into the future.
+One thing to note: we unapologetically take a cloud-first approach. We view the
+cloud as a fundamentally transformative development that will endure for decades;
+most on-premises data systems and workloads will eventually move to cloud hosting.
+We assume that infrastructure and systems are ephemeral and scalable, and that data
+engineers will lean toward deploying managed services in the cloud. That said, most
+concepts in this book will translate to non-cloud environments.
+Who Should Read This Book
+Our primary intended audience for this book consists of technical practitioners, mid-
+to senior-level software engineers, data scientists, or analysts interested in moving
+into data engineering; or data engineers working in the guts of specific technologies,
+but wanting to develop a more comprehensive perspective. Our secondary target
+audience consists of data stakeholders who work adjacent to technical practition‐
+ers—e.g., a data team lead with a technical background overseeing a team of data
+engineers, or a director of data warehousing wanting to migrate from on-premises
+technology to a cloud-based solution.
+Ideally, you’re curious and want to learn—why else would you be reading this book?
+You stay current with data technologies and trends by reading books and articles on
+data warehousing/data lakes, batch and streaming systems, orchestration, modeling,
+management, analysis, developments in cloud technologies, etc. This book will help
+you weave what you’ve read into a complete picture of data engineering across
+technologies and paradigms.
+xiv
+|
+Preface
+

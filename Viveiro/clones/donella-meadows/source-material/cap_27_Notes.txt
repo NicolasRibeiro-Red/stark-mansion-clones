@@ -1,0 +1,163 @@
+# Notes
+
+Paginas: 194-201
+
+
+Notes
+Introduction
+1. Russell Ackoff, “The Future of Operational Research Is Past,” Journal of the Operational
+Research Society 30, no. 2 (February 1979): 93–104.
+2. Idries Shah, Tales of the Dervishes (New York: E. P. Dutton, 1970), 25.
+
+Chapter One
+1. Poul Anderson, quoted in Arthur Koestler, The Ghost in the Machine (New York: Macmillan,
+1968), 59.
+2. Ramon Margalef, “Perspectives in Ecological Theory,” Co-Evolution Quarterly (Summer
+1975), 49.
+3. Jay W. Forrester, Industrial Dynamics (Cambridge, MA: The MIT Press, 1961), 15.
+4. Honoré Balzac, quoted in George P. Richardson, Feedback Thought in Social Science and
+Systems Theory (Philadelphia: University of Pennsylvania Press, 1991), 54.
+5. Jan Tinbergen, quoted in ibid, 44.
+
+Chapter Two
+1. Albert Einstein, “On the Method of Theoretical Physics,” The Herbert Spencer Lecture,
+delivered at Oxford (10 June 1933); also published in Philosophy of Science 1, no. 2 (April
+1934): 163–69.
+2. The concept of a “systems zoo” was invented by Prof. Hartmut Bossel of the University of
+Kassel in Germany. His three recent “System Zoo” books contain system descriptions and
+simulation-model documentations of more than 100 “animals,” some of which are included
+in modified form here. Hartmut Bossel, System Zoo Simulation Models – Vol. 1: Elementary
+Systems, Physics, Engineering; Vol. 2: Climate, Ecosystems, Resources; Vol. 3: Economy,
+Society, Development. (Norderstedt, Germany: Books on Demand, 2007).
+3. For a more complete model, see the chapter “Population Sector” in Dennis L. Meadows et al.,
+Dynamics of Growth in a Finite World, (Cambridge MA: Wright-Allen Press, 1974).
+4. For an example, see Chapter 2 in Donella Meadows, Jørgen Randers, and Dennis Meadows,
+Limits to Growth: The 30-Year Update (White River Junction, VT: Chelsea Green Publishing
+Co., 2004).
+5. Jay W. Forrester, 1989. “The System Dynamics National Model: Macrobehavior from
+Microstructure,” in P. M. Milling and E. O. K. Zahn, eds., Computer-Based Management of
+Complex Systems: International System Dynamics Conference (Berlin: Springer-Verlag,
+1989).
+
+Chapter Three
+1. Aldo Leopold, Round River (New York: Oxford University Press, 1993).
+2. C. S. Holling, ed., Adaptive Environmental Assessment and Management, (Chichester UK:
+John Wiley & Sons, 1978), 34.
+3. Ludwig von Bertalanffy, Problems of Life: An Evaluation of Modern Biological Thought
+(New York: John Wiley & Sons Inc., 1952), 105.
+4. Jonathan Swift, “Poetry, a Rhapsody, 1733.” In The Poetical Works of Jonathan Swift
+(Boston: Little Brown & Co.,1959).
+5. Paraphrased from Herbert Simon, The Sciences of the Artificial (Cambridge MA: MIT Press,
+1969), 90–91 and 98–99.
+
+Chapter Four
+1. Wendell Berry, Standing by Words (Washington, DC: Shoemaker & Hoard, 2005), 65.
+2. Kenneth Boulding, “General Systems as a Point of View,” in Mihajlo D. Mesarovic, ed.,
+Views on General Systems Theory, proceedings of the Second Systems Symposium, Case
+Institute of Technology, Cleveland, April 1963 (New York: John Wiley & Sons, 1964).
+3. James Gleick, Chaos: Making a New Science (New York: Viking, 1987), 23–24.
+4. This story is compiled from the following sources: C. S. Holling, “The Curious Behavior of
+Complex Systems: Lessons from Ecology,” in H. A. Linstone, Future Research (Reading,
+MA: Addison-Wesley, 1977); B. A. Montgomery et al., The Spruce Budworm Handbook,
+Michigan Cooperative Forest Pest Management Program, Handbook 82-7, November, 1982;
+The Research News, University of Michigan, April-June, 1984; Kari Lie, “The Spruce
+Budworm Controversy in New Brunswick and Nova Scotia,” Alternatives 10, no. 10 (Spring
+1980), 5; R. F. Morris, “The Dynamics of Epidemic Spruce Budworm Populations,”
+Entomological Society of Canada, no. 31, (1963).
+5. Garrett Hardin, “The Cybernetics of Competition: A Biologist’s View of Society,”
+Perspectives in Biology and Medicine 7, no. 1 (1963): 58-84.
+6. Jay W. Forrester, Urban Dynamics (Cambridge, MA: The MIT Press, 1969), 117.
+7. Václav Havel, from a speech to the Institute of France, quoted in the International Herald
+Tribune, November 13, 1992, p. 7.
+8. Dennis L. Meadows, Dynamics of Commodity Production Cycles, (Cambridge MA: Wright-
+Allen Press, Inc., 1970).
+9. Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations, Edwin Cannan,
+ed., (Chicago: University of Chicago Press, 1976), 477-8.
+10. Herman Daly, ed., Toward a Steady-State Economy (San Francisco: W. H. Freeman and Co.,
+1973), 17; Herbert Simon, “Theories of Bounded Rationality,” in R. Radner and C. B.
+McGuire, eds., Decision and Organization (Amsterdam: North-Holland Pub. Co., 1972).
+11. The term “satisficing” (a merging of “satisfy” and “suffice”) was first used by Herbert Simon
+to describe the behavior of making decisions that meet needs adequately, rather than trying
+to maximize outcomes in the face of imperfect information. H. Simon, Models of Man, (New
+York: Wiley, 1957).
+12. Philip G. Zimbardo, “On the Ethics of Intervention in Human Psychological Research: With
+Special Reference to the Stanford Prison Experiment,” Cognition 2, no. 2 (1973): 243–56)
+13. This story was told to me during a conference in Kollekolle, Denmark, in 1973.
+
+Chapter Five
+1. Paraphrased in an interview by Barry James, “Voltaire’s Legacy: The Cult of the Systems
+Man,” International Herald Tribune, December 16, 1992, p. 24.
+2. John H. Cushman, Jr., “From Clinton, a Flyer on Corporate Jets?” International Herald
+Tribune, December 15, 1992, p. 11.
+3. World Bank, World Development Report 1984 (New York: Oxford University Press, 1984),
+157; Petre Muresan and Ioan M. Copil, “Romania,” in B. Berelson, ed., Population Policy in
+Developed Countries (New York: McGraw-Hill Book Company, 1974), 355-84.
+4. Alva Myrdal, Nation and Family (Cambridge, MA: MIT Press, 1968). Original edition
+published New York: Harper & Brothers, 1941.
+5. “Germans Lose Ground on Asylum Pact,” International Herald Tribune, December 15, 1992,
+p. 5.
+6. Garrett Hardin, “The Tragedy of the Commons,” Science 162, no. 3859 (13 December 1968):
+1243–48.
+7. Erik Ipsen, “Britain on the Skids: A Malaise at the Top,” International Herald Tribune,
+December 15, 1992, p. 1.
+8. Clyde Haberman, “Israeli Soldier Kidnapped by Islamic Extremists,” International Herald
+Tribune, December 14, 1992, p. 1.
+9. Sylvia Nasar, “Clinton Tax Plan Meets Math,” International Herald Tribune, December 14,
+1992, p. 15.
+10. See Jonathan Kozol, Savage Inequalities: Children in America’s Schools (New York: Crown
+Publishers, 1991).
+11. Quoted in Thomas L. Friedman, “Bill Clinton Live: Not Just a Talk Show,” International
+Herald Tribune, December 16, 1992, p. 6.
+12. Keith B. Richburg, “Addiction, Somali-Style, Worries Marines,” International Herald
+Tribune, December 15, 1992, p. 2.
+13. Calvin and Hobbes comic strip, International Herald Tribune, December 18, 1992, p. 22.
+14. Wouter Tims, “Food, Agriculture, and Systems Analysis,” Options, International Institute of
+Applied Systems Analysis Laxenburg, Austria no. 2 (1984), 16.
+15. “Tokyo Cuts Outlook on Growth to 1.6%,” International Herald Tribune, December 19-20,
+1992, p. 11.
+16. Robert F. Kennedy address, University of Kansas, Lawrence, Kansas, March 18, 1968.
+Available from the JFK Library On-Line, http://www.jfklibrary.org/Historical+Resources
+/Archives/Reference+Desk/Speeches/RFK/RFKSpeech68Mar18UKansas.htm. Accessed
+6/11/08.
+17. Wendell Berry, Home Economics (San Francisco: North Point Press, 1987), 133.
+
+Chapter Six
+1. Lawrence Malkin, “IBM Slashes Spending for Research in New Cutback,” International
+Herald Tribune, December 16, 1992, p. 1.
+2. J. W. Forrester, World Dynamics (Cambridge MA: Wright-Allen Press, 1971).
+3. Forrester, Urban Dynamics (Cambridge, MA: The MIT Press, 1969), 65.
+4. Thanks to David Holmstrom of Santiago, Chile.
+5. For an example, see Dennis Meadows’s model of commodity price fluctuations: Dennis L.
+Meadows, Dynamics of Commodity Production Cycles (Cambridge, MA: Wright-Allen
+Press, Inc., 1970).
+6. John Kenneth Galbraith, The New Industrial State (Boston: Houghton Mifflin, 1967).
+7. Ralph Waldo Emerson, “War,” lecture delivered in Boston, March, 1838. Reprinted in
+Emerson’s Complete Works, vol. XI, (Boston: Houghton, Mifflin & Co., 1887), 177.
+8. Thomas Kuhn, The Structure of Scientific Revolutions (Chicago: University of Chicago Press,
+1962).
+
+Chapter Seven
+1. G.K. Chesterton, Orthodoxy (New York: Dodd, Mead and Co., 1927).
+2. For a beautiful example of how systems thinking and other human qualities can be combined
+in the context of corporate management, see Peter Senge’s book The Fifth Discipline: The
+Art and Practice of the Learning Organization (New York: Doubleday, 1990).
+3. Philip Abelson, “Major Changes in the Chemical Industry,” Science 255, no. 5051 (20 March
+1992), 1489.
+4. Fred Kofman, “Double-Loop Accounting: A Language for the Learning Organization,” The
+Systems Thinker 3, no. 1 (February 1992).
+5. Wendell Berry, Standing by Words (San Francisco: North Point Press, 1983), 24, 52.
+6. This story was told to me by Ed Roberts of Pugh-Roberts Associates.
+7. Garrett Hardin, Exploring New Ethics for Survival: the Voyage of the Spaceship Beagle (New
+York, Penguin Books, 1976), 107.
+8. Donald N. Michael, “Competences and Compassion in an Age of Uncertainty,” World Future
+Society Bulletin (January/February 1983).
+9. Donald N. Michael quoted in H. A. Linstone and W. H. C. Simmonds. eds., Futures Research
+(Reading, MA: Addison-Wesley, 1977), 98–99.
+10. Aldo Leopold, A Sand County Almanac and Sketches Here and There (New York: Oxford
+University Press, 1968), 224–25.
+11. Kenneth Boulding, “The Economics of the Coming Spaceship Earth,” in H. Jarrett, ed.,
+Environmental Quality in a Growing Economy: Essays from the Sixth Resources for the
+Future Forum (Baltimore, MD: Johns Hopkins University Press, 1966), 11-12.
+12. Joseph Wood Krutch, Human Nature and the Human Condition (New York: Random House,
+1959).
+

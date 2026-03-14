@@ -1,0 +1,54 @@
+# Compression: gzip, bzip2, Snappy, Etc.
+
+Paginas: 421-423
+
+offer major storage engine configuration options (columnar versus row-based stor‐
+age) that dramatically affect database behavior.
+Typically, the storage engine is a separate software layer from the query engine.
+The storage engine manages all aspects of how data is stored on a disk, including
+serialization, the physical arrangement of data, and indexes.
+Storage engines have seen significant innovation in the 2000s and 2010s. While stor‐
+age engines in the past were optimized for direct access to spinning disks, modern
+storage engines are much better optimized to support the performance characteristics
+of SSDs. Storage engines also offer improved support for modern types and data
+structures, such as variable-length strings, arrays, and nested data.
+Another major change in storage engines is a shift toward columnar storage for
+analytics and data warehouse applications. SQL Server, PostgreSQL, and MySQL offer
+robust columnar storage support.
+Compression: gzip, bzip2, Snappy, Etc.
+The math behind compression algorithms is complex, but the basic idea is easy to
+understand: compression algorithms look for redundancy and repetition in data,
+then reencode data to reduce redundancy. When we want to read the raw data, we
+decompress it by reversing the algorithm and putting the redundancy back in.
+For example, you’ve noticed that certain words appear repeatedly in reading this
+book. Running some quick analytics on the text, you could identify the words that
+occur most frequently and create shortened tokens for these words. To compress, you
+would replace common words with their tokens; to decompress, you would replace
+the tokens with their respective words.
+Perhaps we could use this naive technique to realize a compression ratio of 2:1 or
+more. Compression algorithms utilize more sophisticated mathematical techniques to
+identify and remove redundancy; they can often realize compression ratios of 10:1 on
+text data.
+Note that we’re talking about lossless compression algorithms. Decompressing data
+encoded with a lossless algorithm recovers a bit-for-bit exact copy of the original
+data. Lossy compression algorithms for audio, images, and video aim for sensory fidel‐
+ity; decompression recovers something that sounds like or looks like the original but
+is not an exact copy. Data engineers might deal with lossy compression algorithms
+in media processing pipelines but not in serialization for analytics, where exact data
+fidelity is required.
+396
+|
+Appendix A: Serialization and Compression Technical Details
+
+Traditional compression engines such as gzip and bzip2 compress text data extremely
+well; they are frequently applied to JSON, JSONL, XML, CSV, and other text-based
+data formats. Engineers have created a new generation of compression algorithms
+that prioritize speed and CPU efficiency over compression ratio in recent years.
+Major examples are Snappy, Zstandard, LZFSE, and LZ4. These algorithms are fre‐
+quently used to compress data in data lakes or columnar databases to optimize for
+fast query performance.
+Serialization and Compression Technical Details
+|
+397
+
+

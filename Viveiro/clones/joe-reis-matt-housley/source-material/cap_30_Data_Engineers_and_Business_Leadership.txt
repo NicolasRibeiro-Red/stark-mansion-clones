@@ -1,0 +1,126 @@
+# Data Engineers and Business Leadership
+
+Paginas: 53-55
+
+The world of ML engineering is snowballing and parallels a lot of the same develop‐
+ments occurring in data engineering. Whereas several years ago, the attention of ML
+was focused on how to build models, ML engineering now increasingly emphasizes
+incorporating best practices of machine learning operations (MLOps) and other
+mature practices previously adopted in software engineering and DevOps.
+AI researchers work on new, advanced ML techniques. AI researchers may
+work inside large technology companies, specialized intellectual property startups
+(OpenAI, DeepMind), or academic institutions. Some practitioners are dedicated
+to part-time research in conjunction with ML engineering responsibilities inside a
+company. Those working inside specialized ML labs are often 100% dedicated to
+research. Research problems may target immediate practical applications or more
+abstract demonstrations of AI. DALL-E, Gato AI, AlphaGo, and GPT-3/GPT-4 are
+great examples of ML research projects. Given the pace of advancements in ML,
+these examples will very likely be quaint in a few years’ time. We’ve provided some
+references in “Additional Resources” on page 32.
+AI researchers in well-funded organizations are highly specialized and operate with
+supporting teams of engineers to facilitate their work. ML engineers in academia
+usually have fewer resources but rely on teams of graduate students, postdocs, and
+university staff to provide engineering support. ML engineers who are partially dedi‐
+cated to research often rely on the same support teams for research and production.
+Data Engineers and Business Leadership
+We’ve discussed technical roles with which a data engineer interacts. But data engi‐
+neers also operate more broadly as organizational connectors, often in a nontechnical
+capacity. Businesses have come to rely increasingly on data as a core part of many
+products or a product in itself. Data engineers now participate in strategic planning
+and lead key initiatives that extend beyond the boundaries of IT. Data engineers
+often support data architects by acting as the glue between the business and data
+science/analytics.
+Data in the C-suite
+C-level executives are increasingly involved in data and analytics, as these are recog‐
+nized as significant assets for modern businesses. For example, CEOs now concern
+themselves with initiatives that were once the exclusive province of IT, such as cloud
+migrations or deployment of a new customer data platform.
+Chief executive officer. Chief executive officers (CEOs) at nontech companies gener‐
+ally don’t concern themselves with the nitty-gritty of data frameworks and software.
+Instead, they define a vision in collaboration with technical C-suite roles and com‐
+pany data leadership. Data engineers provide a window into what’s possible with
+28
+|
+Chapter 1: Data Engineering Described
+
+data. Data engineers and their managers maintain a map of what data is available
+to the organization—both internally and from third parties—in what time frame.
+They are also tasked to study primary data architectural changes in collaboration
+with other engineering roles. For example, data engineers are often heavily involved
+in cloud migrations, migrations to new data systems, or deployment of streaming
+technologies.
+Chief information officer. A chief information officer (CIO) is the senior C-suite
+executive responsible for information technology within an organization; it is an
+internal-facing role. A CIO must possess deep knowledge of information technology
+and business processes—either alone is insufficient. CIOs direct the information
+technology organization, setting ongoing policies while also defining and executing
+significant initiatives under the direction of the CEO.
+CIOs often collaborate with data engineering leadership in organizations with a well-
+developed data culture. If an organization is not very high in its data maturity, a CIO
+will typically help shape its data culture. CIOs will work with engineers and architects
+to map out major initiatives and make strategic decisions on adopting major architec‐
+tural elements, such as enterprise resource planning (ERP) and customer relationship
+management (CRM) systems, cloud migrations, data systems, and internal-facing IT.
+Chief technology officer. A chief technology officer (CTO) is similar to a CIO but faces
+outward. A CTO owns the key technological strategy and architectures for external-
+facing applications, such as mobile, web apps, and IoT—all critical data sources for
+data engineers. The CTO is likely a skilled technologist and has a good sense of
+software engineering fundamentals and system architecture. In some organizations
+without a CIO, the CTO or sometimes the chief operating officer (COO) plays the
+role of CIO. Data engineers often report directly or indirectly through a CTO.
+Chief data officer. The chief data officer (CDO) was created in 2002 at Capital One
+to recognize the growing importance of data as a business asset. The CDO is respon‐
+sible for a company’s data assets and strategy. CDOs are focused on data’s business
+utility but should have a strong technical grounding. CDOs oversee data products,
+strategy, initiatives, and core functions such as master data management and privacy.
+Occasionally, CDOs manage business analytics and data engineering.
+Chief analytics officer. The chief analytics officer (CAO) is a variant of the CDO
+role. Where both roles exist, the CDO focuses on the technology and organization
+required to deliver data. The CAO is responsible for analytics, strategy, and decision
+making for the business. A CAO may oversee data science and ML, though this
+largely depends on whether the company has a CDO or CTO role.
+Data Engineers Inside an Organization
+|
+29
+
+Chief algorithms officer. A chief algorithms officer (CAO-2) is a recent innovation
+in the C-suite, a highly technical role focused specifically on data science and ML.
+CAO-2s typically have experience as individual contributors and team leads in data
+science or ML projects. Frequently, they have a background in ML research and a
+related advanced degree.
+CAO-2s are expected to be conversant in current ML research and have deep tech‐
+nical knowledge of their company’s ML initiatives. In addition to creating business
+initiatives, they provide technical leadership, set research and development agendas,
+and build research teams.
+Data engineers and project managers
+Data engineers often work on significant initiatives, potentially spanning many years.
+As we write this book, many data engineers are working on cloud migrations,
+migrating pipelines and warehouses to the next generation of data tools. Other data
+engineers are starting greenfield projects, assembling new data architectures from
+scratch by selecting from an astonishing number of best-of-breed architecture and
+tooling options.
+These large initiatives often benefit from project management (in contrast to product
+management, discussed next). Whereas data engineers function in an infrastructure
+and service delivery capacity, project managers direct traffic and serve as gatekeepers.
+Most project managers operate according to some variation of Agile and Scrum, with
+Waterfall still appearing occasionally. Business never sleeps, and business stakehold‐
+ers often have a significant backlog of things they want to address and new initiatives
+they want to launch. Project managers must filter a long list of requests and prioritize
+critical deliverables to keep projects on track and better serve the company.
+Data engineers interact with project managers, often planning sprints for projects
+and ensuing standups related to the sprint. Feedback goes both ways, with data
+engineers informing project managers and other stakeholders about progress and
+blockers, and project managers balancing the cadence of technology teams against
+the ever-changing needs of the business.
+Data engineers and product managers
+Product managers oversee product development, often owning product lines. In the
+context of data engineers, these products are called data products. Data products
+are either built from the ground up or are incremental improvements upon existing
+products. Data engineers interact more frequently with product managers as the
+corporate world has adopted a data-centric focus. Like project managers, product
+managers balance the activity of technology teams against the needs of the customer
+and business.
+30
+|
+Chapter 1: Data Engineering Described
+

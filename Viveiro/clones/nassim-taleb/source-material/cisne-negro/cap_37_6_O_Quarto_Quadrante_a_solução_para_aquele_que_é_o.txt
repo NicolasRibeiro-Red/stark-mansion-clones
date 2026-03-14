@@ -1,0 +1,166 @@
+# 6. O Quarto Quadrante, a solução para aquele que é o mais útil dos problemas
+
+Paginas: 389-393
+
+6. O Quarto Quadrante, a solução para aquele que é o
+mais útil dos problemas1
+Aristóteles caminhava devagar? — Eles seguirão os princípios? — Como fabricar
+uma pirâmide ﬁnanceira e obter crédito por isso
+É muito mais sensato correr riscos que você pode medir do que medir os
+riscos a que você está se expondo.
+Há um ponto especíﬁco no mapa, o Quarto Quadrante, no qual o problema da
+indução e as armadilhas do empirismo ganham vida — o lugar onde, repito, a
+ausência de evidências não se alinha com a evidência de ausência. Esta seção nos
+permitirá basear nossa decisão em fundamentos epistemológicos mais sólidos.
+DESCANSE EM PAZ, DAVID FREEDMAN
+De início, preciso prestar homenagem a um indivíduo com quem o
+conhecimento tem uma importante dívida. David Freedman, o falecido
+estatístico de Berkeley, que, talvez melhor do que qualquer outra pessoa, revelou
+os defeitos do conhecimento estatístico e a inaplicabilidade de alguns dos
+métodos, enviou-me um presente de despedida. Ele deveria ter estado presente
+na reunião da American Statistical Association, que mencionei antes, mas
+cancelou por motivos de saúde. Contudo, ele me preparou para a reunião, com
+uma mensagem que mudou os rumos da ideia do Cisne Negro: esteja preparado;
+eles apresentarão a você um determinado conjunto de argumentos egoístas, e
+você precisará responder a eles. Os argumentos foram listados no livro dele em
+uma seção chamada “A resposta dos modeladores”. Enumero a maior parte deles
+a seguir.
+A resposta dos modeladores: Nós sabemos tudo isso. Nada é perfeito. As
+suposições são razoáveis. As suposições não importam. As suposições são
+
+conservadoras. Você não tem como provar que as suposições estão erradas. Estamos
+apenas fazendo o que todo mundo faz. O tomador de decisões deve estar melhor
+conosco do que sem nós. Os modelos não são totalmente inúteis. Você tem que fazer
+o melhor que puder com os dados. Você tem que fazer suposições para fazer
+progresso. Você tem que dar aos modelos o benefício da dúvida. Que mal há nisso?
+Isso me deu a ideia de usar a abordagem “É aqui que suas ferramentas
+funcionam”, em vez do enfoque “Isso está errado” que eu estava usando antes. A
+mudança de estilo foi o que me rendeu os abraços e o suprimento de Coca-Cola
+Diet e me ajudou a comunicar minha mensagem. Os comentários de David
+também me inspiraram a me concentrar mais na iatrogenia, dano causado pela
+necessidade de usar modelos quantitativos.
+David Freedman faleceu algumas semanas após a reunião.2 Obrigado, David.
+Você estava lá quando o Cisne Negro precisou de você. Que você e sua memória
+descansem em paz.
+O que nos leva à solução. Depois de toda essa indecisão, a situação está longe
+de ser uma calamidade. Por quê? Nós podemos simplesmente construir um mapa
+de onde esses erros são mais graves, aquilo em que devemos prestar atenção.
+DECISÕES
+Quando você olha para o gerador de eventos, consegue distinguir a priori qual
+ambiente pode produzir grandes eventos (o Extremistão) e qual ambiente não é
+capaz de engendrá-los (o Mediocristão). Essa é a única suposição apriorística que
+precisamos fazer. A única.
+Então é isso.
+I. O primeiro tipo de decisão é simples, levando a uma exposição “binária”:
+isto é, você só se preocupa com o fato de algo ser verdadeiro ou falso. Muito
+verdadeiro ou muito falso não lhe traz benefícios ou prejuízos adicionais.
+Exposições binárias não dependem de eventos de alto impacto, pois seu retorno
+é limitado. Uma pessoa está grávida ou não está, então, se ela estivesse
+“extremamente grávida”, a recompensa seria a mesma que se ela estivesse
+“ligeiramente grávida”. Uma aﬁrmação é “verdadeira” ou “falsa” com algum
+intervalo de conﬁança. (Eu as chamo de _0, pois, em uma deﬁnição mais técnica,
+dependem do que é chamado de momento zero, ou seja, da probabilidade dos
+eventos, e não da magnitude deles — a única preocupação é com a probabilidade
+
+“bruta”.) Um experimento biológico em laboratório e uma aposta com um amigo
+sobre o resultado de uma partida de futebol pertencem a essa categoria.
+Claro está, resultados binários não são muito predominantes na vida; existem
+principalmente em experimentos de laboratório e artigos de pesquisa. Na vida, as
+recompensas costumam ser em aberto, ou, pelo menos, variáveis.
+II. O segundo tipo de decisão é mais complexo e envolve mais exposições em
+aberto. Você não se preocupa apenas com a frequência ou probabilidade, mas
+também com o impacto, ou, o que é ainda mais complexo, com alguma função do
+impacto. Portanto, há outra camada de incerteza do impacto. Uma epidemia ou
+uma guerra podem ser leves ou severas. Quando faz um investimento, você não
+se importa com quantas vezes ganha ou perde, você se preocupa com o
+cumulativo, a expectativa: o número de vezes que você ganha ou perde vezes o
+valor ganho ou perdido. Há decisões ainda mais complexas (por exemplo, quando
+alguém está endividado), mas vou ignorá-las aqui.
+Também nos preocupamos com:
+a) quais geradores de eventos pertencem ao Mediocristão (ou seja, é quase
+impossível que desvios muito grandes ocorram), uma suposição a priori.
+b) quais geradores de eventos pertencem ao Extremistão (isto é, desvios muito
+grandes são possíveis, ou mesmo prováveis).
+O que fornece os quatro quadrantes do mapa.
+O QUARTO QUADRANTE, UM MAPA
+Primeiro Quadrante. Recompensas binárias simples, no Mediocristão: fazer
+previsões é seguro, a vida é fácil, os modelos funcionam, todos deveriam ser
+felizes. Essas situações são, infelizmente, mais comuns em laboratórios e jogos do
+que na vida real. Raramente as observamos em recompensas na tomada de
+decisões econômicas. Exemplos: algumas decisões médicas (relativas a um
+paciente individual, não a uma população), apostas em cassinos, mercados de
+previsão.
+  •     
+ “/”
+ 
+Resultados médicos para uma pessoa
+(saúde, não epidemias)
+Epidemias (número de pessoas infectadas)
+Experimentos de psicologia
+(respostas sim/não)
+Sucesso intelectual e artístico (denido como vendas de livros,
+citações etc.)
+Vida/morte (para uma única pessoa,
+Efeitos climáticos (qualquer métrica quantitativa)
+
+não para n pessoas)
+Apostas simétricas na roleta
+Danos de guerra (número de baixas)
+Mercados de previsão
+Segurança, terrorismo, catástrofes naturais (número de vítimas)
+Gerenciamento de riscos em geral
+Finanças: desempenho de um investimento não alavancado
+(digamos, uma conta de aposentadoria)
+Seguro (medidas de perdas esperadas)
+Economia (política)
+Cassinos
+Segundo Quadrante. Recompensas complexas no Mediocristão: métodos
+estatísticos podem funcionar de forma satisfatória, embora haja alguns riscos.
+Verdade seja dita, o uso de modelos do Mediocristão pode não ser uma panaceia,
+devido às pré-assintóticas, falta de independência e erro de modelo. É claro que
+existem problemas aqui, mas eles já foram abordados amplamente na literatura,
+sobretudo por David Freedman.
+Terceiro Quadrante. Recompensas simples no Extremistão: estar errado causa
+pouco dano, porque a possibilidade de eventos extremos não impacta as
+recompensas. Não se preocupe muito com os Cisnes Negros.
+Quarto Quadrante, o domínio do Cisne Negro. Recompensas complexas no
+Extremistão: é aí que reside o problema; oportunidades estão presentes também.
+Precisamos evitar a previsão de retornos remotos, embora não necessariamente
+de retornos comuns. Os ganhos de partes remotas da distribuição são mais
+difíceis de prever do que os de partes mais próximas.3
+Na verdade, o Quarto Quadrante tem duas partes: exposições a Cisnes Negros
+positivos ou negativos. Aqui me concentrarei nos negativos (investigar os
+positivos é óbvio demais, e isso já foi discutido na história de Apeles, o pintor, no
+capítulo 13).
+  •   
+I
+Recompensas simples
+II
+Recompensas complexas
+A
+Mediocristão
+Primeiro Quadrante
+Extremamente seguro
+Segundo Quadrante
+(Mais ou menos) seguro
+B
+Extremistão
+Terceiro Quadrante
+Seguro
+Quarto Quadrante
+Domínio do Cisne Negro
+
+A recomendação é passar do Quarto Quadrante para o terceiro. Não é
+possível alterar a distribuição; é possível mudar a exposição, como discutiremos
+na próxima seção.
+O que posso dizer rapidamente sobre o Quarto Quadrante é que todo o
+ceticismo associado ao problema do Cisne Negro deve ser concentrado lá. Um
+princípio geral é que, embora nos três primeiros quadrantes você possa usar o
+melhor modelo ou a melhor teoria que conseguir encontrar, e conﬁar neles, fazer
+isso é perigoso no Quarto Quadrante: nenhuma teoria ou modelo deveria
+simplesmente ser melhor do que qualquer teoria ou modelo.
+Em outras palavras, o Quarto Quadrante é onde a diferença entre ausência de
+evidências e evidência de ausência torna-se aguda.
+A seguir, veremos como podemos sair do Quarto Quadrante ou mitigar seus
+efeitos.
+

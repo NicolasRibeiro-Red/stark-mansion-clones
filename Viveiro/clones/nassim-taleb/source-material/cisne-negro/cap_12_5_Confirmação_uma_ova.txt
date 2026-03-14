@@ -1,0 +1,412 @@
+# 5. Confirmação uma ova!
+
+Paginas: 71-82
+
+5. Conﬁrmação uma ova!
+Tenho tantas evidências — Zootrópios podem (às vezes) ser bronópios? —
+Corroboração coisa nenhuma! — Ideia de Popper
+Por mais que esteja enraizada em nossos hábitos e na sabedoria convencional, a
+conﬁrmação pode ser um erro perigoso.
+Suponha que eu lhe dissesse ter provas de que o jogador de futebol americano
+O. J. Simpson (acusado de matar a esposa na década de 1990) não era um
+criminoso. “Olha só, ainda outro dia eu tomei café da manhã com ele, e ele não
+matou ninguém. Estou falando sério, nunca o vi matar uma única pessoa que
+fosse.” Isso não conﬁrmaria a inocência dele? Se eu dissesse uma coisa dessas,
+você certamente ligaria para um psiquiatra, uma ambulância, ou talvez até mesmo
+para a polícia, já que é possível que você pensasse que eu tinha passado tempo
+demais em algum pregão ou em cafés matutando sobre o tópico dos Cisnes
+Negros, e que a minha lógica poderia representar um perigo tão imediato para a
+sociedade que eu precisaria ser trancaﬁado urgentemente em um hospício.
+Você teria a mesma reação se eu lhe dissesse que outro dia tirei uma soneca
+nos trilhos da ferrovia de New Rochelle, estado de Nova York, e não morri
+esmagado pelo trem. “Ei, olha só pra mim, estou vivo”, eu diria, “e isso é
+evidência de que deitar nos trilhos não oferece riscos”. No entanto, leve em conta
+o seguinte. Examine novamente a ﬁgura 1 do capítulo 4; alguém que observou os
+primeiros mil dias do peru (mas não o choque do 1001º dia) diria a você, e com
+razão, que não existe evidência alguma da possibilidade de grandes eventos, isto é,
+Cisnes Negros. Contudo, você provavelmente confundirá essa declaração, em
+especial se não prestar detida atenção, com a aﬁrmação de que há evidência de
+nenhuma possibilidade de ocorrência de Cisnes Negros. Mesmo que na prática
+seja vasta, a distância lógica entre as duas aﬁrmações parecerá muito curta na sua
+mente, de modo que uma pode ser facilmente substituída pela outra. Daqui a dez
+
+dias, se é que você ainda vai conseguir se lembrar minimamente da primeira
+aﬁrmação, é provável que retenha a segunda e imprecisa versão — a de que há
+provas de que não existem Cisnes Negros. Chamo essa confusão de “falácia de ida e
+volta”, uma vez que essas declarações não são intercambiáveis.
+Essa confusão das duas declarações sugere um erro lógico muito trivial
+(embora decisivo), mas não somos imunes a erros lógicos triviais, tampouco
+professores e pensadores são imunes a eles (equações complicadas não tendem a
+conviver felizes da vida com a clareza mental). A menos que nos concentremos
+muito, é provável que, sem querer, simpliﬁquemos o problema, porque nossa
+mente faz isso rotineiramente, sem que tenhamos consciência.
+Vale a pena um exame mais profundo aqui.
+Muitas pessoas confundem a aﬁrmação “quase todos os terroristas são
+muçulmanos” com “quase todos os muçulmanos são terroristas”. Suponha que a
+primeira aﬁrmação seja verdade, que 99% dos terroristas sejam muçulmanos.
+Isso signiﬁcaria que apenas cerca de 0,001% dos muçulmanos são terroristas, já
+que há mais de 1 bilhão de muçulmanos e apenas, digamos, dez mil terroristas,
+um em cada cem mil. Então, o erro lógico faz você (inconscientemente)
+superestimar em quase 50 mil vezes as probabilidades de um indivíduo
+muçulmano escolhido aleatoriamente (entre as idades de, digamos, quinze e
+cinquenta anos) ser um terrorista!
+O leitor pode ver nessa falácia de ida e volta a injustiça dos estereótipos —
+minorias em áreas urbanas nos Estados Unidos sofrem com a mesma confusão:
+embora a maioria dos criminosos venha de seu subgrupo étnico, a maior parte de
+seu subgrupo étnico não é de criminosos, mas ainda é vítima de discriminação
+por parte de pessoas que deveriam ter mais discernimento.
+“Eu nunca quis dizer que os conservadores em geral são estúpidos. Eu quis
+dizer que pessoas estúpidas em geral são conservadoras”, queixou-se certa vez
+John Stuart Mill. Trata-se de um problema crônico: se você disser às pessoas que
+a chave para o sucesso nem sempre é o talento, elas pensam que você está lhes
+dizendo que nunca é uma questão de talento, mas sempre de sorte.
+Nosso maquinário de inferências, aquele que usamos na vida cotidiana, não foi
+feito para um ambiente complicado no qual uma aﬁrmação sofre alteração
+substancial ao ser formulada com uma ligeira diferença. Leve em conta que, em
+um ambiente primitivo, não há diferença signiﬁcativa entre as aﬁrmações
+assassinos são, em sua maioria, animais selvagens e em sua maioria, os animais
+selvagens são assassinos. Há um erro aqui, mas é quase irrelevante. Nossas
+
+intuições estatísticas não evoluíram para um hábitat em que essas sutilezas
+podem fazer uma grande diferença.
+Zootrópios não são todos bronópios
+Todos os zootrópios são bronópios. Você viu um bronópio. É um zootrópio? Não
+necessariamente, uma vez que nem todos os bronópios são zootrópios; adolescentes
+que cometem um erro ao responder a esse tipo de questão em uma prova de
+vestibular talvez não consigam entrar na universidade. Entretanto, outras pessoas
+podem obter pontuações muito altas nas provas de vestibular e ainda assim
+sentirem um arrepio de medo toda vez que alguém com aparência de morador da
+periferia entra no elevador. Essa incapacidade de transferir automaticamente
+conhecimento e soﬁsticação de uma situação para outra, ou da teoria para a
+prática, é um atributo bastante perturbador da natureza humana.
+Vamos chamá-lo de a especiﬁcidade de domínio das nossas reações. Por
+especiﬁcidade de domínio quero dizer que nossas reações, nosso modo de
+pensar, nossas intuições dependem do contexto em que o assunto é apresentado,
+o que psicólogos evolucionistas chamam de “domínio” do objeto ou do evento. A
+sala de aula é um domínio; a vida real é outro. Reagimos a uma informação não
+por seu mérito lógico, mas tendo por base o contexto que a envolve, como ela é
+registrada em nosso sistema socioemocional e que efeito ela surte aí. Problemas
+lógicos abordados de uma maneira na sala de aula podem ser tratados de maneira
+diferente na vida cotidiana. Na verdade, são tratados de forma diferente na vida
+cotidiana.
+O conhecimento, mesmo quando é exato, nem sempre leva a ações
+apropriadas porque tendemos a esquecer o que sabemos, ou a esquecer como
+processar o que sabemos da maneira adequada se não prestarmos atenção,
+mesmo quando somos especialistas. Os estatísticos, foi demonstrado, tendem a
+deixar o cérebro dentro da sala de aula e cometer os erros dedutivos mais triviais
+tão logo saem às ruas. Em 1971, os psicólogos Danny Kahneman e Amos Tversky
+atormentaram professores de estatística com questões estatísticas que não eram
+formuladas como tais. Uma delas era mais ou menos a seguinte (mudando o
+exemplo em nome da maior clareza): suponha que você more em uma cidade
+onde há dois hospitais — um de grande porte, o outro pequeno. Em um
+determinado dia, 60% dos bebês nascidos em um dos dois hospitais são
+meninos. Em qual dos hospitais é mais provável que isso tenha acontecido?
+Muitos estatísticos cometeram o equivalente ao erro (durante uma conversa
+informal) de escolher o maior hospital, quando na verdade a própria base da
+
+estatística é que grandes amostragens são mais estáveis e ﬂutuam menos em
+relação à média de longo prazo — aqui, 50% para cada sexo — do que
+amostragens menores. Esses estatísticos teriam sido reprovados em suas próprias
+provas. Durante meus dias de quant, contei centenas desses graves tipos de erros
+de inferência cometidos por estatísticos que se esqueceram de que eram
+estatísticos.
+Para outra ilustração de como podemos ser ridiculamente especíﬁcos de
+domínio na vida cotidiana, vá à luxuosa academia de musculação Reebok Sports
+Club na cidade de Nova York e veja o número de pessoas que, depois de terem
+usado a escada rolante para subir alguns andares, rumam direto para se exercitar
+na StairMasters, a máquina estacionária que simula o ato de subir uma escada.
+Essa especiﬁcidade de domínio de nossas inferências e reações funciona como
+uma via de mão dupla: somos capazes de compreender alguns problemas em suas
+aplicações, mas não em livros didáticos; outros, compreendemos melhor em
+livros do que na aplicação prática. As pessoas podem conseguir resolver
+facilmente um problema em uma situação social, mas pelejar quando ele é
+apresentado em termos de um problema lógico abstrato. Temos a tendência de
+usar diferentes maquinários mentais — chamados de módulos — em situações
+diferentes: nosso cérebro não dispõe de um computador central multiúso que
+funciona com regras lógicas e as aplica igualmente a todas as situações possíveis.
+E, como eu disse, podemos cometer um erro lógico na realidade, mas não na
+sala de aula. Essa assimetria é mais evidente na detecção do câncer. Veja o caso
+de médicos examinando um paciente em busca de sinais de câncer; os testes
+normalmente são feitos em pacientes que desejam saber se estão curados ou se há
+“recorrência”. (Na verdade, recorrência é um nome inadequado; signiﬁca apenas
+que o tratamento não matou todas as células cancerosas e que essas células
+malignas não detectadas começaram a se multiplicar descontroladamente.) Não é
+viável, no atual estado de tecnologia, examinar cada uma das células do paciente a
+ﬁm de ver se todas são não malignas, então o médico tira uma amostra
+examinando o corpo com a maior precisão possível. Em seguida, ele faz uma
+suposição sobre o que não viu. Certa vez, ﬁquei perplexo quando, depois de um
+exame de câncer de rotina, um médico me disse: “Pare de se preocupar, temos
+evidências de cura”. “Por quê?”, perguntei. “As evidências são de que não há
+câncer” foi a resposta. “Como você sabe?”, insisti. Ele respondeu: “O
+escaneamento deu negativo”. Ainda assim, ele andava por aí dizendo que era
+médico!
+
+Uma sigla usada na literatura médica é `>:, que signiﬁca Nenhuma Evidência
+de Doença. Não existe o acrônimo >`:, Evidência de Nenhuma Doença. No
+entanto, minha experiência discutindo esse assunto com uma miríade de
+médicos, até mesmo aqueles que publicam artigos sobre seus resultados, é que
+durante a conversa muitos deles descambam para a falácia de ida e volta.
+Em meio à arrogância cientíﬁca da década de 1960, os médicos
+menosprezaram o leite materno como algo primitivo, como se ele pudesse ser
+reproduzido em seus laboratórios — sem perceber que o leite materno poderia
+incluir componentes úteis que talvez tivessem escapado ao seu entendimento
+cientíﬁco — uma simples confusão entre ausência de evidências dos benefícios do
+leite materno e evidência de ausência dos benefícios (outro caso de platonicidade,
+uma vez que “não fazia sentido” amamentar quando podíamos simplesmente usar
+mamadeiras). Muitas pessoas pagaram o preço por essa inferência ingênua: no
+ﬁm, ﬁcou claro que quem não tinha sido amamentado quando bebê corria um
+risco maior de uma série de problemas de saúde, incluindo maior probabilidade
+de desenvolver certos tipos de câncer — devia haver no leite materno alguns
+nutrientes necessários que ainda escapam ao nosso entendimento. Além disso,
+também foram negligenciados os benefícios para as mães que amamentam, a
+exemplo da redução do risco de câncer de mama.
+A mesma coisa com as amígdalas: a extração das amígdalas pode levar a uma
+maior incidência de câncer de garganta, mas durante décadas os médicos jamais
+suspeitaram que esse tecido “inútil” poderia realmente ter alguma utilidade que
+escapasse à sua detecção. Caso idêntico ocorreu com a ﬁbra alimentar encontrada
+em frutas e vegetais: na década de 1960, os médicos a consideravam inútil
+porque não viam nenhuma evidência imediata de sua necessidade, e assim
+criaram uma geração de desnutridos. Constatou-se que a ﬁbra atua para retardar
+a absorção de açúcares no sangue e limpa o trato intestinal de células pré-
+cancerosas. Verdade seja dita, ao longo da história a medicina causou um bocado
+de danos devido a esse tipo simples de confusão dedutiva.
+Não estou dizendo aqui que os médicos não devam ter convicções, apenas que
+alguns tipos de convicções deﬁnitivas e de mente fechada precisam ser evitados
+— é isso que Menódoto e sua escola pareciam estar defendendo com sua
+medicina cético-empírica que se esquivava da teorização. A medicina melhorou
+— mas muitos tipos de conhecimento não.
+Evidências
+
+Por meio de um mecanismo mental que chamo de empirismo ingênuo, temos
+uma tendência natural para procurar exemplos que conﬁrmem nossa história e
+nossa visão de mundo — esses exemplos são sempre fáceis de encontrar.
+Infelizmente, com ferramentas e idiotas, qualquer coisa pode ser fácil de
+encontrar. Você pega ocorrências anteriores que corroborem suas teorias e as
+trata como evidências. Por exemplo, um diplomata mostrará a você uma lista de
+“realizações”, não o que ele deixou de fazer. Os matemáticos tentarão convencê-
+lo de que a ciência deles é útil para a sociedade, apontando exemplos onde ela se
+mostrou útil, não as ocasiões em que foi uma perda de tempo ou, pior ainda, as
+inúmeras aplicações que inﬂigiram um severo custo à sociedade por conta da
+natureza pouquíssimo empírica das elegantes teorias matemáticas.
+Mesmo ao testar uma hipótese, tendemos a procurar exemplos nos quais a
+hipótese se prove verdadeira. Claro que podemos encontrar facilmente a
+conﬁrmação; é só procurar, ou pedir a um pesquisador que faça isso por nós.
+Posso encontrar conﬁrmação para quase tudo, da mesma forma que um taxista
+qualiﬁcado de Londres consegue encontrar engarrafamentos, mesmo em um
+feriado, a ﬁm de aumentar a tarifa.
+Algumas pessoas vão além e me dão exemplos de eventos que fomos capazes
+de prever com algum êxito — de fato há alguns, como a aterrissagem do homem
+na Lua e o crescimento econômico do século . Pode-se encontrar muitas
+“contraevidências” para os argumentos deste livro, a melhor delas sendo a de que
+os jornais são excelentes na previsão dos horários de ﬁlmes e peças de teatro.
+Olha só, previ ontem que o sol surgiria no horizonte hoje, e não é que o sol raiou
+mesmo?!
+EMPIRISMO NEGATIVO
+A boa notícia é que existe uma maneira de contornar esse empirismo ingênuo.
+Estou dizendo que uma série de fatos corroborativos não é necessariamente
+evidência. Ver cisnes brancos não conﬁrma a inexistência de cisnes negros. Há
+uma exceção, todavia: sei qual aﬁrmação está errada, mas não necessariamente
+qual aﬁrmação é correta. Se vejo um cisne negro, posso atestar que nem todos os
+cisnes são brancos! Se eu vir alguém cometer um assassinato, então posso
+praticamente ter certeza de que essa pessoa é criminosa. Se não a vejo matar, não
+posso ter certeza de que ela é inocente. O mesmo se aplica à detecção do câncer:
+a descoberta de um único tumor maligno prova que a pessoa tem câncer, mas a
+
+ausência dessa descoberta não permite que ela diga com certeza que está livre do
+câncer.
+Podemos chegar mais perto da verdade por meio de instâncias negativas, não
+por veriﬁcação! É enganoso construir uma regra geral a partir de fatos
+observados. Contrário à sabedoria convencional, nosso corpo de conhecimento
+não aumenta a partir de uma série de observações conﬁrmatórias, como as do
+peru. Mas há algumas coisas sobre as quais posso permanecer cético e outras que
+posso com toda segurança considerar líquidas e certas. Isso torna unilaterais as
+consequências das observações. Não é muito mais difícil do que isso.
+Essa assimetria é muito prática. Ela nos diz que não temos que ser
+completamente céticos, apenas semicéticos. A sutileza da vida real em relação aos
+livros é que, na sua tomada de decisões, você só precisa estar interessado em um
+lado da história: se você buscar certeza de que o paciente tem ou não câncer, em
+vez da certeza de que ele é ou não saudável, então pode ser que você se satisfaça
+com a inferência negativa, pois ela lhe fornecerá a certeza que você procura.
+Portanto, podemos aprender muito com os dados — mas não tanto quanto
+esperamos. Às vezes, um conjunto volumoso de dados pode não ter sentido
+algum; outras vezes, um único naco de informação pode ser bastante signiﬁcativo.
+É verdade que mil dias não podem provar que você está certo, mas um único dia
+é capaz de provar que você está errado.
+A pessoa a quem se atribui a promoção dessa ideia de semiceticismo unilateral
+é sir doktor professor Karl Raimund Popper, que talvez seja o único ﬁlósofo da
+ciência realmente lido e discutido por atores do mundo real (embora não com o
+mesmo entusiasmo por ﬁlósofos proﬁssionais). Enquanto escrevo estas linhas,
+uma fotograﬁa em preto e branco dele está pendurada na parede do meu
+escritório. Foi um presente que ganhei em Munique do ensaísta Jochen Wegner,
+que, como eu, considera que Popper é praticamente tudo “o que temos” entre os
+pensadores modernos — bem, quase. Ele escreve para nós, não para outros
+ﬁlósofos. “Nós” somos os tomadores de decisões empíricos que defendem a ideia
+de que a incerteza é a nossa disciplina, e que a compreensão de como agir sob
+condições de informação incompleta é a mais elevada e mais urgente das
+empreitadas humanas.
+Popper gerou uma teoria em grande escala em torno dessa assimetria, com
+base em uma técnica chamada “falseabilidade” ou “refutabilidade” (falsiﬁcar é
+refutar, provar que algo ou alguém está errado), cujo intuito era fazer uma
+
+distinção entre ciência e não ciência, e as pessoas imediatamente começaram a
+mergulhar em discussões tolas sobre seus detalhes técnicos, embora não seja a
+mais interessante, tampouco a mais original das ideias de Popper. Essa ideia
+sobre a assimetria de conhecimento é tão apreciada pelos praticantes porque é
+óbvia para eles; é a maneira como administram seus negócios. O ﬁlósofo maudit
+Charles Sanders Peirce, que, tal qual um artista, só obteve respeito
+postumamente, também propôs uma versão dessa solução para o Cisne Negro
+quando Popper ainda usava fraldas — algumas pessoas chegaram a chamá-la de
+abordagem Peirce-Popper. A ideia muito mais poderosa e original de Popper é a
+da sociedade “aberta”, que se ﬁa no ceticismo como um modus operandi,
+recusando verdades deﬁnitivas e resistindo a elas. Ele acusou Platão de fechar
+nossa mente, de acordo com os argumentos que descrevi no prólogo. No entanto,
+a maior ideia de Popper foi seu insight acerca da fundamental, severa e incurável
+imprevisibilidade do mundo, e isso deixarei para o capítulo sobre previsão.1
+Claro, não é tão fácil “falsiﬁcar”, ou seja, aﬁrmar com plena certeza que algo
+está errado. Imperfeições no método de testagem podem resultar em um “não”
+equivocado. Pode ser que o médico que encontra células cancerosas esteja
+usando equipamentos defeituosos que causem ilusões de óptica; ou talvez ele seja
+um economista adepto das curvas em forma de sino disfarçado de médico. A
+testemunha ocular de um crime poderia estar bêbada. Mas continua sendo válido
+o argumento de que sabemos o que está errado com muito mais conﬁança do que
+sabemos o que está certo. As unidades de informação não são todas iguais em
+termos de importância.
+Popper introduziu o mecanismo de conjecturas e refutações, que funciona da
+seguinte maneira: você formula uma conjectura (ousada) e começa a procurar a
+observação capaz de provar que você está errado. Essa é a alternativa à nossa
+busca por exemplos conﬁrmatórios. Se você acha que a tarefa é fácil, ﬁcará
+decepcionado — poucos humanos têm uma habilidade natural para fazer isso.
+Confesso que não sou um deles; não é algo natural para mim.2
+Contando até três
+Cientistas cognitivos estudaram nossa tendência natural de procurar apenas
+por corroboração; eles chamam essa vulnerabilidade ao erro de corroboração de
+viés de conﬁrmação. Existem experimentos que mostram que as pessoas se
+concentram apenas nos livros lidos da biblioteca de Umberto Eco. Você pode
+testar uma determinada regra diretamente, observando as instâncias em que ela
+funciona, ou indiretamente, enfocando onde não funciona. Como vimos
+
+anteriormente, casos desconﬁrmatórios são muito mais poderosos para
+estabelecer a verdade. No entanto, tendemos a não ter ciência dessa propriedade.
+O primeiro experimento que conheço a respeito desse fenômeno foi realizado
+pelo psicólogo P. C. Wason. Ele apresentou a sujeitos de pesquisa a sequência
+numérica 2, 4 e 6 e pediu que tentassem adivinhar a regra que a gerava. O
+método de adivinhação dos sujeitos da pesquisa era sugerir outras sequências de
+três números, às quais o experimentador responderia “sim” ou “não” sinalizando
+se as novas sequências estavam consistentes com a regra. Uma vez conﬁantes em
+suas respostas, os sujeitos formulariam a regra. (Observe a semelhança desse
+experimento com a discussão no capítulo 1 sobre a forma como a história se
+apresenta a nós: presumindo que a história é gerada de acordo com alguma lógica,
+vemos apenas os eventos, nunca as regras, mas precisamos supor como é o seu
+funcionamento.) A regra correta era “números em ordem crescente”, nada além
+disso. Pouquíssimos sujeitos da pesquisa descobriram a regra porque, para tanto,
+tinham que apresentar uma série em ordem decrescente (para a qual o
+experimentador responderia “não”). Wason percebeu que os participantes do
+experimento tinham uma regra em mente, mas só davam exemplos cujo intuito
+era conﬁrmá-la, em vez de tentar fornecer séries que fossem inconsistentes com
+sua hipótese. Persistentes, os sujeitos da pesquisa continuaram tentando
+conﬁrmar as regras que eles próprios tinham criado.
+Esse experimento inspirou uma série de testes semelhantes, dentre os quais
+cito outro exemplo: pediu-se a sujeitos de pesquisa que dissessem quais
+perguntas deveriam ser feitas a ﬁm de descobrir se uma pessoa era extrovertida
+ou não, supostamente para outro tipo de experimento. Constatou-se que os
+sujeitos sugeriram principalmente perguntas para as quais uma resposta “sim”
+corroboraria a hipótese.
+Mas existem exceções. Entre elas ﬁguram os grandes mestres do xadrez, que,
+conforme foi demonstrado, concentram-se nos pontos em que um movimento
+especulativo poderia ser fraco; os novatos, em comparação, procuram por
+instâncias conﬁrmatórias em vez de falsiﬁcadoras. Mas não jogue xadrez para
+praticar o ceticismo. Cientistas acreditam que é a busca pelas próprias fraquezas
+que faz deles bons jogadores de xadrez, não a prática do xadrez que os
+transforma em céticos. Da mesma forma, o especulador George Soros, quando
+faz uma aposta ﬁnanceira, continua procurando instâncias que provariam que sua
+teoria inicial estava errada. Isto talvez seja a verdadeira autoconﬁança: a
+capacidade de olhar para o mundo sem ter que encontrar sinais que massageiem
+o próprio ego.3
+
+Lamentavelmente, a noção de corroboração está enraizada em nossos hábitos
+intelectuais e em nosso discurso. Reﬂita sobre o seguinte comentário do escritor
+e crítico John Updike: “Quando Julian Jaynes […] especula que até o ﬁnal do
+segundo milênio a.C. os homens não tinham consciência, mas obedeciam
+automaticamente às vozes dos deuses, ﬁcamos espantados, mas compelidos a
+acompanhar essa extraordinária tese do início ao ﬁm de todas as evidências
+corroborativas”. A tese de Jaynes pode estar certa, mas, sr. Updike, o problema
+central do conhecimento (e o cerne deste capítulo) é que não existe essa criatura
+chamada de evidência corroborativa.
+Vi outro Mini Cooper vermelho!
+A questão a seguir ilustra ainda mais o absurdo de conﬁrmação. Se você
+acredita que avistar um cisne branco adicional trará a conﬁrmação de que não
+existem cisnes negros, então tem que aceitar também a declaração, calcada em
+razões puramente lógicas, de que o avistamento de um Mini Cooper vermelho
+deveria conﬁrmar que não existem cisnes negros.
+Por quê? Basta considerar que a aﬁrmação “todos os cisnes são brancos” é
+equivalente a “todos os objetos não brancos não são cisnes.” O que conﬁrma a
+última aﬁrmação deveria conﬁrmar a primeira. Portanto, uma mente com um viés
+de conﬁrmação deduziria que o avistamento de um objeto não branco que não é
+um cisne deveria levar a essa conﬁrmação. Esse argumento, conhecido como
+paradoxo do corvo de Hempel, foi redescoberto por meu amigo, o matemático
+(pensante) Bruno Dupire, durante uma de nossas enérgicas caminhadas
+meditativas em Londres — uma daquelas discussões intensas, a ponto de nem
+notarmos a chuva. Ele apontou para um Mini Cooper vermelho e gritou: “Olha
+lá, Nassim, olha! Não existe Cisne Negro!”.
+Nem tudo
+Não somos ingênuos o suﬁciente para acreditar que alguém seja imortal
+porque nunca o vimos morrer, ou que alguém seja inocentado de assassinato
+porque nunca o vimos matar. O problema da generalização ingênua não nos
+assola em todos os âmbitos. Mas os bolsões inteligentes de ceticismo indutivo
+tendem a envolver eventos que encontramos em nosso ambiente natural,
+questões com as quais aprendemos a evitar generalizações tolas.
+Por exemplo, quando se apresenta a crianças a fotograﬁa de um único membro
+de um grupo e se pede a elas que adivinhem as propriedades dos demais
+membros que não aparecem, elas são capazes de selecionar quais atributos
+
+generalizar. Mostre a uma criança a fotograﬁa de uma pessoa obesa, diga a ela que
+é um membro de uma tribo, e peça que ela descreva o restante da população: ela
+(provavelmente) não chegará à conclusão de que todos os membros da tribo têm
+problemas de peso. Mas ela responderia de forma diferente a generalizações
+envolvendo a cor da pele. Se você mostrar à criança pessoas de pele escura e lhe
+pedir que descreva seus companheiros de tribo, ela presumirá que eles também
+têm pele escura.
+Então, parece que somos dotados de instintos indutivos especíﬁcos e
+complexos que nos mostram o caminho. Ao contrário da opinião do formidável
+David Hume, e da tradição dos empiristas britânicos, de que a crença surge do
+costume, pois eles partiam do princípio de que aprendemos generalizações
+exclusivamente a partir da experiência e de observações empíricas, estudos
+comportamentais de bebês demonstraram que nascemos equipados com
+mecanismos mentais que nos levam a generalizar seletivamente a partir de
+experiências (ou seja, adquirimos aprendizagem indutiva em alguns domínios de
+forma seletiva, mas permanecemos céticos em outros). Ao fazermos isso, não
+estamos aprendendo apenas com meros mil dias, mas nos beneﬁciando, graças à
+evolução, da aprendizagem de nossos ancestrais — que conseguiu se inﬁltrar em
+nossa biologia.
+De volta ao Mediocristão
+E pode ser que tenhamos aprendido coisas erradas com nossos ancestrais.
+Especulo aqui que provavelmente herdamos os instintos adequados para a
+sobrevivência na região dos Grandes Lagos da África Oriental, de onde é
+provável que tenhamos vindo, mas decerto esses instintos não estão bem
+adaptados ao ambiente presente, pós-alfabeto, intensamente informativo e
+estatisticamente complexo.
+Com efeito, nosso ambiente é um pouco mais complexo do que nós (e nossas
+instituições) parecemos perceber. Como? O mundo moderno, sendo
+Extremistão, é dominado por eventos raros — raríssimos. Ele pode apresentar
+um Cisne Negro após milhares de cisnes brancos, de modo que precisamos
+protelar nosso julgamento por mais tempo do que estamos inclinados a fazer.
+Como aﬁrmei no capítulo 3, é impossível — biologicamente impossível —
+encontrar um ser humano com centenas de quilômetros de altura, então nossa
+intuição exclui esses eventos. Mas as vendagens de um livro ou a magnitude dos
+eventos sociais não seguem tais restrições. São necessários muito mais do que mil
+dias para aceitar que um escritor é desprovido de talento, que um mercado não
+
+vai quebrar, que uma guerra não vai acontecer, que um projeto é um caso
+perdido, que um país é “nosso aliado”, que uma empresa não irá à falência, que
+certo analista de uma corretora de valores não é um charlatão, ou que um vizinho
+não vai nos atacar. No passado distante, os humanos podiam fazer inferências
+com muito mais precisão e rapidez.
+Ademais, hoje as fontes de Cisnes Negros multiplicaram-se além da
+mensurabilidade.4 No ambiente primitivo, elas estavam limitadas a animais
+selvagens recém-descobertos, novos inimigos e mudanças climáticas abruptas.
+Esses eventos eram suﬁcientemente repetíveis para que desenvolvêssemos um
+medo inato deles. O instinto de fazer inferências muito rapidamente e de
+enxergar “com visão de túnel” (ou seja, enfocar um pequeno número de fontes de
+incerteza, ou causas de Cisnes Negros) permanece bastante enraizado em nós.
+Esse instinto, em uma palavra, é o nosso dilema.
+
